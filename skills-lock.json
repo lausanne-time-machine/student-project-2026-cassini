@@ -1,0 +1,310 @@
+{
+  "version": 1,
+  "skills": {
+    "observable-framework-config": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "4116859ff60a6eaa967f43602c0455a6bd8953d4ffeb4845416ea920b25448c7"
+    },
+    "observable-framework-contributing": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "b28fa3a9c019c8a878a5e3f43f2b0e73d10ed5dfcaa1af6749eacd1b0102d7fd"
+    },
+    "observable-framework-convert": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "ab0fdfea981a99cd33a12d16e7d10f3d5776cf8468c2399eb27a2a3296b33613"
+    },
+    "observable-framework-data-loaders": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "7f1f0b0e0dd690253b38aa94c248134bdd420381189e292d98a4671b407eafc1"
+    },
+    "observable-framework-deploying": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "83448d4ec234bcc74f64d637710f263369676daf8b967122d6fda300e7ab2bc7"
+    },
+    "observable-framework-embeds": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "6bcf9f34c227ad6607958d3514b4008db88401d824d602cc403be726b4da31e9"
+    },
+    "observable-framework-files": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "27f11b0ff9f1b14755645cd17b4afab9faa07069525fe3576f0d2e5bfceb6854"
+    },
+    "observable-framework-getting-started": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "b98da78dd1e0180341ab3d5fa42982e3e27c8e4fb9b3edadb146a1fc72b1edc6"
+    },
+    "observable-framework-imports": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "055abc961882fcd282e2f73d8737cb40273ee364498d97639165b064c0665eed"
+    },
+    "observable-framework-input-button": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "5aeec50df261cd4c6ab73e3d11249f97afd333d786e012baf79d1d88145b4425"
+    },
+    "observable-framework-input-checkbox": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "e9ec025bb06fc1c086edff99fe2e474a090ac2a604d248668a47839cb719fe00"
+    },
+    "observable-framework-input-color": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "a2a056b8783cdf9e43ef2d478f8715065adc7f41c7b7ece99cfbabc5f0b79962"
+    },
+    "observable-framework-input-date": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "1747618c01941aac8f0aa327478fccd8fcf723a9c59b64b776450cfcc0aa5d62"
+    },
+    "observable-framework-input-file": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "3150023e51a55a2b73725e126ff45af956991e3a715de5c4923cc8249351a472"
+    },
+    "observable-framework-input-form": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "cd22032ecf8f2084d42cd95491fed0bc7333f931fe4640df4f2cff52ee4b7595"
+    },
+    "observable-framework-input-radio": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "4dd54a542c8bbb77d889a83500e6a844ae0977e411cce1504ef530b7b7b3f8a2"
+    },
+    "observable-framework-input-range": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "fe94737edd5ab875dd62d57c213b6f37523a492eef2f232ef2e88d03d7e32871"
+    },
+    "observable-framework-input-search": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "98ad7bd2b2040d2ac83fc907f1b55395bb572750a48be0f0ce3835428000bf7a"
+    },
+    "observable-framework-input-select": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "5d387295666450343c2face0b0cc11bf497727a2145215c7e65cdd621903eed5"
+    },
+    "observable-framework-input-table": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "763b428f042e29b6ef679314ed3af12dfcea8f454d14c43a90e8594b49717f4a"
+    },
+    "observable-framework-input-text": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "ea567d934f94fc556c0dbc7eeeb9ba879a25e3af5091dbac800f5ced62703800"
+    },
+    "observable-framework-input-textarea": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "d51684cb3eb63a4cf88139bc4226f7602956cecd9943174447c073e48bdf80eb"
+    },
+    "observable-framework-input-toggle": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "749b35e43e2237f16ec81bdc396fa8d3eb9337c42a2081baacd6bbb7bc10cea6"
+    },
+    "observable-framework-inputs": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "57facd28037fd4f09608dccdb8e9890ed5a1c09f183defb32c61454755586753"
+    },
+    "observable-framework-javascript": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "a5bb271be6b045a88c84c35906bdae38f0ec044640a48ec0982cd35c24bb06a9"
+    },
+    "observable-framework-jsx": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "21812fa999a56493b5592ac6b1008056e8d2f84209ba71f2733a40a9aa13e63a"
+    },
+    "observable-framework-lib-arquero": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "5f02de79f6293bc43825c0fa155e54b1c04167c4783dd2ac6ec8179e9b5af14f"
+    },
+    "observable-framework-lib-arrow": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "dc89a18e522e962ebed1b49d85de3e5a88e1911a31a04e5373820f48eaf733a7"
+    },
+    "observable-framework-lib-csv": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "ff2c7f38502d15cb6441d445690d1071d28bea8e86e22bbf4cb5fec2e4149d9b"
+    },
+    "observable-framework-lib-d3": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "3db43746d69c42654b2aa4d7a7502cd18b28081892cbaa6e16496e1d18e88531"
+    },
+    "observable-framework-lib-deckgl": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "7b15865e11329552aa7e6cf84233b72f5d71f0f9fe710fabdaff49da25ab878a"
+    },
+    "observable-framework-lib-dot": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "a43390763016a7f2ea95757998d1428486152ce3ec89e98c7fdf70c6a773bbda"
+    },
+    "observable-framework-lib-duckdb": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "c4975590f4c160c5bcc1de9c92cdb2c7e8b6bfc80429287d3620262ef4446a70"
+    },
+    "observable-framework-lib-echarts": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "7ba76eefb9dc1cdb122ed863a4869a8005551170cfd9b21201a756bc3a7f8a61"
+    },
+    "observable-framework-lib-generators": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "0751b3c10185887b930eb978856822a71b15f9697b9a862d60babe5fbd2ed00c"
+    },
+    "observable-framework-lib-htl": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "5795b17d7aa95604134f6769b03cc07837a12a00912a76c5c1980a4cfdebbc79"
+    },
+    "observable-framework-lib-jquery-ui": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "c87802822a5b2a94782fb921ef245196539da42eeb3fea47ee36dc2ec9c3f37f"
+    },
+    "observable-framework-lib-leaflet": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "2e822c8678da156d80812859200a975c2b54f88d1394665bd556acdc716d9f8f"
+    },
+    "observable-framework-lib-lodash": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "426d3658b9ddc956bb3192db28b10f9022db5c5a6a5c7df73b712b9cea232abc"
+    },
+    "observable-framework-lib-mapbox-gl": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "a88a03fdca462feb12dcd4c7ad6d21e76d9aa5d987066eb406a987793e8cd096"
+    },
+    "observable-framework-lib-mermaid": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "a5ca1d0f284e9da8558c0e03332e37b2fdce75ef85b59ba3477736a99b06391b"
+    },
+    "observable-framework-lib-mosaic": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "5b27f04f24d305d38c0d3ea10e5dfa73b2dfbaf6141132b7b617855541aacc64"
+    },
+    "observable-framework-lib-plot": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "1014cca3e1574184644ab320924e0974367305ede83c8b3607b631e6a1ac0ffa"
+    },
+    "observable-framework-lib-shapefile": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "52d17e7b7f5a9a264fe90435652c6fe25d8f0baab9de6416e9b0f0b3d6aa76f6"
+    },
+    "observable-framework-lib-sqlite": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "7f335276742ce247ccb6c85859f13f484107066da66107626e8012ac5464c9c8"
+    },
+    "observable-framework-lib-tex": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "2e86bc6a53765bcbe2f3e899ee5055f50ace5ac86832fd53e5048198707386f2"
+    },
+    "observable-framework-lib-topojson": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "46466eb53d3c641e246790cdfba92966ad87e9470e17f1309fb4f13dd58b1af0"
+    },
+    "observable-framework-lib-vega-lite": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "7f9c6ac4077fa25f2d0cecc48bf810255d380fedd00a3af6d236b2f37c907725"
+    },
+    "observable-framework-lib-xlsx": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "b9ad524e4269363764b167faac67677f4265b38b9ee2514712757570b9e32930"
+    },
+    "observable-framework-lib-zip": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "aab03f190c3e2b40395a711deed9715488ec1dd46da95aec88d07c955c3d3440"
+    },
+    "observable-framework-markdown": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "cc4a64fb5eb9c908f351ad13560a04e02f22273783da25f3126fa24c53a7d580"
+    },
+    "observable-framework-overview": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "024d3a0d47ebed776423c6ca7687be160bb6f1df8e5a08b83b7dd0c3d578b572"
+    },
+    "observable-framework-page-loaders": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "f46f7bf855ac620443b097fb6047bd2f7de39dc9f4e0fd971c2bae443411dff3"
+    },
+    "observable-framework-params": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "ed4b1ac1bc114d6616a6f30758757ef8ce67bd37a6dba3ceac26a4dc73a217ee"
+    },
+    "observable-framework-project-structure": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "82a9e48de2a6fea29739a90395938f3e6749438c1613a892d06a0f966a94fdee"
+    },
+    "observable-framework-reactivity": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "73a0c58eba534fa5b64170ac785ad3afd94f3719e04b202eecd6f1bcddea9828"
+    },
+    "observable-framework-sample-datasets": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "4ff85b7792ee5dcb51a144d43e6d43bf7d8490d71022c51d45e071c4c2c226f3"
+    },
+    "observable-framework-sql": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "7b82895e4eeca062e4af15dfa814765d4fb9a95948847160facc87740f3d4112"
+    },
+    "observable-framework-telemetry": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "0fa84342f1b5a5c5577479ddfc1f3624f3f3b4d923fd377a956cb7dd9a30d3a8"
+    },
+    "observable-framework-themes": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "8eab51621b3ca7e496aacf13cf1cbd53c8a796ddd706ec12e2fc9f11efa09cf9"
+    },
+    "observable-framework-what-is": {
+      "source": "spqw/skill-observable-framework",
+      "sourceType": "github",
+      "computedHash": "6601349cdda2f0516071eaf308a5036eba5f79afb63a8c51e35773413acf89a2"
+    }
+  }
+}
