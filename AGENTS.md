@@ -47,6 +47,8 @@ const city = view(Inputs.select(["Lausanne", "Genève"]))
 
 Observable Framework auto-displays the **return value** of a `js` cell only when the cell is a **single expression**. When a cell contains `const` declarations followed by an expression, the expression's display value may be silently dropped.
 
+OUI
+
 ```js
 // BAD — the chart may not render
 const data = [...];
