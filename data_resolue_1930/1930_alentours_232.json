@@ -1,0 +1,78 @@
+{
+  "VINZEL": {
+    "Aubergiste": [
+      "Straub Edouard"
+    ],
+    "Briqueterie": [
+      "Keusen Edouard"
+    ],
+    "Commission scolaire": [
+      "Rossier Alexis",
+      "Cordey Alice"
+    ],
+    "Epicerie; mercerie": [
+      "Rossier Marc"
+    ],
+    "Instituteur": [
+      "Durgnat Emile"
+    ],
+    "Menuisier": [
+      "Cordey François"
+    ],
+    "Pépiniériste": [
+      "Rosset Henri"
+    ],
+    "Propriétaire-rentier": [
+      "de Reding Adélaïde",
+      "de Reding Henri"
+    ],
+    "Poste et téléphone": [
+      "Rossier Marc"
+    ],
+    "Tonnelier": [
+      "Straub Hans"
+    ],
+    "Vignes américaines": [
+      "Rosset H. fils"
+    ],
+    "Vignerons": [
+      "André Louis",
+      "Billard Ed.",
+      "Cherpillod Ernest",
+      "Dupraz Edouard",
+      "Dupraz Ernest",
+      "Marguerat Ami"
+    ],
+    "Vins": [
+      "Straub Edouard, fils"
+    ]
+  },
+  "DISTRICT DE VEVEY": {
+    "Préfet": [
+      "Blanc Henri"
+    ],
+    "Substitut": [
+      "Mayor-Delapraz Jules"
+    ],
+    "Receveur": [
+      "Mercier Fernand"
+    ],
+    "Voyer": [
+      "Ledermann Samuel"
+    ],
+    "Conservateur du registre foncier": [
+      "Blanc Louis"
+    ],
+    "Tribunal de district": [
+      "Petitmermet Robert",
+      "Pilliod Constant",
+      "de Gautard René",
+      "Maron Emile",
+      "Dénéréaz Gustave",
+      "Vulliémoz Louis"
+    ],
+    "Poursuites et faillites": [
+      "Ledermann Ch."
+    ]
+  }
+}

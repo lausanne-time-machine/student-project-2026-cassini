@@ -1,0 +1,245 @@
+{
+  "CHAVORNAY": {
+    "Assesseur": [
+      "Laurent-Hutzener Emile"
+    ],
+    "Auberges et cafés": [
+      "Devenoge Alexis",
+      "Gaillard Charles",
+      "Laurent Charles",
+      "Lehmann Jean-Jacob",
+      "Perey Emma, veuve",
+      "Wellauer Alfred"
+    ],
+    "Briqueterie": [
+      "Barraud & Cie"
+    ],
+    "Charpentiers": [
+      "Berney Julien",
+      "Malherbe David",
+      "Magnin Charles"
+    ],
+    "Charron": [
+      "Vittoz Henri-Louis"
+    ],
+    "Chef de gare": [
+      "Æschlimann"
+    ],
+    "Chef de section": [
+      "Beauverd Louis"
+    ],
+    "Commission scolaire": [
+      "Rochat Louis",
+      "Auberson Constant"
+    ],
+    "Draperie": [
+      "Malherbe-Schmid Auguste",
+      "Favre Emma",
+      "Beauverd Félicie"
+    ],
+    "Electricien": [
+      "Monneyron François"
+    ],
+    "Entrepreneur": [
+      "Gabella Joseph"
+    ],
+    "Epicerie, mercerie": [
+      "Beauverd Félicie",
+      "Berney-Viglino Alpina",
+      "Favre Emma",
+      "Malherbe-Schmid Aug."
+    ],
+    "Fondeur de cloches et clochettes": [
+      "Viglino Jean"
+    ],
+    "Huilerie": [
+      "Moulin agricole"
+    ],
+    "Inspecteur du bétail": [
+      "Beauverd Auguste"
+    ],
+    "Instituteurs": [
+      "Brunet Aloïs",
+      "Beauverd Clara",
+      "Favre Adèle",
+      "Pidoux Marie"
+    ],
+    "Laitiers": [
+      "Gerber Samuel",
+      "Siegenthaler Daniel, veuve"
+    ],
+    "Maréchaux": [
+      "Beauverd Jules",
+      "Lombardet Jean"
+    ],
+    "Menuisier": [
+      "Zwahlen Alfred"
+    ],
+    "Meunier": [
+      "Société du Moulin agricole"
+    ],
+    "Officier d'état civil": [
+      "Beauverd François"
+    ],
+    "Pasteur": [
+      "Rochat Louis"
+    ],
+    "Pensions": [
+      "Malherbe-Rebillet Julie, Vve",
+      "Rochat Louis"
+    ],
+    "Poste": [
+      "Laurent Constant"
+    ],
+    "Rentiers": [
+      "Belin Jules",
+      "Cabe Walther"
+    ],
+    "Sages-femmes": [
+      "Despland Louise",
+      "Malherbe Aline"
+    ],
+    "Scieur": [
+      "Agassiz Edouard"
+    ],
+    "Sociétés": [
+      "De fromagerie du bas du village",
+      "De fromagerie de Crausaz",
+      "Vaudoise d'électrochimie"
+    ],
+    "Télégraphe et téléphone": [
+      "Laurent Ch."
+    ],
+    "Tisserand": [
+      "Schmid Wilh."
+    ],
+    "Vignerons": [
+      "Bousson Emile",
+      "Gillabert Félix",
+      "Gillabert Louis",
+      "Lambert Emile",
+      "Laurent Charles",
+      "Malherbe Alfred",
+      "Perriraz-Pantet François"
+    ]
+  },
+  "LES CLÉES-LA-RUSSILLE": {
+    "Autorités communales": [
+      "Conod François-Louis",
+      "Conod Francis",
+      "Conod Fritz",
+      "Conod Auguste",
+      "Conod Georges",
+      "Conod Charles",
+      "Conod Emile",
+      "Blanchet Alfred",
+      "Jaccard Paul",
+      "Conod John",
+      "Conod Emile"
+    ],
+    "Agriculteurs": [
+      "Baudat Henri",
+      "Blanchet Eugène",
+      "Blanchet Gustave",
+      "Conod Alfred",
+      "Conod Jules-Louis",
+      "Conod Georges",
+      "Conod Fritz",
+      "Hercod Louis",
+      "Jaccard Jean-François",
+      "Lambercy Jean"
+    ],
+    "Aubergiste": [
+      "Blanchet Alfred"
+    ],
+    "Chef de section": [
+      "Bonod Jules-Louis"
+    ],
+    "Commission scolaire": [
+      "Blanchet Eugène",
+      "Margot Ami"
+    ],
+    "Electricien": [
+      "Chamois Pierre"
+    ],
+    "Epicerie, mercerie": [
+      "Baudat, veuve d'Elie"
+    ],
+    "Garde-forestier cantonal": [
+      "Conod Chs."
+    ],
+    "Instituteurs": [
+      "Liardet Emile",
+      "Conod Augustine"
+    ],
+    "Laitier": [
+      "Bulle Léon"
+    ],
+    "Rentier": [
+      "Conod Victor"
+    ],
+    "Scieur": [
+      "Conod Jules-Louis"
+    ],
+    "Sociétés": [
+      "De fromagerie des Clées",
+      "Du battoir à grains",
+      "De fromagerie de la Rusille",
+      "Du pressoir de la Rusille",
+      "De l'Usine électrique"
+    ],
+    "Téléphonistes": [
+      "Blanchet Alfred",
+      "Jaccard Jean-François"
+    ],
+    "Voituriers": [
+      "Blanchet Eugène",
+      "Conod Henri"
+    ]
+  },
+  "CORCELLES-sur-CHAVORNAY": {
+    "Autorités communales": [
+      "Werly Emile-Auguste",
+      "Werly Adrien",
+      "Werly Gustave",
+      "Magnin Alfred",
+      "Werly Emile",
+      "Favre Alfred",
+      "Magnin Georges",
+      "Werly Alfred",
+      "Magnin Héli",
+      "Benoit Jean",
+      "Magnin Georges"
+    ],
+    "Agriculteurs": [
+      "Audrain frères",
+      "Charles Henri",
+      "Charles Emile et Jules",
+      "Favre Alfred",
+      "Favre Edouard",
+      "Favre Eugène",
+      "Girard Auguste",
+      "Gobalet François",
+      "Gorin frères",
+      "Jaquier Emile",
+      "Jaquier Constant",
+      "Kopf Alfred",
+      "Léonard Constant",
+      "Léonnard sœurs",
+      "Léonnard Jules",
+      "Logoz Henri",
+      "Magnin Auguste",
+      "Magnin Charles",
+      "Magnin frères",
+      "Magnin Félix",
+      "Magnin Gustave",
+      "Pellaton Lucien",
+      "Werly Alfred",
+      "Werly Jules",
+      "Werly Louis",
+      "Werly Gustave",
+      "Werly Ulysse",
+      "Werly"
+    ]
+  }
+}

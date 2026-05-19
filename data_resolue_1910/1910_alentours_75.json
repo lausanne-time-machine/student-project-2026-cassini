@@ -1,0 +1,271 @@
+{
+  "FIEZ": {
+    "Tailleuses": [
+      "Kiener Lydie",
+      "Quinche Marguerite",
+      "Walther Marie-Anne"
+    ],
+    "Téléphone": [
+      "Kunz Charles"
+    ],
+    "Vétérinaire": [
+      "Kunz Charles T."
+    ],
+    "Vins (marchand de)": [
+      "Gilliard John",
+      "Porchet Constant",
+      "Taillefert J."
+    ],
+    "Vignerons": [
+      "Amiet Louis",
+      "Amiet Henri",
+      "Carrard Louis",
+      "Dé raz Frédéric",
+      "Dupraz J",
+      "Vautravers Alexis"
+    ]
+  },
+  "FONTAINES": {
+    "Président du Conseil général": [
+      "Boulaz David, dit Sylvain"
+    ],
+    "Secrétaire": [
+      "Cruchaud Maurice",
+      "Burdet Louis"
+    ],
+    "Syndic": [
+      "Cruchaud Alfred"
+    ],
+    "Municipaux": [
+      "Auberson Lucien",
+      "Cruchaud Louis",
+      "Giroud Alexis",
+      "Roulet Adolphe"
+    ],
+    "Boursier": [
+      "Auberson Lucien"
+    ],
+    "Agriculteurs": [
+      "Auberson frères",
+      "Chevalier Jules",
+      "Chevalier Louis",
+      "Franel Georges",
+      "Jaquemet",
+      "Bovard Louis"
+    ],
+    "Boisselier": [
+      "Boulaz Félix"
+    ],
+    "Cafés": [
+      "Cercle des agriculteurs",
+      "Giroud Alexis"
+    ],
+    "Commission scolaire": [
+      "Cruchaud Alfred",
+      "Cruchaud Maurice",
+      "Giroud Louis"
+    ],
+    "Epiceries": [
+      "Duvoisin Félix",
+      "Roulet Adolphe"
+    ],
+    "Inspecteur du bétail": [
+      "Giroud Alexis"
+    ],
+    "Instituteur": [
+      "Miauton William"
+    ],
+    "Institutrice": [
+      "Meigniez Nancy"
+    ],
+    "Maréchal": [
+      "Chassot Marcelin"
+    ],
+    "Scierie": [
+      "Cruchaud frères"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "Du Cercle des Agriculteurs",
+      "De tir aux armes de guerre"
+    ],
+    "Tailleur et coiffeur": [
+      "Obrecht Ferdinand"
+    ],
+    "Tonnelier": [
+      "Baltensperger Gottfried"
+    ],
+    "Vétérinaire": [
+      "Roulet André"
+    ],
+    "Vins (commerce de)": [
+      "Giroud Alexis"
+    ]
+  },
+  "FONTANEZIER": {
+    "Président du Conseil général": [
+      "Duvoisin Louis"
+    ],
+    "Secrétaire": [
+      "Chabloz Léon",
+      "Duvoisin Ernest"
+    ],
+    "Syndic": [
+      "Duvoisin Michel"
+    ],
+    "Municipaux": [
+      "Perret Michel",
+      "Duvoisin Edouard",
+      "Duvoisin Sylvain",
+      "Duvoisin Edmond"
+    ],
+    "Boursier": [
+      "Perret Arthur"
+    ],
+    "Agriculteurs": [
+      "Duvoisin Edouard",
+      "Duvoisin Edmond",
+      "Duvoisin Ernest",
+      "Duvoisin Fritz",
+      "Duvoisin Henri",
+      "Duvoisin Michel",
+      "Duvoisin Sylvain",
+      "Perret Arthur"
+    ],
+    "Aubergiste": [
+      "Chabloz Léon"
+    ],
+    "Commission scolaire": [
+      "Duvoisin Ernest",
+      "Duvoisin Sylvain",
+      "Perret Arthur"
+    ],
+    "Epicerie": [
+      "Duvoisin Lucien"
+    ],
+    "Fromages (comm. de)": [
+      "Niquille François"
+    ],
+    "Instituteur": [
+      "Glardon Alexis"
+    ],
+    "Laitier": [
+      "Bovay Henri"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Vannerie (comm. de)": [
+      "Jaquemet Jean",
+      "Perret Arthur",
+      "Perret Frédéric"
+    ]
+  },
+  "GJEZ": {
+    "Président du Conseil général": [
+      "Cruchet Jules"
+    ],
+    "Secrétaire": [
+      "Compondu Henri",
+      "Compondu Aimé"
+    ],
+    "Syndic": [
+      "Compondu Ernest"
+    ],
+    "Municipaux": [
+      "Groux Jules",
+      "Compondu Gustave",
+      "Montandon Edouard",
+      "Compondu Justin"
+    ],
+    "Boursier": [
+      "Courvoisier Charles"
+    ],
+    "Agriculteurs": [
+      "Blœsch Alexandre",
+      "Bourgeois Victorine",
+      "Compondu Ami",
+      "Compondu Ernest",
+      "Compondu Eugène",
+      "Compondu Justin",
+      "Courvoisier Aimé",
+      "Courvoisier Alfred",
+      "Cruchet Alphonse",
+      "Cruchet frères",
+      "de Rham Blanche",
+      "Duvoisin Henri",
+      "Groux Ferdinand",
+      "Herren père",
+      "Malherbe Emile",
+      "Périllard Henri",
+      "Périllard Louis",
+      "Schaffroth Eugène"
+    ],
+    "Balanciers (fabr. de)": [
+      "Marthe L., père"
+    ],
+    "Blanchisseuse": [
+      "Compondu Marianne"
+    ],
+    "Boucher": [
+      "Compondu Henri"
+    ],
+    "Bois (march. de)": [
+      "Compondu Eug.",
+      "Groux Justin",
+      "Groux Jean"
+    ],
+    "Café": [
+      "Meillard Louis"
+    ],
+    "Charpentier": [
+      "Montandon Edouard"
+    ],
+    "Commission scolaire": [
+      "Cruchet Denis",
+      "Simonin Ami",
+      "Compondu Ami",
+      "Compondu Aimé",
+      "Jayet Aloïs"
+    ],
+    "Epicerie, mercerie": [
+      "Meillard Louis",
+      "Meylan Charles"
+    ],
+    "Inspecteur du bétail": [
+      "Compondu Henri"
+    ],
+    "Instituteurs": [
+      "Chautems Berthe",
+      "Devenoge Henri"
+    ],
+    "Régisseur": [
+      "Jayet Aloïs"
+    ],
+    "Rentières": [
+      "Bourgeois-Lachaise, dame",
+      "Bourgeois-Brière, dame"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Tailleuses": [
+      "Groux Ida",
+      "Meylan Adèle"
+    ],
+    "Téléphoniste": [
+      "Meillard, dame"
+    ]
+  },
+  "GRANDEVENT": {
+    "Président du Conseil général": [
+      "Ray Aimé"
+    ],
+    "Secrétaire": [
+      "Dannelet Ch."
+    ],
+    "Syndic": [
+      "Giroud Jules"
+    ]
+  }
+}

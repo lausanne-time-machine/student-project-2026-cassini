@@ -1,0 +1,287 @@
+{
+  "LA CHAUX": {
+    "Municipaux": [
+      "Guex, Adrien",
+      "Rosset, Daniel",
+      "Voland, Henri",
+      "Voland, Eugène"
+    ],
+    "Secrétaire": [
+      "Guex, François"
+    ],
+    "Boursier": [
+      "Guex, Jules"
+    ],
+    "Aubergistes": [
+      "Rosset, frères",
+      "Clément, Rodolphe"
+    ],
+    "Charpentier": [
+      "Humbert, Gabriel"
+    ],
+    "Charron": [
+      "Genier, Louis"
+    ],
+    "Commission scolaire": [
+      "Walter, Louis",
+      "Guex, Jules",
+      "Thormeyer, Henri"
+    ],
+    "Cordonnier": [
+      "Voland, Louis"
+    ],
+    "Epicerie, merc., tabacs": [
+      "Chamot, Jenny",
+      "Mingard, Jules. R."
+    ],
+    "Ferblantier": [
+      "Burnens, Charles"
+    ],
+    "Inspecteur du bétail": [
+      "Guex, François"
+    ],
+    "Instituteurs": [
+      "Vuillemin, Edouard",
+      "Prior, Isabelle"
+    ],
+    "Laitier": [
+      "Berger, Ernest"
+    ],
+    "Maçon": [
+      "Danini, Antoine"
+    ],
+    "Maréchaux": [
+      "David, Henri",
+      "Magnin, Emile"
+    ],
+    "Menuisier": [
+      "Humbert, Gabriel"
+    ],
+    "Meunier": [
+      "Doy, Auguste"
+    ],
+    "Poste et téléphone": [
+      "Rossy, Louise"
+    ],
+    "Poterie, quincaillerie": [
+      "Mingard, Jules"
+    ],
+    "Sabotiers": [
+      "Moser, Henri",
+      "Vuichet, Louis"
+    ],
+    "Scierie": [
+      "Doy, Auguste"
+    ],
+    "Sage-femme": [
+      "Benggely, Anaïs"
+    ],
+    "Sociétés": [
+      "Société du four d'Ittens. R",
+      "Société du four de la Chaux. R",
+      "Société de fromagerie. R",
+      "Société du poids public de la Chaux. R",
+      "Syndicat agricole de la Chaux. R."
+    ],
+    "Tailleuses": [
+      "Dupuis, Lina",
+      "Berthold, Aline"
+    ],
+    "Toilerie": [
+      "Mingard, Jules. R."
+    ]
+  },
+  "LA SARRAZ": {
+    "Autorités communales": [
+      "Knebel"
+    ],
+    "Municipaux": [
+      "Cuhat, Henri",
+      "Develey, Louis",
+      "Huguenin",
+      "Picot, Georges",
+      "Rollier, François",
+      "Wannaz, Henri"
+    ],
+    "Secretaire": [
+      "Marchand, Chs"
+    ],
+    "Boursier": [
+      "Picot, Henri"
+    ],
+    "Huissier": [
+      "Cugny, Jn-Marc"
+    ],
+    "Bandagiste": [
+      "Laurent, Esther"
+    ],
+    "Banque": [
+      "Agence de l'Union vaudoise du Credit"
+    ],
+    "Bijoutier": [
+      "Walther, Louis. R."
+    ],
+    "Blanchisseuse": [
+      "Velay, Marie"
+    ],
+    "Bouchers": [
+      "Brascher, Alfred",
+      "Baitinger, Jean"
+    ],
+    "Boulangers": [
+      "Décoppet, Alfred. R",
+      "Ducret",
+      "Hintermeister, Théodore. R",
+      "Rochat, Henri"
+    ],
+    "Brasseurs": [
+      "Pichonnat, Jules",
+      "Prahin, Henri"
+    ],
+    "Cafetiers": [
+      "Besançon, Benjamin",
+      "Cuhat, François",
+      "Eternod, Louis",
+      "Guerry, veuve de Jules",
+      "Ith, Hermann"
+    ],
+    "Carrossier": [
+      "Kerhwand, Eugène"
+    ],
+    "Charcutiers": [
+      "Aigroz-Cuhat",
+      "Lorio-Cuhat",
+      "Michaud, Henri, fils"
+    ],
+    "Charbon": [
+      "Baumann, Jacques. R T."
+    ],
+    "Chapellerie": [
+      "Baumann, Jacques. R T",
+      "Jaquinet, demoiselles",
+      "Velay, Amélie"
+    ],
+    "Charpentier": [
+      "Desmeules, Alphonse"
+    ],
+    "Charron": [
+      "Michaud, Henri, père"
+    ],
+    "Chaussures": [
+      "Bachmann, Jean",
+      "Baumann, Jacques. R T",
+      "Berthoud, Fanny",
+      "Morel-Bussy, veuve. R."
+    ],
+    "Chef de section": [
+      "Bonzon, Alexis"
+    ],
+    "Chef de gare": [
+      "Perret"
+    ],
+    "Cigares et tabacs": [
+      "Aigroz-Cuhat. R",
+      "Baumann, Jacques. R",
+      "Brugger-Cœytaux. R",
+      "Golay, Henri",
+      "Lorio-Cuhat",
+      "Marchand frères. R."
+    ],
+    "Coiffeur": [
+      "Golay, Henri. R."
+    ],
+    "Confiseurs": [
+      "Voir Boulangers"
+    ],
+    "Cordonniers": [
+      "Bachmann, Jean",
+      "Capt, Charles",
+      "Rochat, Marc"
+    ],
+    "Couvertures (fabrique de)": [
+      "Girardet & Cie. R."
+    ],
+    "Entrepreneur": [
+      "Zali, Baptiste. R."
+    ],
+    "Epicerie, mercerie": [
+      "Aigroz-Cuhat. R",
+      "Baumann, Jacques. R T",
+      "Brugger-Cœytaux. R",
+      "Cuhat, François",
+      "Lorio-Cuhat, Elisa",
+      "Marchand frères. R",
+      "Morel-Bussy, veuve",
+      "Notz, Elisabeth, veuve. R."
+    ],
+    "Ferblantiers-couvreurs": [
+      "Borel, Jules",
+      "Guignard, Jean. R."
+    ],
+    "Fers et métaux": [
+      "Baumann, Jacques, R.T."
+    ],
+    "Gypsier": [
+      "Zali, Baptiste. R."
+    ],
+    "Horloger": [
+      "Walter, Louis. R."
+    ],
+    "Hôtels": [
+      "Bezençon, Benjamin",
+      "Eternod, Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Develey, François"
+    ],
+    "Instituteurs": [
+      "Nicole François",
+      "Maire, Alice",
+      "Monnier, Marie"
+    ],
+    "Justice de paix": [
+      "Bonzon, Ulysse",
+      "Chanson, Louis-Knebel, Chs",
+      "Michaud, Henri",
+      "Gaudin, F.",
+      "Bovay, Jean"
+    ],
+    "Lainerie": [
+      "Baumann, Jacques. R T",
+      "Brugger-Cœytaux. R",
+      "Marchand frères. R",
+      "Notz, E. R"
+    ],
+    "Laitiers": [
+      "Von Ins, Frédéric. R",
+      "Steiner, Jean. R."
+    ],
+    "Lampiste": [
+      "Guignard, Jean. R."
+    ],
+    "Lingères": [
+      "Kirchhofer, veuve",
+      "Velay-Favrichon. R."
+    ],
+    "Machines à coudre": [
+      "Baumann, Jacques. RT",
+      "Brugger-Cœytaux. R."
+    ],
+    "Maçon": [
+      "Zali, Baptiste. R."
+    ],
+    "Maréchal": [
+      "Cuhat, Charles"
+    ],
+    "Mécaniciens": [
+      "Huguenin, Louis & fils"
+    ],
+    "Médecin": [
+      "Murisier, John-Henri"
+    ],
+    "Menuisiers-ébénistes": [
+      "Marchand frères. R",
+      "Tripod, Henri"
+    ]
+  }
+}

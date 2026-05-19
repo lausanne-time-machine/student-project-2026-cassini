@@ -1,0 +1,260 @@
+{
+  "CLARMONT": {
+    "Municipaux": [
+      "Berguer Fernand",
+      "Schopfer Ernest",
+      "Amaron L.",
+      "Vidoudez Georges"
+    ],
+    "Apiculteur": [
+      "Amaron Léon"
+    ],
+    "Charpentier": [
+      "Berthet Adrien. R T."
+    ],
+    "Commission scolaire": [
+      "Grandchamp Paul",
+      "Vidoudez Fritz",
+      "Corthésy Ernest"
+    ],
+    "Epicerie": [
+      "Durussel Henri",
+      "Vidoudez Olivier"
+    ],
+    "Inspecteur du bétail": [
+      "Berguer Jules"
+    ],
+    "Instituteur": [
+      "Amaron Léon"
+    ],
+    "Laitier": [
+      "Fiechter Jacob. R."
+    ],
+    "Poste": [
+      "Schopfer Lina"
+    ],
+    "Scierie et battoir": [
+      "Corthésy Ernest"
+    ],
+    "Société": [
+      "De fromagerie. R."
+    ],
+    "Vignerons": [
+      "Berguer frères",
+      "Berguer Jules",
+      "Fiechter Jacob",
+      "Schonfer Jules",
+      "Viande François",
+      "Vidoudez Ch.",
+      "Vidoudez Georges"
+    ]
+  },
+  "COLOMBIER": {
+    "Autorités communales": [
+      "Desmeules Arthur",
+      "Rochat Gustave"
+    ],
+    "Syndic": [
+      "Rochat Henri"
+    ],
+    "Municipaux": [
+      "Charrière Alexis",
+      "Moret Alexis",
+      "Durand Alexis",
+      "Monnet Alfred",
+      "Chauvet Louis",
+      "Guex Em."
+    ],
+    "Agriculteurs": [
+      "Bastardot, hoirie",
+      "Bally frères",
+      "Chauvet Jules",
+      "Chauvet Louis",
+      "Clerc Alexis",
+      "Clerc Gustave",
+      "Jaggi Fritz",
+      "Linder Charles",
+      "Penel Marc",
+      "Perreten Benjamin",
+      "Rochat Aug.",
+      "Rochat Henri"
+    ],
+    "Apiculteurs": [
+      "Niggly Louis",
+      "Perretten Benjamin"
+    ],
+    "Aubergistes": [
+      "Chollet Justin",
+      "Rochat. hoirie de Jules"
+    ],
+    "Bétail (march. de)": [
+      "Prior Isaac"
+    ],
+    "Chef de section": [
+      "Clerc Gustave"
+    ],
+    "Commission scolaire": [
+      "Grandchamp Paul",
+      "Rochat Gust."
+    ],
+    "Epicerie. mercerie": [
+      "Margot Emile. R"
+    ],
+    "Inspecteur du bétail": [
+      "Pinguely Jles."
+    ],
+    "Instituteurs": [
+      "Meylan Charles",
+      "Meylan Jeanne"
+    ],
+    "Justice de paix": [
+      "Nicole Alexis",
+      "Reymond Henri",
+      "Coderey S.",
+      "Rochat S.",
+      "Henry Alfred",
+      "Henry Arnold"
+    ],
+    "Laitier": [
+      "Michel Ernest"
+    ],
+    "Maréchal": [
+      "Guignet Robert"
+    ],
+    "Menuisier-scieur": [
+      "Dumauthioz A."
+    ],
+    "Pasteur": [
+      "Grandchamp Paul"
+    ],
+    "Poste": [
+      "Rochat Gustave"
+    ],
+    "Revendeuse": [
+      "Racine Elise"
+    ],
+    "Sociétés": [
+      "De fromagerie. R.",
+      "Syndicat agricole. R."
+    ],
+    "Téléphoniste": [
+      "Chauvet Emma"
+    ],
+    "Vigneron": [
+      "Durand-Curnex Louis"
+    ]
+  },
+  "DENENS": {
+    "Autorités communales": [
+      "Pelichet Elisée",
+      "Perey Victor"
+    ],
+    "Syndic": [
+      "Cotty Fernand"
+    ],
+    "Municipaux": [
+      "Sauty Louis",
+      "Sauty Albert",
+      "Prodolliet Rodolphe",
+      "Jacot Jules",
+      "Cotty Ph.",
+      "Pelichet Elisée"
+    ],
+    "Agriculteurs": [
+      "Bachelard Auguste",
+      "Cotty Fernand",
+      "Cotty Philippe",
+      "Gillabert Jean",
+      "Gilgen Henri",
+      "Jacot Jules",
+      "Laurent Charles",
+      "Perey Vict.",
+      "Pernet Jules",
+      "Reymond Philippe",
+      "Rochat Henri",
+      "Sauty Alfred",
+      "Sauty Albert",
+      "Sauty Constant",
+      "Sauty Henri",
+      "Sauty Louis"
+    ],
+    "Boulanger": [
+      "Manigley Ernest"
+    ],
+    "Café": [
+      "Prodolliet Rodolphe"
+    ],
+    "Commission scolaire": [
+      "Colomb Gustave",
+      "Cotty Fernand",
+      "Sauty Henri"
+    ],
+    "Epicerie": [
+      "Manigley Ernest. T."
+    ],
+    "Fermier": [
+      "Pelichet Elisée"
+    ],
+    "Inspecteur du bétail": [
+      "Gillabert Jn."
+    ],
+    "Instituteur": [
+      "Baumgartner Robert"
+    ],
+    "Poste": [
+      "Sauty Henri"
+    ],
+    "Société": [
+      "De fromagerie. R."
+    ],
+    "Téléphoniste": [
+      "Manigley Ernest"
+    ]
+  },
+  "DENGES": {
+    "Autorités communales": [
+      "Paquier Victor",
+      "Rossier Louis"
+    ],
+    "Syndic": [
+      "Paquier Jules"
+    ],
+    "Municipaux": [
+      "Rossier Edouard",
+      "Velti Albert",
+      "Rochat François",
+      "Rossier Jules",
+      "Borel Fernand",
+      "Gilliéron Alfred",
+      "Paquier Maurice"
+    ],
+    "Assesseur": [
+      "Rossier Théophile"
+    ],
+    "Agriculteurs": [
+      "Badan Edouard. père",
+      "Badan Edouard",
+      "Blanc. Veuve d'Emile",
+      "Blanc Louis",
+      "Blanc Henri",
+      "Borboën François",
+      "Clerc Louise",
+      "Gilliéron Alf.",
+      "Lehmann, Vve",
+      "Paquier Henri",
+      "Paquier Jules",
+      "Paquier Louis",
+      "Paquier Robert",
+      "Paquier Victor",
+      "Ramelet Jules",
+      "Rochat Augustine",
+      "Rochat François",
+      "Rossier Edouard",
+      "Rossier Louis",
+      "Rossier Théophile",
+      "Schmid Ch.",
+      "Schmid Jules",
+      "Velti Albert"
+    ]
+  }
+}

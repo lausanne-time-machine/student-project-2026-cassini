@@ -1,0 +1,282 @@
+{
+  "VILLARS-LE-TERROIR": {
+    "Curé": [
+      "Longchamp Emmanuel"
+    ],
+    "Dentiste": [
+      "Pittet Joseph"
+    ],
+    "Echalas (march. d')": [
+      "Juriens Emile",
+      "Pittet Adolphe",
+      "Pittet Henri"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Dutoit Honorine",
+      "Gardaz Elie",
+      "Pittet Charles",
+      "Pittet Marc"
+    ],
+    "Inspecteur du bétail": [
+      "Juriens Casimir"
+    ],
+    "Instituteurs": [
+      "Dutoit Camille",
+      "Allaz Rosine",
+      "Gardaz Agathe"
+    ],
+    "Maréchal": [
+      "Dutoit Henri"
+    ],
+    "Pierristes": [
+      "Mettraux Alphonse",
+      "Pittet Agathe",
+      "Pittet Victorine"
+    ],
+    "Porcs (march. de)": [
+      "Allaz Marc",
+      "Gardaz Grégoire",
+      "Pittet Charles",
+      "Pittet Placide"
+    ],
+    "Poste": [
+      "Allaz Marc"
+    ],
+    "Sage-femme": [
+      "Pittet Victorine"
+    ],
+    "Sociétés": [
+      "De la machine à battre",
+      "Fromagerie et laiterie",
+      "Fromagerie du Buron"
+    ],
+    "Tailleuses": [
+      "Dutoit Marie",
+      "Dutoit Cyrine",
+      "Pittet Maria",
+      "Pittet Eugénie",
+      "Pittet Marie",
+      "Pittet Mathilde"
+    ],
+    "Téléphone": [
+      "Pittet Charles"
+    ],
+    "Tisserand": [
+      "Dutoit Vital"
+    ]
+  },
+  "VILLARS-TIERCELIN": {
+    "Autorités communales": [
+      "Viret Gustave",
+      "Sauvageat Aimé"
+    ],
+    "Syndic": [
+      "Dufour Héli"
+    ],
+    "Municipaux": [
+      "Viret Hermann",
+      "Jaccoud Auguste",
+      "Perret John",
+      "Viret Daniel",
+      "Viret François",
+      "Viret Héli"
+    ],
+    "Agriculteurs": [
+      "Delessert Constant",
+      "Dufour Héli-Oscar",
+      "Dufour",
+      "Hänny Frédéric",
+      "Huguenet Victor",
+      "Jaccoud Jules",
+      "Jaccoud Théophile",
+      "Viret Aimé",
+      "Viret Aimé",
+      "Viret Aimé",
+      "Viret Alfred",
+      "Viret Ernest-Elie",
+      "Viret Pierre-Elie"
+    ],
+    "Auberges": [
+      "Perret Rosine",
+      "Viret William"
+    ],
+    "Charpentier": [
+      "Pouly Auguste"
+    ],
+    "Commission scolaire": [
+      "Dufour Héli",
+      "Descombaz Jules",
+      "Viret Gustave"
+    ],
+    "Couturières": [
+      "Cachin Emma",
+      "Miéville Emma"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Viret Elvine",
+      "Viret Samuel-Aug."
+    ],
+    "Inspecteur du bétail": [
+      "Viret Gustave"
+    ],
+    "Instituteurs": [
+      "Payot Arthur",
+      "Perret Anna"
+    ],
+    "Maréchal": [
+      "Viret François"
+    ],
+    "Menuisiers": [
+      "Viret Aug.",
+      "Viret Héli"
+    ],
+    "Scieur": [
+      "Miéville Emile"
+    ],
+    "Société": [
+      "De laiterie et de fromagerie"
+    ],
+    "Téléphoniste": [
+      "Viret Samuel"
+    ]
+  },
+  "VUARRENS": {
+    "Autorités communales": [
+      "Thierry Paul",
+      "Jaccaud Louis"
+    ],
+    "Syndic": [
+      "Barbey Héli"
+    ],
+    "Municipaux": [
+      "Brot Aimé",
+      "Gasser Jules",
+      "Buffat Héli",
+      "Brot Fritz",
+      "Buffat Charles",
+      "Besson Louis",
+      "Buffat Ernest",
+      "Buffat Héli"
+    ],
+    "Agriculteurs": [
+      "Barbey Héli",
+      "Besson Louis",
+      "Brot Constant",
+      "Buffat François",
+      "Duvoisin Edouard",
+      "Fiaux Adrien",
+      "Gonet Elie",
+      "Jaton Oscar",
+      "Koelliger Albert",
+      "Monnier Hri",
+      "Thonney Eugène"
+    ],
+    "Assesseur": [
+      "Buffat Constant"
+    ],
+    "Bois (commerce de)": [
+      "Buffat Jules"
+    ],
+    "Bonneterie, chapellerie": [
+      "Brot frères"
+    ],
+    "Boulanger": [
+      "Chevalley Jules"
+    ],
+    "Cafés": [
+      "Schwab Henri",
+      "Monnier Henri"
+    ],
+    "Charpentiers": [
+      "Penseyres Emile",
+      "Viret Louis"
+    ],
+    "Charron": [
+      "Philippin Vitilino"
+    ],
+    "Chef de section": [
+      "Buffat Jules"
+    ],
+    "Commission scolaire": [
+      "Barbey Héli",
+      "Thonney Alfred"
+    ],
+    "Cordonniers": [
+      "Barbey Adolphe",
+      "Pahud Henri",
+      "Thuillard Aug."
+    ],
+    "Electriciens": [
+      "Société lausannoise d'électricité"
+    ],
+    "Epicerie, mercerie": [
+      "Brot frères",
+      "Chevalley Js",
+      "Gonet Marie"
+    ],
+    "Inspecteurs du bétail": [
+      "Brot Fritz",
+      "Gonet Elie"
+    ],
+    "Instituteurs": [
+      "Nicod Henri",
+      "Bolomey Elisa",
+      "Brot Louisa"
+    ],
+    "Justice de paix du Cercle": [
+      "Ducret Héli",
+      "Barraud Théophile",
+      "Meige Héli",
+      "Gonet Edouard",
+      "Buffat Constant",
+      "Millioud Eugène"
+    ],
+    "Laitier": [
+      "Buffat Ulysse",
+      "Piot Jean"
+    ],
+    "Maçons": [
+      "Tardy Juste",
+      "Tardy Jean"
+    ],
+    "Maréchal": [
+      "Jaquiery Henri"
+    ],
+    "Officier d'état civil": [
+      "Buffat Eugène"
+    ],
+    "Pasteur": [
+      "Golay Emile"
+    ],
+    "Quincaillerie": [
+      "Brot frères"
+    ],
+    "Représentant de l'engrais St-Gobain": [
+      "Magnenat Eugène"
+    ],
+    "Sage-femme": [
+      "Jaccaud Lucie"
+    ],
+    "Sociétés": [
+      "Du battoir à blé",
+      "De tir",
+      "De chant",
+      "Dramatique",
+      "Des laiteries de Vuarrens et Vuarrengel",
+      "D'agriculture",
+      "De lecture"
+    ],
+    "Tailleur": [
+      "Zaugg Adrien"
+    ],
+    "Tailleuse": [
+      "Laurent Marie"
+    ],
+    "Téléphone": [
+      "Auberge communale"
+    ],
+    "Télégraphe": [
+      "Bureau de poste"
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "CERNIAZ": {
+    "Autorités communales": [
+      "Bovat Ulysse",
+      "Duc Héli",
+      "Duc Adolphe",
+      "Dubrit Victor",
+      "Cachin Elie",
+      "Cachin François",
+      "Cachin Constant",
+      "Cachin-Fiaux Ed.",
+      "Cachin Ulysse"
+    ],
+    "Agriculteurs": [
+      "Burgdorfer Ferdinand",
+      "Cachin Ami",
+      "Cachin Charles",
+      "Dubrit Victor",
+      "Duc Adolphe",
+      "Hänny Christian"
+    ],
+    "Apiculteurs": [
+      "Cachin Louis",
+      "Dubrit Victor",
+      "Gris Constant",
+      "Nicole Albert"
+    ],
+    "Café": [
+      "Decrousaz Henri"
+    ],
+    "Charpentier": [
+      "Cachin Constant"
+    ],
+    "Charron": [
+      "Cavin Alexis"
+    ],
+    "Chiffonnier": [
+      "Cachin Emile"
+    ],
+    "Commission scolaire": [
+      "Bovat Ulysse",
+      "Cachin Constant",
+      "Gris Constant"
+    ],
+    "Cordonnier": [
+      "Cachin Emile"
+    ],
+    "Couturière": [
+      "Cachin Emma"
+    ],
+    "Epicerie": [
+      "Decrousaz Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Cachin Louis"
+    ],
+    "Instituteur": [
+      "Nicole Albert"
+    ],
+    "Manches de faulx et rateaux (fabr. de)": [
+      "Cachin Adolphe",
+      "Cachin-Fiaux Ed."
+    ],
+    "Sellier-tapissier": [
+      "Burgdorfer Ferdinand"
+    ],
+    "Sociétés": [
+      "Du battoir à blé",
+      "Laiterie. R."
+    ]
+  },
+  "CHAMPTAUROZ": {
+    "Autorités communales": [
+      "Chevalley Paul",
+      "Chevalley Elie-Aimé",
+      "Chevalley Auguste",
+      "Chevalley Eugène",
+      "Druey Oscar",
+      "Chevalley J.-E.",
+      "Chevalley Eugène",
+      "Coigny Aimé",
+      "Chevalley Julien",
+      "Guidoux Gustave",
+      "Chevalley Clément"
+    ],
+    "Agriculteurs": [
+      "Chevalley-Pochon, propr.",
+      "Chevalley Samuel-Auguste",
+      "Chevalley Emile",
+      "Henzer Jean, fermier"
+    ],
+    "Battoir à blé": [
+      "Jaquier Lucien"
+    ],
+    "Café": [
+      "Henzer Jean"
+    ],
+    "Charpentier": [
+      "Degex Philibert"
+    ],
+    "Cordonnier": [
+      "Chevalley Louis"
+    ],
+    "Epicerie": [
+      "Druey Théophile. R",
+      "Saugy Julie, demoiselle. R."
+    ],
+    "Inspecteur du bétail": [
+      "Chevalley Jules-Emile"
+    ],
+    "Instituteur": [
+      "Druey Théophile"
+    ],
+    "Maréchal": [
+      "Chevalley Clément"
+    ],
+    "Mécanicien": [
+      "Jaquier Lucien"
+    ],
+    "Rentier": [
+      "Chevalley François"
+    ],
+    "Société": [
+      "De fromagerie. R."
+    ],
+    "Tailleuses": [
+      "Chevalley Nancy",
+      "Chevalley Elisabeth"
+    ]
+  },
+  "CHEVROUX": {
+    "Autorités communales": [
+      "Bonny Albert",
+      "Cuany-Thévoz Henri",
+      "Comte Paul",
+      "Bonny-Bonny Louis",
+      "Cuany-Comte Gustave",
+      "Cuany Constant",
+      "Bonny Louis-Auguste",
+      "Bonny-Comte Henri",
+      "Cuany Paul"
+    ],
+    "Agriculteurs": [
+      "Bonny-Bonny Louis",
+      "Bonny-Bonny Charles",
+      "Bonny Paul",
+      "Bonny-Comte Henri",
+      "Bonny-Cuany Henri",
+      "Bonny-Thévoz Auguste",
+      "Cuany-Comte",
+      "Cuany Constant",
+      "Cuany Auguste",
+      "Honsberger Edouard",
+      "Honsberger Louis",
+      "Müller Rod.-Charles",
+      "Pochon Ernest"
+    ],
+    "Assesseur": [
+      "Comte Paul"
+    ],
+    "Bouchers": [
+      "Honsberger Edouard",
+      "Thévoz Henri"
+    ],
+    "Cafés": [
+      "Bonny-Cuany Rosine, veuve. R T",
+      "Richard Constant, café du Pont. R."
+    ],
+    "Charpentiers": [
+      "Bonny-Hermann Aug.",
+      "Cuany Auguste"
+    ],
+    "Charcuterie": [
+      "Hermann Elise"
+    ],
+    "Commission scolaire": [
+      "Gailloud H., pasteur, président."
+    ],
+    "Cordonnier": [
+      "Bonny Auguste"
+    ],
+    "Epicerie": [
+      "Hermann Elise. R",
+      "Wolf Charles"
+    ],
+    "Inspecteur du bétail": [
+      "Bonny-Vinard Louis"
+    ],
+    "Instituteurs": [
+      "Grasset Robert",
+      "Couroux Gabrielle"
+    ],
+    "Laitier": [
+      "Schwartz Rodolphe"
+    ],
+    "Maréchaux": [
+      "Haussener Jean",
+      "Schwarz-wald Louis"
+    ],
+    "Pasteur": [
+      "Gailloud Henri"
+    ],
+    "Pêcheurs": [
+      "Bonny-Zeller Albert",
+      "Bonny-Bonny Louis",
+      "Bonny Charles",
+      "Bonny Henri",
+      "Cuany Marc",
+      "Cuany-Kraft Jaques",
+      "Cuany Charles",
+      "Honsberger Auguste",
+      "Jordan Louis",
+      "Kraft Auguste",
+      "Kraft Louis",
+      "Kraft Charles",
+      "Wolf Auguste",
+      "Wolf Jules"
+    ],
+    "Sociétés": [
+      "De laiterie. R",
+      "De musique-De chant, « Chœur d’hommes »",
+      "De tir, « Jeune Helvétie » et « Tireur à la carabine »",
+      "De jeunesse",
+      "Section de la Croix-Bleue"
+    ],
+    "Téléphone": [
+      "Café du Jura"
+    ]
+  }
+}

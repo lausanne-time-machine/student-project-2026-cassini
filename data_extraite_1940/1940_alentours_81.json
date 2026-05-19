@@ -1,0 +1,415 @@
+{
+  "CRANS": {
+    "Syndic": [
+      "Brocard René"
+    ],
+    "Secrétaire": [
+      "Gay Louis"
+    ],
+    "Boursier": [
+      "Duflon Edouard"
+    ],
+    "Huissier": [
+      "Mange E."
+    ],
+    "Municipaux": [
+      "Gaudin Samuel",
+      "Guillet Georges",
+      "Kislig Charles",
+      "Pelichet René"
+    ],
+    "Assesseur": [
+      "Vulliez Henri"
+    ],
+    "Cantonnier": [
+      "Gaudin Samuel"
+    ],
+    "Commandant du feu": [
+      "Guillet Daniel"
+    ],
+    "Commission scolaire": [
+      "Viquerat Robert"
+    ],
+    "Inspecteur du bétail": [
+      "Sinner Chs."
+    ],
+    "Inspecteur forestier": [
+      "Leuenberger Gabriel"
+    ],
+    "Inspecteur des viandes": [
+      "Vulliez Pl."
+    ],
+    "Instituteurs": [
+      "Despond Pierre",
+      "Wahl Claire"
+    ],
+    "Officier d'état civil": [
+      "Pelichet René"
+    ],
+    "Pasteur": [
+      "Roussy Th."
+    ],
+    "Police (agent de)": [
+      "Mange Emile"
+    ],
+    "Poste et télégraphe": [
+      "Pellet Robert"
+    ],
+    "Téléphone": [
+      "Hôtel du Cerf",
+      "Bureau de poste"
+    ],
+    "Agriculteurs-vignerons": [
+      "Bertholet A",
+      "Charrotton E.",
+      "Cretegny Louis",
+      "Chuat Adrien",
+      "Eschler Jean",
+      "Favre Alexis",
+      "Garny Louis",
+      "Guignard John",
+      "Guillet Daniel",
+      "Guillet Henri",
+      "Hauser Fritz",
+      "Charlemont",
+      "Hugi Alfred",
+      "Junker Gottfried",
+      "Lecoultre Juste",
+      "Liardon Marius",
+      "Lerch Willy",
+      "Maréchaux Ferdinand",
+      "Pradervand Ernest",
+      "Sinner Charles",
+      "Vulliez Henri"
+    ],
+    "Apiculteurs": [
+      "Brocard René",
+      "Cretegny Louis",
+      "Duflon Edouard"
+    ],
+    "Aviculteur": [
+      "Lecoultre Ch."
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Desponds Pierre"
+    ],
+    "Bateaux (construct. de)": [
+      "Vidoli E."
+    ],
+    "Boulanger": [
+      "Hauselmann Louis"
+    ],
+    "Cafés": [
+      "Hôtel du Cerf",
+      "Cherpillod Hr",
+      "Hôtel de l'Union",
+      "Brocard René"
+    ],
+    "Charpentier-menuisier": [
+      "Kislig Ch."
+    ],
+    "Charron": [
+      "Glatz Willy"
+    ],
+    "Cordonnier": [
+      "Chuat Georges"
+    ],
+    "Couturières": [
+      "Pellet Bertha",
+      "Maréchaux Irène",
+      "Wenger Andrée"
+    ],
+    "Epicerie-mercerie": [
+      "Gysler Henri",
+      "Hauselmann Louis"
+    ],
+    "Jardiniers": [
+      "Bertholet Ami",
+      "Maréchaux Ferdinand"
+    ],
+    "Laitier-fromages": [
+      "Laiteries réunies",
+      "Viquerat Robert"
+    ],
+    "Machines agricoles (agence)": [
+      "Brocard René"
+    ],
+    "Maréchal-mécanicien": [
+      "Brugnier W."
+    ],
+    "Pêcheurs": [
+      "Gay Charles",
+      "Gay frères"
+    ],
+    "Pépiniéristes-viticulteurs": [
+      "Chappuis Henri",
+      "Guillet Henri"
+    ],
+    "Rentiers": [
+      "Auberson Henri",
+      "van Berchem, MM.",
+      "Zumstein Jules"
+    ],
+    "Sellier-tapissier": [
+      "Chuat Henri"
+    ],
+    "Sociétés": [
+      "Sté des Eaux de Crans",
+      "Céligny, Arnex",
+      "Sté immobilière du Port des Landes",
+      "Sté immobilière de Tatiana",
+      "Sté de laiterie"
+    ],
+    "Vélos-motos": [
+      "Brugnier William"
+    ],
+    "Vignerons": [
+      "Brocard René",
+      "Chappuis Henri",
+      "Cretegny Louis",
+      "Eschler Jean",
+      "Favre Alexis",
+      "Guillet Daniel",
+      "Guillet Henri",
+      "Garny Louis",
+      "Guignard John",
+      "Hugy Alfred",
+      "Liardon Marius",
+      "Lecoultre Juste",
+      "Pradervand Ern.",
+      "Sinner Charles",
+      "Vulliez Henri"
+    ],
+    "Voiturier": [
+      "Favre Alexis"
+    ]
+  },
+  "GRASSIER": {
+    "Syndic": [
+      "Gubler Ernest"
+    ],
+    "Secrétaire": [
+      "Jacot Marcel"
+    ],
+    "Boursier": [
+      "Gribi Charles"
+    ],
+    "Huissier": [
+      "Steffen Gustave"
+    ],
+    "Municipaux": [
+      "Martin David",
+      "Paréaz Marius",
+      "Rossier Alexandre",
+      "Wagnière Octave"
+    ],
+    "Cantonnier": [
+      "Quazzin Edouard"
+    ],
+    "Chef de section": [
+      "Berlie James"
+    ],
+    "Commandant du feu": [
+      "Berlie James"
+    ],
+    "Commission scolaire": [
+      "Berlie James"
+    ],
+    "Gare (chef de)": [
+      "Anker Ulysse"
+    ],
+    "Inspecteur du bétail": [
+      "Ramel R."
+    ],
+    "Instituteurs": [
+      "Jacot Marcel",
+      "Briggen Clara"
+    ],
+    "Pasteur": [
+      "Roussy Théodore"
+    ],
+    "Police (agent de)": [
+      "Steffen Gustave"
+    ],
+    "Poste et Télégraphe": [
+      "Gribi Charles"
+    ],
+    "Téléphone": [
+      "Auberge communale",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs": [
+      "Berlie Henri",
+      "Berlie James",
+      "Hugi Werner",
+      "Joseph Louis",
+      "Ramel A.",
+      "Renaud Louis",
+      "Rossier, hoirie d'Aug.",
+      "Siméon J."
+    ],
+    "Apiculteur": [
+      "Jacot Marcel"
+    ],
+    "Appareilleur": [
+      "Tardy Arthur"
+    ],
+    "Architecte": [
+      "Paréaz R."
+    ],
+    "Assurance": [
+      "Mutualité scolaire de retraite",
+      "Jacot M."
+    ],
+    "Auto-garage": [
+      "Gribli Charles"
+    ],
+    "Bois (march. de)": [
+      "Chouet & Cie",
+      "Scierie de Grassier, S. A."
+    ],
+    "Boulangers": [
+      "Badan Jacques",
+      "Wagnière Octave"
+    ],
+    "Cafés": [
+      "Le Bœuf rouge",
+      "Eberhardt Ami",
+      "Auberge communale",
+      "Moudon Ch."
+    ],
+    "Charron": [
+      "Steffen Gustave"
+    ],
+    "Chef de station": [
+      "Anker Ulysse"
+    ],
+    "Cordonnier": [
+      "Neuhaus P."
+    ],
+    "Entrepreneur": [
+      "Paltani Louis"
+    ],
+    "Epiceries": [
+      "Berlie Elisa",
+      "Durgnat sœurs"
+    ],
+    "Gypserie - peinture": [
+      "Gianina fils"
+    ],
+    "Laitier": [
+      "Urfer Samuel"
+    ],
+    "Maréchal-serrurier": [
+      "Tardy Arth."
+    ],
+    "Mécaniciens": [
+      "Atelier mécanique",
+      "Gribli Charles",
+      "Scierie de Grassier S. A."
+    ],
+    "Menuisiers-charpentiers": [
+      "Chollet & Dufour",
+      "Paréaz Robert"
+    ],
+    "Meunier": [
+      "Bornet Samuel"
+    ],
+    "Scieries": [
+      "Bornet Samuel",
+      "Chouet Paul",
+      "Scierie de Grassier S. A.",
+      "Gubler"
+    ],
+    "Société": [
+      "Sté de laiterie"
+    ],
+    "Vélos-motos": [
+      "Gribi Charles"
+    ],
+    "Vétérinaire": [
+      "Wampfler David"
+    ],
+    "Vignerons": [
+      "Romand Louis",
+      "Rossier, hoirie"
+    ],
+    "Voiturier": [
+      "Thomas Ami"
+    ],
+    "Divers": [
+      "Aubert de la Rue",
+      "de Haller Ch.",
+      "Jean des Bois",
+      "Loriol Gabriel",
+      "chalet des Bois",
+      "de Loriol Jean",
+      "Bois d'Ely"
+    ]
+  },
+  "CREMIN": {
+    "Syndic": [
+      "Bessard Jean"
+    ],
+    "Secrétaire": [
+      "Badoux Jean"
+    ],
+    "Boursier": [
+      "Krummen Ernest"
+    ],
+    "Municipaux": [
+      "Augsburger Fritz",
+      "Badoux Jean",
+      "Goy Henri",
+      "Krummen Ernest"
+    ],
+    "Cantonnier": [
+      "Badoux Adolphe"
+    ],
+    "Commandant du feu": [
+      "Bessard Fern."
+    ],
+    "Inspecteur du bétail": [
+      "Badoux Maur."
+    ],
+    "Poste": [
+      "Badoux Emma"
+    ],
+    "Téléphone": [
+      "Badoux, Dlles"
+    ],
+    "Agriculteurs": [
+      "Augsburger Fritz",
+      "Badoux Jean",
+      "Badoux Maurice",
+      "Bessard frères",
+      "Fivaz Ed.",
+      "Goy Henri",
+      "Käser Peter",
+      "Krummen frères",
+      "Aebersold Edouard"
+    ],
+    "Apiculteurs": [
+      "Bessard Fernand",
+      "Badoux Constant"
+    ],
+    "Pilon pour os": [
+      "Krummen frères"
+    ]
+  },
+  "CRONAY": {
+    "Député": [
+      "Pittet Lucien"
+    ],
+    "Syndic": [
+      "Pittet Lucien"
+    ],
+    "Secrétaire": [
+      "Magnenat René"
+    ],
+    "Boursier": [
+      "Flaction Alfred"
+    ]
+  }
+}

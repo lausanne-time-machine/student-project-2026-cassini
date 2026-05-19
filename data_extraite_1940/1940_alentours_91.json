@@ -1,0 +1,268 @@
+{
+  "DUILLIER": {
+    "Vignerons": [
+      "Blondel Adolphe",
+      "Degex Aloïs",
+      "Hermanjat Emile",
+      "Lude Ami",
+      "Offner Louis",
+      "Streiff Alfred"
+    ]
+  },
+  "DULLY": {
+    "Syndic": [
+      "Ostermann Henri"
+    ],
+    "Secrétaire": [
+      "Recordon Charles"
+    ],
+    "Huissier": [
+      "Recordon Charly"
+    ],
+    "Municipaux": [
+      "Debonneville Jules",
+      "Mani Roger"
+    ],
+    "Cantonnier": [
+      "Tauss Ernest"
+    ],
+    "Commandant du feu": [
+      "Ostermann H."
+    ],
+    "Commission scolaire": [
+      "Ostermann Henri",
+      "Gottraux Edouard"
+    ],
+    "Inspecteur du bétail": [
+      "Mani Roger"
+    ],
+    "Instituteurs": [
+      "Béday Adalbert",
+      "de la Harpe Antoinette"
+    ],
+    "Agriculteurs": [
+      "Debonneville Jules",
+      "Jaccard Georges",
+      "Mani Roger",
+      "Munier Marc",
+      "Ostermann Charles",
+      "Ostermann Frédéric",
+      "Ostermann Gustave",
+      "Recordon Charles",
+      "Recordon Aloïs",
+      "Rojard A. T."
+    ],
+    "Café": [
+      "Debonneville Jules"
+    ],
+    "Epicerie-mercerie": [
+      "Suardet Rose"
+    ],
+    "Jardiniers": [
+      "Cloux Ch.",
+      "Leuthard Alphonse",
+      "Werner M."
+    ],
+    "Laitiers": [
+      "Blanchard Roger",
+      "Laiteries Réunies"
+    ],
+    "Médecin": [
+      "Gautier Pierre"
+    ],
+    "Pêcheur": [
+      "Schneiter Juste"
+    ],
+    "Vignerons": [
+      "Mani Roger",
+      "Munier Marc",
+      "Ostermann Fréd.",
+      "Ostermann Henri",
+      "Piot Marcel",
+      "Recordon Aloïs",
+      "Recordon Charles",
+      "Ruepp L.",
+      "Gottraux Edouard"
+    ],
+    "Viticulteurs - pépiniéristes": [
+      "Ruepp Henri",
+      "Recordon Aloïs"
+    ],
+    "Divers": [
+      "de Bavier Ed.",
+      "Chouard Paul",
+      "Cougnard Ch.",
+      "Davaine Alice",
+      "Dardier Berthe",
+      "Jaccard Georges",
+      "Le Coultre J.-D",
+      "Martin Paul",
+      "de Morsier",
+      "Porchet François"
+    ]
+  },
+  "DISTRICT D'ECHALLENS": {
+    "Préfet": [
+      "Bezençon Emmanuel"
+    ],
+    "Substitut": [
+      "Favre Emile"
+    ],
+    "Receveur": [
+      "Basset Willy"
+    ],
+    "Conservateur du registre foncier": [
+      "Frey William"
+    ],
+    "Voyer du 1er arrondissement": [
+      "Charles Pierre"
+    ],
+    "Juge de paix": [
+      "Besson François"
+    ],
+    "Tribunal de district": [
+      "Fonjallaz B.",
+      "Panchaud Léon",
+      "Panchaud Jules-Alexis",
+      "Clavel Henri",
+      "Jaunin Gustave",
+      "Laurent André"
+    ],
+    "Prisons de district": [
+      "Ravey Louis"
+    ],
+    "Juges de paix": [
+      "Besson F.",
+      "Chatelan Oscar",
+      "Ducret Charles"
+    ],
+    "Poursuites et faillites": [
+      "Dupuis René"
+    ],
+    "Députés au Grand Conseil": [
+      "Bezençon Frédéric",
+      "Pittet Gust.",
+      "Despland Gabriel",
+      "Favre Emile",
+      "Reymond Constant",
+      "Piot John",
+      "Thierry Paul"
+    ]
+  },
+  "ECHALLENS": {
+    "Députés du cercle": [
+      "Despland Gabriel",
+      "Bezençon Frédéric",
+      "Pittet Gustave"
+    ],
+    "Syndic": [
+      "Despland Gabriel"
+    ],
+    "Secrétaire": [
+      "Frey William"
+    ],
+    "Boursier": [
+      "Magnenat Francis"
+    ],
+    "Huissier": [
+      "Schneider Emile"
+    ],
+    "Municipaux": [
+      "Bavaud Ls.",
+      "Borgeaud Benjamin",
+      "Delacrétaz Lucien",
+      "Devolz Gustave"
+    ],
+    "Cantonnier (chef)": [
+      "Jordan Benjamin"
+    ],
+    "Chef de section": [
+      "Brochon Ernest"
+    ],
+    "Commandant du feu": [
+      "Blanchoud Louis"
+    ],
+    "Commission scolaire": [
+      "Germond Henri",
+      "Mayor Paul",
+      "Longchamp Louis",
+      "Grognuz Marcel"
+    ],
+    "Curé": [
+      "Longchamp Louis"
+    ],
+    "Garde-forestier": [
+      "Jaccoud Jean"
+    ],
+    "Gare (chef de)": [
+      "Jordan Marcel"
+    ],
+    "Gendarmerie (poste de)": [
+      "Guignard Laurent"
+    ],
+    "Inspecteur du bétail": [
+      "Dasen W."
+    ],
+    "Inspecteur des viandes": [
+      "Dasen W."
+    ],
+    "Instituteurs": [
+      "Blanchoud Louis",
+      "Fontannaz Henriette",
+      "Gachet Mina",
+      "Mivelaz James",
+      "Pittet Marie"
+    ],
+    "Justice de paix": [
+      "Besson François",
+      "Veyre Georges",
+      "Chatelan William",
+      "Gachet Ernest",
+      "Narbel Edouard",
+      "Pittet Jos.",
+      "Piguet Jules"
+    ],
+    "Mesureur-juré": [
+      "Bovey André"
+    ],
+    "Officier d'état-civil": [
+      "Maccaud Ls."
+    ],
+    "Pasteur": [
+      "Germond Henri"
+    ],
+    "Police (agent de)": [
+      "Schneider Emile"
+    ],
+    "Prisons (géôlier)": [
+      "Ravay Louis"
+    ],
+    "Poste et télégraphe": [
+      "Chamis Emile"
+    ],
+    "Professeurs au Collège": [
+      "Germond Henri",
+      "Annen, Mlle",
+      "Bavaud-Mayor, Mme",
+      "Longchamp Ls",
+      "Mamboury Michel",
+      "Nydegger Jules"
+    ],
+    "Agent d'affaires": [
+      "Chevallaz Fern."
+    ],
+    "Agriculteurs": [
+      "Besson Charles",
+      "Besson F.",
+      "Borgeaud Benjamin",
+      "Brochon Francis",
+      "Bürri Gottlieb",
+      "Carrard Daniel",
+      "Favre Charles",
+      "Favre Etienne",
+      "Gachet Ernest",
+      "Gobalet Auguste",
+      "Gottofrey"
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "RANCES": {
+    "Banque": [
+      "Caisse de crédit mutuel"
+    ],
+    "Boisselier": [
+      "Caillachon Louis"
+    ],
+    "Boulanger": [
+      "Pisler Emile"
+    ],
+    "Buraliste postal": [
+      "Simonin A. T."
+    ],
+    "Charpentier": [
+      "Pisler Gustave"
+    ],
+    "Charron": [
+      "Cand Jules"
+    ],
+    "Chaussures": [
+      "Pisler-Bogno Louis"
+    ],
+    "Cordonnier": [
+      "Richard Charles"
+    ],
+    "Epicerie": [
+      "Pisler-Bogno Louis",
+      "Mabille Fernand"
+    ],
+    "Entrepreneur": [
+      "Balzaretti Rémy"
+    ],
+    "Inspecteur du bétail": [
+      "Randin Charles"
+    ],
+    "Instituteurs": [
+      "Mabille Jules",
+      "Randin Marie",
+      "Vuitel Suzanne"
+    ],
+    "Laitier": [
+      "Ramseier Charles"
+    ],
+    "Maréchaux": [
+      "Meylan Louis",
+      "Roulet Louis",
+      "Tréhan Félix"
+    ],
+    "Menuisier": [
+      "Bignens Agénor"
+    ],
+    "Notaire": [
+      "Vuitel Henri"
+    ],
+    "Pasteur": [
+      "de Perrot Gustave"
+    ],
+    "Sage-femme": [
+      "Beauverd A."
+    ],
+    "Sellier-tapissier": [
+      "Caillachon Albert"
+    ],
+    "Sociétés": [
+      "De l'Abbaye des Laboureurs",
+      "L'Echo du Jura (chant)",
+      "De tir aux armes de guerre",
+      "Immobilière",
+      "De fromagerie",
+      "Du battoir à grains",
+      "De musique"
+    ],
+    "Téléphone": [
+      "Bureau des postes"
+    ]
+  },
+  "ROMAINMOTIER": {
+    "Autorités communales": [
+      "Jaccard Henri",
+      "Magnin Paul",
+      "Rochaz Eugène"
+    ],
+    "Municipaux": [
+      "Besson Aloïs",
+      "Besson Jules",
+      "Boulaz César",
+      "Perreaud Emile",
+      "Bonard Louis",
+      "Christen Traugott",
+      "Chantrens Ami"
+    ],
+    "Agriculteurs": [
+      "Benoît Gabriel",
+      "Besson Aloïs",
+      "Besson Jules",
+      "Bonard Louis",
+      "Boulaz Armand",
+      "Boulaz Armand",
+      "Genier Valéria",
+      "Perreaud Emile",
+      "Perreaud Gustave",
+      "Reignier Abr.",
+      "Reignier Louis",
+      "Falquet Arnold"
+    ],
+    "Amodiateurs": [
+      "Bonard Louis",
+      "Perreaud Gustave"
+    ],
+    "Apiculteurs": [
+      "Abrezol Louis",
+      "Boulaz Gustave",
+      "Boulaz César",
+      "Poschung Robert",
+      "Saugy Henri"
+    ],
+    "Asile des petites familles": [
+      "Bessard Henriette"
+    ],
+    "Auberges et cafés": [
+      "Boulaz Armand",
+      "Ciana Antoine",
+      "Marti Jean"
+    ],
+    "Bains": [
+      "Besson Maria"
+    ],
+    "Bétail (march. de)": [
+      "Besson Aloys",
+      "Perreaud Gustave"
+    ],
+    "Blanchisseuses": [
+      "Mütsch Cécile",
+      "Poschung Elise"
+    ],
+    "Bois (march. de)": [
+      "Ciana Antoine",
+      "Guignard Edmond"
+    ],
+    "Boulangers-pâtissiers": [
+      "Butticaz Adrienne",
+      "Zahnd Emile"
+    ],
+    "Brevets d'invention": [
+      "Flesch L."
+    ],
+    "Buraliste postal": [
+      "Dufeu Alice"
+    ],
+    "Camionneur": [
+      "Guignard Edm."
+    ],
+    "Cantonnier": [
+      "Glayre Rodolphe"
+    ],
+    "Chapellerie": [
+      "Poschung Auguste"
+    ],
+    "Charpentiers": [
+      "Diserens Henri",
+      "Diserens Paul"
+    ],
+    "Chaussures (march. de)": [
+      "Poschung Aug.",
+      "Saugy Henri"
+    ],
+    "Chef de section": [
+      "Bonard Louis"
+    ],
+    "Coiffeur": [
+      "Ecuyer Aloïs"
+    ],
+    "Commission scolaire": [
+      "Jaccard Henri",
+      "Subilia Oswald"
+    ],
+    "Couturières": [
+      "Meyer Léonie",
+      "Poget Valentine"
+    ],
+    "Electricien": [
+      "Dufeu Jean"
+    ],
+    "Entrepreneur": [
+      "Borgazzi Alphonse"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Poschung Auguste",
+      "Saugy Henri",
+      "Wehrly Rose"
+    ],
+    "Facteur postal": [
+      "Poschung Robert"
+    ],
+    "Garde-forestier": [
+      "Boulaz Gustave"
+    ],
+    "Garde-police": [
+      "Favre Paul"
+    ],
+    "Gypsiers-peintres": [
+      "Ciana Humbert",
+      "Ciana Baptiste",
+      "Poschung César"
+    ],
+    "Hôtel": [
+      "Boulaz Armand"
+    ],
+    "Inspecteur forestier": [
+      "Monachon Fr."
+    ],
+    "Infirmerie Contesse": [
+      "Pahud Charles",
+      "Perreaud Emile"
+    ],
+    "Inspecteur du bétail": [
+      "Perreaud Ele."
+    ]
+  }
+}

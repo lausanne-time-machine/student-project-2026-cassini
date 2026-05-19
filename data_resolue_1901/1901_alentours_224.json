@@ -1,0 +1,118 @@
+{
+  "VEVEY": {
+    "Hôtels": [
+      "Pension des familles.",
+      "Pension du Château.",
+      "Pension Florentine."
+    ],
+    "Huiles.": [
+      "Dupuis, Henri"
+    ],
+    "Imprimeurs.": [
+      "Klausfelder frères",
+      "Roth, Albert",
+      "Recordon, Alphonse",
+      "Säuberlin & Pfeiffer"
+    ],
+    "Ingénieurs.": [
+      "Bron, Jules",
+      "Panchaud, Charles",
+      "Salles, Adolphe"
+    ],
+    "Instituteurs primaires.": [
+      "Demierre, Louis.",
+      "Dupuis, Jules.",
+      "Luscher, Eug.",
+      "Mayor-Delapraz, Jules.",
+      "Mercier, Maurice.",
+      "Pidoux, Constant.",
+      "Reymond, François.",
+      "Vauthey, Edouard."
+    ],
+    "Institutrices primaires.": [
+      "Aigroz, Eugénie.",
+      "Cailler, Clara.",
+      "Delisle, Emma.",
+      "Domenigoni, Léonie.",
+      "Durussel, Susanne.",
+      "Emery-Dutoit, Caroline.",
+      "Jaccoud, Charlotte.",
+      "Marguerat, Alice.",
+      "Moulin, Marie.",
+      "Pache, Thérèse.",
+      "Pilet, Clara.",
+      "Reymond, Emma.",
+      "Reymond, Lina.",
+      "Reymond, Zoé.",
+      "Romang, Bertha.",
+      "Tapernoux, Louisa.",
+      "Trottet, Charlotte"
+    ],
+    "Instituteurs secondaires. (Collège et Ecole supérieure).": [
+      "Bercher, H.",
+      "Besançon, Alfred",
+      "Betschon, Joseph",
+      "Coste, Léopold",
+      "Durieu, Charles",
+      "Ferrier, Paul",
+      "Godet, Henri",
+      "Guex, Jules",
+      "Huguenin, Fritz-Ed.",
+      "Kratzer, Ch.",
+      "Liausun, Charles",
+      "Pilet, William",
+      "Recordon, Edouard",
+      "Rey, Gustave",
+      "Reynold",
+      "Robert, Léon",
+      "Roth, Auguste",
+      "Simon, Alexis"
+    ],
+    "Institutrices secondaires. (Ecole supérieure).": [
+      "Bolomey, Victorine",
+      "Cusin-Hæchler, Marie",
+      "Domenigoni, Léonie",
+      "Coigny, Marie",
+      "Holzer, Hélène",
+      "Laufer, Jenny",
+      "Mayor, Alexandrine",
+      "Pierallini, Louise",
+      "Reitzel, Adèle"
+    ],
+    "Jardiniers.": [
+      "Arragon, Samuel",
+      "Balmat, C.",
+      "Crot, Henri, fils",
+      "Ernst, Gaspard",
+      "Loeffel, Henri",
+      "Moser, Jacques",
+      "Pasche, Henri",
+      "Schyrr, J.-Baptiste",
+      "Serex, Charles",
+      "Serex, Louis",
+      "Stoudmann, Alfred"
+    ],
+    "Jouets.": [
+      "Bloch, M.",
+      "Delafontaine, Vve",
+      "Mack, F.",
+      "Noth, W."
+    ],
+    "Journaux.": [
+      "Gazette officielle des Etrangers",
+      "Gymnaste (Le)",
+      "Feuille d'Avis de Vevey, Aigle et Oron",
+      "Science pratique (La)"
+    ],
+    "Justice de paix.": [
+      "Obrist, Alfred",
+      "Gétaz-Caillet, Louis",
+      "Arragon, Louis",
+      "Monod, Eugène",
+      "Taverney, Samuel",
+      "Vuadens, Edouard",
+      "Jomini, Alfred",
+      "Fouvy, Louis"
+    ]
+  }
+}

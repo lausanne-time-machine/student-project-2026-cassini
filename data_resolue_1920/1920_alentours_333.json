@@ -1,0 +1,254 @@
+{
+  "POLIEZ-LE-GRAND": {
+    "Cordonnier": [
+      "Mermoud Constant"
+    ],
+    "Couturières": [
+      "Guex Elise",
+      "Mermoud Isabelle",
+      "Panchaud Emma"
+    ],
+    "Epicerie, mercerie": [
+      "Bouquet Aug. R.",
+      "Panchaud Louis. R."
+    ],
+    "Inspecteur du bétail": [
+      "Mermoud Eug."
+    ],
+    "Instituteurs": [
+      "Bouquet Louis",
+      "Golay Clara"
+    ],
+    "Maréchaux": [
+      "Bouquet Jules",
+      "Panchaud Samuel"
+    ],
+    "Officier d'état-civil": [
+      "Mermoud Alfr."
+    ],
+    "Pasteur": [
+      "Redard Maurice"
+    ],
+    "Poste": [
+      "Panchaud Charles"
+    ],
+    "Sellier": [
+      "Gindroz Aloïs"
+    ],
+    "Sociétés": [
+      "Machine à battre. R.",
+      "De fromagerie. R.",
+      "Syndicat agricole. R."
+    ],
+    "Téléphoniste": [
+      "Mermoud Paul"
+    ]
+  },
+  "POLIEZ-PITTET": {
+    "Autorités communales": [
+      "Gindroz Jules",
+      "Pahud Emilien"
+    ],
+    "Syndic": [
+      "Pahud Jules"
+    ],
+    "Municipaux": [
+      "Carrard Léon",
+      "Grognoz Etienne",
+      "Gindroz Oscar",
+      "Carrard Alfred",
+      "Pahud Emilien",
+      "Grognoz Dominique",
+      "Gindroz Daniel"
+    ],
+    "Agriculteurs": [
+      "Carrard Alb.",
+      "Carrard Ami",
+      "Carrard Constant",
+      "Carrard Henri",
+      "Carrard Léon",
+      "Delamadeleine Fr.",
+      "Gindroz Ern.",
+      "Gindroz Jules et Oscar",
+      "Gindroz Louis",
+      "Grognoz Jules",
+      "Grognoz Gustave",
+      "Mivelaz Albert",
+      "Mivelaz Auguste",
+      "Mivelaz Constant",
+      "Mivelaz Marc",
+      "Mivelaz Placide",
+      "Pahud Jules",
+      "Pahud Robert",
+      "Raymond-Morand"
+    ],
+    "Aubergistes": [
+      "Mivelaz Charles",
+      "Monney Marie"
+    ],
+    "Bétail (march. de)": [
+      "Gindroz Jules et Oscar. R."
+    ],
+    "Bois (march. de)": [
+      "Gindroz Ernest"
+    ],
+    "Boulanger": [
+      "Limat Alfred"
+    ],
+    "Charpentiers": [
+      "Mivelaz Charles",
+      "Périsset César",
+      "Périsset Louis"
+    ],
+    "Charron": [
+      "Grognoz Alfred"
+    ],
+    "Cigares et tabacs": [
+      "Grognoz Joseph"
+    ],
+    "Commission scolaire catholique": [
+      "Métral",
+      "Pahud Jules"
+    ],
+    "Commission scolaire protestante": [
+      "Redard",
+      "Carrard Léon",
+      "Gindroz Lucien"
+    ],
+    "Cordonnier": [
+      "Pahud Auguste"
+    ],
+    "Echalas": [
+      "Kæser Pierre"
+    ],
+    "Epicerie, charcuterie, mercerie": [
+      "Grognoz Joseph. R.",
+      "Limat Alfred"
+    ],
+    "Inspecteur du bétail": [
+      "Mivelaz Louis"
+    ],
+    "Instituteurs": [
+      "Dutoit Alfred",
+      "Monod Emmanuel",
+      "Grognoz Angèle"
+    ],
+    "Poste et téléphone": [
+      "Grognoz Joseph"
+    ],
+    "Sage-femme": [
+      "Carrard Rosine"
+    ],
+    "Sociétés": [
+      "De laiterie et de fromagerie. R.",
+      "Du battoir à grain. R."
+    ],
+    "Tailleur": [
+      "Richoz Pierre"
+    ],
+    "Tailleuses": [
+      "Pahud Adélaïde",
+      "Pahud Célestine"
+    ],
+    "Tisserand": [
+      "Pahud Hélène"
+    ]
+  },
+  "RUEYRES": {
+    "Autorités communales": [
+      "Recordon Julien",
+      "Bataillard Louis"
+    ],
+    "Syndic": [
+      "Ozelley Constant"
+    ],
+    "Municipaux": [
+      "David Jules",
+      "David Constant",
+      "Buffat Edmond",
+      "Jordan Aimé",
+      "David Edouard",
+      "Jordan Edouard",
+      "Vagnière Alfred",
+      "Viret Emile"
+    ],
+    "Agriculteurs": [
+      "Basset Louis",
+      "Besson Héli",
+      "Buffat Edmond",
+      "David Alfred",
+      "David Henri",
+      "David Jules",
+      "Depierraz Emile",
+      "Fattebert Octave",
+      "Favre Jules",
+      "Jordan Alfred",
+      "Jordan Jules",
+      "Jordan Julien",
+      "Jordan Lucien",
+      "Jordan Ulysse",
+      "Ozelley Aimé",
+      "Ozelley Constant",
+      "Recordon Auguste",
+      "Thomas Jules",
+      "Viret Ami",
+      "Viret frères",
+      "Vulliety Georges",
+      "Wagnière Aimé",
+      "Wagnière Alfr.",
+      "Wagnière Ernest",
+      "Wagnière Ulysse",
+      "Wagnière Jules",
+      "Wulliamoz Constant"
+    ],
+    "Café": [
+      "Cavin Elise"
+    ],
+    "Charpentier": [
+      "Zahnd Arthur"
+    ],
+    "Charron": [
+      "Recordon Julien"
+    ],
+    "Commission scolaire": [
+      "Recordon Julien",
+      "Wagnière Alfred",
+      "Jordan Edouard"
+    ],
+    "Couturière": [
+      "Besson Adine"
+    ],
+    "Cordonnier": [
+      "Hermann David"
+    ],
+    "Draineur": [
+      "Cuanoud Emile"
+    ],
+    "Epicerie": [
+      "Thomas Emma"
+    ],
+    "Inspecteur du bétail": [
+      "Jordan Aimé"
+    ],
+    "Instituteurs": [
+      "Bataillard Louis",
+      "Buffat Jeanne"
+    ],
+    "Menuisier": [
+      "Viret Emile"
+    ],
+    "Modiste": [
+      "Wagnière Léontine"
+    ],
+    "Scierie": [
+      "Zahnd Arthur"
+    ],
+    "Sociétés": [
+      "De fromagerie. R.",
+      "Du battoir. R."
+    ],
+    "Téléphone": [
+      "Cavin Elise"
+    ]
+  }
+}

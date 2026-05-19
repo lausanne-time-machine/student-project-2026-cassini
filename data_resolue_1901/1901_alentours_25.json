@@ -1,0 +1,261 @@
+{
+  "GIMEL": {
+    "Repasseuses": [
+      "Baud, Lydie-Jenny",
+      "Baudin, Julie",
+      "Heddiguer, Marie",
+      "Zamboni, Mina"
+    ],
+    "Sabotiers": [
+      "Billard, Henri",
+      "Décrevel, Scipion",
+      "Lagnel, Jules"
+    ],
+    "Sage-femme": [
+      "Dailly, Marie"
+    ],
+    "Scierie": [
+      "Fillettaz, Albert"
+    ],
+    "Selliers": [
+      "Baud, Fritz",
+      "Cottier, Aug. R."
+    ],
+    "Serrurier": [
+      "Delévaux, Georges"
+    ],
+    "Sociétés": [
+      "Société d'agriculture du Pied du Jura. R",
+      "Syndicat agricole. R",
+      "Société de fromagerie. R",
+      "Société de l'Hôtel des Bains et des eaux minérales. R."
+    ],
+    "Tailleurs": [
+      "Kuser, Jacob",
+      "Mercier, Samuel"
+    ],
+    "Tailleuses": [
+      "Champion, Hélène",
+      "De Siebenthal",
+      "Jaquier, Emilie",
+      "Réviol, Albertine"
+    ],
+    "Tapissiers": [
+      "Baud, Fritz",
+      "Cottier, Aug."
+    ],
+    "Télégraphiste": [
+      "Reymond, Anselme"
+    ],
+    "Téléphoniste": [
+      "Renaud, Eugénie"
+    ],
+    "Voituriers": [
+      "Champion, Alphonse",
+      "Reymond, Alfred"
+    ]
+  },
+  "LONGIROD": {
+    "Autorités communales": [
+      "Badel, Marc",
+      "Pichon, Eugène",
+      "Badel, Louis",
+      "Cathélaz, Fernand",
+      "Bovy, Emilé",
+      "Aubert, François",
+      "Badel, Charles-François",
+      "Cathélaz, Henri",
+      "Pichon, William",
+      "Vulliens, Louis"
+    ],
+    "Bois (march. de)": [
+      "Vulliens, Louis"
+    ],
+    "Blanchisseuse": [
+      "Vulliens, Adèle"
+    ],
+    "Buraliste postal": [
+      "Cathélaz, Eugénie"
+    ],
+    "Charron": [
+      "Bovy, Jules"
+    ],
+    "Chef de section": [
+      "Badel, Louis"
+    ],
+    "Epicerie, mercerie": [
+      "Badel, Caroline"
+    ],
+    "Fabricant de fourches et rateaux": [
+      "Badel, Emile"
+    ],
+    "Hôtel": [
+      "Hôtel de la Commune",
+      "aux Trois-Sapins",
+      "A. Grosjean. R."
+    ],
+    "Inspecteur du bétail": [
+      "Badel, Marc-Louis"
+    ],
+    "Instituteurs": [
+      "Pichon, Eugene",
+      "Badel-Pasche, Rosalie"
+    ],
+    "Laitier": [
+      "Reymond, Louis. R."
+    ],
+    "Maçon (maître)": [
+      "Melly, Louis"
+    ],
+    "Maréchal et serrurier": [
+      "Badel, Louis"
+    ],
+    "Menuisier": [
+      "Debonneville, John"
+    ],
+    "Mercerie, toilerie": [
+      "Rayroud, Valentine. R."
+    ],
+    "Modiste": [
+      "Pichon, Elvire"
+    ],
+    "Officier d'état civil": [
+      "Badel, John-Louis"
+    ],
+    "Pasteur": [
+      "Trabaud, Henri"
+    ],
+    "Pension pour jeunes gens": [
+      "Pichon, Eugène"
+    ],
+    "Sociétés": [
+      "Société de fromagerie. R",
+      "Syndicat agricole. R"
+    ],
+    "Tailleuse": [
+      "Guignard, Jenny"
+    ],
+    "Télégraphiste et téléphoniste": [
+      "Cathélaz-Pichon, Eugénie"
+    ],
+    "Toilerie": [
+      "Badel. Caroline",
+      "Rayroud, Valentine. R."
+    ],
+    "Divers": [
+      "Pillioud, François",
+      "Vulliens, Aloys"
+    ]
+  },
+  "MARCHISSY": {
+    "Autorités communales": [
+      "Christinet, Jaques",
+      "Coindet, Aloïs",
+      "Coindet, Jules-F.",
+      "Bassin, Ferdinand",
+      "Humbert, Julien",
+      "Humbert, John",
+      "Christinet, Franck",
+      "Humbert, Fernand",
+      "Pilloud, Alfred",
+      "Pilloud, Henri",
+      "Humbert, Alfred"
+    ],
+    "Apiculteurs": [
+      "Bassin, Auguste",
+      "Bassin, John",
+      "Coindet, Aloïs",
+      "Coindet, Jules-François",
+      "Humbert, Julien",
+      "Merlan, Henri",
+      "Pilloud, Henri"
+    ],
+    "Aubergistes": [
+      "Badel, Jaques-Etienne",
+      "Hôtel de la Commune. R",
+      "Bassin, Auguste"
+    ],
+    "Bétail (march. de)": [
+      "Humbert, Emile",
+      "Bassin, Ferdinand",
+      "Humbert, Louis"
+    ],
+    "Boulangerie": [
+      "Baudin, Charles"
+    ],
+    "Charpentiers-menuisiers": [
+      "Bassin, Jean",
+      "Coindet, Aloïs",
+      "Coindet, Jean-François-Louis"
+    ],
+    "Charron": [
+      "Bassin, Auguste"
+    ],
+    "Commerce de bois": [
+      "Ruch, Jules"
+    ],
+    "Commission scolaire": [
+      "Christinet, Jaques",
+      "Pilloud, Henri",
+      "Trabaud"
+    ],
+    "Etoffes, épicerie, mercerie, tabacs": [
+      "Derbigny-Badel. R",
+      "Humbert-Bringold, dame. R."
+    ],
+    "Inspecteur du bétail": [
+      "Christinet, Jaques"
+    ],
+    "Instituteurs": [
+      "Francfort, Ernest",
+      "Chapuis, Sophie"
+    ],
+    "Laitier": [
+      "Humbert, Louis"
+    ],
+    "Lingère": [
+      "Derbigny, Jenny"
+    ],
+    "Maréchal": [
+      "Bill, Charles"
+    ],
+    "Pensions d'été pour étrangers": [
+      "Humbert-Bringold, dame. R",
+      "Humbert, Isaac",
+      "Cartier, Louise"
+    ],
+    "Pierriste": [
+      "Piguet, Jules-Auguste"
+    ],
+    "Rateaux (fabricant de)": [
+      "Bassin, Jean"
+    ],
+    "Scieur": [
+      "Ruch, Jules"
+    ],
+    "Serrurier": [
+      "Bill, Charles"
+    ],
+    "Société": [
+      "Société de fromagerie. R."
+    ],
+    "Tailleuses": [
+      "Bassin, Julia",
+      "Derbigny, Jenny",
+      "Humbert, Elise"
+    ],
+    "Télégraphiste et téléphoniste": [
+      "Humbert, Louise"
+    ],
+    "Tourneurs": [
+      "Bassin, Jean",
+      "Coindet, Jean-François-Louis"
+    ],
+    "Divers": [
+      "Bassin, Emile",
+      "Bassin, Albert",
+      "Bassin, Ferdinand",
+      "Badel, Susanne"
+    ]
+  }
+}

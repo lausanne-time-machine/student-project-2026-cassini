@@ -1,0 +1,339 @@
+{
+  "ORMONT-DESSOUS": {
+    "CONTINUATION_FROM_PREVIOUS_PAGE": [
+      "Aigle-Sépey-Diablerets",
+      "Pont de la Tine",
+      "Planchamp",
+      "Les Larrets",
+      "Exgillod"
+    ],
+    "Députés du cercle": [
+      "Pichard Frank",
+      "Monod Alfred"
+    ],
+    "Syndic": [
+      "Monod Alfred"
+    ],
+    "Secrétaire": [
+      "Vurlod René"
+    ],
+    "Boursier": [
+      "Morier Paul"
+    ],
+    "Huissier": [
+      "Mermod Henri"
+    ],
+    "Municipaux": [
+      "Dupertuis Jules-Ed.",
+      "Oguey Jules",
+      "Vurlod John",
+      "Vurlod Jules"
+    ],
+    "Juge": [
+      "Tenthorey Henri"
+    ],
+    "Assesseurs": [
+      "Borlat Gustave",
+      "Oguey Aloïs",
+      "Oguey-Chablaix Jules",
+      "Oguey-Dufresne Jules"
+    ],
+    "Greffier": [
+      "Pernollet Paul"
+    ]
+  },
+  "LE SEPEY": {
+    "Député": [
+      "Monod Alfred"
+    ],
+    "Cantonniers": [
+      "Echenard A.",
+      "Monod Adolphe",
+      "Morex Alexis",
+      "Nicolier J.",
+      "Tauxe V.",
+      "Tavernier M."
+    ],
+    "Chef de gare A.-S.-D.": [
+      "Isabel Paul"
+    ],
+    "Chef de section": [
+      "Pernollet Paul"
+    ],
+    "Commandant du feu": [
+      "Bonzon Chs"
+    ],
+    "Commission scolaire": [
+      "Paux Robert"
+    ],
+    "Contrôleur du lait": [
+      "Tille Alfred"
+    ],
+    "Garde-forestier": [
+      "Arthur Arthur"
+    ],
+    "Greffier de paix": [
+      "Pernollet Paul"
+    ],
+    "Inspecteur du bétail": [
+      "Mermod Hri."
+    ],
+    "Inspecteur de la loque": [
+      "de Siebenthal A."
+    ],
+    "Instituteurs": [
+      "Lambercy Eugène",
+      "Ziegenhagen Joseph"
+    ],
+    "Institutrice": [
+      "Tenthorey-Braissant Elisa"
+    ],
+    "Juge de paix": [
+      "Tenthorey Henri"
+    ],
+    "Officier d'état-civil": [
+      "Monod Alf.",
+      "Dupertuis Jules-Ed."
+    ],
+    "Pasteur": [
+      "Paux Rob."
+    ],
+    "Police (agent de)": [
+      "Mermod Henri"
+    ],
+    "Poste et télégraphe": [
+      "Tille Jules"
+    ],
+    "Agent d'affaires patenté": [
+      "Chabloz Charles"
+    ],
+    "Agriculteurs": [
+      "Borloz Ferdinand",
+      "Chablaix Arthur",
+      "Chablaix Henri",
+      "Chamorel Ami",
+      "Chamorel Const.",
+      "Durgnat-Tauxe Jules",
+      "Durgnat-Tauxe Lydie",
+      "Durgnat Ol.",
+      "Dupertuis Vincent",
+      "Grosjacques Ant.",
+      "Ginier Eugène",
+      "Hubert Alexis",
+      "Hubert-Pichard Paul",
+      "Hubert-Hubert Ami",
+      "Mermod Aimé",
+      "Morier Arthur",
+      "Morier Victor",
+      "Mottier Gustave",
+      "Oguey Jules",
+      "Tavernier Henri",
+      "Tille-Monod Eug.",
+      "Mottier Alfred"
+    ],
+    "Apiculteur": [
+      "Oguey Jules"
+    ],
+    "Appareilleurs": [
+      "Nicolier Marcel",
+      "Oguey-Dufresne Jules"
+    ],
+    "Armurier": [
+      "Ginier Constant"
+    ],
+    "Assurance-vieillesse": [
+      "Lambercy Eug."
+    ],
+    "Banques": [
+      "CRÉDIT FONCIER VAUDOIS",
+      "Caisse d'Epargne Cantonale",
+      "Monod Alfred",
+      "Caisse du Crédit Mutuel",
+      "Tenthorey Henri"
+    ],
+    "Bétail (march. de)": [
+      "Mermod Ami",
+      "de Jules"
+    ],
+    "Blanchisseuse": [
+      "Bonzon-Girod Louisa"
+    ],
+    "Bois (marchand de)": [
+      "Durgniat Marcel"
+    ],
+    "Boucherie": [
+      "Tille-Echenard Clara"
+    ],
+    "Boulangers": [
+      "Dupertuis J.-Ed.",
+      "Monod Marcel",
+      "Wagner Félix"
+    ],
+    "Cafés-rest.": [
+      "Bertholet Adrien",
+      "Hôtel des Alpes",
+      "Félix & fils",
+      "Hôtel du Mont d'Or",
+      "Haesler Jean",
+      "Hôtel du Cerf",
+      "Vercellone D."
+    ],
+    "Cafés et thés": [
+      "Mury Roger"
+    ],
+    "Camionneurs": [
+      "Carando Joseph",
+      "Oguey Aug."
+    ],
+    "Cercueils": [
+      "Bonzon Albert",
+      "Mermod Henri",
+      "Tauxe Constant"
+    ],
+    "Chapellerie": [
+      "Pernollet"
+    ],
+    "Charpentiers": [
+      "Pernet Eugène",
+      "Pernet Henri",
+      "Pernet Jules"
+    ],
+    "Charron": [
+      "Pernet Jules"
+    ],
+    "Chaussures": [
+      "Pernollet"
+    ],
+    "Coiffeur": [
+      "Rime Auguste"
+    ],
+    "Confection": [
+      "Demartin Violette",
+      "Mermod Yvonne"
+    ],
+    "Cordonniers": [
+      "Miechlin Joseph",
+      "Tauxe Edward"
+    ],
+    "Couturière": [
+      "Mermod Yvonne"
+    ],
+    "Crèmerie": [
+      "Dupertuis Jules-Edouard"
+    ],
+    "Entrepreneurs": [
+      "Carando Charles",
+      "Colombo & fils",
+      "Guanzini Jean",
+      "Jelmoli Jean",
+      "Oguey Auguste"
+    ],
+    "Epiceries": [
+      "Dupraz Lydie",
+      "Ginier S. et M.",
+      "Hubert",
+      "Mermod Hri.",
+      "Pernollet Paul",
+      "Société coopérative",
+      "Wagner Félix"
+    ],
+    "Equarrisseur": [
+      "Schäfer Rodolphe"
+    ],
+    "Facteurs": [
+      "Ansermet Auguste",
+      "Burlet Emile"
+    ],
+    "Ferblantiers": [
+      "Oguey-Dufresne Jules",
+      "Nicolier Marcel"
+    ],
+    "Fers et quincaillerie": [
+      "Hubert Lydie",
+      "Pernollet Paul"
+    ],
+    "Grains et farine": [
+      "Dupertuis J.",
+      "Monod Marcel"
+    ],
+    "Hôtels et pensions": [
+      "Hôtel des Alpes",
+      "Bertholet Adrien",
+      "Hôtel du Cerf",
+      "Haesler Jean",
+      "Pension le Belvédère",
+      "La Combaz",
+      "Bonzon",
+      "Hôtel du Mont-d'Or",
+      "Félix frères"
+    ],
+    "Imprimerie": [
+      "Pichard Jules"
+    ],
+    "Journal": [
+      "Echo de la Montagne",
+      "Picherd Jules"
+    ],
+    "Laiterie-fromage": [
+      "Soc. de laiterie"
+    ],
+    "Maréchaux-mécaniciens": [
+      "Nicolier Marcel",
+      "Oguey Jules"
+    ],
+    "Menuisier": [
+      "Tauxe Constant"
+    ],
+    "Merceries": [
+      "Ginier S. et M.",
+      "Pernollet Paul"
+    ],
+    "Notaire": [
+      "Chablaix Paul"
+    ],
+    "Pensions d'enfants": [
+      "Champillon-Christinat D.",
+      "Ecole au Soleil des Noisetiers",
+      "Rollier, Dr",
+      "Les Délices",
+      "Monod Ida",
+      "Les Oiselets",
+      "Monod David"
+    ],
+    "Primeurs": [
+      "Pernollet Vve"
+    ],
+    "Sage-femme": [
+      "Michelin Méry"
+    ],
+    "Sellier-tapissier": [
+      "Mermod Alfred"
+    ],
+    "Serruriers": [
+      "Ginier C.",
+      "Oguey Jules"
+    ],
+    "Scieries": [
+      "Durgnat Marcel",
+      "Pernet Jules"
+    ],
+    "Sociétés": [
+      "Section de la Croix-Bleue",
+      "Sté d'Abbaye du Stand de la Forclaz",
+      "Sté d'agriculture",
+      "Sté des Carabiniers libres des Alpes",
+      "Sté coopérative",
+      "Sté du Cordon rouge",
+      "Sté de crédit mutuel",
+      "Sté des fromageries de Pertuis",
+      "Sté de la Patinoire",
+      "Sté de tir aux armes de guerre",
+      "Sté de tir libre à Ormonts-Dessous",
+      "Syndicat agricole",
+      "Syndicat d'élevage"
+    ],
+    "Voiturier-transports": [
+      "Ginier Alf."
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "COINSINS": {
+    "Propriétaire": [
+      "Guebhard, dame"
+    ],
+    "Société": [
+      "De fromagerie de Vich et Coinsins"
+    ],
+    "Téléphoniste": [
+      "Baumann Gottfried"
+    ]
+  },
+  "COMMUGNY": {
+    "Autorités communales": [
+      "Widmer Louis",
+      "Hermenjat Henri"
+    ],
+    "Syndic": [
+      "Hermenjat Marc"
+    ],
+    "Municipaux": [
+      "Claris Charles",
+      "Polencent Charles",
+      "Vuillet Louis",
+      "Decré Edouard",
+      "Blanc Paul",
+      "Decré Edouard"
+    ],
+    "Agriculteurs": [
+      "Beaudois, veuve",
+      "Blazer Louis",
+      "Chapallaz",
+      "Claris Charles",
+      "Decré Edouard",
+      "Decré John",
+      "Gindraux Jules",
+      "Guichoud Philippe",
+      "Guignet Marc",
+      "Hermenjat Charles",
+      "Hermenjat Jaques",
+      "Hermenjat Louis",
+      "Hermenjat, veuve",
+      "Hermenjat-Vulliet",
+      "Peiler Henri",
+      "Pellegrin Elise",
+      "Pellegrin Paul",
+      "Perey Alfred",
+      "Polencent Charles",
+      "Robert frères",
+      "Roybin Claude",
+      "Sulliger Christian",
+      "Thomann David",
+      "Vuillet John",
+      "Widmer Louis"
+    ],
+    "Aubergistes": [
+      "Guippone Fs",
+      "Nicollier Elise"
+    ],
+    "Bétail (march. de.)": [
+      "Guignet Ami",
+      "Thomann David",
+      "Widmer L."
+    ],
+    "Boulanger": [
+      "Vernez"
+    ],
+    "Buraliste postal": [
+      "Moille François"
+    ],
+    "Charpentiers": [
+      "Michard François",
+      "Rouge Théophile"
+    ],
+    "Commission scolaire": [
+      "Lagier Albert",
+      "Guichoud Philippe",
+      "Widmer Louis"
+    ],
+    "Cordonnier": [
+      "Kamerzin Henri"
+    ],
+    "Couturières": [
+      "Clerc Jenny",
+      "Fazan Célina",
+      "Grimanet Angélique",
+      "Morand Esther",
+      "Rayroud Amile"
+    ],
+    "Entrepreneur": [
+      "Rouge Th."
+    ],
+    "Epicerie": [
+      "Maillefer Louis",
+      "Metzger Jenny-Louise"
+    ],
+    "Inspecteurs du bétail": [
+      "Claris Charles",
+      "Hermenjat Charles"
+    ],
+    "Instituteurs": [
+      "Blanc Paul",
+      "Jaques Alice"
+    ],
+    "Jardiniers": [
+      "Régnier Alex.",
+      "Zeier Th."
+    ],
+    "Laitiers-fromagers": [
+      "Guignet Ami",
+      "Société coopérative de Genève"
+    ],
+    "Limes (aiguiseur de)": [
+      "Kohler Frédéric"
+    ],
+    "Machines à carder (fabr. de)": [
+      "Maillefer Louis"
+    ],
+    "Maréchal": [
+      "Wehrli Louis"
+    ],
+    "Menuisiers": [
+      "Maillefer Louis",
+      "Michard François",
+      "Rayroud Paul",
+      "Rouge Théophile"
+    ],
+    "Pasteur": [
+      "Lagier Albert"
+    ],
+    "Rentiers": [
+      "Decré Elie",
+      "Decré John",
+      "Gaudin Auguste",
+      "Monnerat Jn-Ls",
+      "Resin Philomène",
+      "Sandoz Rosalie"
+    ],
+    "Scieur": [
+      "Rouge Théophile"
+    ],
+    "Sociétés": [
+      "De la fromagerie et du poids public",
+      "Des Eaux de Commugny-Mies"
+    ],
+    "Vignerons": [
+      "Blanc Alexis",
+      "Buclin Albert",
+      "Favre Jean",
+      "Finjod Aglaé",
+      "Morand Charles",
+      "Pittet François",
+      "Roybin Claude",
+      "Séchaud Julien",
+      "Sordat Emile"
+    ],
+    "Divers": [
+      "Bosson John",
+      "Duvillard-Blaser",
+      "Galopin Adolphe",
+      "Pittard Charles",
+      "Siedler Godefroy",
+      "Wisard"
+    ]
+  },
+  "COPPET": {
+    "Autorités communales": [
+      "Michel Jules",
+      "Baierlé Marc"
+    ],
+    "Syndic": [
+      "Collioud Marc"
+    ],
+    "Municipaux": [
+      "Baierlé Emile",
+      "Meylan Adrien",
+      "Poitry Félix",
+      "Mayor Henri",
+      "Duvillard Fernand",
+      "Widmer Théophile",
+      "Pidoux François",
+      "Michel Jules"
+    ],
+    "Agriculteurs": [
+      "Collioud Marc",
+      "Duvillard Fernand",
+      "Duvillard Arnold",
+      "Martin François",
+      "Natural Henri"
+    ],
+    "Assesseur": [
+      "Baierlé Emile"
+    ],
+    "Assurance": [
+      "La Genevoise",
+      "Pidoux F."
+    ],
+    "Aubergistes et cafetiers": [
+      "Anker John",
+      "Galmiche Emile",
+      "Meylan-Renaud",
+      "Pfenninger Emile",
+      "Vallotton"
+    ],
+    "Bois (march. de)": [
+      "Rouge Ami"
+    ],
+    "Boucher": [
+      "Widmer Théophile"
+    ],
+    "Boulangers": [
+      "Chenevard-Mündiger Francis",
+      "Desbois Louis"
+    ],
+    "Buraliste postal": [
+      "Favre Ernest"
+    ],
+    "Carrossier": [
+      "Steiner F."
+    ],
+    "Charpentier-menuisier": [
+      "Renaud Henri"
+    ],
+    "Charron": [
+      "Steffen Gustave"
+    ],
+    "Chef de gare": [
+      "Bolomey David"
+    ],
+    "Coiffeur": [
+      "Manger, veuve de Charles"
+    ],
+    "Commission scolaire": [
+      "Mercier Louis",
+      "Michel Jules"
+    ],
+    "Cordonnier": [
+      "Hauswirth Pierre"
+    ],
+    "Couvreur": [
+      "Antonietti Laurent"
+    ],
+    "Distillateurs": [
+      "Michel Jules",
+      "Michel F."
+    ],
+    "Eaux gazeuses": [
+      "Baierlé Emile"
+    ],
+    "Electriciens": [
+      "Gaudin Louis",
+      "Société lausannoise d'électricité"
+    ]
+  }
+}

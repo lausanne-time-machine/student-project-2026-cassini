@@ -1,0 +1,274 @@
+{
+  "BALLAIGUES": {
+    "Poste": [
+      "Bourgeois, Auguste"
+    ],
+    "Quincaillerie": [
+      "Maillefer, François",
+      "Matthey, Emile"
+    ],
+    "Sages-femmes": [
+      "Leresche, Sophie",
+      "Leresche, Mathilde"
+    ],
+    "Sellier-tapissier": [
+      "Leresche, Paul"
+    ],
+    "Sociétés": [
+      "Société du poids public",
+      "Sociétés de la fromagerie d'été (société no 1 et société no 2)",
+      "Société des Forges du Creux",
+      "Association immobilière"
+    ],
+    "Tailleurs": [
+      "Bourgeois, Emile",
+      "Miéville, François"
+    ],
+    "Tailleuses": [
+      "Besançon, Virginie",
+      "Conod, Elise",
+      "Leresche, Caroline",
+      "Leresche, Alice"
+    ],
+    "Télégraphiste": [
+      "Bourgeois, Clémence"
+    ],
+    "Tisserand": [
+      "Chablais, Henri"
+    ],
+    "Tonnelier": [
+      "Bourgeois, Edouard"
+    ],
+    "Usine du Creux": [
+      "Schibel, Ernest"
+    ],
+    "Vinaigre (fabr.)": [
+      "Bourgeois et fils"
+    ],
+    "Vins (march.)": [
+      "Arnold, Otto",
+      "Bourgeois, Auguste",
+      "Bourgeois-Conod, Paul",
+      "Bourgeois, Palmyr",
+      "Bourgeois et fils"
+    ],
+    "Voituriers": [
+      "Conod, Charles",
+      "Turin, Auguste"
+    ]
+  },
+  "BAULMES": {
+    "Autorités communales": [
+      "Dériaz, Ch.-joseph",
+      "Eternod, Auguste"
+    ],
+    "Syndic": [
+      "Dériaz, Juste"
+    ],
+    "Municipaux": [
+      "Cachemaille, César",
+      "Dériaz, Ch.-D.",
+      "Collet, Charles",
+      "Dériaz, Louis",
+      "Dériaz, Charles-Jean",
+      "Dériaz, Ernest"
+    ],
+    "Aubergistes": [
+      "Collet, Charles",
+      "Degiez, Charles",
+      "Kuhn, Jacob",
+      "Mabille, Louis",
+      "Pérusset, Emile",
+      "Pérusset, Auguste",
+      "Zwahlen, Alfred"
+    ],
+    "Bois (march.)": [
+      "Gonthier, Auguste",
+      "Baillod, Ed.",
+      "Matthey, Frédéric",
+      "Pache, Héli",
+      "Pérusset, Ch.-Henri-Victor"
+    ],
+    "Bouchers": [
+      "Cachemaille, Alfred",
+      "Pérusset, Louis"
+    ],
+    "Boulangers": [
+      "Bornand-Margot",
+      "Cachemaille, Emile",
+      "Schenk, Arnold"
+    ],
+    "Buraliste postal": [
+      "Dériaz, Ch.-Joseph"
+    ],
+    "Café de tempérance": [
+      "Pillevuit, Albert"
+    ],
+    "Caisses d'emballage (fabr.)": [
+      "Pache, Héli",
+      "Matthey, Frédéric"
+    ],
+    "Charpentiers": [
+      "Mayerat, Arnold",
+      "Ravussin, Maurice",
+      "Rossier, Léon"
+    ],
+    "Charrons": [
+      "Cachemaille, Victor",
+      "Simon, Eugène"
+    ],
+    "Chaux et ciments": [
+      "Société des Chaux et Ciments de Baulmes"
+    ],
+    "Chef de section": [
+      "Cachemaille, Agénor"
+    ],
+    "Commission scolaire": [
+      "Perusset, Alfred"
+    ],
+    "Denrées coloniales": [
+      "Dériaz, Ch.-J."
+    ],
+    "Distillateurs": [
+      "Collet, Ulysse",
+      "Junod, L.",
+      "Matthey, Fréd."
+    ],
+    "Entrepreneurs de maçonnerie": [
+      "Bollini",
+      "Gonthier, Fr.",
+      "Nolli, Alexandre"
+    ],
+    "Epicerie, tabacs": [
+      "Bornand, C.",
+      "Ciocca, Rosalie",
+      "Emery, Louis",
+      "Margot, Félix",
+      "Simon-Dériaz"
+    ],
+    "Ferblantiers": [
+      "Collet, Ch.-Victor",
+      "Mottaz, Rodolphe"
+    ],
+    "Géomètre breveté": [
+      "Perusset, Georges"
+    ],
+    "Gypsier": [
+      "Bollini, Marc"
+    ],
+    "Horlogers": [
+      "Bornand, César",
+      "Demelais, Jaques-Louis"
+    ],
+    "Huilerie": [
+      "Eschbacher, Fritz"
+    ],
+    "Inspecteur du bétail": [
+      "Pillevuit, Louis-Abram"
+    ],
+    "Instituteurs": [
+      "Favre, Ch.",
+      "Grin, Albert",
+      "Vulliemin, François",
+      "Logoz, Susanne",
+      "Dériaz, Alice",
+      "Eternod, Marguerite",
+      "Meylan, Elvina"
+    ],
+    "Justice de paix": [
+      "Pellevuit, Charles",
+      "Collet, Ulysse",
+      "Eternod, Auguste"
+    ],
+    "Maréchaux": [
+      "Bertschy, Alexandre",
+      "Mabille, D."
+    ],
+    "Mécanicien": [
+      "Bréchon, Jules"
+    ],
+    "Médecin": [
+      "Chauvet, Alfred"
+    ],
+    "Menuisiers": [
+      "Delay, Edmond",
+      "Demelais, Emile",
+      "Dériaz, Victor",
+      "Mabille, Auguste"
+    ],
+    "Mercerie": [
+      "Ciocca, Rosalie",
+      "Emery, Louis",
+      "Simon-Dériaz"
+    ],
+    "Meunier": [
+      "Gonthier, Auguste"
+    ],
+    "Notaire": [
+      "Reymond, Louis-Henri"
+    ],
+    "Officier d'état civil": [
+      "Dériaz, Julien"
+    ],
+    "Pasteurs": [
+      "Logoz, Edouard",
+      "Porret"
+    ],
+    "Photographe": [
+      "Dériaz, Armand"
+    ],
+    "Sages-femmes": [
+      "Cornu, Emma",
+      "Dériaz, Henriette",
+      "Varioli, Marie"
+    ],
+    "Scieurs": [
+      "Gonthier, Auguste",
+      "Matthey, Fréd.",
+      "Pache, Héli",
+      "Pérusset, Ch.-Henri-Victor",
+      "Ravussin, David"
+    ],
+    "Selliers": [
+      "Bonnevaux, David",
+      "Gerber, Ferdinand",
+      "Fischer-Jaccard"
+    ],
+    "Serrurier": [
+      "Collet, Emmanuel"
+    ],
+    "Sociétés": [
+      "Société de fromagerie du Thé",
+      "Société de fromagerie de la Grand'Rue",
+      "Société militaire",
+      "Société du poids public",
+      "Cercle du Jura",
+      "Société immobilière",
+      "Société des chaux et ciments",
+      "Syndicat agricole"
+    ],
+    "Tailleurs": [
+      "Hochuli",
+      "Merz"
+    ],
+    "Tanneurs": [
+      "Eschbacher, Fritz",
+      "Kreutz, hoirs de Ch. & Cie"
+    ],
+    "Télégraphiste": [
+      "Dériaz, Ch."
+    ],
+    "Tonnelier": [
+      "Collet, Ulysse"
+    ],
+    "Vins (march.)": [
+      "Dériaz, Ch.-Joseph"
+    ]
+  },
+  "BAVOIS": {
+    "Autorités municipales": [
+      "Hermin, Eugène",
+      "Agassis, Juste-Louis"
+    ]
+  }
+}

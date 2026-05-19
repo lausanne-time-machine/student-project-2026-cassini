@@ -1,0 +1,129 @@
+{
+  "VILLE DE LAUSANNE": {
+    "Assurances": [
+      "Assurance mutuelle vaudoise",
+      "Grivat Charles",
+      "Bonnet Louis",
+      "Bâloise (la)",
+      "Caisse nationale Suisse",
+      "Compagnie d'assurances Nationale Suisse",
+      "Générale (la)",
+      "Helvétia, Société suisse d'assurances",
+      "Echenard René",
+      "Générale (la)",
+      "Nationale Suisse",
+      "Neuchâteloise (la)"
+    ]
+  },
+  "Aigle": {
+    "Assurance maladie-accidents": [
+      "Eug. Kohli"
+    ]
+  },
+  "Aubonne": {
+    "Assurance maladie-accidents": [
+      "A. Delacrausaz",
+      "R. Boinot"
+    ]
+  },
+  "Avenches": {
+    "Assurance maladie-accidents": [
+      "E. Wenger"
+    ]
+  },
+  "Bussigny": {
+    "Assurance maladie-accidents": [
+      "A. Spahni"
+    ]
+  },
+  "Cossonay": {
+    "Assurance maladie-accidents": [
+      "Samuel Laurent"
+    ]
+  },
+  "Grandson": {
+    "Assurance maladie-accidents": [
+      "Charles Mottaz"
+    ]
+  },
+  "Lausanne": {
+    "Assurance maladie-accidents": [
+      "Marius Robellaz"
+    ]
+  },
+  "Lucens": {
+    "Assurance maladie-accidents": [
+      "Charles Chollet"
+    ]
+  },
+  "Montreux": {
+    "Assurance maladie-accidents": [
+      "A. Bernasconi"
+    ]
+  },
+  "Morges": {
+    "Assurance maladie-accidents": [
+      "A. Seliner"
+    ]
+  },
+  "Nyon": {
+    "Assurance maladie-accidents": [
+      "A. Huber"
+    ]
+  },
+  "Orbe": {
+    "Assurance maladie-accidents": [
+      "Maurice Vaney"
+    ]
+  },
+  "Payerne": {
+    "Assurance maladie-accidents": [
+      "Ch. Bastian"
+    ]
+  },
+  "Pays d'Enhaut": {
+    "Assurance maladie-accidents": [
+      "Ch. Dost"
+    ]
+  },
+  "Pont (Le)": {
+    "Assurance maladie-accidents": [
+      "J. Humberset"
+    ]
+  },
+  "Renens": {
+    "Assurance maladie-accidents": [
+      "Rob. Dégallier"
+    ]
+  },
+  "Rolle": {
+    "Assurance maladie-accidents": [
+      "L. Tattet"
+    ]
+  },
+  "Ste-Croix": {
+    "Assurance maladie-accidents": [
+      "H. Reymond"
+    ]
+  },
+  "Sentier (Le)": {
+    "Assurance maladie-accidents": [
+      "S. Meylan-Ogay"
+    ]
+  },
+  "Vallorbe": {
+    "Assurance maladie-accidents": [
+      "H. Matthey"
+    ]
+  },
+  "Vevey": {
+    "Assurance maladie-accidents": [
+      "A. Siegfried"
+    ]
+  },
+  "Yverdon": {
+    "Assurance maladie-accidents": [
+      "E. Schrag"
+    ]
+  }
+}

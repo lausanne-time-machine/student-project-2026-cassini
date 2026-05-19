@@ -1,0 +1,422 @@
+{
+  "BALLAIGUES": {
+    "Garde-malade": [
+      "Doy Mlles",
+      "Champ-Rose"
+    ],
+    "Gypsiers-peintres": [
+      "Maffei Jean",
+      "Zacco & fils"
+    ],
+    "Horlogerie": [
+      "Pignons (S. A.)"
+    ],
+    "Hôtels-pensions": [
+      "Grand-Hôtel Aubépine",
+      "Leresche Octave",
+      "Pension Maillefer Jules",
+      "Hôtel des Balances",
+      "Bugnon Marcel",
+      "Croix d'Or",
+      "Junod Gustave"
+    ],
+    "Jardiniers": [
+      "Jaccard Charles",
+      "Rose Samuel"
+    ],
+    "Laitiers": [
+      "Campiche Ch.",
+      "Crausaz Edmond"
+    ],
+    "Lingères": [
+      "Leresche Alice",
+      "Reuge Louise"
+    ],
+    "Maçon": [
+      "Nibbio François"
+    ],
+    "Matériaux de construction": [
+      "Nibbio frères"
+    ],
+    "Mécaniciens": [
+      "Maillefer Albert",
+      "Maillefer, les fils d'Aug., S. A."
+    ],
+    "Menuisiers-ébénistes": [
+      "Jaques Gustave",
+      "Leresche-Goy Jules",
+      "Maillefer Emile et Henri"
+    ],
+    "Mercerie": [
+      "Brun Marie",
+      "Leresche Berta et Rose",
+      "Maillefer Georges"
+    ],
+    "Meunier": [
+      "Doy Henri"
+    ],
+    "Moutarde (fabr. de)": [
+      "Bourgeois frères & Cie, S. A."
+    ],
+    "Outils aratoires": [
+      "Leresche Palmyr"
+    ],
+    "Pensions-famille": [
+      "Bourgeois Georges",
+      "Huber Rosa",
+      "Jaques Gustave",
+      "Leresche Laurent",
+      "Subilia, Mme"
+    ],
+    "Professeurs": [
+      "Bourgeois Georges",
+      "Subilia Marthe",
+      "Desilvestri C."
+    ],
+    "Primeurs": [
+      "Jaccard Elise",
+      "Leresche",
+      "Vve de Duval"
+    ],
+    "Radio": [
+      "Rose Robert"
+    ],
+    "Scierie": [
+      "Forges du Creux, S. A."
+    ],
+    "Sellier-tapissier": [
+      "Challandes Henri"
+    ],
+    "Serrurier": [
+      "Rose Charly"
+    ],
+    "Sociétés": [
+      "Caisse de crédit mutuel",
+      "Sté d'agriculture",
+      "Sté du Choeur d'hommes",
+      "Sté du Choeur mixte",
+      "Sté de fromagerie No 1 et No 2",
+      "Sté de musique La Lyre",
+      "Syndicat d'élevage"
+    ],
+    "Transports": [
+      "Conod Charles",
+      "Société des Auto-Transports de la Vallée de l'Orbe"
+    ],
+    "Vélos": [
+      "Thornhill Harry"
+    ],
+    "Vinaigre, vins, moutarde Mont-d'Or": [
+      "Bourgeois frères & Cie, S. A."
+    ],
+    "Voiturier": [
+      "Conod Albert"
+    ],
+    "Divers": [
+      "Bourgeois David",
+      "Bussy Roger",
+      "Maillefer W."
+    ]
+  },
+  "BALLENS": {
+    "Syndic": [
+      "Allamand Louis"
+    ],
+    "Secrétaire": [
+      "Viallon Philippe"
+    ],
+    "Boursier": [
+      "Oppeliguer Henri"
+    ],
+    "Huissier": [
+      "Mayor Robert",
+      "Rubattel Arthur"
+    ],
+    "Municipaux": [
+      "Croisier Agénor",
+      "Mayor Jules",
+      "Nicole Jean",
+      "Coytaux G."
+    ],
+    "Pasteur": [
+      "Vuille Paul"
+    ],
+    "Assesseurs": [
+      "Baudin Philippe",
+      "Bugnoux Jules",
+      "Fazan Henri",
+      "Mattille Waldemar"
+    ],
+    "Cantonnier": [
+      "Vallotton Auguste"
+    ],
+    "Chef de section": [
+      "à Bière"
+    ],
+    "Commandant du feu": [
+      "Viallon Phil."
+    ],
+    "Commission scolaire": [
+      "Rubattel Arthur"
+    ],
+    "Contrôleur du lait": [
+      "Mayor Edmond"
+    ],
+    "Garde forestier": [
+      "Fleury A."
+    ],
+    "Gare B.-A.-M. (chef de)": [
+      "Zbinden-Gaudin H."
+    ],
+    "Greffier de paix": [
+      "Croisier Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Convers Paul"
+    ],
+    "Inspecteur des viandes": [
+      "Oppeliguer Henri"
+    ],
+    "Instituteurs": [
+      "Mœsching Auguste",
+      "Viallon-Rochat Marguerite"
+    ],
+    "Juge de paix": [
+      "Besson Charles"
+    ],
+    "Officier d'état-civil": [
+      "Candoz Paul"
+    ],
+    "Office de poursuites, préfecture, recette": [
+      "à Aubonne"
+    ],
+    "Police (agent de)": [
+      "Schopfer Ulysse"
+    ],
+    "Poste": [
+      "Testaz Benjamin"
+    ],
+    "Téléphone station": [
+      "Vallotton Marie"
+    ],
+    "Agriculteurs": [
+      "André Samuel",
+      "Champendal François",
+      "Coytaux Georges",
+      "Convers Paul",
+      "Convers John",
+      "Convers Jules",
+      "Croisier Arnold",
+      "Croisier Agénor",
+      "Croisier Jules",
+      "Croisier Louis",
+      "Croisier William",
+      "Decollogny Bernard",
+      "Fleury Albert",
+      "Gouffon John",
+      "Klay Ernest",
+      "Mayor Ernest",
+      "Monod Roger",
+      "Nicole Jean",
+      "Oppeliguer frères",
+      "Oppeliguer Hermann",
+      "Papaux Fernand",
+      "Pilet Jean",
+      "Roch Gustave",
+      "Roch Jules",
+      "Roch Octave",
+      "Roch frères",
+      "Vallotton Jules",
+      "Viallon Georges",
+      "Viallon Robert",
+      "Schopfer Ulysse",
+      "Zbinden Olivier"
+    ],
+    "Amodiateurs": [
+      "Croisier Arnold",
+      "Roch Fernand",
+      "Roch Octave"
+    ],
+    "Apiculteur": [
+      "Santschy Louis"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite",
+      "Mœsching Auguste"
+    ],
+    "Autos-garage": [
+      "Allamand Louis, fils, S. A."
+    ],
+    "Banque": [
+      "Crédit Mutuel",
+      "Viallon Ph."
+    ],
+    "Bois (march. de)": [
+      "Zbinden Henri"
+    ],
+    "Boucherie": [
+      "Mayor Paul"
+    ],
+    "Boulangerie": [
+      "Besson Pierre"
+    ],
+    "Cafés": [
+      "Oppeliguer Robert",
+      "Vallotton Jules"
+    ],
+    "Charrons": [
+      "L. Allamand S. A.",
+      "Piguet Charles"
+    ],
+    "Cordonnier": [
+      "Bovard Jules"
+    ],
+    "Entrepreneur": [
+      "Monod Arthur"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Besson Pierre",
+      "Viallon Philippe"
+    ],
+    "Forgerons": [
+      "Allamand S. A.",
+      "Oppeliguer Robert"
+    ],
+    "Fromagerie": [
+      "Sté laiterie de Ballens"
+    ],
+    "Machines agricoles": [
+      "Allamand Ls, fils, S. A."
+    ],
+    "Maçon": [
+      "Monod Arthur"
+    ],
+    "Maréchaux": [
+      "Allamand L. S. A.",
+      "Oppeliguer Robert"
+    ],
+    "Maraîcher": [
+      "S.G.G.",
+      "Weber Fritz"
+    ],
+    "Matériaux de constr.": [
+      "Monod Arthur"
+    ],
+    "Mécanicien": [
+      "Allamand S.A."
+    ],
+    "Menuisier": [
+      "Vallotton Auguste"
+    ],
+    "Notaire": [
+      "Croisier Louis"
+    ],
+    "Scieur": [
+      "Zbinden Henri"
+    ],
+    "Sociétés": [
+      "Fanfare municipale",
+      "Sté de chant L'Helvétienne",
+      "Sté de Crédit mutuel (Raiffeisen)",
+      "Sté de fromagerie",
+      "Sté de Jeunesse",
+      "Sté sportive F.-C. Ballens",
+      "Sté de tir Armes de guerre",
+      "Syndicat agricole et d'élevage"
+    ]
+  },
+  "BASSINS": {
+    "Député": [
+      "Genevay Paul"
+    ],
+    "Syndic": [
+      "Genevay Paul"
+    ],
+    "Secrétaire": [
+      "Treboux Louis"
+    ],
+    "Boursier": [
+      "Velan Alexis"
+    ],
+    "Huissier": [
+      "Badel Edouard"
+    ],
+    "Municipaux": [
+      "André Jules",
+      "Badel Maurice",
+      "Badel William",
+      "Dunand Charles",
+      "Genevay Maurice",
+      "Treboux Chs."
+    ],
+    "Cantonnier": [
+      "Bosson César"
+    ],
+    "Chef de section": [
+      "Genevay Maurice"
+    ],
+    "Commandant du feu": [
+      "Genevay Paul"
+    ],
+    "Commission scolaire": [
+      "Treboux Louis",
+      "Badel Maurice"
+    ],
+    "Forestiers": [
+      "Treboux Louis",
+      "Velan Alexis",
+      "Badel Robert"
+    ],
+    "Inspecteur du bétail": [
+      "Velan Maurice"
+    ],
+    "Inspecteur des viandes": [
+      "Treboux Ls."
+    ],
+    "Instituteurs": [
+      "Henri Rob.",
+      "Genevay-Barth Marie"
+    ],
+    "Juge de paix": [
+      "Genevay Edmond"
+    ],
+    "Office de poursuites, préfecture, recette": [
+      "à Nyon"
+    ],
+    "Pasteur": [
+      "Aubert Emile"
+    ],
+    "Police (agent de)": [
+      "Badel Edouard"
+    ],
+    "Poste et Télégr.": [
+      "Treboux François"
+    ],
+    "Téléphone public": [
+      "Chambaz Emile"
+    ],
+    "Agriculteurs": [
+      "Badel William",
+      "Badel Louis",
+      "Badel Edouard",
+      "Besson William",
+      "Duboux Ch.",
+      "Duboux Emile",
+      "Duboux Henri",
+      "Dunand Charles",
+      "Genevay Auguste",
+      "Genevay Maurice",
+      "Genevay Paul",
+      "Genevay Marc",
+      "Haefeli Js-César",
+      "Hofer Jean",
+      "Hofer Robert",
+      "Mercet Louis",
+      "Treboux Edmond",
+      "Treboux Edouard",
+      "Treboux Ernest d'Alfred",
+      "Treboux Ernest de Julien",
+      "Velan Adrien"
+    ]
+  }
+}

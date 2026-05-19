@@ -1,0 +1,222 @@
+{
+  "PRANGINS": {
+    "Laitier": [
+      "Badel Jules-G. R."
+    ],
+    "Maréchal": [
+      "Auberson Emile."
+    ],
+    "Menuisier-charpentier": [
+      "Deluz Aimé."
+    ],
+    "Régisseur": [
+      "Yersin Jean."
+    ],
+    "Rentiers": [
+      "Jæger Eugène",
+      "Moricand dame",
+      "Worth Jean-Philippe"
+    ],
+    "Sage-femme": [
+      "Auberson Ida."
+    ],
+    "Serrurier": [
+      "Dessous l'Eglise Ami."
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Tailleur": [
+      "Kastner J."
+    ],
+    "Téléphone": [
+      "Auberge communale."
+    ],
+    "Téléphoniste et télégraphiste": [
+      "Guillet Adolphe."
+    ],
+    "Voituriers": [
+      "André Marc",
+      "Dégailier fils",
+      "André Charles",
+      "André Louis-François",
+      "Gonin Lucien."
+    ]
+  },
+  "SAINT-CERGUES": {
+    "Autorités communales": [
+      "Treboux Eugène",
+      "Tissot Albert",
+      "Tissot Jules-Ferdinand",
+      "Treboux Charles",
+      "André Louis-Abram",
+      "André Louis-François",
+      "Mayet L.",
+      "Tissot Ami",
+      "Rossellat Octave",
+      "Rossellat Gustave",
+      "Tissot Albert"
+    ],
+    "Agriculteurs": [
+      "Annen Lucien",
+      "Barbezat Emile",
+      "Henrioux Ami",
+      "Treboux Octave"
+    ],
+    "Auberges": [
+      "Turrian Ami",
+      "Fossery Gustave",
+      "Vanny, Vve de César"
+    ],
+    "Boulanger": [
+      "Didion, Vve & fils"
+    ],
+    "Charpentiers": [
+      "Treboux Charles-François",
+      "Barbiéri Léon"
+    ],
+    "Charrons": [
+      "Mayet Louis",
+      "Olivier Eugène"
+    ],
+    "Chef de section": [
+      "Tissot Henri."
+    ],
+    "Commission scolaire": [
+      "Rossellat Gustave",
+      "Mayet Louis"
+    ],
+    "Distillateur": [
+      "Rossellat Gustave."
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Didion, Vve & fils",
+      "Durgniat Emile"
+    ],
+    "Hôtels-pensions": [
+      "Auberson, Vve & fils.",
+      "Fossery Gustave",
+      "Capt Caroline",
+      "Gimpert E. T."
+    ],
+    "Inspecteur du bétail": [
+      "Rossellat Gustave."
+    ],
+    "Instituteurs": [
+      "Reymond François",
+      "Treboux Emma."
+    ],
+    "Librairie": [
+      "Meylan-Argence."
+    ],
+    "Maréchal": [
+      "Rossellat Henri."
+    ],
+    "Médecin": [
+      "Perrier Jules."
+    ],
+    "Menuisiers": [
+      "Barbiéri Thomas",
+      "Treboux Charles-François"
+    ],
+    "Officier d'état civil": [
+      "Rossellat Gustave."
+    ],
+    "Pasteur": [
+      "Hechler Eugène."
+    ],
+    "Pension-famille": [
+      "Rossellat O."
+    ],
+    "Poste": [
+      "Guillet Adolphe."
+    ],
+    "Sociétés": [
+      "Du Grand Hôtel de l'Observatoire",
+      "De Ste-Madelaine de la Croisette",
+      "D'embellissement",
+      "De tir",
+      "De chant « Chorale »"
+    ]
+  },
+  "LA CURE": {
+    "Aubergistes": [
+      "Chevassus Olivier",
+      "Monnier Philibert",
+      "Paget-Blanc Paul",
+      "Ponthus Alphonse",
+      "Tissot Jules-Reymond"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Chevassus Olivier",
+      "Michaud Lucien",
+      "Monnier Philibert",
+      "Paget-Blanc Paul",
+      "Ponthus Alphonse",
+      "Vandelle Armand",
+      "Vandelle Jules",
+      "Vandelle-Prudent Olivier",
+      "Vandelle-Prudent, fils de Gabriel"
+    ]
+  },
+  "SIGNY": {
+    "Autorités communales": [
+      "Tecon Jules",
+      "Tecon Michel",
+      "Mamboury Ami",
+      "Parisod Auguste",
+      "Jaton Lucien",
+      "Annen Julien",
+      "Crausaz Eugène",
+      "Dubois Eugène"
+    ],
+    "Agriculteurs": [
+      "Bertholet Louis",
+      "Crausaz Charles",
+      "Keller Louis",
+      "Lehmann Théophile",
+      "Mamboury Ami",
+      "Matthey Robert",
+      "Parisod Auguste",
+      "Parral Louis",
+      "Tecon Michel"
+    ],
+    "Café": [
+      "Egerter Frédéric"
+    ],
+    "Commission scolaire": [
+      "Mamboury Ami."
+    ],
+    "Epicerie": [
+      "Dubois sœurs."
+    ],
+    "Graveur": [
+      "Dubois Eugène."
+    ],
+    "Inspecteur du bétail": [
+      "Mamboury Ami."
+    ],
+    "Instituteur": [
+      "Dubois Eugène."
+    ],
+    "Société": [
+      "De fromagerie de Grens et Signy"
+    ],
+    "Téléphone": [
+      "Egerter F."
+    ],
+    "Divers": [
+      "Bertholet Louis",
+      "Crausaz Charles",
+      "Keller Louis",
+      "Matthey Robert"
+    ]
+  },
+  "TANNAY": {
+    "Autorités communales": [
+      "Desplands John",
+      "Delor Louis",
+      "Dutoit François"
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "DENENS": {
+    "Boursier": [
+      "Sauty Emile"
+    ],
+    "Municipaux": [
+      "Bachelard Agénor",
+      "Gilgen Emile",
+      "Ormond Louis",
+      "Pernet Robert"
+    ],
+    "Huissier": [
+      "Laurent Paul"
+    ],
+    "Assesseur": [
+      "Sauty Emile"
+    ],
+    "Greffier": [
+      "Jacot Gust."
+    ],
+    "Inspecteur du bétail": [
+      "Gillabert Jn."
+    ],
+    "Instituteurs": [
+      "Coulon Louis",
+      "Chaudet Edmée"
+    ],
+    "Juge de paix": [
+      "Rebuz Henri"
+    ],
+    "Poste": [
+      "Gillabert Ida"
+    ],
+    "Téléphone": [
+      "Chaubert Robert"
+    ],
+    "Agriculteurs": [
+      "Bachelard Agénor",
+      "Bignens Fernand T.",
+      "Cuvit André",
+      "Duruz Laurent",
+      "Gillabert Jean",
+      "Gilgen hoirie",
+      "Graenicher Ern.",
+      "Jacot Jules",
+      "Laurent Ch.",
+      "Metzger Ch.",
+      "Ormond Ls",
+      "Perey Victor",
+      "Pernet Robert",
+      "Pelichet Elisée",
+      "Reymond Ph.",
+      "Sauty Alb.",
+      "Sauty Const. T.",
+      "Sauty Louis",
+      "Sauty Nancy",
+      "Viret Emile",
+      "Hugi Alfred"
+    ],
+    "Assurance-vieillesse": [
+      "Coulon Louis"
+    ],
+    "Boulanger": [
+      "Chaubert Robert"
+    ],
+    "Café": [
+      "C. Loriol"
+    ],
+    "Commission scolaire": [
+      "Moreillon Robert"
+    ],
+    "Epicerie": [
+      "Chaubert Robert"
+    ],
+    "Laiterie": [
+      "Sociétété de laiterie",
+      "Sauty Constant"
+    ],
+    "Rentier": [
+      "de Buren Alfred"
+    ],
+    "Société": [
+      "Sté immobilière du Battoir à grains de Denens et Villars-sous-Yens"
+    ],
+    "Viticulteur": [
+      "de Buren Ch.",
+      "Cuche Alb."
+    ]
+  },
+  "DENEZY": {
+    "Syndic": [
+      "Crisinel Jean"
+    ],
+    "Secrétaire": [
+      "Crisinel Aug."
+    ],
+    "Boursier": [
+      "Chevalley Henri"
+    ],
+    "Huissier": [
+      "Chevalley Aimé"
+    ],
+    "Municipaux": [
+      "Chambaz Louis",
+      "Chevalley Henri",
+      "Chevalley René",
+      "Deppierraz Lucien",
+      "Deppierraz Robert",
+      "Girard Louis"
+    ],
+    "Cantonnier": [
+      "Pochon Charles"
+    ],
+    "Commandant du feu": [
+      "Deppierraz Fernand"
+    ],
+    "Commission scolaire": [
+      "Deppierraz Lucien",
+      "Chambaz Ls."
+    ],
+    "Garde forestier": [
+      "Martin Ami"
+    ],
+    "Inspecteur du bétail": [
+      "Chevalley Al."
+    ],
+    "Inspecteur des viandes": [
+      "Chevalier Marc"
+    ],
+    "Instituteurs": [
+      "Vivian Louis",
+      "Chevalley Elise"
+    ],
+    "Officier d'état civil": [
+      "Crisinel Aimé-Louis"
+    ],
+    "Pasteur": [
+      "Deluz René"
+    ],
+    "Police (agent de)": [
+      "Chevalley Aimé"
+    ],
+    "Poste et télégraphe": [
+      "Durussel René"
+    ],
+    "Téléphone": [
+      "Martin Louis"
+    ],
+    "Agriculteurs": [
+      "Chambaz Emile",
+      "Chambaz Louis",
+      "Chevalier Marc",
+      "Chevalley Alexis",
+      "Chevalley Aimé",
+      "Chevalley Armand",
+      "Chevalley Ch.",
+      "Chevalley Henri",
+      "Crisinel Clément",
+      "Crisinel frères",
+      "Crisinel Jean",
+      "Deppierraz Aloïs",
+      "Deppierraz Ami",
+      "Deppierraz Robert",
+      "Deppierraz Samuel",
+      "de Siebenthal Benoît",
+      "Girard Louis",
+      "Gilliand Aimé",
+      "Gilliand Fernand",
+      "Pidoux Jules",
+      "Schenk Jean",
+      "Schick Fritz"
+    ],
+    "Apiculteurs": [
+      "Crisinel Aimé",
+      "Pochon Charles"
+    ],
+    "Assurance-vieillesse": [
+      "Vivian Louis",
+      "Chevalier Marc"
+    ],
+    "Café": [
+      "Martin Louis"
+    ],
+    "Epicerie": [
+      "Fackler Hans"
+    ],
+    "Laitier": [
+      "Stucki Gottfried"
+    ],
+    "Meunier": [
+      "Moulin agricole",
+      "Crisinel Aug.",
+      "Fivaz Alfred"
+    ],
+    "Pompes funèbres du Nord": [
+      "Fackler Hans"
+    ],
+    "Rentiers": [
+      "Chambaz Alph.",
+      "Chevalley Aloïs"
+    ],
+    "Scierie": [
+      "Deppierraz Aloïs"
+    ],
+    "Sociétés": [
+      "Sté d'assurance du bétail bovin",
+      "Sté coopérative du battoir",
+      "Sté de la fromagerie",
+      "Sté du moulin agricole",
+      "Sté de tir",
+      "Syndicat de drainage",
+      "Syndicat d'élevage de bétail bovin"
+    ]
+  },
+  "DENGES": {
+    "Syndic": [
+      "Rossier Edmond"
+    ],
+    "Secrétaire": [
+      "Paquier François"
+    ],
+    "Boursier": [
+      "Paquier Robert"
+    ],
+    "Huissier": [
+      "Gilliéron Marcel"
+    ],
+    "Municipaux": [
+      "Blanc Louis",
+      "Paquier Eugène",
+      "Paquier Juste",
+      "Rochat Maurice"
+    ],
+    "Commission scolaire": [
+      "Rossier Edm."
+    ],
+    "Inspecteur du bétail": [
+      "Borboën Frs."
+    ],
+    "Inspecteur des viandes": [
+      "Roulin Armand"
+    ],
+    "Instituteurs": [
+      "Rapaz Marcel",
+      "Gilliéron Adèle"
+    ],
+    "Téléphone": [
+      "Café des Amis"
+    ],
+    "Agriculteurs": [
+      "Blanc Louis",
+      "Blanc Henri",
+      "Borboën François",
+      "Clerc Jules",
+      "Chapuis Rob.",
+      "Gilliéron Alfred",
+      "Giroud Albert",
+      "Grosso Joseph",
+      "Marti Johann",
+      "Paquier Eug.",
+      "Paquier Juste",
+      "Paquier-Pasteur Maurice",
+      "Paquier-Rieben Maurice",
+      "Paquier César",
+      "Paquier Henri",
+      "Paquier Louis",
+      "Paquier Robert",
+      "Ramelet Louis",
+      "Rochat Maurice",
+      "Rossier Paul",
+      "Rossier Edmond",
+      "Rossier Jules",
+      "Schmid Edmond",
+      "Wälti Albert"
+    ],
+    "Assurance-vieillesse": [
+      "Rapaz Marcel"
+    ],
+    "Bétail (commerce de)": [
+      "Chappuis Robert"
+    ],
+    "Boulanger": [
+      "Ischy Emile"
+    ],
+    "Café": [
+      "Paquier François"
+    ],
+    "Charpentiers": [
+      "Lehmann Paul",
+      "Reymond René",
+      "Reymond Victor"
+    ],
+    "Distillateurs": [
+      "Paquier frères"
+    ],
+    "Epicerie, mercerie": [
+      "Paquier Emile"
+    ],
+    "Laitier": [
+      "Laiterie agricole",
+      "Paquier François"
+    ],
+    "Maraîchers": [
+      "Blanc Henri",
+      "Clerc Louis"
+    ],
+    "Pompes funèbres du Nord": [
+      "Raymond René"
+    ],
+    "Rentier": [
+      "Nicoud-Paquier Julie"
+    ],
+    "Sociétés": [
+      "Club des Amis",
+      "Sté immobilière du battoir",
+      "Sté de l'Abbaye des fusiliers",
+      "Sté de laiterie"
+    ],
+    "Viticulteurs": [
+      "Paquier Eugène",
+      "Paquier Marcel",
+      "Rattaz Gustave",
+      "Reymond Henri",
+      "Rossier Auguste"
+    ]
+  },
+  "DIZY": {
+    "Député": [
+      "Devenoge Fr."
+    ],
+    "Syndic": [
+      "Jaquier Maurice"
+    ],
+    "Secrétaire": [
+      "Ueltschi Edouard"
+    ],
+    "Boursier": [
+      "Cugny Albert"
+    ],
+    "Huissier": [
+      "Brocard François"
+    ],
+    "Municipaux": [
+      "Devenoge François",
+      "Devenoge Pierre",
+      "Gaudin Robert",
+      "Neuschwander Robert"
+    ],
+    "Commandant du feu": [
+      "Devenoge Fr."
+    ],
+    "Commission scolaire": [
+      "Devenoge François"
+    ],
+    "Contrôleur du lait": [
+      "Gaudin Henri"
+    ],
+    "Garde-forestier": [
+      "Berger Gustave"
+    ],
+    "Inspecteur du bétail": [
+      "Gaudin Henri"
+    ],
+    "Instituteur": [
+      "Berthoud Lucien"
+    ]
+  }
+}

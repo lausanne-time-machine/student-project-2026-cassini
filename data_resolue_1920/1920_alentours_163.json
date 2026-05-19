@@ -1,0 +1,238 @@
+{
+  "Grandcour": {
+    "Agriculteurs": [
+      "Rapin Gustave",
+      "Rapin Hubert",
+      "Rapin Jules",
+      "Rapin Ls",
+      "Rapin-Perrin Constant",
+      "Rapin-Rapin Ernest",
+      "Rapin Samuel",
+      "Rossier Henri",
+      "Savary Edouard",
+      "Schülé Constant",
+      "Tenthorey Alexis",
+      "Thévoz Fritz"
+    ],
+    "Assesseur.": [
+      "Cherbuin Edouard"
+    ],
+    "Auberges et cafés.": [
+      "Bersier Arthur",
+      "Clot Aimé",
+      "Detrey Albert",
+      "Fischer Henri",
+      "Mounoud Arthur",
+      "Oulevey Sylvain",
+      "Perrin Henri",
+      "Perrin Ernest"
+    ],
+    "Betterave à sucre (culture).": [
+      "Chuard, Alfred",
+      "Chuard Emile",
+      "Coucet Jaques",
+      "Jaquemet William",
+      "Oulevey Emile"
+    ],
+    "Bois (march. de).": [
+      "Bossy frères"
+    ],
+    "Boulangers.": [
+      "Cherbuin Paul. R.",
+      "Detrey Jules. R.",
+      "Pradervand Constant. R."
+    ],
+    "Briqueterie.": [
+      "Morandi frères"
+    ],
+    "Charcutiers.": [
+      "Cherbuin-Déglon Paul. R.",
+      "Fischer Gustave"
+    ],
+    "Charpentiers.": [
+      "Rossier-Ochs Henri",
+      "Rüfenacht Ad."
+    ],
+    "Charrons.": [
+      "Detrey Théodore",
+      "Ruchat Jules"
+    ],
+    "Chef de section.": [
+      "Fivaz Gustave"
+    ],
+    "Chefs de gare.": [
+      "Detrey",
+      "Louisjean Hri"
+    ],
+    "Cigares et tabacs (fab. de).": [
+      "Ott-Nicodet"
+    ],
+    "Coiffeurs.": [
+      "Detrey Albert",
+      "Rapin Oswald"
+    ],
+    "Commission scolaire.": [
+      "Rapin-Rapin Ernest",
+      "Rapin Robert"
+    ],
+    "Cordonniers.": [
+      "Gyger Ernest"
+    ],
+    "Couturières.": [
+      "Cherbuin Isabelle",
+      "Chuard Hortense",
+      "Kocher-chans-Jaccoud Aline"
+    ],
+    "Engrais chimiques.": [
+      "Perrin Gustave",
+      "Rapin Constant"
+    ],
+    "Epicerie, mercerie.": [
+      "Cherbuin-Déglon Paul. R.",
+      "Jaquiéry",
+      "Perrin Jules. R.",
+      "Rapin-Chuard Gust. R.",
+      "Rapin-Schneider César. R.",
+      "Rapin Suzanne",
+      "Rossier Gémina"
+    ],
+    "Farines (comm. de).": [
+      "Bossy frères"
+    ],
+    "Faucheuses.": [
+      "Rapin Ernest",
+      "Troyon Henri",
+      "Mahon Jules"
+    ],
+    "Ferblantier.": [
+      "Jan Aimé"
+    ],
+    "Fers.": [
+      "Rapin Octave. R."
+    ],
+    "Fourches et râteaux (fab. de).": [
+      "Jan-Oulevey Ernest"
+    ],
+    "Grains (comm. de).": [
+      "Bossy & Cie. R.",
+      "Bossy frères. R.",
+      "Bossy Constant"
+    ],
+    "Gypsier-peintre.": [
+      "Perracini Fidèle"
+    ],
+    "Greffier de paix.": [
+      "Perrin-Cherbuin Ernest"
+    ],
+    "Huilier.": [
+      "Rapin Jean-David"
+    ],
+    "Inspecteur du bétail.": [
+      "Fivaz Edmond",
+      "Rapin Gustave"
+    ],
+    "Instituteurs.": [
+      "Berger Richard",
+      "Gonin Léon",
+      "Margot Jules",
+      "Massonnet Robert",
+      "Chuard-Décastel Clara",
+      "Rapin Adèle",
+      "Desponds Estelle",
+      "Rapin Adèle",
+      "Ruérat Louise"
+    ],
+    "Juge au tribunal.": [
+      "Fivaz Jules"
+    ],
+    "Laitier.": [
+      "Bärtschi Jean"
+    ],
+    "Lingères.": [
+      "Buschy Ida",
+      "Rüfenacht Cécile"
+    ],
+    "Maçons.": [
+      "Perracini Fidèle",
+      "Rapin Arthur"
+    ],
+    "Maréchaux.": [
+      "Detrey Samuel",
+      "Jan Gustave"
+    ],
+    "Matériaux de construction.": [
+      "Rapin Constant"
+    ],
+    "Machine à battre.": [
+      "Bossy Const.",
+      "Rapin-Guillod Alfred"
+    ],
+    "Mécanicien.": [
+      "Troyon Henri. T."
+    ],
+    "Menuisiers.": [
+      "Jaccoud Constant",
+      "Rapin Fidély"
+    ],
+    "Meuniers.": [
+      "Bossy & Cie",
+      "Bossy Constant",
+      "Rapin Alfred"
+    ],
+    "Officier d'état-civil.": [
+      "Cherbuin Oth."
+    ],
+    "Pasteur.": [
+      "Perrochon Jean"
+    ],
+    "Porcs (march. de).": [
+      "Baechler-Meillard Alf."
+    ],
+    "Poste.": [
+      "Cherbuin-Schneider Jules"
+    ],
+    "Rentiers.": [
+      "Bossy Charles",
+      "Chuard Eugénie"
+    ],
+    "Produits agricoles.": [
+      "Chuard & Perrin. R."
+    ],
+    "Sages-femmes.": [
+      "Perrin Octavie",
+      "Rapin Méry"
+    ],
+    "Selliers.": [
+      "Blanc Auguste",
+      "Buache William",
+      "Rapin Edmond"
+    ],
+    "Sociétés.": [
+      "De laiterie. R.",
+      "D'agriculture. R.",
+      "Syndicat des planteurs de tabac. R.",
+      "Syndicat pour l'amélioration de la race porcine et caprine",
+      "Syndicat d'élevage R."
+    ],
+    "Tabacs.": [
+      "Syndicat des planteurs de tabac",
+      "Perrin-Cherbuin Ernest"
+    ],
+    "Télégraphiste.": [
+      "Cherbuin-Schneider Jules"
+    ],
+    "Téléphoniste.": [
+      "Rossier Gémina"
+    ],
+    "Tisserands.": [
+      "Luthy Frédéric",
+      "Matthys Jean"
+    ],
+    "Tonnelier.": [
+      "Kocherhans Jacob"
+    ],
+    "Tourneur.": [
+      "Locher Emile"
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "BREMBLENS": {
+    "Commission scolaire": [
+      "Chapuis E.",
+      "Martin Ernest",
+      "Milliet"
+    ],
+    "Couturières": [
+      "Chevalley Cécile",
+      "Perret Aline",
+      "Rosset Caroline"
+    ],
+    "Dépositaire postal": [
+      "Lædermann Henri"
+    ],
+    "Epicerie": [
+      "Michon Sophie"
+    ],
+    "Gérances": [
+      "Chappuis Pierre"
+    ],
+    "Inspecteur du bétail": [
+      "Mercet Victor"
+    ],
+    "Instituteur": [
+      "Beauverd William"
+    ],
+    "Institutrice": [
+      "Mercet Elise"
+    ],
+    "Laitier": [
+      "Zbinden Alfred"
+    ],
+    "Maçon": [
+      "Tavel Charles"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "Bibliothèque populaire",
+      "Chant «La Paysanne»",
+      "Syndicat d’élevage du bétail bovin"
+    ],
+    "Téléphoniste": [
+      "Michon Sophie"
+    ],
+    "Vignerons": [
+      "Crausaz François",
+      "Fleury Jules",
+      "Mercet Victor",
+      "Monnet Henri",
+      "Perret Ulysse",
+      "Kirschmann Charles"
+    ]
+  },
+  "BUCHILLON": {
+    "Autorités communales": [
+      "Coendoz Victor",
+      "Corthay Edouard",
+      "Corthay Samuel",
+      "Genoux Louis",
+      "Girardet Louis",
+      "Humbert Henri",
+      "Rochat Edouard",
+      "de Lessert Roger",
+      "Perroud Charles"
+    ],
+    "Agriculteurs": [
+      "Cœndoz Vr",
+      "Félix Henri",
+      "Genoux-Rawyler Louis",
+      "Humbert Henri",
+      "Perroud Charles",
+      "Perroud Louis"
+    ],
+    "Café": [
+      "Corthay Julie"
+    ],
+    "Commission scolaire": [
+      "Rochat Ed.",
+      "Roland",
+      "de Lessert Roger"
+    ],
+    "Couturières": [
+      "Corthay Cécile",
+      "Foretay Adèle",
+      "Perroud Edith",
+      "Reymond Charlotte"
+    ],
+    "Epicerie": [
+      "Genoux-Bonzon Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Genoux-Rawyler Louis"
+    ],
+    "Instituteurs": [
+      "Guidoux André",
+      "Perroud Alice"
+    ],
+    "Jardiniers": [
+      "Corthay Ch.",
+      "Trottet Edouard"
+    ],
+    "Pêcheurs": [
+      "Bolomey Jules",
+      "Corthay Edouard",
+      "Corthay Emile",
+      "Girardet Louis",
+      "Lachat Charles",
+      "Lachat Jules",
+      "Pasche Jules",
+      "Salzmann E."
+    ],
+    "Pensions": [
+      "Pension de la Forêt",
+      "Genoux A.",
+      "Pension des Grands Bois",
+      "Colliard J."
+    ],
+    "Pisciculteur": [
+      "Etat de Vaud"
+    ],
+    "Poste": [
+      "Corthay François"
+    ],
+    "Sage-femme": [
+      "Trottet Ruth"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Téléphoniste": [
+      "Genoux-Bonzon"
+    ],
+    "Vignerons": [
+      "Corthay Louis",
+      "Corthay Samuel",
+      "Jousson Louis"
+    ]
+  },
+  "BUSSIGNY": {
+    "Autorités communales": [
+      "Pittet Charles",
+      "Gorgerat Charles",
+      "Barraud William",
+      "Moret Ulysse",
+      "Dutoit Constant",
+      "Bally Jules",
+      "Perret Franç.",
+      "Neyret Albert",
+      "Barraud Alexandre",
+      "Rossier Charles",
+      "Emery Marc"
+    ],
+    "Agence commerciale et immobilière": [
+      "Monthoux F."
+    ],
+    "Agent de la Croix Bleue": [
+      "Payot Armand"
+    ],
+    "Agriculteurs": [
+      "Bally, hoirs de John",
+      "Barraud Alexandre",
+      "Barraud Alphonse",
+      "Barraud Charles",
+      "Barraud Edouard",
+      "Barraud Eug.",
+      "Barraud Jules",
+      "Barraud Jules-Bapt.",
+      "Barraud Louis",
+      "Barraud-Cottier Lucien",
+      "Bessat Henri",
+      "Blanc Henri",
+      "Desplands Charles",
+      "Dumont Maurice",
+      "Dutoit Constant",
+      "Gorgerat Henri",
+      "Moret Georges",
+      "Moret Ulysse",
+      "Neyret Albert",
+      "Pittet Charles",
+      "Perret François",
+      "Reymond Robert",
+      "Rossier Charles",
+      "Vaney Jules",
+      "Valet Jules",
+      "Vuerchoz Louis",
+      "Zahner Albert",
+      "Zahner Alfred"
+    ],
+    "Apiculteur": [
+      "Jaquier Charles"
+    ],
+    "Architecte-dessinateur": [
+      "Vaney Ed."
+    ],
+    "Assurance maladie": [
+      "Société suisse de secours mutuels Helvétia",
+      "Duperret Alphonse"
+    ],
+    "Assesseur": [
+      "Barraud Alexandre"
+    ],
+    "Auberges et cafés": [
+      "Desarzens François",
+      "Hôtel de Ville",
+      "Herbey",
+      "Jaquemet Elisa",
+      "Martin Louis",
+      "Schmidli"
+    ],
+    "Benzine (en gros)": [
+      "Benzinéum"
+    ],
+    "Bétail (march. de)": [
+      "Dutoit Constant",
+      "Martin Louis"
+    ],
+    "Bois (comm. de)": [
+      "Wyssbrod Dav.",
+      "Fayet Henri"
+    ],
+    "Boucher": [
+      "Burger Alexandre"
+    ],
+    "Boulangers": [
+      "Dussoix",
+      "Roulet J.",
+      "Barraud & Cie."
+    ],
+    "Buraliste postal": [
+      "Emery Marc"
+    ],
+    "Charpentiers-menuisiers": [
+      "Rey Guillaume",
+      "Krayenbühl"
+    ],
+    "Charretiers": [
+      "Monnard François",
+      "Moret Auguste",
+      "Piccard Henri"
+    ],
+    "Chef de gare": [
+      "Beauverd"
+    ],
+    "Chef de section": [
+      "Pittet Charles"
+    ],
+    "Chiffonnier": [
+      "Besson Louis"
+    ],
+    "Commission scolaire": [
+      "Subilia Ch.",
+      "Gorgerat Constant"
+    ]
+  }
+}

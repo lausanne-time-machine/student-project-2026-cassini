@@ -1,0 +1,202 @@
+{
+  "ROMANEL": {
+    "Eaux alcalines": [
+      "Source Providence"
+    ],
+    "Entrepreneur": [
+      "Borgnana, Baptiste"
+    ],
+    "Epicerie, mercerie": [
+      "Crottaz, Marie",
+      "Pilet, Jules"
+    ],
+    "Géomètre breveté": [
+      "Deluz, Ernest"
+    ],
+    "Gypsier-peintre": [
+      "Borgnana, Baptiste"
+    ],
+    "Inspecteur du bétail": [
+      "Peytrequin, Alfred"
+    ],
+    "Instituteurs": [
+      "Baudet, Auguste",
+      "Besson, Emma"
+    ],
+    "Laitiers": [
+      "Baud, Henri",
+      "Guex, Emile",
+      "Rey, Jean"
+    ],
+    "Lingère": [
+      "Nysler, Fanny"
+    ],
+    "Maréchal": [
+      "Chamot, Auguste"
+    ],
+    "Menuisiers": [
+      "Bovey, Eugène",
+      "Borgnana, Baptiste"
+    ],
+    "Officier de l'état civil": [
+      "Perrochon, Victor"
+    ],
+    "Pensions d'été": [
+      "Borloz, Marc",
+      "Deluz, veuve"
+    ],
+    "Poste": [
+      "Bovey, Jules"
+    ],
+    "Sellier": [
+      "Favrat, Eugène"
+    ],
+    "Société": [
+      "Syndicat agricole de Romanel et des Vernands"
+    ],
+    "Tailleur": [
+      "Richli; Joseph"
+    ],
+    "Téléphoniste": [
+      "Duflon, Oscar"
+    ],
+    "Tissus": [
+      "Crottaz, Marie"
+    ],
+    "Divers": [
+      "Ami, Marc-François",
+      "Baudet, Alexis",
+      "Bovey, David",
+      "Bovey, Henri",
+      "Bovey, Jules",
+      "Groux, Louis"
+    ]
+  },
+  "DISTRICT DE LA VALLÉE": {
+    "Préfet": [
+      "Golay, Vincent"
+    ],
+    "Substitut": [
+      "Baud, Emile"
+    ],
+    "Receveur": [
+      "Capt, William"
+    ],
+    "Voyer": [
+      "Capt, Léon"
+    ],
+    "Tribunal de district": [
+      "Meylan, Louis-Michel",
+      "Guignard, Louis-Frédéric",
+      "Capt-Baud, Hector",
+      "Meylan-Capt, Emile",
+      "Berney, Louis-François",
+      "Piguet. Alfred, fils"
+    ]
+  },
+  "L'ABBAYE": {
+    "Autorités communales": [
+      "Berney, J.-David",
+      "Rochat, John"
+    ],
+    "Syndic": [
+      "Berney, L.-François"
+    ],
+    "Municipaux": [
+      "Guignard, Paul",
+      "Rochat, Auguste",
+      "Reymond, John",
+      "Berney, Auguste",
+      "Rochat, Adrien"
+    ],
+    "Secrétaire municipal": [
+      "Guignard, Léon"
+    ],
+    "Boursier": [
+      "Guignard, Jules"
+    ]
+  },
+  "Village L'Abbaye": {
+    "Assesseur": [
+      "Guignard, Léon"
+    ],
+    "Aubergiste": [
+      "Desarzens, François"
+    ],
+    "Bois (march.)": [
+      "Berney, Louis-Ami",
+      "Capt, John",
+      "Guignard, Paul-Aug.",
+      "Rochat, Alfred",
+      "Simond, Jules"
+    ],
+    "Boulanger": [
+      "Rochat, Henri"
+    ],
+    "Charpentiers": [
+      "Reymond, Ami-Constant",
+      "Rochat, David",
+      "Rochat, Auguste"
+    ],
+    "Charron": [
+      "Guignard, Jules-Henri"
+    ],
+    "Chef de section": [
+      "Rochat, Numa"
+    ],
+    "Epicerie, mercerie": [
+      "Guignard, Paul-Lucien",
+      "Reymond-Golay, Const."
+    ],
+    "Garde-forestier": [
+      "Rochat, Julien"
+    ],
+    "Blantier": [
+      "Berney, Auguste"
+    ],
+    "Cadraturiers": [
+      "Guignard, Jules-César",
+      "Guignard, Léon",
+      "Reymond-Golay",
+      "Rochat, James"
+    ],
+    "Chronographes (fabr.)": [
+      "Cart, Clément"
+    ],
+    "Contre-pivots (march.)": [
+      "Reymond, Constant"
+    ],
+    "Contre-pivots (polisseurs)": [
+      "Berney, Louise",
+      "Cart, Jeannette",
+      "Golay-Gay, Louis",
+      "Guignard, Emilie",
+      "Guignard, Paul",
+      "Humbert, Alice",
+      "Mercet, Marie",
+      "Rochat, Marie"
+    ],
+    "Ecuelles (polisseuses)": [
+      "Aubert, Alice",
+      "Berney, Louisa",
+      "Guignard, Fanny",
+      "Guignard-Bonard",
+      "Rochat-Guignard, Bertha",
+      "Rochat, Emilie",
+      "Rochat, Louise"
+    ],
+    "Horlogers (march.)": [
+      "Reymond - Golay, Constant",
+      "Rochat, James"
+    ],
+    "Pivoteur": [
+      "Berney, Const."
+    ],
+    "Remontoirs (fabr.)": [
+      "Piguet-Pagès"
+    ],
+    "Sertisseur": [
+      "Guignard, Oscar"
+    ]
+  }
+}

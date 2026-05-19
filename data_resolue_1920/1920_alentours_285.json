@@ -1,0 +1,231 @@
+{
+  "OPPENS": {
+    "Autorités communales": [
+      "Bezuchet Const.",
+      "Amiet Alfred",
+      "Poyet Justin",
+      "Robellaz Henri",
+      "Perrier Ernest",
+      "Pavillard Charles",
+      "Poyet Léon",
+      "Chareyrat Adolphe",
+      "Perrier Gustave"
+    ],
+    "Agriculteurs": [
+      "Bezuchet Const.",
+      "Bezençon Jules",
+      "Chareyrat Adolphe",
+      "Delacrétaz Aug.",
+      "Duvoisin Jules",
+      "Mayor Alfred",
+      "Pavillard G.",
+      "Perrier Edmond",
+      "Perrier Ernest",
+      "Perrier François",
+      "Perrier Gustave",
+      "Poyet Jules",
+      "Poyet Justin",
+      "Poyet Léon"
+    ],
+    "Amodiateurs": [
+      "Cuche",
+      "Perrin"
+    ],
+    "Café": [
+      "Amiet-Nicolet Alfred"
+    ],
+    "Charpentier": [
+      "Pache Jules"
+    ],
+    "Charron": [
+      "Forestier Samuel"
+    ],
+    "Chef de section": [
+      "Duvoisin Jules"
+    ],
+    "Commission scolaire": [
+      "Pahud Henri",
+      "Cruchet Denis",
+      "Poyet Léon"
+    ],
+    "Epicerie": [
+      "Amiet Alfred",
+      "Kohler Jules"
+    ],
+    "Inspecteurs du bétail": [
+      "Duvoisin Jles"
+    ],
+    "Instituteurs": [
+      "Roulet Camille",
+      "Bulloz-Trolliet Alice"
+    ],
+    "Maréchal": [
+      "Robellaz Henri"
+    ],
+    "Poste, télégraphe et téléphone": [
+      "Poyet Justin"
+    ],
+    "Sociétés": [
+      "D'agriculture Orges-Montagnv. R.",
+      "De fromagerie. R.",
+      "D'abbaye militaire",
+      "Syndicat agricole. R.",
+      "Syndicat des améliorations foncières."
+    ],
+    "Divers": [
+      "Asile des vieillards",
+      "Delacrétaz Auguste"
+    ]
+  },
+  "ORZENS": {
+    "Autorités communales": [
+      "Burla Maurice",
+      "Guichard Marcel",
+      "Wagnière Gustave",
+      "Wagnière Edouard",
+      "Wagnière William",
+      "Guichard Edmond",
+      "Perey Louis",
+      "Wagnière Arm.",
+      "Bettex Willam",
+      "Wagnière Aloïs",
+      "Guichard Henri"
+    ],
+    "Agriculteurs": [
+      "Bettex frères",
+      "Bettex Ulysse",
+      "Burkhardt Jean",
+      "Chevalley Gustave",
+      "Chevalley Ls",
+      "Chevalley-Gindroz Louis",
+      "Flaction Louis",
+      "Guichard Alb.",
+      "Guichard Henri",
+      "Guichard Ernest",
+      "Carrard Eugène",
+      "Perey Julien",
+      "Perey Louis",
+      "Tenthorey Ulysse",
+      "Vulliamoz frères",
+      "Vulliamoz Henri",
+      "Wagnière-Perey Constant",
+      "Wagnière C.-T.",
+      "Wagnière Emile",
+      "Wagnière Emile",
+      "Wagnière Gustave",
+      "Wagnière Lucien",
+      "Wagnière-Bovay Ls",
+      "Wagnière-Meylan"
+    ],
+    "Aubergiste": [
+      "Burla Maurice"
+    ],
+    "Commission scolaire": [
+      "Burla Maurice",
+      "Wagnière Aloïs"
+    ],
+    "Cordonnier": [
+      "Heim William"
+    ],
+    "Epicerie": [
+      "Vulliamoz Justine",
+      "Wagnière Edouard"
+    ],
+    "Entrepreneur": [
+      "Bovay John"
+    ],
+    "Inspecteur du bétail": [
+      "Perey Louis"
+    ],
+    "Instituteurs": [
+      "Bolomey Ls",
+      "Pahud Frida"
+    ],
+    "Maçon": [
+      "Schaffner Otto"
+    ],
+    "Menuisier": [
+      "Burdet Julien"
+    ],
+    "Poste": [
+      "Chevalley Julie"
+    ],
+    "Rentiers": [
+      "Chevalley Jules",
+      "Chevalley-Gindroz Louis",
+      "Guichard François",
+      "Guichard Hélène",
+      "Perey Auguste",
+      "Vauthey Eugénie",
+      "Wagnière-Bovay Louis",
+      "Wagnière Marie",
+      "Wagnière-Meylan Louis"
+    ],
+    "Sellier": [
+      "Wagnière Edouard"
+    ],
+    "Sociétés": [
+      "De fromagerie. R.",
+      "De la machine à battre le grain. R.",
+      "Du poids public. R.",
+      "Syndicat d'élevage. R."
+    ],
+    "Téléphone": [
+      "Burla Maurice"
+    ]
+  },
+  "POMY": {
+    "Autorités communales": [
+      "Richardet Gust.",
+      "Miéville Henri",
+      "Pellaux Louis",
+      "Vulliemin Ernest",
+      "Barbay Jean",
+      "Richardet Emile",
+      "Pellaux Armand",
+      "Cuche Constant",
+      "Vulliemin Edouard",
+      "Miéville Alfred",
+      "Magnenat François"
+    ],
+    "Agriculteurs": [
+      "Chevalley Edouard",
+      "Chevalley Julien",
+      "Chevalley Louis",
+      "Couvoisier Auguste",
+      "Cruchet François",
+      "Cruchet frères",
+      "Cruchet Jean",
+      "Cuche John",
+      "Duvoisin frères",
+      "Henry frères",
+      "Magnenat frères",
+      "Miéville F.-Louis",
+      "Miéville frères",
+      "Miéville Jean-Fr.",
+      "Miéville Auguste",
+      "Miéville John",
+      "Ottonin Emile",
+      "Pahud Ch.",
+      "Pellaux Armand",
+      "Pellaux Aug.",
+      "Pellaux Louis",
+      "Porchet Charles",
+      "Richardet frères",
+      "Richardet Jules",
+      "Vulliemin Constant",
+      "Vulliemin Eugène",
+      "Vulliemin Ernest",
+      "Vulliemin François",
+      "Vulliemin John",
+      "Vulliemin frères"
+    ],
+    "Aubergistes": [
+      "Cuche John",
+      "Jaquier Edouard"
+    ],
+    "Bestiaux (comm. de)": [
+      "Richardet J. R."
+    ]
+  }
+}

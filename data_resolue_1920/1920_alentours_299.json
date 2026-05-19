@@ -1,0 +1,255 @@
+{
+  "CUDREFIN": {
+    "Agriculteurs": [
+      "Ele",
+      "Reuille J.-J.",
+      "Reuille Marcel",
+      "Richard Emile",
+      "Richard Hri",
+      "Richard Paul",
+      "Treyvaud Adolphe",
+      "Treyvaud Ed.",
+      "Treyvaud Marie",
+      "Treyvaud - Christinat Louis",
+      "Tschannen Jean",
+      "Vacheron Charles",
+      "Vassaux Alf.",
+      "Vassaux Ch.-Victor",
+      "Vassaux Samuel"
+    ],
+    "Assurances": [
+      "Nicod Emile"
+    ],
+    "Aubergistes": [
+      "Chautems Fritz",
+      "Richard Hri",
+      "Troutot Narcisse",
+      "Treyvaud Bertha"
+    ],
+    "Bouchers": [
+      "Jaunin Henri",
+      "Joseph ''élix"
+    ],
+    "Boulanger": [
+      "Richard Georges"
+    ],
+    "Charpentiers": [
+      "Baumann Rodolphe",
+      "Baumann Fritz"
+    ],
+    "Charrons": [
+      "Bucher Gustave",
+      "von Gunten Edouard"
+    ],
+    "Chef de section": [
+      "Treyvaud Paul"
+    ],
+    "Commission scolaire": [
+      "Vassaux Alf.",
+      "Gutknecht Ernest",
+      "Treyvaud Js",
+      "Tenthorey Adr.",
+      "Vassaux Luc"
+    ],
+    "Cordonniers": [
+      "Hænggeli Frédéric",
+      "Vassaux Robert"
+    ],
+    "Entrepreneurs": [
+      "Mascetti, Bricala & Cie."
+    ],
+    "Epicerie": [
+      "Loup-Jordan A. R.",
+      "Marey Jules",
+      "Treyvaud Bertha"
+    ],
+    "Etoffes": [
+      "Richard Georges"
+    ],
+    "Ferblantier": [
+      "Magnin Auguste"
+    ],
+    "Huilier": [
+      "Vassaux Samuel"
+    ],
+    "Inspecteur du bétail": [
+      "Richard Louis"
+    ],
+    "Instituteurs": [
+      "Gehry Hélène",
+      "Grobéty Henri",
+      "Loup Hélène"
+    ],
+    "Jardiniers": [
+      "Guinand Henri",
+      "Steiner Jean"
+    ],
+    "Justice de paix du cercle": [
+      "Reuille Emile",
+      "Cornuz Paul",
+      "Christinat Const.",
+      "Grandjean Bern.",
+      "Loup Jules",
+      "Cuanillon Henri"
+    ],
+    "Laitier": [
+      "Gerber Gottlieb"
+    ],
+    "Maréchaux": [
+      "Matthey Arn.",
+      "Matter Jacob"
+    ],
+    "Menuisiers - ébénistes": [
+      "Matthey Ernest"
+    ],
+    "Meunier": [
+      "Blaser Fritz"
+    ],
+    "Notaire": [
+      "Treyvaud Arthur"
+    ],
+    "Officier d'état-civil": [
+      "Treyvaud Paul"
+    ],
+    "Pasteur": [
+      "Basset Emmanuel"
+    ],
+    "Pensionnat de jeunes gens": [
+      "Nicod-Matthey Emile"
+    ],
+    "Rentier": [
+      "de Perrot Fréd. T."
+    ],
+    "Scieur": [
+      "Baumann Fritz"
+    ],
+    "Sellier": [
+      "Richard Louis"
+    ],
+    "Sociétés": [
+      "De laiterie",
+      "D'agriculture",
+      "Du battoir à grain",
+      "Chœur d'hommes «Lyre du Vully»",
+      "Section de la Croix-Bleue"
+    ],
+    "Tailleuses": [
+      "Hoffer Marie",
+      "Matthey Marie",
+      "Quartier Mathilde",
+      "von Gunten Bertha"
+    ],
+    "Télégraphe et téléphone": [
+      "Desaules Marie",
+      "Treyvaud César"
+    ],
+    "Toilerie, mercerie": [
+      "Richard Georges"
+    ],
+    "Tonneliers": [
+      "Troutot Emile & fils",
+      "Troutot Narcisse"
+    ]
+  },
+  "DONATYRE": {
+    "Autorités communales": [
+      "Gutknecht Aug.",
+      "Marguerat Charles",
+      "Raymond Auguste",
+      "Doleyre Eugène",
+      "Butikofer Jean",
+      "Maybach Osc.",
+      "Reymond Fernand",
+      "Bigler Emile",
+      "Raymond Fernand"
+    ],
+    "Agriculteurs": [
+      "Butikofer Jean",
+      "Doleires Eugène",
+      "Hofer Adolphe",
+      "Hofer Charles",
+      "Raymond Louis",
+      "Raymond, hoirie d'Ed.",
+      "Rentsch Théod.",
+      "Stalder Daniel",
+      "Sterki Jean"
+    ],
+    "Bois": [
+      "Martin Eugène"
+    ],
+    "Boulanger": [
+      "Conus Jules-Louis"
+    ],
+    "Commission scolaire": [
+      "de Weiss Alb.",
+      "Maybach Oscar"
+    ],
+    "Cordonnier": [
+      "Scheiterberg Auguste"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Conus Jules-Louis",
+      "Martin sœurs"
+    ],
+    "Facteur-dépositaire": [
+      "Thévoz Nancy"
+    ],
+    "Instituteur": [
+      "Marguerat Charles"
+    ],
+    "Inspecteur du bétail": [
+      "Gutknecht Auguste"
+    ],
+    "Laitier": [
+      "Eymann Ernest"
+    ],
+    "Société": [
+      "De laiterie"
+    ],
+    "Tailleuses": [
+      "Hofer Frida",
+      "Raymond-Sonnaillon Lina"
+    ],
+    "Téléphone": [
+      "Martin Veuve"
+    ]
+  },
+  "FAOUG": {
+    "Autorités communales": [
+      "von Gunten Oscar",
+      "Etter Jean",
+      "Cornaz Paul",
+      "Druey Jules",
+      "Kiehl Aug.",
+      "Cornaz Fritz",
+      "Favre Ad.",
+      "Desarzens Charles",
+      "Cornaz Jules"
+    ],
+    "Agriculteurs": [
+      "Beutler frères",
+      "Cornaz Auguste",
+      "Cornaz Louis",
+      "Desarzens Octave",
+      "Etter Jean",
+      "Favre Pierre",
+      "Grin, hoirie",
+      "Hagner Paul",
+      "Kiehl Aug.",
+      "Kränger",
+      "Liniger, Etter & Geiser",
+      "Luginbühl Jacob"
+    ],
+    "Auberges et cafés": [
+      "Liniger Emile",
+      "Luginbühl",
+      "Tenthorey Louis"
+    ],
+    "Boucher": [
+      "Gränicher K."
+    ],
+    "Boulanger": [
+      "Meyer Fritz"
+    ]
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "URSINS": {
+    "Syndic": [
+      "Bovay Louis"
+    ],
+    "Secrétaire": [
+      "Bovay Maurice"
+    ],
+    "Boursier": [
+      "Bovay Robert"
+    ],
+    "Huissier": [
+      "Burdet André"
+    ],
+    "Municipaux": [
+      "Bovay Armand",
+      "Bréchon Constant",
+      "Burdet Albert",
+      "Burdet Edmond"
+    ],
+    "Cantonniers": [
+      "Duruz Louis",
+      "Pellaux François"
+    ],
+    "Chef de section": [
+      "Bovay René"
+    ],
+    "Commandant du feu": [
+      "Burdet Albert"
+    ],
+    "Commission scolaire": [
+      "Bovay Arm."
+    ],
+    "Garde-forestier": [
+      "Auberson Jean"
+    ],
+    "Inspecteur du bétail": [
+      "Burdet Const."
+    ],
+    "Inspect. des viandes": [
+      "Burdet Const."
+    ],
+    "Instituteurs": [
+      "Cavin Pierre",
+      "Gendroz Jeanne, Mme"
+    ],
+    "Pasteur": [
+      "Dépraz André"
+    ],
+    "Police (agent de)": [
+      "Burdet André"
+    ],
+    "Poste": [
+      "Buffat Marie"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Waridel Jacques",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs": [
+      "Borsay Marc",
+      "Bovay Alb.",
+      "Bovay Ed.",
+      "Bovay Ls",
+      "Bovay Maurice",
+      "Bovay Robert",
+      "Bovay René",
+      "Bovay Ulysse",
+      "Bréchon Constant",
+      "Burdet Auguste",
+      "Burdet Constant",
+      "Burdet Ewald",
+      "Burdet Gustave",
+      "Burdet Octave",
+      "Burdet Victor",
+      "Christin Gustave",
+      "Frauche Constant",
+      "Tacheron Constant",
+      "Penseyres Aloïs"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Tacheron Henri"
+    ],
+    "Café": [
+      "Burdet Berthe"
+    ],
+    "Charron": [
+      "Bovay Constant"
+    ],
+    "Epicerie-mercerie": [
+      "Bovay Alice"
+    ],
+    "Laitier": [
+      "Richard Fritz"
+    ],
+    "Maçons": [
+      "Cerutti Angel. T.",
+      "Franche Eugène"
+    ],
+    "Maréchal": [
+      "Magnin Charles"
+    ],
+    "Primeurs": [
+      "Bezençon Emilie. T."
+    ],
+    "Sellier": [
+      "Burdet Julien"
+    ],
+    "Sociétés": [
+      "Sté d'agriculture",
+      "Sté coopérative de la machine à battre. R.",
+      "Sté de fromagerie. R.",
+      "Sté de jeunesse",
+      "Sté de tir"
+    ]
+  },
+  "VALEYRES-SOUS-MONTAGNY": {
+    "Syndic": [
+      "Jaggi Maurice"
+    ],
+    "Secrétaire": [
+      "Pilliard Jules"
+    ],
+    "Boursier": [
+      "Sueur Edouard"
+    ],
+    "Huissier": [
+      "Bovay Henri"
+    ],
+    "Municipaux": [
+      "Martin Alfred",
+      "Pilliard Alb.",
+      "Nicod Alcide",
+      "Pilliard Hri."
+    ],
+    "Chef de gare": [
+      "Herzig Fritz"
+    ],
+    "Chef de section": [
+      "Perret Samuel"
+    ],
+    "Commission scolaire": [
+      "Pilliard Jules"
+    ],
+    "Contrôleur laitier": [
+      "Martin Alfred"
+    ],
+    "Garde-forestier": [
+      "Junod"
+    ],
+    "Inspecteur du bétail": [
+      "Pilliard Alb."
+    ],
+    "Instituteurs": [
+      "Burdet Jules",
+      "Champod-End Marie"
+    ],
+    "Pasteur": [
+      "de Peyer Etienne"
+    ],
+    "Police (agent de)": [
+      "Pilliard Jules"
+    ],
+    "Poste": [
+      "Margot Rose, Mme"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "café du Raisin",
+      "Station publ. à la poste"
+    ],
+    "Agriculteurs": [
+      "Buffat Alfred",
+      "Christin Alfred",
+      "Cottier Robert",
+      "Hänni Fritz",
+      "Martin Constant",
+      "Meylan Adrien",
+      "Pilliard Alfred",
+      "Pilliard Eug. T.",
+      "Stauffer Alfred"
+    ],
+    "Fermiers": [
+      "Martin Robert",
+      "Perrin-jaquet Hermann"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Burdet J."
+    ],
+    "Café": [
+      "Martin L."
+    ],
+    "Couturières": [
+      "Marendaz Jeanne, Mlle",
+      "Vögeli Julia"
+    ],
+    "Epiceries": [
+      "Bovay Henri",
+      "Pilliard Adèle"
+    ],
+    "Perblantiers — couvreurs": [
+      "Marendaz Eugène père et fils"
+    ],
+    "Laitier": [
+      "Gaberel Jacob. T."
+    ],
+    "Pompes funèbres du Nord": [
+      "Margot Emile"
+    ],
+    "Scieur": [
+      "Jaggi Maurice",
+      "Brinaz. RT."
+    ],
+    "Société": [
+      "Société de laiterie. R."
+    ],
+    "Vélos": [
+      "Herzig Henri"
+    ],
+    "Vigneron": [
+      "Pilliard-Martin Henri"
+    ]
+  },
+  "VALEYRES-SOUS-RANCES": {
+    "Syndic": [
+      "Lambercy Armand"
+    ],
+    "Secrétaire": [
+      "Widmer Ami"
+    ],
+    "Boursier": [
+      "Fiaux Emile"
+    ],
+    "Huissier": [
+      "Petitmermet Robert"
+    ],
+    "Municipaux": [
+      "Corset Louis",
+      "Ravey Léon",
+      "Turin Ami",
+      "Turin Paul",
+      "Lambercy Marcel",
+      "Weidmann César"
+    ],
+    "Assesseur": [
+      "Randin Albert"
+    ],
+    "Command. du feu": [
+      "Lambercy M."
+    ],
+    "Commission scolaire": [
+      "Turin Ami"
+    ],
+    "Garde-forestier": [
+      "Favre Gustave. T."
+    ],
+    "Inspecteur du bétail": [
+      "Widmer Ami"
+    ],
+    "Inspecteur des viandes": [
+      "Corset Louis"
+    ],
+    "Instituteurs": [
+      "Cachemaille Edouard",
+      "Clecr Elisabeth",
+      "Cachemaille Valentine"
+    ],
+    "Eglise libre": [
+      "Vautier Ed. T."
+    ],
+    "Police (agent de)": [
+      "Stebler Gaston"
+    ],
+    "Poste": [
+      "Lambercy Alfred"
+    ],
+    "Téléphone": [
+      "Station comm. à la poste"
+    ],
+    "Agriculteurs": [
+      "Aebersold Fritz",
+      "Auberson Lucien",
+      "Bornand-Stebler Ernest",
+      "Chevalier Jules",
+      "Chevalier Gust.",
+      "Conrad Emile",
+      "Corset Edmond",
+      "Corset Louis",
+      "Corset Alice, Vve",
+      "Fiaux frères",
+      "Gailland David",
+      "Lambercy Armand",
+      "Lambercy Emile",
+      "Lambercy Marcel",
+      "Pisler Maurice",
+      "Randin Albert. T.",
+      "Ravey Félix",
+      "Ravey Gustave",
+      "Schneeberger Fanny",
+      "Thuillard Louis",
+      "Turin Robert",
+      "Weidmann David",
+      "Weidmann frères",
+      "Weidmann Maurice",
+      "Wenger Maurice",
+      "Widmer Alfred",
+      "Widmer Ami feu Gustave",
+      "Widmer Ami feu Louis",
+      "Widmer François",
+      "Widmer Frank",
+      "Widmer Blanche, Vve"
+    ],
+    "Amodiateur": [
+      "Weidmann Lucien. T."
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite",
+      "Cachemaille Ed."
+    ],
+    "Bois": [
+      "Pisler Maurice. RT."
+    ],
+    "Cafés": [
+      "Randin Pierre",
+      "Weidmann Lucien"
+    ],
+    "Cordonniers": [
+      "Caillachon Ami",
+      "Ravey Jérémias"
+    ],
+    "Couturières": [
+      "Laffely Aline, Mme",
+      "Péclard Rose, Mme",
+      "Widmer Rose"
+    ],
+    "Entrepreneur": [
+      "Pisler Maurice"
+    ],
+    "Epiceries": [
+      "Huguenin Henri",
+      "Locatelli Jean",
+      "Widmer Nancy, Vve"
+    ],
+    "Huilerie": [
+      "Conrad Emile. T."
+    ],
+    "Laiterie": [
+      "Richard Emile"
+    ],
+    "Maçons": [
+      "Ravey Arthur",
+      "Zeni P."
+    ],
+    "Maréchal-serrurier": [
+      "Margairaz C. T."
+    ],
+    "Meunier": [
+      "Moulin agricole. T."
+    ],
+    "Sage-femme": [
+      "Widmer-Gloor"
+    ],
+    "Scierie": [
+      "Pisler M."
+    ],
+    "Sociétés": [
+      "Section de la Croix-Bleue",
+      "Sté de crédit mutuel. R.",
+      "Sté de fromagerie. R.",
+      "Sté de gymnastique",
+      "Sté du Moulin agricole. R.",
+      "Sté de musique",
+      "Sté de tir aux armes de guerre. R.",
+      "Syndicat agricole. R.",
+      "Syndicat d'améliorations foncières"
+    ],
+    "Vignerons": [
+      "Bornand Ernest",
+      "Chevallier Jules d'Issac",
+      "Corset Edm.",
+      "Corset Louis",
+      "Fiaux frères",
+      "Laffely Louis",
+      "Lambercy Emile",
+      "Tissot Louis",
+      "Turin Ami",
+      "Widmer Ami, feu Gustave"
+    ],
+    "Divers": [
+      "Barbey Camille",
+      "De Bonstetten Arthur",
+      "Lombard Valérie"
+    ]
+  }
+}

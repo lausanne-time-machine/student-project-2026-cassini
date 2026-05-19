@@ -1,0 +1,212 @@
+{
+  "PAYERNE": {
+    "Poste": [
+      "Guggi Adolphe"
+    ],
+    "Préfet": [
+      "Addor Frédéric"
+    ],
+    "Professeurs collège et école supérieure": [
+      "Badoux Eugène",
+      "Barbey Adrien",
+      "Baume Paul",
+      "Canivez Georges",
+      "Chessex Pierre",
+      "Gingins Ernest",
+      "Jaques Camille",
+      "Longchamp Lucienne",
+      "Perrochon H.",
+      "Rossier Henri"
+    ],
+    "Télégraphe et téléphone": [
+      "Pasche Oscar"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Station publique"
+    ],
+    "Vérificateur des poids et mesures": [
+      "Groux Henri"
+    ],
+    "Voyer du IXe arrondissement": [
+      "Clot Charles"
+    ],
+    "Affichage": [
+      "Société Générale d'Affichage",
+      "Cherbuin Samuel"
+    ],
+    "Agence de voyages": [
+      "Bureau F. Rapin"
+    ],
+    "Agents d'affaires": [
+      "Chabloz Aug.",
+      "Duvoisin Herbert",
+      "Zahnd L."
+    ],
+    "Agriculteurs": [
+      "Addor Paul",
+      "Bapst frères",
+      "Bossy-Vallotton François",
+      "Bossy-Fivaz Ernest",
+      "Bossy Jules",
+      "Brossy Louis",
+      "Caille Jules",
+      "Cherbuin Isaac",
+      "Cherbuin Ernest",
+      "Crisinel Oscar",
+      "De Dompierre Victor",
+      "De Dompierre César",
+      "De Dompierre Henri",
+      "De Dompierre Philippe",
+      "Detrey frères",
+      "Fivaz Charles",
+      "Gilliand Isaac",
+      "Givel Emile",
+      "Glauser frères",
+      "Gudith sœurs",
+      "Haeberli Emile",
+      "Hermann Emile",
+      "Hermann frères",
+      "Husson frères",
+      "Jomini Abram",
+      "Jomini Ernest",
+      "Jomini Henri",
+      "Liechti Edouard",
+      "Morattel Henri",
+      "Mottaz Charles",
+      "Oberli Emile",
+      "Penseyres Ernest",
+      "Perrin Numa",
+      "Petter Jules",
+      "Plumettaz frères",
+      "Plumettaz Alph.",
+      "Pradervand Louis",
+      "Quidort Louis",
+      "Rapin Jules",
+      "Rapin-Leu Emile",
+      "Recordon John",
+      "Ringwald Henri",
+      "Rihs Ernest",
+      "Rossier Charles",
+      "Rossier Benjamin",
+      "Rossier Louis",
+      "Rossier-Willommet Victor",
+      "Ryser Emile",
+      "Savary Léon",
+      "Savary Aimé",
+      "Savary Oscar",
+      "Savary-Vonnez Louis",
+      "Savary-Comte Ernest",
+      "Savary Louis",
+      "Schlaefli Emile",
+      "Spicher",
+      "Vonnez Louis",
+      "Vonnez Jaques",
+      "Vonnez Gustave",
+      "Widmer Ernest",
+      "Willommet frères",
+      "Zbinden Gottfried",
+      "Zbinden",
+      "Zbinden Ernest"
+    ],
+    "Ameublements": [
+      "Martignier Hubert",
+      "Rouvenaz-Hermann",
+      "Sommerer Emile"
+    ],
+    "Apiculteurs": [
+      "Bastian Charles",
+      "Fivaz Charles"
+    ],
+    "Appareilleurs": [
+      "Chollet frères",
+      "Doudin Gustave",
+      "Peretten Alphonse",
+      "Rapin Paul",
+      "Ryser Edouard"
+    ],
+    "Architectes": [
+      "Battaini César",
+      "Bosset & Buèche",
+      "Della-Chiesa & Rollinet"
+    ],
+    "Armuriers": [
+      "Ischy-Savary Louis",
+      "Rapin-Hubler Louis"
+    ],
+    "Arsenal fédéral": [
+      "Pittet A."
+    ],
+    "Articles sanitaires": [
+      "Studer Maurice",
+      "Vulliémoz Henri",
+      "Walther Richard"
+    ],
+    "Assurances": [
+      "Bosset Marcel",
+      "Béraneck Robert",
+      "Charbon Roland",
+      "Jomini",
+      "De Dompierre César, fils",
+      "Rapin Fidely",
+      "Société suisse de secours mutuels Helvétia",
+      "Treyvaud Marcel"
+    ]
+  },
+  "CORGES": {
+    "CONTINUATION_FROM_PREVIOUS_PAGE": [
+      "Comte Henri",
+      "Cherbuin Emile",
+      "Golliez Georges",
+      "Haenni Robert",
+      "Méan Henri",
+      "Méan Oscar",
+      "Ney Charles",
+      "Savary Emile",
+      "Savary Georges"
+    ]
+  },
+  "ETRABLOZ": {
+    "CONTINUATION_FROM_PREVIOUS_PAGE": [
+      "Jomini Alphonse",
+      "Jomini Aimé",
+      "Jomini Ernest",
+      "Laedermann Léon",
+      "Ney Albert",
+      "Ney Ernest",
+      "Rasle Jules",
+      "Vonnez Marius",
+      "Vonnez Frédéric",
+      "Vonnez Jean",
+      "Zurbuchen Jean"
+    ]
+  },
+  "VERS-CHEZ-PERRIN": {
+    "CONTINUATION_FROM_PREVIOUS_PAGE": [
+      "Givel Eugène",
+      "Jan Gustave",
+      "Méan Edouard",
+      "Méan Marcel",
+      "Pradervand James",
+      "Perrin Constant",
+      "Perrin",
+      "Ramseyer Emile",
+      "Savary Charles et César",
+      "Savary Hortense",
+      "Savary Fernand",
+      "Savary Gérard",
+      "Savary Oscar"
+    ]
+  },
+  "VERS-CHEZ-SAVARY": {
+    "CONTINUATION_FROM_PREVIOUS_PAGE": [
+      "Givel Ernest",
+      "Hugonnet Paul",
+      "Jaccoud",
+      "Jaccoud Charles",
+      "Rapin Fritz",
+      "Ruchti Rodolphe",
+      "Vonnez-Hugonnet Emile"
+    ]
+  }
+}

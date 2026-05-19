@@ -1,0 +1,418 @@
+{
+  "BOFFLENS": {
+    "CONTINUATION_FROM_PREVIOUS_PAGE": [
+      "Henri",
+      "Berthoud René",
+      "Berthoud Franç.",
+      "Berthoud",
+      "Besson Alfred",
+      "Besson François",
+      "Besson Gustave",
+      "Besson Justin",
+      "Brandt-Schenk Tell",
+      "Brandt Paul",
+      "Burnat Louis",
+      "Chaillet Félix",
+      "Charles Isaac",
+      "Clerc Albert",
+      "Clerc Frédéric",
+      "Dällenbach André",
+      "Duruz Alexis",
+      "Duruz Lucien",
+      "Dutoit Louis",
+      "Gaillard Edouard",
+      "Gaillard Octave",
+      "Glayre Alexis",
+      "Glayre Edmond",
+      "Glayre Robert",
+      "Gonin François",
+      "Marchand Emile",
+      "Turin David"
+    ],
+    "Amodiateur": [
+      "Charles Isaac"
+    ],
+    "Apiculteurs": [
+      "Berthoud H.-Samuel",
+      "Berthoud René",
+      "Gonin Franç.",
+      "Guignard Jeanne",
+      "Reymond Ch."
+    ],
+    "Assurances": [
+      "Assurance mutuelle vaudoise",
+      "Assurance-grêle cantonale",
+      "Dutoit Louis",
+      "Société suisse d'assurances générales sur la vie",
+      "Gonin François"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualités scolaires de retraite",
+      "Reymond Charles"
+    ],
+    "Société mutuelle de retraite L'Avenir": [
+      "Besson Emile"
+    ],
+    "Sociétés": [
+      "Assurance infantile",
+      "Caisse locale d'assurance mutuelle contre les pertes du bétail bovin",
+      "Sté de chant",
+      "Sté de couture",
+      "Sté de jeunesse",
+      "Sté de tir",
+      "Syndicat agricole"
+    ],
+    "Bois (march. de)": [
+      "Dällenbach André",
+      "Glayre Robert"
+    ],
+    "Bouchers": [
+      "Berthoud Paul",
+      "Berthoud René"
+    ],
+    "Café": [
+      "Turin David"
+    ],
+    "Charpentier-menuisier": [
+      "Guex Henri"
+    ],
+    "Couturière": [
+      "Guignard Jeanne"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Besson",
+      "Chevaley"
+    ],
+    "Laitier": [
+      "Goy-Brandt"
+    ],
+    "Maréchaux": [
+      "Glayre Alexis et fils"
+    ],
+    "Vétérinaire": [
+      "Charles Jean"
+    ],
+    "Vignerons": [
+      "Berthoud François",
+      "Berthoud H.-S.",
+      "Berthoud P.-Henri",
+      "Besson Alfred",
+      "Besson Franç.",
+      "Besson Gust.",
+      "Besson Justin",
+      "Burnat Louis",
+      "Clerc Frédéric",
+      "Duruz Henri",
+      "Glayre Robert",
+      "Marchand Emile"
+    ]
+  },
+  "BOGIS-BOSSEY": {
+    "Député": [
+      "Mugnier John"
+    ],
+    "Syndic": [
+      "Mugnier Louis"
+    ],
+    "Secrétaire": [
+      "Mugnier Auguste"
+    ],
+    "Boursier": [
+      "Mugnier Antoine"
+    ],
+    "Huissier": [
+      "Oguey Victor"
+    ],
+    "Municipaux": [
+      "Bornet Ernest",
+      "Mugnier Elie"
+    ],
+    "Commandant du feu": [
+      "Rossier Ernest"
+    ],
+    "Commission scolaire": [
+      "Rossier Ern."
+    ],
+    "Garde-forestier": [
+      "Mugnier John"
+    ],
+    "Inspecteur du bétail": [
+      "Mugnier Aug."
+    ],
+    "Inspecteur forestier": [
+      "Leuenberger G."
+    ],
+    "Instituteur": [
+      "Barraud Louis"
+    ],
+    "Institutrice": [
+      "Kilchrer Rosa"
+    ],
+    "Téléphone": [
+      "Billard Alice"
+    ],
+    "Agriculteurs": [
+      "Bolay Ulysse",
+      "Bornet Ernest",
+      "Bourguignon Charles",
+      "Dancet frères",
+      "Glauser Gottlieb",
+      "Hofer Edouard",
+      "Mugnier Antoine",
+      "Mugnier Auguste",
+      "Mugnier Elie",
+      "Mugnier John",
+      "Rossier Ernest",
+      "Rosset Henri",
+      "Ryser Jean",
+      "Stalder frères"
+    ],
+    "Apiculteurs": [
+      "Aebi Charles",
+      "Dancet Charles",
+      "Mugnier Albert",
+      "Mugnier Antoine"
+    ],
+    "Café": [
+      "Billard Alice"
+    ],
+    "Bois (march. de)": [
+      "Mugnier Elie",
+      "Mugnier John"
+    ],
+    "Grains et farines": [
+      "Aebi Charles",
+      "Bornet Ern."
+    ],
+    "Jardiniers": [
+      "Dubosson",
+      "Vurlod P."
+    ],
+    "Laitier": [
+      "Laiteries Réunies de Genève"
+    ],
+    "Meuniers": [
+      "Aebi Charles"
+    ],
+    "Pêcheurs": [
+      "Bourguignon Ch.",
+      "Dancet Fernand",
+      "Mugnier Elie"
+    ],
+    "Pisciculteur": [
+      "Mugnier Elie"
+    ],
+    "Sociétés": [
+      "Sté de laiterie de Bogis-Chavannes et de Bogis",
+      "Syndicat de battage de Chavannes et Bogis"
+    ],
+    "Viticulteurs": [
+      "Bornet Ernest",
+      "Bourguignon Charles",
+      "Dancet frères",
+      "Mugnier Auguste",
+      "Mugnier Louis"
+    ]
+  },
+  "BONVILLARS": {
+    "Syndic": [
+      "Correvon Marc"
+    ],
+    "Secrétaire": [
+      "Favre Robert"
+    ],
+    "Boursier": [
+      "Duvoisin Alfred"
+    ],
+    "Huissier": [
+      "Jaquier Maurice"
+    ],
+    "Municipaux": [
+      "Duvoisin Maurice",
+      "Favre Frédéric",
+      "Meigniez Denis",
+      "Paris Maurice",
+      "Ray Jean",
+      "Jaquier Jean"
+    ],
+    "Cantonnier": [
+      "Duvoisin Fritz"
+    ],
+    "Commandant du feu": [
+      "Duvoisin Cam."
+    ],
+    "Commission scolaire": [
+      "Milliet Henri",
+      "Vodoz Georges"
+    ],
+    "Garde-forestier": [
+      "Milliet Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Favre Fréd."
+    ],
+    "Inspecteur des viandes": [
+      "Milliet Hri."
+    ],
+    "Instituteurs": [
+      "Fontannaz Julien"
+    ],
+    "Institutrice": [
+      "Humbert Lucienne"
+    ],
+    "Officier d'état-civil": [
+      "Duvoisin Clément"
+    ],
+    "Police (agent de)": [
+      "Cochand Georges"
+    ],
+    "Poste et télégr.": [
+      "Duvoisin G."
+    ],
+    "Agriculteurs": [
+      "Ayer Maurice",
+      "Baumgartner Jacob",
+      "Chabloz",
+      "Corthésy Léon",
+      "Correvon Marc",
+      "Dubois André",
+      "Duvoisin David",
+      "Duvoisin",
+      "Duvoisin Louis",
+      "Egli Samuel",
+      "Delay Henri",
+      "Fardel Ch.",
+      "Fardel Henri",
+      "Favre Eugène",
+      "Favre Ch.",
+      "Favre Gustave",
+      "Favre Edouard",
+      "Favre Michel",
+      "Favre Robert",
+      "Favre Ernest",
+      "Favre Frédéric",
+      "Gander frères",
+      "Jaquier",
+      "Gerber Otto",
+      "Jaquier Maurice",
+      "Maire Alfred",
+      "Maire",
+      "Meigniez Denis",
+      "Meystre Ernest",
+      "Milliet Henri",
+      "Montandon Robert",
+      "Paris",
+      "Ray Jean",
+      "Ryser René"
+    ],
+    "Amodiateurs": [
+      "Dubois André",
+      "Gander frères"
+    ],
+    "Arboriculteur": [
+      "Guilloud Eugène"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite",
+      "Duvoisin Clément"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Fontannaz J."
+    ],
+    "Boulanger": [
+      "Dubois Maurice"
+    ],
+    "Cafés": [
+      "Correvon Marc",
+      "Duvoisin Alfred"
+    ],
+    "Coiffeur": [
+      "Obrecht Gabriel"
+    ],
+    "Couturières": [
+      "Breitenstein Denise",
+      "Favre Georgette",
+      "Miserez Elisabeth",
+      "Paris Eglantine",
+      "Ramseyer Hélène",
+      "Vautravers Berthe"
+    ],
+    "Entrepreneur postal": [
+      "Duvoisin M."
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Ayer Berthe",
+      "Duvoisin-Dagon Cam.",
+      "Ryser René"
+    ],
+    "Laitier": [
+      "Roulier Julien"
+    ],
+    "Maréchal": [
+      "Hoffer Maurice"
+    ],
+    "Médecin": [
+      "Vodoz Georges"
+    ],
+    "Pépiniériste": [
+      "Ryser René"
+    ],
+    "Pompes funèbres du Nord": [
+      "Duvoisin M."
+    ],
+    "Sage-femme": [
+      "Ryser-Duvoisin"
+    ],
+    "Serrurier": [
+      "Ruchti Jean"
+    ],
+    "Sociétés": [
+      "Abbaye",
+      "Football-Club",
+      "Sté de chant Echo du Jura",
+      "Sté de laiterie",
+      "Sté de tir aux Armes de Guerre",
+      "Syndicat agricole de Bonvillars"
+    ],
+    "Tailleur": [
+      "Obrecht Gabriel"
+    ],
+    "Tonnelier": [
+      "Duvoisin Alfred"
+    ],
+    "Viticulteurs": [
+      "Correvon Marc",
+      "Corthésy Léon",
+      "Dubois André",
+      "Duvoisin",
+      "Duvoisin Rosa",
+      "Duvoisin David",
+      "Duvoisin Louis",
+      "Egli Ch.",
+      "Favre Fréd.",
+      "Favre Edouard",
+      "Favre Ernest",
+      "Gilliand Rob.",
+      "Jaquier Jacques",
+      "Jaquier",
+      "Milliet Henri",
+      "Paris",
+      "Ryser René",
+      "Tharin Ernest"
+    ],
+    "Vins (march. de)": [
+      "Correvon Marc",
+      "Egli Ch.",
+      "Duvoisin frères",
+      "Jaquier Jacques"
+    ],
+    "Divers": [
+      "Delafontaine Jenny",
+      "Jaquier Madeleine",
+      "Jaquier Nathalie",
+      "Rossat Aline",
+      "Seiler Emma",
+      "Seiler Lilia"
+    ]
+  }
+}

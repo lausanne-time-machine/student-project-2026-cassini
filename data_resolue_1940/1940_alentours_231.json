@@ -1,0 +1,371 @@
+{
+  "PREMIER": {
+    "Apiculteurs": [
+      "Candaux Léon",
+      "Candaux Marcel",
+      "Cochet Léon",
+      "Luthy Alfred",
+      "Poget Frank"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Rochat André"
+    ],
+    "Bois (march. de)": [
+      "Cochet Fernand",
+      "Roy John"
+    ],
+    "Café": [
+      "Crausaz Robert"
+    ],
+    "Couturière": [
+      "Candaux Anna"
+    ],
+    "Entrepreneur": [
+      "Poget Emile"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Candaux Léon",
+      "Reverchon Alfred"
+    ],
+    "Giletière-culottière": [
+      "Candaux Emeline"
+    ],
+    "Laitier": [
+      "Berger Ferdinand"
+    ],
+    "Sellier": [
+      "Michel Alphonse"
+    ],
+    "Sociétés": [
+      "Sté de fromagerie",
+      "Syndicat agricole"
+    ]
+  },
+  "PREVERENGES": {
+    "Syndic": [
+      "Wulliemier Auguste"
+    ],
+    "Secrétaire": [
+      "Guyot Georges"
+    ],
+    "Boursier": [
+      "Bolliet Robert"
+    ],
+    "Huissier": [
+      "Oberlin Rodolphe"
+    ],
+    "Municipaux": [
+      "Delarageaz L.-H.",
+      "Gilliard Joseph",
+      "Pelet Marcel",
+      "Perret Horace"
+    ],
+    "Commandant du feu": [
+      "Liron Ernest"
+    ],
+    "Commission scolaire": [
+      "Borgeaud Hr."
+    ],
+    "Inspecteur du bétail": [
+      "Bolliet Rob."
+    ],
+    "Inspecteur des viandes": [
+      "Roulin Arm."
+    ],
+    "Instituteurs": [
+      "Liron Ernest",
+      "Ruegg R."
+    ],
+    "Police (agent de)": [
+      "Delarageaz Gges."
+    ],
+    "Agriculteurs": [
+      "Béguert Jacob",
+      "Bolliet René",
+      "Bolliet frères",
+      "Chevalley Henri",
+      "Delarageaz Georges",
+      "Delarageaz Louis-Henri",
+      "Gilliard Jos.",
+      "Mingard Marcel",
+      "Moyard Edouard",
+      "Moyard Gustave",
+      "Roulin Charles"
+    ],
+    "Assurance vieillesse": [
+      "Associations mutualistes de retraite",
+      "Liron E."
+    ],
+    "Boulangerie": [
+      "Henry Alfred"
+    ],
+    "Cafés": [
+      "Bolliet-Louise",
+      "Chasseur R.",
+      "Bezençon Louis",
+      "Martin David"
+    ],
+    "Camionneur": [
+      "Entreprise de Transports S. A."
+    ],
+    "Charron": [
+      "Vittoz Hermann"
+    ],
+    "Entrepreneur": [
+      "Borgnana Pierre"
+    ],
+    "Epiceries, merceries": [
+      "Henry Alfred",
+      "Marguet Aloïs"
+    ],
+    "Fonderie": [
+      "Simon Alb."
+    ],
+    "Jardiniers": [
+      "Chenaux frères",
+      "Jaccoud Gaston",
+      "Schmid Alb."
+    ],
+    "Laiterie": [
+      "Laiterie agricole",
+      "Potterat"
+    ],
+    "Meubles (antiquités)": [
+      "Ruegg J.-P."
+    ],
+    "Pêcheur": [
+      "Martin David"
+    ],
+    "Pompes funèbres du Nord": [
+      "Vittoz Hermann"
+    ],
+    "Représentants": [
+      "Bolliet Robert",
+      "Perret Horace"
+    ],
+    "Sociétés": [
+      "Sté de l'Abbaye des agriculteurs",
+      "Sté de fromagerie"
+    ],
+    "Vignerons": [
+      "Bolliet Léon",
+      "Moret Emile"
+    ],
+    "Viticulteurs": [
+      "Bolliet Arthur",
+      "Bolliet frères",
+      "Bolliet Gustave",
+      "Bolliet René",
+      "Delarageaz Louis",
+      "Gilliard Henri",
+      "Mingard Marcel"
+    ],
+    "Divers": [
+      "Bolliet Léon",
+      "Delarageaz Louis",
+      "de Tcharner Alb.",
+      "Fitting",
+      "Hug-Vernier",
+      "Maeder Albert",
+      "de Mestral Paul",
+      "Naine C.",
+      "Rapin",
+      "Tardy William"
+    ]
+  },
+  "PREVONLOUP": {
+    "Syndic": [
+      "Paccaud Ferdinand"
+    ],
+    "Secrétaire": [
+      "Paccaud Aimé"
+    ],
+    "Boursier": [
+      "Paccaud Auguste"
+    ],
+    "Huissier": [
+      "Regamey Albert"
+    ],
+    "Municipaux": [
+      "Corthésy Francis",
+      "Corthésy René",
+      "Jaton André",
+      "Paccaud Horace"
+    ],
+    "Commandant du feu": [
+      "Paccaud Ferd."
+    ],
+    "Commission scolaire": [
+      "Paccaud Ferdinand",
+      "Tenthorey Aug."
+    ],
+    "Gendarmerie (poste de)": [
+      "Destraz"
+    ],
+    "Inspecteur du bétail": [
+      "Jaton André"
+    ],
+    "Inspecteur des viandes": [
+      "Jaton André"
+    ],
+    "Instituteur": [
+      "Jaccard Eugène"
+    ],
+    "Police (agent de)": [
+      "Regamey Albert"
+    ],
+    "Poste et télégraphe": [
+      "Regamey Flora"
+    ],
+    "Agriculteurs": [
+      "Chappuis Emile",
+      "Chassot Joseph",
+      "Clot Eugène",
+      "Clot-Paccaud Edouard",
+      "Corthésy-Senn Fernand",
+      "Corthésy-Léchajre Henri",
+      "Corthésy-Chappuis René",
+      "Crottaz Henri",
+      "Jaques-Cachin Frida",
+      "Jaton André",
+      "Ogay Edgar",
+      "Ferdinand",
+      "Paccaud-Déglon Constant",
+      "Paccaud-Bovay Oscar",
+      "Paccaud Constant",
+      "Octave",
+      "Paccaud-Cavin Eugène",
+      "Paccaud-Frick William",
+      "Zahnd-Mägerli Albert"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Jaccard Eug."
+    ],
+    "Café": [
+      "Sapin Raymond"
+    ],
+    "Charron": [
+      "Paccaud-Bettex Ferdinand"
+    ],
+    "Epicerie": [
+      "Zahn-Surmeli Albert"
+    ],
+    "Menuisiers": [
+      "Dubois Prosper",
+      "Paccaud Ferdinand"
+    ],
+    "Pompes funèbres du Nord": [
+      "Paccaud Ferdinand",
+      "Regamey Albert"
+    ],
+    "Sellier": [
+      "Paccaud Henri"
+    ],
+    "Sociétés": [
+      "Sté de fromagerie",
+      "Syndicat d'élevage"
+    ]
+  },
+  "PROVENCE": {
+    "Syndic": [
+      "Fardel Pierre"
+    ],
+    "Secrétaire": [
+      "Perrin Jules"
+    ],
+    "Boursier": [
+      "Delay Jean"
+    ],
+    "Huissier": [
+      "Gattolliat Gustave"
+    ],
+    "Municipaux": [
+      "Allisson Fritz",
+      "Favre Georges",
+      "Jeanmonod Hubert",
+      "Perrin Alphonse",
+      "Perrin Eugène",
+      "Vuillermet Jean"
+    ],
+    "Assesseur": [
+      "Favre Fernand"
+    ],
+    "Cantonnier": [
+      "Gattolliat Gustave"
+    ],
+    "Chef de section": [
+      "Vuillermet Albert"
+    ],
+    "Garde-forestier": [
+      "Gacond Albert"
+    ],
+    "Commandant du feu": [
+      "Gacond Albert"
+    ],
+    "Commission scolaire": [
+      "Gallay Ami"
+    ],
+    "Gendarmerie (poste de)": [
+      "Beauverd"
+    ],
+    "Inspecteurs du bétail": [
+      "Allisson Auguste",
+      "Gacond Henri"
+    ],
+    "Inspecteur des viandes": [
+      "Gaille Marc"
+    ],
+    "Instituteurs": [
+      "Merminod William",
+      "Champion Lina",
+      "Stirnimann Thérèse",
+      "Isoz Marcelle",
+      "Le Novelet"
+    ],
+    "Officier d'état-civil": [
+      "Favre Fern."
+    ],
+    "Pasteur": [
+      "Gallay A."
+    ],
+    "Poste et télégraphe": [
+      "Bolens Charles"
+    ],
+    "Téléphone": [
+      "Favre Henri",
+      "Auberge communale"
+    ],
+    "Agriculteurs": [
+      "Allisson Fritz",
+      "Allisson Auguste",
+      "Delay Ami",
+      "Delay-Roulin Louis",
+      "Delay-Banderet Alfred",
+      "Delay-Gacond Alfred",
+      "Delay Auguste",
+      "Favre Georges",
+      "Favre Eugène",
+      "Favre-Fardel Louis",
+      "Favre-Gaille Fritz",
+      "Gacond Henri",
+      "Gacond Robert",
+      "Gaille Henri",
+      "Gaille Louis",
+      "Gaille Lucien",
+      "Gaille Albert",
+      "Gaille Ernest",
+      "Gaille Marcel",
+      "Gaille Jean",
+      "Guillaume frères",
+      "Jeanmonod Charles",
+      "Jeanmonod-Delay Gustave",
+      "Jeanmonod-Chatelanat Adr.",
+      "Jeanmonod Hubert",
+      "Marillier André",
+      "Martinet Ulysse",
+      "Nicoud Henri"
+    ]
+  }
+}

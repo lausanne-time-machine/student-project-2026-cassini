@@ -1,0 +1,368 @@
+{
+  "OLLON": {
+    "Députés du cercle": [
+      "Ambresin Alb. T.",
+      "Amiguet Alfred",
+      "Demartin Paul"
+    ],
+    "Syndic": [
+      "Jaquemin Ern."
+    ],
+    "Secrétaire": [
+      "Ambresin Adolphe"
+    ],
+    "Boursier": [
+      "Mérinat Albert"
+    ],
+    "Municipaux": [
+      "Amiguet Hri",
+      "Ambresin Albert",
+      "Bordon Aimé",
+      "Cutteiod Adrien",
+      "Roud Eugène",
+      "Ruchet-Anex Louis"
+    ],
+    "Chef de section": [
+      "Kalbfuss A."
+    ],
+    "Chef de gare": [
+      "Chambovey G."
+    ],
+    "Commandant du feu": [
+      "Demartin P."
+    ],
+    "Commission scolaire": [
+      "Bercier René",
+      "Cutelod Ch."
+    ],
+    "Contrôleur du lait": [
+      "Cosendai André"
+    ],
+    "Garde-forestier": [
+      "Cropt Eugène"
+    ],
+    "Inspecteurs du bétail": [
+      "Moret-Guex François",
+      "Durand Adrien",
+      "Dormond Jules",
+      "Dormond J.-Henri",
+      "Amiguet Henri",
+      "Greyloz Louis",
+      "Dulex Jean",
+      "Rosat Robert"
+    ],
+    "Justice de paix": [
+      "Jaquemin Ernest",
+      "Jordan Paul. T.",
+      "Amiguet Albert",
+      "Curchod Edmond",
+      "Rosset François",
+      "Turel Edouard",
+      "Chamorel Gustave"
+    ],
+    "Mesureur-juré": [
+      "Delarze Jules"
+    ],
+    "Officiers d'état-civil": [
+      "Demartin Paul",
+      "Dulex Emile"
+    ]
+  },
+  "OLLON-VILLAGE": {
+    "Inspecteur du bétail": [
+      "Amiguet Henri"
+    ],
+    "Inspecteur forestier": [
+      "Gut Charles"
+    ],
+    "Inspecteur de la loque": [
+      "de Siebenthal A."
+    ],
+    "Instituteurs": [
+      "Cosendai Edmond",
+      "Jordan David",
+      "Pochon André",
+      "Girod-Jaques Berthe",
+      "Rosselet Yolande",
+      "Rossy-Anex Edith"
+    ],
+    "Pasteurs": [
+      "Fleury Jean",
+      "Peter Marcel"
+    ],
+    "Police (agents de)": [
+      "Bouchet Edouard",
+      "Chamorel Gustave",
+      "Grob Robert"
+    ],
+    "Poste": [
+      "Anex Paul"
+    ],
+    "Agriculteurs": [
+      "Ambresin Albert",
+      "Ambresin Maurice",
+      "Amiguet Albert",
+      "Amiguet Hri",
+      "Bouchet Edouard",
+      "Brunner G.",
+      "Cosendai Jean",
+      "Demartin Charles",
+      "Demartin Paul",
+      "Mérinat Edm.",
+      "Mérinat Robert",
+      "Perrier Aloïs",
+      "Perrier Marie",
+      "Perrier Maurice",
+      "Pittet Paul",
+      "Ruchet Benjamin",
+      "Stucker Frédéric"
+    ],
+    "Apiculteurs": [
+      "Cosendai Edmond",
+      "Mérinat Albert",
+      "Rosset François"
+    ],
+    "Appareilleurs": [
+      "von Arx Paul",
+      "Naef Robert"
+    ],
+    "Artiste-peintre": [
+      "Rouge Frédéric"
+    ],
+    "Assurance - vieillesse": [
+      "Jordan D."
+    ],
+    "Auto-taxis": [
+      "Besson Adrien",
+      "Cosendev Ls",
+      "Mollet E.",
+      "Pidoux Alb."
+    ],
+    "Banque": [
+      "Caisse de crédit mutuel"
+    ],
+    "Bois (comm. de)": [
+      "Pittier Franç."
+    ],
+    "Bétail (march. de)": [
+      "Ambresin Albert"
+    ],
+    "Boulangers": [
+      "Favre André",
+      "Joly Edgar",
+      "Mollet Emile",
+      "Maret Ch."
+    ],
+    "Cafés": [
+      "Association viticole",
+      "Jordan P.",
+      "Cham bovey Alexis",
+      "Martin Wilfrid",
+      "Cosendai André",
+      "Dulex Robert"
+    ],
+    "Chalets (constr. de)": [
+      "Pittier François"
+    ],
+    "Charpentier": [
+      "Pittier François"
+    ],
+    "Charrons": [
+      "Basset François",
+      "Chamorel Henri",
+      "Delarze Jules"
+    ],
+    "Chaussures (march. de)": [
+      "Curchod Edmond"
+    ],
+    "Coiffeurs": [
+      "Mérinat Henri",
+      "Rœsler Ernest"
+    ],
+    "Cordonniers": [
+      "Plaschy Alb.",
+      "Rouil-ler Louis"
+    ],
+    "Couturière": [
+      "Gargantini Antoinette"
+    ],
+    "Droguerie": [
+      "Ansermet Pierre"
+    ],
+    "Entrepreneur": [
+      "Veillard Georges"
+    ],
+    "Epiceries": [
+      "Coopérative La Ruche",
+      "Curchod Edmond",
+      "Favre André",
+      "Maret Ch.",
+      "Mollet Emile",
+      "Schaerer Emile"
+    ],
+    "Equarrisseur": [
+      "Pirolet Emile"
+    ],
+    "Ferblantier": [
+      "Naef Robert"
+    ],
+    "Fers et quincaillerie": [
+      "Curchod Edmond"
+    ],
+    "Géomètre officiel": [
+      "Amiguet Edouard"
+    ],
+    "Laiteries, fromages": [
+      "Laiterie de Cramoisines",
+      "Laiterie Centrale"
+    ],
+    "Maréchaux": [
+      "Bonny Louis",
+      "Savioz Paul"
+    ],
+    "Menuisier": [
+      "Roulin Oscar"
+    ],
+    "Mercerie": [
+      "Anex Marguerite",
+      "Léderrey-Chappuis M."
+    ],
+    "Notaire": [
+      "Gesseney. H."
+    ],
+    "Pension": [
+      "Morex Mmes",
+      "Sylva-Sol.",
+      "Crettaz-Tavez"
+    ],
+    "Primeurs": [
+      "Société d'arboriculture"
+    ],
+    "Sages-femmes": [
+      "Hauswirth Julie",
+      "Santschy Germaine"
+    ],
+    "Scierie": [
+      "Pittier François"
+    ],
+    "Serruriers": [
+      "Bonny Louis",
+      "Savioz Paul",
+      "von Arx Paul"
+    ],
+    "Sociétés": [
+      "Association de la Laiterie d'Ollon",
+      "Association viticole",
+      "Battoir et moulin agricole",
+      "Caisse d'assurance du bétail",
+      "Crédit Mutuel d'Ollon",
+      "Eclaireurs",
+      "Laiterie d'Ollon",
+      "Section de la Croix-Bleue",
+      "Sté des Amis de la Liberté d'Ollon",
+      "Syndicat agricole"
+    ],
+    "Transports": [
+      "Pilloud H."
+    ],
+    "Vins": [
+      "Association viticole"
+    ],
+    "Divers": [
+      "Bercier Francis",
+      "Girod Albert",
+      "Corjat Emile",
+      "Wettstein W."
+    ]
+  },
+  "ANTAGNES": {
+    "Municipal": [
+      "Bordon Aimé"
+    ],
+    "Instituteur": [
+      "Savary Jean"
+    ],
+    "Institutrice": [
+      "Amiguet Augusta"
+    ],
+    "Apiculteur": [
+      "Bordon Aimé"
+    ],
+    "Epicerie": [
+      "Coopérative de Consommation"
+    ],
+    "Fruits, légumes": [
+      "Guex-Anex Hri."
+    ],
+    "Divers": [
+      "Boeye A.-S."
+    ]
+  },
+  "ARVEYES": {
+    "Garde-forestier": [
+      "Croset F."
+    ],
+    "Pasteur": [
+      "Grobéty M."
+    ],
+    "Poste et télégraphe": [
+      "Croset Francis"
+    ],
+    "Agriculteurs": [
+      "Croset Jules",
+      "Jouvenat Louis",
+      "Nicolier Vincent",
+      "Ruchet Charles",
+      "Ruchet Henri"
+    ],
+    "Bétail (md de)": [
+      "Ruchet Louis"
+    ],
+    "Blanchisseuses": [
+      "Barbey-Dübi",
+      "Les Lilas",
+      "Borloz",
+      "Mme."
+    ],
+    "Crémerie-tea room": [
+      "Croset A. Mlle"
+    ],
+    "Charpentier": [
+      "Borloz Alfred"
+    ],
+    "Entrepreneur": [
+      "Dentan J."
+    ],
+    "Epiceries": [
+      "Barbey Georges",
+      "Mathieu Louis"
+    ],
+    "Hôtels-pensions": [
+      "Chalet Anglais",
+      "Hôtel Montesano",
+      "Jan-Law",
+      "Les Pierrettes-Sarepta Croset Zoé"
+    ],
+    "Instituts": [
+      "Alpine-Collège S. A.",
+      "La Clairière",
+      "La Printanière",
+      "Genisé"
+    ],
+    "Ski (prof. de)": [
+      "Barbey Georges"
+    ],
+    "Sociétés": [
+      "Sté de développement de Villars-Chesières-Arveyes",
+      "Syndicat agricole d'Arveyes"
+    ],
+    "Divers": [
+      "Angel J.",
+      "Baltensperger Alfred",
+      "Borloz Alfr.",
+      "Hudson S.-T.",
+      "Liebhauser E.",
+      "Nicolier-Pidoux"
+    ]
+  }
+}

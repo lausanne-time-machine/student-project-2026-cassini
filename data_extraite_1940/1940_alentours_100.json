@@ -1,0 +1,407 @@
+{
+  "ETOY": {
+    "Auto-garage, réparations.": [
+      "Corthay"
+    ],
+    "Blanchisseuse.": [
+      "Rosset-Dupertuis"
+    ],
+    "Bouchers.": [
+      "Ecuyer",
+      "Renevier"
+    ],
+    "Boulangers-pâtissiers.": [
+      "Cavin",
+      "Gossweiler"
+    ],
+    "Cafés.": [
+      "Arn",
+      "Giriehs"
+    ],
+    "Camionneur.": [
+      "Cadestin"
+    ],
+    "Charcuterie.": [
+      "Roulet"
+    ],
+    "Charpentier.": [
+      "Labarthe"
+    ],
+    "Charron.": [
+      "Nidecker"
+    ],
+    "Chaussures (march. de), cordonnier.": [
+      "Metzener",
+      "Siberio"
+    ],
+    "Chiffons.": [
+      "Cadestin"
+    ],
+    "Coiffeur.": [
+      "Guex"
+    ],
+    "Combustibles.": [
+      "Giriehs"
+    ],
+    "Couturières.": [
+      "Guibert",
+      "Meylan"
+    ],
+    "Distillateur.": [
+      "Corthay"
+    ],
+    "Engrais chimiques.": [
+      "Giriehs"
+    ],
+    "Entrepreneurs.": [
+      "Monsciani",
+      "Schlatter"
+    ],
+    "Epiceries.": [
+      "Cavin",
+      "Diserens",
+      "Gossweiler",
+      "Huber",
+      "Richard"
+    ],
+    "Ferblantiers.": [
+      "Dutoit",
+      "Huguenin"
+    ],
+    "Horticulteur.": [
+      "Golder"
+    ],
+    "Jardiniers-maraîchers.": [
+      "Debossens",
+      "Garin",
+      "de Kaenel",
+      "Köhli",
+      "Köhli"
+    ],
+    "Laitier, fromages.": [
+      "Plüss"
+    ],
+    "Maréchal, machines agricoles.": [
+      "Corthay"
+    ],
+    "Menuisiers.": [
+      "Labarthe"
+    ],
+    "Notaire.": [
+      "Buchet"
+    ],
+    "Pépiniéristes.": [
+      "Giriehs",
+      "Lapalud"
+    ],
+    "Porcs (comm. de).": [
+      "Rochat"
+    ],
+    "Primeurs.": [
+      "Garin",
+      "de Kaenel"
+    ],
+    "Radio.": [
+      "Corthay"
+    ],
+    "Scierie.": [
+      "Giriehs"
+    ],
+    "Sellier-tapissier.": [
+      "Thalmond"
+    ],
+    "Sociétés.": [
+      "Abbaye de la St-Jacques d'Etoy",
+      "Section de la Croix-Bleue",
+      "Sté anonyme du battoir à grains",
+      "Sté de chant « La Concorde »",
+      "Sté de Développement",
+      "Sté de fromagerie « La Centrale »",
+      "Sté de tir aux armes de guerre d'Etoy"
+    ],
+    "Vannerie.": [
+      "Asile de l'Espérance"
+    ],
+    "Vélos, motos.": [
+      "Corthay",
+      "Gros"
+    ],
+    "Viticulteurs (propriétaires).": [
+      "Bernard",
+      "Buchet",
+      "Buchet",
+      "Giriehs",
+      "Giriehs",
+      "Giriehs",
+      "Gros",
+      "Jaquet",
+      "Rochat",
+      "Richoz",
+      "Teuscher",
+      "Thury"
+    ],
+    "Divers.": [
+      "Buchet",
+      "Grossen",
+      "de Mestral",
+      "Nægeli",
+      "de Pourtalès",
+      "Stenbock-Fermor"
+    ]
+  },
+  "EYSINS": {
+    "Syndic": [
+      "Martignier Paul"
+    ],
+    "Secrétaire": [
+      "Olivier Louis"
+    ],
+    "Boursier": [
+      "Baudin Gustave"
+    ],
+    "Huissier": [
+      "Bolay Albert"
+    ],
+    "Municipaux": [
+      "Baudraz",
+      "Chenaux",
+      "Haldimann",
+      "Olivier"
+    ],
+    "Cantonnier": [
+      "Brélaz"
+    ],
+    "Chef de gare": [
+      "Baudraz"
+    ],
+    "Commandant du feu": [
+      "Martignier"
+    ],
+    "Commission scolaire": [
+      "Granger"
+    ],
+    "Inspecteur du bétail": [
+      "Olivier"
+    ],
+    "Inspecteur des viandes": [
+      "Martignier"
+    ],
+    "Institutrice": [
+      "Miauton-Chappuis Renée"
+    ],
+    "Police (agent de)": [
+      "Bolay"
+    ],
+    "Poste et télégraphe": [
+      "Baudraz"
+    ],
+    "Agriculteurs": [
+      "André",
+      "Baertschi",
+      "Baudraz",
+      "Bolay",
+      "Demont",
+      "Daeppen",
+      "Dupontet",
+      "Ebinger",
+      "Gigy",
+      "Gran-ger",
+      "Haldimann",
+      "Haldimann",
+      "Jordan",
+      "Liechti",
+      "Martignier",
+      "Olivier",
+      "Pasche",
+      "Perret",
+      "Rochat",
+      "Spöri",
+      "Staebli",
+      "Stücki",
+      "Tappaz",
+      "Thomas-Baup",
+      "S. A. La Terrebonne"
+    ],
+    "Amodiateur.": [
+      "Tappaz"
+    ],
+    "Aniculteurs.": [
+      "Baudraz",
+      "Zulauf"
+    ],
+    "Appareilleur.": [
+      "Tecon"
+    ],
+    "Assurance-vieillesse.": [
+      "Baudin"
+    ],
+    "Auto-garage.": [
+      "Tecon"
+    ],
+    "Blanchisseuse.": [
+      "Pfeiffer"
+    ],
+    "Café.": [
+      "Olivier"
+    ],
+    "Charpentiers-menuisiers.": [
+      "Chabloz",
+      "Rosay"
+    ],
+    "Charrons.": [
+      "Fuhrer",
+      "Tecon"
+    ],
+    "Couturières.": [
+      "Diserens",
+      "Martignier"
+    ],
+    "Entrepreneur.": [
+      "Bachetta"
+    ],
+    "Epicerie, mercerie.": [
+      "Olivier-Pinguely"
+    ],
+    "Laitier.": [
+      "Sté de laiterie",
+      "Martignier"
+    ],
+    "Maréchal.": [
+      "Tecon"
+    ],
+    "Motos-vélos.": [
+      "Tecon"
+    ],
+    "Poterie (fabr.).": [
+      "Gerber"
+    ],
+    "Primeurs.": [
+      "Martin"
+    ],
+    "Sociétés.": [
+      "Sté de laiterie d'Eysins",
+      "Syndicat chevalin de Nyon",
+      "Baudin"
+    ],
+    "Vannerie.": [
+      "Bassin"
+    ],
+    "Vignerons.": [
+      "Bolay",
+      "Chenaux",
+      "Dupontet",
+      "Jordan",
+      "Martignier"
+    ],
+    "Divers.": [
+      "André",
+      "Baudin",
+      "Tappaz"
+    ]
+  },
+  "FAOUG": {
+    "Député": [
+      "Cornaz Paul"
+    ],
+    "Syndic": [
+      "Druey Jules"
+    ],
+    "Secrétaire": [
+      "Martignier Jean"
+    ],
+    "Boursier": [
+      "Druey Edouard"
+    ],
+    "Huissier": [
+      "Herren Alfred"
+    ],
+    "Municipaux": [
+      "Christinat",
+      "Cornaz",
+      "Dessonnaz",
+      "Ibach"
+    ],
+    "Assesseur-suppléant": [
+      "Beutler"
+    ],
+    "Cantonnier": [
+      "Loth"
+    ],
+    "Chef de gare": [
+      "Trolliet"
+    ],
+    "Commission scolaire.": [
+      "von Gunten"
+    ],
+    "Garde-forestier.": [
+      "Alfred"
+    ],
+    "Inspecteur du bétail.": [
+      "Cornaz"
+    ],
+    "Inspecteur des viandes.": [
+      "Cornaz"
+    ],
+    "Instituteurs.": [
+      "Patthey",
+      "Patthey"
+    ],
+    "Pasteur.": [
+      "Duvoisin Georges"
+    ],
+    "Police (agent de).": [
+      "Gehrig Hermann"
+    ],
+    "Poste et télégra": [
+      "Fasnacht"
+    ],
+    "Agriculteurs.": [
+      "Achischer",
+      "Beutler",
+      "Cornaz",
+      "Kiehl",
+      "Krenger",
+      "König",
+      "Schafroth"
+    ],
+    "Boucher.": [
+      "Gränicher"
+    ],
+    "Boulangers.": [
+      "Gnehm",
+      "Meyer"
+    ],
+    "Blanchisseuse.": [
+      "Felder"
+    ],
+    "Cafés.": [
+      "Guehm",
+      "Luginbuhl",
+      "Kramer"
+    ],
+    "Chauff. centraux.": [
+      "Christinat"
+    ],
+    "Chevaux (comm. de).": [
+      "von Gunten & Cie.",
+      "Gränicher"
+    ],
+    "Cordonnier.": [
+      "Humair"
+    ],
+    "Couturières.": [
+      "Krammer",
+      "Rossier"
+    ],
+    "Entrepreneurs.": [
+      "Gasparini",
+      "Gasparini"
+    ],
+    "Epiceries, merceries, tabacs.": [
+      "Kiehl",
+      "Meier",
+      "Soc. coopérat. de consommation",
+      "Meyer"
+    ]
+  }
+}

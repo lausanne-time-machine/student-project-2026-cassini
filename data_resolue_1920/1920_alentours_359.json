@@ -1,0 +1,263 @@
+{
+  "CHESEAUX": {
+    "Agriculteurs": [
+      "Henri",
+      "Peytrequin Charles",
+      "Perrochon Auguste",
+      "Regamey Auguste",
+      "Regamey Constant",
+      "Regamey Edouard",
+      "Regamey Maurice",
+      "Thuillard Alfred",
+      "Troyon Charles"
+    ],
+    "Aubergistes": [
+      "Bolomey Louis",
+      "Jallard Célina",
+      "Joyet Elise"
+    ],
+    "Bois (march. de)": [
+      "Ponnaz Henri. R."
+    ],
+    "Boulanger": [
+      "Clot Marcel"
+    ],
+    "Charrons": [
+      "Cevey John",
+      "Horrisberger Samuel",
+      "Peytrequin Constant"
+    ],
+    "Charpentiers": [
+      "Groux Edmond",
+      "Mann Henri",
+      "Ponnaz Henri. R."
+    ],
+    "Chef de gare": [
+      "Môttaz Alfred"
+    ],
+    "Commission scolaire": [
+      "Müller Francis",
+      "Cottier Henri"
+    ],
+    "Epicerie": [
+      "Bolomey Louis. R.",
+      "Clerc Léa",
+      "Joyet Elise"
+    ],
+    "Ferblantier": [
+      "Cordey Ulrich"
+    ],
+    "Huilerie": [
+      "Chappuis Alexis"
+    ],
+    "Inspecteur du bétail": [
+      "Cevey Henri"
+    ],
+    "Instituteurs": [
+      "Fonjallaz Edouard",
+      "Chantrens Valentine"
+    ],
+    "Maréchal": [
+      "Wyss Louis-David"
+    ],
+    "Pasteurs": [
+      "Bonnard Paul",
+      "Müller Francis"
+    ],
+    "Poste": [
+      "Emery Albert"
+    ],
+    "Rentier": [
+      "Wagnière Félix"
+    ],
+    "Scieur": [
+      "Chappuis Alexis"
+    ],
+    "Sociétés": [
+      "Immobilière de Cheseaux. R.",
+      "Laiterie. R.",
+      "Tir aux armes de guerre. R."
+    ],
+    "Tailleuses": [
+      "Groux Julie",
+      "Sahli Lina"
+    ],
+    "Téléphoniste": [
+      "Peytrequin S., Vve."
+    ]
+  },
+  "CRISSIER": {
+    "Autorités communales": [
+      "Blondel Em.",
+      "Brun Samuel"
+    ],
+    "Syndic": [
+      "Bussy Alfred"
+    ],
+    "Municipaux": [
+      "Bovay Adr.",
+      "Blanc Gérard",
+      "Piguet Charles",
+      "Favet Vincent",
+      "Petit Alex.",
+      "Bussy Henri"
+    ],
+    "Agent de police": [
+      "Crot H."
+    ],
+    "Agriculteurs": [
+      "Blondel Emile",
+      "Blondel François",
+      "Blondel Louis",
+      "Bovay Adrien",
+      "Bussy Alfred",
+      "Bussy Henri",
+      "Bussy Louis",
+      "Combet Louis",
+      "Dind Gustave",
+      "Petit Constant",
+      "Rawyler Edouard",
+      "Richard Edmond",
+      "Richard Lucien",
+      "Richard Louis",
+      "Tissot Ls."
+    ],
+    "Apiculteurs": [
+      "Blondel Henri",
+      "Bussy Eugène",
+      "Cuendet Hélène",
+      "Demont François"
+    ],
+    "Battoirs à grains": [
+      "Nicolas Alfred",
+      "Rochat Auguste. R."
+    ],
+    "Boulanger": [
+      "Rochat Jules"
+    ],
+    "Bétail (comm. de)": [
+      "Pache Louis",
+      "Pache Alexis"
+    ],
+    "Buraliste postal": [
+      "Petit Alexandre"
+    ],
+    "Cafés": [
+      "Ferro M.",
+      "Hôtel Beau-Site",
+      "Rindlisbacher, Vve",
+      "A. Boschetti",
+      "Schwitzguebel Louis",
+      "Weibel, Vve. R."
+    ],
+    "Carrons et tuyaux en ciment (fab. de)": [
+      "Rod & Cie."
+    ],
+    "Charpentiers": [
+      "Lauener Fritz. R T."
+    ],
+    "Charron": [
+      "Meylan E."
+    ],
+    "Commission scolaire": [
+      "Petit Alex.",
+      "Détraz Charles",
+      "Folmer Maurice",
+      "Bussy Henri",
+      "Diserens Louis"
+    ],
+    "Epicerie": [
+      "E. Morier",
+      "Rochat, Vve de Jules. R.",
+      "Vve Vilkens",
+      "Viredaz Emile"
+    ],
+    "Entrepreneurs": [
+      "Magistri Bernard",
+      "Magistri Jacques"
+    ],
+    "Graines (fourragères et potagères)": [
+      "Moudon François. R."
+    ],
+    "Gypsiers-peintres": [
+      "Locca Antoine",
+      "Rovasotto Jean"
+    ],
+    "Inspecteur du bétail": [
+      "Meylan Ed."
+    ],
+    "Instituteurs": [
+      "Rouge Edouard",
+      "Bussy Fernand",
+      "Cuendet-Nicod, dame",
+      "Rochat Hélène",
+      "Thévenaz, Mlle",
+      "Chautems Berthe (ouvr.)"
+    ],
+    "Jardiniers": [
+      "Blanc-Chave Louis",
+      "Dupuis Charles"
+    ],
+    "Maisons de santé": [
+      "Fontanellaz Albert",
+      "Richard-Ducret C."
+    ],
+    "Maréchal": [
+      "Cavin Georges"
+    ],
+    "Meunier": [
+      "Rochat Auguste. R."
+    ],
+    "Pasteur": [
+      "Baumann Jacques"
+    ],
+    "Scieurs": [
+      "Nicolas Alfred. T.",
+      "Rochat Auguste. R."
+    ],
+    "Sel (débit de)": [
+      "E. Morier"
+    ],
+    "Sellier": [
+      "Richard Alfred"
+    ],
+    "Sociétés": [
+      "D'assurance du bétail",
+      "De bibliothèque",
+      "De fromagerie. R.",
+      "Militaire La Sentinelle",
+      "De tir aux armes de guerre",
+      "Syndicat agricole. R."
+    ],
+    "Tailleuses": [
+      "Potterat Alma",
+      "Petit Rose",
+      "Richard Lina"
+    ],
+    "Téléphoniste": [
+      "Petit Alexandre"
+    ],
+    "Vignerons": [
+      "Girardet Charles",
+      "Vivian Charles"
+    ]
+  },
+  "EPALINGES": {
+    "Autorités communales": [
+      "Béboux Edouard",
+      "Pache-Béboux Henri"
+    ],
+    "Syndic": [
+      "Favrat Charles"
+    ],
+    "Municipaux": [
+      "Blanc Gustave",
+      "Delacrausaz Emile",
+      "Mermier Paul",
+      "Rouge Henri",
+      "Reymond Louis",
+      "Pache-Béboux Henri",
+      "Porchet Auguste"
+    ]
+  }
+}

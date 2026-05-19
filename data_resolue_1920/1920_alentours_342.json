@@ -1,0 +1,268 @@
+{
+  "CHAMPAGNE": {
+    "Scierie": [
+      "Banderet Ernest"
+    ],
+    "Sociétés": [
+      "Coopérative de laiterie",
+      "L'Avenir, épargne",
+      "Du poids public",
+      "De l'Abbaye des Mousquetaires",
+      "De l'usine à battre",
+      "Syndicat agricole"
+    ],
+    "Tailleuses": [
+      "Banderet Elisa",
+      "Bornoz-Auberson Emma",
+      "Rothlisberger Marie",
+      "Vautravers Rosa"
+    ],
+    "Vins (march. de)": [
+      "Banderet Léon",
+      "Giroud Louis",
+      "Guillet Ulysse",
+      "Guilloud Gustave"
+    ]
+  },
+  "CONCISE": {
+    "Autorités communales": [
+      "Roulet Victor",
+      "Fallet E."
+    ],
+    "Syndic": [
+      "Meyland Aloïs"
+    ],
+    "Municipaux": [
+      "Bétrix Alf.",
+      "Dupasquier René",
+      "Paris Jules",
+      "Cuendet Félix",
+      "Boudry Ed.",
+      "Dyens Clément",
+      "Grandguillaume A.",
+      "Cousin Jules"
+    ],
+    "Agriculteurs": [
+      "Althauss Ernest",
+      "Althauss François",
+      "Cousin Charles",
+      "Dupasquier René",
+      "Dyens Alb.",
+      "Dyens Clément",
+      "Dyens François. fils",
+      "Dyens Jean",
+      "Meylan Alfr.",
+      "Meylan Aloïs",
+      "Paris Jules",
+      "Petitpierre J.",
+      "Sandoz Henri",
+      "Thibaud Charles",
+      "Thibaud Eugène",
+      "Thibaud François",
+      "Thibaud Gustave",
+      "Thibaud Maurice"
+    ],
+    "Ameublements": [
+      "Payot Samuel"
+    ],
+    "Amodiateurs": [
+      "Du Pasquier René",
+      "Gaille Fritz"
+    ],
+    "Antiquaire": [
+      "Thibaud François"
+    ],
+    "Bétail (comm. de)": [
+      "Schiffer Alb."
+    ],
+    "Blanchisseuses-repasseuses": [
+      "Boudry Sophie",
+      "Martinelli Marie"
+    ],
+    "Bois (march. de)": [
+      "Cuendet & Martin",
+      "Dyens François",
+      "de Montmollin Rod."
+    ],
+    "Boucher": [
+      "Roth Albert"
+    ],
+    "Boulangers": [
+      "Boudry Alfred",
+      "Brünner Th."
+    ],
+    "Cafés": [
+      "Cousin Jules",
+      "Favre Adrien",
+      "Gaille Fritz",
+      "Leuba Alb.",
+      "Wirth Jules"
+    ],
+    "Chapellerie": [
+      "Jeanmonod Marie"
+    ],
+    "Charpentiers": [
+      "Guyaz Gustave",
+      "Moulin Louis"
+    ],
+    "Charretiers": [
+      "Bize Emile",
+      "Gaille Fritz"
+    ],
+    "Charron": [
+      "Jaggi Léon"
+    ],
+    "Chaux (fab. de)": [
+      "Vuillermoz L."
+    ],
+    "Chef de gare": [
+      "Guinchard Charles"
+    ],
+    "Chef de section": [
+      "Dyens Franç.-Ls."
+    ],
+    "Combustibles": [
+      "Cuendet & Martin"
+    ],
+    "Commissaire de police": [
+      "Bioley Hri."
+    ],
+    "Commission scolaire": [
+      "Spiro Louis",
+      "Du Pasquier René",
+      "Meylan Aloïs",
+      "Cousin Jules",
+      "Cuendet Félix"
+    ],
+    "Cordonnier": [
+      "Maurer Jacob"
+    ],
+    "Droguerie": [
+      "Jaton A."
+    ],
+    "Entrepreneurs": [
+      "Fantoli & Rigoni"
+    ],
+    "Electricité": [
+      "Forces de Joux",
+      "Thibaud François"
+    ],
+    "Epicerie, mercerie": [
+      "Cuerel Constant",
+      "Brünner Théophile",
+      "Oesch Adèle-Marianne",
+      "Payot Samuel"
+    ],
+    "Ferblantiers": [
+      "Boudry Charles",
+      "Cousin Henri"
+    ],
+    "Fer (articles en)": [
+      "Meylan Alfred"
+    ],
+    "Gérant": [
+      "Lambert Edouard"
+    ],
+    "Inspecteur du bétail": [
+      "Cousin Jules"
+    ],
+    "Instituteurs": [
+      "Fallet Emile",
+      "Marxgut Emma",
+      "Mottaz Berthe",
+      "Ecuyer Jenny"
+    ],
+    "Jardinier": [
+      "Dyens Henri"
+    ],
+    "Justice de paix": [
+      "Thibaud Fritz",
+      "Dagon-Grobet Jules",
+      "Favre Jules",
+      "Jaquier Michel",
+      "Pointet Eug.",
+      "Grandguillaume Auguste"
+    ],
+    "Laitier": [
+      "Bach Robert"
+    ],
+    "Lingères": [
+      "Bétrix Caroline",
+      "Cousin Isabelle",
+      "Dyens Alice"
+    ],
+    "Maréchaux": [
+      "Ecuyer Ls",
+      "Wiesner Alfred"
+    ],
+    "Menuisiers": [
+      "Guyaz Gustave",
+      "Moulin Louis"
+    ],
+    "Modistes": [
+      "Cousin Marie",
+      "Jeanmonod Marie"
+    ],
+    "Officier d'état-civil": [
+      "Granguillaume Auguste"
+    ],
+    "Pasteur": [
+      "Spiro Louis"
+    ],
+    "Poste et télégraphe": [
+      "Boulenaz Maur"
+    ],
+    "Poterie (mag. de)": [
+      "Brünner Th."
+    ],
+    "Sage-femme": [
+      "Currit Julie"
+    ],
+    "Scieur": [
+      "de Montmollin Rod. T."
+    ],
+    "Serrurier": [
+      "Cornaz Louis"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "Du poids public",
+      "Coopérative agricole et viticole",
+      "Immobilière de la Croix-Bleue",
+      "Syndicat agricole"
+    ],
+    "Tailleuse": [
+      "Currit Hermance"
+    ],
+    "Teinturerie (dépôt)": [
+      "Oesch. Mlle."
+    ],
+    "Tissus": [
+      "Brünner Théophile",
+      "Oesch Adèle-Marianne",
+      "Roulet V."
+    ],
+    "Vins (march. de)": [
+      "Dyens F."
+    ],
+    "Vignerons": [
+      "Aubert Louis",
+      "Devenoges Alphonse",
+      "Emery Henri",
+      "Evard Lucien",
+      "Gilliéron Arthur",
+      "Guyaz Marc-Louis",
+      "Jossevel Fritz",
+      "Lambelet Sam.",
+      "Moulin Louis",
+      "Perdrisat Alfred",
+      "Perrin Alfred",
+      "Perrin Fritz",
+      "Perrin Louis",
+      "Schwitzguébel Ferdinand",
+      "Thibaud Ernest",
+      "Vienet Louis",
+      "Vuillermet Fritz"
+    ]
+  }
+}

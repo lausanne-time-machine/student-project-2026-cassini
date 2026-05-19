@@ -1,0 +1,264 @@
+{
+  "CORSEAUX": {
+    "Cafetiers": [
+      "Grand, Ch. R.",
+      "Grosjean, Emile"
+    ],
+    "Charpentier": [
+      "Mouron, Eugène"
+    ],
+    "Inspecteur du bétail": [
+      "Grand, Charles"
+    ],
+    "Instituteur": [
+      "Amaudruz, Marc"
+    ],
+    "Négociants": [
+      "Grand, Aloïs. R.",
+      "Barbey, Constant"
+    ],
+    "Rentiers": [
+      "Brünnow, Rodolphe",
+      "Beauval. T",
+      "Cauderay, François",
+      "Cornu, Félix",
+      "Delapraz, Samuel",
+      "Du Bochet, Blanche. T",
+      "Genand, Charles",
+      "Genand-Cochard, dame",
+      "Parish, Richard",
+      "de Sinner, veuve"
+    ],
+    "Société": [
+      "Société de laiterie. R."
+    ],
+    "Vins": [
+      "de Meuron, Paul"
+    ],
+    "Vigneron": [
+      "Schneeberger, Jean"
+    ],
+    "Pension": [
+      "Brunner, D."
+    ],
+    "Propriétaires": [
+      "Barbey, Louis",
+      "Buffat, O.",
+      "Burnat, Emile. T",
+      "Burnat, Jean. T",
+      "Corboz, G.",
+      "Delafontaine, H.",
+      "de Miéville",
+      "de Vigneules",
+      "Dubuis, J.",
+      "Dubuis, L.",
+      "Duffey, Fréd.",
+      "Duffey, H.",
+      "Dutoit, Gustave",
+      "Emery, H.",
+      "Herminjard, J.",
+      "Jordan, Louis",
+      "Monod, A.",
+      "Ruchonnet, Jean",
+      "Taverney, Ch."
+    ],
+    "Scieur": [
+      "Chevalley, J."
+    ],
+    "Sociétés": [
+      "Sociétés de laiterie de Corsier",
+      "de la Banderette",
+      "de Longpraz",
+      "des Monts de Corsier. R",
+      "Société immobilière de Méruz. R",
+      "Syndicat agricole"
+    ],
+    "Vins (marchands)": [
+      "Delafontaine, Eugène",
+      "Grandchamp, François"
+    ],
+    "Voituriers": [
+      "Chaudet, père. R",
+      "Chaudet, Jules, fils",
+      "Chabloz, Louis"
+    ],
+    "Vignerons": [
+      "Boulenaz, Emile",
+      "Corboz, H.",
+      "Curchod, A.",
+      "Kubly",
+      "Loetscher, B.",
+      "Parisod, E."
+    ]
+  },
+  "CORSIER": {
+    "Autorités communales": [
+      "Burnat, Emile",
+      "Cherpillod, Gustave"
+    ],
+    "Syndic": [
+      "Couvreu, Aloïs. T."
+    ],
+    "Municipaux": [
+      "Delafontaine, Eugène",
+      "Emery, Henri",
+      "Cossy, André",
+      "Conne, Charles",
+      "Herminjard, Jules",
+      "Delafontaine, Ch.",
+      "Blanc, Jules",
+      "Chambaz, Louis"
+    ],
+    "Batelier": [
+      "Pilet, H."
+    ],
+    "Boulanger": [
+      "Jan, Jules. R."
+    ],
+    "Cafetiers": [
+      "Chaperon, Auguste",
+      "Felix, veuve de Samuel. R",
+      "Grand Pierre",
+      "Held, Jean. R T",
+      "Millasson, Amedee"
+    ],
+    "Charpentiers": [
+      "Held, J.",
+      "Volet, Henri"
+    ],
+    "Cordonniers": [
+      "Egg",
+      "Chevalley"
+    ],
+    "Couturières": [
+      "Felix, H.",
+      "Golay, S."
+    ],
+    "Entrepreneurs": [
+      "Galeazzi, Pierre. R T",
+      "Pari, Louis"
+    ],
+    "Epicerie": [
+      "Chambaz, Louis. R",
+      "Genoud",
+      "Cellier, F.",
+      "Jan, Jules. R."
+    ],
+    "Fermiers": [
+      "Cherpillod, G.",
+      "Dénéréaz, Henri"
+    ],
+    "Greffe de paix": [
+      "Dénéréaz, H."
+    ],
+    "Inspecteurs du bétail": [
+      "Barbey, Louis",
+      "Cossy, Fernand"
+    ],
+    "Instituteurs": [
+      "Emery, Samuel",
+      "Malherbe, Louis",
+      "Chenaux-Dénéréaz, Felicie",
+      "Conne, Louise",
+      "Lambelet, Marie"
+    ],
+    "Jardiniers": [
+      "Burky, G.-J.-Louis",
+      "Golay, J.",
+      "Birde, G."
+    ],
+    "Maçons": [
+      "Muller, H.",
+      "Pilet, H. et J."
+    ],
+    "Maréchal-serrurier": [
+      "Giesser, Jaques"
+    ],
+    "Menuisier": [
+      "Held, Jean. R."
+    ],
+    "Naturaliste": [
+      "Leresche, G."
+    ],
+    "Notaire": [
+      "Dénéréaz, Henri. T."
+    ],
+    "Officier d'état civil": [
+      "Dénéréaz, Henri. T."
+    ],
+    "Pasteurs": [
+      "Adamina, Jaques",
+      "Bornand, Paul"
+    ]
+  },
+  "JONGNY": {
+    "Autorités communales": [
+      "Taverney, Victor",
+      "Chappuis, Paul"
+    ],
+    "Syndic": [
+      "Chaudet, Victor"
+    ],
+    "Municipaux": [
+      "Pasche, Emile",
+      "Reymond, Henri",
+      "Robert, William",
+      "Gilliard, Auguste",
+      "Taverney, Aloïs",
+      "Pasche, Jean"
+    ],
+    "Aubergistes": [
+      "Henry, Jules",
+      "Chappuis, Charles",
+      "Taverney, Alexis"
+    ],
+    "Boulanger": [
+      "Barbey, Julien"
+    ],
+    "Charron": [
+      "Dufey, Jeannot"
+    ],
+    "Comestibles (commerce en gros)": [
+      "Cavin, David. R."
+    ],
+    "Epicerie": [
+      "Barbey, Julien. R."
+    ],
+    "Inspecteur du bétail": [
+      "Taverney, Const."
+    ],
+    "Instituteurs": [
+      "Bastian, Victor",
+      "Aubert, Emma"
+    ],
+    "Maréchal": [
+      "Forestier, Louis"
+    ],
+    "Rentiers": [
+      "Cavin, David",
+      "Robert, William. T."
+    ],
+    "Société": [
+      "Société de laiterie. R."
+    ],
+    "Voituriers": [
+      "Taverney, Henri",
+      "Barbey, Julien"
+    ]
+  },
+  "ST-LÉGIER-LA CHIÉSAZ": {
+    "Autorités communales": [
+      "Dupraz, Louis",
+      "Dupraz, Eugène"
+    ],
+    "Syndic": [
+      "Dupraz, Jules-Louis"
+    ],
+    "Municipaux": [
+      "Dupraz, Henri",
+      "Guex, Alfred",
+      "Guex, Louis",
+      "Richard, Fernand"
+    ]
+  }
+}

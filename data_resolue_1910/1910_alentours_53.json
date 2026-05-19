@@ -1,0 +1,250 @@
+{
+  "PAMPIGNY": {
+    "Epicerie, mercerie, tabacs": [
+      "Cottier, demoiselles. R",
+      "Curchod Adolphe. R",
+      "Monot Eugène. R."
+    ],
+    "Fers": [
+      "Curchod Adolphe. R",
+      "Monot Eugène. R."
+    ],
+    "Gypsier-peintre": [
+      "Brera Henri."
+    ],
+    "Inspecteur du bétail": [
+      "Tardy Jules."
+    ],
+    "Inspecteur des boucheries": [
+      "Bachelard Adrien."
+    ],
+    "Instituteurs": [
+      "Bolay Ernest",
+      "Dufaux Blanche",
+      "Monnet-Rossat Hélène."
+    ],
+    "Laitiers": [
+      "Nyffenegger Pierre. R",
+      "Pfister Jean. R."
+    ],
+    "Machine à battre": [
+      "Bolay Albert & Cie."
+    ],
+    "Maréchal": [
+      "Gagnaux Pierre",
+      "Tardy Théophile."
+    ],
+    "Médecin": [
+      "Borel H. T."
+    ],
+    "Officier d’état civil": [
+      "Zimmermann Jean."
+    ],
+    "Pasteur": [
+      "Borle Maurice."
+    ],
+    "Pension d’été": [
+      "Mouquin Jean-Louis."
+    ],
+    "Pépiniéristes": [
+      "Zimmermann Auguste",
+      "Zimmermann Arthur",
+      "Zimmermann Paul",
+      "La Commune."
+    ],
+    "Poste": [
+      "Degenève Marc-François",
+      "Degenève Arthur."
+    ],
+    "Sage-femme": [
+      "Rochat Elise."
+    ],
+    "Sellier": [
+      "Surber Antoine."
+    ],
+    "Sociétés": [
+      "Du poids public",
+      "Fromagerie l’Espérance. R",
+      "Fromagerie du Flon. R",
+      "De tir",
+      "De chant",
+      "Syndicat agricole. R",
+      "Section de la Croix Bleue."
+    ],
+    "Tailleuses": [
+      "Aubert Lina",
+      "Aubert Fanny",
+      "Amstutz Marie",
+      "Bachelard-Fuchs Louise",
+      "Bolay Alice",
+      "Bonzon Marcelle",
+      "Nicole Charlotte."
+    ],
+    "Téléphoniste": [
+      "Cottier, Dlle."
+    ],
+    "Tuilier": [
+      "Pittet frères. R."
+    ],
+    "Divers": [
+      "Pittet-Depallens",
+      "Pittet Jean",
+      "Mlle Meyer",
+      "Bachelard Jean."
+    ]
+  },
+  "PENTHALAZ": {
+    "Autorités communales": [
+      "Gonet François",
+      "Borgeaud Constant."
+    ],
+    "Syndic": [
+      "Borgeaud Charles."
+    ],
+    "Municipaux": [
+      "Borgeaud Henri",
+      "Epars Alexis",
+      "Epars Georges",
+      "Epars Albert",
+      "Epars Gustave."
+    ],
+    "Agriculteurs": [
+      "Bezençon Georges",
+      "Borgeaud Alfred",
+      "Borgeaud Emile",
+      "Borgeaud Henri",
+      "Borgeaud Marc",
+      "Epars",
+      "Epars Pauline",
+      "Epars Georges",
+      "Epars Eugène",
+      "Epars frères",
+      "Girardet Charles",
+      "Guex François",
+      "Jaunin frères",
+      "Porchat Emile",
+      "Porchat-Quelex",
+      "Porchat Alexis",
+      "Schopfer Emile."
+    ],
+    "Apiculteurs": [
+      "Borgeaud Henri",
+      "Epars Gustave",
+      "Guex François",
+      "Schopfer Emile."
+    ],
+    "Aubergistes": [
+      "Dony Alfred",
+      "Mercier Aimé."
+    ],
+    "Bois (march. de)": [
+      "Epars Henri",
+      "Mercier A."
+    ],
+    "Boulangers": [
+      "Girardet frères. R."
+    ],
+    "Câbles électriques (fabr. de)": [
+      "Aubert, Grenier & Cie. R T."
+    ],
+    "Charpentier": [
+      "Ruch Fritz."
+    ],
+    "Commission scolaire": [
+      "Schumacher",
+      "Epars Georges",
+      "Epars Robert."
+    ],
+    "Cordonniers": [
+      "Petter Sam.",
+      "Sauter Auguste."
+    ],
+    "Couturières": [
+      "Millioud Jules",
+      "Mottaz Edouard"
+    ],
+    "Engrais chimiques": [
+      "Dony Alfred. RT",
+      "Mercier Aimé. R T."
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Epars Robert",
+      "Girardet frères. R."
+    ],
+    "Gypse (march. de)": [
+      "Dony Alfred. R T",
+      "Mercier Aimé."
+    ],
+    "Inspecteur du bétail": [
+      "Gonet-Epars Fr."
+    ],
+    "Instituteurs": [
+      "Dony Henri",
+      "Girardet Henriette."
+    ],
+    "Maréchal": [
+      "Testuz Aimé."
+    ],
+    "Meuniers": [
+      "Amaudruz L. & Cie."
+    ],
+    "Poste": [
+      "Girardet Henri."
+    ],
+    "Sociétés": [
+      "De fromagerie. R",
+      "Coopérative de consommation",
+      "Agricole",
+      "Immobilière de Cossonay-Gare"
+    ],
+    "Téléphoniste": [
+      "Girardet Lucien."
+    ]
+  },
+  "PENTHAZ": {
+    "Autorités communales": [
+      "Mercier Alois",
+      "Bastian Fernand."
+    ],
+    "Syndic": [
+      "Bommottet Adolphe."
+    ],
+    "Municipaux": [
+      "Charlet Henri",
+      "Bastian Eugène",
+      "Vougaz Emile",
+      "Platel Léopold",
+      "Portier Maurice",
+      "Portier Jean."
+    ],
+    "Agriculteurs": [
+      "Bastian Jenny",
+      "Bastian Rodolphe",
+      "Bastian Samuel",
+      "Beutler Théophile",
+      "Bommottet Adolphe",
+      "Charlet frères",
+      "Corbaz Paul",
+      "Decrausaz Louis",
+      "Deléderray Georges",
+      "Deléderray Louis",
+      "Hählen frères",
+      "Laurent Charles",
+      "Millioud Louis",
+      "Platel Alfred",
+      "Platel Léopold",
+      "Portier Ernest",
+      "Portier Jean",
+      "Roulet Victor",
+      "Vougaz frères."
+    ],
+    "Apiculteurs": [
+      "Mercier Alois",
+      "Charlet frères."
+    ],
+    "Auberges et cafés": [
+      "Clerc Aimé",
+      "Pache Henri."
+    ]
+  }
+}

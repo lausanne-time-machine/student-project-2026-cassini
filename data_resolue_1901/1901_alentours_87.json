@@ -1,0 +1,240 @@
+{
+  "Le Sentier": {
+    "Blanchisseuses": [
+      "Adrienne",
+      "Heuby",
+      "Reymond",
+      "Rochat"
+    ],
+    "Bois (marchands)": [
+      "Audemars",
+      "Audemars",
+      "Capt",
+      "Capt"
+    ],
+    "Bouchers": [
+      "Golay",
+      "Reymond"
+    ],
+    "Boulangers": [
+      "Golay",
+      "Rochat-Piguet"
+    ],
+    "Cafés": [
+      "Golay",
+      "Piguet",
+      "Piguet",
+      "Rochat"
+    ],
+    "Caisse d'épargne cantonale vaudoise": [
+      "Capt"
+    ],
+    "Chapeliers": [
+      "Meylan",
+      "Piguet",
+      "Golay-Lecoultre"
+    ],
+    "Charcutiers": [
+      "Guignard-Vidoudez",
+      "Reymond"
+    ],
+    "Charpentiers": [
+      "Meylan",
+      "Meylan",
+      "Piguet"
+    ],
+    "Charrons": [
+      "Golay",
+      "Golay"
+    ],
+    "Chaussures (marchands)": [
+      "Golay-Lecoultre",
+      "Meylan",
+      "Piguet"
+    ],
+    "Cigares et tabacs": [
+      "Aubert",
+      "Aubert",
+      "Golay-Lecoultre",
+      "Meylan-Jaquier",
+      "Piguet"
+    ],
+    "Coiffeur": [
+      "Dido"
+    ],
+    "Confections": [
+      "Meylan",
+      "Piguet",
+      "Pletscher-Reymond"
+    ],
+    "Confiseur": [
+      "Golay"
+    ],
+    "Conservateur des droits réels": [
+      "Piguet"
+    ],
+    "Cordonniers": [
+      "Kistler",
+      "Golay"
+    ],
+    "Couturières et tailleuses": [
+      "Capt",
+      "Dupuis-Golay",
+      "Golay",
+      "Golay-Guex",
+      "Golay",
+      "Golay",
+      "Guex",
+      "Meylan",
+      "Pellet",
+      "Piguet",
+      "Piguet",
+      "Piguet",
+      "Pletscher-Louise",
+      "Ryser"
+    ],
+    "Denrées coloniales": [
+      "Guignard-Vidoudez",
+      "Golay",
+      "Meylan-Jaquier",
+      "Nicole"
+    ],
+    "Député": [
+      "Aubert"
+    ],
+    "Dentiste": [
+      "Fitting"
+    ],
+    "Distribution d'eaux": [
+      "Golay-Piguet & Cie"
+    ],
+    "Entrepreneurs": [
+      "Campiotti",
+      "Meylan",
+      "Reymond",
+      "Vanini"
+    ],
+    "Epicerie": [
+      "Aubert",
+      "Aubert",
+      "Golay",
+      "Guignard-Vidoudez",
+      "Nicole",
+      "Piguet"
+    ],
+    "Etoffes": [
+      "Aubert-Capt",
+      "Aubert",
+      "Meylan",
+      "Piguet",
+      "Pletscher-Reymond"
+    ],
+    "Ferblantier": [
+      "Bloch-Reymond"
+    ],
+    "Faïences et cristaux": [
+      "Meylan-Jaquier"
+    ],
+    "Fers (marchand)": [
+      "Meylan-Jaquier"
+    ],
+    "Forestier d'arrondissement": [
+      "Piguet"
+    ],
+    "Fournitures de bureaux": [
+      "Aubert-Capt",
+      "Aubert",
+      "Grandjean",
+      "Meylan-Marschall"
+    ],
+    "Fromages (fabricants)": [
+      "Audemars",
+      "Piguet"
+    ],
+    "Fromages (marchands)": [
+      "Baud",
+      "Nicole"
+    ],
+    "Géomètre": [
+      "Piguet"
+    ],
+    "Gypsiers": [
+      "Campiotti",
+      "Martin"
+    ],
+    "Assortiments (ancres)": [
+      "Gallay"
+    ],
+    "Balanciers (fabricants)": [
+      "Golay",
+      "Meylan"
+    ],
+    "Blantier": [
+      "Piguet"
+    ],
+    "Burins (fabr.)": [
+      "Lecoultre"
+    ],
+    "Cad raturiers": [
+      "Aubert",
+      "Baud",
+      "Capt",
+      "Capt",
+      "Dupuis",
+      "Golay",
+      "Golay",
+      "Golay",
+      "Golay",
+      "Lecoultre",
+      "Magnenat-Lecoultre",
+      "Meylan",
+      "Armand",
+      "Meylan",
+      "Nicole",
+      "Piguet",
+      "Simond",
+      "Vionnet"
+    ],
+    "Chronographes (fabricants)": [
+      "Aubert",
+      "Baud",
+      "Golay",
+      "Golay",
+      "Golay",
+      "Golay",
+      "Meylan",
+      "Meylan-Tavel",
+      "Meylan-Truan",
+      "Nicole",
+      "Vionnet",
+      "Vionnet"
+    ],
+    "Echappements": [
+      "Gallay"
+    ],
+    "Fournitures d'horlogerie (march.)": [
+      "Baud",
+      "Meylan-Golay"
+    ],
+    "Finissages": [
+      "Aubert",
+      "Aubert-Rochat",
+      "Capt",
+      "Golay",
+      "Guignard",
+      "Guignard-Aubert",
+      "Nicole",
+      "Nicole",
+      "Vallon"
+    ],
+    "Horlogerie (découpages)": [
+      "Meylan"
+    ],
+    "Horlogerie (fabr.)": [
+      "Aubert frères",
+      "Baud",
+      "Golay-Aubert",
+      "Golay"
+    ]
+  }
+}

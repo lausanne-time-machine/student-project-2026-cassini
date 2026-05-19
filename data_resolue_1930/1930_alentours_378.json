@@ -1,0 +1,246 @@
+{
+  "LUSSERY": {
+    "Agriculteurs.": [
+      "Borgeaud Alexis",
+      "Collet Francis",
+      "Delessert Aimé",
+      "Delessert hoirie",
+      "Desponds Ad.",
+      "Desponds Félix",
+      "Desponds Frs",
+      "Falconnier Lina",
+      "Guerry Frs",
+      "Mermoud hoirie",
+      "Mermoud Hri",
+      "Perrette Ele",
+      "Perrette Marcel",
+      "Potterat frères",
+      "Tissot Aloys"
+    ],
+    "Apiculteurs.": [
+      "Borgeaud Alexis",
+      "Cart Auguste",
+      "Delessert Louis"
+    ],
+    "Aubergiste.": [
+      "Buri Lina"
+    ],
+    "Commission scolaire.": [
+      "Desponds Félix",
+      "Mermoud Henri",
+      "Mermoud Marius"
+    ],
+    "Epicerie, mercerie.": [
+      "Pamblanc Marie"
+    ],
+    "Inspecteur du bétail.": [
+      "Mermoud Marius"
+    ],
+    "Instituteur.": [
+      "Cart Auguste"
+    ],
+    "Laitier.": [
+      "Ziorgen Arnold"
+    ],
+    "Meunier.": [
+      "Perrette Marcel"
+    ],
+    "Poste.": [
+      "Delessert Elise"
+    ],
+    "Repasseuse.": [
+      "Maeder Frida"
+    ],
+    "Sociétés.": [
+      "de fromagerie",
+      "du battoir à grains",
+      "Syndicat d'élevage"
+    ],
+    "Téléphoniste.": [
+      "Buri Lina"
+    ]
+  },
+  "MAURAZ": {
+    "Autorités communales.": [
+      "Rochat Charles",
+      "Rochat Henri"
+    ],
+    "Syndic": [
+      "Vial Jules"
+    ],
+    "Municipaux": [
+      "Rochat Alb.",
+      "Domenighetti Georges"
+    ],
+    "Secrétaire": [
+      "Rochat Henri"
+    ],
+    "Boursier": [
+      "Vacat"
+    ],
+    "Agriculteurs.": [
+      "Amstutz Albert",
+      "Aquillon Fritz",
+      "Bovay John. T.",
+      "Favre Louis",
+      "Rochat Albert",
+      "Rochat frères",
+      "Vial Jules"
+    ],
+    "Camionneur.": [
+      "Bovay John. T."
+    ],
+    "Meunier.": [
+      "Bovay John"
+    ],
+    "Scierie.": [
+      "Domenighetti Georges",
+      "Schacher Emile"
+    ],
+    "Téléphone particulier.": [
+      "Bovay John. T."
+    ]
+  },
+  "MEX": {
+    "Autorités communales.": [
+      "Hugly Charles",
+      "Küffer Marcel"
+    ],
+    "Syndic": [
+      "Vullioud Hippolyte"
+    ],
+    "Municipaux": [
+      "Jaquier Gustave",
+      "Ramuz François",
+      "Valet Ferdinand",
+      "Cuérel Edouard"
+    ],
+    "Secrét.": [
+      "Coeytaux Alfred"
+    ],
+    "Boursier": [
+      "Moret Ulysse"
+    ],
+    "Agriculteurs.": [
+      "Borgeaud Emile",
+      "Coeytaux A.",
+      "Cuérel Elie",
+      "Goy Charles",
+      "Hugly Charles",
+      "Imhof Adr.",
+      "Jaquier Charles",
+      "Logoz Ele",
+      "Marquard Constant",
+      "Moret Henri",
+      "Moret Ulysse",
+      "Ramuz François",
+      "Stauffer Gottlieb",
+      "Vaney Ch., fils",
+      "Valet Fernand",
+      "Valet Marguerite, Vve",
+      "Valet frères",
+      "Vullioud Hippolyte"
+    ],
+    "Aubergiste.": [
+      "Vaney Henri"
+    ],
+    "Boulangerie.": [
+      "Vaney Siegfried"
+    ],
+    "Charpentier.": [
+      "Duboux Louis"
+    ],
+    "Commission scolaire.": [
+      "Hugly Ch.",
+      "Candaux Jules",
+      "Valet Ferdinand"
+    ],
+    "Cordonnier.": [
+      "Bovay Edouard"
+    ],
+    "Epicerie, tabacs.": [
+      "Vaney Siegfr."
+    ],
+    "Garde-forestier.": [
+      "Vaney Henri"
+    ],
+    "Inspecteur du bétail.": [
+      "Ramuz Franç."
+    ],
+    "Instituteurs.": [
+      "Schneeberger Louis",
+      "Vullioud Evelyne"
+    ],
+    "Jardinier.": [
+      "Veit Frédéric"
+    ],
+    "Laitier.": [
+      "Grivaz Jacques"
+    ],
+    "Machine à battre.": [
+      "La Commune"
+    ],
+    "Maréchal.": [
+      "Cottier Alfred"
+    ],
+    "Société.": [
+      "de fromagerie"
+    ],
+    "Tailleuses.": [
+      "Marguet Hélène",
+      "Vullioud Berthe",
+      "Wermuth Adèle"
+    ],
+    "Téléphone public.": [
+      "Chollet J., Mme"
+    ],
+    "Divers.": [
+      "Charrière de Sévery Paul",
+      "Mettraux Henri",
+      "Vaney Henri"
+    ]
+  },
+  "MOIRY": {
+    "Autorités communales.": [
+      "Chanson Louis-Const.",
+      "Jousson Armand"
+    ],
+    "Syndic": [
+      "Pittet René"
+    ],
+    "Municipaux": [
+      "Monnier Emile",
+      "Chanson Charles, de Const.",
+      "Berger Louis",
+      "Prenleloup Edouard",
+      "Bonzon Ulysse",
+      "Chanson Lucien"
+    ],
+    "Secrétaire": [
+      "Chanson Robert"
+    ],
+    "Boursier": [
+      "Cugny Fernand"
+    ],
+    "Huissier": [
+      "Chanson Ferdinand"
+    ],
+    "Agriculteurs.": [
+      "Berger Jules",
+      "Berthold, hoirs de François",
+      "Bonzon John",
+      "Chaillet Julien",
+      "Chanson Charles",
+      "Chanson Eug.",
+      "Chanson Louis",
+      "Chanson Michel",
+      "Chanson Ls-Lucien",
+      "Chanson Robert",
+      "Chanson Roland",
+      "Clerc Hri",
+      "Crisinel Louis",
+      "Cugny Fernand",
+      "Cugny Louis"
+    ]
+  }
+}

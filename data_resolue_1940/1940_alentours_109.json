@@ -1,0 +1,380 @@
+{
+  "GLAND": {
+    "Epicerie-mercerie": [
+      "Charrière Paul. R.",
+      "Rey Albert.",
+      "Reymond Ch. R.",
+      "Zimmermann Ernest. RT."
+    ],
+    "Fourrages": [
+      "Langer Alfred. RT."
+    ],
+    "Fromages": [
+      "Grimm Raoul.",
+      "Pilloud Ed. RT."
+    ],
+    "Futailles métalliques": [
+      "Horisberger Jean."
+    ],
+    "Gypsiers-peintres": [
+      "Jaquier Georges T.",
+      "Monti Laurent."
+    ],
+    "Hôtels": [
+      "Coullet Jean",
+      "Henny Vve"
+    ],
+    "Jardiniers": [
+      "Locatelli Jean.",
+      "Furst Jean.",
+      "Zimmermann Adolphe."
+    ],
+    "Laitier": [
+      "Pilloud Edouard. RT."
+    ],
+    "Lingère": [
+      "Parisod Léa."
+    ],
+    "Machines agricoles": [
+      "Favre David."
+    ],
+    "Maréchaux": [
+      "Favre D. T."
+    ],
+    "Matériaux de construction": [
+      "Perrin et Ronchi. T."
+    ],
+    "Mécaniciens": [
+      "Garage de Gland S. A.",
+      "Guex Maurice",
+      "Muller Charles",
+      "Rapp Alphonse."
+    ],
+    "Menuisier": [
+      "Lauffenburger Ernest"
+    ],
+    "Meunier": [
+      "Conne Michel"
+    ],
+    "Parc avicole": [
+      "Langer Paul. RT."
+    ],
+    "Pêcheurs": [
+      "Bugnon Albert",
+      "Fayet Charles",
+      "Livraghi Albert."
+    ],
+    "Pension": [
+      "Caboussat Julien. T."
+    ],
+    "Pépiniériste-viticulteur": [
+      "Pasche J. T."
+    ],
+    "Produits alimentaires": [
+      "Phag",
+      "Fasnach Oscar"
+    ],
+    "Produits alimentaires pour le bétail": [
+      "Langer Paul. RT."
+    ],
+    "Produits horticoles et graines": [
+      "Locatelli Jean. R."
+    ],
+    "Relieur": [
+      "Jonzier Henri."
+    ],
+    "Représentants": [
+      "Ferrier Jean",
+      "Messerli J.-P."
+    ],
+    "Rentiers": [
+      "de Stuers",
+      "Durand Jean-Marie",
+      "Pernod Fritz",
+      "Francis Francis"
+    ],
+    "Selliers-tapissiers": [
+      "Cavin Louis.",
+      "Wissenbach Jules."
+    ],
+    "Serrurier": [
+      "Favre. D. T."
+    ],
+    "Sociétés": [
+      "Chemin de fer Gland-Begnins",
+      "Sté électrique de La Côte",
+      "Sté philantropique de la Lignière.",
+      "Syndicat agricole et viticole de Begnins",
+      "Pasche Jean"
+    ],
+    "Tea-Room": [
+      "Meylan Nancy Vve",
+      "Zimmermann Georges."
+    ],
+    "Transports": [
+      "Aegerter Louis. RT.",
+      "Berger Henri.",
+      "Langer Alfred. R."
+    ],
+    "Vélos": [
+      "Garage de Gland S. A."
+    ],
+    "Vigneron": [
+      "Caillat Marc."
+    ],
+    "Viticulteurs": [
+      "Pasche Jean. T.",
+      "Schneiter Paul"
+    ],
+    "Divers": [
+      "Bing E.-J.",
+      "Chollet François",
+      "Francis-Francis",
+      "Paderewski I.",
+      "Pernod Fritz",
+      "Ramuz Charles",
+      "Siefer Charles",
+      "de Stuers",
+      "Dr Bondy",
+      "Yersin Jean",
+      "Zucchelli Bianca",
+      "Mauerhofer Emma"
+    ]
+  },
+  "GOLLION": {
+    "Syndic": [
+      "Chenaux Auguste. T."
+    ],
+    "Secrétaire": [
+      "Pelichet Maurice."
+    ],
+    "Boursier": [
+      "Martinella François. T."
+    ],
+    "Huissier": [
+      "Mauerhofer Octave."
+    ],
+    "Municipaux": [
+      "Chanel Lucien",
+      "Chenaux Roger",
+      "Mange Edmond",
+      "Viret Ami."
+    ],
+    "Cantonnier": [
+      "Vulliamy André."
+    ],
+    "Commandant du feu": [
+      "Maulaz Francis"
+    ],
+    "Commission scolaire": [
+      "Chenaux Maurice",
+      "Pelichet Maur."
+    ],
+    "Garde forestier": [
+      "Vaney Hri"
+    ],
+    "Inspecteur du bétail": [
+      "Viret Ami."
+    ],
+    "Inspecteur des viandes": [
+      "Mange Dan."
+    ],
+    "Instituteurs": [
+      "Chapuis François",
+      "Muller Emilie."
+    ],
+    "Pasteurs": [
+      "Piotot Paul",
+      "von der Mühll Alfred"
+    ],
+    "Police (agent de)": [
+      "Mauerhofer Oct."
+    ],
+    "Poste et télégraphe": [
+      "Paquier Louis"
+    ],
+    "Agriculteurs": [
+      "Barillier Louis et Alfred",
+      "Baudet Louis",
+      "Berney Hri. T.",
+      "Briant Maurice",
+      "Chabanel John.",
+      "Chanel Lucien.",
+      "Chanel Henri",
+      "Chenaux Aug. T.",
+      "Chenaux Louis.",
+      "Chenaux Maurice",
+      "Chenaux Gaston",
+      "Curchod Constant. T.",
+      "Curchod frères.",
+      "Decrausaz Daniel et Alfred.",
+      "Epard Henri et Maurice.",
+      "Epard Justin",
+      "Favre Fernand.",
+      "Mange Daniel",
+      "Mange Edm.",
+      "Maulaz Francis",
+      "Maulaz Laurent. T.",
+      "Milloud Georges",
+      "Monachon Eugène.",
+      "Pelichet frères",
+      "Pelichet Alphonse.",
+      "Staub Hans.",
+      "Viret Ami",
+      "Viret Elie",
+      "Viret Georges et Pierre",
+      "Viret Victor. T."
+    ],
+    "Amodiateur": [
+      "Viret Ami."
+    ],
+    "Apiculteurs": [
+      "Chenaux Maurice",
+      "Decrausaz Alfred",
+      "Viret William."
+    ],
+    "Appareilleur": [
+      "Morier Albert."
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Chenaux André"
+    ],
+    "Bouchers": [
+      "Curchod Constant",
+      "Milloud Georges"
+    ],
+    "Boulanger": [
+      "Garraux Roger. R."
+    ],
+    "Cafés": [
+      "Favre Fernand",
+      "Viret Elie"
+    ],
+    "Charron": [
+      "Péclard Francis."
+    ],
+    "Comptable": [
+      "Jaccard André. T."
+    ],
+    "Cordonnier": [
+      "Wolf Henri."
+    ],
+    "Couturières": [
+      "Meystre Léa",
+      "Millioud Blanche",
+      "Höhn Rose"
+    ],
+    "Entrepreneurs": [
+      "Chevalley André",
+      "Martinella François. RT."
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Garraux Roger. R.",
+      "Paquier Louis."
+    ],
+    "Laitiers": [
+      "Bonny Georges",
+      "Itichard Paul. RT."
+    ],
+    "Maréchal": [
+      "Morier Albert."
+    ],
+    "Médecin": [
+      "Curchod Henri. T."
+    ],
+    "Menuisier": [
+      "Viret Max."
+    ],
+    "Meunier": [
+      "Usine agricole du Moulinet",
+      "Delacrétaz Ernest",
+      "Guerry A."
+    ],
+    "Parc avicole": [
+      "Höhn Auguste-Louis"
+    ],
+    "Porcs (commerce de)": [
+      "Favre Fernand. T."
+    ],
+    "Sable et gravier": [
+      "Bertola Victor"
+    ],
+    "Sellier-tapissier": [
+      "Mauerhofer Octave."
+    ],
+    "Sociétés": [
+      "Crédit mutuel Raiffeisen.",
+      "Sté du battoir.",
+      "Sté de chant",
+      "Sté de fromagerie de Gollion.",
+      "Sté de fromagerie de Mussel.",
+      "Sté de tir Armes de Guerre.",
+      "Syndicat agricole."
+    ],
+    "Tonnelier": [
+      "Gauthey Henri."
+    ],
+    "Vignerons": [
+      "Chanel Henri",
+      "Curchod Constant",
+      "Prior Louis."
+    ]
+  },
+  "GOSSENS": {
+    "Syndic": [
+      "Trolliet Robert."
+    ],
+    "Secrétaire": [
+      "Monge Henri."
+    ],
+    "Boursier": [
+      "Martin Emile."
+    ],
+    "Huissier": [
+      "Erismann Arthur."
+    ],
+    "Municipaux": [
+      "Erismann Albert",
+      "Perrin Charles."
+    ],
+    "Commandant du feu": [
+      "Perrin Charles."
+    ],
+    "Commission scolaire": [
+      "Trolliet Rob."
+    ],
+    "Inspecteur du bétail": [
+      "Erismann Alb."
+    ],
+    "Instituteur": [
+      "Cuendet René."
+    ],
+    "Agriculteurs": [
+      "Bovay Henri.",
+      "Charbon Armand",
+      "Erismann frères",
+      "Gasser Aimé",
+      "Gottraux Paul. T.",
+      "Billaud Pierre",
+      "Martin E.",
+      "Martin Jules",
+      "Monge Henri",
+      "Perrin Charles",
+      "Perrin G.",
+      "Trolliet Félicien",
+      "Viquerat Félix."
+    ],
+    "Mécanicien, machines agricoles": [
+      "Gottraux Paul"
+    ],
+    "Pompes funèbres du Nord": [
+      "Dupuis Jules"
+    ],
+    "Sociétés": [
+      "Sté de laiterie.",
+      "Sté du Four de Gossens.",
+      "Sté du battage mécanique."
+    ]
+  }
+}

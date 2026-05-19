@@ -1,0 +1,285 @@
+{
+  "GRANGES": {
+    "Epicerie, mercerie": [
+      "Chabloz, Victor. R",
+      "Desmeules, Emile. R T",
+      "Pavarin & Cie",
+      "Rochat-Badoux, veuve"
+    ],
+    "Ferblantiers": [
+      "Baud, Samuel",
+      "Gillard, Louis",
+      "Bidiville, Charles"
+    ],
+    "Géomètre breveté": [
+      "Jordan, Gustave"
+    ],
+    "Grains (négociants)": [
+      "Cuany-Müller, Henri",
+      "Grands Moulins (Société foncière et industrielle)"
+    ],
+    "Greffier de paix": [
+      "Nicod, Victor"
+    ],
+    "Horloges d'églises": [
+      "Crot, Louis"
+    ],
+    "Horloger": [
+      "Denni, Benjamin"
+    ],
+    "Huiliers": [
+      "Pidoux, Edouard",
+      "Grands Moulins (Société foncière et industrielle)"
+    ],
+    "Inspecteur du bétail": [
+      "Barbey, Victor",
+      "Nicod, Albert"
+    ],
+    "Instituteurs": [
+      "Héritier, Héli",
+      "Nicod, Emile",
+      "Bardet, Louise",
+      "Nicod, Marguerite"
+    ],
+    "Juge de paix": [
+      "Nicod-Clément, Auguste"
+    ],
+    "Lingères": [
+      "Durussel, Hélène",
+      "Pahud-Terrin, Fanny"
+    ],
+    "Machine à battre": [
+      "Grands Moulins"
+    ],
+    "Maréchaux": [
+      "Bornand, Emile",
+      "Mahon, Maurice",
+      "Stocklin, Auguste"
+    ],
+    "Mécaniciens": [
+      "Pahud, Louis",
+      "Savary, Constant"
+    ],
+    "Menuisiers": [
+      "Freymond, frères",
+      "Janin"
+    ],
+    "Meuniers": [
+      "Freymond, veuve",
+      "Grands Moulins (Société foncière et industrielle)"
+    ],
+    "Médecin": [
+      "Schærer, Ferdinand. T"
+    ],
+    "Modiste": [
+      "Cuany, Julie"
+    ],
+    "Notaire": [
+      "Nicod, Victor"
+    ],
+    "Officier d'état civil": [
+      "Desmeules, Em. T"
+    ],
+    "Pasteurs": [
+      "Burnier, Jean",
+      "Perret, Jules"
+    ],
+    "Pension de demoiselles": [
+      "Nicod, Gustave"
+    ],
+    "Pharmacien": [
+      "Zintgraf, Jules. R"
+    ],
+    "Pierristes": [
+      "Estoppey, Sophie",
+      "Nicod, Cécile",
+      "Terrin, Aloïs"
+    ],
+    "Poste": [
+      "Nobs, Louis"
+    ],
+    "Poudre d'os (fabricant)": [
+      "Pidoux, Edouard"
+    ],
+    "Propriétaires": [
+      "Barbey, Félix",
+      "Bugnion, André",
+      "Duc, Alfred",
+      "Duc, Auguste",
+      "Duc, Jean-Daniel-Elie",
+      "Duc, Fritz",
+      "Duc, François",
+      "Nicod, Auguste",
+      "Rossat, hoirs de Jean",
+      "Rossat, Louis"
+    ],
+    "Sages-femmes": [
+      "Beausire, Louise",
+      "Estoppey-Jordan, Louise"
+    ],
+    "Scieurs": [
+      "Grands Moulins",
+      "Pidoux, Edouard"
+    ],
+    "Sel (débitant)": [
+      "Barbey, Victor"
+    ],
+    "Sellier": [
+      "Pury, Louis"
+    ],
+    "Serrurier": [
+      "Berney, Elie"
+    ],
+    "Sociétés": [
+      "Société immobilière de fromagerie",
+      "Société de laiterie",
+      "Société immobilière de la Chapelle de l'Eglise libre",
+      "Société foncière et industrielle des Grands Moulins",
+      "Société de l'Echo de la Lembaz",
+      "Société de couture",
+      "Société de tir aux armes de guerre",
+      "Union chrétienne de jeunes gens",
+      "Syndicat agricole"
+    ],
+    "Socques (fabricant)": [
+      "Estoppey, Philippe"
+    ],
+    "Tailleuses": [
+      "Nicod, Nancy",
+      "Pasche, sœurs",
+      "Roux, Emma",
+      "Tenthorey, Emma",
+      "Terrin, Eugénie"
+    ],
+    "Tapissier": [
+      "Terrin, Constant. R"
+    ],
+    "Télégraphiste": [
+      "Desmeules, Emile"
+    ],
+    "Vannier": [
+      "Estoppey, Louis"
+    ],
+    "Vétérinaire": [
+      "Bovay-Clément, Constant. T"
+    ],
+    "Vins": [
+      "Desmeules, Emile. R T"
+    ],
+    "Voiturier": [
+      "Genier, Louis"
+    ],
+    "Vélocipèdes": [
+      "Bornand, Emile"
+    ]
+  },
+  "HENNIEZ": {
+    "Autorités communales": [
+      "Dubois, Louis",
+      "Dubois, Adolphe"
+    ],
+    "Syndic": [
+      "Jaton, Jean"
+    ],
+    "Municipaux": [
+      "Bettex, Franç.",
+      "Jayet, Louis",
+      "Thuillard, H.",
+      "Mottet-Gilliard",
+      "Margairaz, Louis",
+      "Ogay, Aimé"
+    ],
+    "Aubergistes": [
+      "Crausaz, Louis",
+      "Mottet, Jean"
+    ],
+    "Bains": [
+      "Gassler, Xavier. R T"
+    ],
+    "Charron": [
+      "Vuagniaux, C."
+    ],
+    "Chef de gare": [
+      "Dufey, Lucie"
+    ],
+    "Commission scolaire": [
+      "Margairaz, Louis"
+    ],
+    "Fourches (fabr.)": [
+      "Troillet, Jean-Daniel"
+    ],
+    "Inspecteur du bétail": [
+      "Dubois, Daniel"
+    ],
+    "Instituteurs": [
+      "Pahud, Aloïs",
+      "Charbon, Lina"
+    ],
+    "Maréchal": [
+      "Troillet, Ernest"
+    ],
+    "Menuisier": [
+      "Dubois, Louis"
+    ],
+    "Meunier": [
+      "Mottet, Louis"
+    ],
+    "Mécanicien": [
+      "Mottet, Louis"
+    ],
+    "Négociants": [
+      "Dariste, Fanny",
+      "Mottet, Jules",
+      "Pidoux, François. R"
+    ],
+    "Pierristes": [
+      "Jaccoud, Emile",
+      "Masson, Louis",
+      "Fischer, Jacob"
+    ],
+    "Société": [
+      "Société de fromagerie. R"
+    ],
+    "Tuilier": [
+      "Troillet, Elise, veuve"
+    ],
+    "Divers": [
+      "Mottet, Jean"
+    ]
+  },
+  "MARNAND": {
+    "Autorités communales": [
+      "Rossat, Henri",
+      "Buache, Aimé"
+    ],
+    "Syndic": [
+      "Bœuf, Jules"
+    ],
+    "Municipaux": [
+      "Estoppey, Jean",
+      "Falconnier, Frédéric",
+      "Lin, Jacques",
+      "Liaudet, Alexandre",
+      "Duc, Daniel",
+      "Bœuf-Duez, François"
+    ],
+    "Cafetier": [
+      "Fiaux, Lina. R"
+    ],
+    "Charpentier": [
+      "Cosandey, Louis"
+    ],
+    "Charron": [
+      "Duffey"
+    ],
+    "Commission scolaire": [
+      "Falconnier, Frédéric"
+    ],
+    "Couturière": [
+      "Falconnier, Emma"
+    ],
+    "Entrepreneurs": [
+      "Badone, frères"
+    ]
+  }
+}

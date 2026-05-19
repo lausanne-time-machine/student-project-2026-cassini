@@ -1,0 +1,446 @@
+{
+  "CONCISE": {
+    "Députés du cercle": [
+      "Althaus Ernest",
+      "Du Pasquier Ernest"
+    ],
+    "Syndic": [
+      "Meylan Aloïs"
+    ],
+    "Secrétaire": [
+      "Schorp Henri"
+    ],
+    "Boursier": [
+      "Dyens Albert"
+    ],
+    "Municipaux": [
+      "Cousin Albert",
+      "Du Pasquier René",
+      "Gaille Clément",
+      "Jaggi Emile",
+      "Paris Jules",
+      "Sandoz Robert"
+    ],
+    "Huissier": [
+      "Dyens Albert, fils"
+    ],
+    "Chef de section.": [
+      "Meylan Aloïs"
+    ],
+    "Command. du feu.": [
+      "Paris Jules, fils"
+    ],
+    "Commission scolaire.": [
+      "Favre Paul"
+    ],
+    "Garde-forestier.": [
+      "Thibaud Ernest"
+    ],
+    "Gendarmerie (poste de).": [
+      "Corbaz Ls"
+    ],
+    "Inspecteur du bétail.": [
+      "Thibaud Maurice"
+    ],
+    "Instituteurs.": [
+      "Débétaz Ulysse",
+      "Débétaz Lucie"
+    ],
+    "Justice de paix.": [
+      "Payot Ernest",
+      "Dyens Albert",
+      "Favre Fernand",
+      "Filleux Charles",
+      "Gaille Gustave",
+      "Pointet Robert",
+      "Pointet Louis"
+    ],
+    "Officier d'état civil.": [
+      "Payot Samuel"
+    ],
+    "Pasteur.": [
+      "Vasserot Théodore"
+    ],
+    "Poste et télégraphe.": [
+      "Schorp Henri"
+    ],
+    "Garage": [
+      "Balmer"
+    ],
+    "Agriculteurs.": [
+      "Althaus Ernest",
+      "Althaus François",
+      "Baridon Louis",
+      "Cousin Aimé",
+      "Delay Philippe",
+      "Dyens Clément",
+      "Dyens Eugène",
+      "Dyens Frédéric",
+      "Dyens Marc",
+      "Evard Lucien",
+      "Fankhauser René",
+      "Gaille Clément",
+      "Gurtner Ern.",
+      "Haldimann Paul",
+      "Jaquet André",
+      "Jaquet Georges",
+      "Jeanneret Emile",
+      "Meylan Aloys",
+      "Meylan Marcel",
+      "Marro André",
+      "Nicollier Aimé",
+      "Paris Jules",
+      "Perrin Joseph",
+      "Sandoz Robert",
+      "Thibaud Maurice",
+      "Vienet Maurice"
+    ],
+    "Ameublements.": [
+      "Payot Sam."
+    ],
+    "Antiquaire.": [
+      "Thibaud François"
+    ],
+    "Apiculteurs.": [
+      "Cornaz Louis",
+      "Gurtner Ernest",
+      "Ecuyer Arthur",
+      "Jeanmonod Henri",
+      "Pluss Fritz",
+      "Thibaud François"
+    ],
+    "Assurance.": [
+      "Zurich-accidents",
+      "Gaille Clément"
+    ],
+    "Assurance-vieillesse.": [
+      "Mutualité de retraite",
+      "Débétaz Ul."
+    ],
+    "Autos-garages.": [
+      "Balmer Ed.",
+      "Roulin Alfred"
+    ],
+    "Bétail (comm. de).": [
+      "Kaufmann F.",
+      "Oppliger Emile",
+      "Perrin Aug."
+    ],
+    "Blanchisseuses.": [
+      "Boudry Sophie",
+      "Schneider Marie",
+      "Wiesner Elise"
+    ],
+    "Bois (march. de).": [
+      "Cuendet & Martin",
+      "Meylan Aloys",
+      "Porret Paul",
+      "Rigoli Armel"
+    ],
+    "Boucheries-charcuteries.": [
+      "Kaufmann Fritz",
+      "Oppliger Emile",
+      "Perrin Auguste"
+    ],
+    "Boulangers.": [
+      "Boudry veuve d'Alfr.",
+      "Brünner Th."
+    ],
+    "Cafés.": [
+      "Hôtel de la Gare",
+      "Wirth Jules",
+      "Café de la Gare",
+      "Cochet Armand",
+      "Café des Bateaux",
+      "Oppliger Emile",
+      "Café de l'Union",
+      "Cousin Henri",
+      "Hôtel de l'Ecu de France",
+      "Gaille hoirs"
+    ],
+    "Charpentiers-menuisiers.": [
+      "Guyaz Gustave",
+      "Moulin Louis",
+      "Rigoli Armel"
+    ],
+    "Charretiers.": [
+      "Dyens Fréd.",
+      "Dyens Marc",
+      "Gaille Clément"
+    ],
+    "Charrons.": [
+      "Jaggi Ele",
+      "Wiesner Ch."
+    ],
+    "Chaussures (gros).": [
+      "Plüss Fritz"
+    ],
+    "Chaux (fabr. de).": [
+      "Gaille Clément"
+    ],
+    "Coiffeurs.": [
+      "Boudry Isabelle",
+      "Bolle Louis",
+      "Heller Victor",
+      "Schwab M."
+    ],
+    "Combustibles.": [
+      "Cuendet & Martin"
+    ],
+    "Confection.": [
+      "Roulet Victor"
+    ],
+    "Cordonnier.": [
+      "Payot Ernest"
+    ],
+    "Couturières.": [
+      "Currit Ernestine",
+      "Etter E.",
+      "Payot Berthe",
+      "Rigoli Clara"
+    ],
+    "Droguerie.": [
+      "Stuby E."
+    ],
+    "Electricité.": [
+      "Forces de Joux",
+      "Thibaud François"
+    ],
+    "Entrepreneurs.": [
+      "Fantoli Jaques",
+      "Lietta Fortuné",
+      "Rigoli Germ."
+    ],
+    "Epicerie, mercerie.": [
+      "Brünner Théophile",
+      "Clerc Paul",
+      "Freiburghaus Gottfried",
+      "Porret Paul",
+      "Société de consommation",
+      "E. Stuby"
+    ],
+    "Ferblantier.": [
+      "Cornaz Georges"
+    ],
+    "Gérant.": [
+      "Du Pasquier Ernest"
+    ],
+    "Gypsier-peintre.": [
+      "Zbinden Charles"
+    ],
+    "Horlogers.": [
+      "Jacot Ch.-Albert",
+      "Jeanneret Emile"
+    ],
+    "Jardiniers.": [
+      "Dyens Albert, fils",
+      "Dyens Henri",
+      "Nicolier Léon",
+      "Wiesner Charles"
+    ],
+    "Laitier.": [
+      "Marouard Edouard"
+    ],
+    "Lingères.": [
+      "Cousin Isabelle",
+      "Chatelanat El.",
+      "Dyens Alice"
+    ],
+    "Maréchaux.": [
+      "Duvanel Léon",
+      "Etter Gottfried",
+      "Turnherr Henri"
+    ],
+    "Masseur.": [
+      "Cherpillod André"
+    ],
+    "Mécanicien.": [
+      "Balmer Ed."
+    ],
+    "Médecin.": [
+      "Liengme th."
+    ],
+    "Modiste.": [
+      "Banderet Bertha"
+    ],
+    "Pêcheurs.": [
+      "Althaus Ernest",
+      "Fauconnet Alphonse",
+      "Huguenin frères",
+      "Nicollier Aimé",
+      "La Raisse",
+      "Nicollier André",
+      "Vautravers James"
+    ],
+    "Pension.": [
+      "Marro André"
+    ],
+    "Pierristes.": [
+      "Rieser E.",
+      "Rieser Rosina"
+    ],
+    "Primeurs.": [
+      "Clerc P."
+    ],
+    "Rentier.": [
+      "Jeanmonod Henri"
+    ],
+    "Scieries.": [
+      "Porret P.",
+      "Rigoli Armel"
+    ],
+    "Selliers-tapissiers.": [
+      "Payot Samuel",
+      "Tschachtli"
+    ],
+    "Sociétés.": [
+      "Abbaye des carabiniers",
+      "Sté coopérative agricole et viticole",
+      "Sté de chant l'Espérance",
+      "Sté de fromagerie",
+      "Sté de gymnastique",
+      "Sté immobil. de la Croix-Bleue",
+      "Sté de musique Echo du Mont-Aubert",
+      "Sté du poids public",
+      "Sté de tir aux armes de guerre",
+      "Syndicat agricolo"
+    ],
+    "Vignerons.": [
+      "Bétrix Alfred",
+      "Devenoges Alphonse",
+      "Dyens Georges",
+      "Dyens Louis",
+      "Dyens Samue!",
+      "Evard Louis",
+      "Gilliéron Arth.",
+      "Vuillermet Alfred"
+    ],
+    "CONTINUATION_FROM_PREVIOUS_PAGE": [
+      "du Pasquier René",
+      "du Pasquier Ernest",
+      "Perrin Armand",
+      "Vienet François",
+      "Vuillermet Alfred"
+    ],
+    "Divers.": [
+      "Cherpillod André",
+      "Jequier Hughes"
+    ]
+  },
+  "CONSTANTINE": {
+    "Syndic": [
+      "Gentizon Aloïs"
+    ],
+    "Secrétaire": [
+      "Gentizon Emile"
+    ],
+    "Boursier": [
+      "Gentizon Louis"
+    ],
+    "Huissier": [
+      "Monney Robert"
+    ],
+    "Municipaux": [
+      "Cuanillon Fernand",
+      "Gentizon Lucien",
+      "Loup Léon fils",
+      "Coinchon Henri",
+      "Salavaux"
+    ],
+    "Cantonnier.": [
+      "Gentizon Robert"
+    ],
+    "Commandant du feu.": [
+      "Gentizon Al."
+    ],
+    "Commission scolaire.": [
+      "Graf Hermann",
+      "Salavaux"
+    ],
+    "Contrôleur du lait.": [
+      "Cuanillon Fern."
+    ],
+    "Inspect. du bétail.": [
+      "Gentizon Numa"
+    ],
+    "Inspecteur des viandes.": [
+      "Cuanillon Roland"
+    ],
+    "Instituteurs.": [
+      "Pahud Jean-Louis",
+      "Gentizon-Bardet Alice"
+    ],
+    "Juge de paix.": [
+      "Vessaz Emile"
+    ],
+    "Officier d'état-civil.": [
+      "Bessat Jules"
+    ],
+    "Pasteur.": [
+      "Panchaud Georges"
+    ],
+    "Police (agent de).": [
+      "Cuanillon Robert"
+    ],
+    "Téléphone.": [
+      "Café Parisod"
+    ],
+    "Agriculteurs.": [
+      "Bessat Jules",
+      "Baumgartner Rodolphe",
+      "Borel Gstave.",
+      "Cauderay Marcel",
+      "Coinchon Henri",
+      "Salavaux",
+      "Cuanillon Alfred",
+      "Cuanillon Henri",
+      "Gentizon frères",
+      "Gentizon Adolphe",
+      "Gentizon Ernest",
+      "Gentizon Lucien",
+      "Gentizon Emile d'Alfred",
+      "Gentizon Numa",
+      "Loup Louis",
+      "Loup Roger",
+      "Salavaux",
+      "Monney Robert",
+      "Parisod Adolphe",
+      "Parisod Aimé",
+      "Pauli Rodolphe",
+      "Salavaux",
+      "Rohrbach Adolphe",
+      "Thomet Ernest",
+      "Wuillième Edmond",
+      "Salavaux",
+      "Wuillième Gabriel",
+      "Salavaux"
+    ],
+    "Assurance-vieillesse.": [
+      "Mutualité scolaire de retraite",
+      "Pahud Jean-Louis"
+    ],
+    "Apiculteur.": [
+      "Parisod Olga"
+    ],
+    "Café.": [
+      "Parisod-Freiburghaus Olga",
+      "Café de l'Union"
+    ],
+    "Epicerie-mercerie.": [
+      "Gentizon-Loup L."
+    ],
+    "Laitier.": [
+      "Kunz Fritz"
+    ],
+    "Maison de repos.": [
+      "Asile de Constantine",
+      "Muller Frida"
+    ],
+    "Médecin.": [
+      "Graf Hermann"
+    ],
+    "Pompes funèbres du Nord.": [
+      "Borel-Gentizon Gust."
+    ]
+  }
+}

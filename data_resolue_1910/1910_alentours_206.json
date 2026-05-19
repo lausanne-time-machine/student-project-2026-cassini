@@ -1,0 +1,269 @@
+{
+  "ORON-LA-VILLE": {
+    "Organistes": [
+      "Cousin Pauline",
+      "Croset Berthe"
+    ],
+    "Pasteurs": [
+      "Bieler Louis",
+      "Noir Théodore"
+    ],
+    "Pharmacien": [
+      "Martinet Edmond"
+    ],
+    "Préposé aux poursuites et faillites": [
+      "Cavin Eugène"
+    ],
+    "Renseignements commerciaux": [
+      "Gilliéron W.-S."
+    ],
+    "Sage-femme": [
+      "Rossier Fanny"
+    ],
+    "Scieries": [
+      "Doges Henri",
+      "Favre Jules"
+    ],
+    "Sellier tapissier": [
+      "Leresche Henri"
+    ],
+    "Sociétés": [
+      "Immobilière de la Paisible",
+      "Immobilière de la salle de concerts et conférences",
+      "De laiterie",
+      "Fanfare",
+      "Chorale",
+      "Gymnastique",
+      "Militaire des Amis de la Montagne",
+      "Des fusiliers des paroisses d'Oron et de Palézieux",
+      "Section de la Croix Bleue"
+    ],
+    "Tailleurs": [
+      "Grandchamp Emile",
+      "Pasche Jules"
+    ],
+    "Tanneur": [
+      "Schlegel Georges"
+    ],
+    "Téléphone public": [
+      "Maison de Ville"
+    ],
+    "Vélocipèdes": [
+      "Fàme Jean"
+    ],
+    "Vétérinaire": [
+      "Boudry Alexis"
+    ],
+    "Vins": [
+      "Jaquier & Cie."
+    ]
+  },
+  "ORON-LE-CHATEL": {
+    "Autorités communales": [
+      "Corboz Frédéric",
+      "Mayor Daniel",
+      "Blanchoud Jules",
+      "Corboz Louis",
+      "Boudry Jules",
+      "Goetz Paul",
+      "Mayor Henri",
+      "Porchet Aimé",
+      "Boudry Jules"
+    ],
+    "Agriculteurs": [
+      "Blanchoud Jules",
+      "Boudry Jules",
+      "Burnens François",
+      "Goetz Paul",
+      "Mayor Daniel",
+      "Mayor Gustave",
+      "Mayor David",
+      "Mayor Louis"
+    ],
+    "Aubergistes": [
+      "Begert Jean",
+      "Corboz E.",
+      "Gremaud"
+    ],
+    "Bouchers": [
+      "Mayor David",
+      "Mayor Henri"
+    ],
+    "Boulangerie": [
+      "Begert Jean"
+    ],
+    "Chef de gare": [
+      "Noverraz Alfred"
+    ],
+    "Commission scolaire": [
+      "Boudry Jules",
+      "Corboz Emile"
+    ],
+    "Cordonnier": [
+      "Nicole Louis"
+    ],
+    "Dépôt des postes": [
+      "Mayor Emile"
+    ],
+    "Epicerie": [
+      "Begert Jean",
+      "Mayor Emile"
+    ],
+    "Fers (mag. de)": [
+      "Hafelfinger Charles"
+    ],
+    "Fontainiers": [
+      "Mayor David",
+      "Mayor Henri"
+    ],
+    "Fourrages (comm. de)": [
+      "Mayor Gustave"
+    ],
+    "Garde-forestier cantonal": [
+      "Demiéville Aimé"
+    ],
+    "Instituteur": [
+      "Porchet Aimé"
+    ],
+    "Inspecteur du bétail": [
+      "Mayor Daniel"
+    ],
+    "Maréchal": [
+      "Corboz-Budry Fréd."
+    ],
+    "Rentier": [
+      "Gaiffe Daniel"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Tuiles, briques": [
+      "Gremaud X."
+    ]
+  },
+  "PALÉZIEUX": {
+    "Autorités communales": [
+      "Chollet Henri",
+      "Décosterd Louis",
+      "Perroud Adrien",
+      "Chollet Charles",
+      "Chevalley Aimé",
+      "Chamot Paul",
+      "Chollet Alfred",
+      "Demiéville Aimé",
+      "Beroud Charles"
+    ],
+    "Agriculteurs": [
+      "Beroud Charles",
+      "Besson Henri",
+      "Cardinaux",
+      "Cardinaux Henri",
+      "Cardinaux Louis",
+      "Chamot Paul",
+      "Chevalley Aimé",
+      "Chollet Charles",
+      "Colonie de Serix",
+      "Corboz Jules",
+      "Demiéville François",
+      "Dovat Henri",
+      "Dufey Daniel",
+      "Dufey Frédéric",
+      "Graz Auguste",
+      "Herren Jean",
+      "Jaunin Robert",
+      "Perroud Adrien",
+      "Perroud François",
+      "Rouffy-Henchoz",
+      "Volet Hermann"
+    ],
+    "Apiculteur": [
+      "Zutter P."
+    ],
+    "Architecte": [
+      "Graz Auguste"
+    ],
+    "Aubergistes": [
+      "Cardinaux Louis",
+      "Dufey Frédéric",
+      "Weber Samuel",
+      "Zbinden Joseph"
+    ],
+    "Bière (dépôt de)": [
+      "Grande brasserie Beauregard",
+      "M. Zbinden"
+    ],
+    "Bois (march. de)": [
+      "Chollet Hri"
+    ],
+    "Boulangers": [
+      "Chaubert Léon",
+      "Favre Julien"
+    ],
+    "Charron": [
+      "Mayor Alfred"
+    ],
+    "Chef de gare": [
+      "Jacquemard"
+    ],
+    "Chef de section": [
+      "Chamot Paul"
+    ],
+    "Colonie agricole de Serix": [
+      "Piguet Henri",
+      "Michod Jules",
+      "Parel Emmanuel",
+      "Jeanjaquet Paul",
+      "Magnenat Georges",
+      "Guignard"
+    ],
+    "Commission scolaire": [
+      "Cardinaux Henri",
+      "Liaudet Ulysse"
+    ],
+    "Cordonniers": [
+      "Gilliéron Edouard",
+      "Grandchamp Henri"
+    ],
+    "Couturières": [
+      "Chollet Amélie",
+      "Dufey sœurs",
+      "Marguerat sœurs"
+    ],
+    "Engrais chimiques": [
+      "Reymond-Buttet Ed."
+    ],
+    "Epicerie, mercerie": [
+      "Chamot Albert",
+      "Comte Jules",
+      "Dufey sœurs",
+      "Martin Charles",
+      "Reymond-Buttet Ed."
+    ],
+    "Etoffes": [
+      "Reymond-Buttet Ed."
+    ],
+    "Ferblantier": [
+      "Dufey Gustave"
+    ],
+    "Ferronnerie": [
+      "Chamot Albert"
+    ],
+    "Inspecteur du bétail": [
+      "Demiéville Franç."
+    ],
+    "Instituteurs": [
+      "Chamot Victor",
+      "Dufey Eva",
+      "Favez Clara"
+    ],
+    "Laitier": [
+      "Zender S."
+    ],
+    "Maçon": [
+      "Ramoni Innocent"
+    ],
+    "Maréchal": [
+      "Dubois Alfred"
+    ]
+  }
+}

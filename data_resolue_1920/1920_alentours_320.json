@@ -1,0 +1,231 @@
+{
+  "SENARCLENS": {
+    "Autorités communales.": [
+      "Gaudin Albert",
+      "Girard Edward",
+      "Lavanchy Aloïs",
+      "Girard Edouard",
+      "Meylan-Besson Louis",
+      "Krieg Georges",
+      "Bovey Emile",
+      "Guignard Charles",
+      "Girard Edward"
+    ],
+    "Agriculteurs.": [
+      "Besson Jules",
+      "Bovey Emile",
+      "Braissant frères",
+      "Cart Jules",
+      "Dizerens Jenny",
+      "Gaudin frères",
+      "Girard Edouard",
+      "Girard Georges",
+      "Girard John",
+      "Grimm Isaaac",
+      "Hostettler Louis",
+      "Krieg Georges",
+      "Lavanchy Aloïs",
+      "Meylan Edouard",
+      "Meylan Henri",
+      "Meylan-Besson Louis",
+      "Robert Henri",
+      "Rithener Emile",
+      "Zurfluh François"
+    ],
+    "Amodiateurs.": [
+      "Braissant frères"
+    ],
+    "Aubergiste.": [
+      "Schaub Marie"
+    ],
+    "Blanchisseuse.": [
+      "Autier Hélène"
+    ],
+    "Commission scolaire.": [
+      "Girard Ed.",
+      "Lavanchy Aloïs"
+    ],
+    "Couturière.": [
+      "Widmer Elise"
+    ],
+    "Epicerie. mercerie.": [
+      "Autier Alfred",
+      "Albou Benjamin"
+    ],
+    "Fourches et râteaux (fab. de).": [
+      "Autier R. T."
+    ],
+    "Inspecteur du bétail.": [
+      "Girard Ed."
+    ],
+    "Instituteur.": [
+      "Guignard Charles"
+    ],
+    "Meunier.": [
+      "Bovey Emile"
+    ],
+    "Pensionnat.": [
+      "Girard Mlles"
+    ],
+    "Société.": [
+      "De fromagerie"
+    ]
+  },
+  "SULLENS": {
+    "Autorités communales.": [
+      "Maire Charles",
+      "Badan Gustave",
+      "Dubauloz François",
+      "Bally Louis",
+      "Badan François",
+      "Gaudard Edouard",
+      "Ramuz Jules",
+      "Séchaud David",
+      "Dubauloz Emile"
+    ],
+    "Agriculteurs.": [
+      "Aguet Charles",
+      "Badan Charles",
+      "Badan Louis",
+      "Badan Maurice",
+      "Badan Théodore",
+      "Bally frères",
+      "Carrard Jules",
+      "Dubauloz Constant",
+      "Dubauloz Emile",
+      "Dubauloz François",
+      "Gachet Hri",
+      "Gaudard Ed.",
+      "Joyet Alexis",
+      "Laurent Charles",
+      "Puthod François",
+      "Ramuz Jules",
+      "Reymond François",
+      "Séchaud Charles",
+      "Séchaud David",
+      "Séchaud Samuel"
+    ],
+    "Amodiateur.": [
+      "Dubauloz François"
+    ],
+    "Aubergistes.": [
+      "Dubauloz Gustave",
+      "Séchaud Emile"
+    ],
+    "Blanchisseuse.": [
+      "Séchaud Emma"
+    ],
+    "Bouchers.": [
+      "Badan Charles",
+      "Ramuz Fernand",
+      "Séchaud Emile"
+    ],
+    "Charpentier.": [
+      "Pittet Maxis"
+    ],
+    "Commission scolaire.": [
+      "Candaux Jules",
+      "Dubauloz Trolliet",
+      "Séchaud David",
+      "Badan François"
+    ],
+    "Entrepreneurs.": [
+      "Bariatti Charles & Josué"
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Bovay Henriette, Vve",
+      "Séchaud Em."
+    ],
+    "Inspecteur du bétail.": [
+      "Laurent Ch."
+    ],
+    "Instituteurs.": [
+      "Maire Charles",
+      "Jorand Eva"
+    ],
+    "Justice de paix.": [
+      "Borgeaud Jules",
+      "Isely Louis",
+      "Montagnon Charles",
+      "Girardet Constant",
+      "Reymond François",
+      "Cornaz Félix"
+    ],
+    "Lingère.": [
+      "Séchaud Louise"
+    ],
+    "Maréchal.": [
+      "Hoffer Auguste"
+    ],
+    "Officier d'état-civil.": [
+      "Dubauloz Gust."
+    ],
+    "Sellier.": [
+      "Pahud Henri"
+    ],
+    "Sociétés.": [
+      "De fromagerie",
+      "Syndicat agricole"
+    ],
+    "Tailleuses.": [
+      "Pahud, Mme",
+      "Ramuz Nelly",
+      "Ramuz Sophie"
+    ],
+    "Téléphoniste.": [
+      "Séchaud Emile"
+    ]
+  },
+  "VILLARS-LUSSERY": {
+    "Autorités communales.": [
+      "Portier Louis",
+      "Borgeaud Alexis",
+      "Borgeaud Alfred",
+      "Baudat Alfred",
+      "Muller Emile",
+      "Borgeaud Alexis",
+      "Bastardot Jules"
+    ],
+    "Agriculteurs.": [
+      "Baudat Alfred",
+      "Borgeaud Alfred",
+      "Despland M. T.",
+      "Gatabin Héli",
+      "Guillemin Louis et Paul",
+      "Guillemin Charles",
+      "Guillemin Henriette",
+      "Muller Emile",
+      "Portier Ernest",
+      "Séchaud Henri"
+    ],
+    "Amodiateurs.": [
+      "Borgeaud A.",
+      "Desplands, hoirie"
+    ],
+    "Commission scolaire.": [
+      "Borgeaud Alfred",
+      "Muller Emile"
+    ],
+    "Inspecteur du bétail.": [
+      "Borgeaud Alexis"
+    ],
+    "Institutrice.": [
+      "Bastardot Clarisse"
+    ],
+    "Pêcheurs.": [
+      "Bastardot Jules",
+      "Guillemin Henri",
+      "Longchamp Maurice"
+    ],
+    "Société.": [
+      "De laiterie"
+    ]
+  },
+  "VUFFLENS-LA-VILLE": {
+    "Autorités communales.": [
+      "Montagnon Ch.",
+      "Benvegnin W.",
+      "Benvegnin Alfred"
+    ]
+  }
+}

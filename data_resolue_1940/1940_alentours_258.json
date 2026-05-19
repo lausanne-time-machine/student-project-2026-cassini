@@ -1,0 +1,325 @@
+{
+  "SAINT-SULPICE": {
+    "Syndic": [
+      "Plojoux Gaston"
+    ],
+    "Secrétaire": [
+      "Regamey Marcel"
+    ],
+    "Boursier": [
+      "Bourgoz Samuel"
+    ],
+    "Huissier": [
+      "Berthet Eugène"
+    ],
+    "Municipaux": [
+      "Pête Gustave",
+      "Semadeni Emile",
+      "Foretay Charles",
+      "Hübscher Albert"
+    ],
+    "Commandant du feu": [
+      "Chevalley Jn."
+    ],
+    "Commission scolaire": [
+      "Freymond Elie"
+    ],
+    "Garde forestier": [
+      "Prélaz"
+    ],
+    "Inspecteur du bétail": [
+      "Bourgoz Adr."
+    ],
+    "Inspecteur des viandes": [
+      "Berthet Eug."
+    ],
+    "Instituteur": [
+      "Besson Maurice"
+    ],
+    "Police (agent de)": [
+      "Berthet Eugène"
+    ],
+    "Poste et télégraphe": [
+      "Tanniger William"
+    ],
+    "Téléphone": [
+      "Brand Jean"
+    ],
+    "Agence d'éducation": [
+      "Studeo"
+    ],
+    "Agriculteurs": [
+      "Boraley Aimé",
+      "Bourgoz Aloïs",
+      "Bourgoz Juste",
+      "Bourgoz Léopold",
+      "Bourgoz Ulysse",
+      "Bourgoz frères",
+      "Chapuis Emile",
+      "Cherbulliez Henri",
+      "Ducret Armand",
+      "Foretay Auguste",
+      "Foretay Jules",
+      "Foretay Victor",
+      "Foretay Charles",
+      "Foretay Victor",
+      "Gras Victor",
+      "Gex Henri",
+      "Krieg Constant",
+      "Krieg Eugène",
+      "Meyer Albert",
+      "Meyer Gottfried",
+      "Meyer William",
+      "Mottier Aug.",
+      "Pête Gustave",
+      "Vaney Paul"
+    ],
+    "Architectes": [
+      "Chevalley Paul",
+      "Kissenpfenning E.",
+      "Weissbrod Emile"
+    ],
+    "Argenteur": [
+      "Croset André"
+    ],
+    "Articles en bois (fabr. de)": [
+      "Bovon Gustave"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Besson Maurice"
+    ],
+    "Auto-garages": [
+      "Gaudin Charles",
+      "Addor Marcel"
+    ],
+    "Auto-Station": [
+      "Talag-Dorigny"
+    ],
+    "Aviculteur": [
+      "Grandjean Marius"
+    ],
+    "Bétail (md de)": [
+      "Plojoux Gaston"
+    ],
+    "Blanchisserie": [
+      "Bovon Mlle"
+    ],
+    "Boucher": [
+      "Schlup F."
+    ],
+    "Boulanger-pâtissier": [
+      "Brand J."
+    ],
+    "Cafés": [
+      "Béguin Henri",
+      "Bernhard Charles",
+      "Chevalley-Retornaz J.",
+      "Regamey Marcel"
+    ],
+    "Charcutier": [
+      "Schlup F."
+    ],
+    "Chiens (élevage de)": [
+      "Fisher-Burgess"
+    ],
+    "Coiffeur": [
+      "Donzé-Boillat A."
+    ],
+    "Cordonniers": [
+      "Boggio Ch.",
+      "Jaunin Emmanuel"
+    ],
+    "Couturières": [
+      "Foretay Marg.",
+      "Mme Freymond Alice",
+      "Meylan Mme"
+    ],
+    "Crémeries, tea-room": [
+      "Béguin Hri",
+      "Brandt Jean",
+      "Maeder Robert",
+      "Tarabuso Mme"
+    ],
+    "Dentiste": [
+      "Grandjean Marius"
+    ],
+    "Electriciens": [
+      "Battilotti F.",
+      "Foretay Gustave"
+    ],
+    "Entrepreneurs": [
+      "Boraley Robert",
+      "Siegfried M.",
+      "Dutoit Jean",
+      "Lusso Noël"
+    ],
+    "Epiceries": [
+      "Brand Jean",
+      "Chappuis Emile",
+      "Gerber Ernest",
+      "Raynal Pierre"
+    ],
+    "Fraises (cultures de)": [
+      "Raimond F."
+    ],
+    "Gérances d'immeubles": [
+      "Chevalley Emile",
+      "Gaulis Marc"
+    ],
+    "Gravière (expl. de)": [
+      "Freymond E.",
+      "Lusso Noël"
+    ],
+    "Gypsier-peintre": [
+      "Spadini-Golaz Cél."
+    ],
+    "Horloger": [
+      "Gerber Ernest"
+    ],
+    "Horticulteurs-fleuristes": [
+      "Bonard Octave",
+      "Jaeger M.-E.",
+      "Pfenninger R.",
+      "Semadeni Emile"
+    ],
+    "Hôtels-pensions": [
+      "Bellevue-Terrasse",
+      "Chevalley-Rétornaz J.",
+      "La Plage",
+      "Béguin Henri",
+      "Hôtel du Léman",
+      "Bernhard Charles",
+      "Raimond Francis",
+      "Du Débarcadère",
+      "Maeder Robert"
+    ],
+    "Jardiniers-maraîchers": [
+      "Bonard Oct",
+      "Bovay Alexis",
+      "Jaccoud René",
+      "Pfenninger Rod.",
+      "Rauch Hermann",
+      "Schaffroth Ch.",
+      "Semadeni Emile",
+      "Tissot Ed."
+    ],
+    "Laitier": [
+      "Laiterie agricole"
+    ],
+    "Maçon": [
+      "Siegfried Robert"
+    ],
+    "Maréchal": [
+      "Meylan Eugène"
+    ],
+    "Mécanicien": [
+      "Bonnet Et."
+    ],
+    "Médecin": [
+      "Sandoz Ch."
+    ],
+    "Menuisiers": [
+      "Chevalley William",
+      "Fehlbaum Jean",
+      "Bovon Gustave"
+    ],
+    "Notaire": [
+      "Challet M."
+    ],
+    "Parc avicole": [
+      "Grandjean Marius"
+    ],
+    "Pêcheurs": [
+      "Foretay Aug.",
+      "Jacquier André",
+      "Jacquier Franç.",
+      "Martin Ernest",
+      "Tissot Ferd.",
+      "Tissot Julien"
+    ],
+    "Pisciculture": [
+      "Etat de Vaud"
+    ],
+    "Porcs (md de)": [
+      "Plojoux Gaston"
+    ],
+    "Produits en ciment (fabr. de)": [
+      "Lusso Noël",
+      "Dutoit J.",
+      "Freymond Emile"
+    ],
+    "Représentants": [
+      "Audemars Edouard",
+      "Grunauer Ch.-A.",
+      "Imhoff Maurice",
+      "Pâquin Charles",
+      "de Steiger Hermann"
+    ],
+    "Sable (Carrières de)": [
+      "Foretay-Parisod J.",
+      "Foretay Maurice",
+      "Freymond Emile fils",
+      "Gravières Réunies",
+      "Lusso Noël"
+    ],
+    "Sables et graviers": [
+      "Freymond Emile",
+      "Gravières Réunies",
+      "Lusso Noël"
+    ],
+    "Sociétés": [
+      "Sté d'abbaye",
+      "Sté de chant",
+      "Sté de développement",
+      "Sté de laiterie",
+      "Sté de tir"
+    ],
+    "Tailleur": [
+      "Berner William"
+    ],
+    "Transports": [
+      "Blanc-Chollet Hri"
+    ],
+    "Vignerons": [
+      "Bourgoz Aloïs",
+      "Bourgoz Juste",
+      "Chapuis Emile",
+      "Foretay Jules",
+      "Foretay Charles",
+      "Gras Victor",
+      "Pête Gustave"
+    ],
+    "Divers": [
+      "Allaz-Blanc Rob.",
+      "Addor Marcel",
+      "Badan Ernest",
+      "Bouvier Louise",
+      "Chevalley E.",
+      "Chevalley Paul",
+      "Clerc Charles",
+      "de Vion J.",
+      "Dufey-Camponovo M.",
+      "Dumont Arm.",
+      "Evard Mme",
+      "Favre-Demont A.",
+      "Glas C.",
+      "Gailloud André",
+      "Gailloud Marcel",
+      "Grin Camille",
+      "Kissenpfennig E.",
+      "Leenhardt-Doxat Florence",
+      "Monk Richard",
+      "Moraz",
+      "Nielsen Marguerite",
+      "Porta Maurice",
+      "Pfund Aug.",
+      "Roux Jacques",
+      "de Steiger H.",
+      "Thuillard Veuve",
+      "Vogel Otto",
+      "Zullig & Frankel",
+      "Vallotton Henri"
+    ]
+  }
+}

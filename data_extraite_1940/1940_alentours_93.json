@@ -1,0 +1,382 @@
+{
+  "ECHALLENS": {
+    "Librairies-papeteries": [
+      "Bezençon & Cie.",
+      "Cardinaux Julie",
+      "Huguenin René"
+    ],
+    "Lingères": [
+      "Bavaud Hélène",
+      "Schopfer-Vincent"
+    ],
+    "Liquoriste": [
+      "Rochat Eug."
+    ],
+    "Machines agricoles": [
+      "Bavaud Ernest",
+      "Henriod Ch.",
+      "Henriod frères, S. à r. l.",
+      "Leutwyler Ad."
+    ],
+    "Machines à coudre": [
+      "Bezençon & Cie.",
+      "Falcy Roger",
+      "Rochat Lucien"
+    ],
+    "Maréchaux": [
+      "Devolz André",
+      "Pittet Joseph"
+    ],
+    "Maroquinerie": [
+      "Moser Gottlieb"
+    ],
+    "Matelassiers": [
+      "Chappuis Fanny",
+      "Maurer-Devolz M.",
+      "Cardinaux Auguste",
+      "Moser Gottlieb"
+    ],
+    "Matériaux de construction": [
+      "Bezençon & Cie."
+    ],
+    "Mécaniciens": [
+      "Bavaud Ernest",
+      "Bovey Alfred",
+      "Henriod frères, S. à r. l.",
+      "Leutwyler Adolphe",
+      "Pittet Valentin",
+      "Rochat Lucien"
+    ],
+    "Médecins": [
+      "Bettex Ch.",
+      "Simonetta Pierre"
+    ],
+    "Menuisiers": [
+      "Galaud Julien",
+      "Huber Marc",
+      "Mani Ernest",
+      "Maurer Henri",
+      "Menuiserie du Gros de Vaud, S. A."
+    ],
+    "Mercerie": [
+      "Panchaud Léon",
+      "Cardinaux Julie",
+      "Magnenat Thérèse"
+    ],
+    "Soc. Coop. de Consommation": [
+      "Soc. Coop. de Consommation"
+    ],
+    "Meuniers": [
+      "Association du Moulin agricole",
+      "Maendly André"
+    ],
+    "Meubles (fabr. de)": [
+      "Mani Ernest",
+      "Maurer-Devolz Henri"
+    ],
+    "Modiste": [
+      "Ferrini Evelyne"
+    ],
+    "Notaires": [
+      "Laurent André",
+      "Meylan Hubert",
+      "Pittet Gust.",
+      "Veyre Gges.",
+      "Veyre Victor"
+    ],
+    "Pharmaciens": [
+      "Clerc Roger",
+      "Grognuz Marcel"
+    ],
+    "Pompes funèbres du Nord": [
+      "Meige Ed."
+    ],
+    "Poudres (Dépôt fédéral)": [
+      "Falcy Edmond"
+    ],
+    "Primeurs": [
+      "Baumann-Meyer Emma",
+      "Rouge Ls.",
+      "Soc. Coop. de consommation"
+    ],
+    "Professeurs de musique": [
+      "Clavel Lsa",
+      "Clavel Madeleine",
+      "Rochat Nelly"
+    ],
+    "Quincaillerie": [
+      "Bezençon & Cie.",
+      "Falcy Ed.",
+      "Panchaud L."
+    ],
+    "Radio": [
+      "Pahud Robert"
+    ],
+    "Renseignements commerciaux": [
+      "Chevallaz Fernand"
+    ],
+    "Ruches (fabr. de)": [
+      "Delacrétaz Lucien"
+    ],
+    "Sage-femme": [
+      "Wegmuller Marg."
+    ],
+    "Scieurs": [
+      "Allaz frères",
+      "Delacrétaz Lucien"
+    ],
+    "Selliers-tapissiers": [
+      "Cardinaux A.",
+      "Moser Gottlieb"
+    ],
+    "Serruriers": [
+      "Bovey Alfred et fils",
+      "Markert Jules"
+    ],
+    "Sociétés": [
+      "Club des Jeunes accordéonistes",
+      "Croix-Bleue",
+      "Diana",
+      "Football-Club",
+      "Moto-Club",
+      "Section d'agriculture",
+      "Sté d'apiculture",
+      "Sté des Armes libres",
+      "Sté de battage",
+      "Sté de Développement",
+      "Sté de fromagerie et laiterie",
+      "Sté du Chœur d'hommes",
+      "Sté de gymnastique",
+      "Sté des Maîtres charcutiers campagnards",
+      "Sté militaire de tir aux Armes de guerre",
+      "Sté du Moulin agricole",
+      "Sté vaudoise d'agriculture",
+      "Syndicat agricole",
+      "Syndicat d'élevage chevalin"
+    ],
+    "Tissus, étoffes": [
+      "Magnenat Thérèse",
+      "Panchaud Léon",
+      "Wyler Salomon & fils"
+    ],
+    "Taxis": [
+      "Falcy Edmond",
+      "Jaccottet Vincent",
+      "Rochat Lucien"
+    ],
+    "Tricotage mécan.": [
+      "Cardinaux Julie"
+    ],
+    "Vannerie": [
+      "Falcy Edmond"
+    ],
+    "Vélos-motos": [
+      "Bezençon & Cie.",
+      "Falcy Edmond",
+      "Rochat Lucien"
+    ],
+    "Vétérinaires": [
+      "Dasen W. T.",
+      "Despland G. T."
+    ],
+    "Vins (march. de)": [
+      "Mermoud Adèle",
+      "Nicod Eugène & fils",
+      "Panchaud Léon"
+    ],
+    "Volailles (comm. de)": [
+      "Bousson Ls."
+    ],
+    "Voiturier": [
+      "Pollien Irénée"
+    ],
+    "Divers": [
+      "Clavel M. L.",
+      "Frey W.",
+      "Jordan Benjamin",
+      "Masmejan",
+      "Gnehm Henri"
+    ]
+  },
+  "ECHANDENS": {
+    "Syndic": [
+      "Gorgerat H. T."
+    ],
+    "Secrétaire": [
+      "Decrausaz Louis"
+    ],
+    "Boursier": [
+      "Gavillet John"
+    ],
+    "Huissier": [
+      "Morier Emile"
+    ],
+    "Municipaux": [
+      "Ciana Ami",
+      "Grunenwald Ernest",
+      "Moinat Ernest",
+      "Peitrequin Aimé"
+    ],
+    "Cantonnier": [
+      "Rieben Fernand"
+    ],
+    "Commandant du feu": [
+      "Pache Robert"
+    ],
+    "Commission scolaire": [
+      "Gorgerat Hri",
+      "Decrausaz Louis"
+    ],
+    "Gare (chef de)": [
+      "Grunenwald Ernest"
+    ],
+    "Inspecteur du bétail": [
+      "Perret Louis"
+    ],
+    "Inspecteur des viandes": [
+      "Pointet W."
+    ],
+    "Instituteurs": [
+      "Kohler Daniel",
+      "Pilloud Hélène"
+    ],
+    "Pasteur": [
+      "Thomas Alec"
+    ],
+    "Police (agent de)": [
+      "Morier Emile"
+    ],
+    "Poste et télégraphe": [
+      "Tanniger Lucien"
+    ],
+    "Téléphone": [
+      "Station communale à l'Auberge communale",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs": [
+      "Bohner Fritz",
+      "Burnand Henri",
+      "Cretigny André",
+      "Gavillet John",
+      "Gorgerat Henri",
+      "Martin Auguste",
+      "Moinat Ernest",
+      "Pache Robert",
+      "Peytrequin Aimé",
+      "Pointet Edouard",
+      "Richard Chs.",
+      "Rieben Edouard",
+      "Rieben Emile",
+      "Saugy Jules"
+    ],
+    "Appareilleurs": [
+      "Reymond Henri",
+      "Schmidt Roger"
+    ],
+    "Assurance-vieillesse": [
+      "Kohler Daniel"
+    ],
+    "Boulanger": [
+      "Villard Oscar"
+    ],
+    "Cafés": [
+      "Pache Roland",
+      "Auberge communale"
+    ],
+    "Charron": [
+      "Mottaz Edouard"
+    ],
+    "Entrepreneur": [
+      "Pointet Henri"
+    ],
+    "Epiceries": [
+      "Binggeli Arthur",
+      "Villard Oscar"
+    ],
+    "Imprimerie N. P. G. K.": [
+      "Viret Charles"
+    ],
+    "Laiterie": [
+      "Société de laiterie"
+    ],
+    "Maréchal": [
+      "Reymond Henri"
+    ],
+    "Pompes funèbres du Nord": [
+      "Reymond René"
+    ],
+    "Serruriers-appareilleurs": [
+      "Reymond Henri",
+      "Schmidt Roger"
+    ],
+    "Sociétés": [
+      "Abbaye des Agriculteurs",
+      "Sté du battoir Echandens-Denges",
+      "Sté de chant"
+    ],
+    "Tailleur": [
+      "Cavin John"
+    ],
+    "Vignerons": [
+      "Cevey Emile et Charles",
+      "Christinat Jules",
+      "Chapuis Ls",
+      "Gremion Victor",
+      "Poras Aloïs",
+      "Pointet Lucien"
+    ],
+    "Vignerons-propriétaires": [
+      "Clément Auguste",
+      "Gavillet John",
+      "Gorgerat Henri",
+      "Martin Auguste",
+      "Martin Eugène",
+      "Martin François",
+      "Moinat Ernest",
+      "Pointet Eugène",
+      "Redard Jeanne"
+    ]
+  },
+  "ECHICHENS": {
+    "Syndic": [
+      "Kirschmann Maurice"
+    ],
+    "Secrétaire": [
+      "Wagnière Léonard"
+    ],
+    "Boursier": [
+      "Demaurex Henri"
+    ],
+    "Huissier": [
+      "Jan Robert"
+    ],
+    "Municipaux": [
+      "Chollet Pierre",
+      "de Mandrot Adrien",
+      "Gros Ernest",
+      "Tissot Léon"
+    ],
+    "Assesseur": [
+      "Kirschmann Maurice"
+    ],
+    "Cantonnier": [
+      "Roland Albert"
+    ],
+    "Commandant du feu": [
+      "Schmidely E."
+    ],
+    "Commission scolaire": [
+      "Kirschmann Maurice"
+    ],
+    "Inspecteur du bétail": [
+      "Widmer Ls."
+    ],
+    "Inspecteur des viandes": [
+      "Widmer Ls."
+    ],
+    "Instituteurs": [
+      "Regamey Jules",
+      "Derron-Renevier Isabelle"
+    ]
+  }
+}

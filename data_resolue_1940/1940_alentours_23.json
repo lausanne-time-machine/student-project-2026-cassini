@@ -1,0 +1,427 @@
+{
+  "BASSINS": {
+    "Agriculteurs": [
+      "Velan frères, fils de Lucien",
+      "Velan Louis-François",
+      "Velan Louis-Harris",
+      "Velan Maurice",
+      "Velan Arnold"
+    ],
+    "Amodiateurs.": [
+      "Badel Louis",
+      "Besson William. T."
+    ],
+    "Apiculteurs.": [
+      "Badel Maurice",
+      "Genevay Maurice."
+    ],
+    "Architecte.": [
+      "Velan Marcel."
+    ],
+    "Assurance-vieillesse.": [
+      "Association mutualiste de retraite"
+    ],
+    "Banque.": [
+      "Crédit Mutuel"
+    ],
+    "Bois (comm. de).": [
+      "Dunand Charles"
+    ],
+    "Boucherie-charc.": [
+      "Monachon Jules, T."
+    ],
+    "Boulanger.": [
+      "Girardier Gaston. T."
+    ],
+    "Cafés.": [
+      "Café du Moulin (à la Cézille)",
+      "Cornaz Armand, T.",
+      "Auberge communale, Chambaz, Vve d'Emile, T.",
+      "Hôtel de la Couronne",
+      "Café du Midi, Apothéloz André."
+    ],
+    "Charron.": [
+      "Badel Maurice."
+    ],
+    "Charpentiers-menuisiers.": [
+      "André John",
+      "Jaques Armand."
+    ],
+    "Couturière.": [
+      "André Marie."
+    ],
+    "Epiceries-merceries.": [
+      "Velan-Dunand Lina. R.",
+      "Velan-Velan Alexis. R.",
+      "Velan Rosa. R."
+    ],
+    "Ferblantier-couvreur.": [
+      "Bovay Jules."
+    ],
+    "Laiterie-fromagerie.": [
+      "Société de laiterie, Neuffer Paul."
+    ],
+    "Machines agricoles.": [
+      "Voir Maréchal."
+    ],
+    "Maçon.": [
+      "Salero André."
+    ],
+    "Maréchal.": [
+      "Christinet Émile."
+    ],
+    "Moulin.": [
+      "Cornaz Armand, à la Cézille. T."
+    ],
+    "Tailleur.": [
+      "Chevigny Auguste."
+    ],
+    "Transports.": [
+      "Monachon Jules, T.",
+      "Girardier Gaston. T."
+    ],
+    "Sociétés.": [
+      "Caisse de crédit mutuel de Bassins-Le Vaud. RT. 98.381.",
+      "Sté de chant.",
+      "Sté de Développement",
+      "Sté de tir."
+    ]
+  },
+  "BAULMES": {
+    "Députés du cercle": [
+      "Pillevuit Louis-François",
+      "Dumauthioz William"
+    ],
+    "Syndic": [
+      "Deriaz Henri fils"
+    ],
+    "Secrétaire": [
+      "Deriaz Ulysse. T."
+    ],
+    "Boursier": [
+      "Deriaz Charles-Ernest."
+    ],
+    "Huissier": [
+      "Cachemaille Paul."
+    ],
+    "Municipaux": [
+      "Deriaz-Tharin Jean",
+      "Deriaz Roland",
+      "Cachemaille-Deriaz Alfred fils",
+      "Ravussin Marc-Henri."
+    ],
+    "Commission scolaire, président": [
+      "Dériaz Henri"
+    ],
+    "Chef de section.": [
+      "Gris Adolphe."
+    ],
+    "Gardes-forestiers.": [
+      "Deriaz Marc",
+      "Randin Auguste."
+    ],
+    "Gare (chef de).": [
+      "Nobs Emile. T."
+    ],
+    "Inspecteur du bétail.": [
+      "Dériaz Juste"
+    ],
+    "Inspecteur forestier.": [
+      "Péclard A."
+    ],
+    "Instituteurs.": [
+      "Menétrev André",
+      "Born Joseph",
+      "Besson Hélène",
+      "Deriaz Marguerite",
+      "Clerc Gabrielle"
+    ],
+    "école enfantine": [
+      "Clerc, Mme"
+    ],
+    "travaux à l'aigu.": [
+      "Vuillemin Pierre."
+    ],
+    "Justice de paix.": [
+      "Dériaz Henri. T.",
+      "Cornaz Ernest.",
+      "Cachemaille Georges",
+      "Randin Albert",
+      "Roy Jean",
+      "Wehrli Henri"
+    ],
+    "Officier d'état-civil.": [
+      "Pillevuit Ami."
+    ],
+    "Pasteurs.": [
+      "Goumaz L. T.",
+      "Margot Ami. T."
+    ],
+    "Poste.": [
+      "Dériaz Léon"
+    ],
+    "Agriculteurs.": [
+      "Blaser Robert",
+      "Cachemaille Clément",
+      "Cachemaille Ernest",
+      "Cachemaille-Deriaz Alfred",
+      "Cachemaille-Deriaz Alfred fils",
+      "Cachemaille-Pérusset Georges",
+      "Cochand David",
+      "Deriaz Aimé",
+      "Deriaz Charles-Ernest",
+      "Deriaz Ch. de Louis-Félix",
+      "Deriaz-Jaquéry Ls. T.",
+      "Deriaz Juste d'Ernest",
+      "Deriaz Roland",
+      "Hurni Fritz",
+      "Pérusset Camille",
+      "Pérusset Frédéric",
+      "Pérusset Maur.",
+      "Pillevuit Marcel",
+      "Ravussin Gilbert",
+      "Ravussin Camille",
+      "Ravussin Marc-Henri."
+    ],
+    "Amodiateurs.": [
+      "Deriaz Lucien",
+      "Ravussin Gilbert."
+    ],
+    "Apiculteurs.": [
+      "Cuendet Ant.",
+      "Weber Emile."
+    ],
+    "Assurances.": [
+      "La Genevoise, Pillevuit Louis-François.",
+      "La Winterthour, Cachemaille A. T."
+    ],
+    "Assurance — vieillesse.": [
+      "Association mutualiste de retraite"
+    ],
+    "Auto-garages.": [
+      "Isler-Collet Otto. T.",
+      "Rossier Emile. T."
+    ],
+    "Banque.": [
+      "CRÉDIT FONCIER VAUDOIS",
+      "Caisse d'Epargne Cantonale",
+      "Deriaz Henri"
+    ],
+    "Bétail (march. de).": [
+      "Cachemaille Alfred-Georges",
+      "Deriaz Arthur",
+      "Pérusset-Champod Louis."
+    ],
+    "Bois (march. de).": [
+      "Cachemaille Alfred. T.",
+      "Deriaz Charles-Jos. T.",
+      "Pillevuit Louis-François. T.",
+      "Pérusset Charles."
+    ],
+    "Boucheries.": [
+      "Deriaz-Schwab Arth. T.",
+      "Pillevuit Ami."
+    ],
+    "Boulangeries.": [
+      "Fischer Willy. T.",
+      "Menétrey Augusta. RT.",
+      "Société coopérative de consommation. RT."
+    ],
+    "Cafés-restaurants.": [
+      "Chappuis Marius",
+      "Collet Ch.",
+      "Collet-Ducret, Vve",
+      "Luccione Bernard",
+      "Lador René",
+      "Weber E."
+    ],
+    "Camionneur.": [
+      "Pérusset Maur. (Sesa)"
+    ],
+    "Charcutiers.": [
+      "Deriaz Arthur. T.",
+      "Pillevuit Ami."
+    ],
+    "Charpentiers.": [
+      "Pisler Ami.",
+      "Ravussin Maurice et fils. T."
+    ],
+    "Charrons.": [
+      "Delay Armand",
+      "Pillevuit Maurice."
+    ],
+    "Chaussures.": [
+      "Reichenbach Théoph.",
+      "Société coopérative de consom. T."
+    ],
+    "Chaux et ciments.": [
+      "Soc. des chaux et ciments de Baulmes. T."
+    ],
+    "Coiffeurs.": [
+      "Althaus Roger",
+      "Degiez René",
+      "Golaz, Vve de François."
+    ],
+    "Combustibles.": [
+      "Cachemaille Alfred.",
+      "Pillevuit L.-F."
+    ],
+    "Comestibles, primeurs.": [
+      "Thonney E.",
+      "Tosetti Joseph. T."
+    ],
+    "Cordonniers.": [
+      "Demelais Ch.",
+      "Randin Gaston",
+      "Walther John."
+    ],
+    "Couturières.": [
+      "Cachemaille Cécile.",
+      "Althaus Rosa."
+    ],
+    "Dentiste.": [
+      "Willer Charles."
+    ],
+    "Electricité.": [
+      "Société électrique des Clées.",
+      "Chabloz Fernand"
+    ],
+    "Encadreur.": [
+      "Ravussin Marius."
+    ],
+    "Entrepreneurs.": [
+      "Bollini & Cie S. A. RT.",
+      "Ciana J.-B. T.",
+      "Tavoli Arn."
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Guignet Edouard",
+      "Margot Félix. R.",
+      "Menétrey Augusta. R.",
+      "Reichenbach Théophile. RT.",
+      "Société coopérative de consommation. RT."
+    ],
+    "Ferblantiers.": [
+      "Collet Ch., fils. T.",
+      "Mottaz Emile. R."
+    ],
+    "Fers et quincaillerie.": [
+      "Reichenbach Théophile."
+    ],
+    "Fromages.": [
+      "Pérusset Charles."
+    ],
+    "Garage.": [
+      "Rossier Emile"
+    ],
+    "Géomètre.": [
+      "Cavin Frédéric."
+    ],
+    "Grains et farines.": [
+      "Pérusset Ch."
+    ],
+    "Gypsiers.": [
+      "Bollini & Cie S. A. RT.",
+      "Tavoli Arnold. T."
+    ],
+    "Horlogerie.": [
+      "Golay Lina"
+    ],
+    "Hôtels.": [
+      "Guillaume-Tell",
+      "Croix-St-André",
+      "du Jura",
+      "Chalet du Mont de Baulmes"
+    ],
+    "Jardinier.": [
+      "Zürcher Albert."
+    ],
+    "Laitier.": [
+      "Pérusset Charles. RT."
+    ],
+    "Liqueurs (fab. de).": [
+      "Chapuis Marius."
+    ],
+    "Machines à coudre.": [
+      "Isler-Collet (Helvétia)."
+    ],
+    "Maréchaux.": [
+      "Baertschy Alexandre",
+      "Mabille David. T."
+    ],
+    "Matériaux de construction.": [
+      "Bollini & Cie S. A.",
+      "Soc. des Chaux et Ciments (fabrique). T."
+    ],
+    "Mécaniciens.": [
+      "Chabloz Fernand.",
+      "Isler-Collet Otto.",
+      "Rossier Emile."
+    ],
+    "Médecin.": [
+      "Roulier William"
+    ],
+    "Menuisiers.": [
+      "Collet Maurice. RT.",
+      "Deriaz Victor. RT.",
+      "Ravussin Maurice et fils. T."
+    ],
+    "Pêcheur.": [
+      "Collet Ch."
+    ],
+    "Pension.": [
+      "Clerc M., Mlle"
+    ],
+    "Photographe.": [
+      "Deriaz Alphonse. T."
+    ],
+    "Pompes funèbres du Nord.": [
+      "Ravussin Maurice"
+    ],
+    "Produits à nettoyer (fabrique de).": [
+      "Walther Maurice. R."
+    ],
+    "Quincaillerie.": [
+      "Reichenbach Théophile. R."
+    ],
+    "Sage-femme.": [
+      "Perrin Amélie."
+    ],
+    "Scieurs.": [
+      "Margot Albert",
+      "Pérusset Ch.-Henri-Victor."
+    ],
+    "Serrurier.": [
+      "Gailloud Constant. RT."
+    ],
+    "Sociétés.": [
+      "Caisse communale d'apprentissage et d'études. R.",
+      "Cercle du Jura. R.",
+      "Section d'éclaireurs unionistes.",
+      "Section de la Croix-Bleue.",
+      "Société d'agriculture Baulmes-Vuitebœuf.",
+      "Sté de chant La Concorde.",
+      "Sté coopérative du Battoir. R.",
+      "Sté de gymnastique.",
+      "Sté de laiterie centrale. R.",
+      "Sté militaire. R.",
+      "Sté de musique L'Espérance.",
+      "Sté du poids public. R.",
+      "Syndicat agricole. R.",
+      "Troupe d'Eclaireurs."
+    ],
+    "Tailleur.": [
+      "Groux Armand."
+    ],
+    "Vélos.": [
+      "Isler-Collet O.",
+      "Rossier Em."
+    ],
+    "Voituriers.": [
+      "Deriaz Aimé",
+      "Dériaz-Pahud Alfred",
+      "Pérusset Maurice",
+      "Ravussin frères"
+    ]
+  }
+}

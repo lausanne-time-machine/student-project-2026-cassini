@@ -1,0 +1,275 @@
+{
+  "HERMENCHES": {
+    "Autorités communales": [
+      "Fiaux, Emile",
+      "Jayet, Lucien"
+    ],
+    "Secrétaire": [
+      "Jayet, H."
+    ],
+    "Boursier": [
+      "Métraux, E."
+    ],
+    "Assesseur": [
+      "Métraux, Samuel"
+    ],
+    "Aubergiste": [
+      "Dufour, Constant"
+    ],
+    "Charron": [
+      "Augsburger, Eugène"
+    ],
+    "Commission scolaire": [
+      "Chalet, Jules"
+    ],
+    "Cordonniers": [
+      "Fiaux-Mottaz, Louis",
+      "Jaquier, Jean"
+    ],
+    "Epicerie, mercerie": [
+      "Fiaux, Clara"
+    ],
+    "Inspecteur du bétail": [
+      "Fiaux, Samuel"
+    ],
+    "Instituteurs": [
+      "Duboux, Félix",
+      "Jayet-Vuagniaux, Alice"
+    ],
+    "Maréchal": [
+      "Jayet, Constant"
+    ],
+    "Propriétaires": [
+      "Becholey, Louis",
+      "Besson, Alexis",
+      "Chalet, Henri",
+      "Danalet, Chs",
+      "Fiaux, Alfred",
+      "Fiaux, Jean-Pierre",
+      "Fiaux-Guex, Samuel",
+      "Jayet, Jean-Samuel",
+      "Maillard, Samuel",
+      "Métraux, Jean-Pierre"
+    ],
+    "Société": [
+      "Société de fromagerie"
+    ],
+    "Tailleur": [
+      "Dufour, Constant"
+    ],
+    "Téléphoniste": [
+      "Dufour, Constant"
+    ],
+    "Tisserand": [
+      "Fiaux, Emile"
+    ]
+  },
+  "LOVATENS": {
+    "Autorités communales": [
+      "Pichonnat, Jean",
+      "Rochat, Eugène"
+    ],
+    "Syndic": [
+      "Pichonnat, Eugène"
+    ],
+    "Municipaux": [
+      "Ogay, Jules",
+      "Giroud, Louis",
+      "Pichonnat, Edmond",
+      "Léchaire, Héli",
+      "Mojonnier, Jules",
+      "Giroud, Louis"
+    ],
+    "Bouchers": [
+      "Léchaire, Ulysse",
+      "Piot, Ls."
+    ],
+    "Bois de socques (fabr.)": [
+      "Germond, Siméon"
+    ],
+    "Café": [
+      "Dunand, Ernest"
+    ],
+    "Charrons": [
+      "Giroud, Fréd.",
+      "Piot, Henri"
+    ],
+    "Cordonnier": [
+      "Giroud, H."
+    ],
+    "Epicerie": [
+      "Germond, Emile",
+      "Germond, Siméon"
+    ],
+    "Fermiers": [
+      "Favez, Jules",
+      "Germond, Constant",
+      "Mojonnier, Daniel",
+      "Mottaz, Alexis"
+    ],
+    "Inspecteur du bétail": [
+      "Léchaire, Paul"
+    ],
+    "Instituteur": [
+      "Rochat, Eugène"
+    ],
+    "Juge de paix": [
+      "Léchaire, Héli"
+    ],
+    "Laitier": [
+      "Condenserie"
+    ],
+    "Maçon": [
+      "Pache, Jules"
+    ],
+    "Maréchal": [
+      "Paccaud, Aimé"
+    ],
+    "Modiste": [
+      "Giroud, Jeanne-Suzanne"
+    ],
+    "Pension d'été": [
+      "Michaud, Auguste"
+    ],
+    "Sociétés": [
+      "Société immobilière de la Colline",
+      "Société du battoir à blé",
+      "Société de la fromagerie"
+    ],
+    "Tisserand": [
+      "Giroud, Louis"
+    ],
+    "Voiturier": [
+      "Germond, Emile"
+    ]
+  },
+  "LUCENS": {
+    "Monuments historiques classés": [
+      "Eglise",
+      "Château féodal"
+    ],
+    "Autorités communales": [
+      "Huguenin, Th.",
+      "Wenger, Em."
+    ],
+    "Syndic": [
+      "Pidoux, Aug."
+    ],
+    "Municipaux": [
+      "Briod, Daniel",
+      "Rey, Louis",
+      "Bitterlin, Jules",
+      "Lagnaz, Emile",
+      "Bourgeois, Constant"
+    ],
+    "Assesseurs": [
+      "Bourgeois, Constant",
+      "Rey, Daniel",
+      "Rey, Ferdinand"
+    ],
+    "Auberges et cafés": [
+      "Chavaillaz, Marie",
+      "Cherpillod, Louise",
+      "Delessert, François",
+      "Jaquier-Haldy, Emile, veuve",
+      "Jaquier, Louise",
+      "Maillard",
+      "Peter, Louis",
+      "Vaney, Louis",
+      "von Kaenel, Jacob",
+      "Vuagniaux, Rosine"
+    ],
+    "Bière (dépôts)": [
+      "Grande Brasserie Beauregard",
+      "Mr Notz",
+      "Dépôt de la Brasserie du Cardinal de Fribourg"
+    ],
+    "Bois (march.)": [
+      "Michod, Philippe",
+      "Troillet, Louis"
+    ],
+    "Boucheries": [
+      "Cruchon, Aimé",
+      "Société de consommation",
+      "Jœrg, Alfred"
+    ],
+    "Boulangers": [
+      "Gruninger, Georges",
+      "Michod, Edouard",
+      "Prahin, Emile",
+      "Reymond, Isaac",
+      "Vindrat, Louis"
+    ],
+    "Buraliste postal": [
+      "Dubois, Aimé"
+    ],
+    "Café-chocolat": [
+      "Favrat, veuve"
+    ],
+    "Chapellerie": [
+      "Favre, demoiselles",
+      "Lemat, Gustave",
+      "Pavarin & Pidoux"
+    ],
+    "Charcuteries": [
+      "Cruchon, Aimé",
+      "Favre, Albert",
+      "Jœrg, Alfred",
+      "Société de consommation"
+    ],
+    "Charpentiers": [
+      "Michod, Alexandre",
+      "Michod, Philippe",
+      "Rey, Louis"
+    ],
+    "Chaussures": [
+      "Rey, Jean",
+      "Dolp, Fr.",
+      "Mutrux-Briod, Numa",
+      "Pavarin et Pidoux"
+    ],
+    "Chaux et ciment": [
+      "Delessert, Frs."
+    ],
+    "Chef de section": [
+      "Porchet, Jean-Samuel"
+    ],
+    "Cigares et tabacs": [
+      "Favre, demoiselles",
+      "Gros, Louis",
+      "Lemat, Gustave",
+      "Mercanton, Adolphe",
+      "Mutrux-Briod",
+      "Pavarin et Pidoux",
+      "Rey, F.",
+      "Société ouvrière de consommation"
+    ],
+    "Coiffeur": [
+      "Mag, Jean"
+    ],
+    "Commission scolaire": [
+      "Bitterlin, Jules"
+    ],
+    "Denrées coloniales": [
+      "Mercanton, Adolphe",
+      "Mutrux-Briod",
+      "Pavarin et Pidoux",
+      "Rey, Fd.",
+      "Société de consommation"
+    ],
+    "Draperie": [
+      "Meyer, E.",
+      "Mutrux-Briod",
+      "Pavarin et Pidoux",
+      "Rey, F."
+    ],
+    "Droguerie": [
+      "Mutrux-Briod, Numa"
+    ],
+    "Epicerie": [
+      "Lemat, Gustave",
+      "Mutrux-Briod, Numa",
+      "Pavarin et Pi"
+    ]
+  }
+}

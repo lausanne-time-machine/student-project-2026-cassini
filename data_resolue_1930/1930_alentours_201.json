@@ -1,0 +1,224 @@
+{
+  "MISSY": {
+    "Autorités communales": [
+      "Genton Maurice",
+      "Chavannes Rodolphe",
+      "Geist André",
+      "Falquier Aloïs",
+      "Chatelan Eug.",
+      "Diserens Benjamin",
+      "Banque populaire Montreux"
+    ],
+    "Agriculteurs": [
+      "Borloz Alphonse",
+      "Borloz Charles",
+      "Chablaix Félix",
+      "Chatelan Eugène",
+      "Chavannes Auguste",
+      "Cosandey Auguste, fils",
+      "Cosandey Emile",
+      "Dulon John",
+      "Dumuse Alfred",
+      "Dumusc Alphonse",
+      "Dumusc Ernest",
+      "Falquier Aloïs",
+      "Geist André",
+      "Monnard René",
+      "Nicolet Edouard",
+      "Perret Jules"
+    ],
+    "Aubergiste": [
+      "Falquier Aloïs"
+    ],
+    "Bétail (comm. de.)": [
+      "Borloz Alphonse"
+    ],
+    "Commission scolaire": [
+      "Genton Maurice",
+      "Geist André",
+      "Chavannes Rodolphe"
+    ],
+    "Epicerie et tabacs": [
+      "Martin-Dumuse Eugénie",
+      "Métraux Fanny"
+    ],
+    "Inspecteur du bétail": [
+      "Chavannes Rodolphe"
+    ],
+    "Instituteurs": [
+      "Diserens Benjamin",
+      "Bron Lydie"
+    ],
+    "Jardinier-pépiniériste": [
+      "Genton André"
+    ],
+    "Laitier": [
+      "Hodel Thomas"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Falquier Aloïs"
+    ]
+  },
+  "ROCHE": {
+    "Autorités communales": [
+      "Chabloz Ls",
+      "Eyer Abram",
+      "Voutaz Léon",
+      "Guay Henri",
+      "Sartori Marc",
+      "Buser Edouard",
+      "Girard Louis",
+      "Delacrétaz Eugène",
+      "Dulon Gustave"
+    ],
+    "Agriculteurs": [
+      "Aeberhardt Albert",
+      "Bertholet Gust.",
+      "Borloz Edouard",
+      "Brent M.",
+      "Buser Edouard",
+      "Chabloz Louis",
+      "Chammartin Joseph",
+      "Chevalley Henri",
+      "Cosanday Louis",
+      "Delacrétaz Ferdinand",
+      "Dulon Aloïs",
+      "Dufresne Robert",
+      "Favrod Paul",
+      "Guay Henri",
+      "Hallada Henri",
+      "Herminjard-Gafner",
+      "Humberset Maurice",
+      "Michaud Emile",
+      "Michaud Eugène",
+      "Parisod François",
+      "Portner Gottfried",
+      "Voutaz Robert",
+      "Viredaz. Vve",
+      "Viredaz Hri",
+      "Weibel Emile"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Heimann H."
+    ],
+    "Bois (march. de.)": [
+      "Buser Henri de Jaques",
+      "Parisod François"
+    ],
+    "Boulangers": [
+      "Mottier-Waridel",
+      "Pilet Henri"
+    ],
+    "Buraliste postal": [
+      "Girard Louis"
+    ],
+    "Cafetiers": [
+      "Buser-Delacrétaz Henri",
+      "Mérinat René",
+      "Piralla Baptiste"
+    ],
+    "Charretiers": [
+      "Buser Henri"
+    ],
+    "Chaux, ciments, gypses (fab. de)": [
+      "Société des usines de Grandchamp et de Roche",
+      "Ph. Dupasquier"
+    ],
+    "Chef de gare": [
+      "Lesquereux John"
+    ],
+    "Commission scolaire": [
+      "Chabloz Louis",
+      "Hallada Henri",
+      "Mottier Paul"
+    ],
+    "Entrepreneurs": [
+      "Arceci César",
+      "Campagnani Pascal",
+      "Lagrive Jean",
+      "Nino Joseph"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Buser Edouard",
+      "Jaquet Paul",
+      "Mottier-Waridel",
+      "Muller-Guay Hélène",
+      "Nicolet Henriette",
+      "Pilet Henri",
+      "Société coopérative"
+    ],
+    "Foyer ouvrier": [
+      "Dizerens Eugénie"
+    ],
+    "Garde de triage": [
+      "Byrde Aug."
+    ],
+    "Ingénieur": [
+      "du Pasquier Ph."
+    ],
+    "Inspecteur du bétail": [
+      "Viredaz Henri"
+    ],
+    "Instituteurs": [
+      "Heimann-Crausaz Hri",
+      "Heimann-Crausaz Eugénie",
+      "Favre Marguerite",
+      "Cherix Denyse"
+    ],
+    "Jardiniers": [
+      "Badan Gustave",
+      "Delacrétaz Caroline"
+    ],
+    "Juge de paix": [
+      "Chabloz Louis"
+    ],
+    "Laitier": [
+      "Voutaz Ch."
+    ],
+    "Maréchal": [
+      "Nicolet F."
+    ],
+    "Mécanicien": [
+      "Dutoit Albert"
+    ],
+    "Meunier": [
+      "Moulin agricole"
+    ],
+    "Menuisier": [
+      "Borloz Eugène"
+    ],
+    "Pensions ouvrières": [
+      "Buser Henri",
+      "Piralla Baptiste"
+    ],
+    "Sociétés": [
+      "Société immobilière de la Laiterie",
+      "Tireurs des Alpes",
+      "Tir milit.",
+      "Harmonie des Alpes",
+      "Société de gymnastique",
+      "Société du battoir et moulin agricole de Roche",
+      "Assurance du bétail",
+      "Syndicat d'élevage de la Suisse romande",
+      "Société des chaux et ciments de la Suisse romande",
+      "Société de musique Fanfare de Roche"
+    ],
+    "Surveillant ligne électr. St-Maurice-Lausanne": [
+      "Muller H."
+    ],
+    "Tailleuses": [
+      "Aigroz, femme d'Emile",
+      "Chevalley Sophie",
+      "Delacrétaz Marianne"
+    ],
+    "Téléphone": [
+      "Station communale"
+    ],
+    "Vins en gros": [
+      "Borghini Paul",
+      "Dupertuis, Vve"
+    ]
+  }
+}

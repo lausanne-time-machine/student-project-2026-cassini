@@ -1,0 +1,256 @@
+{
+  "BONVILLARS": {
+    "Syndic": [
+      "Jaquier Frédéric"
+    ],
+    "Municipaux": [
+      "Jaquier Edmond",
+      "Favre Frédéric",
+      "Meigniez Denis",
+      "Milliet Michel",
+      "Paris Henri",
+      "Jaquier Michel",
+      "Favre Jules"
+    ],
+    "Agriculteurs": [
+      "Duvoisin Adolphe",
+      "Duvoisin Denis",
+      "Duvoisin-Bornoz Jules",
+      "Favre Michel",
+      "Favre Edouard",
+      "Jaquier Edmond",
+      "Jaquier Henri",
+      "Jaquier Michel",
+      "Meigniez Auguste",
+      "Pinard Louis",
+      "Schmutz Christian",
+      "Wegmüller Alfred"
+    ],
+    "Cafés": [
+      "Duvoisin Maurice",
+      "Duvoisin Alfred, veuve",
+      "Egli Charles"
+    ],
+    "Blanchisseuses": [
+      "Corthésy Adèle",
+      "Milliet Cécile"
+    ],
+    "Boulanger": [
+      "Bryois Adrien"
+    ],
+    "Charpentier": [
+      "Ramseyer Jules"
+    ],
+    "Chef de section": [
+      "Favre Henri"
+    ],
+    "Cordonniers": [
+      "Homberger Jean",
+      "Cochand Alfred"
+    ],
+    "Distillerie": [
+      "Duvoisin Maurice"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Duvoisin Amélie",
+      "Rossat sœurs"
+    ],
+    "Inspecteur du bétail": [
+      "Favre Frédéric"
+    ],
+    "Instituteurs": [
+      "Pouly Louis",
+      "Lagnaz-Marsens Adèle"
+    ],
+    "Laitier": [
+      "Germann Jean"
+    ],
+    "Maréchal": [
+      "Barbey Alfred"
+    ],
+    "Officier d'état-civil": [
+      "Jaquier Michel"
+    ],
+    "Sage-femme": [
+      "Schuvev, dame"
+    ],
+    "Sociétés": [
+      "De fromagerie et laiterie",
+      "Tir aux Armes de guerre",
+      "Abbaye de Bonvillars",
+      "Syndicat agricole"
+    ],
+    "Tailleur": [
+      "Duvoisin Jules"
+    ],
+    "Tailleuses": [
+      "Homberger Elisa",
+      "Leuba Célina",
+      "Malherbes Rose"
+    ],
+    "Télégraphiste": [
+      "Duvoisin Jules"
+    ],
+    "Téléphone": [
+      "La Commune"
+    ],
+    "Tonneliers": [
+      "Duvoisin Maurice"
+    ],
+    "Tourneur": [
+      "Duvoisin-Edouard"
+    ],
+    "Vignerons": [
+      "Breitenstein Alexandre",
+      "Buriquet Louis",
+      "Burnens Jules",
+      "Duvoisin Jules",
+      "Duvoisin Lucien",
+      "Favre Charles",
+      "Gilliand Charles",
+      "Jeannerod Charles",
+      "Leuba Albert",
+      "Malherbes Louis",
+      "Paillard Louis",
+      "Ramseyer Eugène",
+      "Ray Gustave"
+    ],
+    "Vins (march. de)": [
+      "Duvoisin Maurice",
+      "Jaquier Henri",
+      "Jaquier Edmond",
+      "Meigniez Auguste"
+    ]
+  },
+  "BULLET": {
+    "Autorités communales": [
+      "Champod Jules",
+      "Lassueur Arthur"
+    ],
+    "Syndic": [
+      "Champod Paul"
+    ],
+    "Municipaux": [
+      "Lassueur Louis",
+      "Thévenaz Jules",
+      "Thévenaz Alfred",
+      "Champod Louis",
+      "Champod Jules"
+    ],
+    "Agriculteurs": [
+      "Addor Arthur",
+      "Bugnon Auguste",
+      "Champod David",
+      "Champod Edouard",
+      "Champod Eugène",
+      "Champod Henri",
+      "Champod Jules",
+      "Champod Louis",
+      "Giroud Albert",
+      "Gruber Alexis",
+      "Martinet-Champod A.",
+      "Muller Fritz",
+      "Sueur Auguste",
+      "Thévenaz Ami",
+      "Thévenaz Auguste",
+      "Thévenaz A.",
+      "Thévenaz Henri",
+      "Thévenaz Jules, de Paul",
+      "Thévenaz Paul, d'Henri"
+    ],
+    "Assesseur": [
+      "Champod Jules"
+    ],
+    "Blanchisseuses": [
+      "Bugnon Lina",
+      "Gaillard Lina et Marie",
+      "Leuba Léa"
+    ],
+    "Bois (commerce de)": [
+      "Gaillard Martin",
+      "Gander Charles",
+      "Giroud Albert",
+      "Miéville Fritz",
+      "Thévenaz Alfred"
+    ],
+    "Boîtes à musique": [
+      "Bugnon Ami",
+      "Gaillard John",
+      "Gaillard P."
+    ],
+    "Boulangers": [
+      "Champoz Paul",
+      "Thévenaz-Egli Marie"
+    ],
+    "Bûcherons": [
+      "Fischer Charles",
+      "Schneider Samuel",
+      "Kohler Léon",
+      "Bonnet Eugène",
+      "Chabloz Auguste",
+      "Thévenaz Edouard"
+    ],
+    "Cafés": [
+      "Cherpillod Alf.",
+      "Gresset-Hartmann",
+      "Rosario Pierre",
+      "Sueur Albert"
+    ],
+    "Cantonniers": [
+      "Gaillard Gustave",
+      "Sueur Emile",
+      "Gaillard Albert"
+    ],
+    "Chapelleries": [
+      "Addor Charles",
+      "Thévenez Alf.",
+      "Cruchaud Louis",
+      "Champod Jules-Emile"
+    ],
+    "Charcutiers": [
+      "Champod Paul",
+      "Hartmann Albert",
+      "Junod Auguste",
+      "Thévenaz Alf."
+    ],
+    "Charpentiers": [
+      "Bugnon Louis",
+      "Champod Louis",
+      "Champod Jules",
+      "Cruchaud Emile"
+    ],
+    "Charrons": [
+      "Robellaz Louis",
+      "Thévenaz Arthur"
+    ],
+    "Chef de section": [
+      "Lassueur Louis"
+    ],
+    "Clariers (fabr. de)": [
+      "Cruchaud Louis",
+      "Gaillard Clément",
+      "Gaillard Martin",
+      "Gaillard Charles",
+      "Junod Auguste",
+      "Mermod Jules"
+    ],
+    "Commission scolaire": [
+      "Lassueur Louis",
+      "Thévenaz Alfred",
+      "Miéville Fritz",
+      "Champod Jules"
+    ],
+    "Cordonniers": [
+      "Bonnet Albert",
+      "Bonnet Ami",
+      "Thévenaz Ami",
+      "Thévenaz Paul"
+    ],
+    "Distillateurs": [
+      "Lassueur Louis",
+      "Lassueur Marie, veuve d'Albert",
+      "Robellaz Henri",
+      "Thévenaz Jules"
+    ]
+  }
+}

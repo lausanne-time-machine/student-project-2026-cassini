@@ -1,0 +1,242 @@
+{
+  "MOLLENS": {
+    "Amodieurs de montagnes": [
+      "Santschy Alexandre",
+      "Cœndoz Alexis",
+      "Baudin David",
+      "Baudin Emile"
+    ],
+    "Aubergiste": [
+      "Cuvit Alexis",
+      "Cuvit Paul",
+      "Roy Paul"
+    ],
+    "Boulanger": [
+      "Rochat Constant"
+    ],
+    "Buraliste postal": [
+      "Cœndoz Louise"
+    ],
+    "Charron": [
+      "Baudin Eugène"
+    ],
+    "Commission scolaire": [
+      "Baudin Georges",
+      "Meldem Charles"
+    ],
+    "Cordonniers": [
+      "Cuvit Edouard",
+      "Soutter Maurice"
+    ],
+    "Epicerie, mercerie, étoffes, tabacs": [
+      "Desplands Jules. R",
+      "Lecoultre Eugène. R",
+      "Rochat Constant. R"
+    ],
+    "Horloger": [
+      "Rochat Constant. R"
+    ],
+    "Inspecteur du bétail": [
+      "Baudin Jules-H."
+    ],
+    "Instituteurs": [
+      "Bossey Paul",
+      "Jacottet Lina"
+    ],
+    "Laitiers": [
+      "Cœndoz Charles",
+      "Rieben Octave"
+    ],
+    "Lapidaires": [
+      "Rochat Emma",
+      "Cuvit Louis-François"
+    ],
+    "Maréchaux": [
+      "Perrey Emile",
+      "Baudin David"
+    ],
+    "Menuisiers": [
+      "Gonthier Georges",
+      "Santschy Ernest"
+    ],
+    "Notaire": [
+      "Croisier Isaac-Samuel"
+    ],
+    "Officier de l'état civil": [
+      "Cœndoz William"
+    ],
+    "Pasteur": [
+      "Zimmer Louis"
+    ],
+    "Pension d'été": [
+      "Cœndoz Alexandre"
+    ],
+    "Rentier": [
+      "Baudin David"
+    ],
+    "Sage-femme": [
+      "Cuvit Emma"
+    ],
+    "Scieries": [
+      "Cœndoz Jⁿ-Louis",
+      "Cuvit Paul"
+    ],
+    "Sellier": [
+      "Bolay Charles"
+    ],
+    "Société": [
+      "De fromagerie. R."
+    ],
+    "Socques (fabr, de)": [
+      "Baudin Henri"
+    ],
+    "Tailleur": [
+      "Lecoultre Eugène. R."
+    ],
+    "Tailleuses": [
+      "Baudin Marie",
+      "Pittet Hermance"
+    ],
+    "Télégraphiste": [
+      "Cœndoz Louise"
+    ],
+    "Téléphoniste": [
+      "Cuvit Paul"
+    ],
+    "Tourneur": [
+      "Baudin François"
+    ],
+    "Tuileries": [
+      "Santschy Auguste",
+      "Bernard Jules"
+    ]
+  },
+  "MONTHEROD": {
+    "Autorités communales": [
+      "Vidoudez François",
+      "Josseron Henri",
+      "Kursner Ami",
+      "Piguet Daniel",
+      "Liardon Louis",
+      "Chenuz Rodolphe",
+      "Hédiger Henri",
+      "Chevallaz E.",
+      "Vidoudez Albert"
+    ],
+    "Agriculteurs": [
+      "Kursner Alfred",
+      "Kursner Ami",
+      "Loup Louis",
+      "Morel Henri",
+      "Morel Marc"
+    ],
+    "Apiculteur": [
+      "De Siebenthal Aug."
+    ],
+    "Aubergiste": [
+      "Meylan"
+    ],
+    "Bestiaux (march. de)": [
+      "Hédiger Jules",
+      "Piguet Daniel"
+    ],
+    "Chef de section": [
+      "Loup Louis"
+    ],
+    "Commission scolaire": [
+      "Duquesne Ph.",
+      "Piguet Daniel"
+    ],
+    "Epicerie, mercerie": [
+      "Vidoudez"
+    ],
+    "Grains et farines": [
+      "Rosset Edouard. R."
+    ],
+    "Inspecteur du bétail": [
+      "Liardon Charles"
+    ],
+    "Instituteurs": [
+      "Giddey Léon",
+      "Favez Louise"
+    ],
+    "Laitier": [
+      "Goy David"
+    ],
+    "Pépiniériste": [
+      "De Siebenthal Aug."
+    ],
+    "Serrurier": [
+      "Liardon Louis"
+    ],
+    "Société": [
+      "De fromagerie. R."
+    ],
+    "Téléphoniste": [
+      "Meylan"
+    ]
+  },
+  "PIZY": {
+    "Autorités communales": [
+      "Grosjean John",
+      "Muller Emile",
+      "Charbonnay Marc",
+      "Jotterand Octave",
+      "Theintz Samuel",
+      "Theintz Auguste",
+      "Muller Louis"
+    ],
+    "Agriculteurs": [
+      "Maylan Louis",
+      "Merminod David",
+      "Renaud Henri",
+      "Schüpbach Charles"
+    ],
+    "Commission scolaire": [
+      "Duquesne",
+      "Muller Emile"
+    ],
+    "Garde-forestier": [
+      "Theintz Auguste"
+    ],
+    "Inspecteur du bétail": [
+      "Theintz Aug."
+    ],
+    "Institutrice": [
+      "Beausire Bertha"
+    ],
+    "Laitier": [
+      "Goy Auguste"
+    ],
+    "Société": [
+      "De fromagerie. R."
+    ],
+    "Divers": [
+      "Jotterand Octave",
+      "Luthi frères"
+    ]
+  },
+  "SAINT-GEORGES": {
+    "Autorités communales": [
+      "Renaud Fernand",
+      "Terry Arthur",
+      "Bovy Emile",
+      "Berseth Frédéric",
+      "Renaud Alexandre",
+      "Renaud Maurice",
+      "Renaud Ernest",
+      "Mignot Alfred",
+      "Germain Ferdinand",
+      "Aubert René",
+      "Bovy Charles"
+    ],
+    "Agriculteurs": [
+      "Aubert Jules",
+      "Berseth Alfred",
+      "Berseth Louis",
+      "Bovy Charles",
+      "Bovy Emile",
+      "Germain Charles"
+    ]
+  }
+}

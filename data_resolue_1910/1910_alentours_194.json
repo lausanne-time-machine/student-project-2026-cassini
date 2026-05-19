@@ -1,0 +1,262 @@
+{
+  "RANCES": {
+    "Maréchaux": [
+      "Meylan Louis",
+      "Roulet Louis, fils",
+      "Tréhan Félix"
+    ],
+    "Menuisier": [
+      "Bignens Agénor"
+    ],
+    "Notaire": [
+      "Vuitel Henri"
+    ],
+    "Pasteur": [
+      "Barblan Louis"
+    ],
+    "Sage-femme": [
+      "Beauverd Louis"
+    ],
+    "Selliers-tapissiers": [
+      "Caillachon Albert",
+      "Nicole Emile"
+    ],
+    "Sociétés": [
+      "Agricole de Rances",
+      "De fromagerie",
+      "De l'Abbaye des Laboureurs",
+      "L'Echo du Jura (chant)",
+      "De tir aux armes de guerre",
+      "Immobilière"
+    ],
+    "Téléphone": [
+      "Bureau des Postes"
+    ]
+  },
+  "ROMAINMOTIER": {
+    "Autorités communales": [
+      "Guignard Edmond",
+      "Chappuis Louis",
+      "Rochaz Eugène",
+      "Besson Aloïs",
+      "Besson Jules",
+      "Reignier Louis",
+      "Abrezol Louis",
+      "Rochat Armand",
+      "Perreaud Emile",
+      "Bonard Louis",
+      "Faillettaz Edouard",
+      "Courvoisier Jean"
+    ],
+    "Agriculteurs": [
+      "Benoit Gabriel",
+      "Besson Aloïs et Emile",
+      "Besson Julie",
+      "Bonard, hoirie",
+      "Bonard Louis",
+      "Boulaz Gustave",
+      "Boulaz Jean",
+      "Genier Valéria",
+      "Guignard Edmond",
+      "Jaccard Justine",
+      "Perreaud Emile",
+      "Perreaud Gustave",
+      "Reigniez Abram",
+      "Reignier Louis",
+      "Riesen Adolphe",
+      "Rochaz Eugène",
+      "Villard Auguste"
+    ],
+    "Apiculteurs": [
+      "Gloor Auguste",
+      "Saugy Henri"
+    ],
+    "Armurier": [
+      "Chappuis Louis"
+    ],
+    "Auberges et cafés": [
+      "Boulaz Armand",
+      "Chappuis Louis",
+      "Ciana-Bonard Jenny",
+      "Wälchli Marie"
+    ],
+    "Blanchisseuses": [
+      "Mütsch Cécile",
+      "Poschung Elise"
+    ],
+    "Bois (march. de)": [
+      "Guignard Edm.",
+      "Maillefer Charles"
+    ],
+    "Bouchers": [
+      "Besson Jules",
+      "Boulaz Gustave"
+    ],
+    "Boulanger-pâtissier": [
+      "Zahnd Emile"
+    ],
+    "Buraliste postal": [
+      "Dufeu Alice"
+    ],
+    "Cantonnier": [
+      "Glayre Constant"
+    ],
+    "Chapellerie": [
+      "Poschung Auguste"
+    ],
+    "Charcutier": [
+      "Besson Jules"
+    ],
+    "Charpentier": [
+      "Dizerens Paul"
+    ],
+    "Charron": [
+      "Meyer Alfred"
+    ],
+    "Chaussures (march. de)": [
+      "Maurer sœurs",
+      "Poschung Auguste",
+      "Saugy Henri"
+    ],
+    "Chef de section": [
+      "Bonard Louis"
+    ],
+    "Chef de gare": [
+      "Gris E."
+    ],
+    "Coiffeur": [
+      "Ecuyer Aloïs"
+    ],
+    "Commission scolaire": [
+      "Rochaz Eug.",
+      "Faillettaz Edouard"
+    ],
+    "Cordonnier": [
+      "Brélaz Louis"
+    ],
+    "Couturières": [
+      "Bonard Valentine",
+      "Boulaz Marie",
+      "Chappuis Julie",
+      "Gillabert Julie"
+    ],
+    "Electriciens": [
+      "Société lausannoise d'Electricité"
+    ],
+    "Entrepreneurs": [
+      "Borgazzi frères"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Maurer sœurs",
+      "Poschung Auguste",
+      "Saugy Henri",
+      "Wehrli Rose"
+    ],
+    "Facteur postal": [
+      "Poschung Robert"
+    ],
+    "Ferblantier couvreur": [
+      "Fiandra Giovanni"
+    ],
+    "Gardes-forestiers": [
+      "Boulaz Gustave",
+      "Perreaud Gustave"
+    ],
+    "Garde-police": [
+      "Brélaz Louis",
+      "Poras Eugène"
+    ],
+    "Gendarme": [
+      "Dufour A."
+    ],
+    "Géomètre breveté": [
+      "Faillettaz Edouard"
+    ],
+    "Gérance d'immeubles": [
+      "Rochaz Eugène"
+    ],
+    "Gypsier-peintre": [
+      "Cianna Baptiste"
+    ],
+    "Hôtel": [
+      "Wälchli Marie"
+    ],
+    "Infirmerie Contesse": [
+      "Cunier Robert",
+      "Perreaud Emile"
+    ],
+    "Inspecteur du bétail": [
+      "Perreaud Emile"
+    ],
+    "Instituteurs": [
+      "Steiner Albert",
+      "Boulaz Thérèse"
+    ],
+    "Justice de paix": [
+      "Charles François",
+      "Blanchet Eugène",
+      "Monnier Albert",
+      "Candaux Louis-Alfred",
+      "Carmentrand Constant",
+      "Cavat Louis",
+      "Bigens A."
+    ],
+    "Laitier-fromager": [
+      "Villard Auguste"
+    ],
+    "Limes (fabr. de)": [
+      "Ufer frères",
+      "Maillefer Robert"
+    ],
+    "Maison de santé": [
+      "Monnay David"
+    ],
+    "Maréchal": [
+      "Boulaz César"
+    ],
+    "Masseur": [
+      "Monnay David"
+    ],
+    "Médecin-chirurgien": [
+      "Cunier Robert"
+    ],
+    "Modiste": [
+      "Poschung Bertha"
+    ],
+    "Notaire": [
+      "Boulaz Jules"
+    ],
+    "Officier d'état civil": [
+      "Reignier Abram"
+    ],
+    "Pasteurs": [
+      "Chastellain Henri",
+      "Pilet Ernest"
+    ],
+    "Pensions": [
+      "Jaccard Henri",
+      "Maurer sœurs",
+      "Monnay David",
+      "Paris Charles",
+      "Seewer Aline"
+    ],
+    "Pharmacien": [
+      "Gerber Paul"
+    ],
+    "Rentiers": [
+      "Bonard Berthe",
+      "Buxcel Lina",
+      "Benoit Marie",
+      "Gloor Auguste",
+      "Rochaz Louise",
+      "Rochaz Hélène",
+      "Seewer Aline"
+    ],
+    "Repasseuse": [
+      "Mütsch Cécile"
+    ],
+    "Sage-femme": [
+      "Chantrens Jenny"
+    ]
+  }
+}

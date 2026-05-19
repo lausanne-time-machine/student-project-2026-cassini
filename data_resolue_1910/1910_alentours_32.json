@@ -1,0 +1,275 @@
+{
+  "SAINT-GEORGES": {
+    "Agriculteurs": [
+      "main Ferdinand",
+      "Germain Ulrich",
+      "Renaud Alexandre",
+      "Renaud veuve de Louis",
+      "Terry Ferdinand"
+    ],
+    "Bestiaux (march. de)": [
+      "Berseth Louis",
+      "Terry Ferdinand"
+    ],
+    "Bois (march. de)": [
+      "Aubert Jules",
+      "Renaud Ernest",
+      "Renaud Maurice",
+      "Terry Ferdinand"
+    ],
+    "Bouchers": [
+      "Berseth Frédéric",
+      "Renaud Ulysse"
+    ],
+    "Boulangers": [
+      "Renaud Frank",
+      "Renaud Jean-François"
+    ],
+    "Cafés": [
+      "Bovy Charles",
+      "Ramel Louis"
+    ],
+    "Charpentier": [
+      "Berseth Edouard"
+    ],
+    "Chaux (march. de)": [
+      "Aubert Jules",
+      "Berseth Louis"
+    ],
+    "Commission scolaire": [
+      "Aubert A.",
+      "Berseth Frédéric",
+      "Trabaud"
+    ],
+    "Cordonnier": [
+      "Terry Etienne-Auguste"
+    ],
+    "Couvreur": [
+      "Berseth Edouard"
+    ],
+    "Entrepreneur maçon": [
+      "Chapuis Ernest"
+    ],
+    "Entrepreneur des postes": [
+      "Germain Ferd."
+    ],
+    "Epicerie, mercerie, cigares et tabacs": [
+      "Terry Arthur",
+      "Terry Julie"
+    ],
+    "Gardes-Forestiers": [
+      "Terry Edouard",
+      "Terry Arthur"
+    ],
+    "Inspecteur du bétail": [
+      "Terry Ferdinand"
+    ],
+    "Instituteurs": [
+      "Monney Emile",
+      "Jorand Eva",
+      "Potterat Augustine"
+    ],
+    "Laitier": [
+      "Meylan Elie"
+    ],
+    "Menuisier": [
+      "Berseth Ferdinand"
+    ],
+    "Pensions d'étrangers": [
+      "Berseth Frédéric",
+      "Cazin Jean",
+      "Favez Marius"
+    ],
+    "Poste et télégraphe": [
+      "Renaud Amélie"
+    ],
+    "Sage-femme": [
+      "Mignot Charlotte"
+    ],
+    "Scieur": [
+      "Renaud Ernest"
+    ],
+    "Skis (fabr. de)": [
+      "Favez Marius"
+    ],
+    "Société": [
+      "De laiterie et fromagerie"
+    ],
+    "Tailleuses": [
+      "Renaud Méry",
+      "Bovy-Bollay Lina",
+      "Berseth Lina",
+      "Renaud Louisa"
+    ],
+    "Téléphoniste": [
+      "Bovy Amélie"
+    ]
+  },
+  "SAINT-LIVRES": {
+    "Autorités communales": [
+      "Tripod François",
+      "Grivel Alfred",
+      "Tripod Isaac",
+      "Jotterand Marc",
+      "Pellet Giddey Marc",
+      "Jotterand Emile",
+      "Guignet Emile",
+      "Pellet Edouard",
+      "Grivel Eugène",
+      "Burnier Henri",
+      "Grivel-Jaquier Jules"
+    ],
+    "Agriculteurs": [
+      "Baatard Jaques",
+      "Eperon François",
+      "Gibaud Emile",
+      "Guignet Emile",
+      "Guignet Jules",
+      "Jotterand Charles",
+      "Jotterand Emile",
+      "Jotterand Marc",
+      "Pellet Marc",
+      "Tripod Louis",
+      "Tripod Alexandre",
+      "Vaney Gustave"
+    ],
+    "Apiculteur": [
+      "Jotterand Gustave"
+    ],
+    "Aubergiste": [
+      "Favre Auguste"
+    ],
+    "Boulanger": [
+      "Béboux Victor"
+    ],
+    "Charcutier": [
+      "Eperon Louise, veuve"
+    ],
+    "Charpentiers": [
+      "Meylan Hri",
+      "Michoud Fs."
+    ],
+    "Charron": [
+      "Berthet"
+    ],
+    "Commission scolaire": [
+      "Graz"
+    ],
+    "Epicerie, mercerie": [
+      "Eperon Louise",
+      "Pellet-Recordon Louise"
+    ],
+    "Géomètre breveté": [
+      "Grivel Julien"
+    ],
+    "Inspecteur du bétail": [
+      "Pellet Jules-Ed."
+    ],
+    "Instituteurs": [
+      "Dind Emile",
+      "Giddey Jeanne",
+      "Tripod Amélie"
+    ],
+    "Laitier": [
+      "Leutwyller Gottfried"
+    ],
+    "Maréchal": [
+      "Jaquier J."
+    ],
+    "Menuisier": [
+      "Meylan Henri"
+    ],
+    "Meunier": [
+      "Tripod François"
+    ],
+    "Pasteur": [
+      "Graz Louis"
+    ],
+    "Sage-femme": [
+      "Sergy Jeanne"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "Du battoir à grains",
+      "Syndicat d'alpage et agricole"
+    ],
+    "Tailleuses": [
+      "Grivel Alice",
+      "Sergy Henriette",
+      "Tripod Elisa"
+    ],
+    "Téléphone public": [
+      "Bureau des postes"
+    ]
+  },
+  "SAINT-OYENS": {
+    "Autorités communales": [
+      "Renaud Julien",
+      "Larpin Eugène",
+      "Grosjean Ferdinand",
+      "Grosjean Edmond",
+      "Stalder Louis",
+      "Meyer Christian",
+      "Martin Louis",
+      "Grosjean Henri",
+      "Grosjean Emile"
+    ],
+    "Agriculteurs": [
+      "Grosjean Edouard",
+      "Grosjean Louis",
+      "Grosjean Ferdinand",
+      "Martin Henri",
+      "Martin Jules",
+      "Piguet Lucien",
+      "Simond Jules",
+      "Stalder Henri"
+    ],
+    "Apiculteurs": [
+      "Grosjean Ami",
+      "Grosjean Charles"
+    ],
+    "Aubergiste": [
+      "Demont Ernest"
+    ],
+    "Bois (commerce de)": [
+      "Grosjean Justin",
+      "Haldy Alexis",
+      "Meyer John"
+    ],
+    "Boisselier": [
+      "Martin Daniel"
+    ],
+    "Charron": [
+      "Grosjean Alphonse"
+    ],
+    "Commission scolaire": [
+      "Grosjean Henri",
+      "Jaccard Constant",
+      "Grosjean Ferdinand"
+    ],
+    "Epicerie, mercerie": [
+      "Rochat Alfred"
+    ],
+    "Fermier": [
+      "Rochat Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Stalder Louis",
+      "Grosjean Edmond"
+    ],
+    "Instituteurs": [
+      "Pernet Jules",
+      "Grosjean Eléonore"
+    ],
+    "Laitier": [
+      "Grosjean Auguste"
+    ],
+    "Poste": [
+      "Renaud Julien"
+    ],
+    "Sable et gravier (commerce de)": [
+      "Haldy Julien",
+      "Meyer Christian"
+    ]
+  }
+}

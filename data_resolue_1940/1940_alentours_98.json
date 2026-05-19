@@ -1,0 +1,360 @@
+{
+  "ESSERTES": {
+    "Poste et télégraphe": [
+      "Destraz François"
+    ],
+    "Téléphone": [
+      "Conne Robert"
+    ],
+    "Agriculteurs": [
+      "Crot Emile",
+      "Conne Robert",
+      "Décosterd Marcel",
+      "Destraz Albert",
+      "Destraz Samuel",
+      "Destraz Frank",
+      "Destraz Oscar",
+      "Ducros Albert",
+      "Guignet Samuel",
+      "Hauert Albert",
+      "Hostettler Fritz",
+      "Jaunin Fréd.",
+      "Jossevel Gustave",
+      "Rogivue Louis",
+      "Vuiliemin frères"
+    ],
+    "Assurance - vieillesse": [
+      "Golaz Emile"
+    ],
+    "Boucher-charcutier": [
+      "Conne Robert"
+    ],
+    "Café": [
+      "Martin Paul"
+    ],
+    "Charron": [
+      "Bill Emile-Rodolphe"
+    ],
+    "Couturière": [
+      "Wuillemin Madeleine"
+    ],
+    "Epicerie-mercerie": [
+      "Conne Robert",
+      "Destraz-Stuby François"
+    ],
+    "Laiterie": [
+      "Société de laiterie"
+    ],
+    "Maréchaux": [
+      "Niederhauser Fritz et Paul"
+    ],
+    "Pompes funèbres du Nord": [
+      "Bill André"
+    ]
+  },
+  "ESSERTINES-SUR-ROLLE": {
+    "Syndic": [
+      "Merminod Oscar"
+    ],
+    "Secrétaire": [
+      "Ischy Paul"
+    ],
+    "Boursier": [
+      "Jorand Ernest"
+    ],
+    "Municipaux": [
+      "Decurnex François",
+      "Gétaz Fernand",
+      "Meylan Benjamin",
+      "Richard Samuel"
+    ],
+    "Assesseur": [
+      "Merminod Maurice"
+    ],
+    "Cantonnier": [
+      "Dumartheray William"
+    ],
+    "Commandant du feu": [
+      "Gander Henri"
+    ],
+    "Commission scolaire": [
+      "Merminod Maurice",
+      "Viquerat Maurice",
+      "Lavenex"
+    ],
+    "Garde-forestier": [
+      "Renevier Juste"
+    ],
+    "Inspecteurs du bétail": [
+      "Dumartheray Julien",
+      "Décurmex John"
+    ],
+    "Inspecteur des viandes": [
+      "Reichenbach Louis"
+    ],
+    "Instituteurs": [
+      "Maire Félix",
+      "Clément-Richard Elisa",
+      "Panchaud Mlle."
+    ],
+    "Poste et télégraphe": [
+      "Uldry Vve d'Ernest"
+    ],
+    "Téléphone": [
+      "Pernet Gustave"
+    ],
+    "Téléphone communal": [
+      "Clément Marius",
+      "Clément Marius",
+      "Held Rose",
+      "Pernet Gustave"
+    ],
+    "Agriculteurs": [
+      "Badan Gges et fils",
+      "Bruguier Maurice",
+      "Chevalley P.",
+      "Clément Marius",
+      "Clerc Clarice",
+      "Collomb Paul",
+      "Delacrausaz César",
+      "Delafontaine Henri",
+      "Dumartheray Julien",
+      "Dumartheray Victor",
+      "Fillietaz Alphonse",
+      "Gander Henri",
+      "Gétaz Marius",
+      "Haldi Henri",
+      "Jorand Ernest",
+      "Meylan Alfred",
+      "Merminod Francis",
+      "Merminod Gustave",
+      "Merminod John",
+      "Merminod Maurice",
+      "Merminod Oscar",
+      "de Planta A.",
+      "Pichon Edmond",
+      "Reichenbach Eugène",
+      "Renevier Juste",
+      "Richard frères",
+      "Rosier Jacques",
+      "Schick Frédéric",
+      "Viquerat Maurice",
+      "Zwygart frères"
+    ],
+    "Amodiateurs": [
+      "Association Rossier",
+      "Reichenbach Louis"
+    ],
+    "Apiculteur": [
+      "Chevalley Paul"
+    ],
+    "Architecte": [
+      "Bourquin André"
+    ],
+    "Assurance-vieillesse": [
+      "Maire F."
+    ],
+    "Boulangerie": [
+      "Lambelet Louis"
+    ],
+    "Cafés": [
+      "Held Rose",
+      "Pernet Gust."
+    ],
+    "Charron": [
+      "Gétaz Fernand"
+    ],
+    "Comestibles": [
+      "Rossier Yvonne"
+    ],
+    "Couturières": [
+      "Delafontaine Nadine",
+      "Estoppey Célina",
+      "Merminod Marie",
+      "Simond Lina"
+    ],
+    "Engrais chimiques": [
+      "Syndicat agricole"
+    ],
+    "Epicerie-mercerie": [
+      "Lambelet Ls",
+      "Velan Blanche. Vve."
+    ],
+    "Graphologue": [
+      "Hurst J., Mlle"
+    ],
+    "Laitier": [
+      "Etter Emile"
+    ],
+    "Machines agric. et viticoles": [
+      "Jaquier Marcel"
+    ],
+    "Maréchaux": [
+      "Baeriswyl A.",
+      "Bruguier Henri"
+    ],
+    "Porcelaine (peinture sur)": [
+      "Bourquin-Grandjean L.-Henriette"
+    ],
+    "Société": [
+      "Syndical agricole"
+    ],
+    "Vignerons": [
+      "Barraud Vve et fils",
+      "Bettems James",
+      "Bovy Armand",
+      "Bovy Ferdinand",
+      "Décurmex François",
+      "Décurmex John",
+      "Dumartheray John",
+      "Grosjean frères",
+      "Henriod Ernest",
+      "Jorand Emile",
+      "Lambelet Aloys",
+      "Meylan Benjamin",
+      "Probst Eugène",
+      "Renevier Fernand",
+      "Schneider Adolphe",
+      "Schneider R."
+    ]
+  },
+  "ESSERTINES-SUR-YVERDON": {
+    "Syndic": [
+      "Ducret Charles"
+    ],
+    "Secrétaire": [
+      "Gonin Fernand"
+    ],
+    "Boursier": [
+      "Schneider André"
+    ],
+    "Huissier": [
+      "Gonet Alexandre"
+    ],
+    "Municipaux": [
+      "Auberson Jean",
+      "Auberson Marcel",
+      "Collet Robert",
+      "Collet Paul",
+      "Gonin Marcel",
+      "Perret Marcel"
+    ],
+    "Cantonniers": [
+      "Auberson Lucien",
+      "Gonin Ernest"
+    ],
+    "Chef de section": [
+      "Perret Denis"
+    ],
+    "Commandant du feu": [
+      "Gonin Fernand"
+    ],
+    "Commission scolaire": [
+      "Gonin Gérard",
+      "Mme Taverney",
+      "Auberson Jean",
+      "Auberson Jean"
+    ],
+    "Garde-forestier": [
+      "Auberson Jean"
+    ],
+    "Gendarmerie (poste de)": [
+      "Lambelet Louis"
+    ],
+    "Inspecteur des viandes": [
+      "Auberson J."
+    ],
+    "Juge de paix": [
+      "Ducret Charles"
+    ],
+    "Pasteurs": [
+      "Narbel Philippe",
+      "Taverney Pierre"
+    ],
+    "Poste et télégraphe": [
+      "Perret Gustave"
+    ],
+    "Téléphone": [
+      "Station communale"
+    ],
+    "Inspecteur du bétail": [
+      "Auberson Jean"
+    ],
+    "Instituteurs": [
+      "Favre Alb.",
+      "Champod Cécile",
+      "Gonin Alice"
+    ],
+    "Poste": [
+      "Perret Gustave"
+    ],
+    "Agriculteurs": [
+      "Barraud Louis",
+      "Ducret Albert",
+      "Ducret Charles",
+      "Ducret Jean",
+      "Gonin Gérard et Roger",
+      "Gonin Albert de Jean",
+      "Gonin Edmond",
+      "Gonin Albert de Louis",
+      "Gonin Charles d'Hector",
+      "Gonin Daniel",
+      "Gonin Marius",
+      "Gygax Albert",
+      "Jaton Alfred",
+      "Perret Alfred",
+      "Perret Denis",
+      "Perret Emile",
+      "Villard Armand",
+      "Wagnière Héli"
+    ],
+    "Amodiateur": [
+      "Barraud Paul"
+    ],
+    "Apiculteurs": [
+      "Auberson Gustave",
+      "Gonin Gérard"
+    ],
+    "Assurance-vieillesse": [
+      "Favre A."
+    ],
+    "Assurances": [
+      "Gonin Fernand",
+      "Perret Edward"
+    ],
+    "Boulanger": [
+      "Brot Georges"
+    ],
+    "Cafés": [
+      "Café de l'Union",
+      "Joos-Villard, Vve"
+    ],
+    "Charpentiers": [
+      "Baldy Louis",
+      "Barraud Constant"
+    ],
+    "Charrons": [
+      "Auberson Héli",
+      "Chevalley Arnold",
+      "Decorvès Jules"
+    ],
+    "Cordonnier": [
+      "Perret Charles"
+    ],
+    "Couturières": [
+      "Auberson Amélie",
+      "Gonin Lilas",
+      "Gonin Louise",
+      "Oulevay Aline",
+      "Perret Bertha",
+      "Rauch Germaine"
+    ],
+    "Entrepreneur": [
+      "Gabella Ernest"
+    ],
+    "Epicerie, mercerie, tabac": [
+      "Bornand Arthur",
+      "Brot Georges"
+    ]
+  }
+}

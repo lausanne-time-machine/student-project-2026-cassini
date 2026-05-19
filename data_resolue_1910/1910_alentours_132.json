@@ -1,0 +1,252 @@
+{
+  "PRÉVERENGES": {
+    "Blanchisserie": [
+      "Varidel David"
+    ],
+    "Briqueterie": [
+      "Paquier Gustave"
+    ],
+    "Commission scolaire": [
+      "Meylan E.",
+      "Bolliet William",
+      "Moyard Gustave"
+    ],
+    "Entrepreneur": [
+      "Borgnana Pierre"
+    ],
+    "Epicerie, mercerie": [
+      "Oberlin Rodolphe"
+    ],
+    "Fourches (fabr. de)": [
+      "Borgeaud Henri"
+    ],
+    "Greffier de paix": [
+      "Bolliet Constant"
+    ],
+    "Inspecteur du bétail": [
+      "Bolliet Gustave"
+    ],
+    "Instituteur": [
+      "Décoppet Eugène"
+    ],
+    "Laitier": [
+      "Laiterie agricole (Lausanne)"
+    ],
+    "Pêcheurs": [
+      "Martin Gustave",
+      "Mermoud François",
+      "Moyard Charles"
+    ],
+    "Rentiers": [
+      "Baud Louis",
+      "Delarageaz Marie",
+      "Descoullayes",
+      "Jaquiéry Jules",
+      "Mestral Jules",
+      "Moyard Jenny",
+      "Mutrux Mrie."
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "De l'Abbaye des agriculteurs",
+      "Littéraire"
+    ],
+    "Tailleuse": [
+      "Moyard Elisa"
+    ],
+    "Vignerons": [
+      "Bussy Henri",
+      "Dubois Adrien",
+      "Dufey Alois",
+      "Moyard Alfred",
+      "Moyard Edouard"
+    ]
+  },
+  "REVEROLLES": {
+    "Autorités communales": [
+      "Matthey Alexis",
+      "Hostettler Charles",
+      "Decollogny Lucien",
+      "Bähny Gustave",
+      "Cretegny Henri",
+      "Durand Eugène",
+      "Matthey Eugène",
+      "Matthey Eugène",
+      "Dubois François",
+      "Wehrly Louis"
+    ],
+    "Agriculteurs": [
+      "Bähny Henri",
+      "Briand Fanny",
+      "Cretegny Gustave",
+      "Cretegny Charles",
+      "Cretegny Eugène",
+      "Cretegny Henri",
+      "Cretegny John",
+      "Coderay Louis",
+      "Decollogny Lucien",
+      "Durand Eugène",
+      "Matthey Alexis",
+      "Monnet Louis",
+      "Moret Louis",
+      "Rochat Charlotte",
+      "Schneider frères",
+      "Wehrly Louis"
+    ],
+    "Boulanger": [
+      "Paschoud Alphonse"
+    ],
+    "Cafés": [
+      "Cretegny Henri",
+      "Paschoud Alphonse"
+    ],
+    "Commission scolaire": [
+      "Durand Eugène",
+      "Matthey Alexis"
+    ],
+    "Epicerie, mercerie": [
+      "Decollogny Lucien"
+    ],
+    "Inspecteur du bétail": [
+      "Durand Eugène"
+    ],
+    "Instituteurs": [
+      "Gillard Arthur"
+    ],
+    "Jardinier": [
+      "Matthey Eugène"
+    ],
+    "Laitier": [
+      "Martin Louis"
+    ],
+    "Lingère": [
+      "Briand Fanny"
+    ],
+    "Maréchal": [
+      "Vallon Henri"
+    ],
+    "Meunier": [
+      "Dubois Charles"
+    ],
+    "Repasseuse": [
+      "Matthey Frida"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Tailleuses": [
+      "Dénéréaz Fanny",
+      "Paschoud Louise"
+    ],
+    "Vignerons": [
+      "Dénéréaz Jules",
+      "Decollogny Louis"
+    ]
+  },
+  "ROMANEL sur MORGES": {
+    "Autorités communales": [
+      "Chapuis Aimé",
+      "Curtet Jules",
+      "Bataillard Alfred",
+      "Devillard Louis",
+      "Henry Lucien",
+      "Bataillard Moïse",
+      "Bataillard Ernest",
+      "Zeender Henri",
+      "Devillard Louis"
+    ],
+    "Agriculteurs": [
+      "Bataillard Ulysse",
+      "Burri Alfred",
+      "Curtet Jules",
+      "Devillard Alexis",
+      "Devillard Henri",
+      "Prior Adolphe",
+      "Zbinden Daniel"
+    ],
+    "Aubergiste": [
+      "Bataillard Alfred"
+    ],
+    "Charpentier": [
+      "Bataillard Louis"
+    ],
+    "Charron": [
+      "Burri Charles"
+    ],
+    "Commission scolaire": [
+      "Coderay Samuel",
+      "Bataillard Moïse"
+    ],
+    "Cordonnier": [
+      "Bataillard Louis"
+    ],
+    "Dépositaire postal": [
+      "Bataillard Louis"
+    ],
+    "Epicerie": [
+      "Bataillard Alfred",
+      "Favre Théophile"
+    ],
+    "Inspecteur du bétail": [
+      "Coderey Gustave"
+    ],
+    "Instituteur": [
+      "Clerc Emile"
+    ],
+    "Laitier": [
+      "Moser Jean"
+    ],
+    "Maréchal": [
+      "Dind Henri"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Téléphoniste": [
+      "Clerc Emile"
+    ]
+  },
+  "SAINT-PREX": {
+    "Autorités communales": [
+      "Demont Louis",
+      "Bugnon Julien",
+      "Bugnon Eugène",
+      "Forel Sylvestre",
+      "Haas Alexandre",
+      "Bugnon Jules",
+      "Huc-Mazelet Henri",
+      "Bertholet François",
+      "Fritsch Samuel"
+    ],
+    "Agriculteurs": [
+      "Allamand Louis",
+      "Anken Charles",
+      "Baudat Jules",
+      "Bertholet François",
+      "Bugnon Auguste",
+      "Bugnon Ernest",
+      "Bugnon Eugène",
+      "Bugnon-Dupraz",
+      "Châtelain",
+      "Contet Jules",
+      "Corthay Armand",
+      "Gudet Arnold",
+      "Kaspar Charles",
+      "Lambercy Charles",
+      "Meylan",
+      "Morand",
+      "Morandin Lucien",
+      "Pavillard Louis",
+      "Pfeuti Charles",
+      "Piot Ami",
+      "Prodolliet Louis",
+      "Regard Henri"
+    ],
+    "Allumage de l'électricité": [
+      "Stucky"
+    ],
+    "Assesseur": [
+      "Haas François"
+    ]
+  }
+}

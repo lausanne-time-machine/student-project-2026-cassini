@@ -1,0 +1,414 @@
+{
+  "COINSINS": {
+    "Police (agent de)": [
+      "Mory Joseph"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Magnin Charles"
+    ],
+    "Agriculteurs": [
+      "Brauch frères",
+      "Christinet Lucien",
+      "Corbaz Marcel",
+      "Golay Gustave",
+      "Guex Alfred et fils",
+      "Jaggi Henri",
+      "Mettraux Gustave",
+      "Muller Jean",
+      "Meylan Henri",
+      "Vuagnaux John"
+    ],
+    "Amodiateur": [
+      "Muller Jean"
+    ],
+    "Apiculteur": [
+      "Gruaz Roger"
+    ],
+    "Atelier mécanique": [
+      "Fischer Gustave"
+    ],
+    "Café": [
+      "Magnin Charles"
+    ],
+    "Charpentier": [
+      "Bron Louis"
+    ],
+    "Charrons-charpentiers": [
+      "Bron François",
+      "Bron Louis, fils"
+    ],
+    "Epicerie": [
+      "Baumman Gottfried"
+    ],
+    "Laitier": [
+      "Laiteries Réunies",
+      "Muller Henriette"
+    ],
+    "Pépiniériste": [
+      "Magnin Henri"
+    ],
+    "Sable et gravier": [
+      "Konrad Albert"
+    ],
+    "Sociétés": [
+      "Football-Club Aurore",
+      "Sté de fromagerie de Vich et Coinsins"
+    ],
+    "Vannier": [
+      "Römer Robert"
+    ],
+    "Divers": [
+      "Trembley M.",
+      "Pulver, Mme",
+      "Blanc-Gétaz"
+    ]
+  },
+  "COLOMBIER": {
+    "Syndic": [
+      "Chauvet Albert"
+    ],
+    "Secrétaire": [
+      "Prior Aimé"
+    ],
+    "Boursier": [
+      "Demaurex Henri"
+    ],
+    "Huissier": [
+      "Durand Louis"
+    ],
+    "Municipaux": [
+      "Bastardot Henri",
+      "Desmeules Arthur",
+      "Linder Lucien",
+      "Monnet Alfred"
+    ],
+    "Huissier du juge de paix": [
+      "Matthey Lucien"
+    ],
+    "Assesseurs": [
+      "Devillard Louis",
+      "Duruz André",
+      "Kirschmann Maurice",
+      "Perey Georges"
+    ],
+    "Chef de section": [
+      "Clerc Gustave"
+    ],
+    "Commandant du feu": [
+      "Desmeules A."
+    ],
+    "Commission scolaire": [
+      "Chauvet Alb."
+    ],
+    "Contrôleur du lait": [
+      "Schmidt André"
+    ],
+    "Garde forestier": [
+      "Prélat A."
+    ],
+    "Greffier": [
+      "Linder Armand"
+    ],
+    "Inspecteur du bétail": [
+      "Prior Aimé"
+    ],
+    "Inspecteur des viandes": [
+      "Bastardot H."
+    ],
+    "Instituteurs": [
+      "Beauverd Pierre",
+      "Beauverd Berthe"
+    ],
+    "Juge de paix": [
+      "Corboz Alexis"
+    ],
+    "Police (agent de)": [
+      "Depping E."
+    ],
+    "Poste et télégraphe": [
+      "Rochat Gustave"
+    ],
+    "Téléphone": [
+      "Station communale"
+    ],
+    "Agriculteurs": [
+      "Bastardot Hri",
+      "Berguer Henri",
+      "Chauvet frères",
+      "Chauvet Louis",
+      "Christen Th.",
+      "Clerc G.",
+      "Corthesy E.",
+      "Cretegny Ls",
+      "Cretegny P.",
+      "Demont Gustave",
+      "Desmeules Arthur",
+      "Durand E.",
+      "Durand Louis",
+      "Gobeli Jean",
+      "Gygax W.",
+      "Jaggi D.",
+      "Linder Charles",
+      "Linder François",
+      "Löffel E. T.",
+      "Luthi F.",
+      "Magnenat H.",
+      "Matthey L.",
+      "Messerli Ch. T.",
+      "Monachon Henri",
+      "Monnet A.",
+      "Monnet Eugène",
+      "Morel Fernand",
+      "Perretten Edouard",
+      "Prior Isaac",
+      "Rairoux L.",
+      "Rogivue P.",
+      "Rochat Henri",
+      "Staudenmann E.",
+      "Waber P.",
+      "Wullschleger frères"
+    ],
+    "Amodiateur": [
+      "Perretten Ed."
+    ],
+    "Apiculteur": [
+      "Chauvet Louis"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Chauvet Ls"
+    ],
+    "Boulanger": [
+      "Zuber Henri"
+    ],
+    "Café": [
+      "Cretegny Paul"
+    ],
+    "Couturière": [
+      "Baumgartner O., Mme"
+    ],
+    "Epiceries, merceries": [
+      "Haudenschild Gottfried",
+      "Prior A."
+    ],
+    "Entrepreneurs": [
+      "Demicheli Vve",
+      "Vaucher Jules"
+    ],
+    "Fumiste": [
+      "Vaucher Jules"
+    ],
+    "Laitier": [
+      "Nyffenegger Gottfried"
+    ],
+    "Maréchal": [
+      "Barrelet Marcel"
+    ],
+    "Vigneron": [
+      "Rochat Auguste"
+    ]
+  },
+  "COMBREMONT-LE-GRAND": {
+    "Garde-forestier": [
+      "Gilliard Emile"
+    ],
+    "Insp. du bétail": [
+      "Bettex Julien"
+    ],
+    "Inspecteur des viandes": [
+      "Bettex Julien"
+    ],
+    "Instituteurs": [
+      "Dutoit Charles",
+      "Bovay Rose"
+    ],
+    "Justice de paix": [
+      "Mermoud Henri",
+      "Chevalley Paul",
+      "Bettex Henri",
+      "Chevalley Edmond",
+      "Correvon Aimé",
+      "Gilliard-Chambaz Charles"
+    ],
+    "Huissier": [
+      "Gilliard Aimé",
+      "Charbon Ernest"
+    ],
+    "Officier d'état civil": [
+      "Gilliard Art. T.",
+      "Viquerat Marcel"
+    ],
+    "Pasteur": [
+      "Perrenoud Albert"
+    ],
+    "Police (agent de)": [
+      "Gilliard Charles"
+    ],
+    "Poste et télégraphe": [
+      "Pidoux Louis"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Station publique"
+    ],
+    "Syndic": [
+      "Favre P. T."
+    ],
+    "Secrétaire": [
+      "Bettex Julien"
+    ],
+    "Boursier": [
+      "Page Max"
+    ],
+    "Municipaux": [
+      "Courvoisier Emile",
+      "Détraz Louis",
+      "Gilliard Arthur",
+      "Ney Aloys",
+      "Viquerat Aloys",
+      "Viquerat Marcel"
+    ],
+    "Cantonnier": [
+      "Viquerat Paul"
+    ],
+    "Chef de section": [
+      "Favre Paul"
+    ],
+    "Commandant du feu": [
+      "Pidoux Ls"
+    ],
+    "Commission scolaire": [
+      "Perrenoud A.",
+      "Ney Aloys",
+      "Détraz L., Mme"
+    ],
+    "Contrôleur du lait": [
+      "Bettex Roger"
+    ],
+    "Agriculteurs": [
+      "Bettex Jean",
+      "Bettex Julien",
+      "Bovay-Perret M.",
+      "Charbon Ernest",
+      "Charbon René",
+      "Chevalley Edouard",
+      "Courvoisier Emile",
+      "Détraz Louis",
+      "Dufey Jules",
+      "Favre Paul",
+      "Favre Edmond",
+      "Favre William",
+      "Gallandat Octave",
+      "Gilliard Adrien",
+      "Gilliard Aimé",
+      "Gilliard André",
+      "Gilliard Arthur",
+      "Gilliard Constant",
+      "Gilliard Emile",
+      "Gilliard Edgar",
+      "Gilliard-Fivaz Ch.",
+      "Graf Edouard",
+      "Gaumann Ernest",
+      "Helfer Ernest",
+      "Kammermann Ch.",
+      "Krebs Louis",
+      "Joliquin Louis",
+      "Martin Eugène",
+      "Meige Henri",
+      "Ney Alois",
+      "Perret Georges",
+      "Rey Fernand",
+      "Rohrer Jean",
+      "Ryser Jean",
+      "Viquerat Alois",
+      "Viquerat Georges",
+      "Viquerat Marcel",
+      "Viquerat Paul",
+      "Vinz Adolphe"
+    ],
+    "Aviculteurs": [
+      "Fague Constant",
+      "Hammermann Charles",
+      "Viquerat Georges",
+      "Bettex Marguerite"
+    ],
+    "Assurance": [
+      "Gilliard Adrien"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Dutoit Charles"
+    ],
+    "Auto-garage": [
+      "Rebeaud Emile"
+    ],
+    "Banque": [
+      "Crédit Mutuel"
+    ],
+    "Boucher": [
+      "Viquerat Marcel"
+    ],
+    "Boulanger": [
+      "Bigler Ernest"
+    ],
+    "Cafés": [
+      "Gilliard Emile",
+      "Ecusson Vaudois",
+      "Page Louise",
+      "Hôtel-de-Ville"
+    ],
+    "Charpentier": [
+      "Pidoux Alfred"
+    ],
+    "Charron": [
+      "Pidoux Julien"
+    ],
+    "Coiffeur": [
+      "Bovay Louis"
+    ],
+    "Confection": [
+      "Gilliard Jules"
+    ],
+    "Cordonnier, chaussures": [
+      "Bovay Léa",
+      "Del Pedro frères",
+      "Pidoux Paul"
+    ],
+    "Couturières": [
+      "Burgi Yvonne",
+      "Rebeaud Eva",
+      "Riond Jeanne"
+    ],
+    "Encadreur": [
+      "Del Pedro frères"
+    ],
+    "Entrepreneurs": [
+      "Pessina frères",
+      "Rebeaud Clément"
+    ],
+    "Epicerie-mercerie": [
+      "Bovay Léa",
+      "Del Pedro frères"
+    ],
+    "Fers, quincaillerie": [
+      "Del Pedro frères"
+    ],
+    "Fromages": [
+      "Neuenschwander Jean"
+    ],
+    "Horloger-bijoutier": [
+      "Bovay A."
+    ],
+    "Laitier": [
+      "Neuenschwander Jean"
+    ],
+    "Lingères": [
+      "Gilliard Anna",
+      "Pidoux Nancy"
+    ],
+    "Machines à coudre": [
+      "Del Pedro frères"
+    ]
+  }
+}

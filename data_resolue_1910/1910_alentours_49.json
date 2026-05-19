@@ -1,0 +1,285 @@
+{
+  "L'ISLE": {
+    "Laitier": [
+      "Cuénez Louis"
+    ],
+    "Pension d'été": [
+      "Gruaz Henri"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Téléphoniste": [
+      "Rochat-Cloux, dame"
+    ],
+    "Tisserand": [
+      "Cloux Albert"
+    ]
+  },
+  "Villars-Bonzon": {
+    "Café": [
+      "Chaillet Franç."
+    ],
+    "Epicerie, mercerie": [
+      "Weber Albert"
+    ],
+    "Inspecteur du bétail": [
+      "Faillettaz François-Louis"
+    ],
+    "Instituteur": [
+      "Court Louis"
+    ],
+    "Laitier": [
+      "Zurfluh F."
+    ],
+    "Mécanicien": [
+      "Weber Albert"
+    ],
+    "Poste": [
+      "Chaillet Marc-Jules"
+    ],
+    "Sabotier": [
+      "Champendal David"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Téléphoniste": [
+      "Weber Zélie"
+    ]
+  },
+  "L'Isle": {
+    "Agriculteurs": [
+      "Baudat Ami",
+      "Bernard Eugène",
+      "Bernard-Magnin Henri",
+      "Bernard Emile",
+      "Chaillet François",
+      "Cloux Ami",
+      "Cloux John",
+      "Courvoisier Louis",
+      "Favre Aimé",
+      "Gruaz Emile",
+      "Vulliens Jules"
+    ],
+    "Auberges et cafés": [
+      "Blanchet Louis",
+      "Bourl'honne frères",
+      "Cloux Edouard",
+      "Guyaz Gustave"
+    ],
+    "Blanchisseuse — repasseuse": [
+      "Reymond Jenny"
+    ],
+    "Bois (march. de)": [
+      "Gruaz Emile",
+      "Guyaz-Rochat & Décoppet"
+    ],
+    "Bouchers": [
+      "Imhof Frédéric",
+      "Vulliens Louis"
+    ],
+    "Boulangers": [
+      "Fontanuaz Albert",
+      "Gruaz Marc",
+      "Margot Ami"
+    ],
+    "Charcutier": [
+      "Vulliens Jules"
+    ],
+    "Charpentiers": [
+      "Baudat Charles",
+      "Jan François"
+    ],
+    "Charron": [
+      "Gruaz Louis"
+    ],
+    "Chaussures (mag. de)": [
+      "Hari Louis",
+      "Knebel Henri",
+      "Lesquereux Frank"
+    ],
+    "Chef de section": [
+      "Cloux John"
+    ],
+    "Cordonnier": [
+      "Dubrit Paul"
+    ],
+    "Electriciens": [
+      "Forces motrices de Joux, Bolomey",
+      "Société lausannoise d'électricité, Lausanne"
+    ],
+    "Entrepreneurs maçons": [
+      "Garoni frères",
+      "Jaccard Emmanuel",
+      "Jaccard Ernest et Eugène",
+      "Maget Paul"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Hari Louis",
+      "Knebel Henri",
+      "Lesquereux-Jousson F."
+    ],
+    "Ferblantiers-couvreurs": [
+      "Geneyne Daniel",
+      "Jaccard Frédéric"
+    ],
+    "Gypsiers-peintres": [
+      "Jaccard Gustave",
+      "Lavanchy Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Bernard Eugène"
+    ],
+    "Instituteurs": [
+      "Mages Louis",
+      "Amiguet Emma",
+      "Chaillet Angèle"
+    ],
+    "Justice de paix": [
+      "Bernard-Magnin Henri",
+      "Chappuis Jean-Rod.",
+      "Courvoisier Alexandre",
+      "Henry Louis",
+      "Tardy-Peyrollaz Jules",
+      "Cloux-Martinet Jules"
+    ],
+    "Laitier": [
+      "Jotterand Juste"
+    ],
+    "Lingère": [
+      "Margot Elise"
+    ],
+    "Maréchal": [
+      "Freyvogel Ernest"
+    ],
+    "Médecin": [
+      "Grec Eugène"
+    ],
+    "Menuisier": [
+      "Dahler Edouard"
+    ],
+    "Meunier": [
+      "Schær Jacob"
+    ],
+    "Notaire": [
+      "Gleyre Lucien"
+    ],
+    "Officier d'état civi": [
+      "Courvoisier Louis"
+    ],
+    "Pasteurs": [
+      "de Perrot",
+      "Porret Arnold"
+    ],
+    "Poste": [
+      "Baud Alfred",
+      "Borloz Ch."
+    ],
+    "Quincaillerie": [
+      "Lesquereux Frank"
+    ],
+    "Sage-femme": [
+      "Chaillet Aline"
+    ],
+    "Scieur": [
+      "Schær Jacob"
+    ],
+    "Selliers": [
+      "Bélaz Marc & fils"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "Poids public",
+      "Four du hameau",
+      "Immobilière",
+      "Alpage",
+      "Section de la Croix Bleue",
+      "Syndicat agricole"
+    ],
+    "Tailleurs de pierres": [
+      "Margot frères"
+    ],
+    "Tailleuses": [
+      "Margot Elise",
+      "Rayroux Marie"
+    ],
+    "Tanneur": [
+      "Chautems Louis"
+    ],
+    "Télégraphiste": [
+      "Borloz Ch."
+    ],
+    "Téléphoniste": [
+      "Blanchet Louis"
+    ],
+    "Usine d'imprégnation": [
+      "Bernard & Guyaz"
+    ]
+  },
+  "LUSSERY": {
+    "Autorités communales": [
+      "Guerry Henri",
+      "Delessert Héli"
+    ],
+    "Syndic": [
+      "Desponds Benjamin"
+    ],
+    "Municipaux": [
+      "Desponds Henri",
+      "Delessert Héli",
+      "Desponds François",
+      "Guerry François",
+      "Mermoud Charles",
+      "Desponds François"
+    ],
+    "Agriculteurs": [
+      "Collet Gustave",
+      "Desponds Félix",
+      "Delessert Louis",
+      "Desponds Alexandre",
+      "Falconnier David",
+      "Gavin Emile",
+      "Perretten Emile",
+      "Perretten Henri",
+      "Potterat, frères"
+    ],
+    "Aubergiste": [
+      "Perretten Louis"
+    ],
+    "Commission scolaire": [
+      "Walter Louis",
+      "Guerry François",
+      "Delessert Héli"
+    ],
+    "Epicerie, mercerie": [
+      "Pamblanc Bertha & Marie",
+      "Pfister-Reymond"
+    ],
+    "Galocher": [
+      "Perretten Jules"
+    ],
+    "Inspecteur du bétail": [
+      "Mermoud Charles"
+    ],
+    "Instituteur": [
+      "Chambaz Emile"
+    ],
+    "Laitier": [
+      "Ruchet François"
+    ],
+    "Maréchal": [
+      "Mullener Jules"
+    ],
+    "Meuniers": [
+      "Perretten frères"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "Du battoir à grains"
+    ],
+    "Téléphoniste": [
+      "Perretten Louis"
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "DEMORET": {
+    "Agriculteurs": [
+      "Baatard François",
+      "Baatard Jules",
+      "Baatard Constant",
+      "Besson Louis",
+      "Bovay Aimé",
+      "Bovay Auguste",
+      "Bovay Auguste",
+      "Bovay Alexis",
+      "Bovay Emile",
+      "Bovay François",
+      "Bovay Julien",
+      "Bovay Constant",
+      "Bürri Robert",
+      "Collet Emile",
+      "Crisinel Ulysse",
+      "Curchod Auguste",
+      "Dind Joseph",
+      "Falquet Jules",
+      "Jaquier Jules",
+      "Jaquier Justin",
+      "Jaquier Arnold",
+      "Jaquiéry Constant",
+      "Jaquiéry Henri",
+      "Jaquiéry",
+      "Jaquiéry frères",
+      "Jaquiéry Louis",
+      "Jaquiéry Robert",
+      "Jaquiéry Adrien",
+      "Krieger Alfred",
+      "Meystre Aimé",
+      "Roux Jules",
+      "Thuillard William"
+    ],
+    "Aubergiste": [
+      "Jaquier Jules"
+    ],
+    "Boulanger": [
+      "Thuillard Louis"
+    ],
+    "Charpentier": [
+      "Golay Henri"
+    ],
+    "Commission scolaire": [
+      "Bovay Aimé",
+      "Jaquier Robert",
+      "Jaquiéry Henri"
+    ],
+    "Epicerie, mercerie": [
+      "Thuillard Louis",
+      "Vienet, Vve"
+    ],
+    "Fourches (fab. de)": [
+      "Baatard Arthur"
+    ],
+    "Inspecteur du bétail": [
+      "Baatard Franç."
+    ],
+    "Instituteurs": [
+      "Schmidtmann Paul",
+      "Baatard Jeanne"
+    ],
+    "Maréchal": [
+      "Bovay Auguste"
+    ],
+    "Sociétés": [
+      "De laiterie",
+      "De la machine à battre",
+      "Syndicat d'élevage"
+    ],
+    "Téléphoniste": [
+      "Jaquier Emma"
+    ]
+  },
+  "DONNELOYE": {
+    "Autorités communales": [
+      "Billaud Paul",
+      "Monneyron Henri"
+    ],
+    "Syndic": [
+      "Viquerat Paul T."
+    ],
+    "Municipaux": [
+      "Corthésy Emile",
+      "Billaud Louis",
+      "Bezençon Arnold",
+      "Ferrot Louis",
+      "Monneyron Henri",
+      "Billaud Franç."
+    ],
+    "Agriculteurs": [
+      "Bezençon Arnold",
+      "Bezençon Justin",
+      "Bezençon Julien",
+      "Bezençon Louis",
+      "Billaud Louis",
+      "Billaud Paul",
+      "Collet Auguste",
+      "Corthésy Emile",
+      "Courvoisier Henri",
+      "Durussel Fidéli",
+      "Durussel Julien",
+      "Ferrot Emile",
+      "Ferrot Louis",
+      "Gavillet Jean",
+      "Magnenat Louis",
+      "Rosset Samuel",
+      "Rossier Louis",
+      "Staudenmann Fritz",
+      "Viquerat Eug.",
+      "Viquerat Paul T."
+    ],
+    "Aubergistes": [
+      "Duc, Vve d'Armand",
+      "Durussel Héli"
+    ],
+    "Blanchisseuses": [
+      "Mottet Jeanne",
+      "Rosset Marie"
+    ],
+    "Boulanger": [
+      "Stucky Paul"
+    ],
+    "Charcuteries": [
+      "Billaud Hack, Vve",
+      "Magnenat Edouard"
+    ],
+    "Charpentier": [
+      "Billaud Louis"
+    ],
+    "Charrons": [
+      "Rosset Alexandre",
+      "Wagnières Julien"
+    ],
+    "Chef de section": [
+      "Billaud Ls-Philip"
+    ],
+    "Commission scolaire": [
+      "Corthésy Em.",
+      "Viquerat Paul",
+      "Courvoisier Henri",
+      "Billaud François",
+      "Gilgen Ernest"
+    ],
+    "Entrepreneurs": [
+      "Ceppi & Saivetto",
+      "Tardy Lucien"
+    ],
+    "Epicerie": [
+      "Billaud-Hack Pauline Vve",
+      "Courvoisier Adèle",
+      "Fame & Baulina",
+      "Magnenat E."
+    ],
+    "Etoffes": [
+      "Fame & Baulina",
+      "Heger J."
+    ],
+    "Farine, son et maïs": [
+      "Stucky Paul"
+    ],
+    "Fromages (march. de)": [
+      "Gilgen Rodolphe"
+    ],
+    "Gypserie et peinture": [
+      "Ferrari Ed."
+    ],
+    "Horloger": [
+      "Billaud François"
+    ],
+    "Inspecteur du bétail": [
+      "Bezençon Aug."
+    ],
+    "Instituteurs": [
+      "Henry Jules",
+      "Monneyron Henri",
+      "Ferrat Lydie"
+    ],
+    "Ingénieur agricole": [
+      "Viquerat Paul"
+    ],
+    "Laiterie": [
+      "Gilgen Rod."
+    ],
+    "Mécanicien": [
+      "Billaud Constant"
+    ],
+    "Médecin": [
+      "Chollet R."
+    ],
+    "Modiste": [
+      "Billaud, Veuve"
+    ],
+    "Officier d'état-civil": [
+      "Billaud Louis"
+    ],
+    "Pasteur": [
+      "Rosset Daniel"
+    ],
+    "Poste": [
+      "Billaud Edmond"
+    ],
+    "Scieur": [
+      "Golaz Félix"
+    ],
+    "Sellier": [
+      "Jordan Félicien"
+    ],
+    "Sociétés": [
+      "De laiterie de Donneloye",
+      "Des amis du tir",
+      "Section vaudoise d'agriculture",
+      "Section de la Croix-Bleue",
+      "Syndicat agricole",
+      "Caisse Raiffeisen"
+    ],
+    "Tailleur": [
+      "Heger J. R."
+    ],
+    "Tailleuses": [
+      "Giraud Alice",
+      "Viquerat Nancy"
+    ],
+    "Téléphoniste": [
+      "Jordan Félicien"
+    ],
+    "Usine": [
+      "Golaz F."
+    ],
+    "Vétérinaire": [
+      "Kummer Frédéric"
+    ]
+  },
+  "ÉPENDES": {
+    "Autorités communales": [
+      "Massonnet Ed.",
+      "Massonnet Louis"
+    ],
+    "Syndic": [
+      "Perrin Edouard"
+    ],
+    "Municipaux": [
+      "Henry Louis",
+      "Massonnet Auguste",
+      "Massonnet Julien",
+      "Perrin Aimé",
+      "Maeder Fritz",
+      "Massonnet Jean"
+    ],
+    "Agriculteurs": [
+      "Gueydan",
+      "Massonnet frères",
+      "Massonnet Julien",
+      "Massonnet Edouard",
+      "Perrin Edouard"
+    ],
+    "Apiculteur": [
+      "Massonnet Jean"
+    ],
+    "Cafetiers": [
+      "Chevalier Justin",
+      "Massonnet Jean"
+    ],
+    "Charpentier": [
+      "Henry Gustave"
+    ]
+  }
+}

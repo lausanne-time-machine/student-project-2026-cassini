@@ -1,0 +1,368 @@
+{
+  "BLONAY": {
+    "Boulangers": [
+      "Henry Louis",
+      "Mayor Louis",
+      "Rossier G."
+    ],
+    "Cafés": [
+      "Bonjour Ern.",
+      "Chollet Edouard",
+      "Gyger Samuel",
+      "Haller Albert",
+      "Koehler René",
+      "Rey-Vouilloz A.",
+      "Sieber Pierre",
+      "Vuadens Elise"
+    ],
+    "Camionneurs": [
+      "Bonjour Rodolphe",
+      "Vuadens Robert"
+    ],
+    "Carrière": [
+      "Savoy Louis"
+    ],
+    "Cercueils": [
+      "Dupraz Robert"
+    ],
+    "Chalets particuliers": [
+      "Audéoud Marie",
+      "S. de Blonay",
+      "C. Heldt",
+      "Tusinge",
+      "Townley Ed.",
+      "Mme de Lacroix",
+      "M. Bitter",
+      "de Neufville",
+      "Schaal Lucien",
+      "Hemmerich K.-C.",
+      "Paternott M.",
+      "J. Ryff",
+      "Teesdale",
+      "Ulrich Théodore",
+      "Wenger Eugène",
+      "Gilbey-Nussbaum",
+      "Fawcus Emma",
+      "Dovat Ad.",
+      "Zimmermann Alfred",
+      "Delafontaine Eugène",
+      "G. Chaudet",
+      "Frauenfelder",
+      "Jaeger Cécil",
+      "Mercier Alfred",
+      "Dr Karl Oppenheim",
+      "Vuadens Jenny",
+      "Aleinicov E.",
+      "E. Wanner",
+      "Dr Mesnard",
+      "P. Fivaz",
+      "Guyot J.",
+      "Hayoz H.",
+      "Hosslé Ch.",
+      "Koechlin-Rosier René",
+      "Girod P.",
+      "Monnet J.",
+      "Cedra S. A.",
+      "de Palézieux André",
+      "Sieber P.",
+      "Hosslé Ch."
+    ],
+    "Charpentiers": [
+      "Dupraz Robert",
+      "Felley Henri",
+      "Vuadens frères"
+    ],
+    "Charron": [
+      "Margot Alexis"
+    ],
+    "Chaussures": [
+      "Chabloz Louis"
+    ],
+    "Clinique (tuberculose)": [
+      "Pavillon de Mottex"
+    ],
+    "Coiffeurs": [
+      "Turin E.",
+      "Moret Hri"
+    ],
+    "Combustibles": [
+      "Bonjour Rodolphe",
+      "Vuadens Robert"
+    ],
+    "Comptables": [
+      "Guex-Bovey Louis",
+      "Muller Ernest"
+    ],
+    "Contrôle des boissons et denrées alimentaires": [
+      "Müller Ernest"
+    ],
+    "Cordonniers": [
+      "Christinat Gustave",
+      "Pasquerro Jean",
+      "Schutz Fritz"
+    ],
+    "Couturières": [
+      "Bonjour-Musy Louise",
+      "Bonjour Susanne",
+      "Bonjour-Aubort Suzanne",
+      "Dupraz Emilie",
+      "Mamin Germaine",
+      "Pilet Léa"
+    ],
+    "Crèmerie-Tea-room": [
+      "Bonjour Bertha",
+      "Trolliet Eugénie"
+    ],
+    "Droguerie": [
+      "Henry Louis",
+      "Perret Julia"
+    ],
+    "Ecoles particulières": [
+      "Nussbaum"
+    ],
+    "Electriciens": [
+      "Yersin Emile",
+      "Clerc Georges",
+      "Soc. romande d'Electricité"
+    ],
+    "Engrais chimiques": [
+      "Guex Louis"
+    ],
+    "Entrepreneurs": [
+      "Mamin François",
+      "Maradan Casimir",
+      "Vuadens Henri et fils"
+    ],
+    "Epiceries-merceries": [
+      "Henry L.",
+      "Perret Julia",
+      "Mayor Louis",
+      "Chabloz Louis",
+      "Rossier Georges",
+      "Fontannaz Sel."
+    ],
+    "Ferblantier-couvreur": [
+      "Durini Alf.",
+      "Montet Félix"
+    ],
+    "Fers et quincaillerie": [
+      "Henry L."
+    ],
+    "Fromages": [
+      "Laiterie de Blonay",
+      "Fontannaz Samuel"
+    ],
+    "Gypsiers-peintres": [
+      "Crosa Jean",
+      "Jaccaud B."
+    ],
+    "Horlogerie": [
+      "Aubert Aug.",
+      "Mathez Emile"
+    ],
+    "Hôtels-pensions": [
+      "Bonjour-Serex Ernest",
+      "Barillon Mlle",
+      "Bonjour Adolphe",
+      "Moser Jean",
+      "Gyger Samuel",
+      "Trolliet Eugénie",
+      "Bonjour Louisa",
+      "Lally Haller Abert",
+      "Steiger Mlle",
+      "E. Rickli",
+      "Dufaux, Mlle.",
+      "Horisberger, Louise",
+      "Wenger Eug."
+    ],
+    "Ingénieurs": [
+      "Dénéréaz Louis",
+      "Dind Pierre"
+    ],
+    "Jardiniers": [
+      "Huck Charles",
+      "Huck, Veuve de William",
+      "Tinembart Max"
+    ],
+    "Laiteries": [
+      "Chabloz Robert",
+      "Fontannaz Samuel",
+      "Pilloud Victor",
+      "Société de laiterie de Blonay"
+    ],
+    "Librairie": [
+      "Perret Julia"
+    ],
+    "Lingères": [
+      "Dupraz Emilie",
+      "Pilet Léa"
+    ],
+    "Maréchal": [
+      "Morier Louis"
+    ],
+    "Mécaniciens": [
+      "Clerc Georges",
+      "Vuadens Robert",
+      "Yersin Emile"
+    ],
+    "Médecin": [
+      "Dunant J."
+    ],
+    "Menuisiers": [
+      "Dupraz Robert",
+      "Felley Henri",
+      "Richoz Pierre",
+      "Vuadens frères"
+    ],
+    "Pensions d'enfants": [
+      "Guggenheim-Bonjour Marguerite",
+      "Nussbaum Robert",
+      "La Pouponnière",
+      "Dupuis, Mme."
+    ],
+    "Pharmacie": [
+      "Henry Louis"
+    ],
+    "Primeurs": [
+      "Tinembart Max"
+    ],
+    "Radio-gramo.": [
+      "Clerc Georges"
+    ],
+    "Sable et gravier": [
+      "Mamin François"
+    ],
+    "Sage-femme": [
+      "Capt Lina"
+    ],
+    "Scierie": [
+      "Felley Henri"
+    ],
+    "Selliers": [
+      "Broyon Emile",
+      "Pidoux Edmond"
+    ],
+    "Serrurier": [
+      "Morier Louis",
+      "Durini Alfred"
+    ],
+    "Sociétés": [
+      "Association viticole",
+      "Société coopérative de laiterie de Villard sur La Tour-de-Peilz",
+      "Sté des copropriétaires des estivages de Saudanaz",
+      "Sté des copropriétaires des montagnes des Riaux",
+      "Sté de laiterie de Blonay",
+      "Sté de la laiterie des Chevalleyres",
+      "Sté de la montagne de Praz-Cagniard"
+    ],
+    "Tailleur": [
+      "Broggio Charly"
+    ],
+    "Tapissiers": [
+      "Crosa Jean",
+      "Jaccaud Bertrand"
+    ],
+    "Tricoteuse (à la machine)": [
+      "Morand, Mme."
+    ],
+    "Vélos, motos": [
+      "Clerc G.",
+      "Vuadens Robert",
+      "Yersin Emile"
+    ],
+    "Vignerons": [
+      "Bonjour Louis",
+      "Bonjour Samuel",
+      "Détraz Charles",
+      "Dupraz-Messerli Alfred",
+      "Dupraz-Balmer Alfred",
+      "Favre Otto",
+      "Genevey Adrien",
+      "Henchoz-Pilliod Jules",
+      "Joly Alfred",
+      "Junod Ed.",
+      "Vuadens Robert"
+    ],
+    "Vins (comm. de)": [
+      "Guex-Hirschy Ls",
+      "Association Viticole",
+      "Pilliod Robert"
+    ],
+    "Viticulteurs (propriétaires)": [
+      "Bonjour Rodolphe",
+      "Pilliod Robert",
+      "Perret Emile",
+      "Guex-Hirschy Louis",
+      "Montandon Ulysse"
+    ],
+    "Voiturier": [
+      "Cardinaux Robert"
+    ],
+    "Divers": [
+      "Bertholet C.",
+      "Du Bois Robert",
+      "Dufour Auguste",
+      "Ferrière Adolphe",
+      "Friedli Elisa",
+      "Teesdale H.",
+      "Weber Robert"
+    ]
+  },
+  "BOFFLENS": {
+    "Syndic": [
+      "Charles Isaac"
+    ],
+    "Secrétaire": [
+      "Gonin François"
+    ],
+    "Boursier": [
+      "Duruz Henri"
+    ],
+    "Huissier": [
+      "Burnat Louis"
+    ],
+    "Municipaux": [
+      "Berthoud Pierre-Henri",
+      "Clerc Frédéric fils",
+      "Besson Emile",
+      "Duruz Lucien"
+    ],
+    "Chef de section à Romainmôtier": [
+      "Berthoud Eugène"
+    ],
+    "Commandant du feu": [
+      "Fauchez Jules"
+    ],
+    "Commission scolaire": [
+      "Clerc Albert",
+      "Berthoud Eugène"
+    ],
+    "Garde-forestier": [
+      "Fauchez Jules"
+    ],
+    "Inspecteur du bétail": [
+      "Duruz Henri"
+    ],
+    "Inspecteur des viandes": [
+      "Fauchez Julien"
+    ],
+    "Instituteurs": [
+      "Reymond Ch.",
+      "Hoffer Martha"
+    ],
+    "Officier d'état civil": [
+      "Léonard G."
+    ],
+    "Police (agent de)": [
+      "Berthoud Paul"
+    ],
+    "Poste": [
+      "Berthoud Marguerite"
+    ],
+    "Agriculteurs": [
+      "Berthoud Adolphe",
+      "Berthoud Hri-Samuel",
+      "Berthoud P."
+    ]
+  }
+}

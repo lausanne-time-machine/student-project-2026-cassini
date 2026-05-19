@@ -1,0 +1,244 @@
+{
+  "AIGLE": {
+    "Aviculteur": [
+      "Bolay Ernest"
+    ],
+    "Auberges et cafés": [
+      "Landry Franc.",
+      "Tissot Constant"
+    ],
+    "Balais (fab. de.)": [
+      "Zimmermann Louis",
+      "Zimmermann Ulysse"
+    ],
+    "Bestiaux (march. de)": [
+      "Bataillard Ch.",
+      "Bolay John"
+    ],
+    "Blanchisseuse": [
+      "Nicole Suzanne"
+    ],
+    "Bois (march. de)": [
+      "Bolay John",
+      "Pittet Alfred"
+    ],
+    "Boulanger": [
+      "Trachsel Charles"
+    ],
+    "Charron": [
+      "Zimmermann Jules"
+    ],
+    "Chef de section": [
+      "Cochet Jules"
+    ],
+    "Chevaux (éleveurs de)": [
+      "Bussy Emile",
+      "Aubert Alfred"
+    ],
+    "Chaussures et chapellerie": [
+      "Monot Eugène"
+    ],
+    "Commission scolaire": [
+      "Tardy Georges",
+      "Bolay Ernest"
+    ],
+    "Cordonnier": [
+      "Cornamusaz Henri"
+    ],
+    "Entrepreneur": [
+      "Cortellini. R."
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Aubert sœurs",
+      "Cottier, Mlles. R.",
+      "Monot Eugène"
+    ],
+    "Fers": [
+      "Monot Eugène"
+    ],
+    "Gypsier-Peintre": [
+      "Castelli Charles"
+    ],
+    "Inspecteur du bétail": [
+      "Tardy Maur."
+    ],
+    "Instituteurs": [
+      "Bolay Ernest",
+      "Basset Emma",
+      "Chamot Julie"
+    ],
+    "Maréchaux": [
+      "Prévost Léopold",
+      "Tardy Théophile"
+    ],
+    "Médecin": [
+      "Borel Henri"
+    ],
+    "Menuisier": [
+      "Bornoz Louis"
+    ],
+    "Officier d'état-civil": [
+      "Krieg Emile"
+    ],
+    "Pasteur": [
+      "Barblan Louis"
+    ],
+    "Pension d'été": [
+      "Mouquin Anna"
+    ],
+    "Pépiniériste": [
+      "Zimmermann Arthur"
+    ],
+    "Poste": [
+      "Gaudin Albert",
+      "Bolay Gustave"
+    ],
+    "Sage-femme": [
+      "Favre Hélène, Dlle."
+    ],
+    "Selliers": [
+      "Mettler Johannes",
+      "Surber Antoine"
+    ],
+    "Sociétés": [
+      "Caisse du Crédit mutuel",
+      "Société du poids public",
+      "De fromagerie l'Union",
+      "De tir",
+      "De chant",
+      "Syndicat agricole",
+      "Société du battoir à grains"
+    ],
+    "Tailleuses": [
+      "Aubert Lina",
+      "Aubert Fanny",
+      "Amstutz Marie",
+      "Bachelard-Fuchs Louise",
+      "Pittet Louise"
+    ],
+    "Téléphoniste": [
+      "Cottier, Mlle."
+    ],
+    "Tuiliers": [
+      "Pittet frères"
+    ],
+    "Divers": [
+      "Bachelard Jean",
+      "Pittet-Depallens"
+    ]
+  },
+  "PENTHALAZ": {
+    "Autorités communales": [
+      "Epars Alexis",
+      "Epars William",
+      "Epars Georges",
+      "Beorgeaud Henri",
+      "Porchat Alexis",
+      "Duboux Charles",
+      "Schopfer Emile",
+      "Noverraz Marcel"
+    ],
+    "Agriculteurs": [
+      "Bezençon Georges",
+      "Borgeaud Adolphe",
+      "Borgeaud Ch.",
+      "Borgeaud Henri",
+      "Burla frères",
+      "Epars Emile",
+      "Epars Albert et Fernand",
+      "Epars Eugène",
+      "Epars frères",
+      "Epars Georges",
+      "Gilliéron Alphonse",
+      "Gonet Charles",
+      "Meylan Eug.",
+      "Magnenat Alb.",
+      "Rochat Paul",
+      "Porchat Alexis",
+      "Séchaud Ami",
+      "Schopfer Emile"
+    ],
+    "Apiculteurs": [
+      "Borgeaud Henri",
+      "Epars Gustave",
+      "Schopfer Emile"
+    ],
+    "Architecte": [
+      "Cerutti Humbert"
+    ],
+    "Aubergistes": [
+      "Dony Alfred",
+      "Margairaz C.",
+      "Mercier Aimé"
+    ],
+    "Bois (march. de)": [
+      "Mercier A."
+    ],
+    "Boulanger": [
+      "Margairaz Constant"
+    ],
+    "Câbles électriques (fab. de)": [
+      "Aubert, Grenier & Cie"
+    ],
+    "Commission scolaire": [
+      "Schumacher",
+      "Epars Armand",
+      "Epars Albert"
+    ],
+    "Couturières": [
+      "Millioud, dame",
+      "Mottaz Edouard, dame"
+    ],
+    "Engrais chimiques": [
+      "Dony Alfred",
+      "Mercier Aimé"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Epars Veuve",
+      "Margairaz Const.",
+      "Société coopérative de consommation"
+    ],
+    "Gypse (march. de)": [
+      "Dony Alfred",
+      "Mercier Aimé"
+    ],
+    "Inspecteur du bétail": [
+      "Borgeaud Ch."
+    ],
+    "Instituteurs": [
+      "Dony Henri",
+      "Brouty Alice"
+    ],
+    "Laitier": [
+      "Société de laiterie"
+    ],
+    "Maréchal": [
+      "Fauchs Alb."
+    ],
+    "Meuniers": [
+      "Amaudruz L. & Cie"
+    ],
+    "Poste": [
+      "Girardet Henri"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "Coopérative de consommation",
+      "Agricole",
+      "Immobilière de Cossonay-Gare"
+    ],
+    "Téléphoniste": [
+      "Margairaz Constant"
+    ]
+  },
+  "PENTHAZ": {
+    "Autorités communales": [
+      "Bastian Fern.",
+      "Corbaz Louis",
+      "Platel Léopold",
+      "Bastian Eugène",
+      "Hählen Marcel",
+      "Millioud Marcel"
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "OLLON": {
+    "Bazars": [
+      "Peytrignet S. T.",
+      "Sautaux Fernand"
+    ],
+    "Blanchisseuses": [
+      "Bertarionne Félix",
+      "Dübi A."
+    ],
+    "Bonneterie": [
+      "Erranti Rose"
+    ],
+    "Boucher-charcut.": [
+      "Dupertuis G. T.",
+      "Grimm Walter"
+    ],
+    "Boulanger": [
+      "Heiz Hermann"
+    ],
+    "Cafés": [
+      "Aegerter Gottlieb",
+      "Bohren-Weber Ch."
+    ],
+    "Camionneur": [
+      "de Grüningen",
+      "Pidoux Albert, fils"
+    ],
+    "Charpentiers": [
+      "Dubi Léon",
+      "Jouvenat Marcel"
+    ],
+    "Charron": [
+      "Roud Alphonse"
+    ],
+    "Chaudronnier": [
+      "Cossetto M."
+    ],
+    "Chaussures": [
+      "Moser E."
+    ],
+    "Coiffeur": [
+      "Monod Maurice"
+    ],
+    "Combustibles": [
+      "Chessex & Eternod",
+      "Diserens S. A.",
+      "Bertarionne Louis",
+      "Mottier F."
+    ],
+    "Cordonnier": [
+      "Chioccetti Jos."
+    ],
+    "Couturières": [
+      "Cosandey Yvonne",
+      "von Gruningen Antoinette"
+    ],
+    "Crèmerie-tea-room": [
+      "Wagner Ad."
+    ],
+    "Epiceries": [
+      "Chard M.",
+      "Heiz H.",
+      "Isabel Jean",
+      "Monod-Bussard, Mme",
+      "Moser L.",
+      "Soc. coop. de consommation"
+    ],
+    "Ferblantier": [
+      "Dormond Louis"
+    ],
+    "Pers, quincaillerie.": [
+      "Moser L."
+    ],
+    "Garde-malade": [
+      "Borel Cath."
+    ],
+    "Gaz": [
+      "Sté du Gaz, Vallée du Rhône"
+    ],
+    "Gypserie-peinture": [
+      "Adler Henri",
+      "Polonghini M.",
+      "Ruchet Alphonse"
+    ],
+    "Laiterie": [
+      "Laiterie modèle"
+    ],
+    "Librairie-papeterie": [
+      "Peytrignet"
+    ],
+    "Mécanicien": [
+      "Cosandey L."
+    ],
+    "Médecin": [
+      "Brémond J."
+    ],
+    "Menuisiers": [
+      "Dubi Léon et fils",
+      "Jouvenat Marcel",
+      "Dubi Alfred, fils",
+      "Pittier Henri"
+    ],
+    "Primeurs": [
+      "Breitenmoser Antoine",
+      "Chard Marcel",
+      "Gavillet Robert",
+      "Isabel-Roux"
+    ],
+    "Pension ouvrière": [
+      "Dormond Louis"
+    ],
+    "Sages-femmes": [
+      "Bonzon Esther",
+      "Durand Marie, dame"
+    ],
+    "Scierie": [
+      "Mœsching Aimé"
+    ],
+    "Sellier-tapissier": [
+      "Treyvaud Eugène"
+    ],
+    "Tapissier": [
+      "Treyvaud Eug."
+    ],
+    "Voiturier": [
+      "Bonzon Gustave"
+    ],
+    "Hôtels": [
+      "Beau-Site",
+      "Belvédère",
+      "Chamossaire",
+      "Le Cerf",
+      "Le Soleil"
+    ],
+    "Pensions": [
+      "Beau-Séjour",
+      "Bon Accueil",
+      "Chamois",
+      "Floréal",
+      "La Bruyère",
+      "Les Cytises",
+      "Les Fougères",
+      "Gentiana",
+      "La Nouvelle",
+      "Les Oisillons",
+      "La Prairie",
+      "Pension Eugénie",
+      "Richemont"
+    ],
+    "Pensions d'enfants": [
+      "Alpina",
+      "Chalet les Mioches",
+      "Bonnard",
+      "Evelyn",
+      "Gai Matin",
+      "La Lécherette",
+      "Les Genêts",
+      "Maisonnette.",
+      "Le Chaperon Rouge",
+      "Les Marmousets",
+      "Mickey-House",
+      "Mont-Choisi",
+      "St-Louis, home-école.",
+      "Petit-Poucet",
+      "Chalet Bien-Choisi"
+    ],
+    "Sociétés": [
+      "Caisse d’assurances du bétail de Chesières; Villars, Arveyes (1er arr.)",
+      "Sté pour le développement de Villars, Chesières, Arveyes",
+      "Sté immob. de Chesières.",
+      "Syndicat agricole et d’élevage de Chesières-Villars."
+    ],
+    "Divers": [
+      "Amiguet Ed. et F.",
+      "de Bioncourt",
+      "Bonzon Henri",
+      "Brunner Henriette",
+      "Castan M.",
+      "Faillettaz Rob.",
+      "Diserens F.",
+      "Schœlly-Braun",
+      "Zaino"
+    ]
+  },
+  "LES COMBES-AULIENS": {
+    "Poste": [
+      "Anex Henri"
+    ],
+    "Agriculteurs": [
+      "Anex Henri",
+      "Chappot Ed.",
+      "Golaz Numa.",
+      "Maerki Marcel"
+    ]
+  },
+  "EXERGILLOD": {
+    "Agriculteurs": [
+      "Bertholet Constant.",
+      "Bonzon Emile",
+      "Bonzon Hubert",
+      "Chamorel Alexis"
+    ]
+  },
+  "LES FONTAINES": {
+    "Agriculteurs": [
+      "Blum Ami",
+      "Butticaz Louis",
+      "Daven Rémy",
+      "Moret Adr.",
+      "Moret Alexis",
+      "Moret Jean"
+    ]
+  },
+  "FORCHEX": {
+    "Agriculteurs": [
+      "Moret Auguste",
+      "Moret-Monnard Henri",
+      "Croset Paul"
+    ]
+  },
+  "GLUTIERE-LA POUSAZ": {
+    "Agriculteurs": [
+      "Bettler Robert",
+      "Gallaz Charles",
+      "Jouvenat Adrien",
+      "Jouvenat Henri",
+      "Monnard Eugène",
+      "Roud Alexis",
+      "Zeller Albert"
+    ]
+  },
+  "HUEMOZ": {
+    "Municipal": [
+      "Roud Eugène"
+    ],
+    "Garde-forestier": [
+      "Mœsching Ch."
+    ],
+    "Inspecteur du bétail": [
+      "Dormond Jules"
+    ],
+    "Instituteurs": [
+      "Rapp Samuel",
+      "Pitton, Mlle."
+    ],
+    "Officier d'état-civil": [
+      "Dulex-Anex Em."
+    ],
+    "Pasteurs": [
+      "Rouge Robert"
+    ],
+    "Poste": [
+      "Anex Elisa"
+    ],
+    "Agriculteurs": [
+      "Anex Louis d'Emile",
+      "Baudy Louis",
+      "Borloz Louis",
+      "Cropt Gabriel",
+      "Dulex Emile",
+      "Dulex Gustave",
+      "Gétaz Alfred",
+      "Guex Henri",
+      "Jaquerod Franç.",
+      "Moret Henri-Ls",
+      "Moret-Maerki",
+      "Monnard-Moret Eugène",
+      "Pastor Edouard",
+      "Roud Eugène",
+      "Ruchet Albert",
+      "Ruchet Henri",
+      "Ruchet Emile",
+      "Turelli Hri"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite, Rapp S."
+    ],
+    "Blanchisseuse": [
+      "Grosjean-Wursten"
+    ],
+    "Café": [
+      "Dulex Emilie"
+    ],
+    "Epicerie-mercerie": [
+      "Anex Alfred",
+      "Pellaton J."
+    ],
+    "Gaz": [
+      "Sté Gaz, Vallée du Rhône"
+    ],
+    "Guide patenté": [
+      "Anex Alfred"
+    ],
+    "Maréchal": [
+      "Tille Alexis"
+    ],
+    "Tea room": [
+      "Robert Paul"
+    ],
+    "Pensions": [
+      "Bellevue",
+      "Les Frênes",
+      "Pension-rest. du Raisin"
+    ],
+    "Divers": [
+      "Barraud E.",
+      "Grosjean S.",
+      "Hoffmann, Vve de J.",
+      "Paschoud André"
+    ]
+  },
+  "PALLUEYRES": {
+    "Agriculteurs": [
+      "Anex-Bongard Hri",
+      "Sauge André",
+      "Sumi Robert",
+      "Voutaz Ferdinand"
+    ]
+  }
+}

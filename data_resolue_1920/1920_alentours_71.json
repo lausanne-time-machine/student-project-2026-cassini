@@ -1,0 +1,219 @@
+{
+  "CHAVANNES-SUR-MOUDON": {
+    "Apiculteurs": [
+      "Gavin Louis",
+      "Raccoursier Oscar",
+      "Veyre Marcel"
+    ],
+    "Café.": [
+      "La Couronne"
+    ],
+    "Charpentiers.": [
+      "Dutoit Aloïs",
+      "Pidoux Ulysse"
+    ],
+    "Charron.": [
+      "Dutoit Eugène"
+    ],
+    "Commission scolaire.": [
+      "Duc Julien",
+      "Gavin Louis",
+      "Duc Henri"
+    ],
+    "Cordonnier.": [
+      "Chevalley Aimé"
+    ],
+    "Couturière.": [
+      "Duc Uranie"
+    ],
+    "Epicerie, mercerie.": [
+      "Dutoit Ulysse"
+    ],
+    "Inspecteur du bétail.": [
+      "Dutoit Robert"
+    ],
+    "Instituteurs.": [
+      "Raccoursier Oscar",
+      "Rochat Hélène"
+    ],
+    "Sociétés.": [
+      "Société d'assurance contre les pertes du bétail",
+      "Fromagerie. R.",
+      "Tir",
+      "Jeunesse",
+      "Bibliothèque",
+      "Chant"
+    ],
+    "Téléphoniste.": [
+      "Duc Marie"
+    ]
+  },
+  "CHESALLES-SUR-MOUDON": {
+    "Autorités communales.": [
+      "Gilliard Siméon",
+      "Pidoux Marcel",
+      "Oulevey Paul",
+      "Gillard Emile",
+      "Dutoit Arnold",
+      "Dutoit Constant",
+      "Dutoit Arn."
+    ],
+    "Agriculteurs.": [
+      "Besson Jules",
+      "Durussel Gustave",
+      "Dutoit Arnold",
+      "Dutoit Constant",
+      "Gilliard frères",
+      "Hofmann Friedrich",
+      "Oulevey Paul",
+      "Pidoux Alcide",
+      "Pidoux Marcel",
+      "Sonnay Aimé"
+    ],
+    "Charron.": [
+      "Woodtli Jacques"
+    ],
+    "Commission scolaire.": [
+      "Vuilleumier M.",
+      "Durussel Jules"
+    ],
+    "Cordonnier.": [
+      "Durussel Emile"
+    ],
+    "Inspecteur du bétail.": [
+      "Dutoit Const."
+    ],
+    "Institutrice.": [
+      "Saillet-Rieder Marie"
+    ],
+    "Pasteur.": [
+      "Vuilleumier Maurice"
+    ],
+    "Poste.": [
+      "Oulevey Paul"
+    ],
+    "Sociétés.": [
+      "De fromagerie. R.",
+      "De la machine à battre. R."
+    ],
+    "Téléphone.": [
+      "Durussel Jules"
+    ],
+    "Voiturier.": [
+      "Chevalley Constant"
+    ]
+  },
+  "CORREVON": {
+    "Autorités communales.": [
+      "Pahud Jules",
+      "Pahud Héli",
+      "David Samuel",
+      "Bettex Armand",
+      "Pahud Arnold",
+      "Pahud Alfred",
+      "Prahin Emile",
+      "Pidoux Fernand",
+      "Pahud Arnold"
+    ],
+    "Agriculteurs.": [
+      "Bettex Armand",
+      "Bovay Ulysse",
+      "Chevalley Emile",
+      "David Sam.",
+      "Devallonné Alexis",
+      "Devallonné Ulysse",
+      "Laurent Jules",
+      "Margairaz Henri",
+      "Meystre Ct",
+      "Mottaz Alphonse",
+      "Pahud Aloïs",
+      "Pahud Ami",
+      "Pahud Alfred",
+      "Pahud Arnold",
+      "Pahud Louis",
+      "Pahud Jules",
+      "Pidoux Eugène",
+      "Prahin Héli"
+    ],
+    "Commission scolaire.": [
+      "Vittoz A.",
+      "David Samuel",
+      "Pidoux Fernand"
+    ],
+    "Cordonniers.": [
+      "Meystre Constant",
+      "Dutoit Ulysse"
+    ],
+    "Inspecteur du bétail.": [
+      "Prahin Héli"
+    ],
+    "Instituteurs.": [
+      "Badoux Marcel",
+      "Pahud Louise"
+    ],
+    "Sociétés.": [
+      "De laiterie. R.",
+      "De la bibliothèque."
+    ],
+    "Téléphone.": [
+      "Pahud Louise"
+    ]
+  },
+  "CREMIN": {
+    "Autorités communales.": [
+      "Bessard Olivier",
+      "Krummen Ernest",
+      "Badoux Eugène",
+      "Krummen Fritz",
+      "Augsburger Fritz",
+      "Badoux Louis",
+      "Goy Henri",
+      "Bessard Olivier",
+      "Bessard Max"
+    ],
+    "Agriculteurs.": [
+      "Aebersold Edouard",
+      "Augsburger Samuel",
+      "Badoux enfants d'Alfred",
+      "Badoux frères",
+      "Bessard Olivier",
+      "Fivaz Edouard",
+      "Goy Henri",
+      "Krummen Fritz",
+      "Liechti Ernest"
+    ],
+    "Apiculteurs.": [
+      "Badoux, enfants d'Alfred",
+      "Bessard Fernand",
+      "Badoux Eugène"
+    ],
+    "Commission scolaire.": [
+      "Bessard Olivier",
+      "Augsburger Lina",
+      "Goy Henri"
+    ],
+    "Inspecteur du bétail.": [
+      "Badoux Const."
+    ],
+    "Institutrice.": [
+      "Monod Alice"
+    ],
+    "Société.": [
+      "De la fromagerie. R."
+    ],
+    "Téléphone.": [
+      "Badoux, Dlle."
+    ],
+    "Usine à battre le blé et pilon pour os.": [
+      "Krummen Fritz"
+    ]
+  },
+  "CURTILLES": {
+    "Autorités communales.": [
+      "Clot François",
+      "Sonnard Justin",
+      "Déglon Louis",
+      "Clot Alfred"
+    ]
+  }
+}

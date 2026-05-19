@@ -1,0 +1,355 @@
+{
+  "TREY": {
+    "Syndic": [
+      "Cornamusaz Marcel"
+    ],
+    "Secrétaire": [
+      "Cornamusaz Daniel"
+    ],
+    "Boursier": [
+      "Decrousaz Auguste"
+    ],
+    "Huissier": [
+      "Crausaz Ad."
+    ],
+    "Municipaux": [
+      "Chatelanat Robert",
+      "De Crousaz Oscar",
+      "Fague Aimé",
+      "Fague Gédéon",
+      "Peytregnet Alfred",
+      "Thonney Alfred"
+    ],
+    "Assesseur": [
+      "Pages Constant"
+    ],
+    "Cantonnier": [
+      "Cornamusaz François"
+    ],
+    "Chef de gare": [
+      "Baechler Germain"
+    ],
+    "Command. du feu": [
+      "Peytregnet Alf."
+    ],
+    "Commission scolaire": [
+      "Badoux Constant"
+    ],
+    "Gare C. F. F. (chef de)": [
+      "Baechler Germain"
+    ],
+    "Greffier": [
+      "Cornamusaz Daniel"
+    ],
+    "Inspecteur du bétail": [
+      "Decrousaz Osc"
+    ],
+    "Inspecteur des viandes": [
+      "Fague Aimé"
+    ],
+    "Instituteur": [
+      "Bassin Paul"
+    ],
+    "Poste et télégraphe": [
+      "de Crousaz Chs"
+    ],
+    "Agriculteurs": [
+      "Chatelanat Aloïs",
+      "Chatelanat Emile",
+      "Cornamusaz Ls",
+      "Cornamusaz Marcel",
+      "Crausaz Alfred",
+      "Crausaz Const.",
+      "Crausaz Ulysse",
+      "Decrousaz Aug.",
+      "Decrousaz César",
+      "Decrousaz Oscar",
+      "Estoppey Ct",
+      "Estoppey Jean",
+      "Estoppey Maur.",
+      "Fague Aimé",
+      "Fague Alf.",
+      "Fague Gédéon",
+      "Fague Paul",
+      "Gilliard Marcel",
+      "Jaquet Adrien",
+      "Jaccottet Henri",
+      "Nydegger Gottfried",
+      "Pages Louis. T.",
+      "Rochat Auguste",
+      "Rossat Adolphe",
+      "Salomon Léopold",
+      "Streit Fritz",
+      "Schaffroth Fritz",
+      "Wenger Gottfried",
+      "Wyssa Emile"
+    ],
+    "Bouchers": [
+      "Fague Aimé",
+      "Rochat Auguste"
+    ],
+    "Boulanger": [
+      "Pochon Maurice"
+    ],
+    "Café": [
+      "Martignier Ida"
+    ],
+    "Charpentier": [
+      "Augsbourg Louis"
+    ],
+    "Cordonnier": [
+      "Vuagniaux Constant"
+    ],
+    "Epiceries, merceries": [
+      "Augsbourg Ls",
+      "Caillet Hri. R.",
+      "Weber Arn."
+    ],
+    "Menuisier": [
+      "Caillet Henri"
+    ],
+    "Pensionnat": [
+      "Cornamusaz-Jaccottet"
+    ],
+    "Pompes funèbres du Nord": [
+      "Caillet Henri"
+    ],
+    "Sociétés": [
+      "Sté du battoir à blé. R.",
+      "Sté de laiterie et fromagerie",
+      "Syndicat agricole. R."
+    ]
+  },
+  "TREYCOVAGNES": {
+    "Syndic": [
+      "Moser Fritz. T."
+    ],
+    "Secrétaire": [
+      "Aegler Adolphe"
+    ],
+    "Boursier": [
+      "Champod André"
+    ],
+    "Huissier": [
+      "Groux Ferdinand"
+    ],
+    "Municipaux": [
+      "Baudat Robert",
+      "Berney Maurice",
+      "Comte Robert",
+      "König Werner. T."
+    ],
+    "Assesseur": [
+      "Comte Robert"
+    ],
+    "Commandant du feu": [
+      "Balzli Edouard, fils"
+    ],
+    "Commission scolaire": [
+      "Berney Maurice"
+    ],
+    "Garde-forestier": [
+      "Junod Robert"
+    ],
+    "Inspecteur du bétail": [
+      "Henny Frs."
+    ],
+    "Instituteurs": [
+      "Stuby David",
+      "Champod Marie"
+    ],
+    "Police (agent de)": [
+      "Champod André"
+    ],
+    "Poste": [
+      "Champod Adrienne, Mme"
+    ],
+    "Téléphone": [
+      "Moser Fritz"
+    ],
+    "Agriculteurs": [
+      "Baudat frères",
+      "Berney Maurice",
+      "Bovay Jules",
+      "Champod André",
+      "Comte Robert",
+      "Comte Louis",
+      "Groux Ferdinand",
+      "Henny Jaques",
+      "Jeanneret Constant",
+      "König Werner",
+      "Moser frères. T.",
+      "Pillonel, hoirie de John",
+      "Truan Emile"
+    ],
+    "Apiculteurs": [
+      "Comte Henri",
+      "Moser Gottlieb",
+      "Wegmann Rodolphe"
+    ],
+    "Assurance-vieillesse": [
+      "Stuby David"
+    ],
+    "Boulangerie (dépôt)": [
+      "Wegmann-Zwahlen Rod."
+    ],
+    "Laitier": [
+      "Zwahlen Otto"
+    ],
+    "Serrurier-chaudronnier": [
+      "Viglino Ant."
+    ],
+    "Vignerons": [
+      "Berney Henri",
+      "Berney Louis",
+      "Bovay Jules",
+      "Baudat frères",
+      "Comte Robert",
+      "Comte Ls",
+      "Groux Ferdinand",
+      "Henny Jacques",
+      "Jeanneret Constant",
+      "Moser frères"
+    ]
+  },
+  "Hameau du Châtelard": {
+    "Agriculteurs": [
+      "Balzli-Pillevuit Ed. T.",
+      "Petitpierre Jules",
+      "Rod Robert",
+      "Balzli-Baatard Charles"
+    ],
+    "Café": [
+      "Balzli-Beausire Edouard"
+    ],
+    "Entrepr. et transp., expl. carrières du Châtelard": [
+      "Petitpierre Jules. T."
+    ],
+    "Société": [
+      "Société de laiterie. R."
+    ],
+    "Sucrerie d'Aarberg": [
+      "König Werner"
+    ],
+    "Vignerons": [
+      "Balzli-Pillevuit Edouard. T.",
+      "Balzli-Baatard Charles"
+    ]
+  },
+  "TREYTORRENS": {
+    "Syndic": [
+      "Mermoud Henri. T."
+    ],
+    "Secrétaire": [
+      "Frider Numa"
+    ],
+    "Boursier": [
+      "Chevalley Aimé"
+    ],
+    "Huissier": [
+      "Correvon Max"
+    ],
+    "Municipaux": [
+      "Charbon Hermann",
+      "Frider Emile",
+      "Jaquier Marius",
+      "Mermoud Auguste"
+    ],
+    "Assesseur": [
+      "Correvon Aimé"
+    ],
+    "Commandant du feu": [
+      "Jaquier Marius"
+    ],
+    "Commission scolaire": [
+      "Chevalley Aimé"
+    ],
+    "Garde-forestier": [
+      "Correvon Aloïs"
+    ],
+    "Inspecteur du bétail": [
+      "Mermoud Aug."
+    ],
+    "Instituteurs": [
+      "Simon Pierre",
+      "Simon-Volet Elise, Mme"
+    ],
+    "Juge de paix": [
+      "Mermoud Henri. T."
+    ],
+    "Police (agent de)": [
+      "Martin Alfred"
+    ],
+    "Poste": [
+      "Charbon-Ogay Julie"
+    ],
+    "Agriculteurs": [
+      "Bütikofer Samuel",
+      "Charbon Ami",
+      "Charbon Jules",
+      "Charbon frères",
+      "Chevalley Aimé",
+      "Correvon Aimé",
+      "Correvon frères",
+      "Frider Julien",
+      "Frider frères",
+      "Göttschi Jean",
+      "Hänggeli Jean",
+      "Jakob Fritz",
+      "Jaquier Robert",
+      "Jordi Gottfried",
+      "Kormann Jacob",
+      "Kormann Fritz",
+      "Lador Alfr.",
+      "Martin Henri",
+      "Mermoud Auguste",
+      "Mermoud Henri. T.",
+      "Mermoud Robert",
+      "Besson Aloïs"
+    ],
+    "Apiculteurs": [
+      "Bütikofer Robert",
+      "Charbon Constant. T.",
+      "Charbon frères",
+      "Charbon Victor",
+      "Correvon Herbert",
+      "Mermoud Auguste",
+      "Mermoud Edmond",
+      "Simon Pierre"
+    ],
+    "Assurance-vieillesse": [
+      "Simon Pierre"
+    ],
+    "Auto-garage, vélos, motos": [
+      "Charbon Constant et fils"
+    ],
+    "Aviculteurs": [
+      "Jaquier Robert",
+      "Kormann Fritz"
+    ],
+    "Battare (entreprise de)": [
+      "Mermoud William. T."
+    ],
+    "Café": [
+      "Rochat-Dufresne Hélène"
+    ],
+    "Charron": [
+      "Zalmo Pierre"
+    ],
+    "Epicerie-mercerie": [
+      "Stücki Marie"
+    ],
+    "Machines agricoles": [
+      "Charbon Constant et fils"
+    ],
+    "Pompes funèbres du Nord": [
+      "Martin Alfred"
+    ],
+    "Scierie": [
+      "Zahno Pierre"
+    ],
+    "Société": [
+      "Société de fromagerie. R."
+    ]
+  }
+}

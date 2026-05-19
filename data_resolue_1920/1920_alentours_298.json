@@ -1,0 +1,207 @@
+{
+  "Vallamand-Dessous": {
+    "Mécaniciens": [
+      "Ateliers mécaniques (S.A.) R T."
+    ],
+    "Pêcheurs": [
+      "Treyvaud Jules",
+      "Treyvaud Paul"
+    ],
+    "Divers": [
+      "Bessard Arnold",
+      "Bessard Georges",
+      "Blaser Fritz",
+      "Cailler Georges",
+      "Marcuard Alph.",
+      "Tombez Alfred"
+    ]
+  },
+  "CHABREY": {
+    "Autorités communales": [
+      "Vessaz Henri",
+      "Christinat Georges",
+      "Vessaz Jean-Louis",
+      "Vessaz Henri",
+      "Vessaz Alfred",
+      "Vessaz Emile",
+      "Christinat Ernest-H.",
+      "Christinat Hri-Fréd.",
+      "Loup Marcel",
+      "Christinat Jean-Fréd."
+    ],
+    "Agriculteurs": [
+      "Blaser Fritz",
+      "Christinat Constant",
+      "Christinat François",
+      "Chuard Albert",
+      "Vessaz Jules",
+      "Vessaz Alfred"
+    ],
+    "Aubergiste": [
+      "Chuard Henri"
+    ],
+    "Charron": [
+      "Weber Frédéric"
+    ],
+    "Commission scolaire": [
+      "Droz Alph.",
+      "Christinat Ernest",
+      "Vessaz Paul"
+    ],
+    "Entrepreneurs": [
+      "Marcuard & Bianchi"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Christinat Auguste",
+      "Vessaz Cécile"
+    ],
+    "Instituteur": [
+      "Belet Marcel"
+    ],
+    "Inspecteur du bétail": [
+      "Christinat Jn.-Frédéric"
+    ],
+    "Laitier": [
+      "Zumbach Gottfried"
+    ],
+    "Maréchal": [
+      "Bula Albert"
+    ],
+    "Poste": [
+      "Christinat Auguste"
+    ],
+    "Société": [
+      "De laiterie"
+    ],
+    "Tailleuse": [
+      "Marti Anna"
+    ],
+    "Téléphoniste": [
+      "Christinat Auguste"
+    ]
+  },
+  "CHAMPMARTIN": {
+    "Autorités communales": [
+      "Beck Jean",
+      "Beck Eugène",
+      "Milliet Henri",
+      "Beck Hri",
+      "Küng Franz",
+      "Beck Eugène"
+    ],
+    "Agriculteurs": [
+      "Beck Eugène",
+      "Beck Henri",
+      "Chuard Robert",
+      "Küng Franz",
+      "Milliet Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Beck Henri"
+    ],
+    "Rentière": [
+      "Tannaz Sophie"
+    ]
+  },
+  "CONSTANTINE": {
+    "Autorités communales": [
+      "Gentizon-Bessard Henri",
+      "Brocard Alfred",
+      "Loup Louis",
+      "Cuanillon Alfred",
+      "Parisod Léon",
+      "Loup-Bessard Léon",
+      "Fardel Ernest",
+      "Cuanillon Henri",
+      "Parisod Paul",
+      "Monney Alexis"
+    ],
+    "Agriculteurs": [
+      "Bessat Eug.",
+      "Bessat Jules",
+      "Cauderay Emile",
+      "Coinchon Edouard",
+      "Fardel Ernest",
+      "Gentizon-Bessard Hri",
+      "Gentizon Edouard",
+      "Gentizon, hoirs de Jaques",
+      "Gentizon-Rapin Louis",
+      "Gentizon, hoirs de Jean-Daniel",
+      "Loup Ls",
+      "Martin Eugène",
+      "Parisod Aimé-Louis",
+      "Parisod Paul"
+    ],
+    "Cafetier": [
+      "Parisod-Freiburghaus Léon"
+    ],
+    "Chef de section": [
+      "Loup-Jordan Adr."
+    ],
+    "Commission scolaire": [
+      "Gentizon Auguste",
+      "Droz Alphonse",
+      "Bessat Jules"
+    ],
+    "Entrepreneurs": [
+      "Zanoni et Ramella"
+    ],
+    "Epicerie": [
+      "Gentizon-Loup Léon"
+    ],
+    "Inspecteur du bétail": [
+      "Cuanillon F.-Henri"
+    ],
+    "Instituteur": [
+      "Brocard Alfred"
+    ],
+    "Médecin": [
+      "Tuscher Charles-Marc"
+    ],
+    "Pasteur": [
+      "Droz Alphonse"
+    ],
+    "Pionnier": [
+      "Gentizon Auguste"
+    ],
+    "Propriétaire": [
+      "Hubert Henri"
+    ],
+    "Société": [
+      "De laiterie"
+    ],
+    "Téléphoniste": [
+      "Parisod-Freiburghaus Olga"
+    ]
+  },
+  "CUDREFIN": {
+    "Autorités communales": [
+      "Vassaux Samuel",
+      "Treyvaud Gges.",
+      "Vassaux Alfred",
+      "Richard Henri",
+      "Tschannen Jean",
+      "Desaules Ernest",
+      "Vassaux Lucien",
+      "Treyvaud Jules"
+    ],
+    "Agriculteurs": [
+      "Barth Fritz",
+      "Barth frères",
+      "Blaser Frédéric",
+      "Chautems Fritz",
+      "Christinat Eugène",
+      "Cornaz Ernest",
+      "Crisinel Charles",
+      "Fontanellaz Emile",
+      "Gutknecht Samuel",
+      "Jaunin Paul",
+      "Lefranc Ed.",
+      "Milliet Emile",
+      "Milliet Fritz",
+      "Mosimann Eugène",
+      "Mosimann Jean",
+      "Reuille"
+    ]
+  }
+}

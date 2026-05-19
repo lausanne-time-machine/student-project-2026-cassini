@@ -1,0 +1,401 @@
+{
+  "SAINT-LEGIER": {
+    "Agriculteurs": [
+      "Guex Alfred",
+      "Guex-Visinand Jules",
+      "Gygli Marcel",
+      "Gygli Armand",
+      "Klaus Erwin",
+      "Köhli Fritz",
+      "Marti Albert",
+      "Meystre Henri",
+      "Morier Aloys",
+      "Morier Louis",
+      "Regamey Agénor",
+      "Ruchti frères",
+      "Skawronski Robert",
+      "Streit Ch.",
+      "Stochly Jules",
+      "Tapernoux Jaques",
+      "Tapernoux Etienne",
+      "Taverney Hri",
+      "Turrian Samuel",
+      "Turrian Paul",
+      "Visinand Ch.",
+      "Vuadens frères"
+    ],
+    "La Chiésaz": [
+      "Caillet Alfred",
+      "Chuard Auguste",
+      "Desponds Alexis",
+      "Dupraz frères",
+      "Dupraz-Genton Louis",
+      "Ducraux Alexandre",
+      "Marchon Joseph",
+      "Montet Ulysse",
+      "Serex Constant"
+    ],
+    "Apiculteur": [
+      "Balissat Robert"
+    ],
+    "Assurance - vieillesse": [
+      "Pidoux Louis"
+    ],
+    "Auto-taxi": [
+      "Crépon Maurice"
+    ],
+    "Bétail (march. de)": [
+      "Serex Ch."
+    ],
+    "Blanchisseuses": [
+      "Bessat-Beguin",
+      "Crépon Marie",
+      "Ducraux-Chollet, Mme.",
+      "Marchon Alice",
+      "Morier-Cornut, Mme",
+      "Muller-Grob, Marie-Louise"
+    ],
+    "Bois (march. de)": [
+      "Dupraz & fils"
+    ],
+    "Boulangers": [
+      "Burnand Louise",
+      "Marsens Eugène"
+    ],
+    "Cafés": [
+      "Borloz André",
+      "Cherix Paul",
+      "Guex François",
+      "Lecoultre Arthur",
+      "Nicati Aloys"
+    ],
+    "Charcuterie": [
+      "Lecoultre Arthur"
+    ],
+    "Charpentiers": [
+      "Béguin Henri",
+      "Single Henri"
+    ],
+    "Charrons": [
+      "Crépon Arnold",
+      "Eschler Samuel"
+    ],
+    "Coiffeurs": [
+      "Bignens Gustave",
+      "Bourquin Jeanne (dames)"
+    ],
+    "Cordonniers": [
+      "Blanc David",
+      "Kormann Rodolphe",
+      "Regamey Henri"
+    ],
+    "Couturières": [
+      "Béguin Isola",
+      "Chollet Marie",
+      "Ducraux Emma",
+      "Schwab Marie"
+    ],
+    "Crémerie-tea-room": [
+      "Bucraux Berthe"
+    ],
+    "Distillerie": [
+      "Béguin Jules & fils"
+    ],
+    "Entrepreneurs": [
+      "Dormond Eugène",
+      "Mamin Daniel",
+      "Pilloud Marcel"
+    ],
+    "Epiceries-merceries": [
+      "Béguin Marie",
+      "Bignens Gustave",
+      "Burnand Louise",
+      "Marsens Eugène",
+      "La Ménagère",
+      "Nicola-Equey Marie",
+      "Santschy Eug."
+    ],
+    "Gypsiers-peintres": [
+      "Crosa Jean",
+      "Guala Hans",
+      "Huser Pierre"
+    ],
+    "Hôtels et pensions": [
+      "Beau-Soleil",
+      "Bellevue",
+      "Le Roc",
+      "Les Roches",
+      "Clos Rosier"
+    ],
+    "Jardiniers-horticult": [
+      "Béguin Léon",
+      "Juchli François",
+      "Jurod James",
+      "Lavanchy Alexis",
+      "Pisler Gérald"
+    ],
+    "Machines à coudre": [
+      "Gavard F."
+    ],
+    "Maréchaux": [
+      "Ducraux André",
+      "Massonet Gust. et fils"
+    ],
+    "Médecin": [
+      "Dunant Jacques"
+    ],
+    "Menuisier": [
+      "Crépon Maurice"
+    ],
+    "Pondre d'os (fab. de)": [
+      "Cornut A."
+    ],
+    "Prévontorium": [
+      "La Clairière"
+    ],
+    "Radio": [
+      "Balissat A."
+    ],
+    "Scierie": [
+      "Dupraz & fils"
+    ],
+    "Sellier-tapissier": [
+      "Grandchamp P."
+    ],
+    "Skis (fab. de)": [
+      "Eschler Samuel"
+    ],
+    "Sociétés": [
+      "Chœur d'hommes",
+      "Chœur mixte",
+      "Sté d'assurance contre les pertes du bétail",
+      "Sté de gymnastique",
+      "Sté de laiterie",
+      "Sté de musique",
+      "Sté de tir"
+    ],
+    "Transports": [
+      "Cornut Aimé"
+    ],
+    "Vignerons": [
+      "Bonjour Louis",
+      "Dupraz Robert",
+      "de Joffrey François",
+      "Piccard Paul",
+      "Schopfer William"
+    ],
+    "Voiturier": [
+      "Guex Ernest"
+    ],
+    "Divers": [
+      "Angst Ernest",
+      "Bassin Chs.",
+      "Béguin Isaac",
+      "Brière, Mlles",
+      "Cornut Aimé",
+      "Usine de Leyderand",
+      "Chaudet Suzanne",
+      "Courvoisier Lucy",
+      "de Budé A.",
+      "de Gautard Victor",
+      "Décosterd Fréd.",
+      "Detmers-Courvoisier",
+      "Dupraz Louis",
+      "Dupraz-Traversini Ls.",
+      "Egli Max",
+      "Eiler Joseph",
+      "Flad Cameron",
+      "Garin Charles",
+      "Gilgen Charles",
+      "Graber Jacob",
+      "Grand d'Hauteville F.",
+      "Grangier Alexandre",
+      "Guex et Gonin, Mlles",
+      "Gygli M.",
+      "Knutti Charles",
+      "Künzler-Baer",
+      "Loup Vve d'Adrien",
+      "Pethoud Jélénor",
+      "Perrelet Paul",
+      "Perrochet André",
+      "Richard Philippe",
+      "Rippmann R., Mme",
+      "Rivier Pierre",
+      "Schenk Eugène",
+      "Serex Emile",
+      "Stehli-Weber",
+      "Struve K.-C.-P."
+    ]
+  },
+  "SAINT-LIVRES": {
+    "Syndic": [
+      "Pellet Jules"
+    ],
+    "Secrétaire": [
+      "Eperon Albert"
+    ],
+    "Boursier": [
+      "Pellet Marc"
+    ],
+    "Huissier": [
+      "Cathélaz Charles"
+    ],
+    "Municipaux": [
+      "Finnaz Louis",
+      "Grivel Aloys",
+      "Pellet-Durand Louis",
+      "Tripod Frédéric"
+    ],
+    "Assesseur": [
+      "Tripod Manex"
+    ],
+    "Gantonnier": [
+      "Durand Armand"
+    ],
+    "Commission scolaire": [
+      "de Haller Nicolas"
+    ],
+    "Garde de triage": [
+      "Pellet François"
+    ],
+    "Garde forestier": [
+      "Pellet François"
+    ],
+    "Inspecteurs du bétail": [
+      "Pellet-Durand Auguste",
+      "Jotterand Emile fils"
+    ],
+    "Inspecteur des viandes": [
+      "Eperon Alb."
+    ],
+    "Instituteurs": [
+      "Cachin André",
+      "Curchod Marg.",
+      "Masson-Hédiguer Marg."
+    ],
+    "Police (agent de)": [
+      "Cathélaz Charles"
+    ],
+    "Poste et télégraphe": [
+      "Tripod Marc"
+    ],
+    "Agriculteurs-vignerons": [
+      "Anken Ch.",
+      "Augsburger Ernest",
+      "Annen Jules",
+      "Auberson André",
+      "Bühler Otto",
+      "Burnier Henri",
+      "Cathélaz Marc",
+      "Crausaz Emile",
+      "Cloux Lucien",
+      "Durand-Reichenbach Const.",
+      "Durand-Zwahlen Constant",
+      "Duperret Charles",
+      "Eperon Albert",
+      "Finaz Louis",
+      "Finaz Alfred",
+      "Gibaud Emile",
+      "Grivel Aloys",
+      "Grivel Elie",
+      "Grivel-Jaquier, hoirie",
+      "Grivel Georges",
+      "Guignet Auguste",
+      "Guignet René",
+      "Hartmann frères",
+      "Hostettler Ernest",
+      "Jotterand Etienne",
+      "Jotterand Philippe",
+      "Jotterand Constant",
+      "Jotterand John",
+      "Jotterand René",
+      "Jotterand Emile",
+      "Jotterand Eugène",
+      "Lecoultre Bernard",
+      "Luthy Ernest",
+      "Le Moulin",
+      "Lüdi Louis",
+      "Meylan Paul",
+      "Pasche Louis",
+      "Pellet Adolphe",
+      "Pellet Alfred",
+      "Pellet Adolphin",
+      "Pellet-Durand Auguste",
+      "Pellet-Roy Auguste",
+      "Pellet François",
+      "Pellet Jules",
+      "Pellet Emile",
+      "Pellet Laurent",
+      "Pellet Louis",
+      "Pittet Julien",
+      "Roy hoirie",
+      "Tripod-Jaquenoud frères",
+      "Tripod Frédéric"
+    ],
+    "Apiculteur": [
+      "Jotterand Gustave"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Cachin A."
+    ],
+    "Boulanger": [
+      "Debonneville Gustave"
+    ],
+    "Cafés": [
+      "Cretegny Fernand",
+      "Piantanida Angelo"
+    ],
+    "Charpentier": [
+      "Jotterand William"
+    ],
+    "Couturière": [
+      "Tripod Augusta"
+    ],
+    "Entrepreneur": [
+      "Zbinden Otto"
+    ],
+    "Epiceries, merceries": [
+      "Debonneville Gustave",
+      "Rochat Emmanuel"
+    ],
+    "Laitier, fromages": [
+      "Benz Samuel"
+    ],
+    "Maréchal": [
+      "Bron Robert"
+    ],
+    "Pépiniéristes-viticulteurs": [
+      "Finnaz Ls",
+      "Pellet Jules et fils"
+    ],
+    "Sociétés": [
+      "Sté de fromagerie",
+      "Sté du battoir à grains",
+      "Syndicat d'élevage et d'alpage"
+    ],
+    "Tapissier": [
+      "Cottier John"
+    ]
+  },
+  "SAINT-OYENS": {
+    "Syndic": [
+      "Grosjean Edmond"
+    ],
+    "Secrétaire": [
+      "Pernet Roger"
+    ],
+    "Boursier": [
+      "Haldi Alexis"
+    ],
+    "Huissier": [
+      "Liardon René"
+    ],
+    "Municipaux": [
+      "Baudraz Louis",
+      "Grosjean André",
+      "Haldi Alexis fils",
+      "Rochat Alfred"
+    ]
+  }
+}

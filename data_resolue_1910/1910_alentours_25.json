@@ -1,0 +1,281 @@
+{
+  "APPLES": {
+    "Apiculteurs.": [
+      "Henri",
+      "Delacrétaz Jean",
+      "Decollogny Henri",
+      "Henriod Ls, fils"
+    ],
+    "Appareilleurs": [
+      "Rochat John-Louis",
+      "Estoppey-Marti",
+      "Conti César"
+    ],
+    "Aubergistes": [
+      "F. Fankhauser",
+      "Fazan-Hirschy A."
+    ],
+    "Bestiaux (march. de)": [
+      "Bonzon Alexis",
+      "Decollogny Henri"
+    ],
+    "Boulangers": [
+      "Delacrétaz Henri",
+      "Cochet Gve fils"
+    ],
+    "Buraliste postal": [
+      "Delacrétaz Anna"
+    ],
+    "Charpentiers-menuisiers": [
+      "Bélaz Ferdinand",
+      "Jotterand Louis"
+    ],
+    "Charrons": [
+      "Decolligny Alfred",
+      "Henriod Louis, fils"
+    ],
+    "Chaussures (march. de)": [
+      "Cochet Gustave",
+      "Lassueur W."
+    ],
+    "Chef de gare": [
+      "Bernard S."
+    ],
+    "Chef de section": [
+      "Baud Charles"
+    ],
+    "Coiffeur": [
+      "Rochat Henri"
+    ],
+    "Commission scolaire": [
+      "Curchod",
+      "Besson Adrien",
+      "Bourcoud Émile",
+      "Decollogny Henri",
+      "Fazan Alfred"
+    ],
+    "Cordonniers": [
+      "Bozzonetti J.",
+      "Œchsli Gottfried"
+    ],
+    "Distillateurs": [
+      "Brot Henri",
+      "Brot Julien"
+    ],
+    "Droguiste": [
+      "Lassueur W."
+    ],
+    "Entrepreneurs": [
+      "Bélaz Ferd.",
+      "Cortellini & Méda",
+      "Rigoli frères"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Cochet Gustave",
+      "Lassueur W."
+    ],
+    "Ferblantiers": [
+      "Conti César",
+      "Demont Charles"
+    ],
+    "Gardes-forestiers": [
+      "Besson Jaques",
+      "Besson Adrien",
+      "Mingnard Charles"
+    ],
+    "Gypsiers": [
+      "Bollo Frédéric",
+      "Ventura Baptiste"
+    ],
+    "Inspecteur du bétail": [
+      "Cochet John"
+    ],
+    "Instituteurs": [
+      "Audemars Aline",
+      "Despland Madeleine",
+      "Guignard Jules"
+    ],
+    "Laitier": [
+      "Gehrig Christian"
+    ],
+    "Machines à battre": [
+      "Syndicat agricole d'Apples"
+    ],
+    "Maçons": [
+      "Rigoli frères",
+      "Cortellini & Méda"
+    ],
+    "Maréchaux": [
+      "Félix Louis",
+      "Cottier Jean"
+    ],
+    "Mécanicien": [
+      "Estoppey-Marti"
+    ],
+    "Médecin": [
+      "Muller Octave"
+    ],
+    "Officier d'état civil": [
+      "Rochat Jules"
+    ],
+    "Pasteur": [
+      "Curchod Robert"
+    ],
+    "Sage-femme": [
+      "Schalfroth J."
+    ],
+    "Scieries": [
+      "Brot Julien",
+      "Fazan-Vallette E."
+    ],
+    "Selliers": [
+      "Cochet Ami",
+      "Robellaz H R"
+    ],
+    "Serrurier": [
+      "Estoppey-Marti"
+    ],
+    "Sociétés": [
+      "Fromagerie d'Apples",
+      "Tir aux armes de guerre",
+      "Société de développement",
+      "Syndicat agricole",
+      "Syndicat d'alpage"
+    ],
+    "Socques (fabr. de)": [
+      "Rochat Henri"
+    ],
+    "Tailleur": [
+      "Cochet Gustave"
+    ],
+    "Tailleuse": [
+      "Delacrétaz-Kuffer Lina"
+    ],
+    "Télégraphiste": [
+      "Delacrétaz Anna"
+    ],
+    "Vélocipèdes": [
+      "Estoppey-Marti"
+    ]
+  },
+  "BALLENS": {
+    "Autorités communales": [
+      "Viallon Philippe",
+      "Croisier Armand",
+      "Croisier Philippe",
+      "Allamand Ernest",
+      "Convers John",
+      "Monod Justin",
+      "Mayor Jules",
+      "Oppeliguer Eugène",
+      "Roch Jules",
+      "Gouffon A.",
+      "Roch Ami",
+      "Zbinden William",
+      "Testaz Ulysse"
+    ],
+    "Agriculteurs": [
+      "Champendal François",
+      "Champendal Henri",
+      "Croisier Adrien",
+      "Croisier Armand",
+      "Croisier Georges",
+      "Croisier Philippe",
+      "Croisier Ulysse",
+      "Oppeliguer Henri",
+      "Roch Auguste",
+      "Roch Jules",
+      "Rubattel Jaques",
+      "Zbinden William"
+    ],
+    "Aubergistes": [
+      "Oppeliguer Gustave",
+      "Zbinden William"
+    ],
+    "Bois (march. de)": [
+      "Zbinden Henri"
+    ],
+    "Boulanger": [
+      "Montet Georges"
+    ],
+    "Charrons": [
+      "Bonzon Emile",
+      "Testaz Ulysse"
+    ],
+    "Chef de section": [
+      "Croisier Armand"
+    ],
+    "Commission scolaire": [
+      "Viallon Philippe",
+      "Rubattel Jaques"
+    ],
+    "Cordonniers": [
+      "Bischoff Jean",
+      "Martinoni Joseph"
+    ],
+    "Electriciens": [
+      "Société lausannoise d'électricité"
+    ],
+    "Entrepreneur": [
+      "Monod Arthur"
+    ],
+    "Epicerie, mercerie et tabacs": [
+      "Cœytaux-Meylan Alexis",
+      "Montet Georges",
+      "Viallon Philippe"
+    ],
+    "Inspecteur du bétail": [
+      "Croisier Georges"
+    ],
+    "Instituteurs": [
+      "Croisier-Lyon Marie",
+      "Zwahen Edouard"
+    ],
+    "Justice de paix du Cercle": [
+      "Pittet Auguste",
+      "Viallon Philippe",
+      "Cœndoz Victor",
+      "Matille Octave",
+      "Bourcoud Emile",
+      "Croisier Louis"
+    ],
+    "Laitier": [
+      "Baudin Henri"
+    ],
+    "Maréchal": [
+      "Allamand Ernest"
+    ],
+    "Menuisier": [
+      "Vallotton Auguste"
+    ],
+    "Officier d'état civil": [
+      "Cœndoz William"
+    ],
+    "Pasteur": [
+      "Zimmer Louis"
+    ],
+    "Poste": [
+      "Croisier Armand, dame"
+    ],
+    "Scieur": [
+      "Zbinden Henri"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Tailleuses": [
+      "Bischoff Marguerite",
+      "Croisier Emma",
+      "Goy Virginie"
+    ],
+    "Téléphone communal": [
+      "Zbinden Caroline"
+    ]
+  },
+  "BEROLLE": {
+    "Autorités communales": [
+      "Burnet Albert",
+      "Besson William"
+    ]
+  }
+}

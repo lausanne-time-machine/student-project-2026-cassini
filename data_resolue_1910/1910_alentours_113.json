@@ -1,0 +1,160 @@
+{
+  "VILLETTE": {
+    "Instituteurs": [
+      "Fague Charles",
+      "Galley Samuel",
+      "Ruchet Léon",
+      "Martinet",
+      "Blanc Eugénie",
+      "Brélaz Aloïs",
+      "Desfayes-Pahud Rosa"
+    ],
+    "Maréchaux": [
+      "Delessert Henri",
+      "Margot",
+      "Delessert Jules fils",
+      "Delessert Marius",
+      "Porchet L.-S."
+    ],
+    "Menuisiers": [
+      "Bastian Emile",
+      "Corbaz Fr.",
+      "Diserens L.",
+      "Paschoud Ch.",
+      "Bastian J.-Samuel",
+      "Bastian Alfred"
+    ],
+    "Officier d'état civil": [
+      "Cordey Ch."
+    ],
+    "Pasteurs": [
+      "Subilia Paul",
+      "Herminjard Louis"
+    ],
+    "Rentières": [
+      "Blanc Julie",
+      "Comte, veuve"
+    ],
+    "Sage-femme": [
+      "Diserens L."
+    ],
+    "Sociétés": [
+      "Des Carabiniers",
+      "De fromagerie no 1",
+      "De fromagerie no 2",
+      "De fromagerie de Moille-Margot",
+      "De la Réunion des Patriotes",
+      "De laiterie de la Clef aux Moines",
+      "De tir aux Armes de guerre",
+      "Section de la Croix Bleue",
+      "Fromagerie « Espérance »",
+      "Laiterie d'Aran"
+    ],
+    "Tailleur": [
+      "Delessert Emile"
+    ],
+    "Tailleuses": [
+      "Diserens Louise",
+      "Diserens Rosine",
+      "Gilliéron Hélène",
+      "Paschoud Léonie",
+      "Parisod, sœurs"
+    ],
+    "Téléphonistes": [
+      "Duboux Gustave",
+      "Lavanchy Jules",
+      "Piccard Oscar"
+    ],
+    "Tuilerie": [
+      "Diserens Jules"
+    ],
+    "Autorités communales": [
+      "Desfayes Henri",
+      "Bron Louis",
+      "Desfayes Vincent",
+      "Porta Bernard",
+      "Testuz Charles",
+      "Richard Ch.",
+      "Parisod Henri-Emile",
+      "Noverraz Constant"
+    ],
+    "Boulanger": [
+      "Testuz Charles"
+    ],
+    "Cafés": [
+      "Bron Louis",
+      "Bovet François",
+      "Giroud-Zbinden Elise"
+    ],
+    "Charron": [
+      "Cuénoud Charles-Louis"
+    ],
+    "Commission scolaire": [
+      "Desfayes Henri",
+      "Parisod Henri-E."
+    ],
+    "Cordonnier": [
+      "Richard Ch."
+    ],
+    "Epicerie": [
+      "Duflon"
+    ],
+    "Inspecteurs du bétail": [
+      "Testuz Charles",
+      "Cuénoud Ernest"
+    ],
+    "Tailleuse": [
+      "Forestier Victorine"
+    ],
+    "Téléphone": [
+      "Bron Louis"
+    ],
+    "Vignerons": [
+      "Cuénoud Edouard",
+      "Desfayes Vincent",
+      "Mégroz Isaac",
+      "Noverraz François",
+      "Parisod J.-François",
+      "Porta Bernard"
+    ]
+  },
+  "DISTRICT DE MORGES": {
+    "Préfet": [
+      "Pachoud Albert"
+    ],
+    "Substitut": [
+      "Morax Louis"
+    ],
+    "Receveur": [
+      "Demont L."
+    ],
+    "Conservateur des droits réels": [
+      "Sallaz Charles"
+    ],
+    "Voyer": [
+      "Burnet Fs"
+    ],
+    "Tribunal de District": [
+      "von Auw Samuel",
+      "Schmidt Marc",
+      "Clerc Victor",
+      "Bugnon Ami",
+      "Buenzod Benjamin",
+      "Gonvers Ernest"
+    ]
+  },
+  "VILLE DE MORGES": {
+    "Autorités communales": [
+      "Fleury Gustave",
+      "Piguet Albert",
+      "Chable Frédéric",
+      "Gonvers Ernest",
+      "Reymond Louis",
+      "Salathé Frédéric",
+      "Laffely Louis",
+      "Roulet Henri",
+      "Burdet Charles",
+      "Kahn Charles"
+    ]
+  }
+}

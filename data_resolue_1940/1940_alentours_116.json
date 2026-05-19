@@ -1,0 +1,341 @@
+{
+  "GRANGES": {
+    "Horloges d'églises et monuments.": [
+      "Crot Léon",
+      "Neuhaus Jean"
+    ],
+    "Horlogers.": [
+      "Bovey Paul",
+      "Crot Féréol"
+    ],
+    "Hôtels.": [
+      "Corminbœuf Marc",
+      "Ducotterd Fernand"
+    ],
+    "Huileries.": [
+      "Grands Moulins S. A.",
+      "Duc Ed."
+    ],
+    "Imprimerie-papeterie.": [
+      "Busenhart Ed."
+    ],
+    "Journaux.": [
+      "Gilliéron Alfred"
+    ],
+    "Laiterie.": [
+      "Neuenschwander frères"
+    ],
+    "Lingère.": [
+      "Jayet Marie"
+    ],
+    "Machines agricoles.": [
+      "Mahon Oscar",
+      "Rapin Martin"
+    ],
+    "Maréchal.": [
+      "Rapin Martin"
+    ],
+    "Matériaux de constructions.": [
+      "Desmeules frères",
+      "Valiton Frédéric"
+    ],
+    "Mécaniciens.": [
+      "Savary Ami",
+      "Weber René"
+    ],
+    "Médecin.": [
+      "Golaz Henri"
+    ],
+    "Menuisiers.": [
+      "Buttex Charles",
+      "Doudin Ernest",
+      "Roux Emile",
+      "Senn Roland",
+      "Wenger Henri"
+    ],
+    "Mercerie.": [
+      "Desmeules François",
+      "Gilliéron Alfred. R.",
+      "Sté coopérative",
+      "Tenthorey Jules",
+      "Valiton Frédéric"
+    ],
+    "Meuniers.": [
+      "Moulins de Granges S. A.",
+      "Bugnon Ph."
+    ],
+    "Notaire.": [
+      "Michaud Alfred"
+    ],
+    "Pharmacie.": [
+      "Grosskopf Richard"
+    ],
+    "Photo (art. pour).": [
+      "Savary E."
+    ],
+    "Photographe.": [
+      "Savary Eugène"
+    ],
+    "Pierriste.": [
+      "Potterat Jules"
+    ],
+    "Pompes funèbres du Nord.": [
+      "Buttex Charles"
+    ],
+    "Porcs (comm. de).": [
+      "Barbey Gustave"
+    ],
+    "Primeurs.": [
+      "Benaglia Santo"
+    ],
+    "Produits en ciment.": [
+      "Desmeules frères"
+    ],
+    "Rentier.": [
+      "Duc Eugénie, Mlle"
+    ],
+    "Sage-femme.": [
+      "Paris, Mme"
+    ],
+    "Scieurs.": [
+      "Cosendai Alfred",
+      "Duc Edm.",
+      "Grands-Moulins S. A."
+    ],
+    "Selliers-tapissiers.": [
+      "Bidiville Raoul",
+      "Dizerens Emile"
+    ],
+    "Serruriers.": [
+      "Jomini Armand",
+      "Mahon Oscar"
+    ],
+    "Sociétés.": [
+      "Caisse d'assurance mutuelle chevaline agricole. R.",
+      "Crédit mutuel de Granges",
+      "Savary M.",
+      "Groupe d'Ecclaireurs.",
+      "Sté d'agriculture de Granges",
+      "Sté du battoir. R.",
+      "Sté de couture.",
+      "Sté de l'Echo de la Lembaz.",
+      "Sté de gymnastique.",
+      "Sté de laiterie. R.",
+      "Sté de musique, fanfare.",
+      "Sté de tir La Concorde.",
+      "Section de la Croix-Bleue.",
+      "Syndicat agricole. R.",
+      "Syndicat d'élevage. R.",
+      "Union cadette.",
+      "Union chrétienne de jeunes gens."
+    ],
+    "Tailleur.": [
+      "Pasteur Marc"
+    ],
+    "Tissus et nouveautés.": [
+      "Valiton Frédéric"
+    ],
+    "Tuyaux et produits en ciment.": [
+      "Desmeules frères"
+    ],
+    "Vélos-motos.": [
+      "de Blasio",
+      "Savary Ami",
+      "Weber René"
+    ],
+    "Vétérinaire.": [
+      "Bovay Constant"
+    ],
+    "Vins.": [
+      "Desmeules François",
+      "Gilliéron Alfred. R."
+    ],
+    "Divers.": [
+      "Desmeules Ad.",
+      "Estoppey-Stocker A.",
+      "Nicod-Fornerod J."
+    ]
+  },
+  "GRENS": {
+    "Syndic": [
+      "Bidaux Charles"
+    ],
+    "Secrétaire": [
+      "Brocher Pierre"
+    ],
+    "Boursier": [
+      "Corbaz René"
+    ],
+    "Huissier": [
+      "Tecon Henri"
+    ],
+    "Municipaux": [
+      "Miaz Albert",
+      "Miaz Jules",
+      "Noverraz Marius",
+      "Tecon Eugène"
+    ],
+    "Cantonnier.": [
+      "Miaz Alexis"
+    ],
+    "Commandant du feu.": [
+      "Goncerut Ls."
+    ],
+    "Commission scolaire.": [
+      "Brocher Arthur"
+    ],
+    "Garde-forestier.": [
+      "Rochat Armand"
+    ],
+    "Inspecteur du bétail.": [
+      "Noverraz Marius"
+    ],
+    "Instituteurs.": [
+      "Corbaz René",
+      "Dupontet Aline"
+    ],
+    "Pasteur.": [
+      "Burnier J."
+    ],
+    "Poste et télégraphe.": [
+      "Noverraz Marius"
+    ],
+    "Agriculteurs-vignerons.": [
+      "Annen Louis",
+      "Bidaux Charles",
+      "Brocher Art.",
+      "Charrière Henri",
+      "Dumartheray Gustave",
+      "Goncerut Louis",
+      "Goncerut Vve",
+      "Kilchenmann E.",
+      "Ferme du Ruisseau",
+      "Miaz Alb.",
+      "Miaz Alfred",
+      "Miaz Jules",
+      "Mosimann",
+      "Noverraz Marius",
+      "Tecon Eugène"
+    ],
+    "Apiculteur.": [
+      "Corbaz René"
+    ],
+    "Assurance-vieillesse.": [
+      "Corbaz R."
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Noverraz François"
+    ],
+    "Laitier, fromages.": [
+      "Miaz Charles"
+    ],
+    "Moulin.": [
+      "Moulin agricole de Chiblins",
+      "Auberson René"
+    ],
+    "Rentier.": [
+      "Bonnet Ed."
+    ],
+    "Sociétés.": [
+      "Sté de battage de Chéserex-Grens.",
+      "Sté de fromagerie de Grens et Signy."
+    ]
+  },
+  "GRESSY": {
+    "Syndic": [
+      "Gruet Otto"
+    ],
+    "Secrétaire": [
+      "Dessemontet Fritz"
+    ],
+    "Boursier": [
+      "Dutoit Roger"
+    ],
+    "Huissier": [
+      "Baldiger César"
+    ],
+    "Municipaux": [
+      "Bornoz Aimé",
+      "Bourgeois Lucien",
+      "Dutoit Roger",
+      "Pinard Marcel"
+    ],
+    "Cantonnier.": [
+      "Bourgeois Samuel"
+    ],
+    "Commandant du feu.": [
+      "Pinard Marcel"
+    ],
+    "Commission scolaire.": [
+      "Dépraz"
+    ],
+    "Inspecteurs du bétail.": [
+      "Auberson Aymon",
+      "Dutoit Roger"
+    ],
+    "Institutrice.": [
+      "Gautschy Daisy"
+    ],
+    "Pasteur.": [
+      "Dépraz André"
+    ],
+    "Agriculteurs.": [
+      "Auberson Maurice",
+      "Auberson frères",
+      "Baldinger César",
+      "Bornoz, hoirie d'Henri",
+      "Bourgeois frères, hoirie",
+      "Dessemontet Fritz",
+      "Dutoit Roger",
+      "Sermuz",
+      "Gonin Albert",
+      "Gonin Eug.",
+      "Gruet Aimé",
+      "Sermuz",
+      "Gruet Otto",
+      "Sermuz",
+      "Henrioud Marcel",
+      "Loup Justin",
+      "Maeder Alfred",
+      "Péclard",
+      "Sermuz",
+      "Perrin Eugène",
+      "Pinard Eugène"
+    ],
+    "Apiculteurs.": [
+      "Bornoz Henri",
+      "Dutoit Paul",
+      "Dutoit Roger",
+      "Perrin Eug."
+    ],
+    "Assurance-vieillesse.": [
+      "Rodieux L."
+    ],
+    "Epicerie.": [
+      "Marazzi Berthe, Veuve"
+    ],
+    "Fourches et rateaux (fabr. de).": [
+      "Loup Justin"
+    ],
+    "Laitier.": [
+      "Siegenthaler Emile"
+    ],
+    "Pompes funèbres du Nord.": [
+      "Guédat Charles"
+    ]
+  },
+  "GRYON": {
+    "Syndic": [
+      "Jaeger Jules"
+    ],
+    "Secrétaire": [
+      "Oulevay Henri"
+    ],
+    "Boursier": [
+      "Amiguet Edouard"
+    ],
+    "Huissier": [
+      "Ravy Charles"
+    ]
+  }
+}

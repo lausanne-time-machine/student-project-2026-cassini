@@ -1,0 +1,352 @@
+{
+  "SARZENS": {
+    "Syndic": [
+      "Desarzens Jules"
+    ],
+    "Secrétaire": [
+      "Desarzens César"
+    ],
+    "Boursier": [
+      "Desarzens Georges"
+    ],
+    "Huissier": [
+      "Guex Julien"
+    ],
+    "Municipaux": [
+      "Badoux Ernest",
+      "Corthésy Emile",
+      "Desarzens Gaston",
+      "Pichonnat Ernest"
+    ],
+    "Cantonnier": [
+      "Boutay Henri"
+    ],
+    "Commandant du feu": [
+      "Desarzens M."
+    ],
+    "Inspecteur du bétail": [
+      "Desarzens Eug"
+    ],
+    "Inspecteur des viandes": [
+      "Badoux Ern."
+    ],
+    "Instituteur": [
+      "Chaperon M."
+    ],
+    "Poste et télégraphe": [
+      "Desarzens Georges"
+    ],
+    "Téléphone": [
+      "Station publ. à la poste"
+    ],
+    "Agriculteurs": [
+      "Badoux Adrien",
+      "Badoux Ernest",
+      "Corthésy Emile",
+      "Corthésy Const.",
+      "Desarzens Jules",
+      "Desarzens Georges",
+      "Desarzens-Corthésy Ulysse",
+      "Desarzens-Gehrig Ulysse",
+      "Desarzens Eugène",
+      "Emery Alfred",
+      "Ganière Henri",
+      "Guex Julien",
+      "Ogay Daniel",
+      "Pichonnat Alfred",
+      "Pichonnat Constant",
+      "Pichonnat Ernest"
+    ],
+    "Apiculteurs": [
+      "Badoux Ernest",
+      "Corthésy Robert",
+      "Desarzens César",
+      "Desarzens Gaston"
+    ],
+    "Arboriculteur patenté": [
+      "Desarzens Gaston"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite",
+      "Chevalley C."
+    ],
+    "Couturières": [
+      "Pichonnat Lina",
+      "Pichonnat Antoinette"
+    ],
+    "Lingère": [
+      "Pichonnat-Desarzens Lina"
+    ],
+    "Pompes funèbres du Nord": [
+      "Corthésy Robert"
+    ],
+    "Sociétés": [
+      "Sté de fromagerie",
+      "Sté du battoir à blé"
+    ]
+  },
+  "SASSEL": {
+    "Syndic": [
+      "Cosandai Paul"
+    ],
+    "Secrétaire": [
+      "Dufey Paul"
+    ],
+    "Boursier": [
+      "Deppierraz Charles"
+    ],
+    "Huissier": [
+      "Fivat Albert"
+    ],
+    "Municipaux": [
+      "Cosandey Jules",
+      "Dufey Emile",
+      "Durussel Gilbert",
+      "Fivat César"
+    ],
+    "Assesseur": [
+      "Cosandey Jules"
+    ],
+    "Cantonnier": [
+      "Cosandey Edouard"
+    ],
+    "Commandant du feu": [
+      "Cosandai Paul"
+    ],
+    "Commission scolaire": [
+      "Cosandai-Bersier, Paul"
+    ],
+    "Inspecteur du bétail": [
+      "Durussel Jules"
+    ],
+    "Inspecteur des viandes": [
+      "Fivat César"
+    ],
+    "Instituteur": [
+      "Deppierraz Charles"
+    ],
+    "Institutrice": [
+      "Dumartheray Jeanne"
+    ],
+    "Poste et télégraphe": [
+      "Fivat Maurice"
+    ],
+    "Téléphone": [
+      "Station communale au café de l'Etoile",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs": [
+      "Chevalley Alexis",
+      "Chevalley Jules",
+      "Cosandey Félix",
+      "Cosandey Paul",
+      "Cosandey-Meylan Jules",
+      "Dufey Emile",
+      "Dufey Paul",
+      "Durussel Edm. et Ernest",
+      "Durussel Marcel",
+      "Durussel Jules",
+      "Fivat Albert",
+      "Pittet John",
+      "Pittet Jules",
+      "Savary Jules",
+      "Savary Léon"
+    ],
+    "Asile des vieillards": [
+      "Fondation J. et Charles Duc"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite",
+      "Deppierraz Ch."
+    ],
+    "Banque": [
+      "Caisse de Crédit mutuel"
+    ],
+    "Boulangers": [
+      "Dubey frères"
+    ],
+    "Café": [
+      "Pittet Sam."
+    ],
+    "Couturière": [
+      "Cosandey Mina"
+    ],
+    "Epiceries": [
+      "Baeriswyl Aimé",
+      "Dufey Alida"
+    ],
+    "Pompes funèbres du Nord": [
+      "Fivaz Albert"
+    ],
+    "Sociétés": [
+      "Sté de fromagerie et laiterie",
+      "Syndicat agricole",
+      "Crédit mutuel de Sassel (Caisse Raiffeisen)",
+      "Mutuelle chevaline du Cercle de Granges"
+    ],
+    "Divers": [
+      "Cosandai-Bersier P."
+    ]
+  },
+  "SAUBRAZ": {
+    "Syndic": [
+      "Rousson Ed."
+    ],
+    "Secrétaire": [
+      "Badel Samuel"
+    ],
+    "Boursier": [
+      "Porret Michel"
+    ],
+    "Huissier": [
+      "Badel Samuel"
+    ],
+    "Municipaux": [
+      "Baiche Aloïs",
+      "Baiche Marc",
+      "Champion César",
+      "Porret Fernand"
+    ],
+    "Assesseur": [
+      "Rousson Edouard"
+    ],
+    "Cantonnier": [
+      "Champion Louis"
+    ],
+    "Commandant du feu": [
+      "Wecter Chs."
+    ],
+    "Commission scolaire": [
+      "Rousson Ed."
+    ],
+    "Garde-forestier": [
+      "Champion Albert"
+    ],
+    "Inspect. du bétail": [
+      "Roussen Ls."
+    ],
+    "Inspecteur des viandes": [
+      "Ansermet"
+    ],
+    "Instituteurs": [
+      "Berseth Maurice",
+      "Baiche Louise"
+    ],
+    "Pasteur": [
+      "Hoguer François"
+    ],
+    "Police (agent de)": [
+      "Uldry Jules"
+    ],
+    "Poste et télégraphe": [
+      "Uldry Marguerite"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Häberlé Elsa",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs": [
+      "Badel Samuel",
+      "Baiche Aloïs",
+      "Baiche Henri",
+      "Baiche Marc",
+      "Baiche Victor",
+      "Berseth Fernand",
+      "Berseth Léonie",
+      "Bonard Alfred",
+      "Brand Paul",
+      "Champion César",
+      "Champion Louis",
+      "Chappuis Albert",
+      "Chevallaz Ami",
+      "Chollet Paul",
+      "Colomb Jean",
+      "Humbret-Droz Jules",
+      "Jotterand John",
+      "Lybirde François",
+      "Forster Arnold",
+      "Porret Michel",
+      "Racine Ul.",
+      "Rousson Edouard",
+      "Rousson Louis",
+      "Schopfer Henri",
+      "Urfer Fritz",
+      "Urfer Jacob",
+      "Wecter Jules-François, hoirie"
+    ],
+    "Apiculteurs": [
+      "Baiche Aloïs",
+      "Berseth Maurice",
+      "Brand Paul",
+      "Chappuis Albert",
+      "Porret Ed."
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Berseth M."
+    ],
+    "Bois (march. de)": [
+      "Pasche Isaac"
+    ],
+    "Café": [
+      "Häberli Elsa"
+    ],
+    "Charpentier": [
+      "Dallinges Eugène"
+    ],
+    "Couturières": [
+      "Chappuis Geneviève",
+      "Humbert-Droz Marthe",
+      "Porret Germaine"
+    ],
+    "Echalas (fab. d')": [
+      "Fazan Marcel"
+    ],
+    "Entrepreneurs": [
+      "Dallinges Eugène",
+      "Porret Fernand"
+    ],
+    "Epiceries, merceries": [
+      "Dallinges Eugène",
+      "Wiedmer Fanny, Vve"
+    ],
+    "Horloger": [
+      "van Bylen Edgar"
+    ],
+    "Laiterie": [
+      "Champion César"
+    ],
+    "Maçon": [
+      "Porret Fernand"
+    ],
+    "Mécanicien": [
+      "Porret Valentin"
+    ],
+    "Menuisier": [
+      "Isely Auguste"
+    ],
+    "Meunier": [
+      "Forster Arnold"
+    ],
+    "Pêcheurs": [
+      "Erard Albin",
+      "Porret Fernand",
+      "Porret Valentin"
+    ],
+    "Peintre": [
+      "Werner Hermann"
+    ],
+    "Scieur": [
+      "Pasche Isaac"
+    ],
+    "Sociétés": [
+      "Sté de chant L'Avenir",
+      "Sté de couture dames",
+      "Sté de fromagerie",
+      "Sté de tir",
+      "Syndicat agricole",
+      "Sté de jeunesse"
+    ]
+  }
+}

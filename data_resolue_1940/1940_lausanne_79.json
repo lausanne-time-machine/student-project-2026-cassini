@@ -1,0 +1,99 @@
+{
+  "LAUSANNE": {
+    "HOTELS": [
+      "Montana-Hôtel",
+      "Paix (de la)",
+      "Victoria",
+      "Windsor"
+    ],
+    "Hôtels deuxième rang.": [
+      "Alpes et British-American Hôtel S. A.",
+      "Angleterre (d’)",
+      "Astoria S. A.",
+      "Balmoral",
+      "Belvédère",
+      "British-American Hôtel S. A.",
+      "Byron",
+      "Central-Bellevue",
+      "Continental et de la Gare",
+      "Eden",
+      "Europe",
+      "France",
+      "Lausanne (de)",
+      "Lutétia",
+      "Modern-Hôtel-Jura-Simplon S. A.",
+      "Mont Fleuri",
+      "Palmiers (des)",
+      "Parc (du)"
+    ],
+    "Hôtels-pensions.": [
+      "Belmont, S. A.",
+      "Bien-Choisi",
+      "Brasserie Munichoise",
+      "Britania",
+      "Carlton Hôtel S. A.",
+      "Château d'Evian",
+      "Clarence",
+      "Commerce",
+      "Elite",
+      "Etoile (L')",
+      "Etrangers (des)",
+      "Florissant",
+      "Forêt Golf-Hôtel et Pension",
+      "Golf-Hôtel et Pension de la Forêt",
+      "Guillaume-Tell",
+      "Léman (du)",
+      "Messageries (des)",
+      "Mon Repos",
+      "National",
+      "Ours (de l’)",
+      "Port (du)",
+      "Poste (de la)",
+      "Raisin (du)",
+      "Trois Rois (des)",
+      "Voyageurs (des)",
+      "Winkelried"
+    ],
+    "HUILES COMBUSTIBLES": [
+      "Soprochar S. A."
+    ],
+    "HUILES ET GRAISSES INDUSTRIELLES": [
+      "Acil S. A.",
+      "Antar",
+      "Autol S. A.",
+      "Beck L.",
+      "Dufey Fernand",
+      "Ferrazzini J.",
+      "Grobet Marc",
+      "Huber Max",
+      "Luce S. A.",
+      "Mayer Théod.",
+      "Manuel Jean",
+      "Paccanari Charles",
+      "Petremand René",
+      "Socal, S. A.",
+      "Standard Huiles minérales S. A.",
+      "Vuille Ferdinand"
+    ],
+    "HUILERIE": [
+      "Huilerie de Convaloup"
+    ],
+    "HYGIÈNE DE LA CHEVELURE": [
+      "Arnould Pauline",
+      "Bardet Zélia",
+      "Chappuis E.",
+      "Chavan Marguerite",
+      "Conne Marie",
+      "Coupy Joséphine",
+      "Hächler Rose",
+      "Kaiser Emilie",
+      "Kustner Adélaïde",
+      "Moser-Wagen M.",
+      "Mutrux Dora",
+      "Pfeiffer Marie",
+      "Prod'hom Jeanne",
+      "Ruedi",
+      "Vuillemin-Barrelet Lucie"
+    ]
+  }
+}

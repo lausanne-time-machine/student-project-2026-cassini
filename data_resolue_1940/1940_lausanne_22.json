@@ -1,0 +1,60 @@
+{
+  "GENÈVE": {
+    "AVOCATS": [
+      "Mercier A.",
+      "Panchaud André",
+      "Petitmermet Robert",
+      "Prod'hom Louis",
+      "Reymond Charles",
+      "Robert Louis",
+      "Secretan Roger",
+      "Thilo Emile",
+      "Warnéry André",
+      "Zweifel F.-L."
+    ],
+    "BACHÉS": [
+      "Beck frères",
+      "Savary Albert & fils"
+    ],
+    "BAINS": [
+      "Bains et Buanderie Haldimand",
+      "Bains publics de la Gare",
+      "Bellerive-Plage",
+      "Lausanne-Ouchy"
+    ],
+    "BALANCES": [
+      "Cochet Emile",
+      "Elsasser-Barraud",
+      "Latscha W."
+    ],
+    "BANDAGISTES": [
+      "Béglé G.",
+      "Bocksberger Oscar",
+      "Inex S. A.",
+      "Jeannet Ed.",
+      "Maison Schaerer S. A.",
+      "Michel Robert",
+      "Pitton E.",
+      "Streicher Joh.",
+      "Stryczeck & Cie",
+      "Tobler Jean"
+    ],
+    "BANDAGISTES (fournit. pour)": [
+      "Gips-Union S. A."
+    ],
+    "BANQUES": [
+      "Bourse de Lausanne",
+      "Banque Cantonale Vaudoise",
+      "BANQUE FEDERALE S.A.",
+      "Banque Nationale Suisse",
+      "Banque Populaire Suisse",
+      "Banque de Prêts S. A.",
+      "Bugnion & Cie",
+      "Banque privée",
+      "Caisse d'Epargne Cantonale Vaudoise",
+      "Caisse d'Epargne et de Prévoyance",
+      "Caisse d'Epargne et de Crédit",
+      "Crédit Foncier Vaudois"
+    ]
+  }
+}

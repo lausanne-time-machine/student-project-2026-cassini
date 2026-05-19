@@ -1,0 +1,253 @@
+{
+  "BERCHER": {
+    "Tailleurs": [
+      "Cruchon Eugène",
+      "Linker Jules",
+      "Crot Louis"
+    ],
+    "Tailleuse": [
+      "Wagnière-Lagnaz",
+      "Genton Julie"
+    ],
+    "Tapissier": [
+      "Tapis Emile"
+    ],
+    "Tuiliers": [
+      "Dutoit frères & Cie."
+    ],
+    "Vétérinaire": [
+      "Pochon E."
+    ],
+    "Voituriers et camionneurs": [
+      "Coquerand Louis",
+      "Coquerand Jules",
+      "Dutoit Jules",
+      "Gonet"
+    ],
+    "Vélocipèdes": [
+      "Pahud Henri"
+    ]
+  },
+  "BOULENS": {
+    "Autorités communales": [
+      "Guex Béat",
+      "Jordan Constant"
+    ],
+    "Syndic": [
+      "Guex William"
+    ],
+    "Municipaux": [
+      "Guex J.-Samuel",
+      "Guex Aloïs",
+      "Guex François",
+      "Guex Ernest",
+      "Jordan Louis",
+      "Vulliens Béat",
+      "Jordan Louis",
+      "Vulliens Emile"
+    ],
+    "Agriculteurs": [
+      "Buttet Jules",
+      "Dutoit Alexis",
+      "Guex Alexis",
+      "Guex Ami",
+      "Guex Béat",
+      "Guex Constant",
+      "Guex Eugène",
+      "Guex François",
+      "Guex Héli",
+      "Guex Jean-Daniel",
+      "Guex Jean",
+      "Guex Jules",
+      "Guex Justin",
+      "Guex Louis",
+      "Jordan Gustave",
+      "Recordon Henri",
+      "Vulliens Béat",
+      "Vulliens frères",
+      "Vulliens-Pelet Louis"
+    ],
+    "Aubergiste": [
+      "Dutoit Alexis"
+    ],
+    "Charpentiers": [
+      "Deluche Alfred",
+      "Guex Constant"
+    ],
+    "Commission scolaire": [
+      "Augsburger",
+      "Guex William"
+    ],
+    "Epicerie": [
+      "Jordan Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Guex Eugène"
+    ],
+    "Instituteurs": [
+      "Mercier Aloïs",
+      "Küffer Emma"
+    ],
+    "Meuniers et scieurs": [
+      "Isoz frères"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Téléphoniste": [
+      "Dutoit Alexis"
+    ]
+  },
+  "BRENLES": {
+    "Autorités communales": [
+      "Corthésy Jules",
+      "Blanc Georges"
+    ],
+    "Syndic": [
+      "Cavin Constant"
+    ],
+    "Municipaux": [
+      "Blanc Jules",
+      "Corthésy Edouard",
+      "Rod Jules",
+      "Senn Fernand",
+      "Gavin Louis",
+      "Blanc Georges"
+    ],
+    "Agriculteurs": [
+      "Gavin Constant",
+      "Gavin Louis",
+      "Sonnay Aimé"
+    ],
+    "Aubergistes": [
+      "Fague Constant",
+      "Senn Henri"
+    ],
+    "Chef de section": [
+      "Senn Jules"
+    ],
+    "Cimenteur": [
+      "Poletti Pierre"
+    ],
+    "Commission scolaire": [
+      "Senn Fernand",
+      "Corthésy Paul"
+    ],
+    "Epicerie, mercerie": [
+      "Blanc Jean",
+      "Poletti Rosine"
+    ],
+    "Inspecteur du bétail": [
+      "Gavin Louis"
+    ],
+    "Instituteur": [
+      "Chessex Albert"
+    ],
+    "Maçon": [
+      "Poletti Pierre"
+    ],
+    "Maréchal": [
+      "Battaïni Victor"
+    ],
+    "Poste": [
+      "Poletti Adèle"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "De la mécanique et scierie",
+      "Syndicat agricole"
+    ],
+    "Téléphoniste": [
+      "Poletti Rosine"
+    ]
+  },
+  "BUSSY-sur-MOUDON": {
+    "Autorités communales": [
+      "Augsburger Constant",
+      "Durussel Henri"
+    ],
+    "Syndic": [
+      "Lagnaz Ch.-Daniel"
+    ],
+    "Municipaux": [
+      "Durussel Béat",
+      "Cavin Eugène",
+      "Jossevel Arnold",
+      "Meystre Constant",
+      "Lagnaz Jules",
+      "Braillard Auguste"
+    ],
+    "Agriculteurs": [
+      "Anker, frères",
+      "Augsburger Jules",
+      "Balmer Charles",
+      "Durussel Elise",
+      "Guggisberg Christian",
+      "Jossevel Lydie",
+      "Jossevel Ch.-D.",
+      "Jossevel Marguerite",
+      "Lagnaz Alexis",
+      "Lagnaz Eug.",
+      "Meystre Constant",
+      "Meystre Henri",
+      "Stelz Jules",
+      "Thonney Alexis",
+      "Vifian Jean"
+    ],
+    "Café": [
+      "Cavin Eugène"
+    ],
+    "Charron": [
+      "Jossevel Fritz"
+    ],
+    "Commission scolaire": [
+      "Lagnaz Ch.-Daniel",
+      "Jossevel Arnold",
+      "Lagnaz Jules"
+    ],
+    "Cordonnier": [
+      "Jossevel U."
+    ],
+    "Inspecteur du bétail": [
+      "Lagnaz Jules"
+    ],
+    "Instituteur": [
+      "Augsburger Constant-D."
+    ],
+    "Maçon": [
+      "Ducret Louis"
+    ],
+    "Sociétés": [
+      "Du battoir à blé",
+      "De laiterie"
+    ],
+    "Téléphoniste": [
+      "Cavin Eugène"
+    ]
+  },
+  "CHAPELLES": {
+    "Autorités communales": [
+      "Besson Victor",
+      "Besson Héli"
+    ],
+    "Syndic": [
+      "Pache Louis"
+    ],
+    "Municipaux": [
+      "Besson Jules",
+      "Mingard John",
+      "Mingard Ernest",
+      "Jaton Héli",
+      "Pache Ulysse",
+      "Mingard Jules",
+      "Veyre L.",
+      "Besson-Porchet Héli"
+    ],
+    "Agriculteurs": [
+      "Besson Emile",
+      "Besson Jules",
+      "Besson Victor",
+      "Besson Ulysse"
+    ]
+  }
+}

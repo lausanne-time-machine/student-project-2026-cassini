@@ -1,0 +1,271 @@
+{
+  "VAUX": {
+    "Agriculteurs": [
+      "Panchaud Rodolphe",
+      "Panchaud Julien",
+      "Panchaud Eugène",
+      "Paquier Jules",
+      "Schmidt Eugène",
+      "Schmidt Marc",
+      "Schmidt Rodolphe",
+      "Schmidt Constant",
+      "Schopfer Charles",
+      "Stoudmann Henri"
+    ],
+    "Charron.": [
+      "Vauthey Constant"
+    ],
+    "Commission scolaire.": [
+      "Forel Louis. T",
+      "Schopfer Charles"
+    ],
+    "Inspecteur du bétail.": [
+      "Schmidt Constant"
+    ],
+    "Instituteur.": [
+      "Guerry Emile"
+    ],
+    "Laitier.": [
+      "Jaggi Ferdinand"
+    ],
+    "Maréchal.": [
+      "Zbinden Fritz"
+    ],
+    "Meunier.": [
+      "Bovay Jules"
+    ],
+    "Rentières.": [
+      "Devenoge Julie",
+      "Mercier Marie"
+    ],
+    "Sage-femme.": [
+      "Bovay Caroline"
+    ],
+    "Société.": [
+      "De fromagerie. R."
+    ]
+  },
+  "VILLARS-SAINTE-CROIX": {
+    "Autorités communales.": [
+      "Moraz Louis",
+      "Cuéret Aloïs"
+    ],
+    "Syndic": [
+      "Cuérel Louis-Henri"
+    ],
+    "Municipaux": [
+      "Diserens Jules",
+      "Cuérel Maurice",
+      "Cuérel Marius",
+      "Cuérel François",
+      "Pache Albert"
+    ],
+    "Boursier": [
+      "Cuérel François"
+    ],
+    "Agriculteurs.": [
+      "Bolay Charles",
+      "Cuérel Charles",
+      "Cuérel Constant",
+      "Cuérel Henri-François",
+      "Cuérel Henri-Louis",
+      "Cuérel, hoirs de Ferdinand",
+      "Cuérel, hoirs de François-Louis",
+      "Cuérel Jules-Marc",
+      "Cuérel Marius",
+      "Diserens Jules",
+      "Golay Emile",
+      "Moraz Charles",
+      "Moraz Constant",
+      "Moraz Louis",
+      "Moraz Samuel",
+      "Neyret Constant",
+      "Pache Louis"
+    ],
+    "Charpentier.": [
+      "Dépierraz François"
+    ],
+    "Charron.": [
+      "Moraz Henri"
+    ],
+    "Commission scolaire.": [
+      "Baumann Jaques",
+      "Moraz Samuel",
+      "Cuérel Henri-Louis"
+    ],
+    "Instituteur.": [
+      "Aubert Emile"
+    ],
+    "Société.": [
+      "De laiterie. R."
+    ],
+    "Tailleuses.": [
+      "Cuérel Nancy",
+      "Dépierraz Emma",
+      "Pache Marie"
+    ]
+  },
+  "VILLARS-SOUS-YENS": {
+    "Autorités communales.": [
+      "Guibert Auguste",
+      "Berthet Emile"
+    ],
+    "Syndic": [
+      "Blanc Paul"
+    ],
+    "Municipaux": [
+      "Favre Ch.-Aug.",
+      "Guibert Laurent",
+      "Chaudet Henri",
+      "Favre C.",
+      "Favre Fernand"
+    ],
+    "Boursier": [
+      "Bujard Fernand"
+    ],
+    "Bétail (march. de).": [
+      "Grand Justin"
+    ],
+    "Bouchers.": [
+      "Favre Lucien",
+      "Guibert Ami"
+    ],
+    "Boulanger.": [
+      "Lannaz Henri"
+    ],
+    "Briqueterie.": [
+      "Eindiguer Maurice"
+    ],
+    "Broyeurs à raisin (fabr. de).": [
+      "Berthet Alexandre & fils"
+    ],
+    "Bureau de poste.": [
+      "Favre C."
+    ],
+    "Cafetiers.": [
+      "Cavin Aimé",
+      "Pernet Alfred"
+    ],
+    "Charpentier.": [
+      "Avondet Paul"
+    ],
+    "Charrons.": [
+      "Berthet Alexandre & fils"
+    ],
+    "Cordonniers.": [
+      "Laurent Henri",
+      "Regamey Jules"
+    ],
+    "Couturières.": [
+      "Grand Anna",
+      "Reymond Marie"
+    ],
+    "Electriciens.": [
+      "Société lausannoise d'électricité"
+    ],
+    "Epicerie, mercerie.": [
+      "Lannaz Henri"
+    ],
+    "Inspecteur du bétail.": [
+      "Grand Jules"
+    ],
+    "Instituteurs.": [
+      "Bovay Henri",
+      "Croset-Benoit Adèle"
+    ],
+    "Justice de paix.": [
+      "Gonvers François",
+      "Pernet Alex.",
+      "Bourgeois Jules",
+      "Haas François",
+      "Guibert Laurent",
+      "de la Harpe Henri"
+    ],
+    "Laitier.": [
+      "Sahli Ernest"
+    ],
+    "Lingère.": [
+      "Estoppey Julia"
+    ],
+    "Maréchal.": [
+      "Desponds Jules"
+    ],
+    "Menuisier.": [
+      "Avondet Paul"
+    ],
+    "Officier d'état civil.": [
+      "Bovay Henri"
+    ],
+    "Relieur.": [
+      "Reymond-Rochat"
+    ],
+    "Scierie, menuiserie.": [
+      "Avondet Paul"
+    ],
+    "Sociétés.": [
+      "De fromagerie. R",
+      "Du Battoir à grains, Denens-Villars-sous-Yens. R",
+      "De l'Usine du Moulin. R"
+    ],
+    "Téléphone.": [
+      "Lannaz Henri"
+    ]
+  },
+  "VUFFLENS-LE-CHATEAU": {
+    "Autorités communales.": [
+      "Bregand L.",
+      "Vuffray Ferdinand"
+    ],
+    "Syndic": [
+      "Perey Léon"
+    ],
+    "Municipaux": [
+      "Duruz Marius",
+      "Vuffray Auguste",
+      "Gaulis Sigismond",
+      "Vuffray Albert",
+      "Perey F."
+    ],
+    "Boursier": [
+      "Vuffray Constant"
+    ],
+    "Agriculteurs.": [
+      "Duruz Marius",
+      "Henriod L.",
+      "Mercier Charles",
+      "Perey Léon",
+      "Rossier Ulysse",
+      "Schopfer Jean",
+      "Stoudmann, hoirie",
+      "Vuffray Ami",
+      "Vuffray Marc",
+      "Wälchli Jean"
+    ],
+    "Cafés.": [
+      "Thibaud Louis",
+      "Vuffray, hoirs d'Emile"
+    ],
+    "Charron.": [
+      "Candaux Jules, fils"
+    ],
+    "Charpentier-menuisier.": [
+      "Cosenday Jules"
+    ],
+    "Chef de gare.": [
+      "Bovy Marc"
+    ],
+    "Chef de section.": [
+      "Duruz Marius"
+    ],
+    "Commission scolaire.": [
+      "Colomb Gustave",
+      "Perey Léon"
+    ],
+    "Cordier.": [
+      "Walther Christian"
+    ],
+    "Cordonnier.": [
+      "Friedli Gottfried"
+    ]
+  }
+}

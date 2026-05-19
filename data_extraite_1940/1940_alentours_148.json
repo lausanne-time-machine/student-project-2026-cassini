@@ -1,0 +1,398 @@
+{
+  "MONTCHERAND": {
+    "CONTINUATION_FROM_PREVIOUS_PAGE": [
+      "Nicole Jules",
+      "Nicole Julien",
+      "Nicole Lucien",
+      "Péclard Samuel",
+      "Pinard Henri",
+      "Randin Henri"
+    ],
+    "Apiculteur": [
+      "Grobet Paul",
+      "Martin André",
+      "Martin Georges"
+    ],
+    "Architecte": [
+      "Barbey René"
+    ],
+    "Assurance - vieillesse": [
+      "Associations mutualistes de retraite",
+      "Gesseney A."
+    ],
+    "Café": [
+      "Buhler Jules",
+      "la Treille"
+    ],
+    "Couturière": [
+      "Chédel Alice"
+    ],
+    "Electricien": [
+      "Chédel M."
+    ],
+    "Epicerie et mercerie": [
+      "Jossevel-Augsbourger Ch.",
+      "L'Economie"
+    ],
+    "Menuisier": [
+      "Borgeaud Charles"
+    ],
+    "Pêcheurs": [
+      "Gueissaz Victor",
+      "Gueissaz Samuel"
+    ],
+    "Pompes funèbres du Nord": [
+      "Corset Georges"
+    ],
+    "Rentière": [
+      "Chédel Louise"
+    ],
+    "Sable et gravier (carrière de)": [
+      "Duruz Eugène"
+    ],
+    "Sociétés": [
+      "Sté anonyme de Bel Coster",
+      "Sté de fromagerie",
+      "Sté du Poids public",
+      "Sté des volontaires"
+    ],
+    "Transports": [
+      "Renaud Paul"
+    ],
+    "Divers": [
+      "Moreillon Maurice"
+    ]
+  },
+  "MONTHEROD": {
+    "Syndic": [
+      "Chauvy Jules"
+    ],
+    "Secrétaire": [
+      "Chenuz Charles"
+    ],
+    "Boursier": [
+      "Vidoudez Albert fils"
+    ],
+    "Huissier": [
+      "Rubin Jules"
+    ],
+    "Municipaux": [
+      "Chevallaz Ernest",
+      "Lavanchy Alexis",
+      "Liardon Louis",
+      "Kursner Marcel"
+    ],
+    "Assesseur": [
+      "Chauvy Jules"
+    ],
+    "Cantonnier": [
+      "Liardon Charles"
+    ],
+    "Commandant du feu": [
+      "Chauvy Jules"
+    ],
+    "Commission scolaire": [
+      "Liardon Alb."
+    ],
+    "Garde forestier": [
+      "Theintz Auguste"
+    ],
+    "Inspecteur du bétail": [
+      "Vidoudez Alb."
+    ],
+    "Instituteurs": [
+      "Goy Albert",
+      "Bichet Jeanne"
+    ],
+    "Pasteur": [
+      "M. Cavin"
+    ],
+    "Police (agent de)": [
+      "Rubin Jules"
+    ],
+    "Poste et télégraphe": [
+      "Chauvy Jules"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Station publique"
+    ],
+    "Agriculteurs": [
+      "Brugger Fritz",
+      "Chauvy Jules",
+      "Chenuz Marc",
+      "Chevallaz Ch.",
+      "Chevallaz Ern.",
+      "Filieux Ls",
+      "Hofmann Adolphe",
+      "Humbert Ul.",
+      "Hédiguer Henri",
+      "Herren Pl.",
+      "Jaquenoud Eug.",
+      "Kursner Alb.",
+      "Kursner Luc.",
+      "Kursner, Vve",
+      "Kursner Ls",
+      "Lavanchy Alex.",
+      "Liardon Albert",
+      "Liardon Alfred",
+      "Liardon Louis",
+      "Meylan Louis",
+      "Michel Fritz",
+      "Neuschwander Fritz",
+      "Rochat Louis",
+      "Rubin Rodolphe",
+      "Steiner Charles",
+      "Vidoudez Albert",
+      "Vidoudez Georges"
+    ],
+    "Bois (march. de)": [
+      "Champion Louis",
+      "Liardon Albert",
+      "Vidoudez Albert",
+      "Vidoudez Louis"
+    ],
+    "Café": [
+      "Chenuz Charles",
+      "A l'Ecusson Vaudois"
+    ],
+    "Charron": [
+      "Augsbourger Marcel"
+    ],
+    "E-icerie": [
+      "Badel Nelly, Vve"
+    ],
+    "Pensionnat de jeunes filles": [
+      "Chevallaz Lina"
+    ],
+    "Sociétés": [
+      "Sté du battoir",
+      "Sté de fromagerie",
+      "Sté de tir"
+    ],
+    "Vignerons": [
+      "Augsbourger Emile",
+      "Autier Emile",
+      "Mingard Henri"
+    ]
+  },
+  "MONT-LA-VILLE": {
+    "Syndic": [
+      "Martinet Arthur"
+    ],
+    "Secrétaire": [
+      "Roux Auguste"
+    ],
+    "Boursier": [
+      "Martinet Louis-David"
+    ],
+    "Huissier": [
+      "Martinet Emile"
+    ],
+    "Municipaux": [
+      "Bélaz Valentin",
+      "Charoton Marcel",
+      "Lyon Louis",
+      "Martinet Jean"
+    ],
+    "Command. du feu": [
+      "Bélaz Valentin"
+    ],
+    "Commission scolaire": [
+      "Lyon Louis",
+      "Rochat Jean"
+    ],
+    "Garde-forestier": [
+      "Martinet Paul"
+    ],
+    "Inspecteur du bétail": [
+      "Martinet Ls-David",
+      "Bélaz Valentin"
+    ],
+    "Inspecteur des viandes": [
+      "Martinet Ls"
+    ],
+    "Instituteur": [
+      "Bornand Oscar"
+    ],
+    "Pasteur": [
+      "Girardet Albert"
+    ],
+    "Police (agent de)": [
+      "Martinet Edouard"
+    ],
+    "Poste et télégraphe": [
+      "Martinet Jean"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Charoton Marc",
+      "Station publique"
+    ],
+    "Agriculteurs": [
+      "Bélaz Ami",
+      "Bélaz Gustave",
+      "Cardinaux Louis",
+      "Charoton Germain",
+      "Charoton Robert",
+      "Charoton Marcel",
+      "Charoton Roger",
+      "Charoton Emile",
+      "Charoton John",
+      "Chevalley Edouard",
+      "Chapuis frères",
+      "Delacrétaz Louis",
+      "Genevaz John",
+      "Genevaz Louis",
+      "Lyon Emile",
+      "Lyon Louis",
+      "Lyon Henri",
+      "Martinet Arthur",
+      "Martinet Eugène",
+      "Martinet Ls-David",
+      "Martinet Chs d'Hri",
+      "Martinet Henri",
+      "Martinet William",
+      "Mayor Louis",
+      "Pettermann Paul",
+      "Rochat Emile",
+      "Rochat Marcel",
+      "Rochat Louis",
+      "Rochat Pierre"
+    ],
+    "Ameublements": [
+      "Cuvit Octave"
+    ],
+    "Amodiateurs": [
+      "Lyon Emile",
+      "Rochat Emile",
+      "Rochat Julien"
+    ],
+    "Assurance - vieillesse": [
+      "Associations mutualistes de retraite",
+      "Bornand O."
+    ],
+    "Bois (march. de)": [
+      "Bélaz Ami",
+      "Bélaz Gustave",
+      "Charoton Emile",
+      "Chaillet-Rochat Lucien",
+      "Martinet Louis-David",
+      "Rochat-Cloux Marcel"
+    ],
+    "Boulanger": [
+      "Bélaz Emma, Vve"
+    ],
+    "Bouchers": [
+      "Bovet Ernest",
+      "Rochat Roland"
+    ],
+    "Cafés": [
+      "Martinet Arthur",
+      "Simond G."
+    ],
+    "Charpentier": [
+      "Durussel Georges"
+    ],
+    "Charron": [
+      "Rochat Edmond"
+    ],
+    "Cordonnier": [
+      "Centlivres Jean"
+    ],
+    "Couturière": [
+      "Genevaz Bertha"
+    ],
+    "Entrepreneurs": [
+      "Bertoni Pierre",
+      "Cuvit O. T.",
+      "Ruffetta Jean"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Bélaz Gustave",
+      "Martinet-Bornand, Vve R.",
+      "Roux Auguste"
+    ],
+    "Horlogerie (fournit pr), contre-pivot et sertissage": [
+      "Rochat-Genevaz César & fils",
+      "Martinet Charles"
+    ],
+    "Hôtel": [
+      "Charoton Germain"
+    ],
+    "Laitier, fromages et vacherins": [
+      "Bignens Herm.",
+      "Société de laiterie"
+    ],
+    "Maréchaux": [
+      "Genevaz André",
+      "Rochat Auguste"
+    ],
+    "Menuisiers": [
+      "Cuvit Octave",
+      "Durussel Georges",
+      "Charoton Ed."
+    ],
+    "Pensions": [
+      "Rochat-Bélaz Hélène",
+      "Jäggi-Rochat Gottfried"
+    ],
+    "Sociétés": [
+      "Sté de l'Echo du Jura",
+      "Sté de fromagerie",
+      "Syndicat agricole"
+    ],
+    "Tailleur": [
+      "Rochat Alexandre"
+    ],
+    "Divers": [
+      "Knecht-Roux Aug., Vve"
+    ]
+  },
+  "MONT-SUR-ROLLE": {
+    "Syndic": [
+      "Dufour André"
+    ],
+    "Secrétaire": [
+      "Gallay Fritz"
+    ],
+    "Boursier": [
+      "Richard Louis"
+    ],
+    "Huissier": [
+      "Bugnon Lucien"
+    ],
+    "Municipaux": [
+      "Blondel Georges",
+      "Monnard Charles",
+      "Pernet Marcel",
+      "Renevier Marcel"
+    ],
+    "Cantonniers": [
+      "Croisier Julien",
+      "Gallay John"
+    ],
+    "Commandant du feu": [
+      "Sachot Aimé"
+    ],
+    "Commission scolaire": [
+      "Richard Louis"
+    ],
+    "Inspecteurs du bétail": [
+      "Monnard Em.",
+      "Baud Jules"
+    ],
+    "Inspecteur des viandes": [
+      "Gallay M."
+    ],
+    "Instituteurs": [
+      "Badan Louis",
+      "Caillat Alice",
+      "Cauderay-Curchod Rose",
+      "Guignard Hélène"
+    ],
+    "Police (agent de)": [
+      "Bugnon Lucien"
+    ]
+  }
+}

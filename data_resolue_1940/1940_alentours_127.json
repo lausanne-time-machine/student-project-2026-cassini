@@ -1,0 +1,366 @@
+{
+  "LAVEY": {
+    "Appareilleur": [
+      "Detrey Jâmes"
+    ],
+    "Assurance-grêle cantonale": [
+      "Chesaux Albert"
+    ],
+    "Assurance-vieillesse": [
+      "Meylan Charles",
+      "Sté mutualiste de retraite"
+    ],
+    "Auto-taxi": [
+      "Pasche Edouard"
+    ],
+    "Bétail (march. de)": [
+      "Bonzon François"
+    ],
+    "Blanchisseuses": [
+      "Pasche Berthe",
+      "Vaudroz Rose"
+    ],
+    "Boulanger": [
+      "Chollet Charles"
+    ],
+    "Cafés": [
+      "Bourguignon",
+      "Pasche Edouard"
+    ],
+    "Couturières": [
+      "Chesaux Lse",
+      "Kaufmann"
+    ],
+    "Electricien": [
+      "Chevalley Louis"
+    ],
+    "Entrepreneur": [
+      "Gritti Angelo"
+    ],
+    "Epiceries-merceries": [
+      "Pasche Berthe",
+      "Soc. de consommation"
+    ],
+    "Fromages": [
+      "Chesaux Gabriel"
+    ],
+    "Hôtels-pensions": [
+      "Pasche Ed. fils",
+      "Bourguignon"
+    ],
+    "Laiterie": [
+      "Pointet Charles"
+    ],
+    "Menuisier": [
+      "Chesaux Aimé"
+    ],
+    "Sage-femme": [
+      "Jordan Ida"
+    ],
+    "Sociétés": [
+      "Association institut catholique",
+      "Sté de laiterie de Lavey-Village",
+      "Sté coopér. immobilière des cheminots",
+      "Fanfare de Lavey",
+      "Chœur d'hommes de Lavey",
+      "Chœur mixte paroissial",
+      "Sté immob. La Ruche R.",
+      "Sté de tir Armes réunies. R."
+    ],
+    "Vignerons": [
+      "Bonjour Rodolphe",
+      "Chesaux Albert",
+      "Chesaux Gabriel",
+      "Deslex Alphonse"
+    ]
+  },
+  "Lavey-les-Bains": {
+    "Garde-forestier": [
+      "Guillat Edouard"
+    ],
+    "Agriculteurs": [
+      "Baley Emile",
+      "Bossy Maxime",
+      "Guillat Edouard",
+      "Guillat Oscar",
+      "Sackmann Alfred"
+    ],
+    "Bains": [
+      "Etablissement cantonal de Lavey-les-Bains (Hôtel et Hôpital)",
+      "Golay Paul",
+      "Petitpierre"
+    ],
+    "Bazar": [
+      "Dubois"
+    ],
+    "Café-rest.": [
+      "Gautier Marguerite"
+    ],
+    "Divers": [
+      "Egli Aug.",
+      "De Mestral"
+    ]
+  },
+  "Morcles": {
+    "Instituteur": [
+      "Ogay Roger"
+    ],
+    "Poste": [
+      "Michel Esther"
+    ],
+    "Agriculteurs": [
+      "Anderegg Jacob",
+      "Chesaux Lucien",
+      "Ecuyer Edmond",
+      "Ecuyer Jules"
+    ],
+    "Assurance-vieillesse": [
+      "Ogay Roger"
+    ],
+    "Boulangerie-épicerie": [
+      "Verney Fritz"
+    ],
+    "Cafés": [
+      "Max Pâquerette"
+    ],
+    "Charpentier": [
+      "Michel Frédéric"
+    ],
+    "Entrepreneur": [
+      "Ecuyer Edmond"
+    ],
+    "Hôtel": [
+      "Monnet Joseph"
+    ],
+    "Tailleur": [
+      "Anderegg Jacob"
+    ]
+  },
+  "LAVIGNY": {
+    "Syndic": [
+      "de Tscharner Ed."
+    ],
+    "Secrétaire": [
+      "Moynat Eugène"
+    ],
+    "Boursier": [
+      "Krebs Edmond"
+    ],
+    "Huissier": [
+      "Girardet Arthur"
+    ],
+    "Municipaux": [
+      "Corday Robert",
+      "Guignard Arthur",
+      "Krebs Edmond",
+      "Rossier Edmond"
+    ],
+    "Cantonnier": [
+      "Corday Robert"
+    ],
+    "Commandant du feu": [
+      "Krebs Edm."
+    ],
+    "Commission scolaire": [
+      "Serex Aug."
+    ],
+    "Inspecteur du bétail": [
+      "Frank André"
+    ],
+    "Inspecteur des viandes": [
+      "Rossier Edmond"
+    ],
+    "Instituteur": [
+      "Oester Suzanne"
+    ],
+    "Pasteurs": [
+      "Cavin Robert",
+      "Rosset Daniel",
+      "Bridel Victor"
+    ],
+    "Poste": [
+      "Moynat Eugène"
+    ],
+    "Agriculteurs-vignerons": [
+      "Aegler Ed.",
+      "Attenon Maur.",
+      "Bovay Sam.",
+      "Chapuis Eug.",
+      "Chenuz Clara",
+      "Guignard Arthur",
+      "Krebs Edm",
+      "Moynat Gabriel",
+      "Moynat Paul",
+      "Pellet Elie",
+      "Pellet Julien",
+      "Perrot Alexis",
+      "Rossier Edmond",
+      "Rossier Ernest",
+      "Société des Asles",
+      "Schmidt Marcel"
+    ],
+    "Apiculteurs": [
+      "Bovay Oscar",
+      "Merminod W.",
+      "Moynat Emile",
+      "Naan Willy",
+      "Rochat Ernest"
+    ],
+    "Asile pour épileptiques": [
+      "Rieben E."
+    ],
+    "Assurance-vieillesse": [
+      "Zeender E."
+    ],
+    "Cafés": [
+      "Dupuis Ch."
+    ],
+    "Charpentier": [
+      "Christen Henri"
+    ],
+    "Epiceries": [
+      "Bovay Samuel",
+      "Perrod Alexis"
+    ],
+    "Laitier": [
+      "Sahli Emile"
+    ],
+    "Maréchal": [
+      "Grin Louis"
+    ],
+    "Menuisier et charron": [
+      "Berthet Gérard"
+    ],
+    "Meunier": [
+      "Muller Emile"
+    ],
+    "Sociétés": [
+      "Sté du battoir à grains. R.",
+      "Sté de fromagerie. R."
+    ],
+    "Viticulteurs": [
+      "Aegler Edouard",
+      "André Frank",
+      "Attenon Maurice",
+      "Cusin Charles",
+      "Dufour Edouard",
+      "Pasche Emile",
+      "Rossier Ernest"
+    ]
+  },
+  "LE LIEU": {
+    "Syndic": [
+      "Rochat Alphonse"
+    ],
+    "Secrétaire": [
+      "Buffat Albert"
+    ],
+    "Boursier": [
+      "Dépraz Elie"
+    ],
+    "Huissier": [
+      "Humberset Emile"
+    ],
+    "Municipaux": [
+      "Aubert P.-A.",
+      "Golay Victor",
+      "Nicole Marcel",
+      "Rochat Henri",
+      "Rochat H.-Albert",
+      "Rochat Jules-Jérémie"
+    ],
+    "Cantonniers": [
+      "Dubois",
+      "Golay Marcel",
+      "Grandchamp"
+    ],
+    "Chef de gare": [
+      "Jaques Numa"
+    ],
+    "Chef de section": [
+      "Aubert Jean"
+    ],
+    "Command. du feu": [
+      "Golay Victor"
+    ],
+    "Commission scolaire": [
+      "Rochat Alph.",
+      "Meylan Henri"
+    ],
+    "Contrôleur du lait": [
+      "Meylan Wilfrid"
+    ],
+    "Garde-forestier": [
+      "Reymond Elie"
+    ],
+    "Inspecteur du bétail": [
+      "Piguet Alfred"
+    ],
+    "Instituteurs": [
+      "Bovay Georges",
+      "Lugrin Jeanne"
+    ],
+    "Juge de paix": [
+      "Meylan Jean"
+    ],
+    "Officier d'état-civil": [
+      "Piguet Alfred"
+    ],
+    "Suppléant": [
+      "Meylan Henri"
+    ],
+    "Pasteur": [
+      "Jomini Frédéric"
+    ],
+    "Police (agent de)": [
+      "Humberset Emile"
+    ],
+    "Poste": [
+      "Aubert César"
+    ],
+    "Agriculteurs": [
+      "Aubert Henri",
+      "Cart Emile",
+      "Cart Frédéric",
+      "Dépraz César",
+      "Dépraz Charles",
+      "Dépraz Emile",
+      "Dépraz Robert",
+      "Dubois Edmond",
+      "Guignard Alexis",
+      "Guignard John",
+      "Guignard Jules",
+      "Guignard Pierre",
+      "Guignard Siméon",
+      "Guignard-Simond Jules",
+      "Lugrin Charles",
+      "Lugrin Elie",
+      "Lugrin Numa",
+      "Meylan Alfred",
+      "Meylan Auguste",
+      "Meylan Jean",
+      "Nicole Henri",
+      "Oesch Henri",
+      "Piguet Alfred",
+      "Reverchon Francis",
+      "Reverchon Marie",
+      "Reymond Elie",
+      "Simond Robert"
+    ],
+    "Assurance": [
+      "Rochat Alphonse"
+    ],
+    "Assurance-vieillesse": [
+      "Rochat Alph."
+    ],
+    "Bois (march. de)": [
+      "Aubert Hri."
+    ],
+    "Boisseliers": [
+      "Boissellerie du Risoux S. A."
+    ],
+    "Boulanger-pâtissier": [
+      "Rochat Charles-Antoine"
+    ]
+  }
+}

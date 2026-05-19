@@ -1,0 +1,260 @@
+{
+  "DONNELOYE": {
+    "Tailleur": [
+      "Heger J. R."
+    ],
+    "Tailleuses": [
+      "Viquerat Nancy"
+    ],
+    "Téléphoniste": [
+      "Billaud Edmond"
+    ],
+    "Usines": [
+      "Corthésy Henri",
+      "Golaz F."
+    ],
+    "Vétérinaire": [
+      "Kummer Frédéric"
+    ]
+  },
+  "ÉPENDES": {
+    "Secrétaire": [
+      "Massonnet Louis",
+      "Massonnet Jean"
+    ],
+    "Syndic": [
+      "Massonnet Edouard"
+    ],
+    "Municipaux": [
+      "Beausire Henri",
+      "du Plessis Henri",
+      "Massonnet Julien",
+      "Perrin Henri, fils"
+    ],
+    "Agriculteurs": [
+      "du Plessis Henri",
+      "Massonnet Louis",
+      "Massonnet Julien"
+    ],
+    "Apiculteurs": [
+      "Massonnet Jean",
+      "Perrin Henri, fils"
+    ],
+    "Cafetiers": [
+      "Chevallier Emile",
+      "Massonnet Jean"
+    ],
+    "Charpentier": [
+      "Henry Jules"
+    ],
+    "Charron": [
+      "Massonnet Eugène"
+    ],
+    "Chef de gare": [
+      "Chevallier Maurice"
+    ],
+    "Commission scolaire": [
+      "Peyrollaz",
+      "Massonnet J."
+    ],
+    "Cordonniers": [
+      "Massonnet Samuel",
+      "Turin Emmanuel"
+    ],
+    "Entrepreneur": [
+      "Garoni Jean"
+    ],
+    "Epicerie": [
+      "Chevallier Henri",
+      "ffeu F. R",
+      "Cornu Mathilde"
+    ],
+    "Horticulteur": [
+      "Henry Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Beausire Jean-Pierre"
+    ],
+    "Instituteurs": [
+      "Cart Auguste",
+      "Bovay Marie"
+    ],
+    "Laitier": [
+      "Spach Samuel"
+    ],
+    "Pasteur": [
+      "Peyrollaz Ed."
+    ],
+    "Poste": [
+      "Beausire Hélène"
+    ],
+    "Rentier": [
+      "du Plessis Henri"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "De l'Abbaye d'Ependes"
+    ],
+    "Téléphoniste": [
+      "Massonnet Jean"
+    ],
+    "Boursier": [
+      "du Plessis Henri"
+    ]
+  },
+  "ESSERT-PITTET": {
+    "Président du Conseil général": [
+      "Deytard Alfred"
+    ],
+    "Secrétaire": [
+      "Martin Emile",
+      "Miéville Louis"
+    ],
+    "Syndic": [
+      "Meystre Emile"
+    ],
+    "Municipaux": [
+      "Miéville Constant",
+      "Reymond Louis",
+      "Dupuis Ernest",
+      "Laurent Ernest"
+    ],
+    "Agriculteurs": [
+      "Bieler Edouard",
+      "Deytard François",
+      "Dind Louis",
+      "Dupuis Jaques",
+      "Dupuis Louis",
+      "Dupuis Ulysse",
+      "Dupuis Fritz",
+      "Laurent Ernest",
+      "Martin Constant",
+      "Martignier Alexandre",
+      "Meystre Emile",
+      "Miéville Constant",
+      "Miéville Paul",
+      "Reymond Louis"
+    ],
+    "Café": [
+      "Nadler Charles"
+    ],
+    "Commission scolaire": [
+      "Miéville Constant",
+      "Miéville Paul",
+      "Peyrollaz"
+    ],
+    "Cordonnier": [
+      "Miéville Constant"
+    ],
+    "Inspecteur du bétail": [
+      "Miéville Constant"
+    ],
+    "Instituteurs": [
+      "Combremont Robert",
+      "Combremont Louise"
+    ],
+    "Poste": [
+      "Auberson E."
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Boursier": [
+      "Reymond Louis"
+    ]
+  },
+  "ESSERT-sous-CHAMPVENT": {
+    "Président du Conseil général": [
+      "Maulaz Eugène"
+    ],
+    "Syndic": [
+      "Agassis Jean"
+    ],
+    "Municipaux": [
+      "Crausaz Emile",
+      "Groux Henri"
+    ],
+    "Secrétaire": [
+      "Corset Eugène"
+    ],
+    "Boursier": [
+      "Groux Henri"
+    ],
+    "Accordéons (fabr. de)": [
+      "Mercier Eugène"
+    ],
+    "Agriculteurs": [
+      "Agassis Jean",
+      "Champod Adèle",
+      "Chollet Georges",
+      "Cochet Jules",
+      "Corset Eugène",
+      "Crausaz Emile",
+      "David Emile",
+      "Gillard Gustave",
+      "Roulet Jules",
+      "Scheiuk Jean"
+    ],
+    "Apiculteurs": [
+      "Groux Henri",
+      "Gillard Gustave"
+    ],
+    "Cafetier": [
+      "Maulaz Eugène"
+    ],
+    "Commission scolaire": [
+      "Agassis Jean"
+    ],
+    "Inspecteur du bétail": [
+      "Corset Eugène"
+    ],
+    "Institutrice": [
+      "Notz-Pochon Anna"
+    ],
+    "Sociétés": [
+      "De laiterie",
+      "Du battoir"
+    ]
+  },
+  "GOSSENS": {
+    "Président du Conseil général": [
+      "Trolliet Frédéric"
+    ],
+    "Secrétaire": [
+      "Willener Louis"
+    ],
+    "Syndic": [
+      "Bovay Jules"
+    ],
+    "Municipaux": [
+      "Lequatre Alexandre",
+      "Jaccaud Jules",
+      "Viquerat Félix"
+    ],
+    "Agriculteurs": [
+      "Jaccaud Emile",
+      "Lequatre Alexandre",
+      "Pasche Jules",
+      "Willener Louis"
+    ],
+    "Commission scolaire": [
+      "Honoré",
+      "Trolliet Félicien",
+      "Jaccaud Emile"
+    ],
+    "Entrepreneur": [
+      "Erisman Gottfried"
+    ],
+    "Inspecteur du bétail": [
+      "Pasche Jules"
+    ],
+    "Institutrice": [
+      "Siegrist Anna"
+    ],
+    "Sociétés": [
+      "De laiterie",
+      "Du four de Gossens"
+    ]
+  },
+  "GRESSY": {}
+}

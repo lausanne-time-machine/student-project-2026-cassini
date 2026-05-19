@@ -1,0 +1,414 @@
+{
+  "RUEYRES": {
+    "Agriculteurs": [
+      "Buffat Edmond",
+      "David Alfred",
+      "David frères",
+      "Derendinger Wm",
+      "Duc Roger",
+      "Fattebert Oct.",
+      "Palaz",
+      "Favre Arnold",
+      "Gavillet Gustave",
+      "Jaunin André",
+      "Rossy",
+      "Jordan Alfred",
+      "Jordan Edouard",
+      "Jordan Jules",
+      "Laurent Maurice",
+      "Ozelley Robert",
+      "Ozelley Constant",
+      "Recordon Jules",
+      "Recordon Julien",
+      "Thomas Jules",
+      "Viret Alexis",
+      "Viret frères",
+      "Wagnière Alfred",
+      "Wagnière frères",
+      "Wagnière Ulysse",
+      "Wulliamoz frères",
+      "Zahnd Arthur"
+    ],
+    "Apiculteurs": [
+      "Burdet Emile",
+      "Jaunin André"
+    ],
+    "Assurance - vieillesse": [
+      "Associations mutualistes de retraite",
+      "Batailard Ls"
+    ],
+    "Bois (comm. de)": [
+      "Zahnd Fern."
+    ],
+    "Café": [
+      "Cavin Elise"
+    ],
+    "Charpentier-menuisier": [
+      "Zahnd Fernand"
+    ],
+    "Charron": [
+      "Recordon Julien"
+    ],
+    "Couturière": [
+      "Jordan Hélène"
+    ],
+    "Epicerie-mercerie": [
+      "Thomas Mery et Angèle"
+    ],
+    "Fourches et rateaux (fabr. de)": [
+      "Recordon Fernand"
+    ],
+    "Gypsier-peintre": [
+      "Laurent Maurice"
+    ],
+    "Menuisier": [
+      "Burdet Emile"
+    ],
+    "Pompes funèbres du Nord": [
+      "Wagnière Arthur"
+    ],
+    "Scierie": [
+      "Zahnd Fernand"
+    ],
+    "Société": [
+      "Sté de fromagerie et du battoir"
+    ]
+  },
+  "SAINT-BARTHELEMY-BRETIGNY": {
+    "Syndic": [
+      "Favre Louis d'Henri"
+    ],
+    "Secrétaire": [
+      "Favre Georges"
+    ],
+    "Boursier": [
+      "Limat Aimé"
+    ],
+    "Huissier": [
+      "Favre Ulysse"
+    ],
+    "Municipaux": [
+      "Favre Henri de Paul",
+      "Favre Joseph d'Alfred",
+      "Favre Albert",
+      "Favre Simon"
+    ],
+    "Commandant du feu": [
+      "Favre Barthélemy"
+    ],
+    "Commission scolaire catholique": [
+      "Lichtenstein Charles"
+    ],
+    "Curé": [
+      "Lichtenstein Charles"
+    ],
+    "Inspecteur du bétail": [
+      "Favre Albert"
+    ],
+    "Inspecteur des viandes": [
+      "Favre Aimé"
+    ],
+    "Instituteurs": [
+      "Barmaverain Roger",
+      "Millioud Mélina",
+      "Viquerat Olga"
+    ],
+    "Police (agent de)": [
+      "Favre Maurice"
+    ],
+    "Poste et télégraphe": [
+      "Basset Jacques"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Favre Joseph",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs": [
+      "Ecoffey J.",
+      "fils",
+      "Favre Joseph d'Elie",
+      "Favre Vincent",
+      "Favre Henri de Paul",
+      "Favre Henri de Xavier",
+      "Favre Marc",
+      "Favre Marius",
+      "Favre Léon",
+      "Favre Rob.",
+      "Favre Alb. et Fçois",
+      "Favre Alf.",
+      "Favre Jos. d'Isidore",
+      "Favre Aimé",
+      "Favre Alcide",
+      "Favre Fernand et Arnold",
+      "Favre Louis d'Henri",
+      "Félix J.",
+      "Limat Louis et Joseph",
+      "Limat Aimé",
+      "Panchaud Paul et Casimir",
+      "Panchaud Auguste"
+    ],
+    "Apiculteurs": [
+      "Basset Jacques",
+      "Favre Marc d'Alfred",
+      "Favre Joseph d'Elie",
+      "Favre Simon"
+    ],
+    "Appareilleur": [
+      "Favre André"
+    ],
+    "Aviculteurs": [
+      "Favre Joseph",
+      "Favre Robert"
+    ],
+    "Bois (comm. de)": [
+      "Favre Barthélemy"
+    ],
+    "Cercueils": [
+      "Favre Barthélemy"
+    ],
+    "Charron": [
+      "Favre Edmond"
+    ],
+    "Couturières": [
+      "Favre Anne",
+      "Favre Bernadette",
+      "Favre Brigitte"
+    ],
+    "Crèches pour bétail (fabricant de)": [
+      "Favre Barthélemy"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Favre Henri"
+    ],
+    "Jardinier": [
+      "Ohapuis Aimé"
+    ],
+    "Menuisiers": [
+      "Favre Ls et Joseph"
+    ],
+    "Meuniers-scieurs": [
+      "Favre frères"
+    ],
+    "Pompes funèbres du Nord": [
+      "Favre frères"
+    ],
+    "Sellier-tapissier": [
+      "Cochard Joseph"
+    ],
+    "Sociétés": [
+      "Crédit mutuel",
+      "Sté de fromagerie de Saint-Barthélemy-Bretigny",
+      "Syndicat agricole"
+    ]
+  },
+  "SAINT-CERGUE": {
+    "Syndic": [
+      "Durgnat Olivier"
+    ],
+    "Secrétaire": [
+      "Barbieri Henri"
+    ],
+    "Boursier": [
+      "Didion Auguste"
+    ],
+    "Huissier": [
+      "Annen Marcel"
+    ],
+    "Municipaux": [
+      "Gasde Charles",
+      "Mayet John",
+      "Tissot Charles",
+      "Treboux Eugène"
+    ],
+    "Cantonniers": [
+      "Junod Paul",
+      "Olivier Georges"
+    ],
+    "Chef de gare": [
+      "Auberson Constant"
+    ],
+    "Command. du feu": [
+      "Tissot Marcel"
+    ],
+    "Commission scolaire": [
+      "Durgnat Olivier"
+    ],
+    "Gardes forestiers": [
+      "Rosselat Eugène",
+      "Rosselat Maurice",
+      "Bovay Lucien"
+    ],
+    "Gare (chef de)": [
+      "Auberson Constant"
+    ],
+    "Inspecteur du bétail": [
+      "Tissot Marcel"
+    ],
+    "Instituteur": [
+      "Dufey René"
+    ],
+    "Officier d'état civil": [
+      "Reymond François",
+      "Mayet John"
+    ],
+    "Pasteur": [
+      "Stahler Robert"
+    ],
+    "Police (agent de)": [
+      "Annen Marcel"
+    ],
+    "Poste et télégraphe": [
+      "Didion Auguste"
+    ],
+    "Téléphone": [
+      "Station publique à la poste"
+    ],
+    "Agriculteurs": [
+      "André Alfred",
+      "André Charles",
+      "André Emma",
+      "Vve de Ls",
+      "Goncerut Albert",
+      "Gonin Louis",
+      "Mayet John",
+      "Monnard Alfred",
+      "Racca Barthélemy",
+      "Rosselat Elie",
+      "Tissot Charles",
+      "Tissot Marcel",
+      "Turrian Ami"
+    ],
+    "Apiculteur": [
+      "Auberson-Schöri Const."
+    ],
+    "Articles de sport": [
+      "Schmid A. T."
+    ],
+    "Assurance - vieillesse": [
+      "Associations mutualistes de retraite",
+      "Reymond F."
+    ],
+    "Auto-garages": [
+      "Bovy Albert",
+      "Treboux Albert",
+      "Treboux Maur."
+    ],
+    "Bazars": [
+      "Durgnat Olivier",
+      "Sesseli Aïda et Maria Mlles"
+    ],
+    "Blanchisseuses": [
+      "Barbezat Louise",
+      "Rosselat Alice",
+      "Tissot Léonie",
+      "Vve",
+      "Tissot Marie"
+    ],
+    "Bois (comm. de)": [
+      "Treboux frères"
+    ],
+    "Boucherie-charcut.": [
+      "Baud Lude",
+      "Vve"
+    ],
+    "Boulanger": [
+      "Wutrich Fritz"
+    ],
+    "Cafés-restaurants": [
+      "Vogel Madeleine",
+      "Refuge de la Givrine",
+      "Bovy Albert",
+      "Grandchamp Marcel",
+      "Buffet de la Gare",
+      "Dorer Ernest",
+      "Hôtel de la Poste, S.A."
+    ],
+    "Charpentiers-menuisiers": [
+      "Barbieri Henri",
+      "Treboux Eugène"
+    ],
+    "Chaussures": [
+      "Durgnat Olivier",
+      "Schmid Alfred"
+    ],
+    "Coiffeur": [
+      "Borloz André"
+    ],
+    "Couturière": [
+      "Bezençon Marguerite"
+    ],
+    "Crèmeries-restaurants": [
+      "Blumenthal Werner",
+      "Point du Jour",
+      "Gasdé-Gonin Lina",
+      "Sesseli Aïda et Maria",
+      "Tourist-Home",
+      "Bucher Ferdinand",
+      "Mirabeau"
+    ],
+    "Electriciens": [
+      "Jaccoud Rob.",
+      "Parisod René"
+    ],
+    "Entrepreneurs": [
+      "Treboux Eugène",
+      "Treboux Maurice"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Durgnat Olivier",
+      "Treboux Maurice",
+      "Wutrich-Didion Fritz"
+    ],
+    "Hôtels": [
+      "Grand Hôtel de l'Observatoire",
+      "Ed. Auberson",
+      "Hôtel-pension Auberson",
+      "Hôtel de la Poste",
+      "Dorer Ernest",
+      "Le Point Jour",
+      "Blumenthal Werner",
+      "Hôtel Mirabeau",
+      "Bucher Ferd."
+    ],
+    "Journaux": [
+      "Durgnat Olivier"
+    ],
+    "Laiterie": [
+      "Mayor Auguste"
+    ],
+    "Mécanicien": [
+      "Treboux Albert"
+    ],
+    "Médecin": [
+      "Assal R."
+    ],
+    "Menuisiers": [
+      "Barbieri Henri",
+      "Treboux Eugène"
+    ],
+    "Pension d'enfants": [
+      "Brun Pierre"
+    ],
+    "Pensions-famille": [
+      "Gasdé-Gonin Lina",
+      "Pension du Jura",
+      "Sesseli Aïda et Maria",
+      "Tourist Home"
+    ],
+    "Primeurs": [
+      "Treboux Maurice"
+    ],
+    "Rentier": [
+      "Poujoulat Pierre"
+    ],
+    "Scierie": [
+      "Treboux frères"
+    ],
+    "Sociétés": [
+      "Sté de chant Chorale",
+      "Sté d'embellissement",
+      "Sté du Gd-Hôtel de l'Observatoire"
+    ]
+  }
+}

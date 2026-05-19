@@ -1,0 +1,242 @@
+{
+  "CROY": {
+    "Agriculteurs": [
+      "çois",
+      "Poget Jules",
+      "Rochat Constant",
+      "Rochat Emile",
+      "Rochat Jn",
+      "Rochat Alfred",
+      "Turin Emile"
+    ],
+    "Amodiateurs.": [
+      "Cavat & Bonard"
+    ],
+    "Aubergistes.": [
+      "Hostettler, Vve de Christian",
+      "Marti Jean",
+      "Reymond Eugène"
+    ],
+    "Bois de construction.": [
+      "Magnenat Léon"
+    ],
+    "Buraliste postal.": [
+      "Roy Julia"
+    ],
+    "Charretiers.": [
+      "Reymond Eugène",
+      "Rochat Emile",
+      "Rochat Constant",
+      "Turin Emile"
+    ],
+    "Charron.": [
+      "Magnenat Henri"
+    ],
+    "Chef de gare.": [
+      "Deappen Edouard"
+    ],
+    "Commission scolaire": [
+      "Subilia Oswald",
+      "Leresche Emile",
+      "Rochat Louis"
+    ],
+    "Cordonnier.": [
+      "Pfaffhauser Robert"
+    ],
+    "Couturières.": [
+      "Chevalier Jenny",
+      "Magnenat Marie",
+      "Rochat Rose"
+    ],
+    "Couvreur.": [
+      "Martinelli Pierre"
+    ],
+    "Entrepreneurs.": [
+      "Ciana Henri",
+      "Ciana Gaudenzio"
+    ],
+    "Epicerie, mercerie.": [
+      "Bonard Marie",
+      "Ciana Henri",
+      "Paltani Michel"
+    ],
+    "Hôtel.": [
+      "Hôtel de la Gare"
+    ],
+    "Inspecteur du bétail.": [
+      "Rochat Const."
+    ],
+    "Instituteurs.": [
+      "Aubert Charles",
+      "Horisberg Emma"
+    ],
+    "Laitier.": [
+      "Truan Fritz"
+    ],
+    "Machines agricoles.": [
+      "Reymond Marc"
+    ],
+    "Maréchal - constructeur.": [
+      "Reymond Marc"
+    ],
+    "Menuisier.": [
+      "Rochat Jean"
+    ],
+    "Meuniers.": [
+      "Moulin de la Foule, S. A.",
+      "Syndicat agricole des Grands Moulins",
+      "Syndicat agricole de Croy"
+    ],
+    "Pêcheurs.": [
+      "Bonard Armand",
+      "Golaz Henri"
+    ],
+    "Pierriste (marchand).": [
+      "Guignard Ch."
+    ],
+    "Sage-femme.": [
+      "Gasser Hélène"
+    ],
+    "Scieurs.": [
+      "Bonard Armand",
+      "Magnenat Léon"
+    ],
+    "Serrurier.": [
+      "Reymond Marc"
+    ],
+    "Sociétés.": [
+      "De fromagerie",
+      "Syndicat agricole des Grands Moulins",
+      "Société du battoir à grains",
+      "Du Moulin de la Foule"
+    ]
+  },
+  "ENVY": {
+    "Autorités communales.": [
+      "Diserens Sam.",
+      "Diserens Louis",
+      "Ecuyer Paul",
+      "Soumi Auguste",
+      "Ecuyer Aloïs",
+      "Chanson Aloïs",
+      "Christen"
+    ],
+    "Agriculteurs.": [
+      "Ecuyer Aloïs",
+      "Ecuyer Paul",
+      "Hautier Julien",
+      "Reymond Henri",
+      "Soumi Emile",
+      "Soumi Auguste"
+    ],
+    "Amodiateur.": [
+      "Reymond Henri"
+    ],
+    "Charpentier-menuisier.": [
+      "Diserens Samuel"
+    ],
+    "Commission scolaire:": [
+      "Subilia",
+      "Hautier Julien",
+      "Ecuyer Aloïs"
+    ],
+    "Inspecteur du bétail.": [
+      "Hautier Julien"
+    ]
+  },
+  "JURIENS": {
+    "Autorités communales.": [
+      "Curtet Jules-Henri",
+      "Hautier Alfred",
+      "Carmentrand Constant",
+      "Sordet Georges",
+      "Benoit Alphonse",
+      "Hautier Florian",
+      "Hautier César",
+      "Hautier Julien",
+      "Grandjean Félix",
+      "Grandjean Lucien"
+    ],
+    "Agriculteurs.": [
+      "Benoît Ulysse",
+      "Candaux Louis",
+      "Cheseaux Gustave",
+      "Christen Léon",
+      "Grandjean Elie",
+      "Grandjean Auguste",
+      "Grandjean Lucien",
+      "Grandjean Vital",
+      "Hautier Edouard",
+      "Hautier frères"
+    ],
+    "Apiculteurs.": [
+      "Carmentrand Constant",
+      "Carmentrand Jenny",
+      "Curtet Aloïs",
+      "Haurtier Henri d'Emile"
+    ],
+    "Aubergistes.": [
+      "Magnenat Gustave",
+      "Sordet Georges"
+    ],
+    "Bois (march. de).": [
+      "Carmentrand Vital",
+      "Cheseaux Constant-Aug.",
+      "Hautier frères",
+      "Carmentrand Constant",
+      "Carmentrand Jules"
+    ],
+    "Boulanger.": [
+      "Hautier Paul"
+    ],
+    "Buraliste postal.": [
+      "Cheseaux Gustave"
+    ],
+    "Commission scolaire.": [
+      "Subilia Oswald",
+      "Benoit Alphonse",
+      "Hautier Alfred"
+    ],
+    "Cordonniers.": [
+      "Curtet Henri",
+      "Curtet Jules"
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Candaux L.",
+      "Hautier César"
+    ],
+    "Fourches (fab. de).": [
+      "Hautier Julien"
+    ],
+    "Fourrages (march. de).": [
+      "Benoît Alphonse"
+    ],
+    "Graines potagères.": [
+      "Hautier Alf."
+    ],
+    "Inspecteur du bétail.": [
+      "Hautier Ch."
+    ],
+    "Instituteurs.": [
+      "Michaud Louis",
+      "Curtet-Crespin Lydie"
+    ],
+    "Jardinier.": [
+      "Hautier Alfred"
+    ],
+    "Maréchal.": [
+      "Carmentrand Emile"
+    ],
+    "Sociétés.": [
+      "De fromagerie",
+      "Syndicat agricole"
+    ],
+    "Téléphoniste.": [
+      "Hautier Cécile"
+    ],
+    "Voituriers.": [
+      "Kirchhofer Emile",
+      "Roulet Emile"
+    ]
+  }
+}

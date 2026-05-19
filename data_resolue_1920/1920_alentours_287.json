@@ -1,0 +1,286 @@
+{
+  "SUCHY": {
+    "Agriculteurs.": [
+      "Pittet Alexis",
+      "Pittet Ernest",
+      "Pittet Emile",
+      "Pittet Louis",
+      "Pittet François",
+      "Roy Emile"
+    ],
+    "Assesseur.": [
+      "Collet Ulysse"
+    ],
+    "Aubergistes.": [
+      "Cœytaux Louis",
+      "Porchet Jules"
+    ],
+    "Boulanger.": [
+      "Favre Louis"
+    ],
+    "Charron.": [
+      "Magnenat Eugène"
+    ],
+    "Commission scolaire.": [
+      "Girardet Ele",
+      "Girardet Ernest"
+    ],
+    "Cordonnier.": [
+      "Piguet François"
+    ],
+    "Couturières.": [
+      "Buchs Marie",
+      "Girardet Marie"
+    ],
+    "Epicerie.": [
+      "Allisson Augustin",
+      "Girardet Jules"
+    ],
+    "Gérant.": [
+      "Nicollin Jules"
+    ],
+    "Inspecteur du bétail.": [
+      "Collet Ulysse"
+    ],
+    "Instituteurs.": [
+      "Charlet Lucien",
+      "Allisson Ida"
+    ],
+    "Maréchal.": [
+      "Gilliard Aloïs"
+    ],
+    "Pasteur.": [
+      "Mamboury Alexis"
+    ],
+    "Sage-femme.": [
+      "Henry Nancy"
+    ],
+    "Selliers.": [
+      "Cœytaux Louis",
+      "Girardet Lucien"
+    ],
+    "Sociétés.": [
+      "Machine à battre",
+      "Fromagerie",
+      "Agricole et Viticole",
+      "Syndicat d'élevage"
+    ],
+    "Tisserands.": [
+      "Collet frères"
+    ],
+    "Téléphoniste.": [
+      "Allisson Augustin"
+    ]
+  },
+  "SUSCEVAZ": {
+    "Autorités communales.": [
+      "Décoppet Ulysse"
+    ],
+    "Secrétaire": [
+      "Décoppet Jules de Jules",
+      "Décoppet François"
+    ],
+    "Syndic": [
+      "Décoppet Adrien"
+    ],
+    "Municipaux": [
+      "Charles Auguste",
+      "Décoppet Ernest",
+      "Décoppet-Comte Louis",
+      "Décoppet Alfred"
+    ],
+    "Boursier": [
+      "Tharin Albert"
+    ],
+    "Agriculteurs.": [
+      "Décoppet Eugène",
+      "Décoppet Max",
+      "Décoppet Paul",
+      "Décoppet Victor",
+      "Ravay Alfred"
+    ],
+    "Charpentier.": [
+      "Charles Auguste"
+    ],
+    "Commission scolaire.": [
+      "Décoppet Jules de Jules",
+      "Décoppet Ernest",
+      "Tharin Albert"
+    ],
+    "Inspecteur du bétail.": [
+      "Décoppet Victor"
+    ],
+    "Institutrice.": [
+      "Rüegger Bertha"
+    ],
+    "Maréchal.": [
+      "Delessert Alexis"
+    ],
+    "Poste.": [
+      "Turin Alice"
+    ],
+    "Sociétés.": [
+      "De laiterie",
+      "De tir"
+    ],
+    "Téléphone.": [
+      "La commune"
+    ]
+  },
+  "TREYCOVAGNES": {
+    "Autorités communales.": [
+      "Comte Maurice"
+    ],
+    "Secrétaire": [
+      "Jean Baatard",
+      "Aegler Adolphe"
+    ],
+    "Syndic": [
+      "Comte Alfred"
+    ],
+    "Municipaux": [
+      "Balzli Ch.",
+      "Jeanneret Constant",
+      "Bovay Jules",
+      "Enrietto Dominique"
+    ],
+    "Boursier": [
+      "Balzli Ed."
+    ],
+    "Agriculteurs.": [
+      "Baatard Jean",
+      "Balzli Charles",
+      "Comte Alfred",
+      "Comte Louis",
+      "Contesse Albert",
+      "Cordey Aimé",
+      "Groux Frédéric",
+      "Jeanneret Emile",
+      "Moser Gottlieb",
+      "Martin Alfred",
+      "Mercier Aug."
+    ],
+    "Aubergistes.": [
+      "Balzli Edouard",
+      "Martin Alfred"
+    ],
+    "Buraliste postal.": [
+      "Berney Louis"
+    ],
+    "Cantonnier.": [
+      "Berney Jean"
+    ],
+    "Carrier.": [
+      "Enrietto D."
+    ],
+    "Charron.": [
+      "Gilliéron Gustave"
+    ],
+    "Commission scolaire.": [
+      "Bovay Jules",
+      "Comte Maurice"
+    ],
+    "Entrepreneur.": [
+      "Enrietto D."
+    ],
+    "Epicerie, tabacs.": [
+      "Zwahlen Jean"
+    ],
+    "Horloger.": [
+      "Junod Alfred"
+    ],
+    "Inspecteur du bétail.": [
+      "Comte Maurice"
+    ],
+    "Instituteurs.": [
+      "Favre Jules",
+      "Strehl Adèle"
+    ],
+    "Laitier.": [
+      "Zwahlen Jean"
+    ],
+    "Maréchaux-forgerons.": [
+      "Berney Hri",
+      "Ramseier Jules"
+    ],
+    "Pain (dépôt de).": [
+      "Zwahlen Jean"
+    ],
+    "Rentier.": [
+      "Baatard Pierre"
+    ],
+    "Téléphone.": [
+      "Martin Alfred"
+    ]
+  },
+  "URSINS": {
+    "Autorités communales.": [
+      "Burdet Eug."
+    ],
+    "Secrétaire": [
+      "Tacheron Albert",
+      "Burdet Gustave"
+    ],
+    "Syndic": [
+      "Tacheron Constant"
+    ],
+    "Municipaux": [
+      "Burdet Auguste",
+      "Bovay Albert",
+      "Christin Gustave",
+      "Bovay Ewald",
+      "Bovay Edouard",
+      "Brichon Const."
+    ],
+    "Boursier": [
+      "Tacheron David"
+    ],
+    "Agriculteurs.": [
+      "Bovay Emile",
+      "Bovay Gustave",
+      "Bovay Victor",
+      "Burdet Augustin",
+      "Burdet Eugène",
+      "Tacheron Const.",
+      "Tacheron David"
+    ],
+    "Aubergiste.": [
+      "Burdet Octave"
+    ],
+    "Charpentiers.": [
+      "Frauche Victor",
+      "Reguin David"
+    ],
+    "Charron.": [
+      "Burdet Augustin-Louis"
+    ],
+    "Commission scolaire.": [
+      "Bovay Maur.",
+      "Bovay Albert",
+      "Burdet Victor"
+    ],
+    "Couturière.": [
+      "Baudin Alice",
+      "Burdet Adèle"
+    ],
+    "Epicerie.": [
+      "Baudin Alice"
+    ],
+    "Fruits et légumes.": [
+      "Sarbach Jean"
+    ],
+    "Inspecteur du bétail.": [
+      "Bovay Denis"
+    ],
+    "Instituteurs.": [
+      "Gaillard René",
+      "Kasser Isabelle"
+    ],
+    "Maçon.": [
+      "Cerutti Louis"
+    ],
+    "Machine à battre.": [
+      "Société du battoir à grains"
+    ]
+  }
+}

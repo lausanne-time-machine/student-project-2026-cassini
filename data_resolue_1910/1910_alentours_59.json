@@ -1,0 +1,262 @@
+{
+  "ASSENS": {
+    "Maçons": [
+      "Bottini, hoirs de Gaudens",
+      "Bottini Sylvestre",
+      "Fantoli Maurice"
+    ],
+    "Maréchaux": [
+      "Mettraux",
+      "Wakenhut David"
+    ],
+    "Marguilliers": [
+      "Dépierraz Emile",
+      "Mathey Elie",
+      "Pollien, frères"
+    ],
+    "Menuisier": [
+      "Barby Charles"
+    ],
+    "Meunier": [
+      "Pollien, hoirie de François"
+    ],
+    "Œufs et beurre": [
+      "Pelet Elise"
+    ],
+    "Pasteur": [
+      "Vuilleumier Auguste"
+    ],
+    "Poste": [
+      "Thuillard Hélène"
+    ],
+    "Rentiers": [
+      "Allaz Basile",
+      "Jaquier Victor"
+    ],
+    "Sages-femmes": [
+      "Chambettaz Joséphine",
+      "Henrioud Julie"
+    ],
+    "Sociétés": [
+      "De fromagerie. R",
+      "De chant l'Indépendance",
+      "Syndicat agricole. R"
+    ],
+    "Tailleuses": [
+      "Dépierraz Louise",
+      "Mathey-Meyer Agathe",
+      "Martin, sœurs"
+    ],
+    "Téléphoniste": [
+      "Thuillard Hélène"
+    ],
+    "Tisserand": [
+      "Pollien Edouard"
+    ],
+    "Tricoteuse": [
+      "Longchamp Joséphine"
+    ]
+  },
+  "BIOLEY-ORJULAZ": {
+    "Autorités communales": [
+      "Pelet Louis",
+      "Despont François",
+      "Bally Georges",
+      "Gachet Edouard",
+      "Crottaz Eugène",
+      "Favre Louis",
+      "Henrioud Xavier",
+      "Gachet Emile",
+      "Dory Emile",
+      "Guex Jean",
+      "Pelot Henri"
+    ],
+    "Agriculteurs": [
+      "Favre Henri",
+      "Gachet Edouard",
+      "Gachet Louis",
+      "Gachet-Clavel Ami"
+    ],
+    "Battoir à blé": [
+      "Commune de Bioley-Orjulaz"
+    ],
+    "Cafetier": [
+      "Crottaz Eugène. R"
+    ],
+    "Charpentier": [
+      "Gachet Ls."
+    ],
+    "Charrons": [
+      "Despont Lucien",
+      "Mathey Henri"
+    ],
+    "Commission scolaire protestante": [
+      "Vuilleumier",
+      "Gachet Emile",
+      "Dory Emile"
+    ],
+    "Commission scolaire catholique": [
+      "Martin",
+      "Despont François",
+      "Favre Louis"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Dory Emile. R",
+      "Guex Jean"
+    ],
+    "Garde-forestier cantonal": [
+      "Dony Louis",
+      "Thélin Henri"
+    ],
+    "Instituteurs": [
+      "Bally Georges",
+      "Delamadeleine Léon"
+    ],
+    "Laiterie": [
+      "Laiterie lausannoise"
+    ],
+    "Maréchal": [
+      "Mettraux Auguste"
+    ],
+    "Poste": [
+      "Despont Joseph"
+    ],
+    "Ramoneur": [
+      "Derbelay Jean"
+    ],
+    "Rentière": [
+      "Courtin Mélanie"
+    ],
+    "Société": [
+      "De fromagerie. R"
+    ],
+    "Surveillant de la gravière cantonale": [
+      "Dony Louis"
+    ],
+    "Tailleuse": [
+      "Thélin Charlotte"
+    ],
+    "Tonnelier": [
+      "Despont Rémy"
+    ],
+    "Téléphoniste": [
+      "Crottaz Eugène"
+    ]
+  },
+  "BOTTENS": {
+    "Autorités communales": [
+      "Meylan Alfred",
+      "Guignard Lucien",
+      "Bavaud Louis",
+      "Gindroz Aimé",
+      "Ecoffey Joseph",
+      "Longchamp Vital",
+      "Nicod Joseph",
+      "Godel Didier",
+      "Panchaud Maurice",
+      "Bavaud Alfred",
+      "Longchamp Placide"
+    ],
+    "Agriculteurs": [
+      "Aguet frères",
+      "Bavaud Alfred",
+      "Bavaud Louis",
+      "Bavaud Michel",
+      "Dupraz Emmanuel",
+      "Ecoffey Joseph",
+      "Gindroz frères",
+      "Godel Didier",
+      "Guignard Auguste",
+      "Guignard Constant",
+      "Guignard Edouard et Louis",
+      "Guignard Jules",
+      "Guignard Louis",
+      "Henneberguer François",
+      "Jaton Emile",
+      "Jaton frères",
+      "Jorand Placide",
+      "Longchamp Léon",
+      "Longchamp Placide",
+      "Longchamp Vital",
+      "Mages, les fils de Jules",
+      "Martin Placide",
+      "Meylan Aimé",
+      "Meylan Alfred",
+      "Meylan Auguste",
+      "Meylan Edouard",
+      "Nicod Joseph",
+      "Nicod Paul",
+      "Oberson Joseph",
+      "Panchaud Alfred",
+      "Panchaud Henri",
+      "Panchaud Maurice",
+      "Penseyres Constant",
+      "Pilet Alphonse",
+      "Rochat Paul",
+      "Tzaut frères",
+      "Tzaut David",
+      "Vincent Elise"
+    ],
+    "Bestiaux (masch. de)": [
+      "Gindroz Aimé"
+    ],
+    "Bois (march. de)": [
+      "Glauser Alfred"
+    ],
+    "Cafés": [
+      "Guignard Louis, Croix Fédérale",
+      "Ottet Louis, Ecusson Vaudois"
+    ],
+    "Charcutier": [
+      "Dupraz Euphrosine"
+    ],
+    "Charrons": [
+      "Martin Placide",
+      "Longchamp Placide"
+    ],
+    "Commission scolaire catholique": [
+      "Pittet Alphonse",
+      "Nicod Paul",
+      "Longchamp Léon",
+      "Longchamp Placide",
+      "Ménétrey Alfred"
+    ],
+    "Commission scolaire protestante": [
+      "Tzaut Aimé, de Daniel",
+      "Meylan Edouard",
+      "Tzaut Aimé, de David",
+      "Gindroz Aimé",
+      "Guignard Louis"
+    ],
+    "Cordonnier": [
+      "Bavaud Vital"
+    ],
+    "Curé": [
+      "Pittet Alphonse"
+    ],
+    "Electriciens": [
+      "Société lausannoise d'électricité"
+    ],
+    "Entrepreneur en bâtiments": [
+      "Meda Jacques"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Dupraz Euphrosine. R"
+    ],
+    "Fontainier": [
+      "Cuénoud François"
+    ],
+    "Inspecteur du bétail": [
+      "Longchamp Vital"
+    ],
+    "Instituteurs": [
+      "Pillioud Edouard",
+      "Longchamp Matthieu",
+      "Bavaud Cyrine"
+    ],
+    "Justice de paix du cercle": [
+      "Tuillard Charles",
+      "Mivelaz Placide"
+    ]
+  }
+}

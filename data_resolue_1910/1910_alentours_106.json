@@ -1,0 +1,264 @@
+{
+  "CULLY": {
+    "Hôtel": [
+      "Cherix Henri"
+    ],
+    "Inspecteurs du bétail": [
+      "Chollet Constant",
+      "Möri-Ducret S."
+    ],
+    "Instituteurs primaires": [
+      "Duvaud Emile",
+      "Notz Adolphe",
+      "Rochat Albert",
+      "Agassiz Henriette",
+      "Rochat-Beyeler Mme",
+      "Pache Adèle"
+    ],
+    "Instituteurs secondaires": [
+      "Mayor Louis",
+      "Cachin Ernest",
+      "Dupertuis Félix",
+      "Kuenzi Auguste",
+      "Michel",
+      "Rochat Albert",
+      "Rochat-Beyeler Mme"
+    ],
+    "Instruments agricoles": [
+      "Cuénoud Ch. R."
+    ],
+    "Jardiniers": [
+      "Cuénoud Victor",
+      "Gaudin Henri"
+    ],
+    "Justice de paix du cercle": [
+      "Lederrey Fritz",
+      "Parisod Henri-Emile",
+      "Fonjallaz Ernest",
+      "Rouge François",
+      "Duboux Emile",
+      "Noverraz Charles"
+    ],
+    "Laitiers": [
+      "Béboux Henri",
+      "Blondel Samuel"
+    ],
+    "Lingères": [
+      "Cuénoud"
+    ],
+    "Machines à coudre": [
+      "Capt Henri"
+    ],
+    "Maçons": [
+      "Bernasconi Angelo",
+      "Bazzoni Lino"
+    ],
+    "Médecin": [
+      "Nagel P."
+    ],
+    "Menuisiers": [
+      "Barbey Paul",
+      "Davel H.",
+      "Dall'Aglio A.",
+      "Valet Julien"
+    ],
+    "Mercerie": [
+      "Voir Epicerie"
+    ],
+    "Modistes": [
+      "Delisle Marie",
+      "Ponnaz"
+    ],
+    "Notaires": [
+      "Dupertuis Antoine",
+      "Forestier François",
+      "Noverraz Charles"
+    ],
+    "Officier d'état civil": [
+      "Bidaux Henri",
+      "Dupertuis Félix"
+    ],
+    "Pasteurs": [
+      "Mayor Paul-Louis",
+      "Grenier Edouard"
+    ],
+    "Pêcheurs": [
+      "Décastel Henri",
+      "Moser Charles"
+    ],
+    "Pépiniéristes": [
+      "Cuénoud Adolphe",
+      "Cuénoud Victor"
+    ],
+    "Poste": [
+      "Moser Eugénie"
+    ],
+    "Préposé aux poursuites et faillites": [
+      "Panchaud François"
+    ],
+    "Quincaillerie": [
+      "Cuénoud Charles",
+      "Rapin-Paley Ch. R."
+    ],
+    "Receveur": [
+      "Gay Marc"
+    ],
+    "Rentier": [
+      "Ponnaz Louis"
+    ],
+    "Repasseuses": [
+      "Chappallaz Joséphine",
+      "Chappuis Louise"
+    ],
+    "Sage-femme": [
+      "Carena Emma"
+    ],
+    "Serruriers": [
+      "Blanc Jules & fils",
+      "Girardet Henri",
+      "Von Arx Pierre"
+    ],
+    "Sociétés": [
+      "Immobilière de l'Eglise libre",
+      "De laiterie",
+      "Militaire de l'ancienne commune de Villette",
+      "Anonyme du Courrier de Lavaux",
+      "De développement",
+      "De tir aux armes de guerre",
+      "Tir au pistolet",
+      "Section de la Croix Bleue"
+    ],
+    "Tabacs et cigares": [
+      "Béboux Céline",
+      "Cuénoud Charles",
+      "Rapin-Paley Ch. R."
+    ],
+    "Tailleurs": [
+      "Gavaggio C.",
+      "Fayet Jean"
+    ],
+    "Tailleuses": [
+      "Davel Louise",
+      "Devenoge Marie",
+      "Lavanchy Emma",
+      "Meyer L."
+    ],
+    "Tartre": [
+      "Cuénoud Charles"
+    ],
+    "Télégraphiste": [
+      "Möri Jean-Samuel"
+    ],
+    "Téléphone communal": [
+      "Hôtel de Ville"
+    ],
+    "Tisserand": [
+      "Linder Jacob"
+    ],
+    "Tonnelier": [
+      "Marti Rodolphe"
+    ],
+    "Vignerons": [
+      "Borgognon Charles",
+      "Duboux Eugène",
+      "Fonjallaz Ernest",
+      "Fonjallaz Louis",
+      "Forestier Charles",
+      "Mercanton Charles",
+      "Ponnaz Aug.",
+      "Ponnaz Paul",
+      "Vidner Henri"
+    ],
+    "Vins (march. de)": [
+      "Bovard Louis",
+      "Bron",
+      "Contesse Henri",
+      "Crot Henri",
+      "Hähny Fritz",
+      "Léderrey F.",
+      "Testuz frères"
+    ],
+    "Voitutier": [
+      "Pellet"
+    ]
+  },
+  "ÉPESSES": {
+    "Autorités communales": [
+      "Fonjallaz Julien",
+      "Lambelet Frédéric"
+    ],
+    "Syndic": [
+      "Chappuis Henri"
+    ],
+    "Municipaux": [
+      "Bovard Louis",
+      "Fonjallaz Ernest",
+      "Fonjallaz François",
+      "Rouge François",
+      "Fonjallaz Octave",
+      "Paley-Amstein Henri"
+    ],
+    "Huissier": [
+      "Rod Henri"
+    ],
+    "Agriculteur": [
+      "Barraud Albert"
+    ],
+    "Boulangers": [
+      "David Jean",
+      "Société coopérative"
+    ],
+    "Bouchers": [
+      "Fonjallaz François",
+      "Fonjallaz Eugène",
+      "Rod Henri"
+    ],
+    "Buraliste postal": [
+      "Chambaz Auguste"
+    ],
+    "Cafés": [
+      "Cercle d'Epesses",
+      "Kurzen Samuel",
+      "Fonjallaz François-Louis"
+    ],
+    "Charcutier": [
+      "Paschoud Emile"
+    ],
+    "Commission scolaire": [
+      "Mayor",
+      "Duboux-Bovard",
+      "Fonjallaz Julien"
+    ],
+    "Cordonnier": [
+      "Massarotti Charles"
+    ],
+    "Couturières": [
+      "Chappuis Françoise-Louise",
+      "Fonjallaz Jeanne",
+      "Paley-Capt Elise",
+      "Simon Marie"
+    ],
+    "Distillateur": [
+      "Duboux-Reymondin Eugène"
+    ],
+    "Epicerie, mercerie": [
+      "David Jean",
+      "Leyvraz A.",
+      "Paley Henri"
+    ],
+    "Ferblantier-couvreur": [
+      "Lindenmeyer Eugène"
+    ],
+    "Gypsier": [
+      "Paltenghi Jean"
+    ],
+    "Inspecteur du bétail": [
+      "Rod Henri",
+      "Cossy Aimé"
+    ],
+    "Instituteurs": [
+      "Dufion Ernest",
+      "Fonjallaz-Fonjallaz Elisa"
+    ]
+  }
+}

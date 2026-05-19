@@ -1,0 +1,404 @@
+{
+  "BEGINNS": {
+    "Serruriers": [
+      "Mathey Marius",
+      "Zimmermann Francis"
+    ],
+    "Scieries": [
+      "Cujean Frank",
+      "Schacher Ls."
+    ],
+    "Sociétés": [
+      "Section de la Croix-Bleue",
+      "Sté de fromagerie",
+      "Sté immobilière du Domaine de la Maison Neuve",
+      "Sté de chant Chœur d'hommes",
+      "Sté de musique La Lyre",
+      "Sté de tir aux Armes de Guerre",
+      "Syndicat agricole et viticole"
+    ],
+    "Tabacs et cigares": [
+      "Cornaz Léon",
+      "Goett Alphonse",
+      "Michaud & Goy",
+      "Mosetti Marie"
+    ],
+    "Taxis": [
+      "Bassin Ernest"
+    ],
+    "Tonnelier": [
+      "Riedweg Charles"
+    ],
+    "T. S. F.": [
+      "Flury Henri"
+    ],
+    "Transports": [
+      "Challande Marius",
+      "Christinet Hri",
+      "Isely Ernest"
+    ],
+    "Vélos": [
+      "Cristinet Hri"
+    ],
+    "Vétérinaire": [
+      "Perrin Georges"
+    ],
+    "Vignerons": [
+      "Berger Daniel",
+      "Bersier Joseph",
+      "Blaser Emile",
+      "Bovy Julien",
+      "Bozonnet Charles",
+      "Brandt Hoirie",
+      "Brandt Paul",
+      "Butty Jules",
+      "Cavin Alice",
+      "Champrenaud Paul",
+      "Charbonnier Henri",
+      "Charbonnier Jules",
+      "Cuendet Ch.",
+      "Dessiex Henri",
+      "Duboux Aimé",
+      "Dumas Olivier",
+      "Fusay Auguste",
+      "Gay Aloïs",
+      "Gay Louis",
+      "Gervaix Hoirie",
+      "Gervaix Fernand",
+      "Gervaix François père",
+      "Gervaix François fils",
+      "Gervaix Paul",
+      "Goegel Charles",
+      "Grand Adrienne",
+      "Grand Henri",
+      "Grand Paul",
+      "Groubel Hri",
+      "Hauser Adolphe",
+      "Henriod Aloïs",
+      "Henriod Louis",
+      "Hugli Eugène",
+      "Janin François",
+      "Jaquenoud Franç.",
+      "Jaquenoud Charles",
+      "Jordan Jean",
+      "Mennet Robert",
+      "Mosetti Louis",
+      "Muston Alphonse",
+      "Pavillon Jules",
+      "Rochaix Louis",
+      "Sallaz Jules",
+      "Sinner Auguste",
+      "Thonney Charles",
+      "Vauthey Marcel",
+      "Walther Charles"
+    ],
+    "Vins": [
+      "Kreuter Emile"
+    ],
+    "Voiturier": [
+      "Blaser Emile"
+    ],
+    "Divers": [
+      "Martin Jean",
+      "Champ-Renaud Paul, Mme",
+      "Stähly Gustave"
+    ]
+  },
+  "BELLERIVE": {
+    "Syndic": [
+      "Bessard Marc"
+    ],
+    "Secrétaire": [
+      "Berthoud Alfd."
+    ],
+    "Boursier": [
+      "Grandjean Olivier"
+    ],
+    "Huissier": [
+      "Grandjean Adrien"
+    ],
+    "Municipaux": [
+      "Grandjean Auguste",
+      "Jaunin François",
+      "Paul Louis",
+      "Tombez Maurice"
+    ],
+    "Cantonnier": [
+      "Gentizon Marc"
+    ],
+    "Commandant du feu": [
+      "Bessard Marc"
+    ],
+    "Garde forestier": [
+      "Vacat."
+    ],
+    "Commission scolaire": [
+      "Bessard Marc"
+    ],
+    "Inspecteur de la loque": [
+      "Jan-du-Chêne Auguste",
+      "Jan-du-Chêne Auguste"
+    ],
+    "Inspecteur du bétail": [
+      "Grandjean Auguste"
+    ],
+    "Inspect. des viandes": [
+      "Paul André"
+    ],
+    "Instituteurs": [
+      "Basset Armand",
+      "Reymond Hélène"
+    ],
+    "Pasteur": [
+      "Meyer Ernest"
+    ],
+    "Police (agent de)": [
+      "Grandjean Léon"
+    ],
+    "Téléphone": [
+      "Café du Nord"
+    ]
+  },
+  "Bellerive-Village": {
+    "Agriculteurs": [
+      "Bessard Julien",
+      "Besson François",
+      "Grandjean Bernard",
+      "Jaquenoud Marius",
+      "Parisod Paul",
+      "Paul Louis",
+      "Vacheron Louis"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Basset Armand"
+    ],
+    "Banque": [
+      "Agence Banque populaire de la Broye",
+      "Bessard Marc"
+    ],
+    "Café": [
+      "Café du Nord",
+      "Guignard Henri"
+    ],
+    "Charron": [
+      "Berthoud Aug."
+    ],
+    "Epicerie-mercerie": [
+      "Vacheron Louise"
+    ],
+    "Maréchal": [
+      "Grandjean Bernard"
+    ],
+    "Téléphone": [
+      "Guignard Henri"
+    ],
+    "Viticulteurs": [
+      "Berthoud Emile",
+      "Grandjean Jean",
+      "Grandjean Georges"
+    ],
+    "Sociétés": [
+      "Section de la Croix-Bleue",
+      "Sté de fromagerie",
+      "Sté immobilière du Domaine de la Maison Neuve",
+      "Sté de chant du Chœur d'hommes",
+      "Ste de musique Echo du Vully",
+      "Sté de tir aux armes de guerre",
+      "Syndicat agricole et viticole"
+    ]
+  },
+  "Cotterd": {
+    "Agriculteurs": [
+      "Berthoud Alfred",
+      "Girard Alfred",
+      "Girard Marcel",
+      "Hänni Nicolas",
+      "Jaunin François"
+    ],
+    "Assurance infantile": [
+      "Basset Armand"
+    ],
+    "Boisselier": [
+      "Fasnacht Walther"
+    ],
+    "Café": [
+      "Beer Rosa"
+    ],
+    "Coiffeur": [
+      "Beer Rosa"
+    ],
+    "Couturière (pr hommes)": [
+      "Berthoud Mélanie"
+    ],
+    "Epicerie-mercerie": [
+      "Beer Rosa"
+    ],
+    "Laitier": [
+      "Balzli Emile"
+    ],
+    "Pasteur": [
+      "Meyer Ernest"
+    ],
+    "Vins": [
+      "Beer Rosa"
+    ],
+    "Viticulteur": [
+      "Berthoud Alfred"
+    ],
+    "Divers": [
+      "de Müller Edgar"
+    ]
+  },
+  "Salavaux": {
+    "Agriculteurs": [
+      "Bessard Max",
+      "Coinchon H.",
+      "Frederich Ern.",
+      "Grandjean Max",
+      "Tombez Jean",
+      "Tombez Maurice"
+    ],
+    "Apiculteur": [
+      "Bessard Louise"
+    ],
+    "Appareilleur": [
+      "Chevalley Eugène"
+    ],
+    "Auto-transports du Vully": [
+      "Bessard Marc"
+    ],
+    "Autos-motos (répar.)": [
+      "Magnin G."
+    ],
+    "Bétail (march. de)": [
+      "Hurni Fritz"
+    ],
+    "Boucher": [
+      "Stucki"
+    ],
+    "Boulanger": [
+      "Grandjean Olivier"
+    ],
+    "Cafés": [
+      "Hôtel du Pont",
+      "Maeder Math.",
+      "Aux Trois-Suisses",
+      "Brack Henri"
+    ],
+    "Chaussures": [
+      "Loup-Bessat René"
+    ],
+    "Cordonnier": [
+      "Grandjean Gustave"
+    ],
+    "Couturière": [
+      "Grandjean Mathilde"
+    ],
+    "Distillerie": [
+      "Société de distillerie du Vully"
+    ],
+    "Electricien": [
+      "Entreprise électr. fribourgeoise"
+    ],
+    "Entrepreneurs": [
+      "Fioretta & Cirio"
+    ],
+    "Epicerie, mercerie, chaussures": [
+      "Besson frères",
+      "Blaser Jean",
+      "Gentinetta Hercule",
+      "Roux-Girardet Albert"
+    ],
+    "Farines": [
+      "Grandjean Olivier"
+    ],
+    "Fers et quincaillerie": [
+      "Besson frères",
+      "Roux-Girardet Albert"
+    ],
+    "Machines agricoles": [
+      "Besson frères",
+      "Chevalley Eugène",
+      "Roux-Girardet Albert"
+    ],
+    "Maréchal": [
+      "Chevalley Eugène"
+    ],
+    "Mécanicien": [
+      "Magnin Gilbert"
+    ],
+    "Médecins": [
+      "Graf William",
+      "Tuscher Charles"
+    ],
+    "Mercerie": [
+      "Loup-Bessat René"
+    ],
+    "Meunerie": [
+      "Usine agric., Cosandey"
+    ],
+    "Notaire": [
+      "Ravussin"
+    ],
+    "Poste": [
+      "Wullième Edm."
+    ],
+    "Radio": [
+      "Bovet Emile"
+    ],
+    "Sellier": [
+      "Zoss Benoit"
+    ],
+    "Teinturerie": [
+      "Loup René"
+    ],
+    "Téléphone": [
+      "Bureau de poste"
+    ],
+    "Tissus": [
+      "Loup René"
+    ],
+    "Vélos": [
+      "Magnin G."
+    ],
+    "Viticulteur": [
+      "Grandjean Léon"
+    ],
+    "Voiturier": [
+      "Vullième Gabriel"
+    ],
+    "Divers": [
+      "Pauli Rud."
+    ]
+  },
+  "Vallamand-Dessous": {
+    "Agriculteurs": [
+      "Bessard Alexis",
+      "Gutknecht Jaques",
+      "Schneiter Arnold"
+    ],
+    "Café": [
+      "Grandjean Marius"
+    ],
+    "Horloger": [
+      "Rossel Valentin"
+    ],
+    "Mécanicien": [
+      "Treyvaud Francis"
+    ],
+    "Pêcheurs": [
+      "Bender John",
+      "Gailloz Marcel"
+    ],
+    "Radio": [
+      "Bovet Emile"
+    ],
+    "Vigneron": [
+      "Hurni Léon"
+    ],
+    "Divers": [
+      "Cailler-Grandjean"
+    ]
+  }
+}

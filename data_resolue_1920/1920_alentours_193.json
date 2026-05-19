@@ -1,0 +1,175 @@
+{
+  "TARTEGNIN": {
+    "Président du Conseil général": [
+      "Maréchal John"
+    ],
+    "Secrétaire": [
+      "Margot Jules",
+      "Favre Alexandre"
+    ],
+    "Syndic": [
+      "Maréchal Alfred"
+    ],
+    "Municipaux": [
+      "de Tey Alfred",
+      "Billard Marc",
+      "Munier Henri",
+      "Pellet Ernest fils"
+    ],
+    "Boursier": [
+      "Margot J."
+    ],
+    "Cafetier": [
+      "Bovat Alfred"
+    ],
+    "Commission scolaire": [
+      "Peter",
+      "Pellet Ernest",
+      "Blanchet Fernand"
+    ],
+    "Epicerie": [
+      "Borgeaud François",
+      "Margot Jules"
+    ],
+    "Gérance d'immeubles": [
+      "de Trey Alfred & Cie."
+    ],
+    "Inspecteur du bétail": [
+      "Gilliéron Alex."
+    ],
+    "Instituteur": [
+      "Favre Alexandre"
+    ],
+    "Laitier": [
+      "Monnard Henri"
+    ],
+    "Poste": [
+      "Margot Jules"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Téléphoniste": [
+      "Margot Jules"
+    ],
+    "Vignerons": [
+      "Decrausaz Edouard",
+      "Gilliéron Alex.",
+      "Merminod Alph.",
+      "Pigueron Théophile",
+      "Prior Jules",
+      "Piguet Henri"
+    ],
+    "Vignerons-propriétaires": [
+      "Billard Mc",
+      "Blanchard Fernand",
+      "Borgeaud François",
+      "Maréchal Alfred",
+      "Maréchal Ami",
+      "Maréchal John",
+      "Maréchal William",
+      "Margot Jules",
+      "Munier Alfred",
+      "Munier Henri",
+      "Pellet Ernest",
+      "Richard Jules"
+    ]
+  },
+  "VINZEL": {
+    "Président du Conseil général": [
+      "Keusen Edouard"
+    ],
+    "Secrétaire": [
+      "Rochat Ulysse",
+      "Rosset Henri"
+    ],
+    "Syndic": [
+      "Duvaud Henri"
+    ],
+    "Municipaux": [
+      "Cordey François",
+      "Rossier Alexis"
+    ],
+    "Boursier": [
+      "Rochat Ul."
+    ],
+    "Agriculteurs": [
+      "Cherpillod Louis",
+      "Duvaud Henri",
+      "Humbert Henri",
+      "Keusen Edouard",
+      "Rosset Julien",
+      "Rossier, hoirs de Julien",
+      "Straub Jean"
+    ],
+    "Aubergiste": [
+      "Cherpillod Louis"
+    ],
+    "Briqueterie": [
+      "Keusen Edouard"
+    ],
+    "Commission scolaire": [
+      "de Reding Hri",
+      "Rosset Henri"
+    ],
+    "Epicerie, mercerie": [
+      "Rossier Marc",
+      "Straub Jean"
+    ],
+    "Instituteur": [
+      "Durgnat Emile"
+    ],
+    "Menuisier": [
+      "Cordey François"
+    ],
+    "Pépiniéristes": [
+      "Rosset Julien",
+      "Rosset Henri"
+    ],
+    "Propriétaire-rentier": [
+      "de Reding Adélaïde"
+    ],
+    "Poste et téléphone": [
+      "Rossier Marc"
+    ],
+    "Tonnelier": [
+      "Straub Jean"
+    ],
+    "Vignerons": [
+      "André Louis",
+      "Annen Eugène",
+      "Burnat Alfred",
+      "Croix Marc",
+      "Dupraz Jules",
+      "Gfeller Auguste",
+      "Marguerat Henri",
+      "Neyroud Henri",
+      "Rossier Alfred"
+    ]
+  },
+  "DISTRICT DE VEVEY": {
+    "Préfet": [
+      "Blanc Henri"
+    ],
+    "Substitut": [
+      "Dénéréaz Gustave"
+    ],
+    "Receveur": [
+      "Besson Louis"
+    ],
+    "Voyer du XIe arrondissement": [
+      "Rod Ernest"
+    ],
+    "Conservateur du registre foncier": [
+      "Aubert Jules"
+    ],
+    "Tribunal de district": [
+      "Petitmermet Robrt",
+      "Chaudet Victor",
+      "Pilliod Constant",
+      "Mottier Jules",
+      "Cochard Maurice",
+      "Noguet Jean"
+    ]
+  }
+}

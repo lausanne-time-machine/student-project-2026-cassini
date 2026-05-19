@@ -1,0 +1,360 @@
+{
+  "FAOUG": {
+    "Ferblantier-appareilleur": [
+      "Christinat"
+    ],
+    "Gravière (expl. de)": [
+      "Commune de Faoug"
+    ],
+    "Jardiniers": [
+      "Huwiler",
+      "Ibach"
+    ],
+    "Laitiers": [
+      "Rœthlisberger & Cie",
+      "Wächli"
+    ],
+    "Maçon": [
+      "Horlacher"
+    ],
+    "Maréchal, machines agricoles": [
+      "Grin Paul & fils"
+    ],
+    "Matériaux de construction": [
+      "Cornaz"
+    ],
+    "Menuiserie": [
+      "Spack"
+    ],
+    "Pêcheurs": [
+      "Cornaz",
+      "Pache"
+    ],
+    "Pension-famille": [
+      "Gnehm",
+      "Pension du Cerf"
+    ],
+    "Produits en ciment": [
+      "Cornaz"
+    ],
+    "Scierie, comm. de bois": [
+      "Spack"
+    ],
+    "Serrurier": [
+      "Grin & fils"
+    ],
+    "Tuyaux en ciment (fab. de)": [
+      "Cornaz"
+    ],
+    "Vélos": [
+      "Pache"
+    ],
+    "Divers": [
+      "Berger",
+      "Caspari",
+      "Feller",
+      "Lambelet",
+      "Kaiser",
+      "Schaffroth"
+    ]
+  },
+  "FÉCHY": {
+    "Syndic": [
+      "Caillat"
+    ],
+    "Secrétaire": [
+      "Barbay"
+    ],
+    "Boursier": [
+      "Morandi"
+    ],
+    "Huissier": [
+      "Reymond"
+    ],
+    "Municipaux": [
+      "Bettems",
+      "Vieux Clos",
+      "Gay",
+      "Kursner",
+      "Saugey",
+      "Morandi"
+    ],
+    "Commandant du feu": [
+      "Barbay"
+    ],
+    "Commission scolaire": [
+      "Pelichet"
+    ],
+    "Garde-forestier": [
+      "Theintz"
+    ],
+    "Inspecteur du bétail": [
+      "Aguet"
+    ],
+    "Instituteurs": [
+      "Loup",
+      "Beauverd"
+    ],
+    "Pasteur": [
+      "Rosset"
+    ],
+    "Police (agent de)": [
+      "Reymond"
+    ],
+    "Poste et télégraphe": [
+      "Barbay"
+    ],
+    "Téléphone": [
+      "Station comm. Auberge communale",
+      "station pub. à la poste"
+    ],
+    "Agriculteurs": [
+      "Aguet",
+      "Barbay",
+      "Barbay",
+      "Bettems",
+      "Blanchard-Panchaud",
+      "Eperon",
+      "Meylan",
+      "Nicole",
+      "Panchaud-Barbay",
+      "Pelichet",
+      "Rochat",
+      "Zimmermann"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire",
+      "Loup"
+    ],
+    "Auto-transports (de la Côte)": [
+      "Blanchard"
+    ],
+    "Cafetier": [
+      "David"
+    ],
+    "Distillerie": [
+      "de Féchy-Bougy"
+    ],
+    "Entrepreneur": [
+      "Morandi"
+    ],
+    "Epicerie, mercerie et tabacs": [
+      "Gaillard",
+      "Monod"
+    ],
+    "Laitier": [
+      "Freitag"
+    ],
+    "Sociétés": [
+      "Sté de chant L'Aurore",
+      "Sté de distillerie de Féchy-Bougy",
+      "Sté de fromagerie de Féchy",
+      "Sté de tir"
+    ],
+    "Vignerons": [
+      "Barbay-Laeser",
+      "Barbay-Zwahlen",
+      "Berger",
+      "Paccot",
+      "Paccot",
+      "Panchaud-Barbay",
+      "Panchaud-Delapierre",
+      "Prod'hom",
+      "Kursner",
+      "Muller",
+      "Rosset",
+      "Brocard",
+      "Bettems",
+      "Stoky"
+    ],
+    "Vins (commerce de)": [
+      "Bettems",
+      "Vieux-Clos",
+      "Féchy-Dessus.",
+      "Pelichet"
+    ],
+    "Viticulteurs (propriétaires)": [
+      "Aguet",
+      "Barbay",
+      "Barbay",
+      "Barbay",
+      "Bettems",
+      "Bettems",
+      "Bettems",
+      "Berguer",
+      "Bertholet",
+      "Bossenaz.",
+      "Caillat",
+      "Carusaz S. A.",
+      "Chavannes & Cie.",
+      "Eperon",
+      "Gaillard",
+      "Gay",
+      "Jotterand",
+      "Kursner-Barbaz",
+      "Leutwyler",
+      "Molliex Vve",
+      "Morandi",
+      "Pelichet",
+      "Renaud frères",
+      "Rosset",
+      "Soc. immob. Le Martheray S. A.",
+      "Schenk & Cie",
+      "Stocky",
+      "Terrisse Mme",
+      "Thurin",
+      "Vez"
+    ],
+    "Viticulteur-pépiniériste": [
+      "Caillat-Nicole"
+    ]
+  },
+  "FERLENS": {
+    "Syndic": [
+      "Pasche"
+    ],
+    "Secrétaire": [
+      "Pasche"
+    ],
+    "Boursier": [
+      "Buttet"
+    ],
+    "Huissier": [
+      "Gilliard"
+    ],
+    "Municipaux": [
+      "Décosterd",
+      "Emery",
+      "Pasche",
+      "Porchet"
+    ],
+    "Cantonnier": [
+      "Dubois"
+    ],
+    "Commandant du feu": [
+      "Pasche"
+    ],
+    "Commission scolaire": [
+      "Décosterd"
+    ],
+    "Greffier": [
+      "Pasche"
+    ],
+    "Inspecteur du bétail": [
+      "Pasche-Jaquier"
+    ],
+    "Inspecteur des viandes": [
+      "Pasche-Jaquier"
+    ],
+    "Instituteurs": [
+      "Bouquet",
+      "Pasche-Lavanchy"
+    ],
+    "Police (agent de)": [
+      "Gilliard"
+    ],
+    "Poste et télégraphe": [
+      "Pasche"
+    ],
+    "Téléphone": [
+      "Station publique à la poste"
+    ],
+    "Agriculteurs": [
+      "Benninger",
+      "Buttet",
+      "Buttet",
+      "Buttet",
+      "Cherpillod",
+      "Chevalley",
+      "Décosterd",
+      "Delessert",
+      "Fawer",
+      "Gilliard frères",
+      "Linder",
+      "Martin",
+      "Pasche",
+      "Pasche",
+      "Pasche",
+      "Pasche-Jaquier",
+      "Pasche",
+      "Pasche",
+      "Porchet"
+    ],
+    "Apiculteurs": [
+      "Buttet",
+      "Fawer",
+      "Maulaz",
+      "Martin",
+      "Pasche",
+      "Pasche-Jaquier"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Bouquet"
+    ],
+    "Bois (march. de)": [
+      "Pasche",
+      "Pasche"
+    ],
+    "Café": [
+      "Porchet"
+    ],
+    "Couturières": [
+      "Buttet",
+      "Buttet",
+      "Pasche-Destraz"
+    ],
+    "Distillerie": [
+      "Fawer"
+    ],
+    "Electricien": [
+      "Buttet"
+    ],
+    "Epicerie-mercerie": [
+      "Pasche"
+    ],
+    "Maçons": [
+      "Pasche",
+      "Porchet"
+    ],
+    "Maréchal": [
+      "Martin"
+    ],
+    "Moulin": [
+      "Décosterd"
+    ],
+    "Photographe": [
+      "Buttet"
+    ],
+    "Pierriste": [
+      "Maulaz"
+    ],
+    "Pompes funèbres du Nord": [
+      "Buttet"
+    ],
+    "Rentière": [
+      "Pasche"
+    ],
+    "Sellier": [
+      "Chaney"
+    ],
+    "Sociétés": [
+      "Sté immobilière de fromagerie et laiterie, R.",
+      "Sté de tir aux armes de guerre"
+    ]
+  },
+  "PERREYRES": {
+    "Syndic": [
+      "Cugny-Vannod"
+    ],
+    "Secrétaire": [
+      "Pingoud-Rochat"
+    ],
+    "Boursier": [
+      "Chaillet-Braissant"
+    ],
+    "Huissier": [
+      "Cugny"
+    ]
+  }
+}

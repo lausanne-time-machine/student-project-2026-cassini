@@ -1,0 +1,231 @@
+{
+  "MUTRUX": {
+    "Autorités communales": [
+      "Marchand Georges",
+      "Taillefert Clovis",
+      "Groux Jean",
+      "Simon Abel",
+      "Guex Emile",
+      "Schenkel Louis",
+      "Simon Agénor"
+    ],
+    "Agriculteurs": [
+      "Auberson Edouard",
+      "Lassueur Joseph",
+      "Marchand Ges",
+      "Mermod Georges",
+      "Pahud Gustave",
+      "Périllard Armand",
+      "Périllard Jules",
+      "Perriraz Armand",
+      "Simon frères",
+      "Taillefert frères",
+      "Taillefert Robert",
+      "Viguet Louis"
+    ],
+    "Apiculteur": [
+      "Mayor Arnold"
+    ],
+    "Commission scolaire": [
+      "Schenkel Ls"
+    ],
+    "Cordonnier": [
+      "Patthey Eugène",
+      "Rogivue Louis"
+    ],
+    "Dépositaire postal": [
+      "Taillefert Esther"
+    ],
+    "Inspecteur du bétail": [
+      "Périllard Arm.",
+      "Dagon Jules"
+    ],
+    "Instituteur": [
+      "Glardon Adrien"
+    ],
+    "Meunier": [
+      "Schenkel Victor-L."
+    ],
+    "Epicerie, mercerie": [
+      "Bezia-Dagon Jenny",
+      "Guignard-Rognon Lse",
+      "Société coopérative Yverdonnoise"
+    ],
+    "Instituteurs": [
+      "Lambercy Eugène",
+      "Gatabin Germaine"
+    ],
+    "Laitier": [
+      "Graber Emile"
+    ],
+    "Lingères": [
+      "Bezia-Dagou, dame",
+      "Bontems Clara"
+    ],
+    "Maçon": [
+      "Bezia Angel"
+    ],
+    "Menuisier": [
+      "Schneeberger Fritz"
+    ],
+    "Pêcheurs": [
+      "Filleux Henri-Louis",
+      "Séchaud Jules"
+    ],
+    "Poste": [
+      "Dagon Louis, fils"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "Du poids public",
+      "De tir aux armes de guerre",
+      "De musique « La Centenaire »",
+      "D'épargne « L'Espoir »"
+    ],
+    "Tailleur": [
+      "Bontems Armand"
+    ],
+    "Tailleuses": [
+      "Dagon Rose",
+      "Filleux Jeanne"
+    ],
+    "Vins (march. de)": [
+      "Dagon Rod.-F.",
+      "Seiler Gottfried"
+    ],
+    "Voiturier": [
+      "Dagon Auguste"
+    ]
+  },
+  "ONNENS": {
+    "Autorités communales": [
+      "Dagond-Rod François",
+      "Dagon Jules fils",
+      "Filleux Charles",
+      "Filleux Marcel",
+      "Perdrisat Edouard",
+      "Dagon Michel",
+      "Paris Victor",
+      "Dagon Ch.-Louis",
+      "Seiler Gustave",
+      "Dagon Maur."
+    ],
+    "Agriculteurs": [
+      "Apothéloz Eugène",
+      "Dagon-Grobet Jules",
+      "Dagon Rod.",
+      "Dagon-Rognon",
+      "Dagon Paul",
+      "Dagon Auguste",
+      "Dagon Alphonse",
+      "Dagon Edouard",
+      "Filleux Dan.-Louis",
+      "Gaille Henri",
+      "Paris Ch.",
+      "Perdrisat Edouard",
+      "Perdrisat Samuel",
+      "Robin Louis",
+      "Seiler Gottfried"
+    ],
+    "Amodiateurs": [
+      "Fillieux Edouard",
+      "Jeanmonod Georges"
+    ],
+    "Apiculteurs": [
+      "Rey Marie et Gabrielle",
+      "Rogivue Louis"
+    ],
+    "Auberges et cafés": [
+      "Dagon François",
+      "Favre Louis"
+    ],
+    "Boulanger": [
+      "Flory Jules"
+    ],
+    "Charpentier": [
+      "Schneeberger Fritz"
+    ],
+    "Charron": [
+      "Reuille Paul"
+    ],
+    "Chef de gare": [
+      "Matthey Emile"
+    ],
+    "Coiffeur": [
+      "Schwab Fritz"
+    ],
+    "Commission scolaire": [
+      "M. Spiro",
+      "Dagon Louis",
+      "Filleux Charles"
+    ]
+  },
+  "PROVENCE": {
+    "Autorités communales": [
+      "Bolens Georges",
+      "Vuillermet Albert",
+      "Delay Alfred",
+      "Bolens Louis",
+      "Perrin Sylvain",
+      "Favre Louis",
+      "Franel Armand",
+      "Thonney Charles",
+      "Guillaume Maurice",
+      "Favre Eugène",
+      "Raymondaz Louis"
+    ],
+    "Agriculteurs": [
+      "Gaille-Alisson Fritz",
+      "Gattolliat Fréd.",
+      "Jeanmonod Adrien",
+      "Loup Louis",
+      "Maire Léopold"
+    ],
+    "Amodiateurs": [
+      "Guillaume Charles",
+      "Jeanmonod-Gaille",
+      "Perrin Sylvain"
+    ],
+    "Auberges et cafés": [
+      "Guillaume frères",
+      "Saugy Numa"
+    ],
+    "Bois (march. de)": [
+      "Gaille Félicien"
+    ],
+    "Boisseliers": [
+      "Bolens Aug.",
+      "Vuillermet Albert"
+    ],
+    "Boulanger": [
+      "Delay Alfred"
+    ],
+    "Charcutier": [
+      "Jeanmonod-Delay Gve."
+    ],
+    "Charpentier": [
+      "Vuillermet Arnold"
+    ],
+    "Charrons": [
+      "Brossin Charles",
+      "Delay Louis",
+      "Favre André"
+    ],
+    "Chef de section": [
+      "Vuillermet Albert"
+    ],
+    "Commission scolaire": [
+      "Schütz Charles",
+      "Bolens Georges",
+      "Favre Eugène",
+      "Gaille Fritz",
+      "Delay Alfred"
+    ],
+    "Cordonnier": [
+      "Delay Henri"
+    ],
+    "Couvreur": [
+      "Jeanmonod Charles"
+    ]
+  }
+}

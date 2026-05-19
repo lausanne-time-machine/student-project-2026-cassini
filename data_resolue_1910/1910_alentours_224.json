@@ -1,0 +1,281 @@
+{
+  "ROSSENS": {
+    "Municipaux": [
+      "Morattel Jules",
+      "Cachin Albert"
+    ],
+    "Secrétaire": [
+      "Cachin Charles"
+    ],
+    "Agriculteurs": [
+      "Cachin, l'hoirie",
+      "Demiéville Isabelle",
+      "Haberlé Théophile",
+      "Morattel frères",
+      "Mosimann Jean",
+      "Ogay Philippe",
+      "Roux Auguste",
+      "Roux frères",
+      "Roy Gustave",
+      "Spielmann Joseph"
+    ],
+    "Bétail (march. de)": [
+      "Roux Auguste"
+    ],
+    "Fourches (fabr. de)": [
+      "Cachin Charles",
+      "Morattel Fritz"
+    ],
+    "Inspecteur du bétail": [
+      "Cachin Charles"
+    ],
+    "Instituteur": [
+      "Thévenaz Albert"
+    ],
+    "Scierie et battoir à blé": [
+      "Morattel frères"
+    ],
+    "Râteaux (fab. de)": [
+      "Roux Charles",
+      "Schupbach Jean"
+    ],
+    "Société": [
+      "De laiterie"
+    ]
+  },
+  "SASSEL": {
+    "Autorités communales": [
+      "Durussel Jules",
+      "Fivat César"
+    ],
+    "Syndic": [
+      "Durussel Louis"
+    ],
+    "Municipaux": [
+      "Pitte Jules",
+      "Dufey Emile",
+      "Fivat Jules",
+      "Fivat Constant-L."
+    ],
+    "Secrétaire": [
+      "Cosendai Paul"
+    ],
+    "Huissier": [
+      "Fivat Albert"
+    ],
+    "Assesseur": [
+      "Durussel Louis"
+    ],
+    "Aubergistes": [
+      "Corminbœuf Marc",
+      "Cosandey Ami"
+    ],
+    "Boisselier": [
+      "Fivat Victor"
+    ],
+    "Commission scolaire": [
+      "Durussel Louis",
+      "Pitte Jules",
+      "Fivat Jules",
+      "Dufey Louis",
+      "Narbel Henri"
+    ],
+    "Cordonnier": [
+      "Krebs Jacob"
+    ],
+    "Epicerie": [
+      "Dufey Auguste",
+      "Zwahlen Louis"
+    ],
+    "Horloger-rhabilleur": [
+      "Jeanmonod Louis-François"
+    ],
+    "Inspecteur du bétail": [
+      "Durussel Jules"
+    ],
+    "Instituteurs": [
+      "Savary Hri",
+      "Cosandai Marie"
+    ],
+    "Lingère": [
+      "Fivat Rosalie"
+    ],
+    "Machines à battre": [
+      "Durussel, hoirs de Jaques",
+      "Pitte Jules"
+    ],
+    "Maréchal": [
+      "Ballif Louis"
+    ],
+    "Pierristes": [
+      "Chevalley-Decorges",
+      "Michoud Aloïs",
+      "Zwahlen Marie"
+    ],
+    "Poste": [
+      "Fivat jules"
+    ],
+    "Rentier": [
+      "Golay Samuel"
+    ],
+    "Sociétés": [
+      "De fromagerie et laiterie",
+      "Syndicat agricole"
+    ],
+    "Tailleuse": [
+      "Dufey Marie"
+    ],
+    "Téléphone": [
+      "Auberge de l'Aigle"
+    ]
+  },
+  "SÉDEILLES": {
+    "Autorités communales": [
+      "Goumaz Adolphe",
+      "Pages Alfred"
+    ],
+    "Syndic": [
+      "Miéville Charles"
+    ],
+    "Municipaux": [
+      "Morattel Louis",
+      "Goumaz Ulysse",
+      "Goumaz Louis",
+      "Morattel Oscar"
+    ],
+    "Secrétaire": [
+      "Pages Gustave"
+    ],
+    "Boursier": [
+      "Ducret Alfred"
+    ],
+    "Agriculteurs": [
+      "Dubath frères",
+      "Ducret François",
+      "Goumaz Adolphe",
+      "Goumaz Ulysse",
+      "Goumaz Louis",
+      "Miéville Charles",
+      "Morattel Constant",
+      "Morattel Henri",
+      "Morattel Oscar",
+      "Pages Gustave",
+      "Peytregnet Denis",
+      "Tétaz Justin",
+      "Thuillard Louis"
+    ],
+    "Apiculteur": [
+      "Savary Emile"
+    ],
+    "Aubergiste": [
+      "Morattel Oscar"
+    ],
+    "Bétail (march. de)": [
+      "Goumaz Adrien",
+      "Morattel Louis"
+    ],
+    "Carrier": [
+      "Pages Auguste"
+    ],
+    "Commission scolaire": [
+      "Goumaz Adolphe",
+      "Métraux",
+      "Pages Gustave",
+      "Goumaz Ulysse",
+      "Morattel Oscar"
+    ],
+    "Entrepreneur": [
+      "Bodone Georges"
+    ],
+    "Epicerie": [
+      "Bodone-Morattel Lina"
+    ],
+    "Fourches et râteaux (fab. de)": [
+      "Cachin Henri",
+      "Dubath frères",
+      "Pages Eugène",
+      "Pages Adrien",
+      "Pages frères",
+      "Peytregnet Emile"
+    ],
+    "Inspecteur du bétail": [
+      "Goumaz Adolphe"
+    ],
+    "Instituteur": [
+      "Savary Emile"
+    ],
+    "Lait": [
+      "Société Nestlé"
+    ],
+    "Poste": [
+      "Chassot Julie"
+    ],
+    "Rentiers": [
+      "Goumaz Ulysse",
+      "Prahin Jean"
+    ],
+    "Scierie": [
+      "Cachin Henri"
+    ],
+    "Sociétés": [
+      "De la fromagerie",
+      "Du battoir à blé",
+      "Syndicat agricole",
+      "Caisse d'assurance du bétail bovin"
+    ],
+    "Tailleuse": [
+      "Morattel Lucie"
+    ],
+    "Télégraphiste": [
+      "Chassot Julie"
+    ]
+  },
+  "SEIGNEUX": {
+    "Autorités communales": [
+      "Wist Jules",
+      "Trolliet Emile"
+    ],
+    "Syndic": [
+      "Cachin Alfred"
+    ],
+    "Municipaux": [
+      "Vauthey Adolphe",
+      "Pasche Félix",
+      "Trolliet Alfred",
+      "Vauthey Alfred"
+    ],
+    "Secrétaire": [
+      "Vauthey Ulysse"
+    ],
+    "Boursier": [
+      "Cachin Emile"
+    ],
+    "Agriculteurs": [
+      "Blaser Fritz",
+      "Cachin Emile",
+      "Cachin Frédéric",
+      "Cachin Henri",
+      "Cachin Louis",
+      "Durussel Eugène",
+      "Gavillet Jean",
+      "Pittet Louis",
+      "Tenthorey Eugène",
+      "Tenthorey François",
+      "Trolliet Alfred",
+      "Trolliet Emile",
+      "Trolliet Gustave",
+      "Vauthey Alfred",
+      "Vauthey Jean",
+      "Vauthey Louis",
+      "Vauthey Oscar",
+      "Vauthey Ulysse",
+      "Wist Jules"
+    ],
+    "Aubergiste": [
+      "Vauthey Alfred"
+    ],
+    "Charron": [
+      "Jaques Daniel"
+    ]
+  }
+}

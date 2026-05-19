@@ -1,0 +1,27 @@
+{
+  "TOUR-DE-PEILZ": {
+    "Divers": [
+      "Grand Hôtel de Naye",
+      "Pension Dufour",
+      "C. Pilloud",
+      "Pension Mon-Plaisir",
+      "C. Dizerens"
+    ]
+  },
+  "MONT DE CAUX": {
+    "Divers": [
+      "Grand Hôtel de Caux"
+    ]
+  },
+  "LES AVANTS": {
+    "Divers": [
+      "Grand Hôtel des Avants",
+      "Hôtel de Jaman"
+    ]
+  },
+  "NAYE": {
+    "Divers": [
+      "Grand Hôtel"
+    ]
+  }
+}

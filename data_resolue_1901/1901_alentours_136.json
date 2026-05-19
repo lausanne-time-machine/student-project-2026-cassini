@@ -1,0 +1,256 @@
+{
+  "SOTTENS": {
+    "Autorités communales": [
+      "Pelet, Edouard",
+      "Braillard, Héli"
+    ],
+    "Syndic": [
+      "Pelet, Henri"
+    ],
+    "Municipaux": [
+      "Besson, Emile",
+      "Dubrit, Louis",
+      "Dubrit, Alexis",
+      "Porchet, Eugène",
+      "Porchet Constant",
+      "Ducret, Pierre"
+    ],
+    "Secrétaire": [
+      "Dubrit, Louis"
+    ],
+    "Cafés": [
+      "Jaton, Eugène",
+      "Lemat, Jules"
+    ],
+    "Charpentiers": [
+      "Buttet, Daniel",
+      "Braillard, Benjamin.",
+      "Porchet, Eugène"
+    ],
+    "Charrons": [
+      "Grandchamp, Louis",
+      "Weber, Mathias"
+    ],
+    "Chef de section": [
+      "Besson, Emile"
+    ],
+    "Cordonniers": [
+      "Desmeules",
+      "Dubrit, Louis"
+    ],
+    "Entrepreneur": [
+      "Braillard, Benjamin."
+    ],
+    "Inspecteur du bétail": [
+      "Porchet, Héli"
+    ],
+    "Instituteurs": [
+      "Deppierraz, Augustin",
+      "Deppierraz, Jeannette"
+    ],
+    "Maréchal": [
+      "Laurent, Louis"
+    ],
+    "Meuniers": [
+      "Guex, Jules",
+      "Bertholet, Lucien"
+    ],
+    "Négociante": [
+      "Romanens, Louise"
+    ],
+    "Râteaux (fabr.)": [
+      "Mingard, J.-P."
+    ],
+    "Relieur": [
+      "Deppierraz, Jean"
+    ],
+    "Sage-femme": [
+      "Braillard, Elise"
+    ],
+    "Scieurs": [
+      "Bertholet, Lucien",
+      "Guex, Jules"
+    ],
+    "Téléphoniste": [
+      "Lemat, Jules"
+    ],
+    "Tisserand": [
+      "Ducret, Pierre"
+    ]
+  },
+  "SYENS": {
+    "Syndic": [
+      "Mottaz, J.-Pierre."
+    ],
+    "Municipaux": [
+      "Mottaz, Elie",
+      "Cavin, Louis",
+      "Mottaz, Jules-Théoph.",
+      "Martin, Eugène",
+      "Mottaz, Aimé",
+      "Mottaz, Eugène"
+    ],
+    "Assesseur": [
+      "Mottaz-Hegg, Samuel."
+    ],
+    "Charpentier": [
+      "Mottaz, Aimé."
+    ],
+    "Charron": [
+      "Buttet, David."
+    ],
+    "Commission scolaire": [
+      "Ruchet, Charles"
+    ],
+    "Fermier": [
+      "Benggeli, Edouard"
+    ],
+    "Inspecteur du bétail": [
+      "Mottaz, Samuel."
+    ],
+    "Instituteur": [
+      "Waldner, Gustave."
+    ],
+    "Laitier": [
+      "Crausaz, Edouard."
+    ],
+    "Menuisier-ébéniste": [
+      "Eichenberg, Otto."
+    ],
+    "Meuniers": [
+      "Hartmann, J.-J. R",
+      "Mottaz, frères, Héli & Victor. R."
+    ],
+    "Pasteur": [
+      "Ruchet, Charles."
+    ],
+    "Sociétés": [
+      "Société de fromagerie. R",
+      "Abbaye de Syens et Rossenges. R."
+    ]
+  },
+  "THIERRENS": {
+    "Autorités communales": [
+      "Berzin-Coigny",
+      "Piot, Ernest"
+    ],
+    "Syndic": [
+      "Genier, Béat."
+    ],
+    "Municipaux": [
+      "Brochon, Julien",
+      "Chevalley, Beat",
+      "Favre, Constant",
+      "Favre, P.-David",
+      "Forestier, Adrien",
+      "Genier, Emile-Henri",
+      "Héritier, Jules."
+    ],
+    "Auberges et cafés": [
+      "Favre, Jaques",
+      "Héritier, Jules",
+      "Loup, Adrien"
+    ],
+    "Bétail (éleveurs)": [
+      "Chevalley, frères",
+      "Héritier, Constant."
+    ],
+    "Bois (commerce)": [
+      "Ebischer, Pierre",
+      "Favre, Pierre-David",
+      "Genier, Jean-Louis",
+      "Genier-Libot. Fr."
+    ],
+    "Bouchers": [
+      "Favre, Constant",
+      "Favre, Emile",
+      "Genier-Dürrenmatt, Henri."
+    ],
+    "Boulanger": [
+      "Gessenay, Jean."
+    ],
+    "Charcuteries": [
+      "Fiaux, Eugène. R",
+      "Genier-Favez, François. R."
+    ],
+    "Charpentiers": [
+      "Buttet, Edouard",
+      "Favre, Jean",
+      "Forestier, Constant",
+      "Rod, Henri."
+    ],
+    "Cigares et tabacs": [
+      "Fiaux, Eugène. R.",
+      "Genier, Eugène. R."
+    ],
+    "Coiffeur": [
+      "Potterat, Constant."
+    ],
+    "Cordonniers": [
+      "Chevalley, Jules",
+      "Favre, Jules-Abram",
+      "Prahin, Eugène",
+      "Viennet, Charles."
+    ],
+    "Epicerie, mercerie, tissus": [
+      "Fiaux, Eugène. R.",
+      "Fiaux-Forestier, Elise, R.",
+      "Genier-Favez, Fr. R.",
+      "Genier, Eug. R."
+    ],
+    "Fermiers": [
+      "Pasche, Jn-L",
+      "Spycher, Ferdinand."
+    ],
+    "Fourches (fabricants)": [
+      "Favre, Héli",
+      "Fiaux, Arnold",
+      "Forestier, Daniel",
+      "Forestier, Adrien",
+      "Rod. Jean-Samuel."
+    ],
+    "Inspecteur du bétail": [
+      "Favre, Emile",
+      "Héritier, Jules."
+    ],
+    "Instituteurs": [
+      "Randin, Emile",
+      "Favre, Nancy",
+      "Jauslin, Anna."
+    ],
+    "Lingères": [
+      "Rod, Constance",
+      "Meystre. Aline."
+    ],
+    "Maçons": [
+      "Fantolli frères",
+      "Piot, Héli."
+    ],
+    "Maréchaux": [
+      "Forestier, Jean-Frédéric",
+      "Meystre, Pierre-François",
+      "Genier, Oscar-Viquerat."
+    ],
+    "Menuisiers": [
+      "Genier, Cyprien",
+      "Piot, Ernest."
+    ],
+    "Meuniers": [
+      "Berrin, Louis",
+      "Prahin, Charles",
+      "Mouron, Emile."
+    ],
+    "Modiste": [
+      "Genier-Bulloz, Clara."
+    ],
+    "Pasteur": [
+      "Goumaz, Louis."
+    ],
+    "Pierristes": [
+      "Genier, Emile et Eugène",
+      "Meystre, Jean-Samuel",
+      "Meystre, Julien",
+      "Potterat, Constant."
+    ]
+  }
+}

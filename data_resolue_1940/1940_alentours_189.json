@@ -1,0 +1,353 @@
+{
+  "MUTRUX": {
+    "Assesseur": [
+      "Gaille Gustave"
+    ],
+    "Cantonnier": [
+      "Gaille Fritz"
+    ],
+    "Commandant du feu": [
+      "Banderet Maurice"
+    ],
+    "Commission scolaire": [
+      "Fardel André"
+    ],
+    "Garde-forestier": [
+      "Thibaud Ernest"
+    ],
+    "Inspecteur du bétail": [
+      "Banderet Hri"
+    ],
+    "Inspecteur des viandes": [
+      "Fardel André"
+    ],
+    "Instituteur": [
+      "Nicoud Samuel"
+    ],
+    "Office de surveillance des alcools": [
+      "Fardel André"
+    ],
+    "Pasteur": [
+      "Gallay Ami"
+    ],
+    "Police (agent de)": [
+      "Jeanmonod Henri"
+    ],
+    "Poste et télégraphe": [
+      "Gaille Fernand"
+    ],
+    "Agriculteurs": [
+      "Banderet Benjamin",
+      "Banderet Henri",
+      "Fardel Maurice",
+      "Fardel Charles",
+      "Fardel Louis",
+      "Gaille Albert",
+      "Gaille Gustave",
+      "Guillaume Marcel",
+      "Jeanmonod Hri",
+      "Junod Jean",
+      "Raymondaz Louis"
+    ],
+    "Amodiateurs": [
+      "Fardel Maurice",
+      "Fardel Ch.",
+      "Gaille Gustave"
+    ],
+    "Apiculteurs": [
+      "Neuenschwander Alph",
+      "Raymondaz Louis"
+    ],
+    "Assurance-vieillesse": [
+      "Nicoud S."
+    ],
+    "Bestiaux (élevage)": [
+      "Guillaume Ulrich"
+    ],
+    "Bois (march. de)": [
+      "Banderet Benjamin",
+      "Banderet Jules"
+    ],
+    "Café": [
+      "Borel Léon"
+    ],
+    "Charcuterie": [
+      "Borel Léon"
+    ],
+    "Charron": [
+      "Raymondaz Louis"
+    ],
+    "Couturière-tricoteuse (machine)": [
+      "Fardel Albertine"
+    ],
+    "Epiceries-merceries": [
+      "Borel Léon",
+      "Porret Samuel"
+    ],
+    "Laitier": [
+      "Dellsperger Werner"
+    ],
+    "Menuisier": [
+      "Raymondaz Timothée"
+    ],
+    "Pension": [
+      "Fardel A."
+    ],
+    "Pompes funèbres du Nord": [
+      "Gatolliat"
+    ],
+    "Sociétés": [
+      "Section de la Croix-Bleue",
+      "Sté coopérative de battage de Mutrux",
+      "Sté des chemins du Mont-Aubert",
+      "Sté de laiterie"
+    ],
+    "Voituriers": [
+      "Banderet Benj.",
+      "Fardel Charly"
+    ],
+    "Divers": [
+      "Fornachon"
+    ]
+  },
+  "NAZ": {
+    "Régisseur": [
+      "Porchet Ernest"
+    ],
+    "Boursier": [
+      "Stoudman Henri"
+    ],
+    "Secrétaire": [
+      "Dessauges Eugène"
+    ],
+    "Commandant du feu": [
+      "Porchet Ernest"
+    ],
+    "Commission scolaire": [
+      "Curchod Elie"
+    ],
+    "Garde forestier": [
+      "Curchod E."
+    ],
+    "Inspecteur du bétail": [
+      "Stoudmann Hri"
+    ],
+    "Poste": [
+      "Porchet Blanche"
+    ],
+    "Téléphone": [
+      "Stoudmann Julie"
+    ],
+    "Agriculteurs": [
+      "Chalet Elisa",
+      "Curchod Alexis",
+      "Dessauges hoirie",
+      "Dessauges Héli",
+      "Egger Théodore",
+      "Hostettler William",
+      "Laurent René",
+      "Porchet Ernest",
+      "Porchet André",
+      "Stoudmann Alexis",
+      "Stoudmann Henri",
+      "Staub Jacob",
+      "Stoudmann hoirs d'Ulysse"
+    ],
+    "Apiculteur": [
+      "Stoudmann Alexis"
+    ],
+    "Assurance-vieillesse": [
+      "Bernard Paul"
+    ],
+    "Laitier": [
+      "Laiterie Agricole"
+    ],
+    "Pompes funèbres du Nord": [
+      "Delessert Louis",
+      "Schor Ernest"
+    ],
+    "Société": [
+      "Sté de fromagerie"
+    ],
+    "Tonnelier": [
+      "Stoudmann Alexis"
+    ]
+  },
+  "NEYRUZ": {
+    "Syndic": [
+      "Dutoit Henri"
+    ],
+    "Secrétaire": [
+      "Dutoit Louis"
+    ],
+    "Boursier": [
+      "Jaton Eugène"
+    ],
+    "Huissier": [
+      "Baudin Emile"
+    ],
+    "Municipaux": [
+      "Freymond Gustave",
+      "Gavin Marcel",
+      "Martin Samuel",
+      "Martin Charles",
+      "Rosset Jean",
+      "Rosset Maurice"
+    ],
+    "Assesseur": [
+      "Porchet Jules"
+    ],
+    "Cantonnier": [
+      "Jaton Alfred"
+    ],
+    "Commandant du feu": [
+      "Martin Ami"
+    ],
+    "Commission scolaire": [
+      "Dutoit Ul."
+    ],
+    "Garde-forestier": [
+      "Martin Ami"
+    ],
+    "Inspecteur du bétail": [
+      "Martin Paul"
+    ],
+    "Inspecteur des viandes": [
+      "Jaton André"
+    ],
+    "Instituteurs": [
+      "Berthet Jean",
+      "Porchet Marie"
+    ],
+    "Juge de paix": [
+      "Porchet Jules"
+    ],
+    "Poste et télégraphe": [
+      "Gavin Hélène"
+    ],
+    "Agriculteurs": [
+      "Bettex Edouard",
+      "Bettex Oscar",
+      "Buhlmann Rod",
+      "Chevalley Emile",
+      "Chevalley frères",
+      "Dutoit Charles",
+      "Dutoit Henri",
+      "Dutoit Louis",
+      "Freymond hoirie",
+      "Freymond G.",
+      "Gavin Marcel",
+      "Hofmann Fritz",
+      "Jaton Ernest",
+      "Jaton Eugène",
+      "Lagnaz Adrien",
+      "Lagnaz frères",
+      "Martin Ami",
+      "Martin Paul",
+      "Martin Ulysse",
+      "Noverraz Jules",
+      "Porchet Jules",
+      "Rosset Jean",
+      "Rosset Nancy, Vve."
+    ],
+    "Assurance-vieillesse": [
+      "Mayor Alfred"
+    ],
+    "Cafés": [
+      "Fivaz Robert",
+      "Freymond Adrienne"
+    ],
+    "Charron": [
+      "Lagnaz Charles"
+    ],
+    "Cordonnier": [
+      "Bécherraz Béat"
+    ],
+    "Epiceries": [
+      "Baudin Emile",
+      "Jaton Alfred"
+    ],
+    "Maréchal": [
+      "Martin Samuel"
+    ],
+    "Pompes funèbres du Nord": [
+      "Bettex Edouard"
+    ],
+    "Société": [
+      "Société de fromagerie"
+    ]
+  },
+  "NOVALLES": {
+    "Syndic": [
+      "Mayor Arnold"
+    ],
+    "Secrétaire": [
+      "Frutig J.-L."
+    ],
+    "Boursier": [
+      "Schori Rodolphe"
+    ],
+    "Huissier": [
+      "Frutig André"
+    ],
+    "Municipaux": [
+      "Kobi Alexandre",
+      "Leder Rodolphe",
+      "Schori Rodolphe",
+      "Taillefert Reynold"
+    ],
+    "Commandant du feu": [
+      "Leder Rodolphe"
+    ],
+    "Commission scolaire": [
+      "Mayor Arnold"
+    ],
+    "Institutrice": [
+      "Epars Juliette"
+    ],
+    "Inspecteur du bétail": [
+      "Recordon Art."
+    ],
+    "Police (agent de)": [
+      "Simon Abel"
+    ],
+    "Poste et télégraphe": [
+      "Frutig Lina"
+    ],
+    "Agriculteurs": [
+      "Frutig Jean",
+      "Glauser Chs",
+      "Guillet A.",
+      "Kobi Alex.",
+      "Leder Rod.",
+      "Recordon Arthur",
+      "Schori Rodolphe",
+      "Simon Abel",
+      "Stampfli Jacob",
+      "Viguet William"
+    ],
+    "Apiculteurs": [
+      "Marchand Georges",
+      "Mayor Arnold",
+      "Simon Abel"
+    ],
+    "Assurance-vieillesse": [
+      "Epars Juliette"
+    ],
+    "Café": [
+      "Taillefert Reynold"
+    ],
+    "Couturières": [
+      "Frutig-Viguet Lina",
+      "Glauser Lina"
+    ],
+    "Epicerie-mercuterie": [
+      "Taillefert R."
+    ],
+    "Vignerons": [
+      "Feissli Jacob",
+      "Mayor Arnold",
+      "Perriraz Armand"
+    ]
+  }
+}

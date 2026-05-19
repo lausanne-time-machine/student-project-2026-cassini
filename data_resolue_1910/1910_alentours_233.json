@@ -1,0 +1,267 @@
+{
+  "CUVES": {
+    "Boisselier": [
+      "Pilet-Kobel"
+    ],
+    "Boulangerie, épicerie": [
+      "Burnier Paul"
+    ],
+    "Charpentiers": [
+      "Isoz frères",
+      "Berdoz Louis"
+    ],
+    "Cordier": [
+      "Berdoz-Mellet"
+    ],
+    "Distillateur": [
+      "Lenoir Ami"
+    ],
+    "Inspecteur du bétail": [
+      "Massard D."
+    ],
+    "Instituteur": [
+      "Favrod Ami"
+    ],
+    "Maréchal": [
+      "Pilet David"
+    ],
+    "Scieur": [
+      "Duperrex David"
+    ],
+    "Téléphone": [
+      "Burnier Paul"
+    ],
+    "Vannier": [
+      "Portmann Louis"
+    ]
+  },
+  "ROUGEMONT": {
+    "Autorités communales": [
+      "Saugy Alfred",
+      "Cottier Louis-David",
+      "Bovay Louis",
+      "Cottier-Saugy David",
+      "Cottier Paul",
+      "Breton Alfred",
+      "Saugy David",
+      "Gétaz Daniel",
+      "Yersin Victor"
+    ],
+    "Aubergistes": [
+      "Andrist David",
+      "Bovay David",
+      "Duperrex François",
+      "Favre-Perrod Louis",
+      "Yersin"
+    ],
+    "Bétail (march. de)": [
+      "Yersin-Bovay David"
+    ],
+    "Blanchisseuses": [
+      "Crot Ida",
+      "Messerly Bertha"
+    ],
+    "Bois (march. de)": [
+      "Breton Alfred",
+      "Cottier David",
+      "Saugy-Eggen Jules"
+    ],
+    "Bouchers": [
+      "Bertholet Alexis",
+      "Bertholet David",
+      "Cottier Ch."
+    ],
+    "Boulangers": [
+      "Cottier Louis-D.",
+      "de Siebenthal Alfred",
+      "Muller Silvan",
+      "Rochat Louis",
+      "Saugy Charles-Alexis"
+    ],
+    "Café de tempérance": [
+      "Bertholet David"
+    ],
+    "Charpentiers": [
+      "Roussi C.",
+      "Saugy Aloïs"
+    ],
+    "Chaussures": [
+      "Cottier Alfred"
+    ],
+    "Chef de section": [
+      "Saugy David"
+    ],
+    "Clous (fabr. de)": [
+      "Perretten Christian"
+    ],
+    "Commission scolaire": [
+      "Saugy-Desplands Louis"
+    ],
+    "Cordonniers": [
+      "Bertholet David",
+      "Saugy Louis",
+      "Raynaud Max"
+    ],
+    "Electriciens": [
+      "Société lausannoise d'électricité"
+    ],
+    "Epicerie": [
+      "Cottier Alfred",
+      "de Siebenthal Alfred",
+      "Gétaz-Blum Maria",
+      "Rochat Louis",
+      "Rossier-Dolder D.",
+      "Saugy Charles-Alexis",
+      "Saugy sœurs",
+      "Trachsel Robert",
+      "Yersin-Bovay sœurs"
+    ],
+    "Horloger": [
+      "Tripet Alfred"
+    ],
+    "Hôtels et pensions": [
+      "Andrist David",
+      "Fillettaz Hector",
+      "Gay-Dolder J.",
+      "Yersin",
+      "Yersin Mlles"
+    ],
+    "Inspecteur du bétail": [
+      "Gétaz Daniel"
+    ],
+    "Instituteurs": [
+      "Regamey Edouard",
+      "Cottier-Cosandey Alice",
+      "Yersin Marie"
+    ],
+    "Justice de paix": [
+      "Gétaz Daniel",
+      "Mange Louis",
+      "Yersin L.-G.",
+      "Cottier-Dormond L.",
+      "de Siebenthal Alfred",
+      "Fillettaz Hector"
+    ],
+    "Maréchal": [
+      "Bertholet Jules"
+    ],
+    "Modes": [
+      "Bertholet Anna",
+      "Cottier-Dormond",
+      "Saugy sœurs",
+      "Turian Anna"
+    ],
+    "Officier d'état civil": [
+      "Saugy Louis"
+    ],
+    "Pasteur": [
+      "Curtet Charles"
+    ],
+    "Poste": [
+      "Saugy Gabriel"
+    ],
+    "Propriétaires-éleveurs": [
+      "Andrist David",
+      "Bovay Louis",
+      "Morier-Genoud Paul",
+      "Rayroud Alexis",
+      "Rayroud Colin",
+      "Saugy-Haldy D.",
+      "de Siebenthal Jean-Louis",
+      "Turrian Paul",
+      "Yersin Louis"
+    ],
+    "Sage-femme": [
+      "Bovay Louise"
+    ],
+    "Scieur": [
+      "Duperret Louis"
+    ],
+    "Serrurier et armurier": [
+      "Dolder Emile"
+    ],
+    "Sociétés": [
+      "de fromagerie de Rougemont",
+      "du Village",
+      "de Flendruz",
+      "Des Amis de la liberté suisse",
+      "Des eaux",
+      "De tir aux armes de guerre",
+      "Syndicat agricole",
+      "Section de la Croix Bleue"
+    ],
+    "Tailleuses": [
+      "Cottier Clara",
+      "Cottier Isabelle",
+      "Jaquillard Hortense",
+      "Turrian Elisa"
+    ],
+    "Téléphone": [
+      "Hôtel de Ville"
+    ],
+    "Tuileries": [
+      "S. A. des tuileries de Rougemont",
+      "Rossi Ugo"
+    ]
+  },
+  "FLENDRUZ": {
+    "Aubergistes": [
+      "Karlen David",
+      "Pilet Arthur"
+    ],
+    "Boucher": [
+      "Pilet Louis"
+    ],
+    "Boulanger": [
+      "Bornet Auguste"
+    ],
+    "Charrons": [
+      "Rubin Alfred",
+      "Yersin Alexis"
+    ],
+    "Cordonnier": [
+      "Desplands Jean-David"
+    ],
+    "Epicerie": [
+      "Bornet Auguste",
+      "Cottier Hélène",
+      "Pilet Arthur"
+    ],
+    "Instituteurs": [
+      "Wutrich Samuel",
+      "Dupraz Marie"
+    ],
+    "Juge au tribunal": [
+      "Breton Alfred"
+    ],
+    "Maçon": [
+      "Bassino Ettore"
+    ],
+    "Menuisier": [
+      "Morier-Genoud Louis"
+    ],
+    "Poste": [
+      "Saugy Louis"
+    ],
+    "Propriétaires-éleveurs": [
+      "Duperrex Ls-Gabriel",
+      "Favrod Ls",
+      "Saugy Jules-Louis",
+      "Saugy Jules-Gabriel",
+      "Saugy Louis-Arthur"
+    ],
+    "Scieries": [
+      "Breton Alfred",
+      "Cottier-Saugy David"
+    ],
+    "Sel (bureau du)": [
+      "Bornet Auguste"
+    ],
+    "Tailleuse": [
+      "Karlen Rosalie"
+    ],
+    "Téléphone": [
+      "Bureau des postes"
+    ]
+  }
+}

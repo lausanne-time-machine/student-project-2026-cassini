@@ -1,0 +1,258 @@
+{
+  "TANNAY": {
+    "Municipaux": [
+      "Semoroz César-Henri",
+      "Baud Antoine",
+      "Buffat Alphonse"
+    ],
+    "Secrétaire": [
+      "Cottier Albert"
+    ],
+    "Boursier": [
+      "Baud Louis"
+    ],
+    "Huissier": [
+      "Gauthey Louis"
+    ],
+    "Agriculteurs": [
+      "Buffat Alphonse",
+      "Cottier Elie",
+      "Desplands John",
+      "Dutoit François",
+      "Duvillard Charles"
+    ],
+    "Aubergiste": [
+      "Garin Louis"
+    ],
+    "Epicerie": [
+      "Bommottet Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Baud Antoine"
+    ],
+    "Instituteurs": [
+      "Maurer Hermann",
+      "Semoroz Elise"
+    ],
+    "Maçon": [
+      "Simon Julien"
+    ],
+    "Rentiers": [
+      "Duvillard Charles",
+      "Malan, veuve",
+      "Vidart Edouard"
+    ],
+    "Téléphone": [
+      "Garin Louis",
+      "Auberge communale"
+    ],
+    "Vignerons": [
+      "Baatard François",
+      "Spori Jean"
+    ],
+    "Laitier": [
+      "Guignard Louis"
+    ],
+    "Maréchal": [
+      "Martin François-André"
+    ],
+    "Médecin": [
+      "Olivier Eugène"
+    ],
+    "Menuisiers": [
+      "Quaysin John",
+      "Porchat Vincent"
+    ],
+    "Pasteurs": [
+      "Gindraux Jules",
+      "Burnand Franz"
+    ],
+    "Rentier": [
+      "Chollet Henri"
+    ],
+    "Sage-femme": [
+      "Ravenel, dame"
+    ],
+    "Scieur": [
+      "Gacon Jules"
+    ],
+    "Société": [
+      "De fromagerie et de laiterie. R."
+    ]
+  },
+  "TRÉLEX": {
+    "Autorités communales": [
+      "Jaton Charles",
+      "Eberhardt Charles",
+      "Duboulet Ami"
+    ],
+    "Municipaux": [
+      "Galé John",
+      "Galé Charles",
+      "Eberhard Julien",
+      "Aegerter Charles",
+      "Bory Louis",
+      "Bossey Alphonse",
+      "Ravenel Charles",
+      "Eberhardt Charles"
+    ],
+    "Agriculteurs": [
+      "Bory Louis",
+      "Bossey Julien",
+      "Chollet Louis",
+      "Félix Jean",
+      "Galé Auguste",
+      "Galé Jules",
+      "Galé Louis",
+      "Morax Louis",
+      "Ravenel John"
+    ],
+    "Amodiateurs": [
+      "Bory Marc",
+      "Galé Auguste",
+      "Urfer Frédéric"
+    ],
+    "Aubergistes": [
+      "Bugnon-Pinel. veuve",
+      "Martin François-André. R",
+      "Reichenbach Louis, T."
+    ],
+    "Bétail (march. de)": [
+      "Galé Auguste"
+    ],
+    "Boulanger": [
+      "Eberhardt Julien"
+    ],
+    "Buraliste postal": [
+      "Jaton Charles"
+    ],
+    "Commission scolaire": [
+      "Galé John",
+      "Ravenel John",
+      "Morax Louis"
+    ],
+    "Cordonnier": [
+      "Seillon François"
+    ],
+    "Charrons": [
+      "Martin Charles",
+      "Meystre Charles"
+    ],
+    "Chef de section": [
+      "Eberhardt Charles"
+    ],
+    "Entrepreneur": [
+      "Simon Marc"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Bugnon-Pinel, veuve",
+      "Meystre Chales",
+      "Zender Jules"
+    ],
+    "Hongreur": [
+      "Favre Jules"
+    ],
+    "Inspecteur du bétail": [
+      "Ravenel Charles"
+    ],
+    "Instituteurs": [
+      "Courvoisier Aimé",
+      "Dufey Léa"
+    ]
+  },
+  "VICH": {
+    "Autorités communales": [
+      "Forestier François",
+      "Charbonnier Auguste",
+      "Schneeberger Louis"
+    ],
+    "Municipaux": [
+      "Bassin Marius",
+      "Urfer Frédéric",
+      "Dill Alfred",
+      "Ebinger Samuel",
+      "Barbe Charles"
+    ],
+    "Agriculteurs": [
+      "Aubert-Caboussat Charles",
+      "Bruch Alexis",
+      "Pavillon Louis"
+    ],
+    "Appareillage d'eau et gaz acétylène": [
+      "Barbe Charles"
+    ],
+    "Aubergiste": [
+      "Dill Alfred. T."
+    ],
+    "Battoir à blé": [
+      "Delarue Charles"
+    ],
+    "Bois (march. de)": [
+      "Uhler, Mlle."
+    ],
+    "Boulanger": [
+      "Rod John"
+    ],
+    "Buraliste postal": [
+      "Mettraux Louis"
+    ],
+    "Charpentier": [
+      "Delarue-Morel Ch."
+    ],
+    "Chevaux (comm. de)": [
+      "Schneeberger Louis. R."
+    ],
+    "Cordonnier": [
+      "Perroto Jaques"
+    ],
+    "Entrepreneur": [
+      "Delarue-Morel"
+    ],
+    "Epicerie": [
+      "Aubert-Croisier Charles. R",
+      "Destraz Henri"
+    ],
+    "Ferblantier-couvreur": [
+      "Barbe Charles"
+    ],
+    "Fourrages (comm. de)": [
+      "Dill Alfred"
+    ],
+    "Inspecteur du bétail": [
+      "Aubert Charles, fils d'Abram"
+    ],
+    "Instituteurs": [
+      "Barraud William",
+      "Stuzmann Hortense"
+    ],
+    "Jardinier-maraîcher": [
+      "Schmidt Elise, dame et fils"
+    ],
+    "Laitier": [
+      "Vert Marc"
+    ],
+    "Scieur": [
+      "Uhler, Mlle."
+    ],
+    "Sellier": [
+      "Favre Henri"
+    ],
+    "Tailleuses": [
+      "Aubert Annette",
+      "Capt Lina",
+      "Francfort Louise",
+      "Forestier Anna"
+    ],
+    "Téléphone": [
+      "Auberge communale"
+    ],
+    "Vanniers": [
+      "Römer Robert & fils"
+    ],
+    "Vignerons": [
+      "Diserens Charles",
+      "Ebinger Louis",
+      "Blanchoud-Guex"
+    ]
+  }
+}

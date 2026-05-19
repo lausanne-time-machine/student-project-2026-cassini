@@ -1,0 +1,277 @@
+{
+  "SUSCÉVAZ": {
+    "Agriculteurs": [
+      "Décoppet Adolphe",
+      "Décoppet Eugène",
+      "Décoppet Max",
+      "Décoppet Paul",
+      "Décoppet Victor",
+      "Ravay Alfred",
+      "Siegfried Jean"
+    ],
+    "Apiculteur": [
+      "Siegfried Jean"
+    ],
+    "Charpentier": [
+      "Charles Auguste"
+    ],
+    "Commission scolaire": [
+      "Turin Jules",
+      "Décoppet Victor"
+    ],
+    "Epicerie": [
+      "Jaccard-Piguet Rose, veuve"
+    ],
+    "Inspecteur du bétail": [
+      "Décoppet Victor"
+    ],
+    "Instituteur": [
+      "Mottaz Paul"
+    ],
+    "Maréchal": [
+      "Delessert Alexis"
+    ],
+    "Société": [
+      "De laiterie. R."
+    ]
+  },
+  "TREYCOVAGNES": {
+    "Autorités communales": [
+      "Tanner Louis",
+      "Magnenat Albert"
+    ],
+    "Syndic": [
+      "Comte Alfred"
+    ],
+    "Municipaux": [
+      "Balzli Charles",
+      "Jeanneret Constant",
+      "Bovay Jules",
+      "Baatard Jean",
+      "Berney Louis"
+    ],
+    "Boursier": [
+      "Balzli Ed."
+    ],
+    "Agriculteurs": [
+      "Baatard Pierre",
+      "Balzli Charles",
+      "Bétrix Emile",
+      "Comte Alfred",
+      "Comte Louis",
+      "Cordey Aimé",
+      "Jeanneret Emile",
+      "Tanner Louis",
+      "Viret F."
+    ],
+    "Apiculteur": [
+      "Magnenat A."
+    ],
+    "Assesseur": [
+      "Baatard Pierre"
+    ],
+    "Aubergistes": [
+      "Balzli Edouard",
+      "Lambert Julie"
+    ],
+    "Buraliste postal": [
+      "Berney Louis"
+    ],
+    "Carrier": [
+      "Enrietto D."
+    ],
+    "Commission scolaire": [
+      "Baatard Jean",
+      "Berney Louis"
+    ],
+    "Entrepreneurs": [
+      "Enrietto D",
+      "Marro J."
+    ],
+    "Epicerie, tabacs": [
+      "Zwahlen Jean. R."
+    ],
+    "Inspecteur du bétail": [
+      "Comte Maurice"
+    ],
+    "Instituteurs": [
+      "Magnenat Albert",
+      "Wutrich Virginie"
+    ],
+    "Laitier": [
+      "Zwahlen Jean. R."
+    ],
+    "Maréchal-forgeron": [
+      "Berney Henri"
+    ],
+    "Pain (dépôt de)": [
+      "Zwahlen Jean. R."
+    ]
+  },
+  "URSINS": {
+    "Autorités communales": [
+      "Tacheron David"
+    ],
+    "Syndic": [
+      "Burdet Augustin"
+    ],
+    "Municipaux": [
+      "Bovay Héli",
+      "Christin Emile",
+      "Bovay Sylvain",
+      "Bovay Victor",
+      "Tacheron Constant",
+      "Burdet Augustin-Louis",
+      "Bovay Gustave"
+    ],
+    "Boursier": [
+      "Tacheron David"
+    ],
+    "Agriculteurs": [
+      "Bovay Gustave",
+      "Bovay Emile",
+      "Bovay Victor",
+      "Burdet Augustin",
+      "Burdet Eugène",
+      "Tacheron Constant",
+      "Tacheron David"
+    ],
+    "Aubergistes": [
+      "Bovay Sylvain. R",
+      "Burdet Octave"
+    ],
+    "Charpentiers": [
+      "Pahud Jules",
+      "Reguin David"
+    ],
+    "Charron": [
+      "Burdet Augustin-Louis"
+    ],
+    "Commission scolaire": [
+      "Bovay Emile",
+      "Tacheron Albert",
+      "Bovay Alb."
+    ],
+    "Couturières": [
+      "Baudin Alice",
+      "Baudin Fanny",
+      "Burdet Alice"
+    ],
+    "Epicerie": [
+      "Baudin Alice. R",
+      "Sarbach J"
+    ],
+    "Greffier de la justice de paix": [
+      "Burdet Eugène"
+    ],
+    "Inspecteur du bétail": [
+      "Christin Emile"
+    ],
+    "Instituteurs": [
+      "Fankhauser Albert",
+      "Fankhauser Henriette"
+    ],
+    "Maçon": [
+      "Cerutti Louis"
+    ],
+    "Machine à battre": [
+      "Burdet Augustin"
+    ],
+    "Officier d'état civil": [
+      "Burdet Eugène"
+    ],
+    "Pionnier": [
+      "Burdet Augustin-Louis"
+    ],
+    "Poste": [
+      "Reguin Aline"
+    ],
+    "Société": [
+      "De fromagerie. R."
+    ],
+    "Téléphoniste": [
+      "Burdet Eugénie"
+    ]
+  },
+  "VALEYRES-sous-MONTAGNY": {
+    "Autorités communales": [
+      "Vögeli Louis",
+      "Allamand Louis"
+    ],
+    "Syndic": [
+      "Christin Alfred"
+    ],
+    "Municipaux": [
+      "Pilliard Eugène",
+      "Martin Constant",
+      "Marendaz Eugène",
+      "Margot Louis"
+    ],
+    "Boursier": [
+      "Margot Louis",
+      "Piot François"
+    ],
+    "Agriculteurs": [
+      "Burdet François",
+      "Imho François",
+      "Margot Jules",
+      "Martin Jean",
+      "Martignier François",
+      "Pilliard François",
+      "Pilliard Louis",
+      "Porraz François",
+      "Simon François"
+    ],
+    "Aubergiste": [
+      "Boillet Charles"
+    ],
+    "Charpentier": [
+      "Pitton Louis"
+    ],
+    "Couvreur": [
+      "Marendaz Eugène"
+    ],
+    "Epicerie": [
+      "Pilliard Eugène"
+    ],
+    "Inspecteur du bétail": [
+      "Simon Alfred"
+    ],
+    "Instituteur": [
+      "Saugy-Brélaz Julien"
+    ],
+    "Maréchaux": [
+      "Margot David",
+      "Margot Louis"
+    ],
+    "Pierristes": [
+      "Sangrouber Henri",
+      "Sargrouber Marc"
+    ],
+    "Scieur": [
+      "Jaggi Léon"
+    ],
+    "Sellier": [
+      "Groux Emile"
+    ],
+    "Société": [
+      "De laiterie. R",
+      "Du Commerce"
+    ],
+    "Téléphone": [
+      "Café du Raisin. T."
+    ]
+  },
+  "VALEYRES-sous-URSINS": {
+    "Autorités communales": [
+      "Henry Oscar",
+      "Planche Edvard"
+    ],
+    "Syndic": [
+      "Beney Clément"
+    ],
+    "Municipaux": [
+      "Beney Justin"
+    ]
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "ROUGEMONT": {
+    "Coiffeur.": [
+      "Längel M."
+    ],
+    "Combustibles.": [
+      "Cottier Alexis"
+    ],
+    "Cordes (fabr. de).": [
+      "Saugy André"
+    ],
+    "Cordonniers.": [
+      "Menoud Alphonse",
+      "Saugy Ami"
+    ],
+    "Couturières.": [
+      "Blatti Emma",
+      "Chabloz Erna",
+      "Croz Gilberte",
+      "Menoud Elise",
+      "Schwitzguebel Caroline",
+      "Schwitzguebel Marie",
+      "Saugy Edith",
+      "Turrian Elisa"
+    ],
+    "Couvreurs.": [
+      "Duperrex frères",
+      "Lenoir David",
+      "Saugy-Annen Auguste et fils"
+    ],
+    "Entrepreneurs.": [
+      "Casucci Camille",
+      "Chabloz Ami",
+      "Duperrex Charles",
+      "Ellena Alexandre"
+    ],
+    "Epiceries-merceries.": [
+      "Bovay-Mottier Louis",
+      "Cottier-Morier Lse. R.",
+      "Dolder Pauline",
+      "Hutzli Martha",
+      "Matti-Blum Ernest. R.",
+      "Saugy-Knuchel Victor",
+      "de Siebenthal Olivier"
+    ],
+    "Ferblantiers — appareilleurs.": [
+      "Remy Auguste",
+      "Saugy Auguste",
+      "Yersin-Bertholet Robert"
+    ],
+    "Fers et quincaillerie.": [
+      "Saugy-Knuchel Victor",
+      "de Siebenthal Ol."
+    ],
+    "Guide patenté.": [
+      "Yersin Charles"
+    ],
+    "Hôtels-pensions.": [
+      "Bon-Accueil",
+      "Beau-Site",
+      "Cheval-Blanc",
+      "Hôtel-Buffet de la Gare et Pension Valrose",
+      "Hôtel du Vanel",
+      "Hôtel de Ville",
+      "Pension du Verger",
+      "Les Rosiers",
+      "Les Mélèzes"
+    ],
+    "Laitiers.": [
+      "Société de laiterie"
+    ],
+    "Lingère.": [
+      "Blatti Alice"
+    ],
+    "Modes.": [
+      "Turrian Anna"
+    ],
+    "Pensions d'enfants.": [
+      "Ganglöff sœurs",
+      "Schneider"
+    ],
+    "Pensionnat de jeunes filles.": [
+      "Saugy Gabriel"
+    ],
+    "Pisciculture.": [
+      "Rochat Louis"
+    ],
+    "Primeurs.": [
+      "Schmid Robert"
+    ],
+    "Rentiers.": [
+      "Rayroud",
+      "Tuck Vitschi E."
+    ],
+    "Sage-femme.": [
+      "Rémy Hélène"
+    ],
+    "Scieurs.": [
+      "Christiner Fritz",
+      "Cottier Maurice",
+      "Mollien Auguste",
+      "Saugy Edouard"
+    ],
+    "Sellier-tapissier.": [
+      "Desplands Victor"
+    ],
+    "Serrurier.": [
+      "Dolder Emile"
+    ],
+    "Sociétés.": [
+      "Confrérie des eaux des Jœurs",
+      "Sté de tir Les Amis de la liberté suisse",
+      "Sté de chant L'Echo du Rubly",
+      "Sté de développement",
+      "Sté de fromagerie du Village",
+      "Sté de laiterie",
+      "Sté de musique militaire",
+      "Sté de pêche",
+      "Sté de tir aux Armes de guerre",
+      "Sté des tirs militaires",
+      "Syndicat agricole",
+      "Union maraîchère"
+    ],
+    "Tourneur sur bois.": [
+      "Cottier-Roch Olivier"
+    ],
+    "Vélos-Motos.": [
+      "Remy Auguste",
+      "Yersin-Bertholet Robert"
+    ]
+  },
+  "FLENDRUZ": {
+    "Instituteur.": [
+      "Wüthrich Samuel"
+    ],
+    "Poste et télégraphe.": [
+      "Cottier Ami"
+    ],
+    "Agriculteurs.": [
+      "Baux Adrien",
+      "Bertholet",
+      "Bourret Ls",
+      "Brand Robert",
+      "Breton Alfred",
+      "Bringold Alfred",
+      "Gétaz Jules",
+      "Huser Charles",
+      "Isoz Ami",
+      "Isoz Ami",
+      "Jaquillard David",
+      "Jungen Daniel",
+      "Mottier Louis",
+      "Muller",
+      "Muller Gottfried",
+      "Pilet Arthur",
+      "Ramel Ami",
+      "Ramel Marc-Aurèle",
+      "Ramel Charles",
+      "Rayroud Edouard",
+      "Rossier Pierre-David",
+      "Rossier Alfred",
+      "Rossier Victor",
+      "Rossier Numa",
+      "Rossier William",
+      "Rossier Ernest",
+      "Rubin Alfred",
+      "Saugy Charles",
+      "Saugy-Henchoz Dvid",
+      "Saugy-Jornayaz Ls.",
+      "Saugy David",
+      "Saugy Paul",
+      "Schwitzguebel Emile",
+      "Schwitzguebel-Baux Ami",
+      "Turrian Paul",
+      "Yersin David",
+      "Yersin Paul",
+      "Yersin Emile",
+      "Yersin Ami",
+      "Yersin Henri",
+      "Yersin Samuel",
+      "Yersin-Combaz Ls",
+      "Yersin-Rossier Adrien"
+    ],
+    "Apiculteur-aviculteur.": [
+      "Rayroud Ed."
+    ],
+    "Artiste-peintre.": [
+      "Breton Marc"
+    ],
+    "Bois (comm. de).": [
+      "Breton Ami"
+    ],
+    "Boulanger.": [
+      "Yersin Alexis"
+    ],
+    "Cafés.": [
+      "Café du Vanil",
+      "café du Rubli",
+      "Guillaume Tell"
+    ],
+    "Charron.": [
+      "Rubin Alfred"
+    ],
+    "Cordonniers.": [
+      "Mottier Ami",
+      "Saugy Louis"
+    ],
+    "Couturière.": [
+      "Yersin Elisa"
+    ],
+    "Epicerie-mercerie.": [
+      "Cottier Hélène",
+      "Yersin Alexis"
+    ],
+    "Laiterie.": [
+      "Société de Laiterie"
+    ],
+    "Scieries.": [
+      "Breton Ami",
+      "Cottier Maurice"
+    ],
+    "Société.": [
+      "Sté de fromagerie"
+    ],
+    "Téléférique Flendruz-Videmanette.": [
+      "Dumertharay Jean"
+    ]
+  },
+  "ROVRAY": {
+    "Syndic": [
+      "Gallandat Henri"
+    ],
+    "Secrétaire": [
+      "Fivat Paul"
+    ],
+    "Boursier": [
+      "Hofmann Ernest"
+    ],
+    "Municipaux": [
+      "Courvoisier Ami",
+      "Durussel René",
+      "Gallandat Edouard",
+      "Hofmann Ernest"
+    ],
+    "Command. du feu.": [
+      "Viquerat Emile"
+    ],
+    "Commission scolaire.": [
+      "Wuithier"
+    ],
+    "Inspecteur du bétail.": [
+      "Rebeaud Jules"
+    ],
+    "Instituteurs.": [
+      "Fivat Paul",
+      "Porret-Gallandat Eva"
+    ],
+    "Pasteur.": [
+      "Wuthier David"
+    ],
+    "Police (agent de).": [
+      "Michoud Charles"
+    ],
+    "Poste et télégraphe.": [
+      "Gallandat Arth."
+    ],
+    "Téléphone.": [
+      "Rebeaud Jules"
+    ],
+    "Agriculteurs.": [
+      "Correvon Alfred",
+      "Courvoisier Ami",
+      "Cusin André",
+      "Despland Albert",
+      "Durussel René",
+      "Gallandat Aloys",
+      "Gallandat Ed.",
+      "Gallandat Henri",
+      "Gallandat John",
+      "Gallandat Paul",
+      "Gallet Jean-Pierre",
+      "Hofmann Jean",
+      "Michoud Charles",
+      "Viquerat Emile"
+    ],
+    "Assurance-vieillesse.": [
+      "Mutualité scolaire de retraite"
+    ],
+    "Cafés.": [
+      "Gallandat Arthur",
+      "Perret Oscar"
+    ],
+    "Epicerie-mercerie.": [
+      "Perret Oscar"
+    ],
+    "Maréchal.": [
+      "Rebeaud Jules"
+    ],
+    "Pompes funèbres du Nord.": [
+      "Baula Ernest"
+    ],
+    "Société.": [
+      "Sté de fromagerie"
+    ]
+  },
+  "RUEYRES": {
+    "Syndic": [
+      "David Ed."
+    ],
+    "Secrétaire": [
+      "Derendinger William"
+    ],
+    "Boursier": [
+      "Recordon Jules"
+    ],
+    "Huissier": [
+      "Favre Arnold"
+    ],
+    "Municipaux": [
+      "Duc Roger",
+      "Jaunin André",
+      "Jordan Robert",
+      "Wagnière Arthur",
+      "Wulliamoz Constant",
+      "Zahnd Robert"
+    ],
+    "Cantonnier.": [
+      "Favre Arnold"
+    ],
+    "Commandant du feu.": [
+      "Wagnière Alfr."
+    ],
+    "Commission scolaire.": [
+      "Derendinger William"
+    ],
+    "Contrôleur du lait.": [
+      "Zahnd Robert"
+    ],
+    "Garde-forestier.": [
+      "David Edouard"
+    ],
+    "Inspecteur du bétail.": [
+      "Wagnière Alf."
+    ],
+    "Inspecteur de la loque.": [
+      "Jaunin André"
+    ],
+    "Inspecteur des viandes.": [
+      "Zahnd Rob."
+    ],
+    "Instituteurs.": [
+      "Bataillard Louis",
+      "Duc-Jordan Denise"
+    ],
+    "Poste et télégraphe.": [
+      "Jordan Edouard"
+    ],
+    "Téléphone.": [
+      "Café Cavin Elise"
+    ]
+  }
+}

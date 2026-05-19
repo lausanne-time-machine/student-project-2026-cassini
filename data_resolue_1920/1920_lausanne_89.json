@@ -1,0 +1,58 @@
+{
+  "VILLE DE LAUSANNE": {
+    "LOGES MAÇONNIQUES": [
+      "Espérance et Cordialité",
+      "Liberté",
+      "Progrès (le)"
+    ],
+    "MACHINES A ADRESSER": [
+      "Office Multigraph"
+    ],
+    "MACHINES AGRICOLES": [
+      "Agence agricole vaudoise",
+      "Mermod Henri & frères",
+      "Pernet Alfred",
+      "Porchet Robert",
+      "Reymond Emile"
+    ],
+    "MACHINES A BRIQUES ET BRIQUETTES": [
+      "Pasquier, Kiefer & Bizot"
+    ],
+    "MACHINES A COUDRE": [
+      "Compagnie Singer",
+      "Helvetia",
+      "Räber F.",
+      "Tschäppät-Hirt, Vve"
+    ],
+    "MACHINES A CALCULER": [
+      "« Burroughs » Adding Machine Co.",
+      "Campiche L.-M.",
+      "Comp. de la Machine à écrire Yost",
+      "Smith Premier Typewriter Co."
+    ],
+    "MACHINES DE COMPTABILITÉ": [
+      "« Burroughs » Adding Machine Co."
+    ],
+    "MACHINES POUR L'INDUSTRIE MÉTALLURGIQUE (Fabrique de.)": [
+      "« ACME » Ateliers de constructions mécaniques",
+      "Cosendai & Jaccard",
+      "Etablissements Maillefer",
+      "Kaeser H.",
+      "Prébandier P. & Cie",
+      "A. Savy, Jeanjean & Cie",
+      "Schæfer C. & Cie"
+    ],
+    "MACHINES A REPRODUIRE": [
+      "Frick Charles",
+      "D. Gestetner's Rotary-Cyclostyle",
+      "Office Multigraph"
+    ],
+    "MACHINES A SOUDER": [
+      "« ACME » Ateliers de constructions mécaniques",
+      "Cosendai & Jaccard"
+    ],
+    "MACHINES A LAVER LES BOUTEILLES": [
+      "Swiss Hygiénical"
+    ]
+  }
+}

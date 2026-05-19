@@ -1,0 +1,175 @@
+{
+  "DISTRICT DE VEVEY": {
+    "Vétérinaire.": [
+      "Ravussin"
+    ],
+    "Vins et liqueurs (détail).": [
+      "Blanchod, Constant",
+      "Charles, Achille",
+      "Comptoir vinicole",
+      "Durand, A.",
+      "Huguenin-Durgniat, veuve",
+      "Jeanneret & Kues",
+      "Maggiora, E.",
+      "Picossi, Angèle",
+      "Rumpf, Jules",
+      "Vago, veuve d’André"
+    ],
+    "Vins (gros).": [
+      "Aubort, Victor",
+      "Béard, Noël",
+      "Blanchod, Constant",
+      "Charles, A.",
+      "Cochard, Vincent",
+      "Gianetti frères",
+      "Masson, Georges",
+      "Monnet-Vuichoud, veuve",
+      "Picossi, Angèle"
+    ],
+    "Vitriers.": [
+      "Allamand, Jules",
+      "Ducommun, P.",
+      "Gasser, Florian",
+      "Moretti, Emile"
+    ],
+    "Voituriers.": [
+      "Bähler-Baumann, veuve",
+      "Dufour, Marc",
+      "Müller"
+    ],
+    "Voyer.": [
+      "Rod, Emile"
+    ],
+    "Divers.": [
+      "Blumenthal",
+      "de Dzierbicka (comtesse)",
+      "Emery, A.",
+      "Gagnebin, demoiselle",
+      "Hawkins, R.",
+      "Leyvraz, Adolphe",
+      "de Luchaire, dame",
+      "Mainguy, demoiselle",
+      "Mayor, veuve",
+      "Monnet, dame",
+      "Müller, demoiselle",
+      "Murray",
+      "Popoff",
+      "Russwyl-Cuenet",
+      "Schulz, demoiselle",
+      "Visinand, Oscar"
+    ]
+  },
+  "LES AVANTS": {
+    "Boulanger-épicier": [
+      "Haberstich, A."
+    ],
+    "Café": [
+      "Cardinaux, Louis."
+    ],
+    "Hôtels": [
+      "Dufour, frères",
+      "Nicodet-Dufour, Adalbert"
+    ],
+    "Médecin": [
+      "Carrard, fils."
+    ]
+  },
+  "BRENT": {
+    "Assesseur": [
+      "Genevey, Louis."
+    ],
+    "Boulanger": [
+      "Lambelet, Auguste."
+    ],
+    "Cafés": [
+      "Cordey, veuve",
+      "Corthésy, Adrien",
+      "Genevey, Emmanuel",
+      "Réunion des Amis",
+      "Gyger, Louis."
+    ],
+    "Cordonnier": [
+      "Füss, Fidèle."
+    ],
+    "Hôtel-pension": [
+      "Pension Dufour"
+    ],
+    "Instituteurs": [
+      "Collet, Maurice",
+      "Mouquin, Eveline",
+      "Roch-Emery, Euphrosine."
+    ],
+    "Menuisiers": [
+      "Burnand, Henri",
+      "Flükiger, Charles."
+    ],
+    "Sociétés": [
+      "Société de laiterie",
+      "Société du four de Brent."
+    ],
+    "Téléphoniste": [
+      "Coulin, dame"
+    ],
+    "Divers": [
+      "Morier-Genoud"
+    ]
+  },
+  "CHAILLY": {
+    "Assesseur": [
+      "Dubochet, Edouard."
+    ],
+    "Bois (march.)": [
+      "Reichler, Ch."
+    ],
+    "Boulangers": [
+      "Gindroz, Léon",
+      "Pilloud, Célestin."
+    ],
+    "Cafetiers": [
+      "Mury, Louis",
+      "Pilloud, Denis",
+      "Traversini, frères",
+      "Yersin, Vincent."
+    ],
+    "Cordonnier": [
+      "Veillard, Louis."
+    ],
+    "Entrepreneurs": [
+      "Traversini, frères."
+    ],
+    "Epicerie": [
+      "Pilloud, Denis."
+    ],
+    "Hôtels-pensions": [
+      "Mury, Louis",
+      "Stössel"
+    ],
+    "Inspecteur du bétail": [
+      "Ducraux, Gustave."
+    ],
+    "Instituteurs": [
+      "Noverraz, Louis",
+      "Cochet, Alice."
+    ],
+    "Laiteries": [
+      "Sociétés ancienne et nouvelle."
+    ],
+    "Maréchaux": [
+      "Lehmann, Christian."
+    ],
+    "Pensions d'étrangers": [
+      "Stössel",
+      "Mury, Louis."
+    ],
+    "Scieur": [
+      "Reichler, Ch."
+    ],
+    "Serrurier": [
+      "Florio."
+    ],
+    "Sociétés": [
+      "Société de fromagerie et laiterie",
+      "Société du four des forains."
+    ]
+  }
+}

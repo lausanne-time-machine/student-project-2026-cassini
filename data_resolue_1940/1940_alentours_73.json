@@ -1,0 +1,402 @@
+{
+  "CONSTANTINE": {
+    "Rentiers": [
+      "Tuscher Ch.",
+      "Foretay François",
+      "Gentizon Edouard",
+      "Hubert Henri"
+    ],
+    "Société": [
+      "Sté du Moulin agricole",
+      "Salavaux. R."
+    ],
+    "Vignerons": [
+      "Monney Robert",
+      "Cuanillon Constant"
+    ]
+  },
+  "COPPET": {
+    "Syndic": [
+      "Bory Robert"
+    ],
+    "Secrétaire": [
+      "Velen Julien"
+    ],
+    "Boursier": [
+      "Odelet Siméon"
+    ],
+    "Municipaux": [
+      "Antonietti Humbert",
+      "Duvillard Pierre",
+      "Gilliéron Henri",
+      "Martin André"
+    ],
+    "Huissier": [
+      "Cornuz Jules",
+      "Poitry Auguste"
+    ],
+    "Cantonnier": [
+      "Lavanchy Jules"
+    ],
+    "Chef de gare": [
+      "Deléderray Adrien"
+    ],
+    "Chef de section": [
+      "Guichoud Edouard"
+    ],
+    "Commandant du feu": [
+      "Décorvet Alb."
+    ],
+    "Commission scolaire": [
+      "Mercier Ed. Dr."
+    ],
+    "Contrôleur du lait": [
+      "Dupondet Aloys"
+    ],
+    "Gare C. F. F. (chef de)": [
+      "Deléderray Adrien"
+    ],
+    "Gendarmerie (poste de)": [
+      "Vaudroz Léon"
+    ],
+    "Inspecteur du bétail": [
+      "Deléamont Alf."
+    ],
+    "Inspecteur forestier": [
+      "Leuenberger G."
+    ],
+    "Inspecteur des viandes": [
+      "Gilliéron A."
+    ],
+    "Instituteurs": [
+      "Hurlimann Georges",
+      "Bouffard Marianne"
+    ],
+    "Juge": [
+      "Bory Rob."
+    ],
+    "Greffier": [
+      "Mayor Henri"
+    ],
+    "Assesseurs": [
+      "Cottier Hri",
+      "Favre Ernest",
+      "Nerfin Constant",
+      "Vulliez Henri"
+    ],
+    "Pasteur": [
+      "Mingot Ed."
+    ],
+    "Police (agent de)": [
+      "Cornuz Jules"
+    ],
+    "Poste et télégraphe": [
+      "Jacquenoud Alfred"
+    ],
+    "Agriculteurs": [
+      "Collioud Georges",
+      "Deléamont Alfred",
+      "Duvillard frères",
+      "Martin Philippe"
+    ],
+    "Agence immobilière": [
+      "Bréthaut Roger",
+      "Mayor Henri"
+    ],
+    "Antiquités": [
+      "Meylan Marie, Vve de Jules"
+    ],
+    "Apiculteurs": [
+      "Duvillard Pierre",
+      "Lavanchy Louis"
+    ],
+    "Appareilleurs": [
+      "Antonietti Marcel",
+      "Hipp Alfred",
+      "Kohler Jean",
+      "Staudté Emile"
+    ],
+    "Assurance": [
+      "Bréthaut Roger"
+    ],
+    "Assurance-vieillesse": [
+      "Hurlimann Georges"
+    ],
+    "Auto-garage, réparations": [
+      "Knebel Roger",
+      "Ronc Joseph"
+    ],
+    "Aviculteur": [
+      "Sequin J"
+    ],
+    "Banque": [
+      "Crédit Foncier Vaudois",
+      "Caisse d'Epargne Cantonale",
+      "Gilliéron Henri"
+    ],
+    "Blanchisseuses": [
+      "Filiberti Geneviève",
+      "Giddey Alice",
+      "Odelet Fanny"
+    ],
+    "Bouchers-charcutiers": [
+      "Lassueur Ele.",
+      "Widmer Jean"
+    ],
+    "Boulangers-pâtissiers": [
+      "Anken René",
+      "Vulliemin Vve et fils"
+    ],
+    "Brosserie en gros": [
+      "Tillmann Henri"
+    ],
+    "Cafés": [
+      "Brahier Emmanuel",
+      "Cretenoud Arnold",
+      "Czech Robert",
+      "Dura Paul"
+    ],
+    "Camionneurs": [
+      "Mottier Ami.",
+      "Odelet Henri"
+    ],
+    "Carrossier": [
+      "Saudté Emile"
+    ],
+    "Céréales": [
+      "Granex S.A."
+    ],
+    "Charpentier": [
+      "Michard Jean-Louis"
+    ],
+    "Charron-carrossier": [
+      "Staudté Emile"
+    ],
+    "Chaussures": [
+      "Gilliéron Mathilde"
+    ],
+    "Coiffeur": [
+      "Velen Julien"
+    ],
+    "Combustibles": [
+      "Mottier Ami.",
+      "Staudté E."
+    ],
+    "Cordonniers": [
+      "Gilliéron Albert",
+      "Marzotto Salvator",
+      "Poitry Auguste"
+    ],
+    "Couturières": [
+      "Roux Louise",
+      "Tillmann Jeanne"
+    ],
+    "Crêmerie-Tea room": [
+      "Bréthaut Marianne"
+    ],
+    "Droguerie": [
+      "Aegler Georges & Cie."
+    ],
+    "Eaux gazeuses (fabr. de)": [
+      "Baierlé Marc, Vve & fils"
+    ],
+    "Electriciens": [
+      "Société des Forces de Joux",
+      "Paccaud Edm.",
+      "Velen M."
+    ],
+    "Entrepreneurs": [
+      "Antonietti Humbert",
+      "Battistolo Tranquille.",
+      "Décorvet Albert",
+      "Tassera L."
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Brandt Werner",
+      "Descombes Marcel",
+      "Hauswirth Louise",
+      "Vulliemin sœurs"
+    ],
+    "Perblantiers-couvreurs": [
+      "Antonietti Marcel",
+      "Hipp A."
+    ],
+    "Fers et quincaillerie": [
+      "Antonietti Marcel",
+      "Hipp A."
+    ],
+    "Ficelles (en gros)": [
+      "Tillmann Henri"
+    ],
+    "Fromage et beurre": [
+      "Laiteries réunies",
+      "Baumann Jacques"
+    ],
+    "Grainiers (marchands)": [
+      "Descombes",
+      "Vulliemin sœurs",
+      "Hauswirth Louise"
+    ],
+    "Gypsiers-peintres": [
+      "Antonietti Humbert",
+      "Battistolo Tranquille.",
+      "Décorvet Albert",
+      "Demierre Charles"
+    ],
+    "Hôtels": [
+      "Brahier E.",
+      "Cretenoud A."
+    ],
+    "Institut pour jeunes gens": [
+      "Ecole de la Châtaigneraie",
+      "Schwartz-Buys E."
+    ],
+    "Institut pour jeunes filles": [
+      "La Roseraie",
+      "Ecole ménagère",
+      "Rittmeyer Dr. Mme."
+    ],
+    "Jardiniers": [
+      "Bouvier Alexis",
+      "Munier Jules",
+      "Pouly Jules",
+      "Vors Paul"
+    ],
+    "Journal": [
+      "« Feuille d'Avis de Coppet »",
+      "Cherix Ed. S. A."
+    ],
+    "Laboratoire": [
+      "Tonifor"
+    ],
+    "Laitiers": [
+      "Baumann Jacques",
+      "Schneebeli Albert"
+    ],
+    "Libraires-papeteries": [
+      "Velen Julien",
+      "Vulliemin sœurs"
+    ],
+    "Lingères": [
+      "Battistolo Mathilde",
+      "Roux Alix"
+    ],
+    "Maréchal mach. agric.": [
+      "Staudté Em."
+    ],
+    "Mécaniciens": [
+      "Kohler Henri",
+      "Ronc Joseph"
+    ],
+    "Médecins": [
+      "Mercier Edmond",
+      "Martin André"
+    ],
+    "Menuisiers": [
+      "Bertoncini Paul",
+      "Deléderray André",
+      "Favre Oct.",
+      "Michard J.-Ls."
+    ],
+    "Meubles (fabr. de)": [
+      "Bertinotti P. et fils"
+    ],
+    "Modistes": [
+      "Vulliemin, sœurs"
+    ],
+    "Motos, vélos": [
+      "Ronc Joseph"
+    ],
+    "Notaires": [
+      "Gilliéron Henri",
+      "Mayor Henri"
+    ],
+    "Primeurs": [
+      "Bertoncini Charles",
+      "Brandt Werner",
+      "Descombes Marcel",
+      "Hauswirth Louise"
+    ],
+    "Pêcheurs": [
+      "Huguelet Paul",
+      "Uldry Marius"
+    ],
+    "Produits vétérinaires": [
+      "Tonifor"
+    ],
+    "Rentiers": [
+      "Bally Ch.",
+      "Gaudin, Vve",
+      "Germond Aug.",
+      "Hauser Paul.",
+      "Michel Henriette"
+    ],
+    "Serrurier": [
+      "Staudté Emile"
+    ],
+    "Sociétés": [
+      "Sté d'agriculture et de viticulture",
+      "Sté de sauvetage du Léman, section Lausanne",
+      "Union instrumentale",
+      "Chœur du Léman"
+    ],
+    "Tabacs et cigares": [
+      "Decombes Marcel",
+      "Hauswirth Louise",
+      "Velen Julien"
+    ],
+    "Tailleur": [
+      "Bel Fr."
+    ],
+    "Tapissier": [
+      "Favrichon Alfred"
+    ],
+    "Vignerons": [
+      "Collioud Marc",
+      "Duverney Marie",
+      "Duvillard frères"
+    ],
+    "Vins": [
+      "Baierlé Marc, Vve & fils"
+    ],
+    "Divers": [
+      "Anneler Dr",
+      "Bally Charles",
+      "Binet Léon",
+      "Bory Rob.",
+      "Bruderlein H.",
+      "Callot D., Mlle",
+      "Cossy-Vogel",
+      "Collet Maurice",
+      "Collet, Vve",
+      "Cordès A.",
+      "Dunant",
+      "Darier",
+      "Duvillard Marc et Pierre",
+      "Erismann",
+      "Fleury Alb.",
+      "Favre Ernest",
+      "Germond Auguste",
+      "Gagnebin",
+      "Gaudin Louis",
+      "d'Haussonville, comte.",
+      "Horngacher Horace",
+      "Jacoby Théodore",
+      "Jaccard E.",
+      "Joos A.",
+      "Kundig Suzanne",
+      "de Loës P.",
+      "L'Huillier",
+      "Mairos, vicomte de",
+      "Michel Henriette",
+      "Mischler Max",
+      "Mottet G.",
+      "Riant",
+      "Mills Georges",
+      "Michaud J.",
+      "Ostermann Rodolphe",
+      "Porel, Mme",
+      "Phelan Ed."
+    ]
+  }
+}

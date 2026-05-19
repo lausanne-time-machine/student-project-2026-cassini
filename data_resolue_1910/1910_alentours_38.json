@@ -1,0 +1,261 @@
+{
+  "FAOUG": {
+    "Autorités communales": [
+      "Bolomey Samuel",
+      "Blank Emile"
+    ],
+    "Syndic": [
+      "Cornaz Paul"
+    ],
+    "Municipaux": [
+      "Roll Fritz",
+      "Druey Jules",
+      "Kiehl Auguste",
+      "Rennhard Gottlieb"
+    ],
+    "Secrétaire": [
+      "Desarzens Charles"
+    ],
+    "Boursier": [
+      "Cornaz Jules"
+    ],
+    "Agriculteurs": [
+      "Cornaz Fritz",
+      "Cornaz, hoirs d'Eugène",
+      "Cornaz Louis-David",
+      "Cornaz Sophie",
+      "Geiser Samuel",
+      "Guignard, sœurs",
+      "Hagner Paul",
+      "Inaebnit Charles",
+      "Meigniez, veuve",
+      "Savary-Cornaz, veuve"
+    ],
+    "Auberges et cafés": [
+      "Demeyriez, veuve",
+      "Luginbühl",
+      "Wenger Rod."
+    ],
+    "Boucher": [
+      "Moser Alex."
+    ],
+    "Boulangers": [
+      "Meyer Marie",
+      "Niffenegger Alexandre"
+    ],
+    "Blanchisseuses": [
+      "Cornaz Anna",
+      "Simonnet Marguerite"
+    ],
+    "Charcuterie": [
+      "Meyer Marie"
+    ],
+    "Charpentier": [
+      "Spach Théophile"
+    ],
+    "Charron": [
+      "Cornaz Jules"
+    ],
+    "Chef de gare": [
+      "Bolomey Samuel"
+    ],
+    "Commission scolaire": [
+      "Bolomey Samuel",
+      "Desarzens Ch."
+    ],
+    "Cordonnier": [
+      "Derendinger Friedrich"
+    ],
+    "Epicerie": [
+      "Guex Ida, veuve",
+      "Meyer Marie",
+      "Niffenegger Alex."
+    ],
+    "Inspecteur du bétail": [
+      "Desarzens Octave"
+    ],
+    "Instituteurs": [
+      "Gacon Albert",
+      "Desarzens-Jaton Sophie"
+    ],
+    "Laitiers": [
+      "Roetlisberger & Cie."
+    ],
+    "Maréchal": [
+      "Grin Paul"
+    ],
+    "Matériaux de construction": [
+      "Briqueterie électrique de Faoug"
+    ],
+    "Mercerie": [
+      "Guex Ida"
+    ],
+    "Pasteur": [
+      "Le Fevre A."
+    ],
+    "Pêcheurs": [
+      "Cornaz Jean",
+      "Demeyrier Albert"
+    ],
+    "Sociétés": [
+      "Nouvelle Société de laiterie",
+      "Section de la Croix-Bleue"
+    ],
+    "Tailleurs": [
+      "Blank Emile",
+      "Urfer Friedrich"
+    ],
+    "Tailleuse": [
+      "Cornaz-Spack Marie"
+    ],
+    "Tuyaux en ciment (fabr. de)": [
+      "Cornaz Paul & Cie."
+    ],
+    "Vins (négociants en)": [
+      "Cornaz frères & Cie."
+    ]
+  },
+  "MONTMAGNY": {
+    "Autorités communales": [
+      "Loup Ernest",
+      "Loup Georges"
+    ],
+    "Syndic": [
+      "Loup Jules"
+    ],
+    "Municipaux": [
+      "Loup Arnold",
+      "Loup Henri",
+      "Loup Léon",
+      "Loup Adolphe"
+    ],
+    "Secrétaire": [
+      "Loup René"
+    ],
+    "Boursier": [
+      "Loup Adolphe"
+    ],
+    "Agriculteurs": [
+      "Loup Adolphe",
+      "Loup Georges",
+      "Loup Ernest",
+      "Loup André",
+      "Loup Léon",
+      "Loup Gentizon Henri",
+      "Loup Jean-Frédéric",
+      "Loup Jules",
+      "Jean-Daniel",
+      "Loup Jules",
+      "Loup Arnold",
+      "Loup Constant",
+      "Loup Paul",
+      "Loup Jules, de Frédéric",
+      "Magnin Gustave",
+      "Magnin Henri",
+      "Magnin Constant",
+      "Sugnet Henri",
+      "Wuillemin Alphonse"
+    ],
+    "Café": [
+      "Loup Dan.-Rod., fils"
+    ],
+    "Commission scolaire": [
+      "Favez Emile",
+      "Loup Léon",
+      "Loup Georges"
+    ],
+    "Couvreur": [
+      "Hugli Rodolphe"
+    ],
+    "Garde-forestier cantonal": [
+      "Loup Jean-Frédéric"
+    ],
+    "Inspecteur du bétail": [
+      "Loup Henri-Constant"
+    ],
+    "Institutrice": [
+      "Mury Louisa"
+    ],
+    "Laitier": [
+      "Zumbach Gottfried"
+    ],
+    "Menuisier": [
+      "Loup Charles"
+    ],
+    "Négociant": [
+      "Loup Henri"
+    ],
+    "Société": [
+      "Du battoir à grain"
+    ],
+    "Téléphoniste": [
+      "Loup, aubergiste"
+    ]
+  },
+  "MUR": {
+    "Autorités communales": [
+      "Cornuz Henri",
+      "Besse William"
+    ],
+    "Syndic": [
+      "Amiet Auguste"
+    ],
+    "Municipaux": [
+      "Amiet Eugène",
+      "Amiet Fritz",
+      "Delorme Henri"
+    ],
+    "Secrétaire": [
+      "Noyer Auguste"
+    ],
+    "Boursier": [
+      "Cornuz Louis-Aimé"
+    ],
+    "Agriculteurs": [
+      "Amiet Eugène",
+      "Amiet Fritz",
+      "Amiet Jules",
+      "Cornuz Louis-Aimé",
+      "Cornuz Henri",
+      "Cornuz Jean-Samuel",
+      "Noyer Auguste",
+      "Rivier hoirie",
+      "Vacheron Edouard",
+      "Vacheron Henri"
+    ],
+    "Charron": [
+      "Christinat David"
+    ],
+    "Commission scolaire": [
+      "Cornuz Louis-Aimé",
+      "Amiet Jules"
+    ],
+    "Cordonnier": [
+      "Petter Auguste"
+    ],
+    "Epicerie": [
+      "Petter Auguste"
+    ],
+    "Fermier": [
+      "Besse Emile"
+    ],
+    "Inspecteur du bétail": [
+      "Cornuz Samuel"
+    ],
+    "Instituteur": [
+      "Aubort Gustave"
+    ],
+    "Jardinier": [
+      "Vacheron Auguste"
+    ],
+    "Société": [
+      "Laiterie de Mur"
+    ]
+  },
+  "OLEYRES": {
+    "Autorités communales": [
+      "Charmey Auguste",
+      "Corthésy Henri"
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "BURSINS": {
+    "Cordonniers": [
+      "Champendal, Edouard",
+      "Horisberg, J.",
+      "Muller, Auguste"
+    ],
+    "Entrepreneur": [
+      "Ramozzi, Jaques. R."
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Ancrenaz, Marie",
+      "Chabloz-Dégallier, L.",
+      "Reichenbach, Rosalie. R."
+    ],
+    "Greffier de paix": [
+      "Menthonnex, Daniel."
+    ],
+    "Gypsier": [
+      "Daglia, Jean."
+    ],
+    "Inspecteur du bétail": [
+      "Prod'hom, Fritz."
+    ],
+    "Instituteurs": [
+      "Ansermoz, Félix",
+      "Menthonnex, Marie",
+      "Hermann, Bertha."
+    ],
+    "Maréchal": [
+      "Hauswirth, Ch."
+    ],
+    "Menuisier": [
+      "Maumary, Valentin."
+    ],
+    "Meunier": [
+      "Conne-Chevalley, Henri",
+      "Vernay. R."
+    ],
+    "Modiste": [
+      "Reichenbach, Henriette."
+    ],
+    "Notaire": [
+      "Menthonnex, Daniel."
+    ],
+    "Pasteur": [
+      "Peter, John."
+    ],
+    "Société": [
+      "Société de fromagerie et de laiterie. R."
+    ],
+    "Téléphoniste": [
+      "Rubin, François."
+    ],
+    "Tisserand": [
+      "Schneiter, Pierre."
+    ]
+  },
+  "BURTIGNY": {
+    "Autorités communales": [
+      "Gudet, Henri",
+      "Sergy, Henri.",
+      "Sergy, Julien.",
+      "Gudet, Fernand",
+      "Bichet, Olivier",
+      "Feignoux, Auguste",
+      "Bichet, Alphonse",
+      "Raymond, Louis",
+      "Burnet, Auguste",
+      "Golay, Jules",
+      "Burnet, César",
+      "Pilloud, Samuel."
+    ],
+    "Aubergistes": [
+      "Heddiger, Gustave",
+      "Bichet, Olivier."
+    ],
+    "Boulanger": [
+      "Cavin, Charles."
+    ],
+    "Charron": [
+      "Pilloud, Ch."
+    ],
+    "Cordonnier": [
+      "Redard, Gustave."
+    ],
+    "Inspecteur du bétail": [
+      "Bichet, Alphonse."
+    ],
+    "Instituteurs": [
+      "Kohlheim, Charles",
+      "Vionnet, Eugénie."
+    ],
+    "Laitier": [
+      "Chambordon, Lucien."
+    ],
+    "Maréchal": [
+      "Fontolliet, Louis."
+    ],
+    "Négociants": [
+      "Bovay, Jules",
+      "Sergy, Julien",
+      "Moreillon, Charles."
+    ],
+    "Pasteur": [
+      "Moreillon, Charles."
+    ],
+    "Poste": [
+      "Bovy, Julien."
+    ],
+    "Propriétaires": [
+      "Ansermet, Jules",
+      "Badel, Abram",
+      "Beney, Cécile",
+      "Bichet-Rossier",
+      "Bichet, Jules, de John",
+      "Bovy, Jules",
+      "Burnet, Jules",
+      "Burnet, Marc-André",
+      "Burnet-Bovy, François",
+      "Burnet-Reymond, François",
+      "Burnet, Louis",
+      "Burnet, Auguste",
+      "Delamuraz, Henri",
+      "Dumartheray, veuve",
+      "Feignoux, Samuel",
+      "Golay, veuve de Charles",
+      "Gudet, Henri, juge",
+      "Gudet, Louis",
+      "Gudet, frères",
+      "Gudet, Marc",
+      "Humbert, Lucien",
+      "Pilloud, Alibert",
+      "Pilloud, Isaline",
+      "Raymond, Louis",
+      "Sergy, Ch."
+    ],
+    "Société": [
+      "Société de fromagerie. R."
+    ],
+    "Télégraphiste et téléphoniste": [
+      "Sergy, Caroline."
+    ]
+  },
+  "DULLIT": {
+    "Autorités communales": [
+      "Duperrex, Louis",
+      "Corthay, Louis.",
+      "Demaurex, Eugène.",
+      "Munier, Julien",
+      "Duperrex, Henri",
+      "Recordon, Arthur",
+      "Ruepp, Henri",
+      "Munier, Jules",
+      "Duperrex, Louis."
+    ],
+    "Aubergiste": [
+      "Duperrex, Louis."
+    ],
+    "Fermier": [
+      "Regard, Henri."
+    ],
+    "Filature de laine": [
+      "Mani, Fr., fils. R."
+    ],
+    "Inspecteur du bétail": [
+      "Ostermann, Fréd."
+    ],
+    "Instituteurs": [
+      "Guignard, Hippolyte",
+      "Clavel, Emma."
+    ],
+    "Jardinier": [
+      "Ulliel, Edouard."
+    ],
+    "Négociant": [
+      "Liardet, Albert."
+    ],
+    "Propriétaires": [
+      "de Bavier, Edourd. T",
+      "Latty, Marc."
+    ],
+    "Sellier": [
+      "Ruepp, François."
+    ],
+    "Société": [
+      "Société de laiterie. R."
+    ],
+    "Vignerons": [
+      "Mariot, Henri",
+      "Recordon, Auguste."
+    ]
+  },
+  "ESSERTINES-sur-ROLLE": {
+    "Autorités communales": [
+      "Rochat, Louis",
+      "Chevalley, Emile.",
+      "Rochat, Jules.",
+      "Merminod, Eugène",
+      "Dumartheray, César",
+      "Dutoit, John",
+      "Gay, Louis",
+      "Dumartheray, Aloïs",
+      "Merminod, Arthur",
+      "Piguet, Frédéric."
+    ],
+    "Assesseur": [
+      "Merminod, Auguste."
+    ],
+    "Aubergistes": [
+      "Dumartheray, Adamir",
+      "Grosjean, Emile."
+    ],
+    "Charpentiers": [
+      "Blaser, Daniel",
+      "Dumartheray, Ch."
+    ],
+    "Charron": [
+      "Gétaz, Edouard."
+    ],
+    "Chef de section": [
+      "Merminod, Aug."
+    ],
+    "Commission scolaire": [
+      "Merminod, Aug.",
+      "Bippert, Aug.",
+      "Bugnaux."
+    ],
+    "Dépositaire des postes": [
+      "Uldry, Gust."
+    ],
+    "Fermiers": [
+      "Hofer, Jean",
+      "Huguenin, Samuel",
+      "Rochat, Daniel."
+    ],
+    "Inspecteurs du bétail": [
+      "Dumartheray, César",
+      "Gay, Louis."
+    ],
+    "Instituteurs": [
+      "Cloux, Aug.-Julien",
+      "Pahud, Georges",
+      "Bugnaux."
+    ],
+    "Laitier": [
+      "Grosjean, Aug."
+    ],
+    "Maréchaux": [
+      "Bruguier, Sigismond et fils."
+    ],
+    "Menuisier": [
+      "Merminod, Arthur."
+    ],
+    "Négociants": [
+      "Dumartheray-Dufour, L. R",
+      "Jorand, Louisa, veuve. R T."
+    ]
+  }
+}

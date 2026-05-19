@@ -1,0 +1,396 @@
+{
+  "GORCELLES-SUR-CONCISE": {
+    "Agriculteurs": [
+      "Pierrehumbert Paul",
+      "Pointet Gustave",
+      "Pointet Robert",
+      "Staudemann Ed.",
+      "Steiner Alfred"
+    ],
+    "Apiculteurs.": [
+      "Humbert Alphonse",
+      "Humbert Paul",
+      "Payot Ls-François"
+    ],
+    "Assurance-vieillesse.": [
+      "Mutualité de retraite",
+      "Ducraux E."
+    ],
+    "Société mutualiste de retraite.": [
+      "Humbert"
+    ],
+    "Cafés.": [
+      "Payot François",
+      "Riesen Jacques"
+    ],
+    "Charcutier.": [
+      "Piaget Alcindor"
+    ],
+    "Charpentier-menuisier.": [
+      "Payot Maurice"
+    ],
+    "Entrepreneurs.": [
+      "Crola & Poli"
+    ],
+    "Epicerie-mercerie.": [
+      "Piaget-Pilet Alcindor"
+    ],
+    "Graisse industrielle (fabr. de).": [
+      "Pointet Louis"
+    ],
+    "Laitier-fromager.": [
+      "Roulier Julien"
+    ],
+    "Pompes funèbres du Nord.": [
+      "Payot M."
+    ],
+    "Sociétés.": [
+      "Sté de l'Abbaye",
+      "Sté du battoir",
+      "Sté de fromagerie",
+      "Syndicat agricole"
+    ],
+    "Vins (march. de).": [
+      "Humbert frères",
+      "Payot frères"
+    ],
+    "Vigneron.": [
+      "Pointet Eugène"
+    ]
+  },
+  "CORREVON": {
+    "Syndic": [
+      "Pidoux Fernand"
+    ],
+    "Secrétaire": [
+      "Pahud Georges"
+    ],
+    "Boursier": [
+      "Bovay Jean"
+    ],
+    "Huissier": [
+      "Pahud Louis"
+    ],
+    "Municipaux": [
+      "Bettex Ernest",
+      "Bovay Jean",
+      "Devallonné Lucien",
+      "Prahin Emile"
+    ],
+    "Commandant du feu.": [
+      "Pidoux Fern."
+    ],
+    "Commission scolaire.": [
+      "Pidoux Fernand"
+    ],
+    "Inspecteur du bétail.": [
+      "Prahin Emile"
+    ],
+    "Officier d'état civil.": [
+      "Dind William"
+    ],
+    "Poste et télégraphe.": [
+      "Pahud Charles"
+    ],
+    "Agriculteurs.": [
+      "Bettex Armand",
+      "Bovay Jean",
+      "Chevalley Emile",
+      "David Sam.",
+      "Devallonné Louis et Lucien",
+      "Devallonné Osc. et Rob.",
+      "Margairaz Henri",
+      "Meystre Const.",
+      "Mottaz Alphonse",
+      "Pahud Alois",
+      "Pahud Arnold",
+      "Pahud Charles",
+      "Pidoux frères",
+      "Prahin Henri et Emile"
+    ],
+    "Cordonnier.": [
+      "Meystre Constant"
+    ],
+    "Laiterie.": [
+      "Soc. Thierrens-Correvon"
+    ],
+    "Mécanicien.": [
+      "Dutoit fils"
+    ],
+    "Pompes funèbres du Nord.": [
+      "Mottaz Marcel"
+    ],
+    "Sociétés.": [
+      "Sté du battoir à grains",
+      "Sté de la Bibliothèque"
+    ]
+  },
+  "CORSEAUX": {
+    "Député": [
+      "Brunet Edouard"
+    ],
+    "Syndic": [
+      "Volet Gustave"
+    ],
+    "Secrétaire": [
+      "Brunet Paul"
+    ],
+    "Boursier": [
+      "Volet Jules"
+    ],
+    "Municipaux": [
+      "Brunet Edouard",
+      "Chappuis Jules",
+      "Volet Georges",
+      "Brunet Lucien"
+    ],
+    "Huissier": [
+      "Mermier Marius"
+    ],
+    "Assesseur.": [
+      "Monod Robert"
+    ],
+    "Cantonnier.": [
+      "Cheseaux Lucien"
+    ],
+    "Command. du feu.": [
+      "Brunet Lucien"
+    ],
+    "Commission scolaire.": [
+      "Volet Gustave"
+    ],
+    "Contrôleur du lait.": [
+      "Volet Georges"
+    ],
+    "Inspecteur du bétail.": [
+      "Volet Georges",
+      "Egli Frédéric"
+    ],
+    "Inspecteur des viandes.": [
+      "Volet Marcel"
+    ],
+    "Instituteurs.": [
+      "Beauverd Léopold",
+      "Pulver André",
+      "Pasche Suzanne"
+    ],
+    "Juge de paix.": [
+      "Savary Paul"
+    ],
+    "Police (agent de).": [
+      "Mermier Marius"
+    ],
+    "Poste et télégraphe.": [
+      "Delafontaine Albert"
+    ],
+    "Téléphone.": [
+      "Giroud Marcel"
+    ],
+    "Accumulateurs.": [
+      "Scintilla-Service",
+      "Blanc & von Gunten"
+    ],
+    "Agriculteurs-vignerons.": [
+      "Amstein P.",
+      "Barbey Edouard",
+      "Borla E.",
+      "Brunet Paul",
+      "Brunet Edouard",
+      "Brunet Louis",
+      "Brunet Charles",
+      "Brunet Lucien",
+      "Chappuis Jules",
+      "Chaudet Adrien",
+      "Chaudet César",
+      "Cornu F.-Ed.",
+      "Cornu Julien",
+      "Delafontaine René",
+      "Delafontaine Hr",
+      "Ducert Ch.",
+      "Ducret René",
+      "Ducret Jules",
+      "Emey Gges",
+      "Forestier Ele",
+      "Forestier Henri",
+      "Grandchamp J.",
+      "Grand André",
+      "Mourron Alois",
+      "Mayor Ed",
+      "Pasche Ch.",
+      "Rossire Alfred",
+      "Samson Emile",
+      "Schneeberger Louis",
+      "Schneeberger Henri",
+      "Visinand Jules",
+      "Voulaz Emile",
+      "Volet Victor",
+      "Volet Henri",
+      "Volet Charles",
+      "Volet-Peter Emile",
+      "Volet-Meystre Henri",
+      "Volet Paul",
+      "Volet Adrien",
+      "Volet Gustave",
+      "Volet Marcel",
+      "Volet Jules",
+      "Volet Georges"
+    ],
+    "Apiculteur.": [
+      "Zahnd Arthur"
+    ],
+    "Assurance - vieillesse.": [
+      "Associations mutualistes de retraite",
+      "Pulver André"
+    ],
+    "Auto-garage.": [
+      "Nouvelle Siam",
+      "Scintilla-Service"
+    ],
+    "Blanchisseuses.": [
+      "Gasser, Mme",
+      "Herminjard Elisabeth"
+    ],
+    "Bois (comm. de).": [
+      "Bosco Julien"
+    ],
+    "Boulanger.": [
+      "Giroud Marcel"
+    ],
+    "Camionneur.": [
+      "Poget Armand"
+    ],
+    "Café.": [
+      "Barbey Jules"
+    ],
+    "Cordonnier.": [
+      "Bovard Jules"
+    ],
+    "Couturière.": [
+      "Volet Méry, Mlle"
+    ],
+    "Electricité.": [
+      "Pittet et Morvand"
+    ],
+    "Epiceries, tabacs.": [
+      "Giroud Marcel",
+      "Schütz Ulrich"
+    ],
+    "Equarrisseur.": [
+      "Pasteur Jules"
+    ],
+    "Fromages (fabr. et vente de).": [
+      "Valiton Georges"
+    ],
+    "Horticulteurs.": [
+      "Heizmann Adolphe",
+      "Walter Henri"
+    ],
+    "Jardiniers - maraîchers.": [
+      "Beachtold Robert",
+      "Grandchamp Louis",
+      "Hermann Walther",
+      "Mottier Georges",
+      "Pedretti Paul",
+      "Volet Ch.",
+      "Zahnd Arthur"
+    ],
+    "Laiterie.": [
+      "Laiterie de Corseaux",
+      "Infanger Louis"
+    ],
+    "Maçon.": [
+      "Tavernay André"
+    ],
+    "Marbrier.": [
+      "Pasche Henri"
+    ],
+    "Mécaniciens.": [
+      "Clerc Alexis",
+      "Hanni Théophile"
+    ],
+    "Mécanique.": [
+      "Nouvelle Société industrielle d'applications mécaniques"
+    ],
+    "Médecins.": [
+      "Bachmann Willy",
+      "de Montet Charles"
+    ],
+    "Menuisiers.": [
+      "Jeanrenaud Marcel",
+      "Rizzolio J."
+    ],
+    "Parfumerie.": [
+      "Rod & Cie"
+    ],
+    "Pensions.": [
+      "Dutoit Samuel",
+      "Nuss Laurent",
+      "Weiss Paul"
+    ],
+    "Pensionnat.": [
+      "Dériaz S."
+    ],
+    "Pépiniériste.": [
+      "Emery Georges"
+    ],
+    "Produits chimiques.": [
+      "Cino S. A."
+    ],
+    "Professeur.": [
+      "Recordon Edouard"
+    ],
+    "Rosieriste.": [
+      "Heizmann Emile"
+    ],
+    "Sociétés.": [
+      "Association vinicole",
+      "Assurance du bétail",
+      "Fondation Félix Cornu",
+      "Sté de laiterie"
+    ],
+    "Transports.": [
+      "Poget Armand"
+    ],
+    "Divers.": [
+      "Baumann-Braendli J.",
+      "Fiorita",
+      "Baumgartner Th.",
+      "Ruisseau",
+      "Bastian",
+      "Villa Paisible",
+      "Bensiger, Mme",
+      "Villa Charmille",
+      "Bloch Albert",
+      "Les Verts Pommiers",
+      "Brolliet G.-F.",
+      "Brunet-Golay Ed.",
+      "Brunet-Rogivue Henri",
+      "Brandt W.",
+      "Bron John-Albert",
+      "Cornu Adolphe",
+      "Cottier-Jaquier P.",
+      "Crausaz Ad.",
+      "Dommen Jean-Henri",
+      "Dormond J.",
+      "David R.",
+      "de Montet Charles",
+      "de Muralt Hans",
+      "De Roll C.",
+      "Deriaz S.",
+      "Dudlé C.",
+      "Gerster-Maurel M.",
+      "Glauser H.",
+      "Goedecke M.",
+      "Guex Alf.",
+      "Hans Alfredo",
+      "Henchoz H.",
+      "Huebscher Ad.",
+      "Huguenin O.",
+      "Jeanneret Marie",
+      "Kramer Octave",
+      "Lellau Erich",
+      "Lörtscher W.",
+      "Mayor Louis"
+    ]
+  }
+}

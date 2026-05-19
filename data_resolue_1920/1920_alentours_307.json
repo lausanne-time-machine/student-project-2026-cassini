@@ -1,0 +1,245 @@
+{
+  "Ville d'Aigle": {
+    "Epicerie": [
+      "Desponds Constant. R."
+    ],
+    "Huilerie": [
+      "Monnet Alfred et Marius."
+    ],
+    "Inspecteur du bétail": [
+      "Mayor Const."
+    ],
+    "Instituteur": [
+      "Zwahlen Louis."
+    ],
+    "Laitier": [
+      "Golay Charles."
+    ],
+    "Menuisier-ébéniste": [
+      "Barbey Juste."
+    ],
+    "Meuniers": [
+      "Monnet Alfred et Marius."
+    ],
+    "Pensions": [
+      "Berney Esther",
+      "Bussy Henri. T."
+    ],
+    "Poste": [
+      "Challet Elise, Mlle."
+    ],
+    "Rentier": [
+      "Petitpierre Henri."
+    ],
+    "Sabots (fab. de)": [
+      "Seillon Gustave."
+    ],
+    "Sociétés": [
+      "De fromagerie. R.",
+      "Du battoir à grains. R."
+    ],
+    "Téléphoniste": [
+      "Bussy Henri."
+    ]
+  },
+  "CUARNENS": {
+    "Autorités communales": [
+      "Guyaz Lucien",
+      "Chappuis Charles",
+      "Chappuis Antoine",
+      "Chappuis Franck",
+      "Chappuis Aloïs",
+      "Chappuis Adrien",
+      "Girardet Edouard",
+      "Delacrétaz Auguste",
+      "Bovey Armand",
+      "Bovey Edouard",
+      "Clément Emile",
+      "Chappuis-Meylan Emile"
+    ],
+    "Agriculteurs": [
+      "Bolliet Fernand",
+      "Bovey Armand",
+      "Bovey François",
+      "Bovey frères",
+      "Braissant Lucien",
+      "Chappuis Paul",
+      "Orphelinat",
+      "Chappuis Antoine",
+      "Chappuis-Ls-d’Edouard",
+      "Chappuis Ern.",
+      "Chappuis Fernand",
+      "Chappuis Robert",
+      "Chappuis frères",
+      "Chappuis frères",
+      "Chappuis-Baudin",
+      "Chappuis-Gaillard Samuel",
+      "Chappuis-Magnin",
+      "Chappuis-Rod",
+      "Clément Alfred",
+      "Clément Edm.",
+      "Clément Emile",
+      "Clément Marius",
+      "Delacrétaz Auguste",
+      "Gaillard Julien",
+      "Mange Aug.",
+      "Mingard Henri",
+      "Piguet Henri",
+      "Pittet Auguste",
+      "Pittet Fernand",
+      "Pouly François"
+    ],
+    "Amodiateurs": [
+      "Chappuis frères"
+    ],
+    "Aubergistes": [
+      "Chappuis-Favre Marie Vve",
+      "Rochat Paul"
+    ],
+    "Bétail (march. de)": [
+      "Chappuis-Baudin H. R."
+    ],
+    "Blanchisseuses-repasseuses": [
+      "Chappuis Marie, Vve",
+      "Dumauthioz Lse."
+    ],
+    "Bois (march. de)": [
+      "Chappuis Adrien. R.",
+      "Clément Ami"
+    ],
+    "Boulanger": [
+      "Guetty Jules"
+    ],
+    "Charpentiers": [
+      "Dumauthioz Armand",
+      "Durussel, frères"
+    ],
+    "Charcutier": [
+      "Perroud Daniel"
+    ],
+    "Charron": [
+      "Chappuis Armand"
+    ],
+    "Commission scolaire": [
+      "Chappuis-Magnin François",
+      "Chappuis A.",
+      "Chappuis Fernand"
+    ],
+    "Cordonnier": [
+      "Bonzon A."
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Curchod Adolphe. RT.",
+      "Perroud Dan. R T.",
+      "Pouly François. R."
+    ],
+    "Entrepreneur": [
+      "Polli-Jaquinet G. T."
+    ],
+    "Forestier de triage": [
+      "Chappuis Ern."
+    ],
+    "Gypsier-peintre": [
+      "Romagnolo Jos."
+    ],
+    "Horticulteurs": [
+      "Clément Fernand",
+      "Guyaz Henri"
+    ],
+    "Huilerie": [
+      "Clément Ami"
+    ],
+    "Inspecteur du bétail": [
+      "Piguet Henri"
+    ],
+    "Instituteurs": [
+      "Courvoisier Jean",
+      "Berzin Clémence",
+      "Porchet Rosine"
+    ],
+    "Laiterie": [
+      "Chappuis Adr.",
+      "Guyaz Lucien"
+    ],
+    "Maréchal": [
+      "Boulaz Emile"
+    ],
+    "Meuniers": [
+      "Chappuis Adrien. R.",
+      "Clément Ami"
+    ],
+    "Modistes": [
+      "Curchod, dame",
+      "Perroud, dame"
+    ],
+    "Pasteur": [
+      "Meystre Pierre"
+    ],
+    "Porcs (comm. de)": [
+      "Hostettler Est R."
+    ],
+    "Postes": [
+      "Chappuis Louis"
+    ],
+    "Rentiers": [
+      "Bovey sœurs",
+      "Chappuis Arthur",
+      "Chappuis Elisa",
+      "Mange Auguste"
+    ],
+    "Scieurs": [
+      "Chappuis Ad. RT.",
+      "Clément Ami. T."
+    ],
+    "Selliers": [
+      "Chappuis Louis",
+      "Chappuis Edward"
+    ],
+    "Sociétés": [
+      "Société anonyme du poids public. T.",
+      "De fromagerie. R.",
+      "D’assurance du bétail bovin. R.",
+      "Syndicat agricole. R."
+    ],
+    "Tailleuses": [
+      "Braissant Marcelle",
+      "Clément Lina",
+      "Clément Rosalie",
+      "Dajoz Constance",
+      "Dumauthioz Henriette"
+    ],
+    "Téléphoniste": [
+      "Perroud Daniel"
+    ]
+  },
+  "DAILLENS": {
+    "Autorités communales": [
+      "Francillon Armand",
+      "Charlet Louis",
+      "Troillet Marc",
+      "Isely Louis",
+      "Roulin Fernand",
+      "Delacuisine Edm.",
+      "Mercier-Porchet Louis",
+      "Thuillard Henri",
+      "Villard Adrien",
+      "Crottaz-Troillet Ls",
+      "Cœytaux Félix"
+    ],
+    "Agriculteurs": [
+      "Cœytaux César",
+      "Cœytaux Jules",
+      "Croisier Jenny, Vve",
+      "Comtesse Ele",
+      "Comtesse Georges",
+      "Comtesse Louis",
+      "Delacuisine frères",
+      "Dubrit Ls",
+      "Francillon Arm.",
+      "Francillon frères",
+      "Gex Constant",
+      "Gex Louis",
+      "Isely"
+    ]
+  }
+}

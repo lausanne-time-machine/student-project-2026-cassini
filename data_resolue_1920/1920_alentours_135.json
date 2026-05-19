@@ -1,0 +1,204 @@
+{
+  "ORMONT-DESSUS": {
+    "Sociétés": [
+      "François",
+      "Rime Aug.",
+      "Société du tir libre",
+      "Société des fromageries de Pertuis",
+      "Société des Carabiniers libres des Alpes",
+      "Soc. du Cordon-Rouge",
+      "Syndicat agricole",
+      "Société de tir aux armes de guerre",
+      "Section de la Croix-Bleue",
+      "Société coopérative",
+      "Société d'agriculture"
+    ],
+    "Etoffes et mercerie": [
+      "Ginier Elisa",
+      "Hubert, Vve",
+      "Borloz-Monod Lydie",
+      "Pernollet François"
+    ],
+    "Farines": [
+      "Dupertuis Jules-Edouard",
+      "Dupertuis Constant",
+      "Ginier Elisa",
+      "Lapierre Henriette",
+      "Monod Jules"
+    ],
+    "Fers et métaux": [
+      "Bonzon Jules",
+      "Hubert Jules",
+      "Pernollet François"
+    ],
+    "Fondeur": [
+      "Ginier Alexis"
+    ],
+    "Gardes-forestiers": [
+      "Mottier Gustave",
+      "Morex Alfred",
+      "Vurlod Constant"
+    ],
+    "Hôtels et pensions": [
+      "Hôtel des Alpes",
+      "Chenaux Hri.",
+      "Hôtel du Cerf",
+      "Muller Jean",
+      "Hôtel du Mont d'Or",
+      "Tenthorey Henri",
+      "Chalet Belvédère",
+      "H. Blum",
+      "Pension Alpenrose",
+      "Rollier, doct."
+    ],
+    "Imprimeur": [
+      "Pichard Eugène"
+    ],
+    "Inspecteurs du bétail": [
+      "Truan Paul",
+      "Vurlod Constant"
+    ],
+    "Instituteurs": [
+      "Berthoud Alexandre",
+      "Blanc Georges",
+      "Guex Jules",
+      "Beauverd Léopold",
+      "Ruchet Benjamin"
+    ],
+    "Institutrices": [
+      "Joss Hélène",
+      "Leyvraz Rachel",
+      "Mermod-Mégroz Rose"
+    ],
+    "Journal": [
+      "Echo de la Montagne"
+    ],
+    "Justice de paix": [
+      "Mottier Ele",
+      "Ansermet Jean",
+      "Oguey Aloïs",
+      "Oguey-Dufresne Jles",
+      "Morex Alf.",
+      "Mermod Félix"
+    ],
+    "Maçons": [
+      "Durgniat Paul",
+      "Jelmoni Jean",
+      "Oguey Auguste",
+      "Zoppis César"
+    ],
+    "Maréchaux": [
+      "Ginier Henri-Vincent",
+      "Girod Aloïs",
+      "Nicolier Albert",
+      "Oguey Jules"
+    ],
+    "Mécaniciens": [
+      "Nicolier Albert",
+      "Oguey Jules"
+    ],
+    "Menuisiers": [
+      "Mermod Gust.",
+      "Monod Olivier",
+      "Tille Fernand",
+      "Viredaz & Morex"
+    ],
+    "Notaire": [
+      "Chablais Paul"
+    ],
+    "Officier d'état-civil": [
+      "Monod Alfred"
+    ],
+    "Pasteurs": [
+      "Rochat-Masset Edouard"
+    ],
+    "Postes et télégraphes": [
+      "Ginier Alfred",
+      "Ansermet Jean"
+    ],
+    "Quincaillerie": [
+      "Bonzon Jules",
+      "Hubert Jules",
+      "Pernollet François"
+    ],
+    "Sage-femme": [
+      "Ansermier Lina"
+    ],
+    "Scieurs": [
+      "Durgniat Auguste",
+      "Durgniat Jules",
+      "Mottier Emile",
+      "Viredaz et Morex",
+      "Vurlod Vincent"
+    ],
+    "Tisserand": [
+      "Perrod Alph."
+    ],
+    "Voituriers": [
+      "Ginier Alfred",
+      "Hubert Auguste",
+      "Hubert-Ziegler, Vve",
+      "Hertig Auguste"
+    ],
+    "Autorités communales": [
+      "Jaquerod John",
+      "Busset Robert",
+      "Morrerod Eugène",
+      "Pichard-Moillen Hri.",
+      "Berruex Jules",
+      "Favre Henri",
+      "Moillen-Nicolier Jules",
+      "Perreten Victor",
+      "Pichard Frank",
+      "Ansermoz Alb.",
+      "Tille Alexis",
+      "Gallaz Emmanuel",
+      "Tille Alexis"
+    ],
+    "Agriculteurs": [
+      "Ansermoz David",
+      "Berruex Emile",
+      "Berruex Jules",
+      "Favre Henri",
+      "Berruex-Gingen Jean",
+      "Berruex Jean",
+      "Bonzon Eugène",
+      "Busset Alfred",
+      "Busset Emile",
+      "Favre Alexandre",
+      "Favre-Jaquerod Vincent",
+      "Favre-Pernet Vincent",
+      "Genillard Emle",
+      "Genillard Eug.",
+      "Isabel Vincent",
+      "Jaquerod Vincent",
+      "Moillen Alexis",
+      "Morerod Eugène",
+      "Nicolier-Favre Em.",
+      "Nicolier-Pernet Emile",
+      "Nicolier Alexandre",
+      "Nicolier Vincent",
+      "Pernet Eugène",
+      "Pernet-Pichard Eug.",
+      "Pichard Auguste",
+      "Pichard Henri",
+      "Pichard Jn-Alexandre",
+      "Pilet Alexis",
+      "Pilet Eugène"
+    ],
+    "Assurance": [
+      "La Suisse (vie et accidents)",
+      "Dubuis E."
+    ],
+    "Auberges et cafés": [
+      "Besse Alfred",
+      "Buchs hoirie",
+      "Corboz Louis, fils",
+      "Morex-Tille, hoirie",
+      "Nicolier, Vve de François-Louis",
+      "Pellet Vve d'Henri",
+      "Wursten-Moillen Samuel",
+      "Tille Alfred"
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "MARTHERENGES": {
+    "Agriculteurs": [
+      "Bigler Jean",
+      "Jenny, Vve",
+      "Michel, Vve",
+      "Monachon Edouard",
+      "Monachon Oscar",
+      "Monachon Eug.",
+      "Monachon Louis",
+      "Pasche Jules",
+      "Trolliet Maurice"
+    ],
+    "Commission scolaire": [
+      "Monachon Henri",
+      "Monachon Eugène",
+      "Crisinel Eugène"
+    ],
+    "Inspecteur du bétail": [
+      "Trolliet Maurice"
+    ],
+    "Institutrice": [
+      "Cuendet Marthe"
+    ],
+    "Sociétés": [
+      "De la fromagerie",
+      "Du battoir à blé"
+    ],
+    "Téléphone": [
+      "Crisinel Ulysse"
+    ]
+  },
+  "MONTAUBION-CHARDONNAY": {
+    "Autorités communales": [
+      "Dufour Félix",
+      "Gavillet Gustave"
+    ],
+    "Syndic": [
+      "Jaccaud Alfred"
+    ],
+    "Municipaux": [
+      "Gavillet Hri",
+      "Jaccaud Louis",
+      "Dufour Edouard",
+      "Perret John"
+    ],
+    "Secrétaire": [
+      "Gavillet John"
+    ],
+    "Boursier": [
+      "Dufour Félix"
+    ],
+    "Agriculteurs": [
+      "Gavillet Jean-Louis",
+      "Jaccaud frères",
+      "Jaccaud Louis-William",
+      "Joss Jean"
+    ],
+    "Commission scolaire": [
+      "Dufour Félix"
+    ],
+    "Inspecteur du bétail": [
+      "Dufour Ed."
+    ],
+    "Institutrice": [
+      "Gavillet-Baudet Lina"
+    ],
+    "Meunier": [
+      "Dufour Jules"
+    ],
+    "Rentier": [
+      "Dufour Félix"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Téléphoniste": [
+      "Tissot Henri"
+    ]
+  },
+  "NEYRUZ": {
+    "Autorités communales": [
+      "Martin Eugène",
+      "Porchet Jules"
+    ],
+    "Syndic": [
+      "Dutoit Constant"
+    ],
+    "Municipaux": [
+      "Rosset Alfred",
+      "Lagnaz Francis",
+      "Martin Ami",
+      "Noverraz Jules",
+      "Bovay Louis",
+      "Jaton Eugène"
+    ],
+    "Secrétaire": [
+      "Gavin Aimé"
+    ],
+    "Boursier": [
+      "Jaton Eug."
+    ],
+    "Huissier": [
+      "Baudin Emile"
+    ],
+    "Agriculteurs": [
+      "Bonin Auguste-Marcel",
+      "Chevalley Gustave",
+      "Dutoit Adrien",
+      "Dutoit Charles",
+      "Dutoit Constant",
+      "Dutoit Emile",
+      "Freymond Emile",
+      "Gavin Aimé",
+      "Jaton Ernest",
+      "Jaton Eugène",
+      "Lagnaz Adrien",
+      "Martin Ami",
+      "Martin Ulysse",
+      "Noverraz Jules",
+      "Pidoux Eugène",
+      "Pidoux Jules",
+      "Porchet Jules",
+      "Rosset Alfred",
+      "Rosset Oscar"
+    ],
+    "Aubergistes": [
+      "Gavin Marie",
+      "Maillard Jules"
+    ],
+    "Charron": [
+      "Lagnaz Francis"
+    ],
+    "Commission scolaire": [
+      "Jaton Eugène",
+      "Martin Ami",
+      "Pidoux Jules"
+    ],
+    "Cordonnier": [
+      "Bécherraz Béat"
+    ],
+    "Epicerie": [
+      "Freymond Eugénie"
+    ],
+    "Inspecteur du bétail": [
+      "Gavin Aimé"
+    ],
+    "Instituteurs": [
+      "Barbey Adrien",
+      "Porchet Marie",
+      "Dutoit Marie"
+    ],
+    "Maréchal": [
+      "Martin Eugène"
+    ],
+    "Poste": [
+      "Gavin Hélène"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "Syndicat d'élevage"
+    ],
+    "Téléphoniste": [
+      "Gavin Marie"
+    ]
+  },
+  "OGENS": {
+    "Autorités communales": [
+      "Pahud Victor",
+      "Pahud Constant"
+    ],
+    "Syndic": [
+      "Pahud-Gavillet Jules"
+    ],
+    "Municipaux": [
+      "Pahud Jules",
+      "Pahud Justin",
+      "Pahud Gustave",
+      "Trolliet Edmond"
+    ],
+    "Secrétaire": [
+      "Pahud Adolphe"
+    ],
+    "Boursier": [
+      "Pahud Justin"
+    ],
+    "Agriculteurs": [
+      "Amy Aimé",
+      "Bastian Maurice",
+      "Genier Jean",
+      "Hauser Paul",
+      "Pahud-Audemars Alex.",
+      "Pahud-Bovay Denis",
+      "Pahud-Chapuis Gustave",
+      "Pahud-Gavillet Jules",
+      "Pahud Henri-César",
+      "Pahud Jules",
+      "Pahud Emile et Ulysse",
+      "Riond Henri",
+      "Riond Théophile",
+      "Roth Fritz",
+      "Trolliet Ed."
+    ],
+    "Aubergistes": [
+      "Jaquier Héli.",
+      "Pahud Gustave"
+    ],
+    "Boulanger": [
+      "Pahud-Meyer Edouard"
+    ],
+    "Buraliste postal": [
+      "Riond Ulysse"
+    ],
+    "Commission scolaire": [
+      "Pahud-Gavillet Jules",
+      "Trolliet Ed.",
+      "Pahud Denis"
+    ],
+    "Epicerie": [
+      "Grandchamp John",
+      "Meystre Yvonne",
+      "Pahud-Meyer, Julie"
+    ],
+    "Fers et quincaillerie": [
+      "Grandchamp John"
+    ],
+    "Inspecteur du bétail": [
+      "Pahud Héli"
+    ],
+    "Instituteurs": [
+      "Mercier Ulysse",
+      "Braissant Elisa"
+    ],
+    "Maçon": [
+      "Pahud Louis"
+    ],
+    "Menuisier": [
+      "Degex Emile"
+    ],
+    "Meunier": [
+      "Moulin agricole"
+    ],
+    "Scieur": [
+      "Pahud Constant"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Tailleuses": [
+      "Genier Anna",
+      "Pahud Nancy",
+      "Riond Berthe",
+      "Roth Bertha"
+    ],
+    "Vins (gros et détail)": [
+      "Jaquier H."
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "OLLON": {
+    "Garde-forestier": [
+      "Bocherens François"
+    ],
+    "Inspecteur du bétail": [
+      "Dulex Jean"
+    ],
+    "Instituteur": [
+      "Parlier Louis"
+    ],
+    "Institutrice": [
+      "Morex-Petitpierre Marie"
+    ],
+    "Officier d'état civil": [
+      "Dulex Emile",
+      "Baudy Louis"
+    ],
+    "Poste": [
+      "Jaquerod Elise"
+    ],
+    "Agriculteurs": [
+      "Bocherens François",
+      "Bocherens Philippe",
+      "Bocherens Henri",
+      "Croset Emile",
+      "Marlétaz Alexis",
+      "Pittier Ernest",
+      "Pittier Gustave",
+      "Rosat Robert",
+      "Tavernier Marius"
+    ],
+    "Bestiaux (march. de)": [
+      "Yersin Gustave"
+    ],
+    "Bois (march. de)": [
+      "Pittier Ernest"
+    ],
+    "Café-pension": [
+      "Yersin Adèle"
+    ],
+    "Epicerie": [
+      "Syndicat agricole de Panex",
+      "Tavernier-Mosca"
+    ],
+    "Scierie": [
+      "Dulex Gustave"
+    ],
+    "Sociétés": [
+      "Sté de laiterie",
+      "Sté de tir Armes de guerre de Panex",
+      "Sté des Usagers des Buits",
+      "Syndicat agricole de Panex-Plambuit"
+    ]
+  },
+  "PLAMBUIT": {
+    "Café": [
+      "Echenard"
+    ],
+    "Agriculteurs": [
+      "Aviolat Ph.",
+      "Dulex Louis",
+      "Echenard Jean",
+      "Echenard Robert",
+      "Jaggi Charles"
+    ],
+    "Café et épicerie": [
+      "Echenard Ls."
+    ]
+  },
+  "PLAN ESSERT": {
+    "Agriculteurs": [
+      "Cornamusaz Ulysse",
+      "Cropt François"
+    ]
+  },
+  "SALAZ": {
+    "Agriculteurs": [
+      "Aepli Alfred",
+      "Anex Henri",
+      "Jaggi Adolphe",
+      "Jaggi Benjamin",
+      "Perrier Maurice"
+    ],
+    "Bois (march. de)": [
+      "Anex Henri"
+    ]
+  },
+  "ST-TRIPHON": {
+    "Chef de gare C.P.F.": [
+      "Delacrétaz E."
+    ],
+    "Juge de paix": [
+      "Jaquemin Ernest"
+    ],
+    "Instituteurs": [
+      "Rossat Henri",
+      "Jaquier Berthe"
+    ],
+    "Poste": [
+      "Jaquemin Ernest",
+      "Stoss Mélina"
+    ],
+    "Agriculteurs": [
+      "Amiguet David",
+      "Amiguet Jules",
+      "Badan François",
+      "Badan Henri",
+      "Chamorel Albert",
+      "Chessex Henri",
+      "Durand Henri",
+      "Frossard Marie",
+      "Gaud Eugène",
+      "Gonthier François",
+      "Mercier Aimé",
+      "Pasche Alphonse",
+      "Vaudroz Alb."
+    ],
+    "Bestiaux (march. de)": [
+      "Frossard & Cie",
+      "Mercier"
+    ],
+    "Cafés": [
+      "Association viticole",
+      "café de la Tour",
+      "Baenziger Charles",
+      "Fausel - Chambrier François",
+      "Buffet de la Gare"
+    ],
+    "Carrières (exploit. de)": [
+      "Buchi J. R.",
+      "Soc. des carrières de St-Triphon et Colombey",
+      "Rossier"
+    ],
+    "Chaux agricole": [
+      "Pilloud & Oreiller"
+    ],
+    "Gordonnier": [
+      "Morerod Alexis"
+    ],
+    "Epiceries, merceries": [
+      "Jaquemin Ernest",
+      "Moret Suzanne"
+    ],
+    "Fruits et légumes": [
+      "Brougham-Hari E."
+    ],
+    "Laiterie": [
+      "Société de laiterie"
+    ]
+  },
+  "VERSCHIEZ": {
+    "Agriculteurs": [
+      "Anex Henri",
+      "Delarze Jean",
+      "Olloz Henri",
+      "Pousaz Alf."
+    ],
+    "Apiculteur": [
+      "Delarze Jean"
+    ],
+    "Pépiniériste": [
+      "Delarze Jean"
+    ]
+  },
+  "VILLARS": {
+    "Municipal": [
+      "Ruchet Louis"
+    ],
+    "Chef de gare B.-G.-V.": [
+      "Antenen E."
+    ],
+    "Chef de section": [
+      "Croset Félix"
+    ],
+    "Gendarmerie": [
+      "Moreillon",
+      "Moillen"
+    ],
+    "Instituteurs": [
+      "Delacrétaz Arnold",
+      "Pilloud William",
+      "Amiguet-Blanc Alice",
+      "Cuttelod-Péclard Emilie"
+    ],
+    "Officier d'état civil": [
+      "Dulex Emile",
+      "Baudy Louis"
+    ],
+    "Pasteur": [
+      "Grobéty Marcel"
+    ],
+    "Police": [
+      "Grob Robert"
+    ],
+    "Poste et télégraphe": [
+      "Ramseyer Paul"
+    ],
+    "Agriculteurs": [
+      "Aepli Alfred",
+      "Ansermet Alexis",
+      "Aviolat Ami",
+      "Aviolat Henri",
+      "Bonzon Albert",
+      "Refuge",
+      "Isabel Albert",
+      "Jouvenat Jules",
+      "Ruchet Alphonse",
+      "Ruchet Charles"
+    ],
+    "Appareilleur": [
+      "Luisier Alphonse",
+      "Ruchet Henri"
+    ],
+    "Assurance - vieillesse": [
+      "Pilloud W."
+    ],
+    "Auto-garages": [
+      "Besson",
+      "Pidoux Albert"
+    ],
+    "Banque": [
+      "Banque Cantonale Vaudoise"
+    ],
+    "Bazars": [
+      "Ausoni Ausonio",
+      "Baatard Ed.",
+      "Dubois Ida",
+      "Hofschneider Ody",
+      "Luthi Berthe"
+    ],
+    "Blanchisseuses": [
+      "Bratchi Emma",
+      "Dubi Rosine",
+      "Demarchi Marie",
+      "Wandfluh Ed."
+    ],
+    "Boucher-charcutier": [
+      "Tuor Christian"
+    ],
+    "Boulanger-pâtissier": [
+      "Favre César"
+    ],
+    "Bureau de placement": [
+      "Wandfluh Edmond"
+    ],
+    "Cafés-restaurants": [
+      "Favre César",
+      "Maurer Otto",
+      "Kohli-Thonney Ls",
+      "Luisier Gustave"
+    ],
+    "Camionneur": [
+      "Pidoux Alb. fils"
+    ],
+    "Chalets (Construction de)": [
+      "Dübi Léon et fils",
+      "Ruchet Marc"
+    ],
+    "Charpentiers": [
+      "Dübi Léon et fils",
+      "Dübi Oscar",
+      "Ruchet Marc"
+    ],
+    "Chaussures (march. de)": [
+      "Mages Henri"
+    ],
+    "Coiffeurs": [
+      "Croset Gustave",
+      "Langel Nelly",
+      "Lindner Madeleine",
+      "Luthy Ern.",
+      "Metz J."
+    ],
+    "Combustibles": [
+      "Ronchi Marcel"
+    ],
+    "Cordonniers": [
+      "Mages Henri",
+      "Manini Jaques"
+    ],
+    "Couturières": [
+      "Schaer Mme",
+      "Wirz R."
+    ],
+    "Crémeries, tea-rooms": [
+      "Favre César",
+      "Favre Paul",
+      "Luisier Gustave"
+    ],
+    "Dentistes": [
+      "Genet R.",
+      "Jaeger-Nicole R."
+    ],
+    "Electricien": [
+      "Luisier Louis"
+    ],
+    "Entrepreneurs": [
+      "Cantova Bapt.",
+      "Manzini & Cie"
+    ],
+    "Epicerie": [
+      "Pidoux Albert",
+      "Epicerie de Villars S. A.",
+      "Société coopérative de consommation"
+    ],
+    "Ferblantiers": [
+      "Dormond Paul & Fils"
+    ],
+    "Gaz": [
+      "Société du Gaz de la Plaine du Rhône"
+    ],
+    "Gérant d'immeubles": [
+      "Gabus Jacques"
+    ],
+    "Guides patentés": [
+      "Anex Alfred",
+      "Delvecchio Gabriel",
+      "Flotron H."
+    ],
+    "Gypsiers-peintres": [
+      "Polonghini Marie",
+      "Ruchet Alphonse"
+    ],
+    "Horlogerie-bijouterie": [
+      "Eisenhardt F.-W.",
+      "Thiébaud Vital"
+    ],
+    "Institut de beauté": [
+      "Montandon Irène"
+    ],
+    "Laiteries, fromages": [
+      "Laiterie Centrale",
+      "Société de laiterie de la Région"
+    ],
+    "Librairie-papeterie": [
+      "Baatard Ed.",
+      "Hofschneider"
+    ],
+    "Médecins": [
+      "Demiéville Ernest",
+      "Rossiaud M."
+    ],
+    "Menuisiers": [
+      "Dubi & fils",
+      "Hauenstein Charles fils"
+    ],
+    "Notaire": [
+      "Genet Paul",
+      "Gessenay Henri"
+    ]
+  }
+}

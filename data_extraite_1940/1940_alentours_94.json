@@ -1,0 +1,382 @@
+{
+  "ECHICHENS": {
+    "Police (agent de)": [
+      "Bourloud Georges"
+    ],
+    "Poste et télégraphe": [
+      "Wuarchoz André"
+    ],
+    "Téléphone": [
+      "Freymond Samuel"
+    ],
+    "Agriculteurs": [
+      "Asile rural",
+      "Baudet Aloïs",
+      "Chollet Pierre",
+      "Favre Jules",
+      "Roulet Robert",
+      "Roulet Victor",
+      "Tissot Jules"
+    ],
+    "Agriculteurs-vignerons": [
+      "Asile rural",
+      "Gros François",
+      "Kirschmann Maurice"
+    ],
+    "Apiculteurs": [
+      "Asile rural",
+      "Menétrey Th.",
+      "Roulet V."
+    ],
+    "Asile rural vaudois (enf. arriérés)": [
+      "Chamot Marius"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite",
+      "Regamey Jules",
+      "Mutualité scolaire de retraite de l'Asile rural",
+      "Chamot"
+    ],
+    "Boulangerie-pâtisserie": [
+      "Schick John"
+    ],
+    "Café": [
+      "Bornand Maurice"
+    ],
+    "Cordonnerie": [
+      "Wuarchoz André"
+    ],
+    "Entrepreneur": [
+      "Gorgiat Charles"
+    ],
+    "Epiceries, merceries": [
+      "Croisier Elise",
+      "Freymond Samuel",
+      "Schick J."
+    ],
+    "Laiterie": [
+      "Décombaz Jules"
+    ],
+    "Maison de repos": [
+      "Silo-Herdegen Ch."
+    ],
+    "Pépiniéristes": [
+      "Baudet A.",
+      "Gros Henri"
+    ],
+    "Rentiers": [
+      "de Mandrot Adrien",
+      "de Mandrot-de Freudenreich",
+      "de Rham Mme Vve",
+      "Monod René",
+      "Robert Paul",
+      "Warnery Emile"
+    ],
+    "Sage-femme": [
+      "Matthey Mme"
+    ],
+    "Vignerons": [
+      "Bourloud Armand",
+      "Bourloud Henri",
+      "Dussoix Jules",
+      "Henry William",
+      "Henry Fernand",
+      "Perrey Constant",
+      "Schmidly Ernest",
+      "Wagnière Léonard"
+    ],
+    "Divers": [
+      "Daccord Ls"
+    ]
+  },
+  "ECLAGNENS": {
+    "Député": [
+      "Bezençon Frédéric"
+    ],
+    "Syndic": [
+      "Mermoud Robert"
+    ],
+    "Secrétaire": [
+      "Bezençon Edouard"
+    ],
+    "Boursier": [
+      "Roulin Albert"
+    ],
+    "Huissier": [
+      "Bataillard Alfred"
+    ],
+    "Municipaux": [
+      "Bezençon Vincent",
+      "Leuba Edouard"
+    ],
+    "Cantonnier": [
+      "Bigler Louis"
+    ],
+    "Commandant du feu": [
+      "Roulin Henri"
+    ],
+    "Commission scolaire": [
+      "Mermoud Robert"
+    ],
+    "Contrôleur du lait": [
+      "Bezençon Fern."
+    ],
+    "Garde forestier": [
+      "Basset Fernand"
+    ],
+    "Insp. du bétail": [
+      "Bezençon Alexandre"
+    ],
+    "Institutrice": [
+      "Bezençon-Bonzon Eva"
+    ],
+    "Téléphone": [
+      "Bezençon F."
+    ],
+    "Agriculteurs": [
+      "Bataillard Alfred",
+      "Bezençon Edouard",
+      "Bezençon Fréd.",
+      "Bezençon Frs",
+      "Bezençon Gges",
+      "Bezençon Gust.",
+      "Bezençon Vincent",
+      "Bosset Alfred",
+      "Cavin Arthur",
+      "Gindroz Ernest",
+      "Leuba Edouard",
+      "Mermoud Robert",
+      "Roulin Henri",
+      "Roulin Lucien",
+      "Roulin frères"
+    ],
+    "Apiculteurs": [
+      "Bezençon Vincent",
+      "Bezençon Edouard",
+      "Leuba Edouard",
+      "Mermoud Rob.",
+      "Roulin Emile",
+      "Roulin Henri"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Bezençon-Bonzon E."
+    ],
+    "Couturière": [
+      "Bataillard Alice"
+    ],
+    "Epicerie-mercerie": [
+      "Leuba Ed."
+    ],
+    "Mécanicien": [
+      "Bezençon Vincent"
+    ],
+    "Meunier": [
+      "Roulin Emile"
+    ],
+    "Pêcheurs": [
+      "Roulin Emile et François"
+    ],
+    "Pension": [
+      "Bezençon Frédéric"
+    ],
+    "Pesuer de laiterie": [
+      "Bezençon Louis"
+    ],
+    "Laitier": [
+      "Bezençon Louis"
+    ],
+    "Scierie": [
+      "Roulin François"
+    ],
+    "Société": [
+      "Sté du batoir à grains"
+    ]
+  },
+  "ECLEPENS": {
+    "Député": [
+      "Monnier Charles"
+    ],
+    "Syndic": [
+      "Monnier Charles"
+    ],
+    "Secrétaire": [
+      "Corday Francis"
+    ],
+    "Boursier": [
+      "Rochat Constant fils"
+    ],
+    "Huissier": [
+      "Ray Paul"
+    ],
+    "Municipaux": [
+      "Berger Aimé",
+      "Gachet Alfred",
+      "Martignier Louis",
+      "Reymond Louis"
+    ],
+    "Cantonnier": [
+      "Pavillard Lucien"
+    ],
+    "Chef de gare": [
+      "Vacat"
+    ],
+    "Commandant du feu": [
+      "Fontannaz Ls"
+    ],
+    "Commission scolaire": [
+      "Fontannaz Louis"
+    ],
+    "Garde forestier": [
+      "Chaillet"
+    ],
+    "Inspecteur du bétail": [
+      "Rochat Const."
+    ],
+    "Inspecteur des viandes": [
+      "Rochat Constant fils"
+    ],
+    "Instituteurs": [
+      "Fahrni Adolphe",
+      "Barbey Yvonne"
+    ],
+    "Officier d'état civil": [
+      "Delacuisine"
+    ],
+    "Pasteur": [
+      "Centlivres Robert"
+    ],
+    "Poste et télégraphe": [
+      "Henry Jean-Ls"
+    ],
+    "Agriculteurs": [
+      "Auberson Jules et fils",
+      "Berger Julien et Aimé",
+      "Gachet frères",
+      "Guex Clément",
+      "Martignier Emile et Louis",
+      "Monnier Charles",
+      "Monnier Robert",
+      "Ogiz Chs",
+      "Reymond frères",
+      "Rochat Constant",
+      "Rochat Charles",
+      "Segessenmann Christian",
+      "Vannod Samuel"
+    ],
+    "Amodiateurs": [
+      "Reymond frères"
+    ],
+    "Assurance-vieillesse": [
+      "Fahrni Adolphe"
+    ],
+    "Bestiaux (march. de)": [
+      "Berger Julien & Cie"
+    ],
+    "Briqueterie": [
+      "Barraud & Cie"
+    ],
+    "Cafés": [
+      "Auberson Maur.",
+      "Martin Louis",
+      "Testori Ch."
+    ],
+    "Charron": [
+      "Besse Lucien"
+    ],
+    "Couturière": [
+      "Carrard Edelweiss"
+    ],
+    "Draps (fabr. de)": [
+      "Berger Henri S. A."
+    ],
+    "Epiceries": [
+      "Bonzon-Desponds Marcel",
+      "Fontannaz-Pagani Louis",
+      "Hongreur",
+      "Jotterand Maurice"
+    ],
+    "Laitier": [
+      "Neuenschwander Emile"
+    ],
+    "Maçon": [
+      "Sormani Célestin"
+    ],
+    "Maraîchers": [
+      "Etter Gottfried"
+    ],
+    "Maréchal": [
+      "Corthésy Emile"
+    ],
+    "Moulin": [
+      "Beauverd Constant"
+    ],
+    "Pompes funèbres du Nord": [
+      "Pompes funèbres du Nord",
+      "Monnier H."
+    ],
+    "Scierie": [
+      "Beauverd Constant"
+    ],
+    "Sociétés": [
+      "Caisse de secours aux ouvriers d'Eclépens de la Briqueterie Barraud",
+      "Sté du battoir à blé",
+      "Sté de fromagerie",
+      "Syndicat agricole"
+    ],
+    "Vigneron": [
+      "Berger-Roulin Marc"
+    ],
+    "Viticulteur": [
+      "de Coulon Gustave"
+    ]
+  },
+  "ECOTEAUX": {
+    "Syndic": [
+      "Boudry Paul"
+    ],
+    "Secrét.": [
+      "Favre Ulysse"
+    ],
+    "Boursier": [
+      "Boudry Roger"
+    ],
+    "Huissier": [
+      "Corboz Emile"
+    ],
+    "Municipaux": [
+      "Corboz Emile",
+      "Rubattel Emile",
+      "Stuby Henri"
+    ],
+    "Assesseur": [
+      "Caillet Paul"
+    ],
+    "Cantonniers": [
+      "Beroud John",
+      "Favez Camille"
+    ],
+    "Commandant du feu": [
+      "Stutz H."
+    ],
+    "Commission scolaire": [
+      "Sonnay Auguste"
+    ],
+    "Contrôleur du lait": [
+      "Rossier Ed."
+    ],
+    "Garde-forestier": [
+      "Sonnay Auguste"
+    ],
+    "Inspecteur du bétail": [
+      "Corboz Emile"
+    ],
+    "Inspecteur des viandes": [
+      "Boudry R."
+    ],
+    "Instituteurs": [
+      "Leuba Etienne",
+      "Clément Lucienne"
+    ]
+  }
+}

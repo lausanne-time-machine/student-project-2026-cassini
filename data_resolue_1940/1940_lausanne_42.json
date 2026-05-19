@@ -1,0 +1,67 @@
+{
+  "LAUSANNE": {
+    "CINÉMA": [
+      "Capitole-Théâtre",
+      "Cinéac",
+      "Cinéma A B C",
+      "Cinéma-Théâtre Bel-Air, S. A.",
+      "Cinéma Le Colisée",
+      "Cinéma-Théâtre Métropole, S. A.",
+      "Modern-Cinéma",
+      "Cinéma Populaire",
+      "CINÉMA REX"
+    ],
+    "CINÉMA-FILM": [
+      "Acquadro & Cie",
+      "Ampro Corporation",
+      "Association cinématographique suisse romande",
+      "Boolsky Jacques",
+      "Brandt & Cie",
+      "Marthaler François",
+      "Cinéoffice S. A.",
+      "Reclama S. A.",
+      "Schnell A.",
+      "Studio Rich",
+      "Rufenacht Willy"
+    ],
+    "CIRCULAIRES": [
+      "Bureau C. T. C., Gleyre B.",
+      "Campiche L.-M., S. A.",
+      "Guiraud M.",
+      "Royal Office S. A.",
+      "Weber Pierre"
+    ],
+    "CLICHÉS CAOUTCHOUC": [
+      "Desbois Rob.",
+      "Girardet Const.",
+      "Jeanrenaud Alex."
+    ],
+    "CLICHÉS": [
+      "Polygraphia"
+    ],
+    "CLINIQUES, HOSPICES ET ETABLISSEMENTS MEDICAUX": [
+      "Champ Soleil",
+      "Clinique Dr Blanchod",
+      "Clinique Bois-Cerf",
+      "Clinique Boismont",
+      "CECIL CLINIQUE GENERALE",
+      "Clinique des Charmettes S. A.",
+      "Clinique du Château de Prilly, Jacot-Guillarmod, Mme Vve de Jules",
+      "Clinique Dora",
+      "Clinique Mont-Choisi",
+      "Clinique Montriant",
+      "Clinique ophtalmique de l'Asile des Aveugles",
+      "Clinique « La Pensée »",
+      "Clinique du Signal, Grezet et Minkwitz Mlles",
+      "Clinique Sylvana",
+      "Clinique de la Source",
+      "Dispensaire de la Source",
+      "Hôpital cantonal et cliniques annexes",
+      "Hospice de l'Enfance",
+      "Hospice orthopédique",
+      "Infirmerie de la Source",
+      "Institution de Béthanie de Lausanne",
+      "Policlinique universitaire"
+    ]
+  }
+}

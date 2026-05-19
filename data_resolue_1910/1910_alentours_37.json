@@ -1,0 +1,277 @@
+{
+  "CONSTANTINE": {
+    "Cafetier": [
+      "Gentizon-Freiburghauss Ch."
+    ],
+    "Chef de section": [
+      "Loup-Jordan Adrien"
+    ],
+    "Commission scolaire": [
+      "Favez",
+      "Gentizon Aug",
+      "Gentizon-Bessard Henri"
+    ],
+    "Epicerie": [
+      "Gentizon-Loup Léon"
+    ],
+    "Inspecteur du bétail": [
+      "Cuanillon F.-Henri"
+    ],
+    "Instituteur": [
+      "Brocard Alfred"
+    ],
+    "Médecin": [
+      "Tuscher Charles-Marc"
+    ],
+    "Pasteur": [
+      "Favez Emile"
+    ],
+    "Pionniers": [
+      "Gentizon Auguste",
+      "Musy Louis"
+    ],
+    "Propriétaires": [
+      "Hubert Jules",
+      "Hubert Henri"
+    ],
+    "Tailleur": [
+      "Cuanillon Henri"
+    ],
+    "Téléphoniste": [
+      "Gentizon Charles"
+    ]
+  },
+  "CUDREFIN": {
+    "Autorités communales": [
+      "Milliet F.",
+      "Reuille J.-Jaques"
+    ],
+    "Syndic": [
+      "Vassaux Alfred"
+    ],
+    "Municipaux": [
+      "Treyvaud A.",
+      "Richard Henri",
+      "Treyvaud Edouard"
+    ],
+    "Secrétaire municipal": [
+      "Vassaux Lucien"
+    ],
+    "Boursier": [
+      "Vassaux Samuel"
+    ],
+    "Agriculteurs": [
+      "Barth Fritz",
+      "Barth, frères",
+      "Blaser Frédéric",
+      "Cornaz Ernest",
+      "Jaunin Paul",
+      "Milliet Henri",
+      "Nicod Emile",
+      "Reuille Jean & fils",
+      "Treyvaud-Christinat Louis",
+      "Vacheron Charles"
+    ],
+    "Aubergistes": [
+      "Joseph Félix",
+      "Hôtel de l'Ours",
+      "Lemp Edouard",
+      "Richard Henri",
+      "Thalmann Edouard",
+      "Treyvaud César"
+    ],
+    "Bouchers": [
+      "Jaunin Henri",
+      "Joseph Félix"
+    ],
+    "Boulanger": [
+      "Richard Georges"
+    ],
+    "Charpentiers": [
+      "Baumann Rodolphe",
+      "Baumann Fritz"
+    ],
+    "Charrons": [
+      "Hoffer Charles",
+      "Hoffer Paul",
+      "von Gunten Edouard"
+    ],
+    "Chef de section": [
+      "Treyvaud Paul"
+    ],
+    "Commission scolaire": [
+      "Genton William",
+      "Reuille Emile"
+    ],
+    "Cordonniers": [
+      "Haenggeli Frédéric",
+      "Vassaux Robert"
+    ],
+    "Electriciens": [
+      "Société lausannoise d'Electricité"
+    ],
+    "Entrepreneur": [
+      "Mascetti Marc"
+    ],
+    "Epicerie": [
+      "Bardet Louis",
+      "Chautems, veuve",
+      "Treyvaud César"
+    ],
+    "Etoffes": [
+      "Richard Georges"
+    ],
+    "Ferblantier": [
+      "Magnin Auguste"
+    ],
+    "Huilier": [
+      "Reuille Samuel"
+    ],
+    "Inspecteur du bétail": [
+      "Vassaux Charles-Victor"
+    ],
+    "Instituteurs": [
+      "Nicod Emile",
+      "Loup Hélène",
+      "Mayor Alice"
+    ],
+    "Justice de paix du cercle": [
+      "Berthoud Paul",
+      "Christinat Constant",
+      "Milliet Henri",
+      "Richard Henri",
+      "Loup Jules",
+      "Cuanillon Henri"
+    ],
+    "Laitier": [
+      "Jäggi Jacob"
+    ],
+    "Maréchaux": [
+      "Matthey Arnold",
+      "Sommer Fritz"
+    ],
+    "Menuisiers-ébénistes": [
+      "Matthey Ernest",
+      "Walther Gottfried"
+    ],
+    "Meunier": [
+      "Kramer Jacob"
+    ],
+    "Notaire": [
+      "Treyvaud Arthur"
+    ],
+    "Officier d'état civil": [
+      "Treyvaud Paul"
+    ],
+    "Pasteurs": [
+      "Genton William",
+      "Roy-Tophel J.-B."
+    ],
+    "Rentier": [
+      "De Perrot Fréd. T."
+    ],
+    "Scieur": [
+      "Baumann Fritz"
+    ],
+    "Sellier": [
+      "Richard Louis"
+    ],
+    "Sociétés": [
+      "De laiterie",
+      "D'agriculture",
+      "Section de la Croix-Bleue"
+    ],
+    "Tailleuses": [
+      "Matthey Marie",
+      "Quartier Mathilde",
+      "von Gunten Bertha"
+    ],
+    "Télégraphe et téléphone": [
+      "Dessaules Marie",
+      "Treyvaud César"
+    ],
+    "Toilerie, mercerie": [
+      "Richard Georges"
+    ],
+    "Tonneliers": [
+      "Troutot Emile & fils"
+    ]
+  },
+  "DONATYRE": {
+    "Autorités communales": [
+      "Raymond Fernand",
+      "Raymond Constant"
+    ],
+    "Syndic": [
+      "Scheiterberg Auguste"
+    ],
+    "Municipaux": [
+      "Raymond Auguste",
+      "Noverraz Edouard",
+      "Butikofer Jean",
+      "Raymond Robert"
+    ],
+    "Secrétaire municipal": [
+      "Raymond Jean, fils"
+    ],
+    "Boursier": [
+      "Raymond Auguste"
+    ],
+    "Agriculteurs": [
+      "Butikofer Jean",
+      "Doleires Eugène",
+      "Martin Emile",
+      "Noverraz Edouard",
+      "Raymond Louis",
+      "Raymond, hoirie d'Ed:",
+      "Raymond Robert",
+      "Schneider Fritz",
+      "Sieber Samuel",
+      "Stalder Daniel",
+      "Walter Anna"
+    ],
+    "Aubergiste": [
+      "Milasson Amédée"
+    ],
+    "Boulanger": [
+      "Mathys Jacob"
+    ],
+    "Charcutier": [
+      "Martin Elise, veuve"
+    ],
+    "Charpentier": [
+      "Raymond Auguste"
+    ],
+    "Charron": [
+      "Raymond Robert"
+    ],
+    "Commission scolaire": [
+      "Raymond Constant",
+      "Maybach Aug."
+    ],
+    "Cordonnier": [
+      "Scheiterberg Auguste"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Martin Elise, veuve"
+    ],
+    "Facteur-dépositaire": [
+      "Raymond J., Vve."
+    ],
+    "Inspecteur du bétail": [
+      "Raymond Auguste"
+    ],
+    "Instituteur": [
+      "Gallaz Fernand"
+    ],
+    "Maréchal": [
+      "Chevalley Henri"
+    ],
+    "Société": [
+      "De laiterie"
+    ],
+    "Tailleuse": [
+      "Raymond-Sonnaillon Lina"
+    ]
+  }
+}

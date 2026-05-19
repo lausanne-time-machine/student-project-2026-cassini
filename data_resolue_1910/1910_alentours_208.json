@@ -1,0 +1,250 @@
+{
+  "ROPRAZ": {
+    "Penssions-famille.": [
+      "Cavin-Gilliéron Louis",
+      "Roy Isabelle",
+      "Rod, demoiselles, Vieux Nid."
+    ],
+    "Scieurs.": [
+      "Cavin Louis. R T",
+      "Stücky Alfred."
+    ],
+    "Sociétés.": [
+      "De fromagerie. R",
+      "Militaire de Ropraz. R",
+      "De tir aux Armes de guerre",
+      "De chant, Chœur mixte, l'Aurore de Ropraz."
+    ],
+    "Téléphoniste.": [
+      "Gilliéron Gustave."
+    ]
+  },
+  "SERVION": {
+    "Autorités communales.": [
+      "George Paul",
+      "Pache Frédéric",
+      "Pache Adolphe",
+      "Devaud Henri",
+      "George Louis",
+      "George Henri",
+      "Gilliéron Daniel",
+      "Pache Constant",
+      "Destraz Charles",
+      "Gilliéron Louis",
+      "Destraz Charles"
+    ],
+    "Agriculteurs.": [
+      "Colomb Paul",
+      "Charmey Eugène",
+      "Delessert Auguste",
+      "Devaud Louis",
+      "Devaud Henri",
+      "Devaud Emile",
+      "Favez Elisa",
+      "Fawer Louis",
+      "George Henri",
+      "George Paul",
+      "Gilliéron Jules",
+      "Gilliéron-Parisod",
+      "Gilliéron Louis",
+      "Gilliéron, veuve",
+      "Jaquier Alexis",
+      "Jordan Victor",
+      "Pasche Constant",
+      "Pasche, député",
+      "Pasche-Emery",
+      "Pouly Henri"
+    ],
+    "Apiculteur.": [
+      "Colomb Paul"
+    ],
+    "Aubergistes.": [
+      "Pasche Adolphe. R T",
+      "Pasche Constant. R."
+    ],
+    "Boulangerie.": [
+      "Cordey E."
+    ],
+    "Bois (march. de).": [
+      "Pasche Constant. R."
+    ],
+    "Charpentiers.": [
+      "Gilliéron David",
+      "Gilliéron Ernest."
+    ],
+    "Chef de section.": [
+      "George Ulysse."
+    ],
+    "Commission scolaire.": [
+      "Béranger Emile",
+      "Devaud Henri",
+      "Collomb Jean."
+    ],
+    "Cordonniers.": [
+      "Burgdorfer Jacob",
+      "Grütter Jacob."
+    ],
+    "Entrepreneurs-carriers.": [
+      "Devaud Louis",
+      "Devaud Emile",
+      "Senn Ulysse."
+    ],
+    "Epicerie, mercerie.": [
+      "Jaquier Louis. R."
+    ],
+    "Inspecteur du bétail.": [
+      "Jaquier Louis."
+    ],
+    "Instituteurs.": [
+      "Lang Hermann",
+      "Lang Jeanne",
+      "Delessert F., institut. émérite."
+    ],
+    "Maçon.": [
+      "Maury Louis."
+    ],
+    "Menuisiers.": [
+      "Lagnaz Louis",
+      "Pasche Louis."
+    ],
+    "Poste.": [
+      "Pasche Adolphe."
+    ],
+    "Relieur.": [
+      "Delessert P.-F."
+    ],
+    "Scierie.": [
+      "George Henri & fils."
+    ],
+    "Sociétés.": [
+      "Immobilière de laiterie et fromagerie. R",
+      "Militaire de Servion et Ferlens. R",
+      "D'assurance du bétail",
+      "De tir aux Armes de guerre."
+    ],
+    "Tailleurs de pierres.": [
+      "Devaud Louis",
+      "Devaud Emile",
+      "Maury Alexis",
+      "Maury Louis",
+      "Senn Ulysse",
+      "Léchaire & fils."
+    ],
+    "Téléphoniste.": [
+      "Pasche Adolphe."
+    ],
+    "Tisserand.": [
+      "Gilliéron Eugène."
+    ]
+  },
+  "LES TAVERNES": {
+    "Autorités communales.": [
+      "Rossier Charles",
+      "Delisle Jules",
+      "Manigley Henri",
+      "Jan Henri",
+      "Pasche Samuel",
+      "Leyvraz Victor",
+      "Sonnay Louis",
+      "Rogivue Charles",
+      "Sonnay Paul"
+    ],
+    "Agriculteurs.": [
+      "Chapuis Paul",
+      "Delisle Georges",
+      "Jan Henri",
+      "Jan Frédéric",
+      "Manigley Henri",
+      "Pasche Samuel",
+      "Rogivue Gabriel",
+      "Rogivue-Jan Pierre",
+      "Rogivue, hoirie de Louis",
+      "Rossier Samuel",
+      "Rossier Jean-Louis",
+      "Sonnay Charles",
+      "Sonnay frères, à la Dausaz",
+      "Sonnay frères, au Saley",
+      "Sonnay Louis."
+    ],
+    "Armurier.": [
+      "Sonnay Ch."
+    ],
+    "Carrière de grès dur.": [
+      "Sonnay Louis."
+    ],
+    "Commission scolaire.": [
+      "Manigley Henri",
+      "Delisle Jules."
+    ],
+    "Institutrice.": [
+      "Croset Berthe."
+    ],
+    "Laitier.": [
+      "Sonnay Jules."
+    ],
+    "Société.": [
+      "De laiterie. R."
+    ],
+    "Tonnelier.": [
+      "Sonnay L."
+    ],
+    "Usine.": [
+      "Moulin et scierie d'Haut-Crêt, Rogivue-Jan Pierre."
+    ]
+  },
+  "LES THIOLEYRES": {
+    "Autorités communales.": [
+      "Décosterd Edouard",
+      "Delisle Emile",
+      "Wulliamoz Alfred",
+      "Décosterd Henri",
+      "Décosterd Victor",
+      "Delisle Jules",
+      "Mounoud Jules",
+      "Rittener Eug.",
+      "Wulliamoz Jules"
+    ],
+    "Agriculteurs.": [
+      "Chappuis Albert",
+      "Chappuis Henri",
+      "Chaubert Henri",
+      "Chevalley Auguste",
+      "Chevalley Samuel",
+      "Décosterd Edouard",
+      "Décosterd François",
+      "Décosterd Henri",
+      "Décosterd Victor",
+      "Delisle Jules",
+      "Félix Aloïs",
+      "Mounoud Jules",
+      "Rittener Aimé",
+      "Rittener Eugène",
+      "Rittener Henri",
+      "Ruchonnet Eugène."
+    ],
+    "Café.": [
+      "Rittener Eugène."
+    ],
+    "Charcutiers.": [
+      "Wulliamoz Alfred."
+    ],
+    "Charpentiers.": [
+      "Volet Marc-Louis",
+      "Wulliamoz Henri."
+    ],
+    "Commission scolaire.": [
+      "Rittener Eug.",
+      "Chappuis Albert",
+      "Décosterd Victor."
+    ],
+    "Echelles (march. d').": [
+      "Décosterd Charles."
+    ],
+    "Inspecteur du bétail.": [
+      "Rittener Eugène."
+    ],
+    "Instituteur.": [
+      "Marcuard Marius."
+    ]
+  }
+}

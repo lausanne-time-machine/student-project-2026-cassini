@@ -1,0 +1,262 @@
+{
+  "GILLY": {
+    "Municipaux": [
+      "Delapierre Henri",
+      "Suardet Jules",
+      "Michon Charles",
+      "Schumacher Adolphe"
+    ],
+    "Secrétaire": [
+      "Rosset Louis"
+    ],
+    "Boursier": [
+      "Maréchal Henri"
+    ],
+    "Agriculteurs": [
+      "Bettler Jules",
+      "Chardon Eugène",
+      "Cartier Ami",
+      "Cartier Gust.",
+      "Delafoge Em.",
+      "Gay Jules",
+      "Michon Charles",
+      "Michon François",
+      "Villard Louis",
+      "Guichard John",
+      "Henny Charles",
+      "Jacquier John",
+      "Monneyron L.",
+      "Pernet Charles",
+      "Ponnaz",
+      "Rojard Ch.",
+      "Rojard Henri",
+      "Rojard Louis",
+      "Delapierre Henri",
+      "Rolaz Ami",
+      "Rolaz François",
+      "Rolaz Henri",
+      "Rolaz Louis",
+      "Rosset Ed.",
+      "Reist Charles",
+      "Schumacher Adolphe",
+      "Schumacher Ernest",
+      "Pasche Eugène"
+    ],
+    "Apiculteurs": [
+      "Guignard Hippol.",
+      "Monneyron Louis",
+      "Pernet Charles",
+      "Zwahlen Edouard"
+    ],
+    "Auberges et cafés": [
+      "Fragnière Adolphe",
+      "Annen",
+      "Hauswirth Christian"
+    ],
+    "Boucher": [
+      "Imhof C."
+    ],
+    "Boulangers": [
+      "Bielser Walther",
+      "Pouly Héli"
+    ],
+    "Buraliste postal": [
+      "Billard Sophie"
+    ],
+    "Charpentier": [
+      "Fragnière-Chabloz Lucien"
+    ],
+    "Charron": [
+      "Badan Jules"
+    ],
+    "Chef de section": [
+      "Billard Samuel"
+    ],
+    "Commission scolaire": [
+      "Peter",
+      "Quiblier Fs",
+      "Pernet Henri"
+    ],
+    "Cordonniers": [
+      "Moësching Jaques",
+      "Muller Auguste"
+    ],
+    "Electriciens": [
+      "Forces de Joux et de l'Orbe"
+    ],
+    "Epicerie": [
+      "Demaurex Paul",
+      "Maréchal Henri"
+    ],
+    "Huilerie": [
+      "Ponnaz"
+    ],
+    "Inspecteur du bétail": [
+      "Schumacher Adolphe"
+    ],
+    "Instituteurs": [
+      "Zwahlen Edouard",
+      "Quiblier Louise",
+      "Bielser Marguerite"
+    ],
+    "Jardiniers": [
+      "Bally Georges",
+      "Duruz Auguste",
+      "Guichard Jules",
+      "Praëtorius William"
+    ],
+    "Justice de paix": [
+      "Parmelin Ed.",
+      "Delafoge Emile",
+      "Rossier Louis",
+      "Rolaz Henri",
+      "Merminod Julien",
+      "Menthonnex Daniel"
+    ],
+    "Laitier": [
+      "Société coopérative, Genève"
+    ],
+    "Maréchal": [
+      "Bessat Gustave"
+    ],
+    "Officier d'état-civil": [
+      "Cartier Auguste"
+    ],
+    "Régisseur": [
+      "Cartier Auguste"
+    ],
+    "Rentiers": [
+      "de Lessert Gaston",
+      "de Westerweller Ludwig, Vve",
+      "Picot Ernest",
+      "Vaucher E."
+    ],
+    "Sage-femme": [
+      "Rosset Adèle"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "De la machine à battre",
+      "Syndicat agricole"
+    ],
+    "Télégraphiste": [
+      "Billard Sophie"
+    ],
+    "Téléphone": [
+      "Auberge de Commune"
+    ],
+    "Tonnelier": [
+      "Bielser Jaques"
+    ],
+    "Vignerons": [
+      "Croisier Auguste",
+      "Francfort Julien",
+      "Jorand Adr.",
+      "Nicollier Gustave",
+      "Ostermann L.",
+      "Quiblier Samuel",
+      "Quiblier François",
+      "Suardet Jules"
+    ]
+  },
+  "LUINS": {
+    "Autorités communales": [
+      "Bubloz Robert",
+      "Dutruy Julien",
+      "Bubloz Constant"
+    ],
+    "Municipaux": [
+      "Corthay Eugène",
+      "Sachot Jules",
+      "Varidel Aimé",
+      "Pernoud Jean"
+    ],
+    "Secrétaire": [
+      "Dutruy A."
+    ],
+    "Boursier": [
+      "Dutruy Julien"
+    ],
+    "Apiculteur": [
+      "Coindet Jules-Franç."
+    ],
+    "Agriculteurs": [
+      "Bubloz Constant",
+      "Burnet, Vve",
+      "Cornaz Hector",
+      "Dutruy Albert",
+      "Dutruy Ernest",
+      "Dutruy Julien",
+      "Pernoud Jean",
+      "Sordet Alfred",
+      "Varidel Aimé",
+      "Walther Auguste"
+    ],
+    "Café": [
+      "Fontolliet Alfred"
+    ],
+    "Commission scolaire": [
+      "Walther Ern.",
+      "Bubloz Constant",
+      "Dutruy Ern."
+    ],
+    "Dépositaire postal": [
+      "Dutruy Maria"
+    ],
+    "Epicerie": [
+      "Walther Fanny"
+    ],
+    "Inspecteur du bétail": [
+      "Dutruy Alb."
+    ],
+    "Instituteurs": [
+      "Durgnat Emile",
+      "Monod Elisa"
+    ],
+    "Maréchal": [
+      "Fontolliet Alfred"
+    ],
+    "Meunier": [
+      "Moulin agricole",
+      "Binggeli"
+    ],
+    "Rentière": [
+      "Sachot, Vve"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "Du Moulin agricole"
+    ],
+    "Téléphoniste": [
+      "Fontolliet Alfred"
+    ],
+    "Vignerons": [
+      "Corthay Eugène",
+      "Delessert Léon",
+      "Girard Emile",
+      "Noll Christ.",
+      "Polencent Louis",
+      "Rebet Bernard",
+      "Vez Samuel"
+    ]
+  },
+  "MONT-LE-GRAND": {
+    "Autorités communales": [
+      "Chardon Aug.",
+      "Monnard John",
+      "Monnard Ernest"
+    ],
+    "Municipaux": [
+      "Renaud Alfred",
+      "de Meuron Max",
+      "Jorand Ernest",
+      "Monnard Ulrich"
+    ],
+    "Secrétaire": [
+      "Gallav Fritz"
+    ],
+    "Boursier": [
+      "Gallay Eug."
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "PROVENCE": {
+    "Lingères": [
+      "Costa, Fortunée",
+      "Jeanmonod, Fanny"
+    ],
+    "Maréchaux": [
+      "Favre, Alfred",
+      "Favre, Js."
+    ],
+    "Menuisiers": [
+      "Jeanmonod, Gustave",
+      "Vuillermet, Arnold"
+    ],
+    "Officier de l'état civil": [
+      "Favre, Eugène"
+    ],
+    "Pasteur": [
+      "Perrochon, Jean"
+    ],
+    "Pierristes": [
+      "Gattoliat, Auguste",
+      "Jeanmonod, Charles",
+      "Jeanmonod, Fridolin",
+      "Lombardot, Joseph-Césaire"
+    ],
+    "Poste": [
+      "Bolens, Georges"
+    ],
+    "Relieur": [
+      "Porret-Bolens, Louis"
+    ],
+    "Sage-femme": [
+      "Jeanmonod, Ida"
+    ],
+    "Serrurier": [
+      "Favre, Alfred"
+    ],
+    "Sociétés": [
+      "Société de fromagerie de la Nouvelle-Censière",
+      "Société de fromagerie"
+    ],
+    "Tailleurs de pierres": [
+      "Moulinari & Cie"
+    ],
+    "Tailleurs": [
+      "Martinet, Charles-Henri",
+      "Roulet, Jules"
+    ],
+    "Tailleuses": [
+      "Gaille-Jeanmonod, Fanny",
+      "Jeanmonod, Emilie",
+      "Jeanmonod, Lse",
+      "Roulet, Hélène"
+    ],
+    "Télégraphiste": [
+      "Vuillermet, Edouard"
+    ],
+    "Téléphoniste": [
+      "Jeanmonod-Gacond, Lucie"
+    ],
+    "Tisserands": [
+      "Fardel, Henri",
+      "Gattoliat, Auguste",
+      "Gattoliat, Louis-Ami",
+      "Guillaume, Henri"
+    ],
+    "Voituriers": [
+      "Gaille-Jeanmonod, Louis",
+      "Jeanmonod-Delay, Henri",
+      "Perrin, Benjamin"
+    ],
+    "Divers": [
+      "Favre, Charles",
+      "Favre, Louis-Alfred",
+      "Gaille-Allisson, Fritz",
+      "Maire, Léopold",
+      "Raymondaz, Auguste"
+    ]
+  },
+  "ROMAIRON": {
+    "Autorités communales": [
+      "Cochand, Pierre-Julien",
+      "Cochand, Louis",
+      "Cochand, Alphonse",
+      "Bettex, Numa",
+      "Cochand, Arthur",
+      "Duvoisin, Henri",
+      "Reverchon, Adrien"
+    ],
+    "Boisselier": [
+      "Duvoisin, Louis"
+    ],
+    "Horloger": [
+      "Schulé, Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Cochand, Alphonse"
+    ],
+    "Instituteur": [
+      "Reverchon, Adrien"
+    ]
+  },
+  "Ste-CROIX": {
+    "Autorités communales": [
+      "Junod, Constant",
+      "Campiche, Louis",
+      "Bornand, Oscar",
+      "Mermod, Numa",
+      "Jaccard, Eugène-Ami",
+      "Jaccard-Imhoff, Auguste",
+      "Besse, Gustave",
+      "Jaccard, Joseph",
+      "Recordon-Sulliger, Louis",
+      "Jaccard, Henri",
+      "Boursier, Campiche, Jules",
+      "Jaccard, Auguste"
+    ],
+    "Administrateur postal et télégraphiste": [
+      "Junod-Addor, Louis"
+    ],
+    "Afficheur et crieur public": [
+      "Jaccard, Auguste"
+    ],
+    "Agents d'affaires": [
+      "Margot, Louis"
+    ],
+    "Agent d'assurances": [
+      "Genevoise (la)",
+      "Jaquier, Eugène",
+      "New-York (la)",
+      "Bornand-Berthe",
+      "Suisse (la)",
+      "Campiche, Louis",
+      "Zurich (la)",
+      "Junod-Addor, Louis",
+      "Société suisse d'assurances générales sur la vie",
+      "Mermod, Georges"
+    ],
+    "Auberges et cafés": [
+      "Barbezat, Numa",
+      "Belet-Jaccard, Emile",
+      "Bongard, Athanase",
+      "Campiche, Charles",
+      "Chalet des Prés",
+      "Dutoit",
+      "Duc, Lucien",
+      "Jaccard-Junod, Ami",
+      "Cercle démocratique",
+      "Junod-Poget, Georges",
+      "Junod, Jules",
+      "Renaud-Vichet, veuve",
+      "Simon, Emile",
+      "Sueur, Charles"
+    ],
+    "Banques": [
+      "Banque cantonale vaudoise",
+      "Mutrux, F.-A.",
+      "Crédit Yverdonnois",
+      "Jaccard-Aubert, Arnold",
+      "Lambelet, Louis"
+    ],
+    "Bazars": [
+      "Addor-Lador, Louis",
+      "Bornand, Emma",
+      "Bornand, Anna & Cie"
+    ],
+    "Bières": [
+      "Addor-Lador",
+      "Cuendet, fils",
+      "Steinhof, Berthoud",
+      "Dépôt de la Brasserie du Cardinal"
+    ],
+    "Blancs pour musique (fabriques)": [
+      "Abrahams, Barnett-H. R. T.",
+      "Jaccard, Jules",
+      "Jaccard, Justin",
+      "Paillard & Cie",
+      "Mermod frères"
+    ],
+    "Bois (marchands)": [
+      "Jaccard-Kuntz",
+      "Margot frères",
+      "Margot, Louis",
+      "Clément",
+      "Margot, Jules",
+      "Jaccard-Perrier",
+      "Jaccard-Reymond, Ct.",
+      "Mutrux, Léon"
+    ],
+    "Boites à musique (fabricants)": [
+      "Abrahams, Barnett-H. R. T.",
+      "Berthe, John",
+      "Bornand-Perrier, Emile",
+      "Bornand-Hössli, Justin",
+      "Bornand, Virgile",
+      "Bornand frères",
+      "Campiche, Jules",
+      "Cuendet, Jules",
+      "Cuendet-Bachmann",
+      "Gueissaz fils & Cie",
+      "Jaccard frères",
+      "Jaccard, E. R.",
+      "Jaccard, Louis-Justin",
+      "Jaccard, Constant",
+      "Jaccard-Margot & Cie",
+      "Joseph, Arthur",
+      "Junod, Alfred",
+      "Junod frères",
+      "Lador, Adrien",
+      "Lecoultre, Eugène"
+    ]
+  }
+}

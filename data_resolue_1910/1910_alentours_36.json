@@ -1,0 +1,248 @@
+{
+  "Cotterd": {
+    "Blanchisseuse.": [
+      "Gentizon Julie"
+    ],
+    "Café.": [
+      "Besson Victor"
+    ],
+    "Epicerie, charcuterie.": [
+      "Besson Victor"
+    ],
+    "Instituteurs.": [
+      "Cuanillon Jaques",
+      "Paul-Porchet Sophie",
+      "Streit Eugénie"
+    ],
+    "Jardinier.": [
+      "Risold Jean"
+    ],
+    "Laitier.": [
+      "Schwartz Fritz"
+    ],
+    "Pasteur.": [
+      "Delisle Julien"
+    ],
+    "Société.": [
+      "Laiterie de Cotterd"
+    ]
+  },
+  "Sallavaux": {
+    "Auberges et cafés.": [
+      "Girard Louis",
+      "Loup Oscar"
+    ],
+    "Bouchers.": [
+      "Bloch Joseph",
+      "Stuky"
+    ],
+    "Boulanger.": [
+      "Grandjean Olivier"
+    ],
+    "Buraliste postal et télégraphiste.": [
+      "Wullième Bertha"
+    ],
+    "Distillerie.": [
+      "Société de distillerie du Vully"
+    ],
+    "Entrepreneurs.": [
+      "Baitotti Jacques",
+      "Zanoni & Ramella"
+    ],
+    "Epicerie.": [
+      "Ciocca Séverin",
+      "Domenighetti-Boldrini A.",
+      "Loup-Jordan Adrien",
+      "Wullième. Veuve."
+    ],
+    "Facteur.": [
+      "Wullième Jules"
+    ],
+    "Farines.": [
+      "Grandjean Olivier"
+    ],
+    "Ferblantier.": [
+      "Reich Gustave"
+    ],
+    "Fers et quincaillerie.": [
+      "Loup-Jordan Adrien"
+    ],
+    "Horticulteur.": [
+      "Gavillet Frédéric"
+    ],
+    "Maréchal.": [
+      "Gentizon Ernest"
+    ],
+    "Médecin.": [
+      "Tüscher Charles"
+    ],
+    "Meunerie.": [
+      "Usine agricole"
+    ]
+  },
+  "Vallamand-dessous": {
+    "Café.": [
+      "Enz Edouard"
+    ],
+    "Charpentier.": [
+      "Ellen Alfred",
+      "Liniger Alfred"
+    ],
+    "Machine à battre et scie.": [
+      "Liniger Alfred"
+    ],
+    "Pêcheurs.": [
+      "Treyvaud Jules",
+      "Treyvaud Paul"
+    ],
+    "Divers.": [
+      "Bessard Arnold.",
+      "Bessard Georges",
+      "Bessard Olivier",
+      "Löniger Edouard",
+      "Joss Jean",
+      "Le Roy d'Amigny",
+      "Marcuard Alph.",
+      "Tombez Alfred"
+    ]
+  },
+  "CHABREY": {
+    "Autorités communales.": [
+      "Vessaz Daniel",
+      "Christinat Ernest"
+    ],
+    "Syndic.": [
+      "Vessaz Jean-Louis"
+    ],
+    "Municipaux.": [
+      "Christinat Fréd.",
+      "Vessaz Henri",
+      "Vessaz Samuel",
+      "Vessaz Antoine"
+    ],
+    "Secrétaire municipal.": [
+      "Vessaz L.-Fred."
+    ],
+    "Boursier.": [
+      "Vessaz Samuel"
+    ],
+    "Huissier.": [
+      "Christinat Jean-Henri"
+    ],
+    "Agriculteurs.": [
+      "Christinat Abram-Victor",
+      "Christinat Constant",
+      "Christinat Marthe",
+      "Chuard Albert",
+      "Vessaz Jules",
+      "Vessaz Susanne"
+    ],
+    "Aubergiste.": [
+      "Jaquenod Jules"
+    ],
+    "Charrons.": [
+      "Vessaz Paul",
+      "Weber Frédéric"
+    ],
+    "Commission scolaire.": [
+      "Christinat Henri",
+      "Favez Emile",
+      "Vessaz Louis-Fréd."
+    ],
+    "Epicerie, mercerie et tabacs.": [
+      "Christinat Auguste"
+    ],
+    "Instituteur.": [
+      "Echenard Robert"
+    ],
+    "Inspecteur du bétail.": [
+      "Christinat Jean-Frédéric"
+    ],
+    "Maréchal.": [
+      "Bula Abram"
+    ],
+    "Poste.": [
+      "Christinat Auguste"
+    ],
+    "Sage femme.": [
+      "Blanc Marie"
+    ],
+    "Société.": [
+      "De laiterie"
+    ],
+    "Tailleuses.": [
+      "Marti Anna",
+      "Walther Caroline"
+    ],
+    "Téléphoniste.": [
+      "Christinat Auguste"
+    ]
+  },
+  "CHAMPMARTIN": {
+    "Autorités communales.": [
+      "Milliet Henri",
+      "Tannaz Georges"
+    ],
+    "Syndic.": [
+      "Treyvaud Constant"
+    ],
+    "Municipaux.": [
+      "Beck Henri",
+      "Tannaz Georges"
+    ],
+    "Secrétaire.": [
+      "Milliet Henri"
+    ],
+    "Agriculteurs.": [
+      "Beck Jean",
+      "Beck Louise",
+      "Beck Elise",
+      "Bhoner Fritz",
+      "Chuard Eugène",
+      "Milliet Henri",
+      "Tannaz Georges",
+      "Treyvaud Constant"
+    ],
+    "Inspecteur du bétail.": [
+      "Beck Henri"
+    ],
+    "Rentière.": [
+      "Tannaz Sophie"
+    ]
+  },
+  "CONSTANTINE": {
+    "Autorité communales.": [
+      "Gentizon-Bessard Henri",
+      "Gentizon-Loup Jules"
+    ],
+    "Syndic.": [
+      "Gentizon Auguste"
+    ],
+    "Municipaux.": [
+      "Cuanillon Alfred",
+      "Gentizon Léon",
+      "Bessat Jules",
+      "Bessat Jean"
+    ],
+    "Secrétaire municipal.": [
+      "Cuanillon Henri"
+    ],
+    "Huissier.": [
+      "Monney Alexis"
+    ],
+    "Boursier.": [
+      "Gentizon Charles"
+    ],
+    "Agriculteurs.": [
+      "Bessat Jean",
+      "Cauderay Emile",
+      "Coinchon Edouard",
+      "Gentizon Edouard",
+      "Gentizon, hoirs de Jaques",
+      "Girard Eugène",
+      "Küng François",
+      "Parisod Aimé-Louis",
+      "Schmidt Fréd."
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "SULLENS": {
+    "Agriculteurs": [
+      "rard Jules",
+      "Chevalley Gustave",
+      "Demont Julie",
+      "Dubauloz Ami. T.",
+      "Dubauloz Chs",
+      "Dubauloz Gve",
+      "Dubrit Charles",
+      "Gachet Jules",
+      "Guex frères",
+      "Kohli Hermann",
+      "Laurent Charles",
+      "Martinet Louis",
+      "Ramuz Aimé",
+      "Rey René",
+      "Reymond, Vve de Louis",
+      "Séchaud David",
+      "Séchaud Gustave",
+      "Séchaud Samuel",
+      "Simond Georges",
+      "Simond Henri",
+      "Vullioud Robert"
+    ],
+    "Apiculteur": [
+      "Séchaud Max"
+    ],
+    "Appareilleur": [
+      "Séchaud François"
+    ],
+    "Assurance-vieillesse": [
+      "Pasche Louis"
+    ],
+    "Bouchers": [
+      "Hoffer Paul",
+      "Kohler Fritz"
+    ],
+    "Boulanger": [
+      "Miéville Marcel"
+    ],
+    "Cafés": [
+      "Dubauloz Gustave",
+      "Dubrit Charles"
+    ],
+    "Cercueils": [
+      "Brandt Camille"
+    ],
+    "Charron": [
+      "Brandt Camille"
+    ],
+    "Cordonnier": [
+      "Heller Arnold"
+    ],
+    "Couturières": [
+      "Badan Elisabeth",
+      "Ramuz Bertha"
+    ],
+    "Entrepreneur": [
+      "Bariatti Charles"
+    ],
+    "Epiceries": [
+      "Dubrit Ch.",
+      "Hoffer Paul"
+    ],
+    "Laiterie": [
+      "Laiterie agricole"
+    ],
+    "Maréchal": [
+      "Fleurdelys Charles"
+    ],
+    "Menuisiers": [
+      "Matthieu Ami",
+      "Vuffray Roger"
+    ],
+    "Pompes funèbres du Nord": [
+      "Brandt Camille",
+      "Demond Maurice"
+    ],
+    "Sellier": [
+      "Pahud Henri"
+    ],
+    "Sociétés": [
+      "Sté de fromagerie"
+    ]
+  },
+  "SUSCEVAZ": {
+    "Syndic": [
+      "Décoppet Marius"
+    ],
+    "Secrétaire": [
+      "Décoppet Francis"
+    ],
+    "Boursier": [
+      "Vallotton G."
+    ],
+    "Huissier": [
+      "Marendaz Alfred"
+    ],
+    "Municipaux": [
+      "Charles Henri",
+      "Décoppet-Comte Louis",
+      "Décoppet Edmond",
+      "Décoppet Georges de Louis"
+    ],
+    "Assesseur": [
+      "Décoppet Adrien"
+    ],
+    "Cantonnier": [
+      "Marendaz Alfred"
+    ],
+    "Commandant du feu": [
+      "Décoppet Mar."
+    ],
+    "Commission scolaire": [
+      "Décoppet Adrien"
+    ],
+    "Garde forestier": [
+      "Junod Robert"
+    ],
+    "Inspecteur du bétail": [
+      "Comte Emile"
+    ],
+    "Institutrice": [
+      "Rüegger Bertha"
+    ],
+    "Pasteur": [
+      "Rod Jules"
+    ],
+    "Poste et télégraphe": [
+      "Turrin Alice"
+    ],
+    "Téléphone": [
+      "Delessert Marie"
+    ],
+    "Agriculteurs-vignerons": [
+      "Charles Hr",
+      "Comte Emile",
+      "Décoppet-Comte Louis",
+      "Décoppet frères",
+      "Décoppet-Gagnaux Jules",
+      "Décoppet Marius",
+      "Hanggi J. T.",
+      "Hurni Fritz",
+      "Pitton William",
+      "Tharin Albert",
+      "Tharin Charles",
+      "Turin Jules",
+      "Steiner Ernest",
+      "Widmer Ami",
+      "Widmer Robert"
+    ],
+    "Assurance - vieillesse": [
+      "Ruegger B."
+    ],
+    "Epicerie": [
+      "Pilloud Amélie, Vve"
+    ],
+    "Sociétés": [
+      "Sté de laiterie",
+      "Sté de tir aux armes de guerre"
+    ],
+    "Vignerons": [
+      "Décoppet Adrien",
+      "Décoppet Jules de Jules",
+      "Décoppet Alice",
+      "Décoppet frères",
+      "Pitton William",
+      "Turin Alice",
+      "Turin Henriette"
+    ]
+  },
+  "SYENS": {
+    "Syndic": [
+      "Jaquiéry Eugène"
+    ],
+    "Secrétaire": [
+      "Mottaz Louis"
+    ],
+    "Boursier": [
+      "Dumartherey Henri"
+    ],
+    "Huissier": [
+      "Métraux Henri"
+    ],
+    "Municipaux": [
+      "Crausaz Héli",
+      "Knuchel Hermann",
+      "Monge David",
+      "Peytregnet Constant"
+    ],
+    "Assesseur": [
+      "Peytregnet Constant"
+    ],
+    "Commission scolaire": [
+      "Rod Jules"
+    ],
+    "Garde-forestier": [
+      "Porchet Elie"
+    ],
+    "Inspecteur du bétail": [
+      "Crausaz Héli"
+    ],
+    "Instituteurs": [
+      "Jacquerod Georges",
+      "Mottaz-Binggeli Rose"
+    ],
+    "Pasteur": [
+      "Rod Jules"
+    ],
+    "Poste et télégraphe": [
+      "Mottaz Ida"
+    ],
+    "Agriculteurs": [
+      "Cavin Emile",
+      "Crausaz Héli",
+      "Duc William",
+      "Jaques Louis",
+      "Jaquiéry Eug.",
+      "Johner Jacob",
+      "Knuchel frères",
+      "Messer Hans",
+      "Métraux frères",
+      "Mottaz Louis feu Pierre",
+      "Mottaz Louis feu Aimé"
+    ],
+    "Apiculteur": [
+      "Duc William"
+    ],
+    "Assurance-vieillesse": [
+      "Jaquerod G."
+    ],
+    "Cordonnier": [
+      "Monge David"
+    ],
+    "Couturières": [
+      "Mottaz-Binggeli Rose",
+      "Pfister-Crausaz Berthe"
+    ],
+    "Epicerie": [
+      "Mottaz-Duc Vve"
+    ],
+    "Laitier": [
+      "Balimann Adolphe"
+    ],
+    "Meunier": [
+      "Ballif Arthur",
+      "Mottaz Héli"
+    ],
+    "Pompes funèbres du Nord": [
+      "Monge David"
+    ],
+    "Sociétés": [
+      "Abbaye de Syens et Rossenges",
+      "Sté de fromagerie"
+    ]
+  },
+  "TANNAY": {
+    "Syndic": [
+      "Semoroz Ami"
+    ],
+    "Secrétaire": [
+      "Bâtard Henri"
+    ],
+    "Boursier": [
+      "Olivet René"
+    ],
+    "Huissier": [
+      "Rolaz Jules"
+    ],
+    "Municipaux": [
+      "Baud Samuel",
+      "Duvillard Jean",
+      "Gouffon Jules",
+      "Jeanloz Oswald"
+    ],
+    "Cantonnier": [
+      "Baudin Robert"
+    ],
+    "Commission scolaire": [
+      "Meylan Olivier"
+    ],
+    "Inspecteur du bétail": [
+      "Baud Samuel"
+    ],
+    "Inspecteur des viandes": [
+      "Jeanloz Osw."
+    ],
+    "Police (agent de)": [
+      "Rolaz Jules"
+    ],
+    "Téléphone": [
+      "Hôtel du Lion d'Or"
+    ],
+    "Agriculteurs": [
+      "Baud Samuel",
+      "Cottier Albert",
+      "Hermanjat John",
+      "Hutin Louis",
+      "Gouffon Jules",
+      "Jeanloz Oswald",
+      "Mühlemann Ern.",
+      "Perrottet Emile",
+      "Rossit Françoise, Vve",
+      "Sauty Marcel",
+      "Semoroz Ami",
+      "Zürcher Hans"
+    ],
+    "Architecte": [
+      "Duvillard Jean"
+    ],
+    "Assurance-vieillesse": [
+      "Gaud G."
+    ],
+    "Café": [
+      "Hutin Emile"
+    ],
+    "Couturières": [
+      "Henry Alice",
+      "Merbecks Louise"
+    ],
+    "Entrepreneurs": [
+      "Simond frères"
+    ],
+    "Epicerie": [
+      "Perrottet Hortense"
+    ],
+    "Jardinier": [
+      "Semoroz Ami"
+    ],
+    "Laitier": [
+      "Sahli Henri"
+    ],
+    "Machines agricoles": [
+      "Hermanjat J. T."
+    ],
+    "Mécanicien": [
+      "Dutoit Louis"
+    ],
+    "Menuisier": [
+      "Kaltenrieder Frédéric"
+    ],
+    "Pension-tea-room": [
+      "Au Gai Logis"
+    ],
+    "Travaux avec tracteur": [
+      "Munier Paul"
+    ],
+    "Vignerons": [
+      "Baud Samuel",
+      "Cottier Albert",
+      "Gouffon Jules",
+      "Hermanjat John",
+      "Jeanloz Oswald",
+      "Leuba Charles",
+      "Sauty Marcel"
+    ],
+    "Divers": [
+      "Bory Adèle",
+      "Buffat Alphonse",
+      "Cottier Louisa",
+      "Dubois Alf.",
+      "Duckert R.",
+      "Duvillard Alice",
+      "Duvillard Juliette",
+      "Garin Honorine",
+      "Godard Georges",
+      "Jacques John",
+      "Jan-du Chêne Edouard",
+      "Leuba Charles",
+      "Longchamp Berthe",
+      "Mugnier Paul"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "LAUSANNE": {
+    "ASCENSEURS": [
+      "L. Flesch",
+      "Gaillard E.",
+      "Pelet Marc"
+    ],
+    "ASPHALTE": [
+      "Pavesi Louis",
+      "Rosso & Schneebeli"
+    ],
+    "ASSORTIMENTS (maisons d').": [
+      "A l'Innovation",
+      "Grosch & Greiff"
+    ],
+    "ASSURANCES (Agents et inspecteurs) Sur la vie.": [
+      "Ancre (L')",
+      "Bâloise (la), de Bâle",
+      "Caisse paternelle-vie, de Paris",
+      "Compagnie d'assurances générales sur la vie, de Paris",
+      "Confiance (la)",
+      "Foncière (la)",
+      "Genevoise (la)",
+      "Germania (la)",
+      "Gotha (la), Banque mutuelle d'assurance sur la vie",
+      "Graf Ulysse",
+      "Norwich Union",
+      "Patria",
+      "Patria Société mutuelle suisse à Bâle",
+      "Phénix (le)",
+      "Providence (la)"
+    ]
+  }
+}

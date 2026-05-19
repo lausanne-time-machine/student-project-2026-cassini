@@ -1,0 +1,265 @@
+{
+  "GRANDVAUX": {
+    "Vignerons": [
+      "fils",
+      "Dufour Emile",
+      "Echenard Jles. Nagelin",
+      "Guillard H."
+    ],
+    "Volailles": [
+      "Haller Adolphe",
+      "Rossi-Décaillet, dame"
+    ]
+  },
+  "Les Plans-sur-Bex": {
+    "Bazars": [
+      "Croset-Gay E.",
+      "Ravy Lse."
+    ],
+    "Blanchisseries": [
+      "Croset Victor, dame",
+      "Grept, dame",
+      "Veillon P., dame"
+    ],
+    "Boulangerie": [
+      "Veillon César"
+    ],
+    "Café": [
+      "Cottier Hri,"
+    ],
+    "Charpentier": [
+      "Croset-Gay E."
+    ],
+    "Cordonnier": [
+      "Veillon Charles, fils"
+    ],
+    "Epicerie": [
+      "Croset-Gay E.",
+      "Ravy Louise",
+      "Veillon César"
+    ],
+    "Guides patentés": [
+      "Bernard Phil.",
+      "Cherix Félix",
+      "Marlétaz Pierre",
+      "Moreillon-Devenoge",
+      "Veillon Ch.",
+      "Veillon Félix",
+      "Veillon Adrien"
+    ],
+    "Hôtels-pensions": [
+      "Pension Marlétaz",
+      "Marlétaz Fr."
+    ],
+    "Instituteur": [
+      "Zahner William"
+    ],
+    "Lingère": [
+      "Tanner Eva, dame"
+    ],
+    "Poste et télégraphe": [
+      "Moreillon-Ravy, dame"
+    ],
+    "Scierie": [
+      "Marlétaz François"
+    ],
+    "Sociétés": [
+      "Société de la Chapelle",
+      "Société de la Chapelle catholique",
+      "Société d'intérêt public",
+      "Société de chant «Echo du Muveran»",
+      "Chœur d'hommes"
+    ],
+    "Voituriers": [
+      "Morerod-Croset Félix",
+      "Morerod-Moreillon Ph."
+    ]
+  },
+  "CHESSEL": {
+    "Président du Conseil général": [
+      "Dupertuis Marc"
+    ],
+    "Secrétaire": [
+      "Maurer Ulysse",
+      "Deppen Louis"
+    ],
+    "Syndic": [
+      "Echenard Jules"
+    ],
+    "Municipaux": [
+      "Clément Eugène",
+      "Jordan Paul",
+      "Guillet Aloïs",
+      "Echenard Louis"
+    ],
+    "Boursier": [
+      "Dupertuis David"
+    ],
+    "Agriculteurs": [
+      "Clément Eugène",
+      "Deppen Gustave",
+      "Dupertuis David",
+      "Dupertuis Marc",
+      "Echenard Js",
+      "Guillet Aloïs",
+      "Hürni Jacob",
+      "Jordan Paul",
+      "Vernier Charles",
+      "Vernier Emile",
+      "Zürcher Henri"
+    ],
+    "Apiculteurs": [
+      "Clément Eug.",
+      "Vernier Louis"
+    ],
+    "Bois": [
+      "Echenard Charles"
+    ],
+    "Bureau de poste": [
+      "Deppen Louis"
+    ],
+    "Cafés": [
+      "Borgatta Madeleine",
+      "Vernier-Deluz Emile"
+    ],
+    "Commission scolaire": [
+      "Echenard Jules",
+      "Deppen Louis",
+      "Jordan Paul"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Vernier-Deluz Emile"
+    ],
+    "Inspecteur du bétail": [
+      "Deppen Louis"
+    ],
+    "Instituteurs": [
+      "Goy Victor",
+      "Goy Blanche"
+    ],
+    "Fruits et légumes": [
+      "Borgeaud Eugène",
+      "Echenard Jules",
+      "Grob Ed.",
+      "Guillet Aloïs",
+      "Noyer Louis"
+    ],
+    "Laiterie": [
+      "Deppen Auguste"
+    ],
+    "Pépiniériste": [
+      "Echenard Charles"
+    ],
+    "Porcherie": [
+      "Wolf, hoirie"
+    ],
+    "Téléphone": [
+      "Vernier-Deluz Emile"
+    ],
+    "Volailles": [
+      "Dumuse Paul"
+    ]
+  },
+  "CORBEYRIER": {
+    "Président du Conseil général": [
+      "Dubuis Alfred"
+    ],
+    "Secrétaire": [
+      "Zanetta Aug.",
+      "Leyvraz Paul"
+    ],
+    "Syndic": [
+      "Bournoud Henri"
+    ],
+    "Municipaux": [
+      "Delacrétaz Robert",
+      "Bournoud Adolphe",
+      "Zanetta Ed.",
+      "Sauge Philippe, fils"
+    ],
+    "Boursier": [
+      "Dubuis Alfred"
+    ],
+    "Huissier": [
+      "Bournoud Ernest"
+    ],
+    "Agriculteurs": [
+      "Ansermoz Eugène",
+      "Bertholet Alexis",
+      "Bonzon Louis",
+      "Bonzon François",
+      "Borloz Alphonse",
+      "Borloz Constant",
+      "Borloz-Sauge Henriette",
+      "Boven Auguste",
+      "Bournoud Henri",
+      "Bournoud Auguste",
+      "Dubuis Alfred",
+      "Leyvraz Numa",
+      "Leyvraz Paul",
+      "Navioz Frédéric",
+      "Nicollier Robert",
+      "Pollen Oscar"
+    ],
+    "Appareilleur": [
+      "Cropt Henri"
+    ],
+    "Blanchisseries": [
+      "Cropt Emilie",
+      "Sauge Eugénie"
+    ],
+    "Boulanger": [
+      "Bertholet Henri"
+    ],
+    "Cafés": [
+      "Bournoud Adolphe",
+      "Piasio Antoine"
+    ],
+    "Chalets à louer": [
+      "Chalet Pelfini-Blanc",
+      "Chalet Chambaud",
+      "Chalet Rouge",
+      "Chalet des Gentianes, Leyvraz Hri",
+      "Chalet de la Forêt, Lambert H.",
+      "Chalet du Dr Tidey-Stuart",
+      "Chalet Fuhrer Ch.",
+      "Chalet des Fougères, Michaud D.",
+      "Chalet Tour d'Aï, Leyvraz P.",
+      "Chal. l'Oasis, Blanc M."
+    ],
+    "Commission scolaire": [
+      "Leyvraz Paul",
+      "Bournoud Ernest",
+      "Mlle Pautry"
+    ],
+    "Epicerie, tabacs": [
+      "Bertholet Henri",
+      "Bertholet-Paris Aline"
+    ],
+    "Fruits et légumes": [
+      "Bonin Gustave"
+    ],
+    "Inspecteur du bétail": [
+      "Zehender Léon",
+      "Paris H."
+    ],
+    "Instituteurs": [
+      "Francfort Ernest",
+      "Dubuis Ida"
+    ],
+    "Lingère": [
+      "Grosjean Fanny"
+    ],
+    "Maçon": [
+      "Leyvraz Numa"
+    ],
+    "Menuisiers": [
+      "Zanetta Edouard",
+      "Warpelin Marc"
+    ],
+    "Pensions d'étrangers": [
+      "Hôtel Victoria, Dennis A.",
+      "Pension Du-"
+    ]
+  }
+}

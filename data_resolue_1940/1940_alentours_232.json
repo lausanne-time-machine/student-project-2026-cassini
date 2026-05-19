@@ -1,0 +1,341 @@
+{
+  "PROVENCE": {
+    "Agriculteurs": [
+      "Perrin Gustave",
+      "Perrin Alphonse",
+      "Perrin Germain",
+      "Perrin Eugène",
+      "Vuillermet Alf.",
+      "Vuillermet Marcel",
+      "Vuillermet Albert",
+      "Bolens Aug.",
+      "Favre Fernand",
+      "Jeanmonod Eugène"
+    ],
+    "Auto-transports": [
+      "Favre Eugène"
+    ],
+    "Assurance-vieille": [
+      "Mutualité scolaire de retraite",
+      "Merminod W.",
+      "Société mutualiste de retraite",
+      "Perrin Eug."
+    ],
+    "Bois (march. de)": [
+      "Delay Alfr.",
+      "Jeanmonod Philippe"
+    ],
+    "Boulanger": [
+      "Delay Oswald"
+    ],
+    "Cafés": [
+      "Favre Henri",
+      "Frey Pierre",
+      "Guillaume frères"
+    ],
+    "Charpentiers": [
+      "Favre Justin",
+      "Vuillermet Edouard"
+    ],
+    "Charron": [
+      "Favre Gustave"
+    ],
+    "Cordonnier": [
+      "Vuillermet Jean"
+    ],
+    "Couturière": [
+      "Favre-Porret Louise"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Delay-Bolens Berthe",
+      "Delay Osw.",
+      "Jeanmonod-Delay Gustave",
+      "Jeanmonod Ruth",
+      "Vuillermet Eugène"
+    ],
+    "Ferblantier-couvreur": [
+      "Favre Am."
+    ],
+    "Laiterie": [
+      "Simon"
+    ],
+    "Maçons": [
+      "Jeanmonod Armand",
+      "Morandi César",
+      "Morandi Adolphe"
+    ],
+    "Maréchal": [
+      "Favre Ernest"
+    ],
+    "Menuisier": [
+      "Vuillermet Edouard"
+    ],
+    "Pension d'enfants": [
+      "Uberti E."
+    ],
+    "Pompes funèbres du Nord": [
+      "Pompes funèbres du Nord",
+      "Gatolliat Gust."
+    ],
+    "Relieur": [
+      "Jeanmonod Eugène"
+    ],
+    "Sage-femme": [
+      "Favre Hélène"
+    ],
+    "Sociétés": [
+      "Section de la Croix-Bleue",
+      "Sté de fromagerie de la Nouvelle-Censière",
+      "Sté de laiterie de Provence",
+      "Sté du battoir",
+      "Sté d'alpage Le Mont"
+    ],
+    "Voituriers": [
+      "Bolens Jules",
+      "Gacond Albert",
+      "Gaille Albert"
+    ],
+    "Divers": [
+      "Maillard Hri"
+    ]
+  },
+  "PUIDOUX": {
+    "Syndic": [
+      "Desgraz Georges"
+    ],
+    "Secrétaire": [
+      "Chappuis Jean"
+    ],
+    "Boursier": [
+      "Chevalley Paul"
+    ],
+    "Huissier": [
+      "Leyvraz F."
+    ],
+    "Municipaux": [
+      "Bron Victor",
+      "Chevalley Ernest",
+      "Chevalley Victor",
+      "Grandchamp Félix",
+      "Penard Aloïs",
+      "Chappuis Emile"
+    ],
+    "Assesseur": [
+      "Cossy Edouard"
+    ],
+    "Chef de gare": [
+      "Champion Eugène"
+    ],
+    "Chef de section": [
+      "Magnenat"
+    ],
+    "Command. du feu": [
+      "Gilliéron Robert"
+    ],
+    "Commission scolaire": [
+      "Chevalley Aloïs"
+    ],
+    "Contrôleur du lait": [
+      "Chappuis Paul"
+    ],
+    "Garde forestier": [
+      "Testuz Henri"
+    ],
+    "Gare C. F. F. (chef de)": [
+      "Champion Eugène"
+    ],
+    "Gendarmerie (poste de)": [
+      "Magnenat"
+    ],
+    "Inspecteurs du bétail": [
+      "Chevalley Victor",
+      "Chevalley Paul",
+      "Jaunin Maurice"
+    ],
+    "Inspecteur des viandes": [
+      "Chappuis François"
+    ],
+    "Instituteurs": [
+      "Cornamusaz Henri",
+      "Ganty-Pahud Irène",
+      "Gilliard Alfred",
+      "Monnier Henriette",
+      "Schopfer Robert",
+      "Stehli-Porchet Louisa",
+      "Schopfer Mme"
+    ],
+    "Office de surveillance des distilleries": [
+      "Penard Aloïs"
+    ],
+    "Office local des blés": [
+      "Grandchamp Félix"
+    ],
+    "Poste et télégraphe": [
+      "Chappuis Jean"
+    ],
+    "Agriculteurs": [
+      "Barbey Charles",
+      "Bichowsky Maximilien",
+      "Bill Werner",
+      "Bill Robert",
+      "Blanc Samuel",
+      "Blanc Aloïs",
+      "Bornand Charles",
+      "Bourloud Louis",
+      "Bourloud André",
+      "Bovard Auguste",
+      "Bovy Georges",
+      "Bovy Alfred",
+      "Chappuis Jules",
+      "Chappuis Arthur",
+      "Chappuis Maurice",
+      "Chappuis Robert",
+      "Chappuis Pierre",
+      "Chappuis Aimé",
+      "Chappuis Louis",
+      "Chappuis Auguste",
+      "Chappuis Ami",
+      "Chappuis Emile",
+      "Chappuis Const.",
+      "Chappuis Em.",
+      "Chaubert Vve d'Ernest",
+      "Chevalley Ernest",
+      "Chevalley Ami",
+      "Chevalley Léon",
+      "Chevalley Aloïs",
+      "Chevalley Henri",
+      "Chevalley Louis",
+      "Chevalley Ernest",
+      "Chevalley Paul",
+      "Chevalley François",
+      "Chevalley Louis",
+      "Chevalley frères",
+      "Chevalley Henri",
+      "Chevalley Félix",
+      "Chevalley Adrien",
+      "Chevalley Willy",
+      "Chevalley René",
+      "Chevalley François",
+      "Chevalley Emile",
+      "Chevalley Alfred",
+      "Chevalley Roger",
+      "Chevalley Robert",
+      "Chevalley Ami-Louis",
+      "Chevalley Sam",
+      "Chollet Constant",
+      "Conne H.",
+      "Conne Alfred",
+      "Conne Robert",
+      "Cossy Edouard",
+      "Cossy Vve d'Adrien",
+      "Crausaz Robert",
+      "Crausaz Louis",
+      "Cuénoud Robert",
+      "Décombaz Chs",
+      "Décosterd Louis",
+      "Dégruffy Jules",
+      "Delafontaine Charles",
+      "Delisle félix",
+      "Dénéréaz Emile",
+      "Dénéréaz Henri",
+      "Dénéréaz Henri",
+      "Dénéréaz Louis",
+      "Desgraz Georges",
+      "Duconmun",
+      "Favez Maur.",
+      "Félix Aloys",
+      "Fonjallaz Fern.",
+      "Forney Lucien",
+      "Forney Louis",
+      "Gavin Ernest",
+      "Gilliéron Robert",
+      "Gilliéron Auguste",
+      "Gilliéron Emile",
+      "Grandchamp Adr.",
+      "Grandchamp Aloys",
+      "Heifer Emile",
+      "Herren Ernest",
+      "Hüggi J.",
+      "Imhof Robert",
+      "Jaunin Maurice",
+      "Jordan Jules",
+      "Jossevel Octave",
+      "Keller Ernest",
+      "Lambelet François",
+      "Lambelet Emile",
+      "Lambelet Emile",
+      "Lambelet Jean",
+      "Lambelet Vincent",
+      "Légeret Félix",
+      "Leyvraz Paul",
+      "Leyvraz Fritz",
+      "Leyvraz Gustave",
+      "Leyvraz Aloys",
+      "Leyvraz Benjamin",
+      "Leyvraz Jules",
+      "Leyvraz Oscar",
+      "Lavanchy Henri",
+      "Margairaz Lucie",
+      "Martin Alfred",
+      "Matti William",
+      "Matti Arnold",
+      "Meylan Constant",
+      "Miéville Emile",
+      "Murisier Henri",
+      "Paley Henri",
+      "Penard Aloys",
+      "Penard Samuel",
+      "Pidoux Herm.",
+      "Pilet Paul",
+      "Richard Marcel",
+      "Rogivue Gust.",
+      "Rogivue Francis",
+      "Schüpbach Paul",
+      "Schwizgebel Ernest",
+      "Stauffer Samuel",
+      "Trolliet Edouard",
+      "Vogt Emile",
+      "Weber Henri",
+      "Wohnrau Christ."
+    ],
+    "Ameublements": [
+      "Jan Adolphe"
+    ],
+    "Apiculteurs": [
+      "Chappuis Paul",
+      "Chevalley Roger"
+    ],
+    "Assurance-vieille": [
+      "Société mutualiste de retraite",
+      "Chappuis Jean"
+    ],
+    "Banque": [
+      "Crédit mutuel",
+      "Simonin A."
+    ],
+    "Bétail (march. de)": [
+      "Weber Henri"
+    ],
+    "Bois (march. de)": [
+      "Dénéréaz Emile",
+      "Leyvraz Benjamin",
+      "Leyvraz Fritz",
+      "Penard Aloïs"
+    ],
+    "Bouchers": [
+      "Maillard Eugène",
+      "Dupont Robert"
+    ],
+    "Boulangers": [
+      "Chaubert Herm.",
+      "Karlen Louis"
+    ],
+    "Cafés": [
+      "Chappuis Frs",
+      "Conod Benjamin",
+      "Gothuey Amédée",
+      "Reyrenn Ls",
+      "Robert André"
+    ]
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "FIEZ": {
+    "Menuisiers": [
+      "Porchet et Simon."
+    ],
+    "Pension": [
+      "Derron Samuel."
+    ],
+    "Pompes funèbres du Nord": [
+      "Fleuri"
+    ],
+    "Rentiers": [
+      "Gilliard Edmond. T.",
+      "Gilliard Elisa. T.",
+      "Patthey Caroline",
+      "Patthey Maurice",
+      "Quinche Ls",
+      "Taillefert Jules."
+    ],
+    "Scieurs": [
+      "Allisson Ed. & Cie. RT."
+    ],
+    "Sellier,tapissier": [
+      "Duvoisin Reynold."
+    ],
+    "Serrurier": [
+      "Jaccard Arthur."
+    ],
+    "Sociétés": [
+      "Sté d'agriculture",
+      "Patthey Robert",
+      "Sté de chant",
+      "Sté de laiterie",
+      "Sté de lir.",
+      "Troupe d'Eclaireurs."
+    ],
+    "Tailleurs": [
+      "Durussel-Quinche Aloys.",
+      "Maire Augusta."
+    ],
+    "Vétérinaire": [
+      "Roulet And."
+    ],
+    "Vignerons": [
+      "Berger Charles",
+      "Boulaz Jules."
+    ],
+    "Vins (march. de)": [
+      "Taillefert J."
+    ],
+    "Viticulteurs": [
+      "Boulaz Jules",
+      "Buhler Ls. T.",
+      "Gaillard Henriette",
+      "Gilliard Chs. T.",
+      "Hodel Edouard",
+      "Jeannin Henri",
+      "Maire Albert",
+      "Patthey Aloïs",
+      "Patthey François",
+      "Patthey Maurice",
+      "Porchet Constant",
+      "Quinche Emile",
+      "Taillefert Jules."
+    ],
+    "Voituriers": [
+      "Gaille William.",
+      "Gerbex Fernand."
+    ]
+  },
+  "FONTAINES": {
+    "Syndic": [
+      "Roulet André. T."
+    ],
+    "Secrétaire": [
+      "Roulet Edouard."
+    ],
+    "Boursier": [
+      "Duvoisin Ali."
+    ],
+    "Huissier": [
+      "Jaquemet Samuel."
+    ],
+    "Municipaux": [
+      "Chevalier Aloïs",
+      "Giroud Louis",
+      "Lang Eugène",
+      "Roulet Georges."
+    ],
+    "Command, du feu,": [
+      "Chevalier Aloïs."
+    ],
+    "Commission scolaire": [
+      "Roulet Louis",
+      "Roulet E.",
+      "Roulet Georges."
+    ],
+    "Inspecteur du bétail.": [
+      "Roulet Georges."
+    ],
+    "Inspecteur des viandes.": [
+      "Roulet A. T."
+    ],
+    "Instituteurs": [
+      "Pécoud René",
+      "Champod-End Marie"
+    ],
+    "Pasteur": [
+      "Patte Pierre"
+    ],
+    "Police (agent de)": [
+      "Muller André."
+    ],
+    "Poste et télégraphe": [
+      "Roulet Louis"
+    ],
+    "Agriculteurs": [
+      "Boulaz Em.",
+      "Boulaz, Vve de Sylv.",
+      "Chevalier Aloïs",
+      "Chevalier François",
+      "Chevalier Jules",
+      "Gruchaud Maurice, hoirie. T.",
+      "Duvoisin Edm.",
+      "Duvoisin Marcel",
+      "Duvoisin Louis",
+      "Guillaume Louis",
+      "Giroud L. T.",
+      "Guillet Adrien.. T.",
+      "Lang Jules",
+      "Perret Jean",
+      "Roulet Ed.",
+      "Roulet Georges",
+      "Lang Georges."
+    ],
+    "Amodiateurs": [
+      "Cruchaud Maur. hoirie.",
+      "Muller Emile."
+    ],
+    "Apiculteurs": [
+      "Charlet Alfred. T.",
+      "Giroud Louis.",
+      "Roulet Gaston.",
+      "Roulet Louis."
+    ],
+    "Assurance": [
+      "Charlet Alf. T."
+    ],
+    "Bétail (march. de)": [
+      "Guillet Adrien. T."
+    ],
+    "Cafés": [
+      "Giroud Louis",
+      "Roulet Marcel",
+      "Cercle des Agriculteurs. T."
+    ],
+    "Charpentiers-menuisiers": [
+      "Roulet Gaston.",
+      "Roulet Marcel."
+    ],
+    "Coiffeur": [
+      "Portmann Edouard."
+    ],
+    "Couturières": [
+      "Banderet Berthe",
+      "Jaquemet Suzanne."
+    ],
+    "Epicerie-mercerie": [
+      "Société coopérative de consommation",
+      "Jaquemet Berthe"
+    ],
+    "Laitier, fromages": [
+      "Muller Emile. R."
+    ],
+    "Maréchal-forgeron": [
+      "Banderet Maur."
+    ],
+    "Menuisier": [
+      "Roulet G."
+    ],
+    "Porcs (comm. de)": [
+      "Muller Emile."
+    ],
+    "Sage-femme": [
+      "Giroud Clémence."
+    ],
+    "Scierie": [
+      "Cruchaud Louis."
+    ],
+    "Sociétés": [
+      "Sté du Cercle des Agriculteurs. RT.",
+      "Sté de tir Les Armaillis.",
+      "Syndicat d'élevage. R.",
+      "Syndicat agricole. R."
+    ],
+    "Tailleur": [
+      "Portmann Edouard."
+    ],
+    "Vétérinaire": [
+      "Roulet André. T."
+    ],
+    "Vignerons (voir Agriculteurs)": [
+      "Charlet Alfred. T.",
+      "Charlet Georges.",
+      "Payot François."
+    ],
+    "Vins (comm. de)": [
+      "Charles Alfred. T.",
+      "Giroud Louis. T.",
+      "Roulet Ls. T."
+    ]
+  },
+  "FONTANEZIER": {
+    "Syndic": [
+      "Duvoisin Rob."
+    ],
+    "Secrétaire": [
+      "Chabloz René."
+    ],
+    "Boursier": [
+      "Perret Marcel."
+    ],
+    "Municipaux": [
+      "Duvoisin Fernand",
+      "Duvoisin Hermann",
+      "Duvoisin Maurice",
+      "Jaquemet Edouard."
+    ],
+    "Commandant du feu": [
+      "Duvoisin Sylv."
+    ],
+    "Commission scolaire": [
+      "Perret Marcel"
+    ],
+    "Commission de contrôle": [
+      "Gander Samuel"
+    ],
+    "Inspecteur du bétail": [
+      "Duvoisin Sylvain."
+    ],
+    "Inspecteur des viandes": [
+      "Duvoisin Sylvain."
+    ],
+    "Instituteurs": [
+      "Belet Marcel",
+      "Champod Yvonne."
+    ],
+    "Agriculteurs": [
+      "Chabloz René",
+      "Duvoisin Ali",
+      "Duvoisin Hermann",
+      "Duvoisin Jules",
+      "Duvoisin Maurice",
+      "Duvoisin Fernand",
+      "Duvoisin Robert",
+      "Duvoisin Sylvain",
+      "Favre Armand",
+      "Jaquemet Edouard",
+      "les Prés Jaquier",
+      "Perret Auguste",
+      "Perret Charles",
+      "Perret Henri",
+      "les Esserts",
+      "Perret Marcel",
+      "Schneider Louis."
+    ],
+    "Amodiateurs": [
+      "Duvoisin Maurice",
+      "Le Crosat",
+      "Perret Charles",
+      "La Pidouze."
+    ],
+    "Apiculteurs": [
+      "Aeschlimann Georges",
+      "Duvoisin Jean",
+      "Duvoisin-Perret Fernand."
+    ],
+    "Bûcherons": [
+      "Duvoisin Henri",
+      "Duvoisin Jean."
+    ],
+    "Café": [
+      "Chabloz René"
+    ],
+    "Epicerie-mercerie": [
+      "Duvoisin Jenny."
+    ],
+    "Horloger": [
+      "Aeschlimann Georges."
+    ],
+    "Pierriste": [
+      "Duvoisin Constant."
+    ],
+    "Rentier": [
+      "Aeschlimann Alexandre."
+    ],
+    "Vannerie (comm. de)": [
+      "Jaquemet Edouard",
+      "Perret Arthur",
+      "Perret Henri."
+    ]
+  },
+  "FOREL": {
+    "Député": [
+      "Delessert Henri."
+    ],
+    "Syndic": [
+      "Richard Const."
+    ],
+    "Secrétaire": [
+      "Crot Lucien."
+    ],
+    "Boursier": [
+      "Gilliéron Florian."
+    ],
+    "Huissier": [
+      "Noverraz Robert."
+    ],
+    "Municipaux": [
+      "Grognuz Gust.",
+      "Gavin-Bovet",
+      "Lamblet Paul",
+      "Pache Armand",
+      "Mont-Pellaux",
+      "Paschoud Alfred",
+      "Porchet Fernand"
+    ],
+    "Assesseur": [
+      "Lambelet Paul."
+    ],
+    "Cantonniers": [
+      "Ducros Aloys",
+      "Graz Arnold."
+    ],
+    "Chef de section": [
+      "Dumard Alexandre."
+    ],
+    "Commandant du feu": [
+      "Pasche Arthur."
+    ],
+    "Commission scolaire": [
+      "Gavin-Regamey Emile."
+    ],
+    "Contrôleur du lait": [
+      "Pasche Arthur."
+    ],
+    "Gardes-forestiers": [
+      "Bastian Charles. T",
+      "Mercanton Constant."
+    ],
+    "Inspecteurs du bétail": [
+      "Cordey François.",
+      "Bastian Eugène",
+      "Reymond Arnold",
+      "Gavin-Regamey Emile."
+    ],
+    "Instituteurs": [
+      "Monnet Alfred.",
+      "Rouge Charlotte",
+      "Guillod Eric",
+      "Cavin Charles."
+    ],
+    "Mesureur-juré": [
+      "Troyon Fritz."
+    ],
+    "Officier d'état civil": [
+      "Rouge Frédéric."
+    ]
+  }
+}

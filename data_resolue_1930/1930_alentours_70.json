@@ -1,0 +1,216 @@
+{
+  "ECHANDENS": {
+    "Téléphone": [
+      "Auberge de Commune",
+      "Rieben Daniel",
+      "Commune",
+      "Marendaz Henri"
+    ],
+    "Vignerons": [
+      "Cachin Henri",
+      "Cevey frères",
+      "Gremion Victor",
+      "Lattion F.",
+      "Poraz Alois"
+    ],
+    "Divers": [
+      "Gueydan de Roussel",
+      "Mackay, Vve",
+      "Nussli Julie",
+      "Paley Emile",
+      "Redard Jeanne",
+      "Rivie J.",
+      "Viret Charles",
+      "Daccord Ls."
+    ],
+    "Rentiers": [
+      "de Mandrot Adrien",
+      "Monod René",
+      "Robert Paul",
+      "Oulevay Alf."
+    ],
+    "Société": [
+      "de laiterie"
+    ]
+  },
+  "ECHICHENS": {
+    "Président du Conseil général": [
+      "Daccord Louis"
+    ],
+    "Secrétaire": [
+      "Ménétrey Théodore",
+      "Perey Constant"
+    ],
+    "Syndic": [
+      "Mermoud Alexis"
+    ],
+    "Municipaux": [
+      "de Mandrot Adrien",
+      "Décombaz Jules",
+      "Kirschmann Maurice",
+      "Schmidely Ernest"
+    ],
+    "Boursier": [
+      "de Mandrot Adrien"
+    ],
+    "Huissier": [
+      "Pause Alfred"
+    ],
+    "Agriculteurs": [
+      "Blanchoud Louis",
+      "Bourloud Jules",
+      "Croisier Alfred",
+      "Favre Jules",
+      "Gros François",
+      "Mermoud",
+      "Roulet Victor",
+      "Tissot Jules"
+    ],
+    "Asile rural vaudois": [
+      "Chamot Marius"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Ménétrey Th."
+    ],
+    "Mutualité scolaire de retraite de l'Asile rural": [
+      "M. Daccord"
+    ],
+    "Café": [
+      "Marendaz Henri"
+    ],
+    "Clinique": [
+      "Mieg-Périllard Rose-Hélène"
+    ],
+    "Commission scolaire": [
+      "Schmidely Gustave",
+      "de Mandrot Adr.",
+      "Mermoud Alexis",
+      "Daccord Ls."
+    ],
+    "Cordonnerie": [
+      "Wuarchoz André"
+    ],
+    "Entreprise de maçonnerie": [
+      "Thélin Oscar"
+    ],
+    "Epiceries": [
+      "Corbaz Emile",
+      "Croisier-Pilet P."
+    ],
+    "Gypsier-peintre": [
+      "Adamina Albert"
+    ],
+    "Inspecteur du bétail": [
+      "Widmer Ls."
+    ],
+    "Instituteurs": [
+      "Ménétrey Théodore",
+      "Crot Julia"
+    ],
+    "Pépiniériste": [
+      "Baudet A."
+    ],
+    "Poids public": [
+      "Favre M."
+    ],
+    "Poste": [
+      "Wuarchoz André"
+    ]
+  },
+  "ECUBLENS": {
+    "Président du Conseil communal": [
+      "Ducret François"
+    ],
+    "Secrétaire": [
+      "Masson Ami",
+      "Masson Ch."
+    ],
+    "Syndic": [
+      "Ducret Elie"
+    ],
+    "Municipaux": [
+      "Jaquenoud Aloïs",
+      "Roulier Paul",
+      "Masson Eugène",
+      "Masson François"
+    ],
+    "Boursier": [
+      "Glardon Antoine"
+    ],
+    "Associations mutualistes de retraite": [
+      "Martin R."
+    ],
+    "Auberges": [
+      "Mingard Octave",
+      "Masson François",
+      "Masson Louis",
+      "Masson Jeanne"
+    ],
+    "Battoir à blé": [
+      "Société coopérative"
+    ],
+    "Bois (march. de)": [
+      "Rouge Henri"
+    ],
+    "Boucher": [
+      "Masson Auguste"
+    ],
+    "Boulanger": [
+      "Parisod Ele"
+    ],
+    "Charron": [
+      "Masson Ch."
+    ],
+    "Charcuterie": [
+      "Masson A."
+    ],
+    "Chef de section": [
+      "Ducret François"
+    ],
+    "Chiens, élevage": [
+      "de Tavel, Mlle"
+    ],
+    "Commission scolaire": [
+      "Favre Henri",
+      "Jaquenoud Aloïs",
+      "Glardon Antoine"
+    ],
+    "Comité de couture": [
+      "Bonzon L.",
+      "Masson Jeanne",
+      "Fivaz"
+    ],
+    "Distillateur": [
+      "Masson Henri"
+    ],
+    "Electricien": [
+      "Bourgoz Adrien"
+    ],
+    "Epiceries": [
+      "Gonthier Louis",
+      "Musy Emile",
+      "Parisod Emile",
+      "Viret Alice"
+    ],
+    "Gypsier": [
+      "Masson Gustave d'Ami"
+    ],
+    "Inspecteur du bétail": [
+      "Masson Ernest"
+    ],
+    "Instituteurs": [
+      "Girardet Lucien",
+      "Grasset Robert",
+      "Cuanillon Estelle",
+      "Martin Robert",
+      "Rossier Augusta"
+    ],
+    "Jardinier": [
+      "Masson Aloïs"
+    ],
+    "Justice de paix": [
+      "Martin Fr.",
+      "Musy E."
+    ]
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "CRONAY": {
+    "Municipaux": [
+      "Duruz Hermann",
+      "Flaction Jules, fils",
+      "Guidoux John",
+      "Tanner John",
+      "Viquerat Eugène",
+      "Viquerat Léon"
+    ],
+    "Huissier": [
+      "Guidoux Oscar"
+    ],
+    "Cantonnier": [
+      "Duruz Aimé"
+    ],
+    "Commandant du feu": [
+      "Flaction Jules"
+    ],
+    "Commission scolaire": [
+      "Viquerat L."
+    ],
+    "Garde-forestier": [
+      "Vuillemin Gustave"
+    ],
+    "Inspecteur du bétail": [
+      "Viquerat Eug."
+    ],
+    "Inspecteur des viandes": [
+      "Viquerat Eugène"
+    ],
+    "Instituteurs": [
+      "Magnenat René",
+      "Magnenat-Joyet Marthe"
+    ],
+    "Police (agent de)": [
+      "Guidoux Louis"
+    ],
+    "Poste": [
+      "Potterat Julie, Vve. T."
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Resin Rosine"
+    ],
+    "Agriculteurs": [
+      "Baumann Robert",
+      "Beau Emile",
+      "Besson Fr.",
+      "Besson Augustin",
+      "Boss Numa",
+      "Blumenstein Jean",
+      "Bruand Luc.",
+      "Danthe Louis",
+      "Dégex-Addor",
+      "Duruz Maurice",
+      "Duruz Alfred",
+      "Duruz Robert",
+      "Duruz Hermann",
+      "Duruz Emile",
+      "Duvoisin frères.",
+      "Flaction Emile",
+      "Flaction Jules",
+      "Flaction Alfred.",
+      "Guidoux Ed.",
+      "Guidoux frères",
+      "Guidoux Oscar",
+      "Guex Paul.",
+      "Helfer Ernest",
+      "Lüguinbühl Chs.",
+      "Maccabez James",
+      "Marmier Oscar",
+      "Magnin Ulrich",
+      "Mermoud Jules",
+      "Michoud Fernand",
+      "Milliet Fritz.",
+      "Peguiron Louis",
+      "Pidoux Robert",
+      "Pidoux-Guidoux Ernest",
+      "Pidoux Emile",
+      "Pidoux-Marel Ernest",
+      "Pittet Lucien",
+      "Pittet Robert",
+      "Potterat André",
+      "Potterat Nadège.",
+      "Tanner frères",
+      "Viquerat Aimé",
+      "Viquerat Edouard",
+      "Viquerat Eug.",
+      "Viquerat Léon"
+    ],
+    "Apiculteurs": [
+      "Magnenat René",
+      "Potterat André",
+      "Maccabez James"
+    ],
+    "Bois (comm. de)": [
+      "Decorges Armand",
+      "Decorges Robert"
+    ],
+    "Café": [
+      "Guignet Marie"
+    ],
+    "Camionneur": [
+      "Marmier Oscar"
+    ],
+    "Charpentiers-menuisiers": [
+      "Dupuis-Guidoux",
+      "Baumann Rob.",
+      "Guex Paul"
+    ],
+    "Charron": [
+      "Rosset Alexandre"
+    ],
+    "Couturières": [
+      "Duruz Jeanne",
+      "Patthey Rosine",
+      "Viquerat Yvonne"
+    ],
+    "Epicerie, mercerie": [
+      "Magnenat Ed. R.",
+      "Viquerat Edouard"
+    ],
+    "Fours et fourneaux en molasse (fabr. de)": [
+      "Tardy Alexis"
+    ],
+    "Laiterie, fromages": [
+      "Schwarz Emile"
+    ],
+    "Maréchaux": [
+      "Danthe Louis",
+      "Hänggli Jean"
+    ],
+    "Moulin": [
+      "Decorge Robert"
+    ],
+    "Pompes funèbres du Nord": [
+      "Dupuis Jules"
+    ],
+    "Scieurs et march. de bois": [
+      "Decorges Armand",
+      "Decorge Robert"
+    ],
+    "Sociétés": [
+      "Sté d'agriculture",
+      "Sté de battage",
+      "Sté de chant.",
+      "Sté de laiterie",
+      "Sté de tir aux armes de guerre",
+      "Syndicat agricole d'élevage",
+      "Syndicats d'améliorations foncières"
+    ]
+  },
+  "CROY": {
+    "Syndic": [
+      "Cavat Louis"
+    ],
+    "Secrétaire": [
+      "Ciana Edmond"
+    ],
+    "Boursier": [
+      "Chappuis Henri"
+    ],
+    "Municipaux": [
+      "Benoit Alfred",
+      "Bonard Georges",
+      "Cavat John",
+      "Chevalier Pierre"
+    ],
+    "Huissier": [
+      "Chevalier Jean-Louis"
+    ],
+    "Chef de gare": [
+      "Conod Emile"
+    ],
+    "Commandant du feu": [
+      "Chevalier J.-L."
+    ],
+    "Commission scolaire": [
+      "Ciana Edmond",
+      "Cavat Louis",
+      "Mayer Arnold"
+    ],
+    "Inspecteur du bétail": [
+      "Rochat Aimé"
+    ],
+    "Instituteurs": [
+      "Sergy Georges",
+      "Rochat Angèle",
+      "Vuilleumier Adèle"
+    ],
+    "Poste et télégraphe": [
+      "Roy Julia"
+    ],
+    "Téléphone": [
+      "Station publique"
+    ],
+    "Agriculteurs": [
+      "Bélaz César",
+      "Benoit Auguste",
+      "Bonard Auguste",
+      "Bonard Georges",
+      "Cavat Georges",
+      "Cavat John",
+      "Cavat Louis-Elie",
+      "Cavat Louis de Louis",
+      "Chalet Hri, hoirie",
+      "Chevalier Emile",
+      "Chevalier Georges.",
+      "Leresche Louis.",
+      "Magnenat Justin",
+      "Monnier Marius.",
+      "Paltani Jean.",
+      "Rochat Alfred",
+      "Rochat Ch. d'Emle",
+      "Rochat Constant, hoirie",
+      "Rochat Louis",
+      "Rochat Aimé",
+      "Rochat Auguste",
+      "Romanens Hermann.",
+      "Sordet Robert."
+    ],
+    "Amodiateurs": [
+      "Bonard & Cavat"
+    ],
+    "Apiculteurs": [
+      "Bonard Georges",
+      "Chevalier Jean",
+      "Guignard Ch.",
+      "Lupin Louis",
+      "Sergy Gges"
+    ],
+    "Appareilleur": [
+      "Reymond Marc"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite"
+    ],
+    "Auto-garage": [
+      "Bonard David"
+    ],
+    "Bois (comm. de)": [
+      "Rochat Louis"
+    ],
+    "Cafés": [
+      "Bonard Eugène",
+      "Sordet Rob."
+    ],
+    "Charron": [
+      "Magnenat Henri"
+    ],
+    "Chaussures, cordonnier": [
+      "Chappuis Henri"
+    ],
+    "Couturière": [
+      "Rochat Rose"
+    ],
+    "Entrepreneur": [
+      "Ciana Henri"
+    ],
+    "Epicerie, mercerie": [
+      "Bonard Marie",
+      "Ciana Henri",
+      "Paltani Jean"
+    ],
+    "Fromagerie": [
+      "Société de Croy"
+    ],
+    "Grains et farines": [
+      "Cusin Samuel",
+      "Syndicat agricole des Grands Moulins"
+    ],
+    "Horlogerie": [
+      "Guignard-Leresche Ch."
+    ],
+    "Hôtel": [
+      "Sordet Robert"
+    ],
+    "Laitiers": [
+      "Société de laiterie",
+      "Treboux Paul"
+    ],
+    "Maréchal et machines agricoles": [
+      "Reymond Marc & fils"
+    ],
+    "Mécanicien": [
+      "Rochat William"
+    ],
+    "Menuisier": [
+      "Rochat Louis"
+    ],
+    "Meubles": [
+      "Rochat Louis"
+    ],
+    "Meuniers": [
+      "Moulin de la Foule",
+      "Syndicat agricole des Grands Moulins"
+    ],
+    "Pierriste": [
+      "Guignard-Leresche Ch."
+    ],
+    "Radio": [
+      "Paltani Jean"
+    ],
+    "Scierie": [
+      "Guignard Jean et Paul"
+    ],
+    "Serrurier": [
+      "Reymond Marc"
+    ],
+    "Sociétés": [
+      "Sté de fromagerie R.",
+      "Syndicat agricole des Grands Moulins",
+      "Sté du battoir à grains",
+      "Syndicat agricole"
+    ],
+    "Vélos, motos": [
+      "Rochat William"
+    ]
+  },
+  "CUARNENS": {
+    "Député": [
+      "Chappuis Charles"
+    ],
+    "Syndic": [
+      "Chappuis Fernand"
+    ],
+    "Secrétaire": [
+      "Chappuis François d'Ant."
+    ],
+    "Boursier": [
+      "Gaillard William"
+    ],
+    "Huissier": [
+      "Guyaz Louis"
+    ],
+    "Municipaux": [
+      "Chappuis Eugène",
+      "Chappuis Henri",
+      "Chappuis Jules",
+      "Clément Louis",
+      "Dumauthioz Edmond",
+      "Rochat Charles"
+    ],
+    "Cantonnier": [
+      "Chappuis-Rochat Franc."
+    ],
+    "Commandant du feu": [
+      "Chappuis Ch."
+    ],
+    "Commission scolaire": [
+      "Chappuis Alois"
+    ],
+    "Forestier de triage": [
+      "Chappuis Ern."
+    ],
+    "Inspecteur du bétail": [
+      "Guyaz Francis"
+    ],
+    "Inspecteur des viandes": [
+      "Guyaz Fr."
+    ],
+    "Instituteurs": [
+      "Gudit P.",
+      "Guex Eug.",
+      "Bovey-Banderet, dame",
+      "Chappuis Thérèse"
+    ],
+    "Juge de paix": [
+      "Pittet Fernand"
+    ],
+    "Pasteur": [
+      "Béboux Albert"
+    ],
+    "Police (agent de)": [
+      "Clément Henri"
+    ],
+    "Poste et télégraphe": [
+      "Gaillard François"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Hôtel de France"
+    ],
+    "Agriculteurs": [
+      "Bovey Armand",
+      "Bovey François",
+      "Bovey Frédéric.",
+      "Chappuis Antoine",
+      "Chappuis Ls d'Edouard",
+      "Chappuis Ernest",
+      "Chappuis Fern.",
+      "Chappuis Frank",
+      "Chappuis Gust.",
+      "Chappuis Hri",
+      "Chappuis François",
+      "Chappuis William",
+      "Chappuis Charles",
+      "Chappuis Alois",
+      "Chappuis Eugène",
+      "Chappuis Francis",
+      "Chappuis André",
+      "Clément Eugène",
+      "Clément Maurice-Ernest",
+      "Clément Ch.",
+      "Clément Marius"
+    ]
+  }
+}

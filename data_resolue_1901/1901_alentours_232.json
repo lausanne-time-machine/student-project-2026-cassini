@@ -1,0 +1,251 @@
+{
+  "BLONAY": {
+    "Autorités communales": [
+      "Bonjour, Jules"
+    ],
+    "Secrétaire": [
+      "Henry, Constant"
+    ],
+    "Syndic": [
+      "Pilliod, Constant"
+    ],
+    "Municipaux": [
+      "Bonjour, Jules",
+      "Bonjour, Louis",
+      "Bonjour, Eugène",
+      "Dupraz, Jules",
+      "Dupraz, Louis",
+      "Vincent, Louis"
+    ],
+    "Secrétaire municipal": [
+      "Bonjour, Henri"
+    ],
+    "Boursier": [
+      "Lapierre, Jules"
+    ],
+    "Agent de police": [
+      "Notz, Adolphe"
+    ],
+    "Bains": [
+      "Cochard, François"
+    ],
+    "Boucher": [
+      "Staub, Jacob"
+    ],
+    "Boulangers": [
+      "Bron, Auguste",
+      "Mayor, L.",
+      "Henchoz-Lenoir, Louis",
+      "Henry, Constant"
+    ],
+    "Buraliste postal": [
+      "Boraley, Ernest"
+    ],
+    "Cafetiers": [
+      "Bonjour, Adolphe",
+      "Bonjour, Jules-Etienne",
+      "Cochard, François",
+      "Dupraz, veuve de Samuel",
+      "Pasche, Susanne",
+      "Emonet",
+      "Vuadens, Auguste"
+    ],
+    "Charpentiers": [
+      "Béguin, Jules",
+      "Vauthey, Denis"
+    ],
+    "Charrons": [
+      "Margot, Jules",
+      "Neiger, Jean"
+    ],
+    "Commission scolaire": [
+      "Nussbaum, E."
+    ],
+    "Cordonniers": [
+      "Caillet, Henri",
+      "Trachsel, Alfred",
+      "Schutz, Fritz"
+    ],
+    "Couvreurs": [
+      "Ducraux, Frédéric",
+      "Pilet-David"
+    ],
+    "Entrepreneur": [
+      "Vuadens, Henri"
+    ],
+    "Inspecteurs du bétail": [
+      "Bonjour, Rodolphe",
+      "Dupraz, Victor"
+    ],
+    "Instituteurs": [
+      "Grec, Henri",
+      "Pahud, Albert",
+      "Beyeler, Rose",
+      "Rossire, Louise"
+    ],
+    "Juge de paix": [
+      "Pilliod, Constant"
+    ],
+    "Maréchaux": [
+      "Ducraux, Jules",
+      "Monod, Pierre",
+      "Muller, Charles"
+    ],
+    "Menuisier": [
+      "Bohren, Pierre"
+    ],
+    "Meuniers": [
+      "Dizerens, Louis",
+      "Dizerens, Philippe"
+    ],
+    "Négociants": [
+      "Bonjour, Louis-Aimé",
+      "Bron, Auguste",
+      "Henchoz-Lenoir, Lse",
+      "Henry, Constant",
+      "Mayor, L."
+    ],
+    "Pasteur": [
+      "Cérésole, Alfred"
+    ],
+    "Pensionnats": [
+      "Duvillard",
+      "Bürky, veuve",
+      "Bonjour, Eugène",
+      "Nussbaum, Jean-Charles"
+    ],
+    "Propriétaires": [
+      "Bonjour, Edouard",
+      "Pilliod, Alfred"
+    ],
+    "Sociétés": [
+      "Société de laiterie de Chaussey",
+      "Société de laiterie des Chevalleyres",
+      "Société de laiterie de Cojonnex",
+      "Société de laiterie de Pierraz"
+    ],
+    "Télégraphiste": [
+      "Caillet-Bergoz"
+    ],
+    "Téléphoniste": [
+      "Henchoz-Lenoir, Louise"
+    ],
+    "Tonnelier": [
+      "Muller, Emile"
+    ]
+  },
+  "CHARDONNE": {
+    "Autorités communales": [
+      "Neyroud, Edouard"
+    ],
+    "Secrétaire": [
+      "Forestier, Louis"
+    ],
+    "Syndic": [
+      "Dénéréaz, Ch.-H. T."
+    ],
+    "Municipaux": [
+      "Morel, Louis",
+      "Ducret, Jean",
+      "de Montet, Albert",
+      "Barbey, Louis",
+      "Mouron, Henri",
+      "Ducret, Louis"
+    ],
+    "Secrétaire municipal": [
+      "Ducret, Eugène"
+    ],
+    "Boursier": [
+      "Neyroud, Louis"
+    ],
+    "Boulangers": [
+      "Bidaux, veuve. R",
+      "Tanner, Théophile. R"
+    ],
+    "Cafetiers": [
+      "Roth, A.",
+      "Beaumaroche",
+      "Ducret, Aloys",
+      "Michel",
+      "Mouron, Jeannette",
+      "Widmer, X."
+    ],
+    "Café-chocolat": [
+      "Café-chocolat de la Croix-Bleue"
+    ],
+    "Charpentiers": [
+      "Dénéréaz-Muller, Louis",
+      "Neyroud-Muller, Jean"
+    ],
+    "Charron": [
+      "Mouron, Louis"
+    ],
+    "Epicerie, mercerie": [
+      "Bidaux, veuve. R",
+      "Béguin, demoiselle",
+      "Ducret, Robert",
+      "Gattabin-Bersier. R",
+      "Tanner, Théophile. R"
+    ],
+    "Hôtel": [
+      "Schwarz, Ch."
+    ],
+    "Inspecteurs du bétail": [
+      "Ducret, Eug.",
+      "Genton-Curchod, H."
+    ],
+    "Instituteurs": [
+      "Caud, Albert",
+      "Dénéréaz, Julie",
+      "Chollet, Louise",
+      "Forestier, Caroline"
+    ],
+    "Juge de paix": [
+      "Ducret, Jean"
+    ],
+    "Maréchal": [
+      "Ducret-Staub, François"
+    ],
+    "Pasteur": [
+      "Brossy, Charles"
+    ],
+    "Pensions": [
+      "Dénéréaz, Marc",
+      "Dutoit, veuve",
+      "Roth, A."
+    ],
+    "Vins": [
+      "Neyroud, Henri",
+      "Dénéréaz, Ch.-H. T."
+    ],
+    "Divers": [
+      "de Montet, A.",
+      "de Muralt, L."
+    ]
+  },
+  "CORSEAUX": {
+    "Autorités communales": [
+      "Cornu, Félix"
+    ],
+    "Secrétaire": [
+      "Volet, Gustave"
+    ],
+    "Syndic": [
+      "de Meuron, Paul"
+    ],
+    "Municipaux": [
+      "Schneeberger",
+      "Merlin, Henri",
+      "Volet, Alfred",
+      "Brunet, Edouard",
+      "Cuénod, William",
+      "Grand, Aloïs"
+    ],
+    "Secrétaire municipal": [
+      "Schneeberger, H."
+    ],
+    "Boursier": [
+      "Mouron, Eugene"
+    ]
+  }
+}

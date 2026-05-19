@@ -1,0 +1,276 @@
+{
+  "FERREYRES": {
+    "Agriculteurs.": [
+      "tin Henri",
+      "Michaud Edouard",
+      "Michaud Emile",
+      "Pingoud Edouard",
+      "Pingoud Emile",
+      "Pingoud Gustave",
+      "Pingoud Julien",
+      "Planque François"
+    ],
+    "Battoirs à blé.": [
+      "Chantran Julien",
+      "Michaud Daniel"
+    ],
+    "Cafetier.": [
+      "Feuz Pierre"
+    ],
+    "Commission scolaire.": [
+      "Pingoud Julien",
+      "Pingoud Edouard"
+    ],
+    "Epicerie.": [
+      "Feuz Pierre"
+    ],
+    "Inspecteur du bétail.": [
+      "Pingoud Emile"
+    ],
+    "Instituteur.": [
+      "Jaccard Henri"
+    ],
+    "Laitier.": [
+      "Cugny Roland"
+    ],
+    "Menuisier.": [
+      "Chauvet Emile"
+    ],
+    "Scierie.": [
+      "Chantran Julien"
+    ],
+    "Société.": [
+      "De fromagerie"
+    ]
+  },
+  "GOLLION": {
+    "Autorités communales.": [
+      "Chenaux Eugène",
+      "Resin Emile"
+    ],
+    "Syndic": [
+      "Chenaux L."
+    ],
+    "Municipaux": [
+      "Chenaux Armand",
+      "Chabanel Constant",
+      "Briant Henri",
+      "Monachon Henri",
+      "Viret William",
+      "Berney Henri",
+      "Pelichet Alphonse",
+      "Chanel John"
+    ],
+    "Agriculteurs.": [
+      "Barillier Charles",
+      "Barillier Louis",
+      "Baudet William",
+      "Berney Henri",
+      "Chabanel Jaques",
+      "Chenaux Eugène",
+      "Chenaux Armand",
+      "Chenaux Charles",
+      "Chenaux Fanny",
+      "Chenaux Louis",
+      "Chenaux frères",
+      "Henchoz Louis",
+      "Mange Daniel",
+      "Mange Louis",
+      "Maulaz Emile",
+      "Monachon Jules",
+      "Viret Alexis",
+      "Viret Victor",
+      "Viret William"
+    ],
+    "Apiculteurs.": [
+      "Chenaux Maurice",
+      "Viret Victor",
+      "Viret William"
+    ],
+    "Aubergistes.": [
+      "Fasnacht Max",
+      "Gruaz Léon"
+    ],
+    "Blanchisseuse-repasseuse.": [
+      "Bettex Jeanne"
+    ],
+    "Boucher.": [
+      "Curchod Jules"
+    ],
+    "Boulanger.": [
+      "Walther Charles"
+    ],
+    "Cantonniers.": [
+      "Curchod Jules",
+      "Curchod Edouard"
+    ],
+    "Charpentier.": [
+      "Fiaux Constant"
+    ],
+    "Charron.": [
+      "Bettex Alfred"
+    ],
+    "Commission scolaire.": [
+      "Chenaux Eugène",
+      "Monachon Cl'",
+      "Viret William"
+    ],
+    "Cordonniers.": [
+      "Epars Ami-Elie",
+      "Golaz Louis",
+      "Zavalone Bernard"
+    ],
+    "Couturières.": [
+      "Barrelet Marguerite",
+      "Decrausaz Marguerite",
+      "Favre-Desponds Nathalie",
+      "Henrioud Laure",
+      "Meystre Léa",
+      "Viret Nancy"
+    ],
+    "Entrepreneur.": [
+      "Martinelli Jaques"
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Chappuis-Mercier Alexis",
+      "Paquier Alfred"
+    ],
+    "Ferblantier.": [
+      "Borgeaud Louis"
+    ],
+    "Fourches et rateaux (fabr. de).": [
+      "Jaquier Louis"
+    ],
+    "Hongreur.": [
+      "Gruaz Léon"
+    ],
+    "Horlogers.": [
+      "Montandon James",
+      "Brichet",
+      "Walther Victor"
+    ],
+    "Inspecteur du bétail.": [
+      "Chabanel Constt"
+    ],
+    "Instituteurs.": [
+      "Rochat Justin",
+      "Aegerter Berthe"
+    ],
+    "Laitier.": [
+      "Karlen Jean",
+      "Martig Jacob"
+    ],
+    "Maréchal.": [
+      "Meystre Charles"
+    ],
+    "Meunier.": [
+      "Usine agricole du Moulinet"
+    ],
+    "Poste.": [
+      "Henchoz Henri",
+      "Paquier Alfred"
+    ],
+    "Sage-femme.": [
+      "Chenaux Adèle"
+    ],
+    "Sellier.": [
+      "Mauerhofer Charles"
+    ],
+    "Sociétés.": [
+      "De fromagerie de Gollion",
+      "De fromagerie de Mussel",
+      "Du battoir",
+      "Syndicat agricole",
+      "Armes de guerre",
+      "Société de chant"
+    ],
+    "Socques (fabr. de).": [
+      "Dingler Jacob"
+    ],
+    "Téléphoniste.": [
+      "Gruaz Julie"
+    ],
+    "Vignerons.": [
+      "Chenaux Oscar",
+      "Decrausaz-Curchod Benjamin",
+      "Lambelet Js"
+    ]
+  },
+  "GRANCY": {
+    "Autorités communales.": [
+      "Monnet Emile",
+      "Panchaud John"
+    ],
+    "Syndic": [
+      "Demont Marius"
+    ],
+    "Municipaux": [
+      "Boven Paul",
+      "Devantay Rodolphe",
+      "Devantay Julien",
+      "Devantay Paul",
+      "Buri Ulysse",
+      "Devantay Marc"
+    ],
+    "Agriculteurs.": [
+      "Buri Ulysse",
+      "Clerc Hri",
+      "Clerc Louis",
+      "Devantay Chs",
+      "Devantay Rodolphe",
+      "Moinat, hoirie",
+      "Monnet Emile",
+      "Tissot Aloïs"
+    ],
+    "Apilulteur.": [
+      "Clerc Julien"
+    ],
+    "Boulanger.": [
+      "Blanc Emile"
+    ],
+    "Cafetiers.": [
+      "Monnet Adrien",
+      "Schenkel Jean"
+    ],
+    "Charpentier.": [
+      "Gachet Henri"
+    ],
+    "Charron.": [
+      "Panchaud John"
+    ],
+    "Chef de section.": [
+      "Demont Marius"
+    ],
+    "Commission scolaire.": [
+      "Prévost Camille",
+      "Demont Marius"
+    ],
+    "Couturière.": [
+      "Devantay Jenny"
+    ],
+    "Epicerie, mercerie.": [
+      "Delafontaine Emma",
+      "Demont Lina"
+    ],
+    "Inspecteur du bétail.": [
+      "Devantay Rodolphe"
+    ],
+    "Instituteurs.": [
+      "Devantay Marie",
+      "Moudon Edouard"
+    ],
+    "Laitier.": [
+      "Chauvy Charles"
+    ],
+    "Maçon.": [
+      "Lodari Charles"
+    ],
+    "Maréchal.": [
+      "Mæder Jean"
+    ],
+    "Meuniers.": [
+      "Boven Paul",
+      "David Arnold"
+    ]
+  }
+}

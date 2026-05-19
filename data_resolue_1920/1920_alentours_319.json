@@ -1,0 +1,236 @@
+{
+  "PENTHAZ": {
+    "crétaire": [
+      "Portier Maurice"
+    ],
+    "Boursier": [
+      "Portier William"
+    ],
+    "Agriculteurs": [
+      "Bastian Jenny, Vve de Jules",
+      "Beutler Théophile",
+      "Bommottet Veuve",
+      "Charlet frères",
+      "Decrausaz Louis",
+      "Deléderray Georges",
+      "Deléderray Louis, de Jules",
+      "Hählen frères",
+      "Millioud frères",
+      "Platel Alfr.",
+      "Platel Léopold",
+      "Portier Jean",
+      "Vougaz Em."
+    ],
+    "Apiculteur": [
+      "Charlet Henri"
+    ],
+    "Auberge": [
+      "Platel Alfred"
+    ],
+    "Commission scolaire": [
+      "Bastian Eugène",
+      "Platel Léopold",
+      "Portier Maurice"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Pache Henri",
+      "Pahud Aimé"
+    ],
+    "Inspecteur du bétail": [
+      "Bastian Aug."
+    ],
+    "Instituteurs": [
+      "Epplé Georges",
+      "Zuber Yvonne"
+    ],
+    "Laitier": [
+      "Laiterie agricole, Lausanne"
+    ],
+    "Lingère": [
+      "Patthey Suzanne"
+    ],
+    "Machine à battre": [
+      "La Commune"
+    ],
+    "Orphelinat": [
+      "Paquier Ulrich"
+    ],
+    "Poste": [
+      "Pahud Aimé"
+    ],
+    "Rentiers": [
+      "Boulaz François",
+      "Penseyres Henri"
+    ],
+    "Société": [
+      "De fromagerie. R."
+    ],
+    "Tailleuse": [
+      "Hählen Marie"
+    ],
+    "Téléphoniste": [
+      "Platel Alfred"
+    ]
+  },
+  "POMPAPLES": {
+    "Autorités communales": [
+      "Chabloz Henri",
+      "Knebel Louis",
+      "Favey Emile",
+      "Bonzon Ernest",
+      "Bonzon Adrien, du Julien",
+      "Bonzon Germain",
+      "Bonzon Lucien",
+      "Favey Robert",
+      "Bonzon Louis",
+      "Bonzon Alexandre"
+    ],
+    "Agriculteurs": [
+      "Bonzon-Cavat Félix",
+      "Bonzon-Chappuis Ernest",
+      "Bonzon frères",
+      "Bonzon-Gleyre Charles",
+      "Bonzon-Gleyre Henri",
+      "Bonzon Gustave",
+      "Bonzon Jules-Alexandre",
+      "Bonzon J.-H.",
+      "Bonzon-Gaillard",
+      "Bonzon J.-H.",
+      "Bozon Louis et Adrien",
+      "Bonzon-Picot Ls",
+      "Chantran Louis",
+      "Cuanoud Auguste",
+      "Cuvit Ch.",
+      "Desponds Ls",
+      "Favey-Bonzon Sam.",
+      "Favey Emile",
+      "Favey Georges",
+      "Favey Gustave",
+      "Favey-Reymond",
+      "Favey Henri",
+      "Favey-Soumi Samuel",
+      "Gerber Jacob",
+      "Kuffer frères",
+      "Meylan frères",
+      "Michaud Robert",
+      "Morier Louis"
+    ],
+    "Apiculteur": [
+      "Monnier Charles"
+    ],
+    "Aubergistes": [
+      "Bonzon Alexandre",
+      "Bonzon Adèle Vve"
+    ],
+    "Charron": [
+      "Lavanchy Aimé"
+    ],
+    "Commission scolaire": [
+      "Bonzon-Gleyre Charles",
+      "Favey Robert"
+    ],
+    "Charpentier": [
+      "Bonzon Henri"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Bonzon-Favey Adrien. R.",
+      "Meylan Samuel"
+    ],
+    "Hospice de Saint-Loup": [
+      "Béguin Paul",
+      "Herzog Ed.",
+      "Curchod Henri"
+    ],
+    "Huilerie": [
+      "Chabloz L. & Co. R T."
+    ],
+    "Inspecteur du bétail": [
+      "Bonzon-Gleyre Henri"
+    ],
+    "Instituteurs": [
+      "Cornaz Gustave",
+      "Meystre R."
+    ],
+    "Laitier": [
+      "Chalet Eugène"
+    ],
+    "Maréchaux": [
+      "Meystre frères"
+    ],
+    "Meuniers": [
+      "Chabloz L & Co"
+    ],
+    "Poste": [
+      "Bonzon Emma",
+      "Chanson"
+    ],
+    "Sociétés": [
+      "De fromagerie. R.",
+      "Syndicat agricole. R.",
+      "Assurance du bétail",
+      "De chant"
+    ],
+    "Téléphoniste": [
+      "Bonzon Adèle Vve"
+    ],
+    "Vignerons": [
+      "Favey Julien",
+      "Monnier Charles"
+    ]
+  },
+  "SENARCLENS": {
+    "Autorités communales": [
+      "Gleyre Ernest",
+      "Gleyre-Linder",
+      "Dupuis Frédéric",
+      "Linder Jean",
+      "Brun Maurice",
+      "Berney Jean",
+      "Brun Lucien",
+      "Dupuis Ernest"
+    ],
+    "Agriculteurs": [
+      "Brun Maur.",
+      "Gleyre Ch.",
+      "Guerry Constant",
+      "Guerry Emile",
+      "Leutwyler Alb. fils. T.",
+      "Mange Albert",
+      "Mange Louis"
+    ],
+    "Café": [
+      "Moennath Fritz"
+    ],
+    "Commission scolaire": [
+      "Gleyre Ernest",
+      "Berney Jean",
+      "Moennath Fritz"
+    ],
+    "Couturières": [
+      "Dupuis Suzanne",
+      "Schmidt Eugénie"
+    ],
+    "Facteur": [
+      "Guerry Louise"
+    ],
+    "Inspecteur du bétail": [
+      "Dupuis Ern."
+    ],
+    "Instituteurs": [
+      "Schmidt Paul",
+      "Dupuis Louise"
+    ],
+    "Laitier": [
+      "Société de laiterie"
+    ],
+    "Maréchal": [
+      "Borgeaud Emile"
+    ],
+    "Société": [
+      "De fromagerie. R."
+    ],
+    "Téléphoniste": [
+      "Schmidt Paul"
+    ]
+  }
+}

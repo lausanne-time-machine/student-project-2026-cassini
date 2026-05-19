@@ -1,0 +1,294 @@
+{
+  "MÉZIÈRES": {
+    "Syndic": [
+      "Jordan C."
+    ],
+    "Municipaux": [
+      "Jordan Aimé",
+      "Dubois Emile",
+      "Dubois Théophile",
+      "Gloor Jean"
+    ],
+    "Secrétaire": [
+      "Stettler Albert"
+    ],
+    "Boursier": [
+      "Jordan Edouard"
+    ],
+    "Agriculteurs": [
+      "Bettens frères",
+      "Dubois frères",
+      "Dubois Frédéric",
+      "Dubois Henri",
+      "Dubois Jean-François",
+      "Dubois Pierre-Louis",
+      "Dubois Théophile",
+      "Gilliéron Oscar",
+      "George Emile",
+      "Gloor Hector",
+      "Gloor Marius",
+      "Gloor Jean",
+      "Jordan Alfred",
+      "Jordan Eugène",
+      "Jordan Louis",
+      "Chaussy",
+      "Jordan Pierre-Louis",
+      "Jordan frères",
+      "Mercanton frères",
+      "Rod Elie",
+      "Rod Aimé"
+    ],
+    "Aubergistes": [
+      "Fawer Henri",
+      "George Emile",
+      "Gloor-Duperrez Armand",
+      "Porchet Auguste",
+      "Stettler Albert"
+    ],
+    "Ameublement": [
+      "Gilliéron & Lincio. R T",
+      "Allasia & Salina. R T"
+    ],
+    "Assurances": [
+      "Gloor Jean"
+    ],
+    "Banque": [
+      "Banque populaire de la Broye"
+    ],
+    "Bétail (march. de)": [
+      "Gloor-Duperrez Armand"
+    ],
+    "Boulangers": [
+      "Fawer Henri",
+      "Gudit"
+    ],
+    "Buraliste postal": [
+      "Corthésy Rosa"
+    ],
+    "Chapellerie": [
+      "Stetter-Dubois G. R."
+    ],
+    "Chef de section": [
+      "Emery Henri"
+    ],
+    "Charpentiers": [
+      "Badoux Daniel",
+      "Nicolas Henri"
+    ],
+    "Charron": [
+      "Degex Aloïs"
+    ],
+    "Commission scolaire": [
+      "Béranger",
+      "Gilliéron Henri",
+      "Jordan Edouard"
+    ],
+    "Cordier": [
+      "Mojonnier Emile"
+    ],
+    "Cordonniers": [
+      "Durussel Aimé",
+      "Gilliéron François"
+    ],
+    "Couturières": [
+      "George Emma",
+      "Jordan Alice",
+      "Maury Méry"
+    ],
+    "Electriciens et installations de sonnerie": [
+      "Décosterd Ernest",
+      "Société lausannoise d'électricité"
+    ],
+    "Epicerie, mercerie": [
+      "Allasia & Salina. R",
+      "Chappuis Albert. R T",
+      "Gilliéron & Lincio. R T"
+    ],
+    "Etoffes": [
+      "Allasia & Salina. R T",
+      "Gilliéron & Lincio. R T"
+    ],
+    "Facteur": [
+      "Jordan Louis"
+    ],
+    "Ferblantier": [
+      "Bovat Aloïs"
+    ],
+    "Fers et métaux": [
+      "Chappuis Albert. R T"
+    ],
+    "Fromages (commerce de)": [
+      "Gavillet F."
+    ],
+    "Gérant": [
+      "Huber Louis. R."
+    ],
+    "Horloger": [
+      "Cavin Charles"
+    ],
+    "Hôtel": [
+      "Gloor-Duperrez Armand"
+    ],
+    "Huilerie": [
+      "Gilliéron Alfred"
+    ],
+    "Inspecteur du bétail": [
+      "Jordan Edouard"
+    ],
+    "Instituteurs": [
+      "Viret Louis",
+      "Vassaux Cécile",
+      "Jordan Emilie"
+    ],
+    "Juge": [
+      "Gloor Frédéric"
+    ],
+    "Assesseurs": [
+      "Gavillet Lucien",
+      "Lavanchy Eugène",
+      "Jordan Eugène",
+      "Chappuis Henri"
+    ],
+    "Greffier": [
+      "Emery Henri"
+    ],
+    "Huissier": [
+      "Stettler Albert"
+    ],
+    "Laitier": [
+      "Gavillet Emile. R."
+    ],
+    "Machines à coudre": [
+      "Allasia & Salina",
+      "Cavin Charles"
+    ],
+    "Maréchaux": [
+      "Gilliéron Philippe",
+      "Jordan Henri"
+    ],
+    "Maçon": [
+      "Gabella Antoine"
+    ],
+    "Mécanicien": [
+      "Raccoursier Jacques-Louis"
+    ],
+    "Médecin": [
+      "Delay Gustave. T."
+    ],
+    "Menuisier": [
+      "Vuagnaux Max"
+    ],
+    "Meuniers": [
+      "Gilliéron Alfred",
+      "Huber & Cie"
+    ],
+    "Modes": [
+      "Gilliéron Adèle",
+      "Stettler-Dubois Gustave. R."
+    ],
+    "Notaire": [
+      "Cavin W.-A."
+    ],
+    "Officier d'état civil": [
+      "Gloor Jean"
+    ],
+    "Pasteur": [
+      "Béranger Emile"
+    ],
+    "Pharmacien": [
+      "Huguenin A. R."
+    ],
+    "Sage-femme": [
+      "Gilliard Jeanne"
+    ],
+    "Scierie": [
+      "Huber & Cie"
+    ],
+    "Selliers": [
+      "Favre Emile",
+      "Fiaux Julien"
+    ],
+    "Sociétés": [
+      "De fromagerie. R",
+      "Fanfare du Jorat",
+      "Abbaye des fusiliers du Jorat",
+      "Section de la Société de cavalerie",
+      "Société d'agriculture",
+      "Section de « La Fraternité »",
+      "Section des Secours mutuels",
+      "Compagnie des chemins de fer électriques du Jorat. R T",
+      "Société de chant « L'Espérance ». R",
+      "Théâtre du Jorat. T."
+    ],
+    "Tailleur": [
+      "Christen Joseph"
+    ],
+    "Télégraphiste et téléphoniste": [
+      "Vuagniaux Julie"
+    ],
+    "Vélos": [
+      "Cavin Charles",
+      "Jordan Ulysse"
+    ],
+    "Vétérinaire": [
+      "Besse J.-Alf."
+    ],
+    "Vins (comm. de)": [
+      "Chappuis Alb. R T",
+      "Stettler Albert"
+    ]
+  },
+  "MONTPREVEYRES": {
+    "Autorités communales": [
+      "Liaudet Edward",
+      "Liaudet Emile"
+    ],
+    "Syndic": [
+      "Lavanchy Eugène"
+    ],
+    "Municipaux": [
+      "Métraux Jules",
+      "Baumgartner Henri",
+      "Reybaz Henri",
+      "Mottaz Auguste",
+      "Gilliard Louis",
+      "Reybaz Louis"
+    ],
+    "Agriculteurs": [
+      "Gilliard Abram",
+      "Gilliéron",
+      "Lavanchy Eugène",
+      "Lavanchy Sel",
+      "Liaudet Oscar",
+      "Martin frères",
+      "Mellet René",
+      "Mellioret, Vve",
+      "Rod Jules"
+    ],
+    "Aubergistes": [
+      "Gabella Joseph",
+      "Viret Héli"
+    ],
+    "Bétail (march. de)": [
+      "Dufour Benjamin"
+    ],
+    "Bois (march. de)": [
+      "Lavanchy Eugène",
+      "Métraux Jules",
+      "Reybaz Louis"
+    ],
+    "Boulanger": [
+      "Bürger Léon"
+    ],
+    "Buraliste postal": [
+      "Liaudet Edward"
+    ],
+    "Commission scolaire": [
+      "De Weiss A.",
+      "Liaudet Edward"
+    ],
+    "Entrepreneur": [
+      "Gabella Angel. R T"
+    ]
+  }
+}

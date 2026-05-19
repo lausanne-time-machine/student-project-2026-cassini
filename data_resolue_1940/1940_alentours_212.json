@@ -1,0 +1,296 @@
+{
+  "CERGNAT": {
+    "Garde-forestier": [
+      "Hubert Arthur"
+    ],
+    "Instituteur": [
+      "Barblan Jörg"
+    ],
+    "Pasteur": [
+      "Paux Robert"
+    ],
+    "Agriculteurs": [
+      "Borloz Aimé et Ami",
+      "Borloz Alfred d'Em",
+      "Chablaix Alf.",
+      "Dupertuis Ami",
+      "Dupertuis Hri",
+      "Echenard Maur.",
+      "Hubert frères, fils d'Alfred",
+      "Martin Alfred",
+      "Massard Robert",
+      "Mermod Ami-Paul",
+      "Morier John",
+      "Mottier-Martin Alfred",
+      "Oguey-Chablais Jules",
+      "Péneveyre Alb.",
+      "Tille Jean"
+    ],
+    "Assurance-vieillesse": [
+      "Hubert Ami"
+    ],
+    "Charpentiers": [
+      "Hertig Paul",
+      "Pernel Emile"
+    ],
+    "Epicerie-mercerie": [
+      "Warpelin L."
+    ],
+    "Laiterie": [
+      "Laiterie de Cergnat"
+    ],
+    "Pension d'enfants": [
+      "Mont-Fleuri. Cretegny G.",
+      "Ecole au Soleil des Noisetiers, Rollier Dr."
+    ],
+    "Hôtels-pensions": [
+      "Hubert, hoirs d'Alexis"
+    ],
+    "Maréchal": [
+      "Girod Aloïs"
+    ],
+    "Menuisier": [
+      "Mottier Constant"
+    ],
+    "Voituriers": [
+      "Hubert, hoirs d'Alexis"
+    ],
+    "Divers": [
+      "Mercier-Debonneville J.",
+      "Nicole-Krafft M.-R"
+    ]
+  },
+  "LA COMBALLAZ": {
+    "Garde-forestier": [
+      "Tille Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Vurlod John"
+    ],
+    "Instituteur": [
+      "Ginier Berthe"
+    ],
+    "Pasteur": [
+      "Sieveking Fritz"
+    ],
+    "Poste et télégraphe": [
+      "Vurlod Adrien"
+    ],
+    "Agriculteurs": [
+      "Borghi Victor",
+      "Borloz David",
+      "Borloz-Bonzon Alfred",
+      "Borlat Auguste",
+      "Dupertuis, Vve de Victor",
+      "Ginier frères",
+      "Hubert Constant",
+      "Hubert Francis",
+      "Monod Paul",
+      "Mottier Constant",
+      "Oguey Ami",
+      "Oguey Olivier",
+      "Oguey Arnold",
+      "Tauxe Adrien",
+      "Tavernier Constant"
+    ],
+    "Assurance-vieillesse": [
+      "Vurlod P."
+    ],
+    "Auto-taxi": [
+      "Vurlod Adrien"
+    ],
+    "Cafés": [
+      "Hubert, Hoirs d'Alexis"
+    ],
+    "Charpentier": [
+      "Oguey Gustave"
+    ],
+    "Couturières": [
+      "Ginier Berthe",
+      "Schäfer-Tille Ida"
+    ],
+    "Epiceries-merceries": [
+      "Hubert-Tavernier Célina",
+      "Hubert Const."
+    ]
+  },
+  "LA FORCLAZ": {
+    "Secrétaire communal": [
+      "Vurlod R."
+    ],
+    "Garde-forestier": [
+      "Monod Constant"
+    ],
+    "Greffe municipal": [
+      "Vurlod R."
+    ],
+    "Inspect. du bétail": [
+      "Vurlod Vincent"
+    ],
+    "Instituteurs": [
+      "Fivaz L.",
+      "Dupertuis-Vurlod Lydie"
+    ],
+    "Poste et télégraphe": [
+      "Bertholet Ami"
+    ],
+    "Agriculteurs": [
+      "Bertholet frères",
+      "Borlat Gustave",
+      "Burnier Roland",
+      "Cugnoni Ern.",
+      "Dupertuis Constant",
+      "Marlétaz Alexis",
+      "Marlétaz Henri",
+      "Marlétaz Jules",
+      "Monod Adolphe",
+      "Monod-Tille Vincent",
+      "Perrod frères",
+      "Perrod Jules",
+      "Perrod Paul",
+      "Pittet Alexis",
+      "Pittet David",
+      "Tauxe Auguste",
+      "Tauxe Ferd.",
+      "Tavernier Auguste",
+      "Tavernier Vincent",
+      "Vurlod Ami",
+      "Vurlod Emile",
+      "Vurlod Jules",
+      "Vurlod-Morex Jules",
+      "Vurlod René",
+      "Perrod Adrien",
+      "Perrod John"
+    ],
+    "Assurance-vieillesse": [
+      "Fivaz L."
+    ],
+    "Blanchisseuses": [
+      "Monod Elise",
+      "Vurlod Augustine"
+    ],
+    "Bois (comm. de)": [
+      "Vurlod Vincent"
+    ],
+    "Boulanger": [
+      "Bonzon Charles"
+    ],
+    "Café": [
+      "Oguey Louise"
+    ],
+    "Charpentiers": [
+      "Bonzon Paul",
+      "Marlétaz Ami",
+      "Tavernier Auguste",
+      "Vurlod Henri",
+      "Vurlod Vincent"
+    ],
+    "Cordonnier": [
+      "Bertholet Marcel"
+    ],
+    "Couturière": [
+      "Burnier Cécile",
+      "Monod Yvonne"
+    ],
+    "Epiceries": [
+      "Bonzon Charles",
+      "Pittet David"
+    ],
+    "Fers et quincaillerie": [
+      "Bonzon Chs"
+    ],
+    "Légumes": [
+      "Nicolier Jean-Pierre"
+    ],
+    "Scieur": [
+      "Vurlod Vincent"
+    ]
+  },
+  "LES MOSSES": {
+    "Garde forestier": [
+      "Tille Louis"
+    ],
+    "Inspect. du bétail": [
+      "Vurlod John"
+    ],
+    "Instituteur": [
+      "Vurlod Pierre"
+    ],
+    "Pasteur": [
+      "Sieveking Fritz"
+    ],
+    "Poste et télégraphe": [
+      "Mermod Louise"
+    ],
+    "Agriculteurs": [
+      "Bonzon Auguste",
+      "Borloz Auguste",
+      "Chablaix-Mermod Adrien",
+      "Dupertuis Aloïs",
+      "Dupertuis Eugène",
+      "Ginier Ad.",
+      "Ginier Vincent",
+      "Girod Aloïs",
+      "Hubert Adolphe",
+      "Mermod Adrien",
+      "Motier-Girod Adolphe",
+      "Mottier, Vve d'Auguste",
+      "Mottier Vincent",
+      "Tauxe-Tille Auguste",
+      "Vurlod Constant",
+      "Vurlod John"
+    ],
+    "Amodiateurs": [
+      "Borlat Arthur",
+      "Balsiger frères",
+      "Ginier Aloïs",
+      "Mermod Constant",
+      "Tille-Mottier Adr."
+    ],
+    "Assurance-vieillesse": [
+      "Vurlod Pierre"
+    ],
+    "Auto-répar.-taxi": [
+      "Thomas F."
+    ],
+    "Bois (comm. de)": [
+      "Durniat Marcel",
+      "Oguey Frères"
+    ],
+    "Boulanger": [
+      "Durgniat & Cie"
+    ],
+    "Charpentiers-menuisiers": [
+      "Mottier Vincent",
+      "Oguey Ami",
+      "Tauxe frères"
+    ],
+    "Couturière": [
+      "Hubert-Mottier Ida"
+    ],
+    "Entrepreneur": [
+      "Morel & Girardet"
+    ],
+    "Epicerie-Mercerie": [
+      "Durgniat M."
+    ],
+    "Hôtels-pensions": [
+      "Durgniat Marcel",
+      "Ginier Fernand",
+      "Balsiger A."
+    ],
+    "Maréchal": [
+      "Girod Aloïs"
+    ],
+    "Restaurant": [
+      "Durgniat Marcel"
+    ],
+    "Scieurs": [
+      "Oguey frères"
+    ],
+    "Divers": [
+      "Bujard A.",
+      "Girod Alex"
+    ]
+  }
+}

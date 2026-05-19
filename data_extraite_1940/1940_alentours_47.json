@@ -1,0 +1,340 @@
+{
+  "CHAMBLON": {
+    "Préfet du district": [
+      "Porchet Aug."
+    ],
+    "Syndic": [
+      "Karlen Maurice"
+    ],
+    "Secrétaire": [
+      "Thévenaz Georges"
+    ],
+    "Boursier": [
+      "Vallotton Gustave"
+    ],
+    "Municipaux": [
+      "Bangerter Willy",
+      "Cornu Ernest",
+      "Pilloud André",
+      "Schmidt Georges"
+    ],
+    "Huissier": [
+      "Cornu Clément"
+    ],
+    "Commission scolaire": [
+      "Cornu Ernest"
+    ],
+    "Contrôleur du lait": [
+      "Martinet Adrien"
+    ],
+    "Inspect. du bétail": [
+      "Martinet Adrien"
+    ],
+    "Instituteurs": [
+      "Thévenaz Georges",
+      "Martinet Marie"
+    ],
+    "Police (agent de)": [
+      "Cornu Clément"
+    ],
+    "Agriculteurs": [
+      "Bangerter Gottfried",
+      "Besson Alexis",
+      "Burri, hoirie",
+      "Chapuis Paul",
+      "Cornu Ernest",
+      "Gaille Armand",
+      "Martin Charles",
+      "Martinet Adrien",
+      "Pilloud André",
+      "Segessenmann Ernest",
+      "Schmidt Georges"
+    ],
+    "Apiculteur": [
+      "von Gunten Rob."
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Thévenaz G."
+    ],
+    "Café": [
+      "Fanti Achille"
+    ],
+    "Couturière": [
+      "Volper Elise"
+    ],
+    "Epicerie-Mercerie": [
+      "Fanti Achille"
+    ],
+    "Laitier": [
+      "Karlen Maurice"
+    ],
+    "Pisciculteur": [
+      "von Gunten Robert"
+    ],
+    "Pompes funèbres du Nord": [
+      "Cornuz"
+    ],
+    "Sociétés": [
+      "Sté du battoir à grains de Chamblon-Treycovagnes",
+      "Sté de laiterie de Chamblon",
+      "Sté de tir"
+    ],
+    "Vignerons": [
+      "Cornu Clément",
+      "Marendaz Julien"
+    ],
+    "Viticulteurs": [
+      "Cornu Ernest",
+      "Martinet Adrien",
+      "Pilloud hoirie",
+      "Porchet Auguste",
+      "Tétaz Emile",
+      "Schmidt Georges"
+    ]
+  },
+  "CHAMPAGNE": {
+    "Député": [
+      "Bourquin Louis"
+    ],
+    "Syndic": [
+      "Banderet Gustave"
+    ],
+    "Secrétaire": [
+      "Banderet Louis"
+    ],
+    "Boursier": [
+      "Milliet Germain"
+    ],
+    "Huissier": [
+      "Giroud Albert"
+    ],
+    "Municipaux": [
+      "Giroud Léon",
+      "Guilloud Henri",
+      "Guilloud Oscar",
+      "Perdrix François",
+      "Ray Louis",
+      "Tharin Jean, de César"
+    ],
+    "Assesseur": [
+      "Banderet Gustave"
+    ],
+    "Commandant du feu": [
+      "Banderet G."
+    ],
+    "Commission scolaire": [
+      "Rusterholz William"
+    ],
+    "Inspecteur du bétail": [
+      "Duvoisin Edouard"
+    ],
+    "Inspecteur des viandes": [
+      "Duvoisin Edouard"
+    ],
+    "Instituteurs": [
+      "Loewner Gilbert",
+      "Perdrix Louise"
+    ],
+    "Officier d'état-civil": [
+      "Milliet Ch."
+    ],
+    "Pasteur": [
+      "Rusterholz William"
+    ],
+    "Police (agent de)": [
+      "Duvoisin Albert"
+    ],
+    "Poste et télégraphe": [
+      "Robellaz Charles"
+    ],
+    "Téléphone": [
+      "Café du Raisin"
+    ],
+    "Agriculteurs": [
+      "Banderet Alfred",
+      "Banderet Jean",
+      "Banderet Gust.",
+      "Banderet Paul",
+      "Banderet René",
+      "Duvoisin Edouard",
+      "Gasser Willy",
+      "Giroud Léon",
+      "Gonin Louis",
+      "Guilloud Jules",
+      "Lanz Fritz",
+      "Millet Germain",
+      "Perdrix Charles",
+      "Ray Louis",
+      "Tharin André",
+      "Tharin Edouard",
+      "Tharin Ferdinand"
+    ],
+    "Apiculteurs": [
+      "Débétaz Jules",
+      "Ray Henri"
+    ],
+    "Anneaux (fabr. de)": [
+      "La Nationale S. A."
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Duvoisin Jean"
+    ],
+    "Société mutualiste de retraite": [
+      "Duvoisin Jean"
+    ],
+    "Blanchisseuse": [
+      "Perret-Tharin Marie"
+    ],
+    "Bois (march. de)": [
+      "Banderet Henri"
+    ],
+    "Boulangers": [
+      "Cornu André",
+      "Sandoz-Nicoud Michel"
+    ],
+    "Cafés": [
+      "Cercle de Champagne",
+      "Miserez Marie, vve"
+    ],
+    "Charcutier": [
+      "Bovard Fernand"
+    ],
+    "Charpentier": [
+      "Aigroz Charles"
+    ],
+    "Charron": [
+      "Perdrix Charles, fils"
+    ],
+    "Cordonniers": [
+      "Montangero Baptiste",
+      "Patthey Arthur"
+    ],
+    "Couturières": [
+      "Beauverd Irène",
+      "Duvoisin Elisa",
+      "Patthey Yvonne"
+    ],
+    "Entrepreneurs": [
+      "Bessero Servillio",
+      "Bessero frères"
+    ],
+    "Epiceries-Merceries": [
+      "Coopérative du Cercle de Champagne",
+      "Buhlmann Jules",
+      "Rothlisberger Julie",
+      "Tharin-Weber Léon"
+    ],
+    "Gypsiers": [
+      "Bessero frères",
+      "Montangero Angelo"
+    ],
+    "Horlogerie (fab. d')": [
+      "La Nationale S. A."
+    ],
+    "Horticulteur-grainier": [
+      "Jaccard G."
+    ],
+    "Institut": [
+      "Jaccard frères",
+      "Institut Mt-Fleuri"
+    ],
+    "Laitier et fromager": [
+      "de Siebenthal Edouard"
+    ],
+    "Lingère": [
+      "Perret Marie"
+    ],
+    "Maréchal": [
+      "Guillet Emile"
+    ],
+    "Menuisiers-ébénistes": [
+      "Aigroz Charles",
+      "Hofmann Emile et Edouard"
+    ],
+    "Pêcheurs": [
+      "Miserez Hermann",
+      "Tharin Robert"
+    ],
+    "Pépiniériste": [
+      "Guilloud Jules"
+    ],
+    "Pompes funèbres du Nord": [
+      "Giroud André"
+    ],
+    "Scierie": [
+      "Banderet Henri"
+    ],
+    "Sociétés": [
+      "Sté de l'usine à battre",
+      "Syndicat agricole"
+    ],
+    "Tuyaux en ciment (fabr. de)": [
+      "Bessero Alfred"
+    ],
+    "Vélos-Motos": [
+      "Randin Jules"
+    ],
+    "Vins (march. de)": [
+      "Guilloud Jules",
+      "Jaccard frères",
+      "Ray frères",
+      "Caves Donvar S.A.",
+      "Tharin Mathilde"
+    ],
+    "Vignerons": [
+      "Banderet Gust.",
+      "Guilloud Jules",
+      "Jaccard frères",
+      "Lanz Fritz",
+      "Ray frères"
+    ],
+    "Divers": [
+      "Bourquin-Laubcher L.",
+      "Smith-Jaccard, Vve"
+    ]
+  },
+  "CHAMPMARTIN": {
+    "Syndic": [
+      "Milliet Henri"
+    ],
+    "Secrétaire": [
+      "Beck Eugène"
+    ],
+    "Boursier": [
+      "Schick Louis"
+    ],
+    "Municipaux": [
+      "Beck Eugène fils",
+      "Chuard Roger"
+    ],
+    "Inspecteur du bétail": [
+      "Beck Eug. fils"
+    ],
+    "Officier d'état civil": [
+      "Milliet Henri"
+    ],
+    "Poste": [
+      "Milliet Henri"
+    ],
+    "Téléphone": [
+      "Milliet Henri"
+    ],
+    "Agriculteurs": [
+      "Beck Eugène",
+      "Chuard Ida, Vve de Robert",
+      "Geumann Ch.",
+      "Nydegger Alfr.",
+      "Milliet Henri"
+    ],
+    "Apiculteurs": [
+      "Beck Eug.",
+      "Chuard veuve de Robert"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Corthésy J."
+    ]
+  }
+}

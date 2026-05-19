@@ -1,0 +1,243 @@
+{
+  "PUIDOUX": {
+    "Charretiers": [
+      "Chevalley, Louis",
+      "Lambelet, François",
+      "Paley, Eugène"
+    ],
+    "Charron": [
+      "Meillard, Jules"
+    ],
+    "Chef de section": [
+      "Leyvraz, Félix"
+    ],
+    "Cordonniers": [
+      "Dumont, Jules",
+      "Wittwer, Jean-Marc",
+      "Læderach, Emile",
+      "Drugex"
+    ],
+    "Engrais chimiques": [
+      "Chappuis, Adrien",
+      "Décosterd-Corboz, Henri",
+      "Leyvraz, Félix"
+    ],
+    "Epicerie, mercerie": [
+      "Chaubert, Emile. R",
+      "Décosterd-Corboz, Henri",
+      "Lædt, Louise"
+    ],
+    "Eaux de Bret": [
+      "Chevalley, Gustave"
+    ],
+    "Farines (commerce)": [
+      "Chaubert, Emile",
+      "Décosterd-Corboz, Henri",
+      "Grellet, Georges-Louis",
+      "Cornu, Emile"
+    ],
+    "Hôtels-pensions": [
+      "Fonjallaz, Paul",
+      "Roth, Ch."
+    ],
+    "Inspecteurs du bétail": [
+      "Berche, Charles-Bourloud, D.",
+      "Paley, F."
+    ],
+    "Instituteurs": [
+      "Gailloz, Henri",
+      "Marillier, Adrien",
+      "Agassiz, Henriette",
+      "Chappuis-Cosandey, Nancy",
+      "Marillier, Mathilde",
+      "Randin-Lugrin, Emma"
+    ],
+    "Instruments de musique (fabr.)": [
+      "Margairaz, Aimé"
+    ],
+    "Jardinier": [
+      "Murisier, François"
+    ],
+    "Lingères": [
+      "Mermoud, Elisa",
+      "Simon, Julie"
+    ],
+    "Maçons": [
+      "Bessat, Jean-Louis",
+      "Degruffy, François",
+      "Hochstettler, Georges-Jaques"
+    ],
+    "Maréchaux": [
+      "Nægeli, Théophile",
+      "Sunier, Jules",
+      "Tschumy, Jean-Louis"
+    ],
+    "Meuniers": [
+      "Conne, Emile",
+      "Décosterd, Charles",
+      "Grellet, G.",
+      "Leyvraz, Louis-Samuel",
+      "Wittwer, Jean"
+    ],
+    "Président du Tribunal": [
+      "Chevalley, Victor"
+    ],
+    "Propriétaires": [
+      "Bovy, Emile",
+      "Chappuis, Louis",
+      "Chevalley, Henri",
+      "Leyvraz, Emile"
+    ],
+    "Socques (fabr.)": [
+      "Guillon, Avit",
+      "Légeret, Louis-Samuel",
+      "Légeret, L."
+    ],
+    "Sociétés": [
+      "Société de laiterie de Toloveau",
+      "Sociétés de laiterie de l'Epesse, de la Loche, de Longchamp, de la Méléréaz et de Cremières"
+    ],
+    "Tailleur": [
+      "Margairaz, J.-L."
+    ],
+    "Tailleuses": [
+      "Chappuis, Marguerite",
+      "Viquerat, Marie-Elise",
+      "Pasche, Julie",
+      "Nægeli, Marie",
+      "Cossy-Forney, Marie"
+    ],
+    "Téléphone communal": [
+      "Dépôt des Postes"
+    ],
+    "Vins (march.)": [
+      "Testuz, Hoirs",
+      "Bron, Henri"
+    ]
+  },
+  "RIEX": {
+    "Autorités communales": [
+      "Fauquex, Frédéric",
+      "Bovard, Felix",
+      "Palaz, Gustave",
+      "Palaz, Rodolphe",
+      "Bessat-Cossy, Louis",
+      "Wælchli, Jean",
+      "Bujard, Jules",
+      "Duboux, Emile",
+      "Manigley, Jules"
+    ],
+    "Boisselerie": [
+      "Manigley, veuve"
+    ],
+    "Boulanger": [
+      "Manigley, Jules. R."
+    ],
+    "Café": [
+      "Palaz, Rodolphe. R."
+    ],
+    "Charcutier": [
+      "Manigley, J. R."
+    ],
+    "Charpentier": [
+      "Fayet, Samuel"
+    ],
+    "Cordonnier": [
+      "Gilliard"
+    ],
+    "Epicerie, mercerie": [
+      "Blanc, H.",
+      "Manigley, J. R."
+    ],
+    "Gérant": [
+      "Palaz, Gustave"
+    ],
+    "Inspecteur du bétail": [
+      "Manigley, Jules"
+    ],
+    "Instituteurs": [
+      "Voruz, Henri",
+      "Isenard, Sophie"
+    ],
+    "Laitier": [
+      "Liaudet, Henri"
+    ],
+    "Repasseuses": [
+      "Delapraz, Marie",
+      "Duboux, Emma"
+    ],
+    "Sociétés": [
+      "Société de laiterie de Riex. R",
+      "Société du poids public. R"
+    ],
+    "Tailleuses": [
+      "Borgognon, Marie",
+      "Duflon, Adèle"
+    ],
+    "Téléphoniste communal": [
+      "Manigley, J."
+    ]
+  },
+  "RIVAZ": {
+    "Autorités communales": [
+      "Ruchonnet, Gustave",
+      "Chappuis, François",
+      "Chaudet, Emile",
+      "Peyrollaz, Eugène",
+      "Leyvraz, Louis",
+      "Chappuis, Aimé",
+      "Testuz, Jules",
+      "Testuz, Ch.",
+      "Chappuis, Vincent"
+    ],
+    "Assesseur": [
+      "Chappuis, Lucien"
+    ],
+    "Boulanger": [
+      "Senn, Jean"
+    ],
+    "Cafés": [
+      "Grobeli, Louis",
+      "Testuz, Jules"
+    ],
+    "Charcutier": [
+      "Senn, Jean"
+    ],
+    "Chef de gare": [
+      "Regamey, Louis"
+    ],
+    "Chef de section": [
+      "Testuz, François"
+    ],
+    "Cordonnier": [
+      "Cossy, Auguste"
+    ],
+    "Couturières": [
+      "Chappuis, Louise",
+      "Revaz, Louise"
+    ],
+    "Epicerie, tabacs": [
+      "Senn, Jean",
+      "Chevalley, Charles"
+    ],
+    "Inspecteur du bétail": [
+      "Monachon, Julien"
+    ],
+    "Instituteurs": [
+      "Durussel, Paul",
+      "Chevalley, Elisa"
+    ],
+    "Meunier": [
+      "Grellet, G.-Louis. T."
+    ],
+    "Menuisier": [
+      "Jaunin, Alphonse"
+    ],
+    "Poste et télégraphe": [
+      "Chenaud, veuve"
+    ],
+    "Propriétaires": [
+      "Bron, Jules"
+    ]
+  }
+}

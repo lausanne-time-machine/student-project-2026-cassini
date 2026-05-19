@@ -1,0 +1,339 @@
+{
+  "YVORNE": {
+    "Municipaux": [
+      "Barbay Edmond",
+      "Blanc Edouard",
+      "Durgnat Alfred",
+      "Isoz René",
+      "Isoz Samuel",
+      "Muller Gustave"
+    ],
+    "Cantonnier": [
+      "Delacrétaz Samuel"
+    ],
+    "Chef de gare": [
+      "Busset Gustave"
+    ],
+    "Command. du feu": [
+      "Muller Gustave"
+    ],
+    "Commission scolaire": [
+      "Décurey Marcel"
+    ],
+    "Garde-forestier": [
+      "Dubuis Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Cropt Louis"
+    ],
+    "Inspecteur des viandes": [
+      "Muller Gust."
+    ],
+    "Instituteurs": [
+      "Bolomey Adrien",
+      "Cornioley Charlotte",
+      "Gesseney Ls",
+      "Ansermoz-Pittier Mme"
+    ],
+    "Assesseur": [
+      "Ansermoz Max"
+    ],
+    "Pasteur": [
+      "Décurey Marcel"
+    ],
+    "Police (agent de)": [
+      "Bornex Ami"
+    ],
+    "Poste": [
+      "Minod Charles"
+    ],
+    "Agriculteurs": [
+      "Ansermoz-Mayencourt Eugène",
+      "Ansermoz Charles",
+      "Ansermoz-Grosjean Jules",
+      "Ansermoz Marius",
+      "Ansermoz-Durgnat Robert",
+      "Ansermoz Max",
+      "Ansermoz Jean",
+      "Ansermoz-Grosjean G.",
+      "Ansermoz Félix",
+      "Allamand Samuel",
+      "Annen Christian",
+      "Barbay Ed.",
+      "Blanc Ed.",
+      "Bonjour-Pollen Henri",
+      "Bonjour-Nicolet Hri",
+      "Bonjour Gustave",
+      "Borloz Ch.",
+      "Borloz Louis",
+      "Borloz Adolphe",
+      "Bois Victor",
+      "Boven François",
+      "Burnier Henri",
+      "Burnier David",
+      "Busset Jules",
+      "Busset Paul",
+      "Byrde Robert",
+      "Chapalay Paul",
+      "Cheseaux Marcel",
+      "Crosasso Roger",
+      "Deladcey Constant",
+      "Dubuis-Perret H.",
+      "Dubuis-Petitmermet H.",
+      "Dubuis Frédéric",
+      "Dubuis André",
+      "Dufresne Jules",
+      "Dupertuis Félix",
+      "Dupertuis Louis",
+      "Dupertuis-Neveu Paul",
+      "Durgnat Alfred",
+      "Dupuis Charles",
+      "Gilliéron Alexis et Jean",
+      "Hugonnet Henri",
+      "Isoz David",
+      "Isoz Jean",
+      "Isoz Samuel",
+      "Kammer Adolphe",
+      "Kohli Alfred",
+      "Kohli Henri",
+      "Maret Gustave",
+      "Monod Félix",
+      "Muller Louis",
+      "Muller Gustave",
+      "Muller André",
+      "Mullener Charles",
+      "Nufer Constant",
+      "Nufer Jean",
+      "Nufer Joseph",
+      "Perréaz Georges",
+      "Perret-Bournoud Henri",
+      "Perret Alfred",
+      "Perret Ls",
+      "Perret Numa",
+      "Perret Aloys",
+      "Pichard Jules",
+      "Petitmermet Pierre-Abram",
+      "Pollen Alfred",
+      "Stalder Charles",
+      "Stalder Louis",
+      "Schwager Aloys",
+      "Tabord Ami",
+      "Vannay Maurice"
+    ],
+    "Apiculteurs": [
+      "Annen Christian",
+      "Nufer Joseph",
+      "Gex Jean-Louis"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Crosasso Roger"
+    ],
+    "Aviculteur": [
+      "Guntz Eugène"
+    ],
+    "Bétail (comm. de)": [
+      "Durgniat Rob."
+    ],
+    "Bouchers": [
+      "Nufer André",
+      "Zehender Jean"
+    ],
+    "Boulangers": [
+      "Kammer Ed.",
+      "Monod Robert"
+    ],
+    "Cafés": [
+      "Borloz Louis",
+      "Café du Torrent",
+      "Graber André",
+      "Association viticole",
+      "La Couronne"
+    ],
+    "Charpentiers": [
+      "Paris Jules",
+      "Vouilloz Ed."
+    ],
+    "Cordonnier": [
+      "Mingard Elie"
+    ],
+    "Couturières": [
+      "Ansermoz Jeanne",
+      "Petitmermet Marianne"
+    ],
+    "Epiceries-merceries": [
+      "Kammer Ed.",
+      "Mottier Vincent",
+      "Monod Robert"
+    ],
+    "Electricien": [
+      "Dupertuis Jean"
+    ],
+    "Gypsiers-peintres": [
+      "Deregis & Merlo"
+    ],
+    "Horticulteur": [
+      "Gex Louis"
+    ],
+    "Jardinier — maraîcher": [
+      "Vaudroz-Schlupp Alice"
+    ],
+    "Maçon": [
+      "Ferrari Charles"
+    ],
+    "Maison de repos": [
+      "Dami D.",
+      "La Fourmilière"
+    ],
+    "Maréchal-forgeron": [
+      "Gigandet Maur."
+    ],
+    "Mécaniciens": [
+      "Ansermoz Emile",
+      "Ansermoz Max"
+    ],
+    "Menuisiers": [
+      "Paris Jules",
+      "Vouilloz Ed."
+    ],
+    "Pépiniéristes-viticulteurs autorisés": [
+      "Borloz Charles",
+      "Isoz René",
+      "Petitmermet François"
+    ],
+    "Porcs (md de)": [
+      "Dubuis Frédéric"
+    ],
+    "Primeurs (gros)": [
+      "Cornet-Schlupp Georges"
+    ],
+    "Sage-femme": [
+      "Perret-Durgnat Louise"
+    ],
+    "Sociétés": [
+      "Abbaye de l'Union",
+      "Association viticole",
+      "Sté des Bons-Templiers",
+      "Sté de chant",
+      "Sté de laiterie de Vers-Vey",
+      "Sté de laiterie du Torrent",
+      "Sté des Mousquetaires",
+      "Sté de tir militaire",
+      "Syndicat d'élevage"
+    ],
+    "Vignerons-propriétaires": [
+      "Ansermoz-Mayencourt Eug.",
+      "Ansermoz-Perret Charles",
+      "Ansermoz-Grosjean Jules",
+      "Ansermoz-Dubuis Marius",
+      "Ansermoz-Durgnat Robert",
+      "Ansermoz Max",
+      "Ansermoz Jean",
+      "Ansermoz-Drapel Louis",
+      "Ansermoz Ami",
+      "Ansermoz Georg.",
+      "Ansermoz-Perret Aloys",
+      "Ansermoz Henri",
+      "Allamand Samuel",
+      "Barbay Edmond",
+      "Blanc Edouard",
+      "Bonjour-Pollen Henri",
+      "Bonjour-Nicolet Henri",
+      "Bonjour Charles",
+      "Borloz-Isoz Aug.",
+      "Borloz Edouard",
+      "Borloz Charles",
+      "Borloz-Glatz Louis",
+      "Borloz Adolphe",
+      "Bois V.",
+      "Boven François",
+      "Burnier Henri",
+      "Burnier Julia",
+      "Bonzon Alexis",
+      "Busset Jules",
+      "Busset Paul",
+      "Byrde Robert",
+      "Butty Auguste",
+      "Cheseaux Marcel",
+      "Cropt Louis",
+      "Crosasso Roger",
+      "Cordey Louis",
+      "Desfayes Albert",
+      "Delacrétaz Gust.",
+      "Delacrétaz Paul",
+      "Deladcey Ch.",
+      "Deladcey Const.",
+      "Dubuis Alfr.",
+      "Dubuis André",
+      "Dubuis Charles",
+      "Dubuis Louis",
+      "Dubuis-Perret Hri",
+      "Dubuis-Petitmermet Henri",
+      "Dubuis Frédéric",
+      "Dufresne Jules",
+      "Dupertuis Félix",
+      "Dupertuis Louis",
+      "Durgnat André",
+      "Durgnat Henri et Robert",
+      "Delacrétaz Jean",
+      "Dupuis Charles",
+      "Gex Louis",
+      "Gex J.-Ls",
+      "Grosjean Henri",
+      "Grosjean Robert",
+      "Hugonnet Henri",
+      "Isoz Félix",
+      "Isoz David",
+      "Isoz Jean",
+      "Isoz René",
+      "Kammer Adolphe",
+      "Kohli Michel",
+      "Kohli Henri",
+      "Kohli Alfred",
+      "Maret Gustave",
+      "Maret Arthur",
+      "Maret William",
+      "Minod Charles",
+      "Monod Félix",
+      "Mex Maurice",
+      "Muller Louis",
+      "Muller Gustave",
+      "Muller André",
+      "Mullener Charles",
+      "Mayencourt Camille",
+      "Mayencourt Arthur",
+      "Navioz Emile",
+      "Nicolet Henri",
+      "Nicolet René",
+      "Nufer Jean",
+      "Nufer Joseph",
+      "Nufer Constant",
+      "Perréaz Georges",
+      "Perret-Tabord Rodolphe",
+      "Perret Louis",
+      "Perret Numa",
+      "Petitmermet Pierre",
+      "Petitmermet François",
+      "Pollen Alfred",
+      "Tabord Louis",
+      "Tabord Henri",
+      "Veillard Charles",
+      "Vannay Maurice",
+      "Zehender Jean"
+    ],
+    "Vins (marchands de)": [
+      "Association viticole",
+      "Borloz Louis",
+      "Dubuis André",
+      "Dubuis Henri",
+      "Minod Charles"
+    ],
+    "Divers": [
+      "de Vries-de Heckelingen H.",
+      "château de la Maison Blanche",
+      "Perréaz Georges",
+      "Vallecard Louise",
+      "Vve de René"
+    ]
+  }
+}

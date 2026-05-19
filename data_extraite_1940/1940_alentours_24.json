@@ -1,0 +1,440 @@
+{
+  "BAVOIS": {
+    "Syndic": [
+      "Agassis Emile"
+    ],
+    "Secrétaire": [
+      "Oulevay Paul"
+    ],
+    "Boursier": [
+      "Monnay Charles"
+    ],
+    "Huissier": [
+      "Recordon William"
+    ],
+    "Municipaux": [
+      "Agassis Robert",
+      "Carrel Gustave",
+      "Gaudard Edouard",
+      "Gobalet Gustave",
+      "Jean-Mairet René",
+      "Oulevay Emile"
+    ],
+    "Assesseur": [
+      "Oulevay Louis"
+    ],
+    "Commandant du feu": [
+      "Agassis Jules"
+    ],
+    "Commission scolaire": [
+      "Carrel Henri",
+      "Oulevay Emile",
+      "Rochat Gges."
+    ],
+    "Garde forestier": [
+      "Léonnard Alfred"
+    ],
+    "Inspecteur forestier": [
+      "Jaccard Louis"
+    ],
+    "Inspecteurs du bétail": [
+      "Favre Jules",
+      "Roulen Ulysse"
+    ],
+    "Inspecteur des viandes": [
+      "Agassis Gust."
+    ],
+    "Cantonnier": [
+      "Borgeaud Léon"
+    ],
+    "Instituteurs": [
+      "Addor Eric",
+      "Addor Dorothée"
+    ],
+    "Pasteur": [
+      "Pitton Théodore"
+    ],
+    "Police (agent de)": [
+      "Oulevay Paul"
+    ],
+    "Agriculteurs": [
+      "Agassis Emile",
+      "Agassis Gustave",
+      "Borgeaud frères",
+      "Carrel Chs-Ls",
+      "Garrel Gust.",
+      "Gobalet Alfred et Gust.",
+      "Gobalet Emile",
+      "Gobalet Hri",
+      "Jean-Mairet Const.",
+      "Oulevay Louis",
+      "Oulevay Albert",
+      "Roulin Alexis",
+      "Roulin Ulysse",
+      "Saltzmann Emile",
+      "Saltzmann Paul"
+    ],
+    "Amodiateurs": [
+      "Gobalet frères",
+      "Oulevay Louis"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Addor Eric"
+    ],
+    "Boulanger": [
+      "Clément René"
+    ],
+    "Cafés": [
+      "La Croix-Blanche",
+      "Crottaz Eug.",
+      "du Raisin",
+      "Herbez Fritz"
+    ],
+    "Cordonnier": [
+      "Blanchard Henri"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Agassis-Carrel Em.",
+      "Kohly André"
+    ],
+    "Laitiers": [
+      "Sté de laiterie",
+      "Montandon Ch.",
+      "Steiner Alfred"
+    ],
+    "Maréchaux": [
+      "Roulin Lucien",
+      "Turin Louis"
+    ],
+    "Sage-femme": [
+      "Wahl Clara"
+    ],
+    "Sociétés": [
+      "Sté des agriculteurs de Bavois",
+      "Sté du battoir à grains",
+      "Sté de chant",
+      "Stés de fromagerie de Cache-Bolin et du Coudray",
+      "Sté laitière de Bavois",
+      "Sté de musique",
+      "Syndicat agricole",
+      "Armes de Guerre"
+    ]
+  },
+  "BEGNINS": {
+    "Députés du cercle": [
+      "Bozonnet Charles",
+      "Genevay Paul"
+    ],
+    "Syndic": [
+      "Dessiex Henri"
+    ],
+    "Secrétaire": [
+      "Cornaz Léon"
+    ],
+    "Boursier": [
+      "Besson César"
+    ],
+    "Huissier": [
+      "Curchod Gaston"
+    ],
+    "Municipaux": [
+      "Bassin Ernest",
+      "Bozonnet Charles",
+      "Sallaz Jules",
+      "Stähly Gustave"
+    ],
+    "Cantonnier": [
+      "Vuillety Jules"
+    ],
+    "Chef de section": [
+      "Dessiex Henri"
+    ],
+    "Commission scolaire": [
+      "Gervaix Fr."
+    ],
+    "Commandant du feu": [
+      "Gervaix Fçois."
+    ],
+    "Contrôleur du lait": [
+      "Mennet Robert"
+    ],
+    "Garde forestier": [
+      "Velan A."
+    ],
+    "Gendarmerie (Poste de)": [
+      "Semoroz E."
+    ],
+    "Greffier de paix": [
+      "Charbonnier Js."
+    ],
+    "Inspecteur du bétail": [
+      "Henriod Louis"
+    ],
+    "Inspecteur des viandes": [
+      "Perrin G."
+    ],
+    "Instituteurs": [
+      "Jaton Marc",
+      "Monnet Hélène",
+      "André Olive"
+    ],
+    "Juge de paix": [
+      "Genevay"
+    ],
+    "Officier d'état civil": [
+      "Dessiex Hri"
+    ],
+    "Pasteurs": [
+      "Eichenberger Walter",
+      "Zeller"
+    ],
+    "Police (agent de)": [
+      "Curchod Gaston"
+    ],
+    "Poste": [
+      "Rochat Hector"
+    ],
+    "Téléphone public": [
+      "Ecu Vaudois",
+      "Cochet Gustave"
+    ],
+    "Agriculteurs": [
+      "Besson César",
+      "Bovy Julien",
+      "Bozonnet Charles",
+      "Brandt Paul",
+      "Charbonnier Henri",
+      "Dessiex Henri",
+      "Duboux Aimé",
+      "Dumas Olivier",
+      "Gay Louis",
+      "Gerber",
+      "Grand Henri",
+      "Grand Paul",
+      "Haldemann Christian",
+      "Haldi Emile",
+      "Hugli Eugène",
+      "Kreuter Emile",
+      "Lerch E.",
+      "Loup Paul",
+      "Mennet Robert",
+      "Messer Jean",
+      "Métroz Paul",
+      "Peter Edouard",
+      "Rey François",
+      "Reyrenn Albert",
+      "Reyrenn-Michot Charles",
+      "Sinner Auguste",
+      "Stuby Emile"
+    ],
+    "Arboriculteur": [
+      "Dessiex Robert"
+    ],
+    "Apiculteurs": [
+      "Bassin Ernest",
+      "Charlet Daniel",
+      "Jaton Marc"
+    ],
+    "Appareilleurs": [
+      "Matthey Marius",
+      "Zimmermann Francis"
+    ],
+    "Asile": [
+      "Asile des Vieillards de la Côte"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite",
+      "Monnet H."
+    ],
+    "Blanchisseuse": [
+      "Cavin Hélène"
+    ],
+    "Bois": [
+      "Jaquet Joseph",
+      "Scierie Schacher S. A."
+    ],
+    "Boucher": [
+      "Monnet Fernand"
+    ],
+    "Boulangers": [
+      "Isely Ernest",
+      "Jufer E."
+    ],
+    "Cafés": [
+      "Ecu Vaudois",
+      "Cochet Gust.",
+      "Ecu de Genève",
+      "Roth F. R.",
+      "Bassin Ernest"
+    ],
+    "Camionneur": [
+      "Challande Marius"
+    ],
+    "Céramiste": [
+      "Gay Aloïs"
+    ],
+    "Chapellerie": [
+      "Cornaz Léon"
+    ],
+    "Charpentier": [
+      "Cujean Edouard"
+    ],
+    "Charcutier": [
+      "Loup Louis"
+    ],
+    "Chaussures": [
+      "Gaggione Jaques",
+      "Michaud & Goy"
+    ],
+    "Coiffeur": [
+      "Bassin Ernest"
+    ],
+    "Combustibles": [
+      "Challande Marius"
+    ],
+    "Confection": [
+      "Cornaz Léon",
+      "Michaud & Goy"
+    ],
+    "Couturière": [
+      "Bovy Fernand"
+    ],
+    "Cordonniers": [
+      "Gaggione Jaques",
+      "Janin Emile",
+      "Morzier François"
+    ],
+    "Dentiste": [
+      "Humbert-Droz L."
+    ],
+    "Droguistes": [
+      "Jaccard Georges",
+      "Michaud & Goy"
+    ],
+    "Ebéniste": [
+      "Gervaix-Monnard Paul"
+    ],
+    "Electricité": [
+      "Soc. Electrique de la Côte"
+    ],
+    "Encadreurs": [
+      "Michaud & Goy"
+    ],
+    "Entrepreneur": [
+      "Nicola Louis"
+    ],
+    "Epiceries-Merceries": [
+      "Cornaz L.",
+      "Goétt A.",
+      "Michaud & Goy",
+      "Mosetti Marie"
+    ],
+    "Ferblantiers": [
+      "Grin Charles",
+      "Matthey Marius",
+      "Cottier Maurice"
+    ],
+    "Fers et quincail.": [
+      "Michaud & Goy"
+    ],
+    "Fromages": [
+      "Soc. laiterie, Begnins"
+    ],
+    "Fruits et légumes": [
+      "Cornaz Léon",
+      "Michaud & Goy"
+    ],
+    "Géomètre": [
+      "Rochaix Louis"
+    ],
+    "Grains et farines": [
+      "Isely Ernest",
+      "Michaud & Goy",
+      "Cornaz A. fils"
+    ],
+    "Gypsiers": [
+      "Mosetti Lucien",
+      "Novarina Pierre"
+    ],
+    "Hôtel": [
+      "Ecu Vaudois",
+      "Cochet Gust."
+    ],
+    "Instruments dentaires": [
+      "Christinet Henri"
+    ],
+    "Jardiniers": [
+      "Badan Hri",
+      "Brauch Marguerite"
+    ],
+    "Journaux": [
+      "Cornaz Léon",
+      "Michaud & Goy"
+    ],
+    "Laitier": [
+      "Hornung Marc"
+    ],
+    "Machines agricoles": [
+      "Michaud & Goy",
+      "Zimmermann Francis"
+    ],
+    "Maréchal": [
+      "Zimmermann Francis"
+    ],
+    "Matériaux de constr.": [
+      "Michaud & Goy"
+    ],
+    "Mécaniciens": [
+      "Christinet Henri",
+      "Galliker Paul"
+    ],
+    "Médecin": [
+      "Francken William"
+    ],
+    "Menuisiers": [
+      "Bovy Fernand",
+      "Gervaix-Monnard Paul",
+      "Marin Joseph"
+    ],
+    "Meuniers": [
+      "Cornaz Armand",
+      "Langer P."
+    ],
+    "Pâtisserie": [
+      "Isely Ernest"
+    ],
+    "Pensions": [
+      "Sahy Ad.",
+      "Dr Sollberger"
+    ],
+    "Pharmacien": [
+      "Jaccard Georges"
+    ],
+    "Porcherie": [
+      "Kreuter Emile"
+    ],
+    "Prof. de musique": [
+      "Charlet Daniel"
+    ],
+    "Régisseur": [
+      "Dessiex Henri"
+    ],
+    "Rentiers": [
+      "Buhlmann Marie",
+      "Giovanna Marg.",
+      "Grand Adrienne",
+      "Jaccard Marthe",
+      "Lucas Maurice",
+      "Stoucki Louise",
+      "Meylan Julia"
+    ],
+    "Repasseuses": [
+      "Cavin Hélène",
+      "Henriod Aloïs"
+    ],
+    "Sage-femme": [
+      "Grosjean Mme."
+    ]
+  }
+}

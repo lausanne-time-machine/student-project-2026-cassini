@@ -1,0 +1,251 @@
+{
+  "BLONAY": {
+    "Autorités communales": [
+      "Pilliod Alfred",
+      "Béguin Jules"
+    ],
+    "Syndic": [
+      "Pilliod Constant"
+    ],
+    "Municipaux": [
+      "Bonjour Eugène",
+      "Dupraz Jules",
+      "Bonjour Adolphe",
+      "Vincent Louis",
+      "Bonjour Henri"
+    ],
+    "Agent de police": [
+      "Michaud Jules"
+    ],
+    "Agriculteurs": [
+      "Bonjour Ad.",
+      "Bonjour Edouard",
+      "Bonjour Jules",
+      "Bonjour Rodolphe",
+      "Bonjour-Regamey",
+      "Dupraz François-Aimé",
+      "Dupraz François-Louis",
+      "Dupraz Jules",
+      "Dupraz V.",
+      "Dupraz-Pilliod",
+      "Mamin",
+      "Pilliod Alfred",
+      "Pilliod",
+      "Schneider P."
+    ],
+    "Bains": [
+      "Cochard"
+    ],
+    "Boulangers": [
+      "Henchoz-Lenoir Louis",
+      "Henry Constant",
+      "Mayor L."
+    ],
+    "Cafetiers": [
+      "Bonjour Adolphe",
+      "Cochard Ls",
+      "Cochard",
+      "Equez",
+      "Lovis Jules",
+      "Vuadens Auguste",
+      "Vuadens Pierre",
+      "Vuadens Emile"
+    ],
+    "Charpentiers": [
+      "Béguin",
+      "Vauthey D."
+    ],
+    "Charrons": [
+      "Margot Jules",
+      "Neiger Jean"
+    ],
+    "Chef de gare": [
+      "Dupraz Henri"
+    ],
+    "Commission scolaire": [
+      "Pilliod Constant",
+      "Dupraz J.",
+      "Dupraz Victor",
+      "Lapierre Jules",
+      "Henry Constant"
+    ],
+    "Cordonniers": [
+      "Anex Rodolphe",
+      "Caillet Henri"
+    ],
+    "Couvreur": [
+      "Ducraux Frédéric"
+    ],
+    "Entrepreneur": [
+      "Vuadens Henri"
+    ],
+    "Epiceries": [
+      "Henchoz-Lenoir Louise",
+      "Henry Constant",
+      "Mayor L."
+    ],
+    "Forestier": [
+      "Montet Alexandre"
+    ],
+    "Inspecteur du bétail": [
+      "Bonjour Adolphe"
+    ],
+    "Instituteurs": [
+      "Charlet Fernand",
+      "Jaccaud Ernest",
+      "Porchet Henriette",
+      "Rossire Louise"
+    ],
+    "Jardinier": [
+      "Dupraz Ulysse"
+    ],
+    "Juge de paix": [
+      "Pilliod Constant"
+    ],
+    "Maréchaux": [
+      "Morier Louis",
+      "Monod Pierre"
+    ],
+    "Menuisiers": [
+      "Béguin",
+      "Bohren Pierre"
+    ],
+    "Meuniers": [
+      "Dizerens Louis",
+      "Dizerens Philippe"
+    ],
+    "Pasteur": [
+      "Berguer Jean"
+    ],
+    "Pensions": [
+      "Bonjour Eugène",
+      "Bonjour Louisa",
+      "Bonjour Ad.",
+      "Bernard",
+      "Nussbaum Stéphanie",
+      "Rochat Edouard"
+    ],
+    "Poste": [
+      "Pilet Emile"
+    ],
+    "Rentiers": [
+      "de Lacroix",
+      "de Blonay Sigismond",
+      "Girod"
+    ],
+    "Sociétés": [
+      "Laiterie de Chaussey",
+      "Laiterie des Chevalleyres",
+      "Laiterie de Cojonnex",
+      "Laiterie de Pierraz",
+      "Tirs",
+      "Syndicat agricole"
+    ],
+    "Télégraphiste": [
+      "Caillet-Bergoz"
+    ],
+    "Téléphoniste": [
+      "Henchoz-Lenoir Louise"
+    ],
+    "Tonnelier": [
+      "Müller Emile"
+    ]
+  },
+  "CHARDONNE": {
+    "Autorités communales": [
+      "Ducret Ferdinand",
+      "Forestier Louis"
+    ],
+    "Syndic": [
+      "Ducret Eugène"
+    ],
+    "Municipaux": [
+      "Ducret Henri",
+      "Ducret Louis",
+      "Neyroud Henri",
+      "Forestier Charles",
+      "Mouron Charles",
+      "Fattebert François",
+      "Cand Albert",
+      "Neyroud Louis"
+    ],
+    "Boulangers": [
+      "Bidaud",
+      "Ducros Aug."
+    ],
+    "Cafetiers": [
+      "Brunet Henri",
+      "Ducret Henri",
+      "Ducret Ferdinand",
+      "Marti Charles",
+      "Mouron Ami",
+      "Salomon Etienne"
+    ],
+    "Charpentiers": [
+      "Dénéréaz-Muller Louis",
+      "Neyroud-Muller Jean",
+      "Neyroud Henri"
+    ],
+    "Charron": [
+      "Brouty Constant"
+    ],
+    "Commission scolaire": [
+      "Brossy Charles",
+      "Neyroud Edouard",
+      "Ducret Eugène",
+      "Forestier Louis",
+      "Ducret Robert",
+      "Ducret Ed.",
+      "Mouron Ch."
+    ],
+    "Cordonniers": [
+      "Hottiger Benjamin",
+      "Tavernay Gustave"
+    ],
+    "Epicerie, mercerie": [
+      "Barbey",
+      "Bidaud",
+      "Béguin",
+      "Ducret-Robert",
+      "Gattabin-Bersier"
+    ],
+    "Hôtels et pensions": [
+      "Bellevue",
+      "Pelot A.",
+      "Belvédère",
+      "Ch.",
+      "Grand Hôtel du Pèlerin",
+      "Niess & Cie.",
+      "Pèlerin Palace Hôtel",
+      "Schwarz Ch.",
+      "Hôtel et Pension des Alpes",
+      "Cand-Gammeter",
+      "Du toit Louise"
+    ],
+    "Inspecteurs du bétail": [
+      "Neyroud Louis",
+      "Genton François"
+    ],
+    "Instituteurs": [
+      "Cand Albert",
+      "Chollet Louise",
+      "Bobillier Amélie",
+      "Bonzon Félix"
+    ],
+    "Juge de paix": [
+      "Ducret Jean"
+    ],
+    "Maréchal": [
+      "Grand Marc"
+    ],
+    "Menuisier": [
+      "Rouiller Joseph"
+    ],
+    "Pasteur": [
+      "Brossy Charles"
+    ],
+    "Sociétés": [
+      "Laiterie de Pauilly"
+    ]
+  }
+}

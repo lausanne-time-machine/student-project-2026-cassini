@@ -1,0 +1,428 @@
+{
+  "L'ISLE": {
+    "Imprégnation (Usine d')": [
+      "Société Romande pour l'imprégnation des bois"
+    ],
+    "Jardinier": [
+      "Baudat"
+    ],
+    "Laitier, fromages": [
+      "Jousson"
+    ],
+    "Machines à coudre": [
+      "Weber-Baudat"
+    ],
+    "Machines agricoles": [
+      "Aeschlimann",
+      "Weber-Baudat"
+    ],
+    "Maréchal": [
+      "Aeschlimann"
+    ],
+    "Mécanic.-serr.": [
+      "Weber-Baudat"
+    ],
+    "Médecin": [
+      "Grec"
+    ],
+    "Menuisiers": [
+      "Dähler",
+      "Dähler",
+      "Kirchofer",
+      "Regamey"
+    ],
+    "Meunier": [
+      "Schaer"
+    ],
+    "Notaire": [
+      "Schumacher"
+    ],
+    "Pension": [
+      "Gruaz"
+    ],
+    "Pompes funèbres du Nord": [
+      "Weber-Baudat"
+    ],
+    "Primeurs": [
+      "Baudat"
+    ],
+    "Rentiers": [
+      "Bernard",
+      "Mermoud"
+    ],
+    "Sages-femmes": [
+      "Margot",
+      "Schluchter"
+    ],
+    "Scieur": [
+      "Schaer"
+    ],
+    "Sellier-tapissier": [
+      "Jotterand"
+    ],
+    "Sociétés": [
+      "Section de la Croix-Bleue",
+      "Sté d'alpage",
+      "Sté de fromagerie de l'Isle",
+      "Syndicat agricole",
+      "Sté de chant",
+      "Sté de musique",
+      "Sté du Ski-Club",
+      "Sté des Footballeurs",
+      "Sté Armes de Guerre",
+      "Sté Francs-Tireurs",
+      "Sté des pêcheurs en rivière"
+    ],
+    "Tailleur": [
+      "Capt"
+    ],
+    "Transports": [
+      "Gruaz",
+      "Jeanneret-Favre",
+      "S.A.P.J.V"
+    ],
+    "Tricoteuses": [
+      "Waridel",
+      "Wulliens"
+    ],
+    "Vélos": [
+      "Bolomey",
+      "Weber-Baudat"
+    ],
+    "Vins": [
+      "Redard"
+    ],
+    "Divers": [
+      "Favre",
+      "Lachenal-Jaques",
+      "Vieux-Logis"
+    ]
+  },
+  "La Coudre": {
+    "Conseil administratif du hameau (cinq membres)": [
+      "Cloux",
+      "Cloux",
+      "Cloux",
+      "Baudat",
+      "Rochat"
+    ],
+    "Secrétaire": [
+      "Cloux-Capt"
+    ],
+    "Boursier": [
+      "Cloux"
+    ],
+    "Huissier": [
+      "Cloux"
+    ],
+    "Garde forestier": [
+      "Martinet"
+    ],
+    "Inspecteur du bétail": [
+      "Cloux"
+    ],
+    "Institutrice": [
+      "Magnenat"
+    ],
+    "Poste et télégraphe": [
+      "Cloux"
+    ],
+    "Téléphone": [
+      "Stat. publ. à la poste"
+    ],
+    "Agriculteurs": [
+      "Baudat",
+      "Baudat",
+      "Charroton",
+      "Cloux-Capt",
+      "Cloux",
+      "Cloux",
+      "Cloux",
+      "Morel",
+      "Nicolet",
+      "Poget",
+      "Rochat",
+      "Rochat",
+      "Ueltschi"
+    ],
+    "Architecte": [
+      "Cloux"
+    ],
+    "Bétail (march. de)": [
+      "Ueltschi"
+    ],
+    "Cafetier": [
+      "Rochat"
+    ],
+    "Camionneur": [
+      "Bertoni"
+    ],
+    "Entrepreneur": [
+      "Bertoni"
+    ],
+    "Epicerie": [
+      "Bertoni"
+    ],
+    "Ingénieur-constructeur": [
+      "Cloux"
+    ],
+    "Laiterie et fromages": [
+      "Golaz"
+    ],
+    "Maçon": [
+      "Bertoni"
+    ],
+    "Menuisier-ébéniste": [
+      "Cloux"
+    ],
+    "Pension": [
+      "Genevaz"
+    ],
+    "Sellier-tapissier": [
+      "Bolay"
+    ]
+  },
+  "Villars-Bozon": {
+    "Inspecteur du bétail": [
+      "Panchaud",
+      "Faillettaz"
+    ],
+    "Poste et télégraphe": [
+      "Geneyne"
+    ],
+    "Téléphone": [
+      "Faillettaz",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs": [
+      "Berlie",
+      "Bourl'homme",
+      "Chautems",
+      "Cloux",
+      "Delacrétaz",
+      "Desponds",
+      "Faillettaz",
+      "Faillettaz",
+      "Geneyne",
+      "Gruaz",
+      "Guignard",
+      "Martin",
+      "Panchaud",
+      "Weber"
+    ],
+    "Apiculteurs": [
+      "Desponds",
+      "Faillettaz"
+    ],
+    "Bois (march. de)": [
+      "Weber"
+    ],
+    "Café de l'Union": [
+      "Cochard"
+    ],
+    "Camionneur": [
+      "Weber"
+    ],
+    "Cordonnier": [
+      "Cochard"
+    ],
+    "Epicerie-mercerie": [
+      "Faillettaz"
+    ],
+    "Laitier, fromages": [
+      "Ramseyer"
+    ],
+    "Menuisier": [
+      "Faillettaz"
+    ],
+    "Meunier, scierie": [
+      "Weber"
+    ],
+    "Société": [
+      "Sté de fromagerie de Villars-Bozon et Mauraz"
+    ]
+  },
+  "LONAY": {
+    "Député": [
+      "Grand"
+    ],
+    "Syndic": [
+      "Brocard"
+    ],
+    "Secrétaire": [
+      "Bovay"
+    ],
+    "Boursier": [
+      "Pête"
+    ],
+    "Huissier": [
+      "Brocard"
+    ],
+    "Municipaux": [
+      "Borboën",
+      "Cruchon",
+      "Notz",
+      "Pête"
+    ],
+    "Cantonnier": [
+      "Chevalley"
+    ],
+    "Commandant du feu": [
+      "Brocard"
+    ],
+    "Commission scolaire": [
+      "Thomas",
+      "Brocard",
+      "Guldenschu"
+    ],
+    "Greffier de paix": [
+      "Pête"
+    ],
+    "Inspect. du bétail": [
+      "Guillemin"
+    ],
+    "Inspecteur des viandes": [
+      "Guillemin"
+    ],
+    "Instituteurs": [
+      "Chave",
+      "Martin"
+    ],
+    "Officier de l'état-civil": [
+      "Guldenschu"
+    ],
+    "Pasteur": [
+      "Thomas"
+    ],
+    "Police (agent de)": [
+      "Vallon"
+    ],
+    "Poste et télégraphe": [
+      "Rosset"
+    ],
+    "Téléphone": [
+      "Station communale au café du Mont-Blanc",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs-vignerons": [
+      "Bernard",
+      "Borboën",
+      "Borboën",
+      "Borboën",
+      "Brocard",
+      "Brocard",
+      "Brocard",
+      "Chevalley",
+      "Courtat",
+      "Cruchon",
+      "Détraz",
+      "Duperrut",
+      "Falconnier",
+      "Grand",
+      "Guillemin",
+      "Guillemin",
+      "Hubler",
+      "Métraux",
+      "Notz",
+      "Nicole",
+      "Pasche",
+      "Roulin",
+      "Villard"
+    ],
+    "Apiculteurs": [
+      "Brocard",
+      "Cruchon",
+      "Pête"
+    ],
+    "Aviculteur": [
+      "Rossier"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Chave",
+      "Société mutualiste de retraite",
+      "Guldenschu"
+    ],
+    "Assurances": [
+      "de Mestral"
+    ],
+    "Bétail (comm. de)": [
+      "Métraux"
+    ],
+    "Cafés": [
+      "Deponti",
+      "Au Mont-Blanc",
+      "Reymond-Burdet",
+      "Aux Marronniers"
+    ],
+    "Charron": [
+      "Mounoud"
+    ],
+    "Couturières": [
+      "Détraz",
+      "Paquier"
+    ],
+    "Epicerie-mercerie": [
+      "Jousson"
+    ],
+    "Hongreur": [
+      "Paquier"
+    ],
+    "Jardiniers - maraîchers": [
+      "Charrière",
+      "Muller",
+      "Schwertfeger"
+    ],
+    "Laiterie": [
+      "Société des Laiteries réunies"
+    ],
+    "Maréchal, machines agricoles": [
+      "Tétuz"
+    ],
+    "Mécanicien-technicien": [
+      "Burgermeister"
+    ],
+    "Pépiniéristes": [
+      "Cruchon"
+    ],
+    "Porcs (comm. de)": [
+      "Métraux",
+      "Maraîchère"
+    ],
+    "Régisseur": [
+      "Bornand"
+    ],
+    "Rentiers": [
+      "de Goumoëns",
+      "Monay",
+      "Pache",
+      "Régis"
+    ],
+    "Sculpteur": [
+      "Monay"
+    ],
+    "Vignerons": [
+      "Baudin",
+      "Bernard",
+      "Borboën",
+      "Bovay",
+      "Brocard",
+      "Cruchon",
+      "Duperrut",
+      "Duperrut",
+      "Panchaud",
+      "Reymond",
+      "Reymond",
+      "Rosset",
+      "Villars"
+    ],
+    "Divers": [
+      "Bornand",
+      "Landry",
+      "le Chalet",
+      "Rossier",
+      "la Michodière",
+      "Vulliamy"
+    ]
+  }
+}

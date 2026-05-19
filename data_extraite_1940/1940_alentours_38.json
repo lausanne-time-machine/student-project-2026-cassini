@@ -1,0 +1,383 @@
+{
+  "BOREX": {
+    "Syndic": [
+      "Ticon Henri"
+    ],
+    "Secrétaire": [
+      "Vuagniaux Alfred"
+    ],
+    "Boursier": [
+      "Vuagniaux Paul"
+    ],
+    "Municipaux": [
+      "Briggen Adolphe",
+      "Matthey Georges",
+      "Mouchet Henri",
+      "Guignet Paul"
+    ],
+    "Chef de gare": [
+      "Guignet Julia"
+    ],
+    "Commandant du feu": [
+      "Ticon Henri"
+    ],
+    "Commission scolaire": [
+      "Berlie James",
+      "Matthey Ls"
+    ],
+    "Huissier": [
+      "Delessert Hermann"
+    ],
+    "Inspecteur du bétail": [
+      "Urfer Jules"
+    ],
+    "Inspecteur des viandes": [
+      "Guichard Et."
+    ],
+    "Instituteurs": [
+      "Jacot Marcel",
+      "Briggen Clara, Mme."
+    ],
+    "Poste et téléphone": [
+      "Guichard Et."
+    ],
+    "Agriculteurs": [
+      "André Daniel",
+      "Bertholet Marc.",
+      "Briggen Adolphe",
+      "Corthésy Alfred",
+      "Dancet Aug.",
+      "Dancet Jules",
+      "Delessert Herm.",
+      "Dupontet Aloïs",
+      "Goncerut Alb. T.",
+      "Guichard Etienne",
+      "Guignet hoirie",
+      "Luthy Emile",
+      "Matthey Georges",
+      "Quaysin F.",
+      "Ticon Henri",
+      "Urfer J.",
+      "Varidel Gustave",
+      "Vuagniaux Paul"
+    ],
+    "Apiculteur": [
+      "Jacot Marcel"
+    ],
+    "Assurance - vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Jacot M."
+    ],
+    "Beurre": [
+      "Morel Albert"
+    ],
+    "Café": [
+      "Quayzin Ferd."
+    ],
+    "Boucher": [
+      "Ticon Henri"
+    ],
+    "Couturières": [
+      "Briggen Anna",
+      "Peney, Mme."
+    ],
+    "Entrepreneurs": [
+      "Luthy Emile. T.",
+      "Paltani Joseph. T."
+    ],
+    "Epicerie, tabacs": [
+      "Briggen Anna. R."
+    ],
+    "Horticulteur": [
+      "Parisod Henri. T."
+    ],
+    "Sociétés": [
+      "Sté anonyme du Hangar de battage, R.",
+      "Sté de laiterie",
+      "Syndicat d'élevage"
+    ],
+    "Vignerons": [
+      "André Daniel",
+      "Corthésy Alfred",
+      "Chevrot Louis",
+      "Dancet Alfred",
+      "Goncerut Alb.",
+      "Guichard Etienne",
+      "Matthey Louis",
+      "Quayzin F.",
+      "Varidel Gustave",
+      "Vuagniaux Paul"
+    ]
+  },
+  "BOTTENS": {
+    "Députés du cercle": [
+      "Favre Emile",
+      "Revmond Const."
+    ],
+    "Syndic": [
+      "Longchamp Henri"
+    ],
+    "Secrétaire": [
+      "Nicod Max"
+    ],
+    "Boursier": [
+      "Longchamp Auguste"
+    ],
+    "Huissier": [
+      "Martin Etienne"
+    ],
+    "Municipaux": [
+      "Aguet Emile",
+      "Bavaud Placide",
+      "Gindroz Louis",
+      "Meylan Paul",
+      "Panchaud Constant",
+      "Panchaud Léon"
+    ],
+    "Chef de section": [
+      "Nicod Alfred"
+    ],
+    "Commission scolaire catholique": [
+      "Nicod Alfred"
+    ],
+    "Commission scolaire protestante": [
+      "Gindroz Louis"
+    ],
+    "Curé": [
+      "Marthe Henri"
+    ],
+    "Garde-forestier": [
+      "Panchaud Victor"
+    ],
+    "Inspecteur du bétail": [
+      "Tzaut Aimé"
+    ],
+    "Instituteurs": [
+      "Jorand Henri",
+      "Liard Héli",
+      "Nicod Marie",
+      "Jaton Marie"
+    ],
+    "Justice de paix": [
+      "Chatelan Oscar",
+      "Longchamp André",
+      "Verboux Ls",
+      "Dégy J",
+      "Gindroz Aloys",
+      "Mermoud Ernest",
+      "Mivelaz Placide"
+    ],
+    "Officier d'état-civil": [
+      "Mermoud Alf."
+    ],
+    "Pasteurs": [
+      "Anselmier Henri",
+      "Boissonas Emile"
+    ],
+    "Poste et téléphone": [
+      "Aguet Emile"
+    ],
+    "Agriculteurs": [
+      "Allaman Js",
+      "Allaman Firmin",
+      "Bavaud Alfred",
+      "Bavaud Gust.",
+      "Bavaud frères",
+      "Bavaud Is.",
+      "Ecoffey Jos.",
+      "Gindroz frères",
+      "Guggisberg hoirie",
+      "Guignard Ls. T.",
+      "Guignard Ed. de Jules",
+      "Guignard Henri",
+      "Guignard Louis de Samuel",
+      "Henneberger François",
+      "Hostettler Jean",
+      "Jaton Aug.",
+      "Jaton Ed",
+      "Jaton Emile",
+      "Jaton René",
+      "Jorand Aug. T.",
+      "Jorand Placide",
+      "Longchamp Aug.",
+      "Longchamp Fr.",
+      "Longchamp Henri",
+      "Longchamp Léon",
+      "Longchamp Pl.",
+      "Luginbühl Fritz",
+      "Martin, hoirie d'Auguste",
+      "Martin Jules",
+      "Mettraux, hoirie d'Emile",
+      "Meylan Aimé. T.",
+      "Meylan, hoirie d'Auguste",
+      "Meylan Edouard",
+      "Meylan Henri",
+      "Nicod frères. T.",
+      "Nicod Alfred",
+      "Nicod Paul. T.",
+      "Panchaud Constant",
+      "Panchaud Victor",
+      "Panchaud Gustave",
+      "Panchaud frères d'Henri",
+      "Panchaud Paul et Placide d'Auguste",
+      "Panchaud Casimir",
+      "Panchaud Léon",
+      "Pensevres Robert",
+      "Rochat Paul. T.",
+      "Staub Jacob",
+      "Tzaut Aimé de David",
+      "Tzaut Aimé de Daniel",
+      "Tzaut Henri",
+      "Thuillard Henri",
+      "Vincent frères"
+    ],
+    "Apiculteurs": [
+      "Aguet Emile",
+      "Jorand Henri",
+      "Vincent frères"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualités scolaires de retraite (Réformés)",
+      "Barraud Ernest"
+    ],
+    "Associations mutualistes de retraite (catholiques)": [
+      "Jorand H."
+    ],
+    "Banque": [
+      "Caisse de crédit mutuel"
+    ],
+    "Bestiaux (march. de)": [
+      "Gindroz Aimé",
+      "Rochat Pl. T."
+    ],
+    "Boulanger": [
+      "Pittet Maurice. R."
+    ],
+    "Boucherie - Charcuterie": [
+      "Genoud Théophile. T."
+    ],
+    "Cafés": [
+      "Ecoffey Joseph",
+      "Bavaud Gustave"
+    ],
+    "Cercueils": [
+      "Duvoisin Chs"
+    ],
+    "Charpentiers": [
+      "Panchaud Constant",
+      "Pralong Emile",
+      "Meylan Charles"
+    ],
+    "Charron": [
+      "Martin Jules"
+    ],
+    "Cordonnier": [
+      "Bavaud Robert"
+    ],
+    "Couturières": [
+      "Ecoffey Cécile",
+      "Henneberg Thérèse",
+      "Longchamp Denise",
+      "Panchaud Simone"
+    ],
+    "Entrepreneurs": [
+      "Conti Auguste",
+      "Meda Emile"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Panchaud Céline. R.",
+      "Bertone Oswald"
+    ],
+    "Fromages": [
+      "Rochat Paul"
+    ],
+    "Laitier": [
+      "Burkhalter Alexandre. RT.",
+      "Nouvelle Laiterie de Bottens. R."
+    ],
+    "Maréchal": [
+      "Martin Casimir"
+    ],
+    "Menuisiers": [
+      "Duvoisin Chs",
+      "Pralong Emile"
+    ],
+    "Pension d'enfants": [
+      "Jorand Aug. T."
+    ],
+    "Sage-femme": [
+      "Bavaud Emma"
+    ],
+    "Sociétés": [
+      "Caisse de crédit mutuel. R.",
+      "Section de la Croix-Bleue.",
+      "Sté de laiterie nouvelle",
+      "Sté de laiterie ancienne",
+      "Sté de la machine à battre. R.",
+      "Syndicat d'alpage et d'élevage. R."
+    ],
+    "Vannier": [
+      "Jorand Auguste. T."
+    ],
+    "Vétérinaire": [
+      "Allaz Raymond. T."
+    ],
+    "Vins en gros": [
+      "Pittet Maurice"
+    ]
+  },
+  "BOUGY-VILLARS": {
+    "Syndic": [
+      "Blanchard Ami"
+    ],
+    "Secrétaire": [
+      "Rosset Fernand"
+    ],
+    "Boursier": [
+      "Rosset Louis"
+    ],
+    "Huissier": [
+      "Rosset Alfred"
+    ],
+    "Municipaux": [
+      "Cretegny Louis",
+      "Francey Arnold",
+      "Mouron Robert",
+      "Pfister Henri"
+    ],
+    "Assesseur": [
+      "Rosset Louis"
+    ],
+    "Commisison scolaire": [
+      "Pfister Henri",
+      "Rosset Fernand"
+    ],
+    "Inspecteur du bétail": [
+      "Rosset Louis"
+    ],
+    "Instituteurs": [
+      "Margot Maurice",
+      "Oester Suzanne"
+    ],
+    "Officier d'état civil": [
+      "Rubin Louis"
+    ],
+    "Police (agent de)": [
+      "Rosset Alfred"
+    ],
+    "Poste et télégraphe": [
+      "Hofstetter Fritz"
+    ],
+    "Poste": [
+      "Hofstetter Fritz"
+    ],
+    "Agriculteurs": [
+      "Bally Elie",
+      "Chevalley Benjamin",
+      "Martin Edouard",
+      "De Planta Maximilian",
+      "Rosset Frédéric, Veuve",
+      "Jotterand Jeanne, Vve"
+    ]
+  }
+}

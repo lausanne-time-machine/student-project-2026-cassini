@@ -1,0 +1,237 @@
+{
+  "AUBONNE": {
+    "Modistes": [
+      "Chenuz Marguerite",
+      "Jotterand Berthe"
+    ],
+    "Notaires": [
+      "Bujard Emile & Dubois J.",
+      "Rolaz Jules"
+    ],
+    "Officier instructeur": [
+      "Matile Pierre"
+    ],
+    "Papeteries": [
+      "Grosjean-Pellet Alexandrine",
+      "Vittoz Juliette"
+    ],
+    "Parquets": [
+      "André Marcel",
+      "Arni Oscar"
+    ],
+    "Pensions": [
+      "Chavannes, Vve de Paul",
+      "Schmitt Vve"
+    ],
+    "Pensionnats": [
+      "Mestral Henri",
+      "Kolp Clara"
+    ],
+    "Pépiniériste": [
+      "Theintz François"
+    ],
+    "Pharmacies": [
+      "Eppinger Paul",
+      "Nater Aurèle"
+    ],
+    "Photographe": [
+      "Calame, dame Vve."
+    ],
+    "Pierriste": [
+      "Piguet Emile"
+    ],
+    "Pompes funèbres": [
+      "André Marcel",
+      "Moinat E.",
+      "Meylan Henri"
+    ],
+    "Porcelaine, poterie, verrerie": [
+      "Calame Ferdinand",
+      "Lincio Alfred",
+      "Uldry Adolphe"
+    ],
+    "Poudrerie fédérale": [
+      "La Vaux",
+      "Magnenat Ls."
+    ],
+    "Primeurs": [
+      "Baudin, Vve",
+      "Fleury Alexis"
+    ],
+    "Professeur de musique": [
+      "Falconnier Jeanne",
+      "Jaquinet Mirose",
+      "Maibach Robert",
+      "Renaud Madeleine"
+    ],
+    "Publicité": [
+      "Dupertuis Ch."
+    ],
+    "Radio": [
+      "Cuérel Paul"
+    ],
+    "Régisseurs": [
+      "Bujard Ernest",
+      "Jaquinet Emile",
+      "Rolaz Jules"
+    ],
+    "Repasseuses": [
+      "Bertholet Henriette",
+      "Magnenat Berthe",
+      "Winkelmann Anna"
+    ],
+    "Représentants": [
+      "Hugonnet Eugène",
+      "Müller Paul",
+      "Diphenso",
+      "Roy Maurice"
+    ],
+    "Restaurants": [
+      "Hôtel du Lion d'Or",
+      "Tardy, Mme. T.",
+      "Hôtel de la Couronne",
+      "Ramel Louis",
+      "Cercle de l'Amitié",
+      "Schmitt, veuve de Paul"
+    ],
+    "Sage-femme": [
+      "Basset-Pilet Ruth"
+    ],
+    "Scieries roulantes": [
+      "Chevailler Féréol",
+      "Terry F."
+    ],
+    "Selliers": [
+      "Caillet Robert",
+      "Cuérel Paul"
+    ],
+    "Serruriers": [
+      "Bartré G.",
+      "Grivel Edouard",
+      "Grosjean Paul"
+    ],
+    "Sociétés": [
+      "Association viticole",
+      "Cercle de l'Amitié",
+      "Chêne Football-Club",
+      "Chœur de dames",
+      "La Chorale",
+      "La Constance",
+      "La Pédale Aubonnoise",
+      "Croix-Bleue",
+      "Société d'agriculture de la Côte",
+      "Société des Amis Réunis",
+      "Société des Bains publics",
+      "Société électrique d'Aubonne",
+      "Girod Olivier",
+      "Société de gymnastique",
+      "gymnastique fédérale",
+      "Société du Moulin",
+      "Société de musique Echo du Chêne",
+      "Société des Vignes d'Aubonne",
+      "Ski-Club",
+      "Syndicat agricole de la Côte",
+      "Syndicat d'élevage",
+      "Union des femmes"
+    ],
+    "Sports (Articles de)": [
+      "Dufour Louis & fils"
+    ],
+    "Tailleurs": [
+      "Coendoz Louis",
+      "Delapierre Jules"
+    ],
+    "Tapissiers": [
+      "Caillet Robert",
+      "Cuérel Paul"
+    ],
+    "Tissus et toiles": [
+      "Agassis-Rochat E.",
+      "Nerfin Paul"
+    ],
+    "Tonneliers": [
+      "Lædermann Alexis",
+      "Winkelmann Albert"
+    ],
+    "Transports": [
+      "Chevailler Féréol"
+    ],
+    "Tricoteuse": [
+      "Bartré Marie"
+    ],
+    "Vanneries": [
+      "Lincio Alfred",
+      "Martin André",
+      "Uldry Adolphe"
+    ],
+    "Vélos-Motos": [
+      "Chapuis Paul",
+      "Détraz Louis",
+      "Garage Bel-Horizon S. A.",
+      "Golaz Edwin"
+    ],
+    "Vétérinaire": [
+      "Trottet Etienne"
+    ],
+    "Vins": [
+      "Association viticole",
+      "Bettems J. & fils",
+      "Hugonnet Eugène"
+    ],
+    "Vitriers": [
+      "André Marcel",
+      "Arni Ernest",
+      "Lincio Alfred",
+      "Martin André",
+      "Meylan Henri"
+    ],
+    "Voituriers": [
+      "Barrat Ernest",
+      "Chevalier F.",
+      "Rosset Marcel"
+    ],
+    "Divers": [
+      "Bordier Ed.",
+      "Bergier Alfred",
+      "Borle Maurice",
+      "Burnet Charles",
+      "Burnet F.",
+      "Bridel Victor",
+      "Bujard Ernest",
+      "Cavin Robert",
+      "Charbonnier, Mlle",
+      "Chomton, Veuve",
+      "Colomb G.",
+      "Cordey Albert",
+      "Mestral Henri",
+      "Heller Ed.",
+      "Heller Gustave",
+      "Morsier Ursins",
+      "Dubugnon, Vve",
+      "Eppinger Paul",
+      "Félix Eugène",
+      "Favre Auguste",
+      "Guder Roger",
+      "Hermanjat",
+      "Liardet François",
+      "Kolp Clara",
+      "Magnenat Louis",
+      "Magnenat Louis",
+      "Matile Pierre-André",
+      "Maurer Robert",
+      "Moinat Charles",
+      "Rochat Paul",
+      "Rolaz Jules",
+      "Rosset Daniel",
+      "Rossier E",
+      "Raccaud Jules",
+      "Trottet Etienne",
+      "Tscharner Elisa",
+      "Uldry Adolphe",
+      "Vallon Louise, Vve",
+      "Vallon Robert",
+      "Vautier Alfred",
+      "Zimmer Emma"
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "DENGES": {
+    "Cafés.": [
+      "Martin Constant",
+      "Paquier Jules"
+    ],
+    "Charpentiers.": [
+      "Reymond Charles",
+      "Reymond Henri",
+      "Reymond Victor"
+    ],
+    "Commission scolaire.": [
+      "Rossier Th.",
+      "Milliet",
+      "Rossier Louis"
+    ],
+    "Distillateurs.": [
+      "Paquier frères",
+      "Paquier Jules fils"
+    ],
+    "Epicerie.": [
+      "Paquier Marie, Vve."
+    ],
+    "Fromages (march. de).": [
+      "Lehmann Albert, Veuve"
+    ],
+    "Inspecteur du bétail.": [
+      "Rossier Louis"
+    ],
+    "Inspecteur des viandes.": [
+      "Rochat Fs."
+    ],
+    "Instituteur.": [
+      "Borel Fernand"
+    ],
+    "Laitier.": [
+      "Laiterie agricole. Paquier Jules"
+    ],
+    "Sociétés.": [
+      "Abbaye des fusiliers",
+      "Société immobilière du battoir",
+      "Club des Amis"
+    ],
+    "Téléphoniste.": [
+      "Paquier Jules"
+    ],
+    "Vignerons.": [
+      "Henriod Ele",
+      "Paquier Emile",
+      "Paquier Maurice",
+      "Rattaz Pierre",
+      "Rieben André",
+      "Schmid Charles",
+      "Schmid Henri"
+    ],
+    "Rentiers.": [
+      "Rossier Henri",
+      "Zuber Théodore"
+    ]
+  },
+  "ECHANDENS": {
+    "Président du Conseil général": [
+      "Reymond Henri"
+    ],
+    "Secrétaire": [
+      "Cachin Charles",
+      "Chêne Marcel"
+    ],
+    "Syndic": [
+      "Pointet Eugène"
+    ],
+    "Municipaux": [
+      "Gudit Fernand",
+      "Rieben Maurice",
+      "Gorgerat Henri",
+      "Pache Robert"
+    ],
+    "Boursier": [
+      "Maillard Em."
+    ],
+    "Agriculteurs.": [
+      "Chapuis François",
+      "Chollet Aug.",
+      "Chollet François",
+      "Clément Ate",
+      "Devantay Frédéric",
+      "Destraz Louis",
+      "Dufour frères",
+      "Gavillet John",
+      "Gorgerat frères",
+      "Gorgerat Louis-Samuel",
+      "Martin Emile",
+      "Martin Eugène",
+      "Martin François",
+      "Martin Gustave",
+      "Pache Victor",
+      "Perret Louis",
+      "Pointet Charles",
+      "Pointet Eugène",
+      "Richard César",
+      "Rieben Maurice",
+      "Tschalär Benjamin"
+    ],
+    "Appareilleurs.": [
+      "Reymond Henri",
+      "Schmidt Roger"
+    ],
+    "Boulanger.": [
+      "Villard Oscar"
+    ],
+    "Cafés.": [
+      "Gudit Fernand",
+      "Reymond Henri"
+    ],
+    "Charron.": [
+      "Mottaz Edouard"
+    ],
+    "Chocolats.": [
+      "Peter",
+      "Cailler",
+      "Kohler",
+      "Chocolats Suisses (S. A.)"
+    ],
+    "Commission scolaire.": [
+      "Gorgerat Hri",
+      "Martin Emile",
+      "Chêne Marcel"
+    ],
+    "Couturière.": [
+      "Chène Cécile"
+    ],
+    "Entrepreneurs.": [
+      "Pointet Henri",
+      "Pointet Adèle"
+    ],
+    "Epicerie.": [
+      "Mackey William",
+      "Villard Oscar"
+    ],
+    "Ferblantier-couvreur.": [
+      "Schmidt Roger"
+    ],
+    "Géomètres brevetés.": [
+      "Gudit Fernand",
+      "Redard Robert"
+    ],
+    "Ingénieur.": [
+      "Redard Robert"
+    ],
+    "Inspecteur du bétail.": [
+      "Perret Louis"
+    ],
+    "Instituteurs.": [
+      "Apothéloz Cécile",
+      "Chabloz André"
+    ],
+    "Juge de paix.": [
+      "Martin François"
+    ],
+    "Maréchal.": [
+      "Reymond Henri"
+    ],
+    "Mercerie.": [
+      "Maillard, dame"
+    ],
+    "Officier d'état-civil.": [
+      "Rey Louis"
+    ],
+    "Sage-femme.": [
+      "Martin-Collet Cécile"
+    ],
+    "Sociétés.": [
+      "De laiterie",
+      "Abbaye des agriculteurs",
+      "De chant",
+      "Du battoir Echandens-Denges",
+      "Syndicat agricole"
+    ],
+    "Tailleurs.": [
+      "Cavin John",
+      "Cevey Alice"
+    ],
+    "Téléphone.": [
+      "Gudit Fernand"
+    ],
+    "Vignerons.": [
+      "Cachin Henri",
+      "Cevey frères",
+      "Gorgerat frères",
+      "Gremion Victor",
+      "Lattion F.",
+      "Martin frères",
+      "Poraz Aloïs",
+      "Schmidt Jules"
+    ],
+    "Divers.": [
+      "Delisle Julien",
+      "Paley Emile",
+      "Redard Alice",
+      "Redard Benjamin",
+      "Redard W.",
+      "Redard Jeanne"
+    ]
+  },
+  "ECHICHENS": {
+    "Président du Conseil général": [
+      "Daccord Louis"
+    ],
+    "Secrétaire": [
+      "Ménétrey Théodore"
+    ],
+    "Syndic": [
+      "Mermoud Alexis"
+    ],
+    "Municipaux": [
+      "de Mandrot Adrien",
+      "Bourloud Georges",
+      "Croisier Ch.",
+      "Perey Constant"
+    ],
+    "Boursier": [
+      "de Mandrot Adrien"
+    ],
+    "Huissier": [
+      "Gros Jules"
+    ],
+    "Agriculteurs.": [
+      "Bourloud Louis",
+      "Bourloud Jules",
+      "Croisier Alfred",
+      "Félix Eugène",
+      "Fonjallaz François",
+      "Gros François",
+      "Mermoud",
+      "Roulet Constant",
+      "Roulet Victor",
+      "Tissot Jules"
+    ],
+    "Asile rural vaudois.": [
+      "Daccord Louis"
+    ],
+    "Café.": [
+      "Demierre Cyprien"
+    ],
+    "Chef de section.": [
+      "Roulet Constant"
+    ],
+    "Commission scolaire.": [
+      "Bergier",
+      "Monod Aloïs",
+      "de Mandrot Adrien",
+      "Mermoud Alexis",
+      "Roulet Const."
+    ],
+    "Epicerie.": [
+      "Gehrig Arnold",
+      "Pilet, Vve."
+    ],
+    "Gupsier-peintre.": [
+      "Adamina D."
+    ]
+  }
+}

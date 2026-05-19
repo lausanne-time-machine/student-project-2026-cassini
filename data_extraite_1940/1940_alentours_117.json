@@ -1,0 +1,375 @@
+{
+  "GRYON": {
+    "Municipaux": [
+      "Anex César",
+      "Cotter Hermann",
+      "Normand Roger",
+      "Anex Jean"
+    ],
+    "Assesseur": [
+      "Anex Jean"
+    ],
+    "Chef de section": [
+      "Cotter Herm."
+    ],
+    "Chef de gare": [
+      "Anex Alfred"
+    ],
+    "Commandant du feu": [
+      "Cotter Herm."
+    ],
+    "Commission scolaire": [
+      "Métraux Jean"
+    ],
+    "Contrôl. du lait": [
+      "Moreillon Marius"
+    ],
+    "Garde-forestier": [
+      "Aulet Louis"
+    ],
+    "Gare B.-G.-V.-C. (chef de)": [
+      "Anex Alfred"
+    ],
+    "Gendarmerie (poste de)": [
+      "Jaggi",
+      "Tavernier Paul"
+    ],
+    "Inspecteur du bétail": [
+      "Anex César"
+    ],
+    "Inspecteur des viandes": [
+      "Moreillon Félix"
+    ],
+    "Instituteurs": [
+      "Bonzon Maurice",
+      "Piot Marthe",
+      "Anex-Anex M.",
+      "Aeschlimann Colette"
+    ],
+    "Officier d'état civil": [
+      "Cotter Herm."
+    ],
+    "Pasteur": [
+      "Métraux Jean"
+    ],
+    "Police (agent de)": [
+      "Anex Pierre"
+    ],
+    "Poste et télégraphe": [
+      "Moreillon Maurice"
+    ],
+    "Agriculteurs": [
+      "Amiguet Arthur",
+      "Amiguet Fréd.",
+      "Amiguet Gabr.",
+      "Amiguet René",
+      "Anex César",
+      "Anex Eugène",
+      "Besse Modeste",
+      "Bocherens Hri",
+      "Bocherens Louis et fils",
+      "Broyon Edmond",
+      "Cotter Herm. et Gust.",
+      "Cotter Gust.",
+      "Cotter Phil.",
+      "Champ Louis",
+      "Croset Ch.",
+      "Delacrétaz Albert",
+      "Fumeaux Lucien",
+      "Fumeaux Rob.",
+      "Haldy Alfred",
+      "Jaggi Pierre",
+      "Jaquerod Vinc.",
+      "Moreillon Charles",
+      "Moreillon Marius",
+      "Moreillon Pierre-Abram",
+      "Normand Abram",
+      "Normand Roger",
+      "Ravy Henri",
+      "Reutelet Paul",
+      "Russy Alfred",
+      "Russy Fernand",
+      "Sartoretti fils",
+      "Vurlod Charles"
+    ],
+    "Appareilleurs": [
+      "Ravy Pierre",
+      "Vurlod Charles"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Bonzon Maurice",
+      "Jaquerod V."
+    ],
+    "Auto-taxi": [
+      "Schopfer Alfred"
+    ],
+    "Bazars-Bonneterie": [
+      "Amiguet Thomas",
+      "Verboven Joseph"
+    ],
+    "Blanchisseuses": [
+      "Moreillon Elise",
+      "Normand-Moreillon Olga"
+    ],
+    "Bois (march. de)": [
+      "Cantova",
+      "Jaggi P.",
+      "Jaquerod Vincent"
+    ],
+    "Boucheries": [
+      "Baertschy Charles",
+      "Tauxe H."
+    ],
+    "Boulangers": [
+      "Anex Georges",
+      "Meylan Louis",
+      "Prin Julien"
+    ],
+    "Cafés": [
+      "Anex Jean",
+      "Bertholet Louis",
+      "Clemence Auguste",
+      "Flotron Hans",
+      "Moreillon-Veillon Ph.",
+      "Schopfer Alfred",
+      "Jaquerod Vinc.",
+      "Moreillon-Delacrétaz Philippe"
+    ],
+    "Chalets (constr. de)": [
+      "Jaggi Pierre"
+    ],
+    "Charcutier": [
+      "Porchet Ulysse"
+    ],
+    "Charpentiers": [
+      "Jaggi Pierre",
+      "Kohly frères"
+    ],
+    "Charron": [
+      "Moreillon Albert"
+    ],
+    "Coiffeur": [
+      "Dal Pont Giovanni"
+    ],
+    "Combustibles": [
+      "Cotter Gustave"
+    ],
+    "Cordonniers": [
+      "Broyon Ernest",
+      "Ravy François"
+    ],
+    "Couturières": [
+      "Dal Pont Elia",
+      "Marlétaz Blanche",
+      "Normand Marie",
+      "Porchet Madeleine"
+    ],
+    "Crémeries-Tea-Room": [
+      "Anex Jean",
+      "Barboleusaz",
+      "Anex Georges",
+      "Meylan Louis",
+      "Saussaz Louise"
+    ],
+    "Electriciens": [
+      "Ravy Jean",
+      "Reuteler Henri"
+    ],
+    "Entrepreneurs": [
+      "Marchionini Pierre",
+      "Mérinat Henri",
+      "Reuteler & Finger"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Amiguet-Thomas P. Mme",
+      "Coopér. de consomm. l'Avenir",
+      "Verboven Joseph"
+    ],
+    "Equarisseur": [
+      "Cherix Charles"
+    ],
+    "Horlogerie": [
+      "Pellaton Jules"
+    ],
+    "Hôtels": [
+      "Beau-Séjour",
+      "La Poste",
+      "Gryon-Bellevue"
+    ],
+    "Ingénieur": [
+      "Jaeger Jules"
+    ],
+    "Jardinier": [
+      "Aulet Félix"
+    ],
+    "Laitier, fromages": [
+      "Porchet Ulysse"
+    ],
+    "Maréchal": [
+      "Vurlod Charles"
+    ],
+    "Menuisier": [
+      "Brancher Joseph"
+    ],
+    "Pensionnat de jeunes filles": [
+      "Jeanneret Lucy"
+    ],
+    "Pensions": [
+      "Amiguet Marie",
+      "Anex Jean",
+      "Bois-Gentil",
+      "Broyon Marie",
+      "Chalet Beau-Soleil",
+      "Les Sapins",
+      "Les Pars",
+      "Mon Repos",
+      "Plan-Soleil"
+    ],
+    "Pensions d'enfants": [
+      "Chalet des Enfants",
+      "En Frasse",
+      "Joli Nid",
+      "La Bergerie",
+      "La Chotte",
+      "La Soleillette",
+      "Les Colchiques",
+      "Les Ecureuils",
+      "Florimont",
+      "Roche Fleurie"
+    ],
+    "Primeurs": [
+      "Buttet-Diserens Joseph"
+    ],
+    "Refuges": [
+      "Refuge des Diablerets",
+      "Anzeindaz",
+      "Moreillon-Veillon Ph.",
+      "Refuge de la Tour d'Anzeindaz",
+      "Flotron Hans",
+      "Refuge de Tavayannaz",
+      "Delacrétaz Gust.",
+      "Auberge de jeunesse « Chalet des Belges »"
+    ],
+    "Sage-femme": [
+      "Anex Hélène"
+    ],
+    "Scieries": [
+      "Cantova",
+      "Jaggi Pierre"
+    ],
+    "Serruriers": [
+      "Vurlod Charles"
+    ],
+    "Sociétés": [
+      "Chœur d'hommes",
+      "Ski-Club",
+      "Sté des carrières de pierres",
+      "Sté de crédit mutuel",
+      "Sté d'embellissement",
+      "Sté des forces motrices de l'Avançon",
+      "Sté de laiterie",
+      "Sté de tir Argentine",
+      "Syndicat d'élevage I et II"
+    ],
+    "Tailleurs": [
+      "Amiguet Aug.",
+      "Verboven Joseph"
+    ],
+    "Tourneur": [
+      "Finger Robert"
+    ],
+    "Tricotage": [
+      "Anex Math."
+    ],
+    "Divers": [
+      "Amiguet J.",
+      "Bentinck-Smith C.",
+      "Broliet G.-F.",
+      "Clerc",
+      "Delacrétaz A.",
+      "Herren-Vincent J.",
+      "Jean-Mairet E.",
+      "Kropf W.",
+      "Lindesay E.-L.",
+      "Poulin Charles",
+      "Wattenhofer A."
+    ]
+  },
+  "HENNIEZ-LES-BAINS": {
+    "Syndic": [
+      "Pahud Henri"
+    ],
+    "Secrétaire": [
+      "Pittet Adolphe"
+    ],
+    "Boursier": [
+      "Mottet Henri"
+    ],
+    "Huissier": [
+      "Mottet-Liaudet Louis"
+    ],
+    "Municipaux": [
+      "Dubois Charles",
+      "Mottet Eugène",
+      "Salvisberg Rodolphe",
+      "Thuillard Jules"
+    ],
+    "Bureau de placement et office du chômage": [
+      "Pittet Adolphe"
+    ],
+    "Commission scolaire": [
+      "Meylan Albert",
+      "Jaton Jules"
+    ],
+    "Garde-forestier": [
+      "Mottet Jules"
+    ],
+    "Inspecteur du bétail": [
+      "Bettex jules"
+    ],
+    "Inspecteur des viandes": [
+      "Vauthey Ulysse",
+      "Seigneur"
+    ],
+    "Instituteurs": [
+      "Jotterand Benjamin",
+      "Jotterand Rapin Evelyne"
+    ],
+    "Poste": [
+      "Meylan Albert"
+    ],
+    "Agriculteurs": [
+      "Bessaud Olga",
+      "Bettex Jules",
+      "Buhler Charles",
+      "Colin Ls",
+      "Dubois Chs",
+      "Hänni Jean",
+      "Henzer Alfred",
+      "Hofmann Frédéric",
+      "Jaton Jules",
+      "Jaton Ernest",
+      "Jayet Henri",
+      "Luthi Albert",
+      "Luthy Jean",
+      "Meylan Albert",
+      "Mottet Hri",
+      "Mottet Louis",
+      "Salvisberg Rodolphe",
+      "Troillet Edmond",
+      "Thuillard Jules",
+      "Thuillard"
+    ],
+    "Apiculteurs": [
+      "Bettex Julia",
+      "Fahrni Léon",
+      "Hänni Jean",
+      "Hofmann Frédéric",
+      "Jaton Ernest",
+      "Jaton Jules",
+      "Jayet Louis",
+      "Lador Ed."
+    ]
+  }
+}

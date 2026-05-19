@@ -1,0 +1,351 @@
+{
+  "BURSINS": {
+    "Agriculteurs": [
+      "Aeberhardt Henri",
+      "Aellen Gottlieb",
+      "Beetschen, hoirie",
+      "Conne Michel",
+      "Cugnet Alf.",
+      "Humbert Luc.",
+      "Mollard",
+      "Jacot Emile",
+      "Menthonnex Aug.",
+      "Menthonnex Julien",
+      "Meylan frères",
+      "Parmelin Chs",
+      "Elie fils",
+      "Parmelin Ernest fils",
+      "Parmelin Emile",
+      "Parmelin Frédéric",
+      "Prod'hom Albert",
+      "Prod'hom Maurice",
+      "Prod'hom Paul",
+      "Rossier frères.",
+      "Senn Emile",
+      "Treboux Ed."
+    ],
+    "Apiculteur": [
+      "Keusen Paul"
+    ],
+    "Appareilleur": [
+      "Hauswirth Ernest"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite, Conod"
+    ],
+    "Aviculteurs": [
+      "Lustenberger Eugène",
+      "Meylan Albert"
+    ],
+    "Bétail (march. de)": [
+      "Perretten Ch."
+    ],
+    "Boulangers": [
+      "Dufour Edmond",
+      "Stram Alfred"
+    ],
+    "Cafés": [
+      "Perretten Charles",
+      "Daglia Edouard"
+    ],
+    "Charpentiers": [
+      "Chabloz Gustave",
+      "Reguin Paul"
+    ],
+    "Charron": [
+      "Badan Alfred"
+    ],
+    "Cordonnier": [
+      "Bozzonetti Antoine"
+    ],
+    "Couturières": [
+      "Bloch Edith",
+      "Rossier-Monnard Edith"
+    ],
+    "Couveuses (fabr. de)": [
+      "Roland Marc"
+    ],
+    "Entrepreneur": [
+      "Ramozzi Hect."
+    ],
+    "Epicerie-mercerie-tabacs": [
+      "Hunziker Berthold",
+      "Monnier Auguste",
+      "Prod'hom Armand"
+    ],
+    "Ferblantier": [
+      "Boudry Charles"
+    ],
+    "Gypsier": [
+      "Daglia Jean, fils"
+    ],
+    "Hôtel": [
+      "Daglia Ed."
+    ],
+    "Laitier": [
+      "Merminod Emile"
+    ],
+    "Maréchal. Machines agricoles": [
+      "Hauswirth Ernest"
+    ],
+    "Menuisier": [
+      "Prod'hom Robert"
+    ],
+    "Meunier": [
+      "Conne Michel"
+    ],
+    "Notaire": [
+      "Menthonnex Daniel"
+    ],
+    "Quincaillerie (fabrique de)": [
+      "Roland Marc"
+    ],
+    "Sage-femme": [
+      "Mayor Marguerite"
+    ],
+    "Scieur": [
+      "Monachon Aloys"
+    ],
+    "Serrurier": [
+      "Hauswirth Ernest"
+    ],
+    "Skis (fabr. de)": [
+      "Badan Alfred"
+    ],
+    "Sociétés": [
+      "Sté de gymnastique.",
+      "Sté de tir.",
+      "Union instrumentale."
+    ],
+    "Taillanderie": [
+      "Hauswirth Ernest"
+    ],
+    "Taxi": [
+      "Dupuis H."
+    ],
+    "Technicien-mécanicien": [
+      "Roland M."
+    ],
+    "Vignerons": [
+      "Bloch Paul",
+      "Gfeller Auguste",
+      "Magnin, Vve",
+      "Rosset Lucien",
+      "Tallent César"
+    ],
+    "Viticulteurs": [
+      "Aeberhard Henri",
+      "Boudry Chs père",
+      "Burnet Alfr.",
+      "Cherpillod Paul",
+      "Cherpillod Rob.",
+      "Cugnet Alfred",
+      "Glayre Henri",
+      "Grand Louis",
+      "Hauswirth Charles",
+      "Keusen Paul",
+      "Menthonnex Henri",
+      "Menthonnex Julien",
+      "Menthonnex Bernard",
+      "Menthonnex Daniel",
+      "Menthonnex Aug.",
+      "Meylan frères",
+      "Prod'hom Armand",
+      "Parmelin Emile",
+      "Parmelin Elie et Charles",
+      "Parmelin Frédéric",
+      "Pellet Alfred",
+      "Piguet Lucien",
+      "Parmelin Ernest fils",
+      "Parmelin Emile",
+      "Parmelin Lucien",
+      "Perreten Charles",
+      "Treboux Edouard",
+      "Rossier frères."
+    ],
+    "Voiturier": [
+      "Prod'hom Maurice"
+    ]
+  },
+  "BURTIGNY": {
+    "Député": [
+      "Burnet François"
+    ],
+    "Syndic": [
+      "Burnet François"
+    ],
+    "Secrétaire": [
+      "Golay Henri"
+    ],
+    "Boursier": [
+      "Feignoux Lucien"
+    ],
+    "Municipaux": [
+      "Dumartheray Louis",
+      "Gudet Louis",
+      "Sergy Philibert",
+      "Feignoux Robert"
+    ],
+    "Huissier": [
+      "Badel Edouard"
+    ],
+    "Cantonnier": [
+      "Christinet Maurice"
+    ],
+    "Command. du feu": [
+      "Bichet Horace"
+    ],
+    "Commission scolaire": [
+      "Pilloud Ch.",
+      "Aubert Emile"
+    ],
+    "Garde forestier": [
+      "Bichet Charles"
+    ],
+    "Inspecteurs du bétail et de viandes": [
+      "Bichet-Tallent Jules",
+      "Burnet Ed."
+    ],
+    "Inspecteur des viandes": [
+      "Bichet Jules",
+      "Burnet Ed."
+    ],
+    "Instituteurs": [
+      "Michot-Martignier Hri",
+      "Pahud Constance"
+    ],
+    "Pasteur": [
+      "Aubert Cristin Emile"
+    ],
+    "Police (agent de)": [
+      "Badel Edouard"
+    ],
+    "Poste et télégraphe": [
+      "Bory Julien"
+    ],
+    "Agriculteurs": [
+      "Bichet-Berger Horace",
+      "Bichet-Ramel Charles",
+      "Bichet-Feignoux Gustave",
+      "Bovy-Muller Julien",
+      "Bruguier-Ancrenaz Jules-Emile",
+      "Burnet-Fritsch François",
+      "Burnet-Pichon, hoirie de César",
+      "Burnet-Perrin Samuel",
+      "Brauch-Décoppet Marius",
+      "Chambordon-Badel Lucien",
+      "Christinet-Bovy Louis",
+      "Cordey-Dumatheray Charles",
+      "Delamuraz-Dupin, hoirie d'Henri",
+      "Dorier-Vaccani André",
+      "Dumarthe-ray-Burnet Louis",
+      "Fahrni Christian et Rudolf frères",
+      "Feignoux-Gudet Lucien",
+      "Feignoux Reymond Robert",
+      "Feignoux sœurs",
+      "Fontolliet-Vaccani Auguste",
+      "Fragnière Victor",
+      "Gautschi Jean",
+      "Golay-Bovy Ernest",
+      "Golay Jules",
+      "Golay Henri",
+      "Gudet Edmond, Henri et Charlotte",
+      "Gudet-Tallent, hoirie de Ls",
+      "Gudet-Sergy Louis",
+      "Hagi Gottfried",
+      "Haldi Eugène",
+      "Humbert-Bovy, hoirie de Lucien",
+      "Jaccaud Henri",
+      "Morel-Croisier Ami",
+      "Michod-Rochat Julien",
+      "Pilloud-Gudet hoirie d'Emile",
+      "Pilloud-Burnet Alfred",
+      "Pilloud-Pilloud Julien",
+      "Pilloud-Tascher Samuel",
+      "Pilloud-Urfer Ernest",
+      "Reymond-Dubugnon Auguste",
+      "Roch-Muller Ami",
+      "Sergy-Golay, hoirie d'Henri",
+      "Sergy Philibert",
+      "Sergy-Burnet Julien",
+      "Thonney-Gudet Charles",
+      "Tüscher Hans"
+    ],
+    "Orphelinat «La Maison»": [
+      "Sergy",
+      "Sergy-Burnet"
+    ],
+    "Apiculteur": [
+      "Burnet-Perrin Samuel"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite, Michot H."
+    ],
+    "Bois": [
+      "La Commune."
+    ],
+    "Bouchers": [
+      "Fahrni Rudolf",
+      "Keller Charles"
+    ],
+    "Boulanger": [
+      "Rochat-André Emile"
+    ],
+    "Café": [
+      "Fragnière Victor"
+    ],
+    "Charcutiers": [
+      "Brauch Marius",
+      "Fragnière Victor",
+      "Pilloud Charles",
+      "Rochat-André Emile"
+    ],
+    "Charron": [
+      "Pilloud Charles"
+    ],
+    "Cordonnier": [
+      "Scholl Jacob"
+    ],
+    "Couturières": [
+      "Bichet Marthe",
+      "Humbert Marguerite"
+    ],
+    "Epiceries": [
+      "Christinet-Blanc Mad., Vve",
+      "Feignoux-Gudet Lucien",
+      "Reymond René"
+    ],
+    "Ferblantier-couvreur": [
+      "Grin Chs."
+    ],
+    "Garde-malades": [
+      "Feignoux S."
+    ],
+    "Gypsier-peintre-entrepreneur": [
+      "Keller & fils"
+    ],
+    "Laiterie": [
+      "Réunies, Genève"
+    ],
+    "Lingère": [
+      "Reymond-Corthay M., Vve."
+    ],
+    "Machines agricoles": [
+      "Krebs-Bornand Philippe"
+    ],
+    "Maréchal": [
+      "Krebs Philippe"
+    ],
+    "Pensions": [
+      "Brauch-Decoppet Clémence"
+    ],
+    "Sociétés": [
+      "Sté du battoir à grains de Burtigny. R.",
+      "Sté de chant Jeune Montagnarde.",
+      "Sté de fromagerie.",
+      "Sté de tir Francs-Tireurs.",
+      "Sté vaudoise de secours mutuels, section de Begnins",
+      "Syndicat agricole. R."
+    ]
+  }
+}

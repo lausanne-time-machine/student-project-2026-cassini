@@ -1,0 +1,349 @@
+{
+  "ROMAINMOTIER": {
+    "Instituteurs": [
+      "Zoëll Louis",
+      "Vulliemin Adèle",
+      "Ruegger Marie"
+    ],
+    "Juge de paix": [
+      "Curtet Jules"
+    ],
+    "Musée": [
+      "Zoëll Louis",
+      "Dugon Anna"
+    ],
+    "Officier d'état-civil": [
+      "Léonnard Gust."
+    ],
+    "Pasteurs": [
+      "Mayer Arnold",
+      "Rambert Jean"
+    ],
+    "Police (agent de)": [
+      "Chanson Olivier"
+    ],
+    "Poste et télégr.": [
+      "Poschung Rob."
+    ],
+    "Renseignements": [
+      "Bureau de la Soc. de Développement",
+      "Wehrly Rose"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Station publique"
+    ],
+    "Agriculteurs": [
+      "Besson JS",
+      "Bichsel Walter",
+      "Bonard hoirie",
+      "Bonard Ls.",
+      "Boulaz Paul",
+      "Cuénez Ls",
+      "Perreaud Emile",
+      "Perreaud Gustave",
+      "Reymond Henri"
+    ],
+    "Amodiateur": [
+      "Bonard Louis"
+    ],
+    "Apiculteurs": [
+      "Abrezol Louis",
+      "Bonard Ls.",
+      "Doy Louis",
+      "Genier Valéria",
+      "Poschung Robert",
+      "Reymond Emile"
+    ],
+    "Arboriculteur patenté": [
+      "Besson Henri"
+    ],
+    "Asile des « Petites Familles »": [
+      "Fleury X."
+    ],
+    "Assurance-vieillesse": [
+      "Zoëll Ls."
+    ],
+    "Bains publics": [
+      "Dugon Anna"
+    ],
+    "Banques": [
+      "Besson Henri"
+    ],
+    "Blanchisseuse": [
+      "Bonard-Ciana Marinette"
+    ],
+    "Bois (march. de)": [
+      "Badan Marc.",
+      "Guignard Jean & Paul, S. A."
+    ],
+    "Boites à vacherin (fab. de)": [
+      "Magnenat Max."
+    ],
+    "Boulangers - pâtissiers": [
+      "Ronchetti Georges",
+      "Zahnd Gaston"
+    ],
+    "Cafés": [
+      "Bélaz César",
+      "Boulaz William",
+      "Mayor Jérémie"
+    ],
+    "Camionneurs": [
+      "Guignard Edmond",
+      "Ciana Antoine"
+    ],
+    "Cantonnier": [
+      "Glayre R."
+    ],
+    "Chapellerie": [
+      "Poschung Juliette"
+    ],
+    "Charpentiers": [
+      "Diserens Henri",
+      "Diserens Paul"
+    ],
+    "Chaussures": [
+      "Léonnard Gustave",
+      "Poschung Juliette"
+    ],
+    "Coiffeur": [
+      "Guex Marcel"
+    ],
+    "Combustibles": [
+      "Ciana Jean-Pierre"
+    ],
+    "Cordonnier": [
+      "Reignier Henri"
+    ],
+    "Grémerie": [
+      "Ronchetti Georges"
+    ],
+    "Dentiste": [
+      "Conod E."
+    ],
+    "Electriciens": [
+      "Dufeu Jean",
+      "Forces de Joux",
+      "Lindner Chs."
+    ],
+    "Encadreur": [
+      "Fiandra Jean"
+    ],
+    "Entrepreneur": [
+      "Borgazzi Alexandre"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Ciana Marie",
+      "Léonnard Gust.",
+      "Poschung Juliette"
+    ],
+    "Ferblantier": [
+      "Messmer Rodolphe"
+    ],
+    "Garage (autos, motos, vélos)": [
+      "Bonard David"
+    ],
+    "Graines, semences": [
+      "Léonnard Gust."
+    ],
+    "Gypsier-peintre": [
+      "Ciana Humbert"
+    ],
+    "Hôtel de ville": [
+      "Boulaz Armand"
+    ],
+    "Infirmerie Contesse": [
+      "Cornu Georges"
+    ],
+    "Journaux": [
+      "Ciana Marie"
+    ],
+    "Laitier, fromage": [
+      "Grandjean Félicien"
+    ],
+    "Lingerie": [
+      "Guignard Madeleine"
+    ],
+    "Machines agricoles": [
+      "Boulaz Emile"
+    ],
+    "Maréchal": [
+      "Boulaz Emile"
+    ],
+    "Mécanicien": [
+      "Boulaz Emile"
+    ],
+    "Médecin": [
+      "Cornu Georges"
+    ],
+    "Notaire": [
+      "Pittet Francis"
+    ],
+    "Parqueterie": [
+      "Guignard Jean & Paul, S. A."
+    ],
+    "Pension": [
+      "Boulaz William"
+    ],
+    "Pierristes": [
+      "Reymond César",
+      "Reymond Emile"
+    ],
+    "Pisciculteur": [
+      "Magnenat Max."
+    ],
+    "Quincailleries": [
+      "Ciana Marie",
+      "Genre Léonie",
+      "Léonnard Gust."
+    ],
+    "Scieries": [
+      "Guignard Jean & Paul, SA."
+    ],
+    "Sellier-tapissier": [
+      "Bonard Ulysse"
+    ],
+    "Serrurier": [
+      "Abrezol Louis"
+    ],
+    "Sociétés": [
+      "Fondation Abr.-Elie Rochaz",
+      "Fondation Eug. Rochaz",
+      "Fonds des vitraux du temple",
+      "Section «L'Aurore»",
+      "Sections de la Croix-Bleue et de l'Espoir",
+      "Section de la Société de secours en cas de décès « La Fraternité »",
+      "Section de la Société vaudoise de secours mutuels",
+      "Société de l'Abbaye « L'Etoile du Jura »",
+      "Société de chant",
+      "Société pour le développement de Romainmôtier",
+      "Société de laiterie",
+      "Société de musique « La Lyre du Nozon »",
+      "Société du poids public de la Gare",
+      "Société de tir «Armes de guerre»"
+    ],
+    "Teinturerie (dépôt)": [
+      "Léonnard Gust",
+      "Wehrly Rose",
+      "Ciana Marie"
+    ]
+  },
+  "ROMAIRON": {
+    "Syndic": [
+      "Duvoisin M."
+    ],
+    "Secrétaire": [
+      "Cochand Jules"
+    ],
+    "Boursier": [
+      "Cochand Marcel"
+    ],
+    "Municipaux": [
+      "Bettex Alfred",
+      "Cochand Marcel"
+    ],
+    "Cantonnier": [
+      "Cochand Julien"
+    ],
+    "Command. du feu": [
+      "Cochand Jules"
+    ],
+    "Commission scolaire": [
+      "Duvoisin Maurice",
+      "Enggist Hermann",
+      "Bettex Jules"
+    ],
+    "Garde-forestier": [
+      "Duvoisin Auguste"
+    ],
+    "Inspecteur du bétail": [
+      "Cochand Marcel"
+    ],
+    "Instituteurs": [
+      "Lang Robert",
+      "Bourgeois Yvonne"
+    ],
+    "Police (agent de)": [
+      "Bettex Alfred"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Cochand Marcel"
+    ],
+    "Agriculteurs": [
+      "Bettex Numa",
+      "Cochand Jules",
+      "Cochand Marcel",
+      "Duvoisin Edgard",
+      "Duvoisin Maurice",
+      "Perret Ernest",
+      "Petitpierre Jules",
+      "Schneider Ali"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Lang Robert"
+    ],
+    "Bûcheron": [
+      "Haag Auguste"
+    ],
+    "Société": [
+      "Société de tir Aux Armes de Guerre"
+    ]
+  },
+  "ROMANEL-SUR-MORGES": {
+    "Syndic": [
+      "Bataillard Armel"
+    ],
+    "Secrétaire": [
+      "Zeender Henri"
+    ],
+    "Boursier": [
+      "Bataillard Constant"
+    ],
+    "Huissier": [
+      "Bataillard Robert"
+    ],
+    "Municipaux": [
+      "Bataillard Constant",
+      "Bataillard Lucien",
+      "Coderey François",
+      "Zeender Charles"
+    ],
+    "Assesseur": [
+      "Devillard Louis"
+    ],
+    "Commandant du feu": [
+      "Bataillard Armel"
+    ],
+    "Commission scolaire": [
+      "Bataillard A."
+    ],
+    "Inspecteur du bétail": [
+      "Zeender Hri"
+    ],
+    "Inspecteur des viandes": [
+      "Zeender Hri"
+    ],
+    "Instituteur": [
+      "Knuchel Charly"
+    ],
+    "Police (agent de)": [
+      "Bataillard Rob."
+    ],
+    "Poste et télégraphe": [
+      "Magnin Marguerite"
+    ],
+    "Téléphone": [
+      "Station communale"
+    ],
+    "Agriculteurs": [
+      "Bataillard Alfred",
+      "Bataillard Armel",
+      "Bataillard Chs",
+      "Bataillard Moïse",
+      "Bataillard Ro"
+    ]
+  }
+}

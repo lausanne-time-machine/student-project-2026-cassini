@@ -1,0 +1,141 @@
+{
+  "VUCHERENS": {
+    "Cafés.": [
+      "Stalder Emile",
+      "Cavin Héli",
+      "Stoucky Fritz"
+    ],
+    "Charpentiers.": [
+      "Jaquier Jean-Pierre",
+      "Vuagniaux Ernest"
+    ],
+    "Charrons.": [
+      "Gavillet Adrien",
+      "Porchet Victor"
+    ],
+    "Commission scolaire.": [
+      "Vuagniaux Léon",
+      "Porchet Alfred",
+      "Cherpillod Alphonse"
+    ],
+    "Cordonnier.": [
+      "Jaquier Héli"
+    ],
+    "Couturières.": [
+      "Porchet Aline",
+      "Vuagniaux Augustine",
+      "Vuagniaux Berthe"
+    ],
+    "Epicerie.": [
+      "Vuagniaux Eugène",
+      "Vuagniaux Victor"
+    ],
+    "Garde-forestier.": [
+      "Porchet Elie"
+    ],
+    "Inspecteur du bétail.": [
+      "Vuagniaux Victor"
+    ],
+    "Instituteurs.": [
+      "Tzaud Louis",
+      "Pahud Adèle"
+    ],
+    "Laitier.": [
+      "Beutler Alexandre"
+    ],
+    "Maçon.": [
+      "Jaquier Emile"
+    ],
+    "Maréchal.": [
+      "Cavin Ernest"
+    ],
+    "Menuisier-ébéniste.": [
+      "Vuagniaux Marius"
+    ],
+    "Photographie.": [
+      "Vuagniaux Victor"
+    ],
+    "Poste.": [
+      "Vuagniaux Aloïs"
+    ],
+    "Râteaux (fab. de).": [
+      "Cherpillod Germain"
+    ],
+    "Relieur.": [
+      "Vuagniaux Edmond"
+    ],
+    "Repasseuse.": [
+      "Porchet Alice"
+    ],
+    "Sociétés.": [
+      "D'assurance du bétail",
+      "Du four du bas de Vucherens",
+      "Du four de La Rappaz",
+      "Du four du Closy",
+      "De fromagerie",
+      "De la machine à battre"
+    ],
+    "Téléphone.": [
+      "Bureau des postes"
+    ]
+  },
+  "DISTRICT DE NYON": {
+    "Préfet": [
+      "Baud Auguste"
+    ],
+    "Substitut": [
+      "Bonzon Ernest"
+    ],
+    "Receveur": [
+      "Cavin Eugène"
+    ],
+    "Conservateur du registre foncier": [
+      "Tecon Julien"
+    ],
+    "Voyer du IIIme arrondissement": [
+      "Dorier Lucion"
+    ],
+    "Tribunal de district": [
+      "Pilet Ed.",
+      "Yersin Jean",
+      "Richard Louis",
+      "Pécoud Adolphe",
+      "Sahy Louis",
+      "Denogent Jules",
+      "Reymond Constant"
+    ],
+    "Poursuites et faillites": [
+      "Gottofrey Louis"
+    ]
+  },
+  "VILLE DE NYON": {
+    "Président du Conseil communal": [
+      "Thomas-Baup Laurent"
+    ],
+    "Secrétaire": [
+      "Thomas Jles.",
+      "Favre Fernand"
+    ],
+    "Syndic": [
+      "Bonnard Louis"
+    ],
+    "Municipaux": [
+      "Denogent Jules",
+      "Brack Louis",
+      "Durand-Kocher Ed.",
+      "Wührmann Henri"
+    ],
+    "Boursier": [
+      "Brandt Charles"
+    ],
+    "Huissier": [
+      "Wagnon Charles"
+    ],
+    "Bureau de contrôle des habitants": [
+      "Favre Fernand"
+    ],
+    "Agents d'affaires patentés.": [
+      "Cherpillod Louis"
+    ]
+  }
+}

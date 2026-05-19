@@ -1,0 +1,421 @@
+{
+  "GINGINS": {
+    "Couturières": [
+      "Rochaix Jeanne",
+      "Schmidt Lina",
+      "Jaquet Suzanne"
+    ],
+    "Encadreur": [
+      "Amiguet François"
+    ],
+    "Entrepreneur": [
+      "Simon Ami"
+    ],
+    "Epicerie-mercerie": [
+      "Küffer Albert",
+      "Sutter Rodolphe"
+    ],
+    "Ferblantier": [
+      "Joly Adrien"
+    ],
+    "Gypsier-peintre": [
+      "Gianina Gges"
+    ],
+    "Laitier": [
+      "Laiteries réunies"
+    ],
+    "Lingère": [
+      "Gianina Félicie"
+    ],
+    "Machines agric.": [
+      "Bignens Hri"
+    ],
+    "Maréchal": [
+      "Tecon Louis"
+    ],
+    "Mécanicien": [
+      "Tecon Henri"
+    ],
+    "Médecin": [
+      "Panchaud Robert"
+    ],
+    "Menuisier": [
+      "Schmid Emile"
+    ],
+    "Notaire": [
+      "Burnier André"
+    ],
+    "Pension pour enfants": [
+      "Reichenbach Lucienne"
+    ],
+    "Radio": [
+      "Sahy Louis"
+    ],
+    "Rentiers": [
+      "Berthoud Amélie, Mlle",
+      "de Watteville Béatrice",
+      "Paccard D."
+    ],
+    "Sociétés": [
+      "Section de la Croix-Bleue",
+      "Sté de chant",
+      "Sté de laiterie",
+      "Sté de tir",
+      "Syndicat agricole"
+    ],
+    "Transport longs bois": [
+      "Divorne Edm.",
+      "Sahy Gaston"
+    ],
+    "Usines": [
+      "Soc. Moulin agricole"
+    ],
+    "Vélos": [
+      "Tecon Louis"
+    ],
+    "Divers": [
+      "Corbaz A.",
+      "Duchemin R.-P.",
+      "Reichenbach L.",
+      "Station d'élevage de chiens"
+    ]
+  },
+  "GIVRINS": {
+    "Syndic": [
+      "Wuischpard John"
+    ],
+    "Secrétaire": [
+      "Lambossy Eugène"
+    ],
+    "Boursier": [
+      "Bory Jacques"
+    ],
+    "Huissier": [
+      "Bory Henri"
+    ],
+    "Municipaux": [
+      "Bezinge Gustave",
+      "Bory Adolphe",
+      "Bory George",
+      "Lequint Jean",
+      "Lequint Maurice",
+      "Wuischpard Ami"
+    ],
+    "Cantonnier": [
+      "Barbezat Albert"
+    ],
+    "Commandant du feu": [
+      "Wuischpard J."
+    ],
+    "Commission scolaire": [
+      "Wuischpard Edmond"
+    ],
+    "Inspecteur forestier": [
+      "Leuenberger G."
+    ],
+    "Inspecteur des viandes": [
+      "Bory Henri"
+    ],
+    "Instituteurs": [
+      "Rochat Louis",
+      "Berlie Marie"
+    ],
+    "Juge de paix": [
+      "Bory Ernest"
+    ],
+    "Poste et télégraphe": [
+      "Bory Jacques"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Wuischpard Aug.",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs-vignerons": [
+      "Bezinge Ju.",
+      "Bory Alfred",
+      "Bory Adolphe",
+      "Bory Ernest",
+      "Bory Maur.",
+      "Chabloz Louis",
+      "Desvignes Adrien",
+      "Jaccaud Jules",
+      "Lequint frères",
+      "Lequint Juste",
+      "Lequint Maurice",
+      "Lequint John",
+      "Neyroud frères",
+      "Prélaz, Veuve d'Henri",
+      "Prélaz Paul",
+      "Porchat Adrien",
+      "Velan Ami",
+      "Wuischpard frères"
+    ],
+    "Amodiateur": [
+      "Prélaz Paul"
+    ],
+    "Apiculteurs": [
+      "Bory Ernest",
+      "Bory Georges",
+      "Lequint Albert",
+      "Saleros André",
+      "Simond Paul"
+    ],
+    "Appareilleurs": [
+      "Saleros Pierre",
+      "Simond Paul"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite",
+      "Rochat L."
+    ],
+    "Bois (commerce de)": [
+      "Bezinge Jules",
+      "Bezinge Gustave"
+    ],
+    "Boulanger": [
+      "Périsset Arthur"
+    ],
+    "Café": [
+      "Au Sapin",
+      "Bezinge Gustave"
+    ],
+    "Camionneurs": [
+      "Bezinge Gustave",
+      "Bezinge Jules"
+    ],
+    "Charpentier-menuisier": [
+      "Lambossy Eugène"
+    ],
+    "Cordonnier": [
+      "Golay Louis"
+    ],
+    "Distillateur": [
+      "Marti Théodore"
+    ],
+    "Entrepreneurs": [
+      "Salero Pierre",
+      "Simond Paul",
+      "Bezinge Edmond"
+    ],
+    "Epicerie-mercerie": [
+      "Miéville sœurs",
+      "Périsset Arthur"
+    ],
+    "Gypsier-peintre": [
+      "Salero Pierre"
+    ],
+    "Ingénieurs": [
+      "Vautier Henri",
+      "Grunholzer Ulrich"
+    ],
+    "Laitier, fromages": [
+      "Rochat Jean"
+    ],
+    "Menuisier": [
+      "Lambossy Eugène"
+    ],
+    "Divers": [
+      "Bory E."
+    ]
+  },
+  "GLAND": {
+    "Syndic": [
+      "Charrière Néhémie"
+    ],
+    "Secrétaire": [
+      "Pasche Jean fils"
+    ],
+    "Boursier": [
+      "Bovy Aloïs"
+    ],
+    "Huissier": [
+      "Bellay Ami"
+    ],
+    "Municipaux": [
+      "Barrillier Adrien",
+      "Favre David",
+      "Schneiter Paul",
+      "Turrian Samuel"
+    ],
+    "Assesseur": [
+      "Caboussat Julien"
+    ],
+    "Cantonnier": [
+      "Maeder Adrien"
+    ],
+    "Commandant du feu": [
+      "Schneiter P."
+    ],
+    "Commission scolaire": [
+      "Schillinger Maurice"
+    ],
+    "Gare C. F. F. (chef de)": [
+      "Moillen"
+    ],
+    "Gendarmerie (poste de)": [
+      "Jaques Félix"
+    ],
+    "Inspecteur du bétail": [
+      "Bovy Aloïs"
+    ],
+    "Inspecteur forestier": [
+      "Leuenberger G."
+    ],
+    "Inspecteur des viandes": [
+      "Bovy Aloïs"
+    ],
+    "Institut": [
+      "Ecole internationale"
+    ],
+    "Instituteurs": [
+      "Bettembos André",
+      "Lambelet Marie-Louise",
+      "Dutruit Marthe"
+    ],
+    "Pasteur": [
+      "Joyet William"
+    ],
+    "Police (agent de)": [
+      "Bellay Ami"
+    ],
+    "Poste et télégraphe": [
+      "Rayroux Emile"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Station publique à la poste"
+    ],
+    "Agence immobilière et commerciale": [
+      "Langer P."
+    ],
+    "Agriculteurs": [
+      "Aubert, Vve d'Hri, Meydez",
+      "Bariller Adr.",
+      "Baumgertner frères",
+      "Bieri Antoine",
+      "Berger Henri",
+      "Bruch Alphonse",
+      "Burgin Guillaume",
+      "Caboussat Ami",
+      "Caboussat, hoirs d'Alfred",
+      "Caboussat Julien",
+      "Caboussat Louis d'Henri",
+      "Cherpillod Ulysse",
+      "Christin Armand",
+      "Christin Ernest",
+      "Christin, hoirie de Jules",
+      "Choilet François",
+      "La Lignière",
+      "Félix Samuel",
+      "Hämmerli Louis",
+      "Jaton Jules",
+      "Jonzier Ls",
+      "Mosetti Ant.",
+      "Pasche Ad.",
+      "Pasche Henri",
+      "Pasche Jean",
+      "Prélaz Ch.",
+      "Riggenberg Gottfried",
+      "Rösti Albert",
+      "Soumi Aug.",
+      "Turrian Samuel"
+    ],
+    "Aviculteur": [
+      "Favre David"
+    ],
+    "Appareilleurs": [
+      "Bottin M.",
+      "Favre D."
+    ],
+    "Ameublement": [
+      "Lauffenburger Ernest"
+    ],
+    "Auto-garage": [
+      "Garage de Gland S. A."
+    ],
+    "Aviculteurs": [
+      "Langer P.",
+      "Société fermière du Brex"
+    ],
+    "Bestiaux (march. de)": [
+      "Chollet Frs",
+      "Simond J."
+    ],
+    "Biscuitier": [
+      "Charrière Edgar"
+    ],
+    "Blanchisseuse": [
+      "Caillat Nelly"
+    ],
+    "Bois (comm. de)": [
+      "Aegerter Louis",
+      "Chollet François"
+    ],
+    "Bouchers": [
+      "Caboussat Henri",
+      "Grimm Marguerite"
+    ],
+    "Boulangers": [
+      "Charrière Paul",
+      "Zimmermann Georges"
+    ],
+    "Bureau technique": [
+      "Oser Max"
+    ],
+    "Cafés": [
+      "Chambaz Maurice",
+      "Coullet",
+      "Henry, Vve",
+      "Huit Marcel"
+    ],
+    "Camionneurs": [
+      "Aegerter Louis",
+      "Berger Henri"
+    ],
+    "Charcutiers": [
+      "Caboussat frères",
+      "Nicolier Louis",
+      "Spahni Em."
+    ],
+    "Charron": [
+      "Vernez Louis"
+    ],
+    "Chaussures": [
+      "Bozonnetti Joseph"
+    ],
+    "Clinique": [
+      "Etablissement médical et diététique La Lignière"
+    ],
+    "Goiffeurs": [
+      "Debonneville Louis",
+      "Huit M."
+    ],
+    "Combustibles": [
+      "Aegerter Louis"
+    ],
+    "Crémerie-tea-room": [
+      "Meylan J.",
+      "Zimmermann Gges"
+    ],
+    "Couturières": [
+      "Bex Adèle",
+      "Dufey Louise"
+    ],
+    "Electricité": [
+      "Soc. électr. de la Côte",
+      "Amaron P."
+    ],
+    "Encadreur": [
+      "Lauffenburger Ernest"
+    ],
+    "Entrepreneurs": [
+      "Boletti Baptiste",
+      "Bottin Maurice",
+      "Locatelli Jos.",
+      "Perrin & Ronchi",
+      "Ronchi Albert",
+      "Vercelin Julien"
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "AUBONNE": {
+    "Affichage": [
+      "Société générale d'affichage"
+    ],
+    "Agent d'affaires patenté": [
+      "Jaquinet Emile"
+    ],
+    "Agriculteurs": [
+      "Agier Henri",
+      "Ambühl Auguste",
+      "Baudraz Louis",
+      "Burnet Charles",
+      "Burnet Jules",
+      "Chomton Jules",
+      "Cottier frères",
+      "Croisier Louis",
+      "Delapierre Jules",
+      "Dolt Louis",
+      "Favre Marc",
+      "Félix Eug.",
+      "Félix Ls",
+      "Félix John",
+      "Filliettaz E.",
+      "Lædermann Pl.",
+      "Magnenat Louis",
+      "de Mestral Henri",
+      "Muller",
+      "Rosset Marcel",
+      "Streit",
+      "Vautier Alfred"
+    ],
+    "Assurances": [
+      "La Suisse",
+      "Bartré D.",
+      "La Préservatrice",
+      "Assurance cantonale contre l'incendie et assurance-grêle",
+      "Cart J.",
+      "Jaquinet Emile",
+      "Jotterand Emile",
+      "La Concordia",
+      "Merminod E.",
+      "La Genevoise",
+      "Guignard Julien"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Leresche A."
+    ],
+    "Banques": [
+      "Banque cantonale",
+      "Vallon Robert",
+      "Caisse d'épargne d'Aubonne",
+      "Union Vaudoise du Crédit",
+      "Rubin Louis",
+      "Jaquinet Emile"
+    ],
+    "Blanchisseuses": [
+      "Aubert-Enderlin",
+      "Magnenat Berthe",
+      "Winkelmann Anna"
+    ],
+    "Bois (com. de)": [
+      "Custot Ls"
+    ],
+    "Bouchers": [
+      "Liardet René",
+      "Viquerat Justin"
+    ],
+    "Boulangers": [
+      "Gaillard P.",
+      "Leibacher Gottlieb",
+      "Matthey Henri",
+      "Pellet Clément",
+      "Tournafol Alexis"
+    ],
+    "Brevets d'invention": [
+      "Pahud J.-D."
+    ],
+    "Buraliste postal": [
+      "Grossen Edouard"
+    ],
+    "Cafetiers": [
+      "Dallenbach Th.",
+      "Kürsner",
+      "Loup Louis",
+      "Matthey Hri",
+      "Mermoud Gust.",
+      "Perrin Charles",
+      "Tardy Marie"
+    ],
+    "Caisse d'épargne": [
+      "Bartré Daniel"
+    ],
+    "Camionneur": [
+      "Chevailler Féréol"
+    ],
+    "Charcutiers": [
+      "Bassin Robert",
+      "Courvoisier-Bettems Paul",
+      "Liardet René",
+      "Perret Jules"
+    ],
+    "Charpentiers": [
+      "Cottier Paul",
+      "Meylan Henri",
+      "Simon Charles"
+    ],
+    "Charrons": [
+      "Moinat Ernest",
+      "Muller Paul"
+    ],
+    "Chaussures (march. de)": [
+      "Cruchon-Poget Louisa",
+      "Dumont-Agier Maurice",
+      "Perotti Angelo"
+    ],
+    "Chef de gare": [
+      "Jaquenoud Louis"
+    ],
+    "Coiffeurs": [
+      "Britsch Frédéric",
+      "Delacrausaz Aloïs"
+    ],
+    "Combustibles": [
+      "Chevailler Féréol",
+      "Custot Louis"
+    ],
+    "Commission scolaire": [
+      "Corthésy Aloïs",
+      "Vallon Rob."
+    ],
+    "Confiseurs": [
+      "Leibacher Gottl.",
+      "Pellet Clément"
+    ],
+    "Cordonniers": [
+      "Boggia L.",
+      "Dumont-Agier Maur.",
+      "Perotti Angelo"
+    ],
+    "Couturières": [
+      "Bassin, Dlle",
+      "Baudin A., Dlle",
+      "Caillet, Dlle",
+      "Eberhard Marguerite",
+      "Grosjean-Pellet Alexandrine",
+      "Hugonnet Berthe",
+      "Matthey Eglantine",
+      "Meyer Anna, Mlle",
+      "Pellet-Eberhard Charlotte",
+      "Poget Berthe",
+      "Vaucher E.",
+      "Wisler Jenny"
+    ],
+    "Dentistes": [
+      "Corthay Léon",
+      "Peter Auguste"
+    ],
+    "Draperies et confections": [
+      "Agassis-Rochat E.",
+      "Nerfin P."
+    ],
+    "Droguistes": [
+      "Chapuis Robert",
+      "Lincio Alfr.",
+      "Uldry A."
+    ],
+    "Electricité": [
+      "Soc. Electrique"
+    ],
+    "Entrepreneurs": [
+      "Chavanne Auguste",
+      "Chavanne Marcel",
+      "Gaggio P."
+    ],
+    "Epiceries": [
+      "Chappuis Robert",
+      "Frey-Grosjean O.",
+      "Lincio Alfr.",
+      "Martin André",
+      "Palaz E.",
+      "Magnenat Gust.",
+      "Uldry Ad.",
+      "Waridel Pierre"
+    ],
+    "Equarrisseur": [
+      "Cuérel Adolphe"
+    ],
+    "Fers et quincaillerie (march. de)": [
+      "Lincio Alfred",
+      "Martin André"
+    ],
+    "Ferblantiers-couvreurs": [
+      "Custot Ls",
+      "Matthey Emile",
+      "Tissot-Dallenbach Charles"
+    ],
+    "Forestier": [
+      "Berthoud G."
+    ],
+    "Fromages": [
+      "Bassin Robert",
+      "Perret Jules"
+    ],
+    "Fruits et légumes": [
+      "Claudet Albert",
+      "Rosset"
+    ],
+    "Géomètres brevetés": [
+      "Henchoz Alb.",
+      "Reymond Marc"
+    ],
+    "Gérants d'immeubles": [
+      "Bujard Ern.",
+      "Jaquinet Em.",
+      "Rolaz J."
+    ],
+    "Grains et farines": [
+      "Pasche-Charrière O.",
+      "Société du Moulin agricole d'Aubonne",
+      "Uldry Adolphe"
+    ]
+  }
+}

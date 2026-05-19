@@ -1,0 +1,409 @@
+{
+  "CULLY": {
+    "Banques": [
+      "Banque Cantonale Vaudoise",
+      "Capt Eug.",
+      "Caisse de Crédit mutuel"
+    ],
+    "Blanchisseuse": [
+      "Scardi, Mme."
+    ],
+    "Bois (march. de)": [
+      "Pellet & Cie"
+    ],
+    "Bonneterie-mercerie": [
+      "Gavaggio Clément",
+      "Piguet Angèle"
+    ],
+    "Bouchers": [
+      "Luthi Jean",
+      "Schlup Fritz"
+    ],
+    "Boulangers-pâtissiers": [
+      "Bujard Pierre",
+      "Landry Georges",
+      "Penseyres. A."
+    ],
+    "Cafés": [
+      "Buffet de la Gare",
+      "Dombald Julien",
+      "Café fédéral",
+      "Wacker Bertha",
+      "A la Grappe d'Or",
+      "Pouly Ulysse",
+      "Café du Major Davel",
+      "Vve Fd Brunner",
+      "Café du Léman",
+      "Giacomini Michel",
+      "Café de la Poste",
+      "Tornay. Mme",
+      "Café des Vélos",
+      "Zoller Anna",
+      "Hôtel de Ville",
+      "Kuhn J."
+    ],
+    "Camionneurs": [
+      "Pellet & Cie"
+    ],
+    "Cercueils": [
+      "Pasche Alexis",
+      "Pompes fun. gén. S. A."
+    ],
+    "Chapellerie": [
+      "Cavaggio C., fils"
+    ],
+    "Charcutiers": [
+      "Egger Robert",
+      "Luthy Jean",
+      "Schlup Fritz"
+    ],
+    "Charpentiers": [
+      "Cordey E.",
+      "Monoud Constant"
+    ],
+    "Chaussures (march. de)": [
+      "Bailly Jos.",
+      "Paschoud Alexis"
+    ],
+    "Coiffeurs": [
+      "Pasche G.",
+      "Reymond-Barbey",
+      "Vincent Auguste",
+      "Witz-Barth Jean"
+    ],
+    "Combustibles (march. de)": [
+      "Pellet & Cie"
+    ],
+    "Confections": [
+      "Antonioli A.",
+      "Cavaggio C., fils"
+    ],
+    "Cordonniers": [
+      "Paschoud Alexis",
+      "Pollien Marcel.",
+      "Bailly Joseph"
+    ],
+    "Couturières": [
+      "Lavanchy Emma, Mme",
+      "Piguet Cécile"
+    ],
+    "Crèmerie-tea-room": [
+      "Landry Eugène"
+    ],
+    "Dentistes": [
+      "Cherix Louis-Phil."
+    ],
+    "Droguerie": [
+      "Rapin-Duboux Gast."
+    ],
+    "Electricité": [
+      "Bovard Arthur",
+      "Entreprises électriques fribourgeoises",
+      "Tauxe Ami"
+    ],
+    "Entrepreneurs": [
+      "Anchise Ernest",
+      "Notari Arthur"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Borgeaud Pouly Ernest",
+      "Cuénoud Franç.",
+      "Landry Georges",
+      "Rapin-Duboux Gaston",
+      "Société coop. La Ménagère"
+    ],
+    "Fers et quincaillerie": [
+      "Cuénoud François",
+      "Rapin-Duboux G."
+    ],
+    "Ferblantiers": [
+      "Beauverd frères",
+      "Lindenmeyer Eugène",
+      "Righetti Capt E."
+    ],
+    "Fromages (march. de)": [
+      "Baatard Eugène",
+      "Durig Fritz"
+    ],
+    "Géomètres": [
+      "Capt Eugène",
+      "Conne A. T."
+    ],
+    "Graines": [
+      "Durig F.",
+      "Gorgerat René"
+    ],
+    "Gypsiers-peintres": [
+      "Ambrosino Pierre",
+      "Notari A."
+    ],
+    "Horloger": [
+      "Schaller Fritz"
+    ],
+    "Horticulteur": [
+      "Gorgerat René"
+    ],
+    "Hôtels": [
+      "Bodenmann, Vve",
+      "Buffet de la Gare",
+      "Kuhn J.",
+      "Hôtel de Ville"
+    ],
+    "Imprimerie": [
+      "Imprimerie de Lavaux, S. A."
+    ],
+    "Jardiniers": [
+      "Cuénoud-Pellet Victor.",
+      "Gorgerat René"
+    ],
+    "Journal": [
+      "Chronique de Lavaux",
+      "Imprimerie de Lavaux S. A.",
+      "Baatard Eugène",
+      "Durig Fritz"
+    ],
+    "Laitiers": [
+      "Baatard Eugène",
+      "Durig Fritz"
+    ],
+    "Lingères": [
+      "Cuénoud sœurs",
+      "Liaudet Julie",
+      "Masson Marie"
+    ],
+    "Machines à coudre": [
+      "Capt Victor"
+    ],
+    "Machines agricoles et viticoles": [
+      "Cuénoud Fr.",
+      "Rapin-Duboux G.",
+      "Duboux Eug."
+    ],
+    "Matériaux de construction": [
+      "Pellet & Cie",
+      "Notari Arthur",
+      "Ziegel S.A."
+    ],
+    "Mécaniciens": [
+      "Borgeaud François",
+      "Pellet Isaac"
+    ],
+    "Médecins": [
+      "Nagel P.",
+      "Paschoud Henri",
+      "Rochat Charles"
+    ],
+    "Menuisiers": [
+      "Cordey Edmond",
+      "Noverraz-Bessat"
+    ],
+    "Notaires": [
+      "Jaton Fernand",
+      "Giroud Pierre"
+    ],
+    "Papiers peints": [
+      "Ambrosino Pierre",
+      "Notari Arthur"
+    ],
+    "Pêcheurs": [
+      "Pellet Isaac",
+      "Rouge Hri"
+    ],
+    "Pharmacie": [
+      "Træster Paul"
+    ],
+    "Photographe": [
+      "Piguet Charles"
+    ],
+    "Primeurs-comestibles": [
+      "Cuénoud-Pellet Victor",
+      "Durig Fritz"
+    ],
+    "Radio-gramo": [
+      "Borgeaud Franç."
+    ],
+    "Registre foncier (conservat.)": [
+      "Blanc Georges"
+    ],
+    "Représentants": [
+      "Budry Paul"
+    ],
+    "Sage-femme": [
+      "Paschoud, dame"
+    ],
+    "Serruriers": [
+      "Barraud Louis",
+      "Girardet Paul",
+      "Guignet Ernest",
+      "Jeanmonod Fritz",
+      "von Arx P."
+    ],
+    "Sociétés": [
+      "Chœur de dames",
+      "Chœur d'hommes de Lavaux",
+      "La Lyre",
+      "Sauvetage du Léman",
+      "Section de la Croix-Bleue",
+      "Sté de Développement",
+      "Sté de gymnastique",
+      "Sté immobilière de l'église libre",
+      "Sté militaire de l'ancienne commune de Villette",
+      "Sté de tir aux armes de guerre",
+      "Sté vaudoise d'agriculture et de viticulture",
+      "Union des femmes de Lavaux"
+    ],
+    "Tailleurs": [
+      "Antonioli G.",
+      "Gavaggio C. R.",
+      "Lavanchy Emma"
+    ],
+    "Tapissier": [
+      "Imhoff Alfred"
+    ],
+    "Tartre": [
+      "Cuénoud François"
+    ],
+    "Taxis": [
+      "Borgeaud Fr.",
+      "Pellet I."
+    ],
+    "Teinturerie (dépôt)": [
+      "Gavaggio Clém."
+    ],
+    "Tissus et étoffes": [
+      "Cavaggio C. fils"
+    ],
+    "Tonnelier": [
+      "Marti Rod."
+    ],
+    "Transports": [
+      "Notari Arthur",
+      "Pellet & Cie"
+    ],
+    "Tricotage mécanique": [
+      "Vincent Henri"
+    ],
+    "Vélos": [
+      "Borgeaud François",
+      "Capt Victor",
+      "Pellet Isaac"
+    ],
+    "Vignerons-propriétaires": [
+      "Bessat John",
+      "Chenaux",
+      "Blondel Emile",
+      "Blondel Philippe",
+      "Bovard Louis",
+      "Bron Victor",
+      "Treytorrens",
+      "Bor-gognon Samuel",
+      "Carroz Emile",
+      "Cuénoud Paul.",
+      "Duboux Eugène",
+      "Fonjallaz Jean",
+      "Mercanton André",
+      "Mercanton Ch.",
+      "Monnier Auguste",
+      "Möri Emile",
+      "Naef Ernest",
+      "Pasche A.",
+      "Ponnaz Paul",
+      "Por-chet M.",
+      "Chenaux",
+      "Potterat J.",
+      "Pouly Ulysse",
+      "Voruz H.",
+      "Weber Henri"
+    ],
+    "Vins (march. de)": [
+      "Association des propriétaires-vignerons",
+      "Bovard L.",
+      "Bron V.",
+      "Clos Dézaley",
+      "Treytorrens près Cully",
+      "Comtesse Henri. S.A.",
+      "Duboux Eug.",
+      "Strauss Albert",
+      "Testuz Jules",
+      "Treytorrens pr. Cully",
+      "Union Vinicole, Cully"
+    ],
+    "Voituriers": [
+      "Pellet & Cie"
+    ],
+    "Divers": [
+      "Altschuler Fréd.",
+      "La Gabrule",
+      "Augsburger Emm.",
+      "la Maisonnette",
+      "Baillif Ls",
+      "les Cytises",
+      "Budry Paul",
+      "Cuénoud Charles",
+      "Dumur Victor",
+      "Palaz J. Mme",
+      "Versailles",
+      "Girardet Lucy",
+      "la Rive",
+      "Lignante Hélène",
+      "la Perreyre",
+      "Monney O.",
+      "Palaz J. Mme",
+      "le Belvédère",
+      "Paschoud Henri",
+      "Rouge Alfr.",
+      "Bahyse",
+      "Strauss Alb.",
+      "la Rive",
+      "Veillon Maurice",
+      "la Rive"
+    ]
+  },
+  "CURE (La)": {
+    "Divers": [
+      "Voir St-Cergue"
+    ]
+  },
+  "CURTILLES": {
+    "Député": [
+      "May Ernest"
+    ],
+    "Syndic": [
+      "May Ernest"
+    ],
+    "Secrétaire": [
+      "Déglon Ernest"
+    ],
+    "Boursier": [
+      "Sonnard Fernand"
+    ],
+    "Huissier": [
+      "Vuagniaux Jean"
+    ],
+    "Municipaux": [
+      "Déglon Armand",
+      "Dutoit Aloys",
+      "Gavin Maurice",
+      "Sonnard Fernand"
+    ],
+    "Cantonnier": [
+      "Sonnard Julien"
+    ],
+    "Commandant du feu": [
+      "Déglon Ernest"
+    ],
+    "Commission scolaire": [
+      "Gavin Maurice"
+    ],
+    "Inspecteur du bétail": [
+      "Déglon Fr."
+    ],
+    "Inspecteur des viandes": [
+      "Déglon Fr."
+    ],
+    "Instituteurs": [
+      "Corthésy Roland",
+      "Corthésy Suzanne"
+    ]
+  }
+}

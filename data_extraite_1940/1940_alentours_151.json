@@ -1,0 +1,76 @@
+{
+  "LE CHATELARD": {
+    "Syndic": [
+      "Cochard Ulysse"
+    ],
+    "Secrétaire": [
+      "Conne Frédéric"
+    ],
+    "Boursier": [
+      "Banque Cantonale Vaudoise"
+    ],
+    "Huissier": [
+      "Byrde Emile"
+    ],
+    "Municipaux": [
+      "Blanc O.",
+      "Bonzon Emile",
+      "Jaquet Edmond",
+      "Puenzieux Alb."
+    ],
+    "Commission scolaire": [
+      "Vouga Paul",
+      "Guignard Jules"
+    ]
+  },
+  "LES PLANCHES": {
+    "Syndic": [
+      "Maron Robert"
+    ],
+    "Secrétaire": [
+      "Pache Louis"
+    ],
+    "Boursier": [
+      "Banque Cantonale Vaudoise"
+    ],
+    "Huissier": [
+      "Magnin Ernest"
+    ],
+    "Municipaux": [
+      "Chessex Alexis",
+      "Jordan Henri",
+      "Mayer Alb.",
+      "Pilivet Jules"
+    ],
+    "Bureau des étrangers": [
+      "Hôtel de Ville"
+    ],
+    "Commission scolaire": [
+      "Chessex Alexis",
+      "Vullioud Jules"
+    ]
+  },
+  "VEYTAUX": {
+    "Syndic": [
+      "Alblas René"
+    ],
+    "Secrétaire": [
+      "Borloz Céline"
+    ],
+    "Boursier": [
+      "Banque Populaire Suisse"
+    ],
+    "Huissier": [
+      "Merminod Jules"
+    ],
+    "Municipaux": [
+      "Chatelanat Ch.",
+      "Masson Charles",
+      "Pilet Charles",
+      "Puenzieux Edouard"
+    ],
+    "Bureau des étrangers": [
+      "Maison de Commune"
+    ]
+  }
+}

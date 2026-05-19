@@ -1,0 +1,341 @@
+{
+  "LUTRY": {
+    "Divers.": [
+      "Bujard Alfred",
+      "Champonnier F.",
+      "Deprez Albert",
+      "Doret Gustave",
+      "Dupraz Robert",
+      "Fasnacht-Porchet A.",
+      "Fonjallaz Arthur",
+      "Fontannaz Lucien",
+      "Ganty-Gozel Charles",
+      "Grobéty-Delessert Oscar",
+      "Jaloux Edm.",
+      "Jung-de Pannewitz Rod.",
+      "Kernen L. et J.",
+      "Lavanchy-Détraz Ch.",
+      "Lavanchy A.",
+      "Mantel Ed.",
+      "Mégroz",
+      "Otth Aloïs",
+      "Pochon-Millar Alfred",
+      "Rambert Charles",
+      "Suter Frédéric",
+      "Suter Gottlieb",
+      "Thélin Julie"
+    ]
+  },
+  "CORSY-CONVERSION": {
+    "Inspecteur du bétail": [
+      "Foscale André"
+    ],
+    "Instituteurs": [
+      "Kuffer Maurice",
+      "Perrenoud Edmond",
+      "Simonin Jeanne"
+    ],
+    "Poste (agence)": [
+      "Parisod Francis"
+    ],
+    "Agriculteurs et vignerons": [
+      "Morier Georges",
+      "Morier Robert",
+      "Noverraz Hoirs",
+      "Paschoud Alb.",
+      "Rosset Paul",
+      "Wannaz Charles",
+      "Wannaz Emile"
+    ],
+    "Aviculteur": [
+      "Testuz-Pasche"
+    ],
+    "Cafés": [
+      "Luthy Arm.",
+      "Mazotti Claudine"
+    ],
+    "Dentiste": [
+      "Desbaillets Léon"
+    ],
+    "Entrepreneur": [
+      "Abrezol Jules"
+    ],
+    "Epiceries": [
+      "Gaudard",
+      "Pache"
+    ],
+    "Horticulteurs": [
+      "Moënoz A.",
+      "Wohlers Ch T."
+    ],
+    "Menuiserie": [
+      "Pittet Arth."
+    ],
+    "Pépiniéristes": [
+      "Burnier Victor",
+      "Duvoisin Alfred",
+      "Paschoud Albert"
+    ],
+    "Sociétés": [
+      "Sté de chant L'Espérance",
+      "Sté de fromagerie-laiterie",
+      "Sté de laiterie-fromagerie d'Echerin"
+    ],
+    "Tailleuse": [
+      "Diserens Marthe"
+    ],
+    "Divers": [
+      "Bolliger Otto",
+      "Bachmann-Gaeng E.",
+      "Champonnier Fr.",
+      "Chavan Hri",
+      "Foscale Antoine",
+      "Gailloz Henri",
+      "Guigon Ch.",
+      "Noverraz",
+      "Paschoud Ch.",
+      "Piaget R.",
+      "Roch",
+      "Rochat Berthe",
+      "Rosset Charles",
+      "Rosset P.",
+      "Schider K.",
+      "Stettler Gérald",
+      "Wiedmer F.",
+      "Young W."
+    ]
+  },
+  "MALAPALUD": {
+    "Syndic": [
+      "Longchamp Alfred"
+    ],
+    "Secrétaire": [
+      "Longchamp Marc"
+    ],
+    "Boursier": [
+      "Longchamp Auguste"
+    ],
+    "Huissier": [
+      "Longchamp Isidore"
+    ],
+    "Municipaux": [
+      "Longchamp Aug.",
+      "Longchamp Louis"
+    ],
+    "Commission scolaire": [
+      "Longchamp Louis",
+      "Longchamp Isidore"
+    ],
+    "Curé": [
+      "Golliard Clément"
+    ],
+    "Insp. du bétail": [
+      "Longchamp Marc"
+    ],
+    "Institutrice": [
+      "Vuillermoz A.-Marie"
+    ],
+    "Agriculteurs": [
+      "Henneberger André",
+      "Longchamp Alfred",
+      "Longchamp Auguste",
+      "Longchamp François",
+      "Longchamp Isidore",
+      "Longchamp Joseph",
+      "Longchamp Marc et Léon",
+      "Longchamp Paul",
+      "Pollien Léon"
+    ],
+    "Amodiateurs": [
+      "Longchamp Alfred et Paul"
+    ],
+    "Electricité": [
+      "Forces de Joux et de l'Orbe"
+    ],
+    "Laiterie": [
+      "Soc. de laiterie"
+    ],
+    "Sociétés": [
+      "Sté de battage",
+      "Sté de laiterie"
+    ],
+    "Tricotage mécanique": [
+      "Longchamp Germaine"
+    ]
+  },
+  "MARACON": {
+    "Syndic": [
+      "Chollet Léonard"
+    ],
+    "Secrétaire": [
+      "Derendinger Paul"
+    ],
+    "Boursier": [
+      "Chollet Emile"
+    ],
+    "Huissier": [
+      "Serex John"
+    ],
+    "Municipaux": [
+      "Chollet Alfred",
+      "Chollet Charles",
+      "Serex Henri",
+      "Serex Ls.",
+      "Serex René",
+      "Visinand Fernand"
+    ],
+    "Cantonniers": [
+      "Serex John"
+    ],
+    "Commandant du feu": [
+      "Chollet Emile"
+    ],
+    "Commission scolaire": [
+      "Chollet Marius"
+    ],
+    "Garde-forestier": [
+      "Serex John"
+    ],
+    "Inspecteur du bétail": [
+      "Serex Léon"
+    ],
+    "Inspecteur des viandes": [
+      "Serex Marc"
+    ],
+    "Instituteurs": [
+      "Paccaud Olivier",
+      "Rubattel Jenny"
+    ],
+    "Poste et télégraphe": [
+      "Chollet Frédéric"
+    ],
+    "Téléphone": [
+      "Serex-Boraley Louis"
+    ],
+    "Agriculteurs": [
+      "Chollet Alfred",
+      "Perrez Bugnon",
+      "Chollet Emile",
+      "Chollet Henri",
+      "Chollet Henri",
+      "Chollet Ls-Samuel",
+      "Chollet Marius",
+      "Dovat Louis",
+      "Pasche Robert",
+      "Serex Aloïs",
+      "Serex-Clot Constant",
+      "Serex Léon",
+      "Serex Louis",
+      "Les Indivis",
+      "Stuby Samuel",
+      "Visinand Léonard"
+    ],
+    "Apiculteurs": [
+      "Chollet Jean",
+      "Dovat Louis",
+      "Eggen Henri",
+      "Pasche Robert"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Paccaud Olivier"
+    ],
+    "Banque": [
+      "Crédit Mutuel",
+      "Serex Constant"
+    ],
+    "Bestiaux (md de)": [
+      "Dovat Louis",
+      "Grandchamp William"
+    ],
+    "Boulanger": [
+      "Serex Henri"
+    ],
+    "Cafés": [
+      "Grognuz Charles",
+      "Serex Aloïs"
+    ],
+    "Charpentiers": [
+      "Serex Charles",
+      "Stuby Gustave"
+    ],
+    "Charron": [
+      "Porchet Henri"
+    ],
+    "Cordonnier": [
+      "Chollet Jules"
+    ],
+    "Couturières": [
+      "Chollet Bertha",
+      "Chollet Olive",
+      "Serex Amélie",
+      "Visinand Liliane"
+    ],
+    "Epicerie, mercerie": [
+      "Serex-Boraley Ls",
+      "Serex Ch.-Henri"
+    ],
+    "Etoffes": [
+      "Serex-Boraley Louis"
+    ],
+    "Fourrages": [
+      "Grandchamp William"
+    ],
+    "Fromages": [
+      "Société de fromagerie"
+    ],
+    "Hottes (fabr. de)": [
+      "Caillet frères",
+      "Chollet Ls et Gérard",
+      "les Indivis",
+      "Serex John",
+      "Serex-Corboz Frédéric",
+      "Stuby Gustave"
+    ],
+    "Maréchaux": [
+      "Derendinger Hri et Paul"
+    ],
+    "Scienr.": [
+      "Stuby Samuel"
+    ],
+    "Sociétés": [
+      "Caisse d'assurance contre les pertes du bétail bovin",
+      "Caisse de crédit mutuel",
+      "Chœur d'hommes",
+      "Sté du battoir à grains",
+      "Sté militaire du Cordon blanc",
+      "Syndicat agricole d'Ecoteaux-Maracon",
+      "Syndicat d'alpage d'Ecoteaux-Maracon"
+    ],
+    "Vins (comm. de)": [
+      "Serex-Boraley Ls",
+      "Visinand Léonard"
+    ]
+  },
+  "MARCHISSY": {
+    "Syndic": [
+      "Humbert-Coindet Jules"
+    ],
+    "Secrétaire": [
+      "Humbert Lucien"
+    ],
+    "Boursier": [
+      "Humbert Aloïs"
+    ],
+    "Huissier": [
+      "Terry René"
+    ],
+    "Municipaux": [
+      "Bassin Edmond",
+      "Christinet Gustave",
+      "Christinet Ulysse",
+      "Pilloud Fernand"
+    ],
+    "Assesseur": [
+      "Humbert-Coindet Jules"
+    ],
+    "Garde-forestier": [
+      "Badel Fr."
+    ]
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "ESSERTINES": {
+    "Laitier": [
+      "Neuenschwander Aloïs"
+    ],
+    "Maréchaux": [
+      "Rochat Victor",
+      "Rou-lier Wiliam"
+    ],
+    "Mécanicien-électric.": [
+      "Auberson P."
+    ],
+    "Menuisiers": [
+      "Auberson H.",
+      "Chevalley Arnold"
+    ],
+    "Pompes funèbres du Nord": [
+      "Gonin-Thonney"
+    ],
+    "Représentants": [
+      "Bornand Georges",
+      "Bucher Max"
+    ],
+    "Sage-femme": [
+      "Auberson Elisa"
+    ],
+    "Sellier": [
+      "Schneider André"
+    ],
+    "Serrurier": [
+      "Gonin Willy"
+    ],
+    "Sociétés": [
+      "Caisse de Crédit Mutuel",
+      "Sté de la Machine à battre",
+      "Société des eaux, Essertines",
+      "Sté immob. de l'Ochettaz",
+      "Sté de tir aux Armes de guerre",
+      "Syndical agricole et d'élevage"
+    ],
+    "Vélos-motos": [
+      "Auberson Paul"
+    ],
+    "Divers": [
+      "Cuany Jules",
+      "Ducret Amilda",
+      "Grin Octave",
+      "Villard Constant"
+    ]
+  },
+  "Epautheyres": {
+    "Inspecteur du bétail": [
+      "Auberson Eug."
+    ],
+    "Institutrice": [
+      "Bezençon Nelly"
+    ],
+    "Poste": [
+      "Auberson Ernestine"
+    ],
+    "Agriculteurs": [
+      "Auberson Aimé",
+      "Auberson Arnold",
+      "Auberson frères",
+      "Auberson Constant",
+      "Auberson Ed.",
+      "Miéville César",
+      "Planche Aloys",
+      "Tschantz Paul"
+    ],
+    "Apiculteur": [
+      "Auberson Marcel"
+    ],
+    "Café": [
+      "Café d'Epautheyres",
+      "Falquet Jenny"
+    ],
+    "Gypsier-peintre": [
+      "Laurent Gust."
+    ],
+    "Laitier": [
+      "Gerber Alfred"
+    ],
+    "Sociétés": [
+      "Sté du battoir",
+      "Sté de fromagerie"
+    ],
+    "Téléphone": [
+      "Station pub. à la poste",
+      "Stat. comm.",
+      "café Falquet"
+    ]
+  },
+  "La Robellaz": {
+    "Inspecteur du bétail": [
+      "Gonin Héli"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Gonin Alfred"
+    ],
+    "Agriculteurs": [
+      "Balmer Eugène",
+      "Chaillet Jules",
+      "Collet Paul",
+      "Conrad Jules",
+      "Gonin Alfred",
+      "Gonin Edouard",
+      "Gonin Héli",
+      "Wagnières Eugène"
+    ],
+    "Sociétés": [
+      "Sté du battoir",
+      "Sté de fromagerie"
+    ]
+  },
+  "Nonfoux": {
+    "Inspecteur du bétail": [
+      "Auberson Ad."
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Auberson Adolphe"
+    ],
+    "Agriculteurs": [
+      "Auberson Adolphe",
+      "Barraud Aug.",
+      "Chevalier Henri",
+      "Collet Gust.",
+      "Collet Henri",
+      "Collet Robert",
+      "Gonin Adolphe",
+      "Gonin Elie",
+      "Gonin Marc",
+      "Gonin Paul",
+      "Pittet Jean"
+    ],
+    "Couturière": [
+      "Collet Liliane"
+    ],
+    "Gypsier-peintre": [
+      "Gonin Jules"
+    ],
+    "Sociétés": [
+      "Sté du battoir",
+      "Sté de fromagerie de Nonfoux"
+    ]
+  },
+  "ETAGNIERES": {
+    "Syndic": [
+      "Craudaz Alfr."
+    ],
+    "Secrétaire": [
+      "Bocion Albert"
+    ],
+    "Boursier": [
+      "Bingelli Max"
+    ],
+    "Huissier": [
+      "Pittet Joseph"
+    ],
+    "Municipaux": [
+      "Bovay Ulysse",
+      "Dutoit Adrien",
+      "Emery Albert",
+      "Martin Maurice"
+    ],
+    "Chef de gare": [
+      "Soumy Juliette"
+    ],
+    "Commandant du feu": [
+      "Emery Const."
+    ],
+    "Commission scolaire": [
+      "Dutoit Adrien"
+    ],
+    "Curé": [
+      "Colliard Clément"
+    ],
+    "Garde-forestier": [
+      "Thélin"
+    ],
+    "Greffier": [
+      "Bocion Albert"
+    ],
+    "Inspecteur du bétail": [
+      "Bocion Ls."
+    ],
+    "Inspecteur des viandes": [
+      "Martin M."
+    ],
+    "Instituteurs": [
+      "Blanc Albert",
+      "Busset Odette"
+    ],
+    "Pasteur": [
+      "Curchod Rob."
+    ],
+    "Police (agent de)": [
+      "Groux Edmond"
+    ],
+    "Poste et télégraphe": [
+      "Bovey Berthe"
+    ],
+    "Téléphone": [
+      "Binggeli Max",
+      "station publ. à la poste"
+    ],
+    "Agriculteurs": [
+      "Baudet Jules",
+      "Bocion Aloïs",
+      "Borgeaud Constant",
+      "Cherpit Louis",
+      "Delacuisine Henri",
+      "Despont Alfred",
+      "Dutoit Adrien",
+      "Emery Albert",
+      "Emery Ulysse",
+      "Martin Alexis",
+      "Martin Germain et André",
+      "Martin Maurice",
+      "Martin Vital",
+      "Martin frères",
+      "Mettraux Etienne",
+      "Pelet Fernand",
+      "Pittet Auguste",
+      "Pittet Joseph de Sébastien",
+      "Pittet Alfred et Joseph",
+      "Porchet Henri"
+    ],
+    "Apiculteurs": [
+      "Bocion Aloïs",
+      "Borgeaud Constant",
+      "Groux Edmond"
+    ],
+    "Asile pour relèvement de buveurs": [
+      "Bingelli Max"
+    ],
+    "Boucher": [
+      "Martin Germain"
+    ],
+    "Boulanger": [
+      "Martin Max"
+    ],
+    "Café": [
+      "Genier Emile",
+      "l'Union"
+    ],
+    "Charpentier": [
+      "Groux Edmond"
+    ],
+    "Cordonnier": [
+      "Blanchard Louis"
+    ],
+    "Couturière": [
+      "Cherpit Marie"
+    ],
+    "Entrepreneurs": [
+      "Bariatti",
+      "Godin"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Binggeli Max",
+      "Despont Joseph"
+    ],
+    "Gypserie-peinture": [
+      "Novarina Alf."
+    ],
+    "Sociétés": [
+      "Section de la Croix-Bleue",
+      "Sté de laiterie d'Etagnières"
+    ]
+  },
+  "ETOY": {
+    "Syndic": [
+      "Magnollay Ernest"
+    ],
+    "Secrétaire": [
+      "Bonzon Albert"
+    ],
+    "Boursier": [
+      "Banque Cantonale Vaudoise"
+    ],
+    "Huissier": [
+      "Pelet Charles"
+    ],
+    "Municipaux": [
+      "Buchet Marcel",
+      "Buchet Maurice",
+      "Giriens Albert",
+      "Thury Francis"
+    ],
+    "Assesseur": [
+      "Magnollay Ernest"
+    ],
+    "Cantonnier": [
+      "Meylan Eugène"
+    ],
+    "Commandant du feu": [
+      "Corthay Alfr."
+    ],
+    "Commission scolaire": [
+      "Garin Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Corthay Alfr."
+    ],
+    "Inspecteur des viandes": [
+      "Corthay Ern."
+    ],
+    "Instituteurs": [
+      "Anken Louis",
+      "Dutoit Suzanne"
+    ],
+    "Pasteur": [
+      "Vittoz Georges"
+    ],
+    "Police (agent de)": [
+      "Pelet Charles"
+    ],
+    "Poste et télégraphe": [
+      "Buclin Gustave"
+    ],
+    "Téléphone": [
+      "Station comm.",
+      "Café de l'Ecusson vaudois",
+      "station publique à la poste"
+    ],
+    "Agriculteurs-viticulteurs": [
+      "Amaudruz frères",
+      "Bähni Gustave",
+      "Berger Jules",
+      "Bonzon Olivier",
+      "Buchet Marcel",
+      "Buchet Maurice",
+      "Buclin Marcel",
+      "Burli Joseph",
+      "Champion Emile",
+      "Charmasson Adalbert",
+      "Corthay Alexandre",
+      "Corthay Alfred",
+      "Corthay frères",
+      "Debossens Gustave",
+      "Durand William",
+      "Favre Maurice",
+      "Garin Henri",
+      "Giriens Albert",
+      "Giriens Henri",
+      "Giriens Marius",
+      "Grossen Salomon",
+      "Gruaz Paul",
+      "Jaquet, hoirie d'Henri",
+      "Joyet Louis",
+      "Knigge Julien",
+      "Lapalud Fr.",
+      "Lecoultre, hoirie",
+      "Magnollay Ernest",
+      "Magnollay Louis",
+      "Magnollay René",
+      "Pasche Emile",
+      "Perreten Emile",
+      "Rochat Charles",
+      "Simon Emile",
+      "Teuscher Oscar",
+      "Thury Francis",
+      "Thurv Gérard",
+      "Urfer Fritz",
+      "Vulliez Robert"
+    ],
+    "Apiculteurs": [
+      "Cadestin Aug.",
+      "Cossy Aug.",
+      "Thalmond Fritz"
+    ],
+    "Appareilleurs": [
+      "Dutoit Paul",
+      "Huguenin Francis"
+    ],
+    "Arboriculteur": [
+      "Teuscher Oscar"
+    ],
+    "Asiles de l'Espérance": [
+      "Vuilleumier Georges"
+    ],
+    "Assurances": [
+      "Bonzon Alb.",
+      "Giriens Hri",
+      "La Winterthour et cantonale-grêle"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Anken Ls",
+      "Société mutualiste de retraite",
+      "Buclin Gust."
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "NOVALLES": {
+    "Agriculteurs": [
+      "der Rodolphe",
+      "Marchand Georges",
+      "Mermod Georges",
+      "Perriraz Armand",
+      "Schori Rodolphe",
+      "Simon frères",
+      "Recordon frères",
+      "Stämpfli Jacob",
+      "Taillefert Reynold"
+    ],
+    "Apiculteur": [
+      "Mayor Arnold"
+    ],
+    "Assurance-vieillesse": [
+      "Pahud M.",
+      "Pahud Mme"
+    ],
+    "Café": [
+      "Blanc Gustave"
+    ],
+    "Commission scolaire": [
+      "Cousin Eug."
+    ],
+    "Dépositaire postal": [
+      "Viguet Lina"
+    ],
+    "Inspecteur du bétail": [
+      "Périllard Arm."
+    ],
+    "Institutrice": [
+      "Pahud Marie"
+    ]
+  },
+  "ONNENS": {
+    "Autorités communales": [
+      "Pahud Gustave",
+      "Dagon Pl.",
+      "Bezençon Robert",
+      "Filleux Marcel",
+      "Dagon Jules",
+      "Paris Victor",
+      "Seiler Gustave",
+      "Dagon Willy",
+      "Homberger Paul"
+    ],
+    "Agriculteurs": [
+      "Apothéloz Emile",
+      "Apothéloz Eugène",
+      "Bolle Louis",
+      "Dagon Auguste",
+      "Dagon frères",
+      "Dagon-Grobet Jules",
+      "Dagon Michel",
+      "Dagon Paul",
+      "Dagon Rod.",
+      "Filleux Emile",
+      "Filleux Marcel",
+      "Gaille Benjamin",
+      "Gaille Lucien",
+      "Jeanmonod Louis",
+      "Neuhaus Fritz",
+      "Paris Chs",
+      "Perdrisat Samuel",
+      "Robin Louis",
+      "Seiler Gustave",
+      "Wyss F."
+    ],
+    "Amodiateur": [
+      "Fillieux Edouard"
+    ],
+    "Apiculteurs": [
+      "Gaille Benjamin",
+      "Gaille Lucien",
+      "Lassueur Auguste",
+      "Granges Zacharie"
+    ],
+    "Assurance": [
+      "Haldimand Paul"
+    ],
+    "Auberges et cafés": [
+      "Bezençon Rob.",
+      "Favre Louis"
+    ],
+    "Assurance-vieillesse": [
+      "Mayor A."
+    ],
+    "Boulanger": [
+      "Cochard Albin"
+    ],
+    "Charpentier": [
+      "Schneeberger Léopold"
+    ],
+    "Charcutier": [
+      "Pahud-Montandon G."
+    ],
+    "Charron": [
+      "Reuille Paul"
+    ],
+    "Chef de gare": [
+      "Séchaud Jules"
+    ],
+    "Coiffeur": [
+      "Schwab Fritz"
+    ],
+    "Commission scolaire": [
+      "Dagon Michel",
+      "Décurey",
+      "Wäsen Ernest"
+    ],
+    "Cordonnier": [
+      "Rogivue Louis"
+    ],
+    "Couturière": [
+      "Dagon Juliette"
+    ],
+    "Epicerie, mercerie": [
+      "Besia-Dagon Jenny",
+      "Cochard Albin",
+      "Filleux Charles"
+    ],
+    "Inspecteur du bétail": [
+      "Dagon Jules"
+    ],
+    "Instituteurs": [
+      "Mayor Albert",
+      "Haldimann Germaine"
+    ],
+    "Lingère": [
+      "Bontems Clara"
+    ],
+    "Maçon": [
+      "Besia Angel"
+    ],
+    "Menuisier": [
+      "Schneeberger Léopold"
+    ],
+    "Pêcheur": [
+      "Filleux Henri-Louis"
+    ],
+    "Pierristes": [
+      "Dagon Eugène",
+      "Dagon Willy",
+      "Granges Zacharie"
+    ],
+    "Poste": [
+      "Apothéloz Georges"
+    ],
+    "Représentant (assurances)": [
+      "Haldimann Paul"
+    ],
+    "Sociétés": [
+      "R.",
+      "La Centenaire"
+    ],
+    "Vins (march. de)": [
+      "Dagon Rod.-F.",
+      "Filleux Charles",
+      "Seiler Gustave"
+    ],
+    "Voituriers": [
+      "Apothéloz Emile",
+      "Dagon Auguste"
+    ]
+  },
+  "PROVENCE": {
+    "Autorités communales": [
+      "Perrin Louis",
+      "Vuillermet Albert",
+      "Favre Gustave",
+      "Gaille Félicien",
+      "Jeanmonod-Gaille Adrien",
+      "Perrin Sylvain",
+      "Favre Louis",
+      "Gaille Armand",
+      "Guillaume Maurice",
+      "Favre Eugène",
+      "Delay Jean"
+    ],
+    "Agriculteurs": [
+      "Allisson Auguste",
+      "Favre Eugène",
+      "Favre Louis",
+      "Favre-Gattolliat Ami",
+      "Gaille Ami",
+      "Gaille Ernest",
+      "Gaille Félicien",
+      "Gaille Henri",
+      "Gattolliat André",
+      "Jeanmonod Adrien",
+      "Loup Louis",
+      "Maire Ali",
+      "Perrin Louis",
+      "Vuillermet Alfred"
+    ],
+    "Amodiateur": [
+      "Guillaume Charles"
+    ],
+    "Apiculteurs": [
+      "Bolens Aug.",
+      "Glardon Jules",
+      "Jeanmonod Eug."
+    ],
+    "Assurance-vieillesse": [
+      "Merminod W.",
+      "Perrin Eug."
+    ],
+    "Auberges et cafés": [
+      "Guillaume frères",
+      "Mariller André"
+    ]
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "MOIRY": {
+    "Syndic": [
+      "Bonzon Ulysse"
+    ],
+    "Secrétaire": [
+      "Chanson Charles"
+    ],
+    "Boursier": [
+      "Cugny Fernand"
+    ],
+    "Huissier": [
+      "Chanson Constant"
+    ],
+    "Municipaux": [
+      "Chanson Michel",
+      "Chanson Roland",
+      "David Georges",
+      "Monnier Emile"
+    ],
+    "Cantonnier": [
+      "Chanson René"
+    ],
+    "Commandant du feu": [
+      "Chanson Rob."
+    ],
+    "Commission scolaire": [
+      "Grandjean Robert",
+      "Chanson Charles",
+      "Chanson Michel"
+    ],
+    "Inspecteur du bétail": [
+      "Pittet Charles"
+    ],
+    "Inspecteur des viandes": [
+      "Pittet Ch."
+    ],
+    "Instituteur": [
+      "Capt Daniel"
+    ],
+    "Police (agent de)": [
+      "Delacrétaz Ed."
+    ],
+    "Poste et télégraphe": [
+      "Liardon Frida"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Café de l'Etoile"
+    ],
+    "Agriculteurs": [
+      "Berger Louis",
+      "Bonzon Marcel",
+      "Bonzon Ulysse",
+      "Chaillet Julien",
+      "Chanson Constant",
+      "Chanson Ch.-François",
+      "Chanson Ch. de Constant",
+      "Chanson Ls-Constant",
+      "au Moulin",
+      "Chanson Michel",
+      "Chanson Lucien",
+      "Chanson Robert",
+      "Chanson Roland",
+      "Chanson William",
+      "Clerc Hri",
+      "Cugny Fernand",
+      "Cugny Louis",
+      "Crisinel Louis",
+      "le Vallon",
+      "David Georges",
+      "Dizerens Louis",
+      "Grandjean Robert",
+      "Meylan Constant",
+      "Monnier Emile",
+      "Pittet Ch. T.",
+      "Prenleloup Ed."
+    ],
+    "Apiculteurs": [
+      "Berger Albert",
+      "Chanson Ls de Const.",
+      "Clerc Hri",
+      "Chaillet Julien",
+      "Monnier Emile",
+      "Prenleloup Roger"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Capt Daniel"
+    ],
+    "Bois (march. de)": [
+      "Chanson Louis-Const. R",
+      "Chanson Ch.-François"
+    ],
+    "Boulangerie": [
+      "Cornu Robert"
+    ],
+    "Café": [
+      "Bonzon Marcel",
+      "café de l'Etoile"
+    ],
+    "Charron": [
+      "Chappuis Armand"
+    ],
+    "Couturières": [
+      "Chanson Alice",
+      "Chanson Aline"
+    ],
+    "Epicerie, mercerie": [
+      "Chanson Jeanne R.",
+      "Chanson Marie"
+    ],
+    "Maréchal": [
+      "Denoréaz Jules"
+    ],
+    "Mécanicien-balancier": [
+      "Schenkel-Saugy Ed."
+    ],
+    "Menuisier-charpentier": [
+      "Zbinden Em."
+    ],
+    "Meunier": [
+      "Crisinel Louis"
+    ],
+    "Pêcheurs": [
+      "Baumann Henri",
+      "Zbinden Emile"
+    ],
+    "Pompes funèbres du Nord": [
+      "Monnier A."
+    ],
+    "Rentier": [
+      "Jousson Armand"
+    ],
+    "Sociétés": [
+      "Sté de fromagerie",
+      "R.",
+      "Syndicat agricole"
+    ]
+  },
+  "MOLLENS": {
+    "Syndic": [
+      "Baudin Emile"
+    ],
+    "Secrétaire": [
+      "Schneider Louis"
+    ],
+    "Boursier": [
+      "Cuvit Aloïs"
+    ],
+    "Huissier": [
+      "Baudin-Morel Octave"
+    ],
+    "Municipaux": [
+      "Baudin Alexis",
+      "Baudin Hermann",
+      "Baudin Olivier",
+      "Cuvit Paul"
+    ],
+    "Assesseur": [
+      "Baudin Philippe"
+    ],
+    "Cantonnier": [
+      "Cuvit Henri"
+    ],
+    "Commandant du feu": [
+      "Baudin Alexis-Louis"
+    ],
+    "Commission scolaire": [
+      "Baudin Arnold"
+    ],
+    "Garde-forestier": [
+      "Gonthier Aloïs"
+    ],
+    "Inspecteur du bétail": [
+      "Baudin Alexis"
+    ],
+    "Inspecteur des viandes": [
+      "Baudin Hri de Louis"
+    ],
+    "Instituteurs": [
+      "Pellaux Emile",
+      "Maire Gabrielle"
+    ],
+    "Officier d'état civil": [
+      "Coendoz Paul"
+    ],
+    "Police (agent de)": [
+      "Baudin Francis"
+    ],
+    "Poste et télégraphe": [
+      "Coendoz Eugène"
+    ],
+    "Téléphone": [
+      "Station communale à l'Auberge communale",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs": [
+      "Baudin frères",
+      "Baudin Ernest",
+      "Baudin Octave-Eug.",
+      "Baudin-Gaudard Ls",
+      "Baudin-Gruaz Ls",
+      "Coendoz Hri",
+      "Coendoz Paul",
+      "Cuvit Ch.-David",
+      "Cuvit Edouard",
+      "Lecoultre Louis",
+      "Santschy Alex."
+    ],
+    "Apiculteurs": [
+      "Baudin-Coendoz Alexis",
+      "Baudin-Logoz Louis"
+    ],
+    "Assurance - vieillesse": [
+      "Associations mutualistes de retraite",
+      "Pellaux Em."
+    ],
+    "Bétail (march. de)": [
+      "Baudin Marcel"
+    ],
+    "Boulangerie": [
+      "Lambelet Henri"
+    ],
+    "Cafés": [
+      "Café du Tilleul",
+      "Cuvit Alexis",
+      "café du Laboureur",
+      "R.",
+      "Allemand Paul",
+      "Hôtel communal"
+    ],
+    "Charrons": [
+      "Baudin Eugène",
+      "Cuvit Marcel"
+    ],
+    "Couturières": [
+      "Baudin Marie",
+      "Coendoz Marcelle"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Desplands Léonie",
+      "Lambelet Hri",
+      "Lecoultre Louise"
+    ],
+    "Laitier": [
+      "Besson Lucien"
+    ],
+    "Maréchaux": [
+      "Desarzens Emile",
+      "Reichenbach Emmanuel"
+    ],
+    "Menuisier": [
+      "Santschy Ernest"
+    ],
+    "Pension": [
+      "Coendoz P."
+    ],
+    "Pompes funèbres du Nord": [
+      "Cuvit Marcel"
+    ],
+    "Porcs (md de)": [
+      "Besson Lucien"
+    ],
+    "Sage-femme": [
+      "Cuvit Emma"
+    ]
+  },
+  "MOLONDIN": {
+    "Députés du cercle": [
+      "Dutoit Ernest",
+      "Pittet Lucien",
+      "Potterat Albert"
+    ],
+    "Syndic": [
+      "Pitton Ernest"
+    ],
+    "Secrétaire": [
+      "Falconnier Gérald"
+    ],
+    "Boursier": [
+      "Besson René"
+    ],
+    "Huissier": [
+      "Héritier Léon",
+      "Bezençon Justin"
+    ],
+    "Municipaux": [
+      "Monnier John",
+      "Perret Jean",
+      "Peytregnet Charles",
+      "Vallon Paul"
+    ],
+    "Cantonnier": [
+      "Pache Henri"
+    ],
+    "Commandant du feu": [
+      "Peytregnet Jn."
+    ],
+    "Commission scolaire": [
+      "Pitton Louis"
+    ],
+    "Contrôleur du lait": [
+      "Jaquiéry Marcel"
+    ],
+    "Garde de triage": [
+      "Pitton Ernest"
+    ],
+    "Inspecteur du bétail": [
+      "Correvon François"
+    ],
+    "Inspecteur des viandes": [
+      "Vallon Wm."
+    ],
+    "Instituteurs": [
+      "Clavel Albert",
+      "Clavel Antoinette"
+    ],
+    "Justice de paix - Juge": [
+      "Dutoit Marcel"
+    ],
+    "Greffier": [
+      "Jaquiéry Marcel"
+    ],
+    "Assesseurs": [
+      "Correvon Oscar",
+      "Gottraux Herbert",
+      "Pahud Rob.",
+      "Bioley-Magnoux"
+    ],
+    "Officier d'état civil": [
+      "Billaud Francis",
+      "Courvoisier Emile"
+    ],
+    "Police (agent de)": [
+      "Héritier Léon"
+    ],
+    "Poste et télégraphe": [
+      "Pitton Ernest"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Peytregnet Jean",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs": [
+      "Badertscher Jean",
+      "Besson William",
+      "Bujard Maurice",
+      "Cavin frères",
+      "Correvon frères",
+      "Cosenday Ami",
+      "Cruchon Jules",
+      "Héritier William",
+      "Monnier frères",
+      "Mottaz, hoirie",
+      "Perret Jean",
+      "Peytregnet Charles",
+      "Peytregnet Maurice",
+      "Pitton Louis",
+      "Vallon frères",
+      "Vallon Louis"
+    ],
+    "Apiculteurs": [
+      "Cruchon Albert",
+      "Peytregnet Julien"
+    ],
+    "Auto-taxi": [
+      "Pitton Ernest"
+    ],
+    "Banque": [
+      "Caisse de Crédit mutuel Raiffaisen",
+      "Golay A."
+    ],
+    "Battoir": [
+      "Varidel J."
+    ],
+    "Bois (comm. de)": [
+      "Varidel J."
+    ],
+    "Boulanger": [
+      "Curchod E."
+    ],
+    "Cafés": [
+      "Peytregnet Jean"
+    ],
+    "Charron": [
+      "Niquille François"
+    ],
+    "Cordonnier": [
+      "Falconnier Gérald"
+    ],
+    "Entrepreneurs": [
+      "Perdisat frères",
+      "Saugy J."
+    ],
+    "Epiceries, merceries": [
+      "Héritier Eva",
+      "Jeanmonod Jules"
+    ],
+    "Maréchal": [
+      "Héritier Conrad"
+    ],
+    "Menuisier": [
+      "Vallon Ulysse"
+    ]
+  }
+}

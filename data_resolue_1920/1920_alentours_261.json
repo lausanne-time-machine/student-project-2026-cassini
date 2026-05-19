@@ -1,0 +1,87 @@
+{
+  "MONTREUX": {
+    "Vins (gros)": [
+      "Mayor-Rambert Eugène",
+      "Moret Louis"
+    ],
+    "Vitriers": [
+      "Bussoz Jean",
+      "Ducommun P.",
+      "Hirt G.",
+      "Moraz Jules",
+      "Mottier-Guignet",
+      "Turuvanni François",
+      "Waespi Albert"
+    ],
+    "Voituriers": [
+      "Baumann Aug.",
+      "Baumann Emile",
+      "Baumann William",
+      "Cœndet Henri",
+      "Francey Edouard",
+      "Gindroz Jules",
+      "Ramseyer G.",
+      "Soltizio Laurent",
+      "Thévenaz Ch.",
+      "Wirz Alfred"
+    ],
+    "Volailles (commerce de)": [
+      "Blanc-Morel Albert"
+    ]
+  },
+  "DISTRICT D'YVERDON": {
+    "Préfet": [
+      "Bron Auguste",
+      "Ehinger Alfred"
+    ],
+    "Receveur": [
+      "Dessemontet Charles"
+    ],
+    "Voyer du VIIIe arrondissement": [
+      "Courvoisier Ulysse"
+    ],
+    "Conservateur du registre foncier": [
+      "Borgognon Jules"
+    ],
+    "Tribunal de district": [
+      "Fischer Ernest",
+      "Tschumy Albert",
+      "Girardet Emile",
+      "Chautems Jules",
+      "Paillard Charles",
+      "Mermod François"
+    ],
+    "Poursuites et faillites": [
+      "Meylan Edouard"
+    ]
+  },
+  "VILLE D'YVERDON": {
+    "Autorités communales": [
+      "Kramer Hri",
+      "Pilloud Robert",
+      "Bujard Charles",
+      "Vodoz Ch.",
+      "Eternod Henri",
+      "Servien P.-L.",
+      "Péclard Robert"
+    ],
+    "Secrétaire municipal": [
+      "Manigley Hri"
+    ],
+    "Adjoint": [
+      "Stocker Walter"
+    ],
+    "Boursier communal": [
+      "Henry Paul"
+    ],
+    "Huissier": [
+      "Nerny Ch.-Alf."
+    ],
+    "comm. du feu": [
+      "Meyer A."
+    ],
+    "Abattoirs": [
+      "Cornu Alfred"
+    ]
+  }
+}

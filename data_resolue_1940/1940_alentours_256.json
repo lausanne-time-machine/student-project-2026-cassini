@@ -1,0 +1,427 @@
+{
+  "SAINT-OYENS": {
+    "Cantonnier": [
+      "Liardon Jules"
+    ],
+    "Commandant du feu": [
+      "Grosjean André"
+    ],
+    "Commission scolaire": [
+      "Grosjean Jules"
+    ],
+    "Contrôleur laitier": [
+      "Grosjean Isaac",
+      "Stalder Henri"
+    ],
+    "Garde forestier": [
+      "Renevier Juste"
+    ],
+    "Inspecteur du bétail": [
+      "Stalder Louis"
+    ],
+    "Institutrice": [
+      "Grosjean-Reymond"
+    ],
+    "Pasteur": [
+      "Hoguer François"
+    ],
+    "Police (agent de)": [
+      "Liardon René"
+    ],
+    "Poste et télégraphe": [
+      "Pernet Roger"
+    ],
+    "Agriculteurs": [
+      "Aebi Hans",
+      "Baudraz Louis",
+      "Crottaz Albert",
+      "Dumarcheray, hoirie",
+      "Grosjean-Grosjean André",
+      "Grosjean-Reymond Emile",
+      "Grosjean-Pernet Edmond",
+      "Grosjean Ferdinand",
+      "Grosjean-Grosjean John",
+      "Grosjean-Dubois Jules",
+      "Grosjean Léonold",
+      "Haldi-Renaud Aloys",
+      "Haldi-Grosjean Alexis",
+      "Martin Albert",
+      "Rochat-Grosjean Louis",
+      "Rochat-Grosjean Alfred",
+      "Stalder Louis"
+    ],
+    "Apiculteurs": [
+      "Grosjean Jules",
+      "Liardon René"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Christinet Louise"
+    ],
+    "Battage": [
+      "Grosjean Léopold"
+    ],
+    "Bois (md. de)": [
+      "Dumarcheray, hoirie",
+      "Grosjean Emile",
+      "Haldi Alexis",
+      "Krumm Charles",
+      "Rochat Alfred"
+    ],
+    "Café": [
+      "Grosjean John"
+    ],
+    "Epicerie": [
+      "Liardon Julie"
+    ],
+    "Laitier": [
+      "Nydegger Emile"
+    ],
+    "Porcs (comm. de)": [
+      "Nydegger Em."
+    ],
+    "Sables et graviers (comm. de)": [
+      "Grosjean André"
+    ],
+    "Société": [
+      "Sté de laiterie"
+    ],
+    "Tricotage à la machine": [
+      "Visinand Berthe"
+    ]
+  },
+  "SAINT-PREX": {
+    "Syndic": [
+      "Bugnon Edmond"
+    ],
+    "Secrétaire": [
+      "Dessaux André"
+    ],
+    "Boursier": [
+      "Bugnon Robert"
+    ],
+    "Huissier": [
+      "Schopfer Armand"
+    ],
+    "Député": [
+      "Cornaz Max"
+    ],
+    "Municipaux": [
+      "de Freudenreich Jacques",
+      "Henry Albert",
+      "Merminod Emile",
+      "Pfeuti Robert"
+    ],
+    "Cantonnier": [
+      "Lavanchy Edouard"
+    ],
+    "Chef de gare": [
+      "Rochat Auguste"
+    ],
+    "Chef de section à la gendarmerie": [
+      "Maendly Oscar"
+    ],
+    "Commandant du feu": [
+      "Dessaux Ern."
+    ],
+    "Commission scolaire": [
+      "Dr Cuénet"
+    ],
+    "Curé": [
+      "Catto Albert"
+    ],
+    "Défense contre l'incendie": [
+      "Dessaux Ernest"
+    ],
+    "Gare C. F. F. (chef de)": [
+      "Rochat Auguste"
+    ],
+    "Gendarmerie (poste de)": [
+      "Duvoisin Jules"
+    ],
+    "Inspecteur du bétail": [
+      "Merminod E."
+    ],
+    "Inspecteur des viandes": [
+      "Dessaux André"
+    ],
+    "Instituteurs": [
+      "Blanc Marie",
+      "Borloz Ami",
+      "Cornaz George",
+      "Foretay Rose",
+      "Genoux Olga",
+      "Girardet Marie",
+      "Rochat Henri",
+      "Sommer Rose"
+    ],
+    "Juge de paix": [
+      "Rebuz Henri"
+    ],
+    "Officier d'état civil": [
+      "Corthay A.",
+      "Dessaux André"
+    ],
+    "Police (agents de)": [
+      "Schopfer-Bugnon Armand",
+      "André Octave"
+    ],
+    "Poste et télégraphe": [
+      "Henry Albert"
+    ],
+    "Téléphone": [
+      "Station publ. à la poste",
+      "Roulet Henri"
+    ],
+    "Agriculteurs": [
+      "Annen Rob.",
+      "Barraud Ls",
+      "Baudet Alb.",
+      "Blanchard Emile",
+      "Bugnon Edmond",
+      "Bugnon Jules",
+      "Bugnon Maurice",
+      "Contet François et Léon",
+      "Cornaz Henri",
+      "Graf Edouard",
+      "Liardon Louis",
+      "Merminod Emile",
+      "Morand Henri",
+      "Rebmann Frédéric"
+    ],
+    "Architecte": [
+      "de Freudenreich Jacques"
+    ],
+    "Assurance": [
+      "Jaccard Ernest"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Borloz Ami"
+    ],
+    "Autos-garages": [
+      "Aubert Louis",
+      "Bucher Charles"
+    ],
+    "Biscuits (fabr. de)": [
+      "« Fabis »",
+      "Josselon G."
+    ],
+    "Blanchisseuse": [
+      "Visinand Franceline"
+    ],
+    "Bois": [
+      "Gilland Louis et fils"
+    ],
+    "Boucherie chevaline": [
+      "Signorelli P."
+    ],
+    "Bouchers-charcutiers": [
+      "Dumond Ed.",
+      "Roulet Henri"
+    ],
+    "Boulangers": [
+      "Dutoit William",
+      "Roulet Charles"
+    ],
+    "Cafés": [
+      "Besson Emile",
+      "Krieg René",
+      "Morand Henri",
+      "Oberson Marius"
+    ],
+    "Charpentiers": [
+      "Dessaux Ernest",
+      "Dupenloup François"
+    ],
+    "Charron": [
+      "Wegmüller Franz"
+    ],
+    "Chaussures": [
+      "Lardet Violette"
+    ],
+    "Chevaux (march. de)": [
+      "Rouiller L."
+    ],
+    "Coiffeurs": [
+      "Burlet Pius",
+      "Froidevaux Emile",
+      "Pittet Auguste"
+    ],
+    "Combustibles": [
+      "Henry John",
+      "Scaglia Joseph"
+    ],
+    "Confections": [
+      "Blaser Ernest"
+    ],
+    "Cordonniers": [
+      "Humbert-Droz Louis",
+      "Liardet Henri",
+      "Morgenegg Edouard"
+    ],
+    "Couturières": [
+      "Charrière Germaine",
+      "Froidevaux Marthe",
+      "Lamiral Marg."
+    ],
+    "Crèmerie": [
+      "Roulet Charles"
+    ],
+    "Droguerie": [
+      "Reymondin Charles"
+    ],
+    "Entrepreneurs": [
+      "Chiavazza Jean",
+      "Croso Amédée",
+      "Fritsch Ls",
+      "Marzoli Jacques",
+      "Scaglia Joseph"
+    ],
+    "Epiceries-merceries": [
+      "Blaser Ernest",
+      "Demont Fernand",
+      "Rochat Louis",
+      "Soc. coop. de consommation"
+    ],
+    "Ferblantiers-appareilleurs": [
+      "Bucher Charles",
+      "Kühnel Edouard",
+      "Maendly Oscar"
+    ],
+    "Garde-malade": [
+      "Panchaud Charlotte"
+    ],
+    "Gravière": [
+      "Les Graviers bleus, S. A."
+    ],
+    "Gypiers-peintres": [
+      "Crelier Francis",
+      "Pasche Robert",
+      "Pittet Georges",
+      "Sulmoni Jean"
+    ],
+    "Horloger": [
+      "Cuendet Elie"
+    ],
+    "Hôtel": [
+      "Hôtel du Mont-Blanc",
+      "Krieg René"
+    ],
+    "Institut de jeunes gens": [
+      "Monnivert"
+    ],
+    "Jardiniers": [
+      "Dupuis John",
+      "Perrin Gust.",
+      "Tercier Joseph et Henri"
+    ],
+    "Journaux": [
+      "Fontaine Hortense"
+    ],
+    "Laitier": [
+      "Société de laiterie",
+      "Bocion Roger"
+    ],
+    "Machines à coudre": [
+      "Cuendet Elie"
+    ],
+    "Marbrier": [
+      "Schmidt Michel"
+    ],
+    "Maréchaux": [
+      "Mattenberger Charles",
+      "Naegele Fritz"
+    ],
+    "Matériaux de construction": [
+      "Chiavazza Jean",
+      "Freymond Emile"
+    ],
+    "Mécaniciens": [
+      "Aubert Louis",
+      "Bucher Ch.",
+      "Pasche Aimé",
+      "Pfeuti Robert"
+    ],
+    "Médecins": [
+      "Cuenet Fernand",
+      "Sallin N."
+    ],
+    "Menuisiers": [
+      "Dessaux Ernest",
+      "Dupenloup François"
+    ],
+    "Modes": [
+      "Lardet Violette"
+    ],
+    "Papier (industrie du)": [
+      "Eberhard Vve de Georges"
+    ],
+    "Pêcheurs": [
+      "Bugnon Francis",
+      "Chapuisat Henri",
+      "Gilliéron Marius",
+      "Grivel Léon",
+      "Vannod Louis"
+    ],
+    "Photo": [
+      "Cuendet Elie"
+    ],
+    "Primeurs": [
+      "Blaser Ernest",
+      "Rochat Louis"
+    ],
+    "Quincailleries": [
+      "Blaser Ernest",
+      "Rochat Louis"
+    ],
+    "Radio": [
+      "Cuendet Elie"
+    ],
+    "Représentants": [
+      "Bernard René",
+      "Krieg Emile"
+    ],
+    "Sables et graviers": [
+      "Les Graviers bleus S.A."
+    ],
+    "Sages-femmes": [
+      "Cornaz-de Siebenthal, Mme.",
+      "Lohrer Marguer.",
+      "Panchaud Charlotte"
+    ],
+    "Scierie": [
+      "Gilliand Louis et fils"
+    ],
+    "Sellier-tapissier": [
+      "Pfeuti Ernest"
+    ],
+    "Serruriers": [
+      "Mattenberger Charles",
+      "Naegele Fritz"
+    ],
+    "Sociétés": [
+      "Abbaye de l'Union",
+      "Caisse maladie des Verreries",
+      "Chœur d'hommes",
+      "Football-Club",
+      "Le Foyer",
+      "Section de la Croix-Bleue",
+      "Section fédérale de gymnastique",
+      "Section de sauvetage sur le lac",
+      "S. A. Foncière et Commerciale SAFEC",
+      "La Moraine",
+      "Sté du battoir à grains",
+      "Sté dramatique",
+      "Sté des eaux d'irrigation",
+      "Sté de fromagerie",
+      "Sté immobilière de la Combe",
+      "Sté de jeunesse Les Amis Réunis",
+      "Sté de musique Fanfare de la Verrerie L'Espérance",
+      "Sté de tir aux armes de guerre"
+    ],
+    "Teintureries (dépôts)": [
+      "Rochat Louis",
+      "Sciboz Joseph"
+    ]
+  }
+}

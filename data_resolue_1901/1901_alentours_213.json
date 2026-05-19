@@ -1,0 +1,55 @@
+{
+  "DISTRICT DE VEVEY": {
+    "Préfet": [
+      "Bolomey, Eugène"
+    ],
+    "Substitut": [
+      "Ansermet, Gabriel"
+    ],
+    "Receveur": [
+      "Pernoux, Francis"
+    ],
+    "Voyer": [
+      "Rod, Ernest"
+    ],
+    "Tribunal de district": [
+      "Forestier, Victor",
+      "Bercher, Jacques",
+      "Vulliémoz, Louis",
+      "Mottaz, Édouard",
+      "Francey, Charles",
+      "Bertholet, Philippe"
+    ]
+  },
+  "VILLE DE VEVEY": {
+    "Syndic": [
+      "Jomini, Jules"
+    ],
+    "Premier Vice-Président": [
+      "Aubert, Jules"
+    ],
+    "Second Vice-Président": [
+      "Von der Aa, Aug."
+    ],
+    "Section des travaux": [
+      "Aubert, Jules",
+      "Nicollier-Orguelt, Ed."
+    ],
+    "Section de police": [
+      "Von der Aa, Auguste"
+    ],
+    "Section des finances": [
+      "Michel, Gustave",
+      "Von der Aa, Auguste",
+      "Chevalley, Louis"
+    ],
+    "Huissier": [
+      "Thuillard, François"
+    ],
+    "Conseil communal": [
+      "Von Auw, Albert",
+      "Blanc, Henri",
+      "Dénéréaz, Henri"
+    ]
+  }
+}

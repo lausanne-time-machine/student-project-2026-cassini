@@ -1,0 +1,254 @@
+{
+  "GRANCY": {
+    "Municipaux": [
+      "Devantey Armand",
+      "Hoffer Fernand",
+      "Clerc Eugène",
+      "Monnet Louis",
+      "Devantay Marius",
+      "Devantay Marc"
+    ],
+    "Agriculteurs": [
+      "Addor",
+      "Chauvy Charles",
+      "Clerc Emile",
+      "Clerc Henri",
+      "Clerc Julien",
+      "Devantay Marius",
+      "Devantay Paul",
+      "Devantay Rodolphe",
+      "Devantay Ulysse",
+      "Hoffer frères",
+      "Lavenex Alfred",
+      "Moinat",
+      "Monnet Emile",
+      "Nicollier",
+      "Peter Jean",
+      "Tissot frères"
+    ],
+    "Amodiateurs": [
+      "Chauvy Charles",
+      "Devanthey Rod"
+    ],
+    "Boulanger": [
+      "Guetty"
+    ],
+    "Cafetiers": [
+      "Jaton Henri",
+      "Schenkel Jean"
+    ],
+    "Charpentier": [
+      "Gachet Emile"
+    ],
+    "Charron": [
+      "Panchaud John"
+    ],
+    "Chef de section": [
+      "Demont Marius"
+    ],
+    "Commission scolaire": [
+      "Devantay Frs",
+      "Devantay Armand"
+    ],
+    "Couturières": [
+      "Devantay Alice",
+      "Devantay Eveline",
+      "Chamot Rosa"
+    ],
+    "Distillateur": [
+      "Moret Charles"
+    ],
+    "Epicerie, mercerie": [
+      "Demont Lina",
+      "Guigger"
+    ],
+    "Inspecteur du bétail": [
+      "Devantay Camille"
+    ],
+    "Instituteurs": [
+      "Moudon Edouard",
+      "Payot Germaine"
+    ],
+    "Maçon": [
+      "Lodari Charles"
+    ],
+    "Maréchal": [
+      "Mæder Jean"
+    ],
+    "Meunier": [
+      "Boven Charles"
+    ],
+    "Officier d'état-civil": [
+      "Demont Marius"
+    ],
+    "Poste": [
+      "Girardet Emile"
+    ],
+    "Sociétés": [
+      "De fromagerie. R.",
+      "De tir",
+      "Du poids public. R.",
+      "De Jeunesse",
+      "Syndicat d'élevage. R.",
+      "Du battoir à grains",
+      "Syndica tde drainage",
+      "Société d'alpage. R."
+    ],
+    "Téléphone": [
+      "Guigger"
+    ]
+  },
+  "LA CHAUX": {
+    "Autorités communales": [
+      "Rosset Daniel",
+      "Voland Charles"
+    ],
+    "Syndic": [
+      "Berger Gustave"
+    ],
+    "Municipaux": [
+      "Piguet Eugène",
+      "Rosset Louis",
+      "Thormeyer Henri",
+      "Bredaz Robert",
+      "Golay Oscar",
+      "Mingard Jules"
+    ],
+    "Agriculteurs": [
+      "Bredaz Ls",
+      "Guex Edm.",
+      "Guex Henri",
+      "Guex Jules",
+      "Guex Maurice",
+      "Guex Victor",
+      "Rosset Daniel",
+      "Rossy Charles",
+      "Thormeyer Henri",
+      "Voland"
+    ],
+    "Amodiateurs": [
+      "Guex Adolphe. T.",
+      "Guex Marc"
+    ],
+    "Aubergistes": [
+      "Golaz Jean",
+      "Rosset Firmin"
+    ],
+    "Boulanger": [
+      "Pidoux Emile"
+    ],
+    "Charron": [
+      "Jaccaud Eugène"
+    ],
+    "Commission scolaire": [
+      "Bourquin Marcel",
+      "Bredaz Robert"
+    ],
+    "Cordonnier": [
+      "Voland Louis"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Mingard Jules. R.",
+      "Rosset Louis. R."
+    ],
+    "Ferblantier": [
+      "Burnens Charles"
+    ],
+    "Inspecteur du bétail": [
+      "Guex Jules"
+    ],
+    "Instituteurs": [
+      "Vuillemin Edouard",
+      "Thormeyer Louise"
+    ],
+    "Maréchaux": [
+      "David Edouard",
+      "Magnin Armand"
+    ],
+    "Poste": [
+      "Rossy Jean"
+    ],
+    "Poterie, quincaillerie": [
+      "Mingard Jles"
+    ],
+    "Rentier": [
+      "Guex François"
+    ],
+    "Sabotiers": [
+      "Chamot Edmond",
+      "Vuichet Louis"
+    ],
+    "Sage-femme": [
+      "Binggeli Anaïs"
+    ],
+    "Sociétés": [
+      "De fromagerie. R.",
+      "Syndicat agricole de la Chaux. R.",
+      "Société agricole et industrielle"
+    ],
+    "Tailleuses": [
+      "Christinet",
+      "Dupuis Lina"
+    ],
+    "Téléphone public": [
+      "Hôtel communal"
+    ],
+    "Toilerie": [
+      "Mingard Jules. R."
+    ]
+  },
+  "LA SARRAZ": {
+    "Autorités communales": [
+      "Curchod Hri",
+      "Faessler Béda"
+    ],
+    "Syndic": [
+      "Develey Auguste"
+    ],
+    "Municipaux": [
+      "Cuhat Henri",
+      "Knebel Jean",
+      "Vannod Henri",
+      "Michaud François",
+      "Berruex Louis",
+      "Picot Hri",
+      "Trachsel Henri"
+    ],
+    "Agence agricole": [
+      "Cuhat Henri. R."
+    ],
+    "Agriculteurs": [
+      "Besson Lucien",
+      "Bory Jacques",
+      "Broccard Gustave",
+      "Cugny Arthur",
+      "Cuhat Henri",
+      "Cuhat Lucien",
+      "Cuvit Octave",
+      "Develey Auguste",
+      "Develey Louis",
+      "Guillemin François",
+      "Hofer Gustave",
+      "Hofer Roland",
+      "Michaud Charles",
+      "Michaud Frédéric",
+      "Michaud Louis",
+      "Picot Henri",
+      "Rochat Jules",
+      "Rochat Samuel",
+      "Rollier Henri",
+      "Schopfer Henri",
+      "Stebler Henri",
+      "Tissot Henri",
+      "Vannaz Henri",
+      "Vannaz Louis",
+      "Vannaz Robert",
+      "Vannod Henri",
+      "Zoël"
+    ],
+    "Amodiateurs": [
+      "Guillemin François",
+      "Schopfer Henri"
+    ]
+  }
+}

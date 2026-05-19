@@ -1,0 +1,440 @@
+{
+  "FOUNEX": {
+    "CONTINUATION_FROM_PREVIOUS_PAGE": [
+      "Deblue Alfred",
+      "Deblue André",
+      "Deblue Ch. T.",
+      "Deblue Paul",
+      "Deblue Ernest",
+      "Deblue Marc. T.",
+      "Dejoux Charles",
+      "Dutruit Gustave",
+      "Favre Jules",
+      "Guichoud Georges.",
+      "Hédiguer Ed.",
+      "Henchoz Ch.",
+      "Kilchherr Jean",
+      "Mandry Paul",
+      "Nerfin Constant",
+      "Nerfin Marc",
+      "Polencent Henri",
+      "Quiblier Fernand",
+      "Rochat François",
+      "Rossier Victor",
+      "Rossier Henri",
+      "Singy Fernand",
+      "Vulliez Paul."
+    ],
+    "Apiculteurs.": [
+      "Favre Jules",
+      "Giron François",
+      "Ruckstuhl Charles."
+    ],
+    "Assurance - vieillesse.": [
+      "Associations mutualistes de retraite",
+      "Ferrari Lucien"
+    ],
+    "Assurances.": [
+      "Guignard Julien"
+    ],
+    "Auto-garage.": [
+      "Bidon"
+    ],
+    "Aviculteurs.": [
+      "Vullioud Ern.",
+      "Warnery Blanche."
+    ],
+    "Bétail (march. de).": [
+      "Deblue Marc",
+      "Mandry Paul."
+    ],
+    "Brodeuse.": [
+      "Guichoud Julia."
+    ],
+    "Cafés.": [
+      "Joss Paul",
+      "Les Balances",
+      "Keck Lina",
+      "Au Martin-Pêcheur."
+    ],
+    "Chantier naval.": [
+      "Canel M."
+    ],
+    "Charcutier.": [
+      "Calendret Charles."
+    ],
+    "Cordonnier.": [
+      "Weidel James."
+    ],
+    "Crémerie-tea-room.": [
+      "Keck Lina",
+      "Au Martin-Pêcheur."
+    ],
+    "Epicerie, mercerie.": [
+      "Guignard Julien."
+    ],
+    "Garde-malades (sœurs).": [
+      "Villa Mireille."
+    ],
+    "Institut p. jeunes gens.": [
+      "Ecole Nouvelle",
+      "La Chatagneraie",
+      "Schwartz Ed."
+    ],
+    "Institut p. jeunes filles.": [
+      "La Roseraie",
+      "Rittmeyer"
+    ],
+    "Jardiniers.": [
+      "Annen Marcel",
+      "Bezuchet Léon",
+      "Favre Eugène",
+      "Fleuty Albert",
+      "Giron Alfred",
+      "Jonzier Marcel",
+      "Pillioud Emile",
+      "Rosset Francis."
+    ],
+    "Laiterie.": [
+      "Schneebeli Alb."
+    ],
+    "Maçons.": [
+      "Nicolas Ch.",
+      "Pelet Armand",
+      "Thiodoloz Alexis."
+    ],
+    "Maréchal.": [
+      "Vullioud Ernest."
+    ],
+    "Médecin (chirurg.).": [
+      "Moppert Gust."
+    ],
+    "Pêcheur.": [
+      "Canel Jules."
+    ],
+    "Pensions.": [
+      "Carrard Marcel.",
+      "Fiandra Edouard."
+    ],
+    "Pépiniéristes.": [
+      "Dutruy Gust.",
+      "Guichoud Edm.",
+      "Guichoud G. T."
+    ],
+    "Primeurs.": [
+      "Deblue P."
+    ],
+    "Radio.": [
+      "Carrard Marcel."
+    ],
+    "Sociétés.": [
+      "Sté de Saint-Robert.",
+      "Sté de laiterie de la Châtaigneriaz.",
+      "Sté « Les Flots »",
+      "Sté « Les Vagues »",
+      "Sté La Fraternelle",
+      "Sté de batteuse Founex-Coppet-Céligny."
+    ],
+    "Vignerons.": [
+      "Ebinger Js",
+      "Epitaux Em.",
+      "Lachat François."
+    ],
+    "Particuliers.": [
+      "Bastard Robert.",
+      "Baud Louis",
+      "Les Roses",
+      "Blanchet A.",
+      "Mon Bijou",
+      "Darier E.",
+      "Les Charmettes",
+      "Deblue Alfred.",
+      "Depierre Henriette",
+      "De Pulido Marie.",
+      "Duvillard Gustave",
+      "Keller L.",
+      "Notz Marguerite",
+      "La Ruche",
+      "Ræder Jules",
+      "Vulliez Paul",
+      "Warnery B.",
+      "La Bécassinière",
+      "Wolf Louis"
+    ]
+  },
+  "FROIDEVILLE": {
+    "Député": [
+      "Reymond Constant."
+    ],
+    "Syndic": [
+      "Martin Ernest."
+    ],
+    "Secrétaire": [
+      "Michon Lucien."
+    ],
+    "Boursier": [
+      "Mathey Henri."
+    ],
+    "Huissier": [
+      "Delisle Ami."
+    ],
+    "Municipaux": [
+      "Clerc Lucien",
+      "Meylan Eugène",
+      "Meylan Jean",
+      "Martin Louis."
+    ],
+    "Cantonnier.": [
+      "Liniger Aimé."
+    ],
+    "Commandant du feu.": [
+      "Clerc Lucien."
+    ],
+    "Commission scolaire.": [
+      "Martin Louis",
+      "Martin Jean"
+    ],
+    "Garde-forestier.": [
+      "Clerc Fernand."
+    ],
+    "Inspecteur du bétail.": [
+      "Martin Const."
+    ],
+    "Inspecteur des viandes.": [
+      "Martin Ct."
+    ],
+    "Instituteurs.": [
+      "Isely Paul",
+      "Moret Lina."
+    ],
+    "Juge de paix": [
+      "Chatelan Oscar"
+    ],
+    "Pasteur.": [
+      "Clot Charles."
+    ],
+    "Police (agent de).": [
+      "Thuillard Marcel."
+    ],
+    "Poste et télégraphe.": [
+      "Martin John"
+    ],
+    "Téléphone.": [
+      "Station commun., Clerc Lucien"
+    ],
+    "Agriculteurs.": [
+      "Clerc Auguste",
+      "Clerc Fern.",
+      "Clerc Luc",
+      "Clerc John.",
+      "Delisle Rob.",
+      "Delisle Aug.",
+      "Martin Aimé",
+      "Martin Constant",
+      "Martin Julien",
+      "Martin Jules",
+      "Martin Louis",
+      "Martin Ls-Alfr.",
+      "Martin Robert",
+      "Marcuet Ern.",
+      "Michon Aloïs",
+      "Michon Lucien",
+      "Reymond Constant",
+      "Thuillard Louis",
+      "Thuillard Ch.",
+      "Thuillard Aimé",
+      "Thuillard François."
+    ],
+    "Apiculteurs.": [
+      "Delisle Edouard",
+      "Martin Jean"
+    ],
+    "Assurance-vieillesse.": [
+      "Mutualité scolaire de retraite",
+      "Isely P."
+    ],
+    "Banque.": [
+      "Caisse de Crédit mutuel."
+    ],
+    "Blanchisseuse.": [
+      "Meylan Rose."
+    ],
+    "Boulanger.": [
+      "Verboux Louis."
+    ],
+    "Cafés.": [
+      "Clerc Lucien",
+      "Oppliger Georges"
+    ],
+    "Cercueils (fabr. de).": [
+      "Schenk Ls."
+    ],
+    "Charcutiers.": [
+      "Martin Ernest.",
+      "Michon Louis."
+    ],
+    "Charpentier.": [
+      "Chatelan David.",
+      "Chatelan Louis."
+    ],
+    "Charron.": [
+      "Vittoz Jules."
+    ],
+    "Couturière.": [
+      "Mathey Berthe."
+    ],
+    "Entrepreneur.": [
+      "Oppliger Georges."
+    ],
+    "Epiceries.": [
+      "Clerc Auguste.",
+      "Verboux Louis."
+    ],
+    "Ferblantier-appar.": [
+      "Meylan Jean."
+    ],
+    "Maréchaux.": [
+      "Clerc Auguste",
+      "Vittoz Auguste."
+    ],
+    "Mécanicien.": [
+      "Martin Adrien."
+    ],
+    "Menuisier.": [
+      "Schenk Louis."
+    ],
+    "Meunier et scieur.": [
+      "Chatelan Louis."
+    ],
+    "Pompes funèbres du Nord.": [
+      "Delisle Ami."
+    ],
+    "Sociétés.": [
+      "Assurance mutuelle chevaline.",
+      "Caisse d'assurance du bétail.",
+      "Sté de laiterie.",
+      "Syndicat d'alpage.",
+      "Caisse Raiffeisen."
+    ],
+    "Vannier.": [
+      "Rod Ernest."
+    ],
+    "Vins.": [
+      "Oppliger Georges."
+    ]
+  },
+  "GENOLIER": {
+    "Syndic": [
+      "Duperrex Ls."
+    ],
+    "Secrétaire": [
+      "Guillermin John."
+    ],
+    "Boursier": [
+      "Bossion Olivier."
+    ],
+    "Huissier": [
+      "Vallon Marcel."
+    ],
+    "Municipaux": [
+      "Bolay Charles",
+      "Francelet Francis",
+      "Reichenbach Marc",
+      "Vallon Edouard."
+    ],
+    "Assesseur": [
+      "Chessex Henri."
+    ],
+    "Commandant du feu.": [
+      "Duperrex Ls."
+    ],
+    "Commission scolaire.": [
+      "Guillermin John",
+      "Genton Edouard"
+    ],
+    "Garde-forestier.": [
+      "Guillermin John."
+    ],
+    "Inspecteur du bétail.": [
+      "Herren Albert."
+    ],
+    "Inspecteur forestier.": [
+      "Leuenberger G."
+    ],
+    "Inspecteur des viandes.": [
+      "Herren Alb."
+    ],
+    "Instituteurs.": [
+      "Klaus Georges",
+      "Cretegny Eva."
+    ],
+    "Police (agent de).": [
+      "Vallon Marcel."
+    ],
+    "Poste et télégraphe.": [
+      "Eberhardt Emile"
+    ],
+    "Agriculteurs.": [
+      "Althaus Franz",
+      "Barrillier Ami",
+      "Barrillier Edm.",
+      "Bolay Alex.",
+      "Bolay frères",
+      "Bolay Charles",
+      "Bonnet Gust.",
+      "Burki Jean",
+      "Chessex Henri",
+      "Desvignes Albert",
+      "Duperrex Louis",
+      "Francelet Francis",
+      "Junod Georges",
+      "Lehmann Frédéric",
+      "Leuenberg Jean",
+      "Luthi Jean",
+      "Neuffer Roger",
+      "Prélaz Louis",
+      "Reichenbach Marc",
+      "Schaeffer Georges",
+      "Sublet Aloïs",
+      "Vallon Hubert."
+    ],
+    "Aviculteurs.": [
+      "Hauser Fritz."
+    ],
+    "Assurance-vieillesse.": [
+      "Mutualité scolaire de retraite",
+      "Klaus Georges"
+    ],
+    "Bois (march. de).": [
+      "Caisserie de Genolier."
+    ],
+    "Boulanger.": [
+      "Dessous l'Eglise Adr."
+    ],
+    "Cafés.": [
+      "Croix Samuel",
+      "Luthi Jean"
+    ],
+    "Caisses (fab. de).": [
+      "Caisserie de Genolier S. A."
+    ],
+    "Charpentiers.": [
+      "Chabloz Louis.",
+      "Pinel Pierre."
+    ],
+    "Cordonnier.": [
+      "Avramo Jean."
+    ],
+    "Couturières.": [
+      "Barbezat Clara",
+      "Benoit-Gonin Jeanne."
+    ],
+    "Epicerie, mercerie.": [
+      "Chabloz-Dégallier Louis.",
+      "Dessous l'Eglise Adrien."
+    ],
+    "Huilerie.": [
+      "Leuenberger Jean"
+    ]
+  }
+}

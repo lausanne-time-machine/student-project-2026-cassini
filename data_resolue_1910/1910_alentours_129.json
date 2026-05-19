@@ -1,0 +1,260 @@
+{
+  "ÉCHICHENS": {
+    "Agriculteurs": [
+      "Blanchoud Louis",
+      "Bourloud, veuve de Marc",
+      "Chabloz Eugène",
+      "Croisier Sigismond",
+      "Félix Eugène",
+      "Gros François",
+      "Roulet Constant",
+      "Roulet Marie, Vve de Ls-Victor",
+      "Tissot Jules",
+      "Widmer Louis"
+    ],
+    "Asile rural vaudois": [
+      "Daccord Louis",
+      "Girardet"
+    ],
+    "Café": [
+      "Roulet Constant"
+    ],
+    "Chef de section": [
+      "Roulet Constant"
+    ],
+    "Commission scolaire": [
+      "Bergier",
+      "Daccord Louis",
+      "Roulet Constant",
+      "Croisier Sigismm.",
+      "de Mandrot Adrien"
+    ],
+    "Cordonnier": [
+      "Rosset Félix"
+    ],
+    "Epicerie": [
+      "Gehrig Arnold",
+      "Pilet, Vve."
+    ],
+    "Inspecteur du bétail": [
+      "Widmer Louis"
+    ],
+    "Instituteurs": [
+      "Menétrey Théodore",
+      "Bailly Blanche"
+    ],
+    "Rentiers": [
+      "de Mandrot Adrien",
+      "de Mandrot Hélène",
+      "Monod Edouard",
+      "Monod René",
+      "Warnery Emile"
+    ],
+    "Société": [
+      "De laiterie"
+    ],
+    "Téléphoniste": [
+      "Roulet Constant"
+    ],
+    "Vignerons": [
+      "Annen Jules",
+      "Bourloud Alexis",
+      "Croisier Charles",
+      "Félix John",
+      "Gehrig Arnold",
+      "Gros Jules",
+      "Mottaz Charles",
+      "Roulet Roland-François",
+      "Schmidely Géo",
+      "Schopfer Emile"
+    ]
+  },
+  "ÉCUBLENS": {
+    "Autorités communales": [
+      "Masson Henri",
+      "Masson Adrien",
+      "Ducret François",
+      "Ducret Auguste",
+      "Rossier Charles"
+    ],
+    "Apiculteur": [
+      "Rossier Emile"
+    ],
+    "Auberges": [
+      "Grin Aloïs",
+      "Joye Rosa",
+      "Masson Emile",
+      "Masson Henri"
+    ],
+    "Battoir à blé": [
+      "Masson Eugène"
+    ],
+    "Bois (march. de)": [
+      "Rouge Henri"
+    ],
+    "Boucher": [
+      "Masson Emile"
+    ],
+    "Boulanger": [
+      "Rochat Louis"
+    ],
+    "Charpentiers": [
+      "Jaquenoud Marc & L.",
+      "Walperschwyler Ch."
+    ],
+    "Charron": [
+      "Masson Charles"
+    ],
+    "Chef de section": [
+      "Masson Emile"
+    ],
+    "Chevaux (comm. de)": [
+      "Dénéréaz Fernand"
+    ],
+    "Coiffeur": [
+      "Epitaux Louis"
+    ],
+    "Cordonniers": [
+      "Métraux frères"
+    ],
+    "Distillateur": [
+      "Rouge H."
+    ],
+    "Electriciens": [
+      "Société des Forces de St-Maurice",
+      "Bommer Jean, fils",
+      "Société Lausannoise d'Electricité"
+    ],
+    "Engrais chimiques": [
+      "Rossier Charles"
+    ],
+    "Entrepreneurs en bâtiments": [
+      "Masson Armand",
+      "Scollatti Jean"
+    ],
+    "Epicerie": [
+      "Bänz Elisabeth",
+      "Gonthier Louis",
+      "Jordan Charles",
+      "Rochat Louis"
+    ],
+    "Ferblantier": [
+      "Redondi Antoine"
+    ],
+    "Gypsier": [
+      "Masson Ami. R."
+    ],
+    "Inspecteur du bétail": [
+      "Ducret François"
+    ],
+    "Instituteurs": [
+      "Magnin Louis-Jaques",
+      "Cuanillon Estelle",
+      "Girardet Louisa",
+      "Perretten Lucie"
+    ],
+    "Jardinier": [
+      "Masson Aloïs"
+    ],
+    "Justice de paix": [
+      "Martin François",
+      "Jaquenoud Aloïs",
+      "Rossier Théophile",
+      "Pête-Gudit Louis",
+      "Vidoudez Gustave",
+      "Bollier Constant"
+    ],
+    "Maréchaux": [
+      "Delorme Jean",
+      "Desponds Louis",
+      "Menétrey Eugène",
+      "Ruchat Constant"
+    ],
+    "Menuisier": [
+      "Radice, hoirie"
+    ],
+    "Modiste": [
+      "Epitaux-Rochat, dame"
+    ],
+    "Officier d'état civil": [
+      "Ducret Francois"
+    ],
+    "Pasteurs": [
+      "Vaney Alf.",
+      "de Mestral Armand"
+    ],
+    "Pensions": [
+      "Baechler Jean",
+      "Menétrey Lucie"
+    ],
+    "Sabotier": [
+      "Fayet Henri"
+    ],
+    "Sages-femmes": [
+      "Colelough Marie-Louise",
+      "Musy Louise"
+    ],
+    "Sellier-tapissier": [
+      "Caillet Emile"
+    ],
+    "Serrurier": [
+      "Martin Ch."
+    ],
+    "Sociétés": [
+      "De laiterie du Pontet",
+      "Bibliothèque",
+      "Assurance du bétail",
+      "Tir",
+      "Patriotes d'Ecublens",
+      "Chant",
+      "Syndicat agricole"
+    ],
+    "Tailleur": [
+      "Grand Pierre-S."
+    ],
+    "Tailleuses": [
+      "Ducret Aline",
+      "Grand Aline"
+    ],
+    "Téléphone": [
+      "Grin Aloïs"
+    ],
+    "Divers": [
+      "Bonzon Ad.",
+      "Clerc Victor"
+    ]
+  },
+  "ÉTOY": {
+    "Autorités communales": [
+      "Magnollay Auguste",
+      "Giriens Henri",
+      "Buchet Alexandre",
+      "Corthay Charles",
+      "Berger Jules",
+      "Buclin Auguste",
+      "Thury Auguste",
+      "Pion Henri",
+      "Lapalud François",
+      "Corthay William",
+      "Gruaz Justin"
+    ],
+    "Agriculteurs": [
+      "Berger Jules",
+      "Bohren Louis",
+      "Buchet Alexandre",
+      "Buchet Charles, père",
+      "Buchet Jules",
+      "Buchet Eugène",
+      "Buchet Julien",
+      "Buchet Louis & Henri",
+      "Buclin Auguste",
+      "Corthay François",
+      "Corthay Alexandre",
+      "Corthay Louis",
+      "Favre Louis",
+      "Giriens Charles",
+      "Giriens Louis",
+      "Giriens Lu-"
+    ]
+  }
+}

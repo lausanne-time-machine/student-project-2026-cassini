@@ -1,0 +1,236 @@
+{
+  "Montreux": {
+    "Maréchal.": [
+      "Cottier Jean"
+    ],
+    "Marchand de bois.": [
+      "Amaron Aloïs"
+    ],
+    "Mécaniciens.": [
+      "Brot Julien, fils",
+      "Estoppey-Marti Victor",
+      "Porret Valentin"
+    ],
+    "Officier d'état civil.": [
+      "Rochat John"
+    ],
+    "Pasteur.": [
+      "Barblan Otto"
+    ],
+    "Poëlier.": [
+      "Estoppey-Marti Victor"
+    ],
+    "Professeur de piano.": [
+      "Bosson Laura Mlle."
+    ],
+    "Sage-femme.": [
+      "Clerc, Mme."
+    ],
+    "Scieries.": [
+      "Brot Julien",
+      "Champendal Henri",
+      "Crédit mutuel d'Apples"
+    ],
+    "Selliers.": [
+      "Cochet Ami",
+      "Robellaz H."
+    ],
+    "Serruriers.": [
+      "Brot Julien, fils",
+      "Estoppey-Marti Victor"
+    ],
+    "Sociétés.": [
+      "Fromagerie d'Apples",
+      "Tir aux armes de guerre",
+      "de Développement",
+      "Syndicat agricole",
+      "Syndicat d'élevage",
+      "Société de l'Estivage",
+      "Caisse Raiffeisen",
+      "Chœur d'hommes",
+      "Groupe des Sélectionneurs d'Apples et environs",
+      "Fédération laitière du Pied du Jura"
+    ],
+    "...teuse.": [
+      "Perrazzi Clémence"
+    ],
+    "Télégraphiste.": [
+      "Henchoz Victor"
+    ],
+    "Vélocipèdes.": [
+      "Brot Julien, fils",
+      "Estoppey-Marti Victor",
+      "Porret Valentin"
+    ]
+  },
+  "BALLENS": {
+    "Autorités communales.": [
+      "Testaz Benjamin",
+      "Viallon Ph. fils"
+    ],
+    "Syndic": [
+      "Zbinden William"
+    ],
+    "Municipaux": [
+      "Maillard-Rosset Charles",
+      "Convers Gust.",
+      "Mayor Jules",
+      "Vallotton Jules",
+      "Zbinden Charles",
+      "Oppeliger Henri",
+      "Schopfer Ulysse"
+    ],
+    "Agriculteurs.": [
+      "Champendal François",
+      "Convers Gustave",
+      "Convers John",
+      "Convers Jules",
+      "Croisier Alphonse",
+      "Croisier Arnold",
+      "Croisier Auguste",
+      "Croisier Jules",
+      "Croisier Louis",
+      "Croisier William",
+      "Decollogny Bernard",
+      "Gouffon John",
+      "Mayor Ernest",
+      "Mayor Jules",
+      "Monod Arthur",
+      "Oppeliger Henri",
+      "Roch Auguste",
+      "Roch Jules",
+      "Roch William",
+      "Viallon Louis",
+      "Zbinden William"
+    ],
+    "Amodiateurs.": [
+      "Roch Aug.",
+      "Roch Octave"
+    ],
+    "Associations mutualistes de retraite.": [
+      "Mœsching Auguste"
+    ],
+    "Aubergistes.": [
+      "Oppeliger Hélène, Vve.",
+      "Vallotton Jules"
+    ],
+    "Bois (march. de).": [
+      "Zbinden Henri"
+    ],
+    "Boulangerie.": [
+      "Prodolliet Jules"
+    ],
+    "Charrons.": [
+      "Piguet Charles",
+      "Testaz Ulysse"
+    ],
+    "Commission scolaire.": [
+      "Oppeliger Henri",
+      "Gouffon John"
+    ],
+    "Cordonnier.": [
+      "Bischoff Jean"
+    ],
+    "Entrepreneurs.": [
+      "Monod Arthur fils",
+      "Zanchi Pierre-Charles"
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Prodolliet Jules",
+      "Viallon Philippe"
+    ],
+    "Inspecteur du bétail.": [
+      "Champendal Henri"
+    ],
+    "Instituteurs.": [
+      "Mœsching Auguste",
+      "Barraud Violette"
+    ],
+    "Justice de paix du cercle.": [
+      "Viallon Philippe",
+      "Baudin Octave",
+      "Burnet Albert",
+      "Fazan Maurice",
+      "Bugnoux Henri",
+      "Croisier Louis"
+    ],
+    "Machines agricoles.": [
+      "Allamand Ls, fils"
+    ],
+    "Maçon.": [
+      "Monod Arthur fils"
+    ],
+    "Maréchaux.": [
+      "Allamand Ernest et fils"
+    ],
+    "Menuisiers.": [
+      "Maillard Ch.",
+      "Vallotton Auguste"
+    ],
+    "Notaire.": [
+      "Croisier Louis"
+    ],
+    "Officier d'état civil.": [
+      "Cœndoz Paul"
+    ],
+    "Pasteur.": [
+      "Vuille Paul"
+    ],
+    "Poste.": [
+      "Testaz Benjamin"
+    ],
+    "Scieur.": [
+      "Zbinden Henri"
+    ],
+    "Sociétés.": [
+      "de fromagerie",
+      "Syndicat agricole et d'élevage"
+    ],
+    "Téléphoniste.": [
+      "Vallotton Marie"
+    ]
+  },
+  "BEROLLE": {
+    "Autorités communales.": [
+      "Besson Alfred",
+      "Fleury Arthur"
+    ],
+    "Syndic": [
+      "Burnet Albert"
+    ],
+    "Municipaux": [
+      "Mattile William",
+      "Meylan Désiré",
+      "Fleury Maurice",
+      "Monnard Albert",
+      "Muller Octave",
+      "Besson Robert"
+    ],
+    "Agriculteurs.": [
+      "Besson Adrien",
+      "Besson Alfred",
+      "Besson Aloïs",
+      "Besson Chs",
+      "Besson Henri",
+      "Besson Justin",
+      "Besson Louis",
+      "Besson, hoirie de William",
+      "Besson frères",
+      "Burnet Albert",
+      "Burnet Gustave",
+      "Burnet Louis",
+      "Burnet Paul",
+      "Dauphin Eugène",
+      "Dauphin Gustave",
+      "Fleury Albert",
+      "Fleury Dauphin Auguste",
+      "Fleury Maxime",
+      "Lecoultre Henri",
+      "Mattile William",
+      "Meylan Désiré",
+      "Meylan Léonard",
+      "Monnard frères",
+      "Mattile Waldemar"
+    ]
+  }
+}

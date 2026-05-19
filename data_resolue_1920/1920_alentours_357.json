@@ -1,0 +1,255 @@
+{
+  "LA CHAUX": {
+    "Agriculteurs": [
+      "Jaccard",
+      "Martin Constant",
+      "Martin Jérémie",
+      "Paillard Auguste",
+      "Paillard Albert",
+      "Paillard Paul",
+      "Roggli William"
+    ],
+    "Bois (march. de)": [
+      "Martin Constant"
+    ],
+    "Café": [
+      "Walther Paul",
+      "Cercle Populaire"
+    ],
+    "Commission scolaire": [
+      "(Vacat)",
+      "Campiche Jules"
+    ],
+    "Couturière": [
+      "Jaccard Hélène"
+    ],
+    "Epicerie": [
+      "Société de consommation"
+    ],
+    "Etat-civil": [
+      "Martin Jérémie"
+    ],
+    "Horlogerie": [
+      "Gonthier Gustave",
+      "Jaccard-Margot Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Martin Constant"
+    ],
+    "Instituteurs": [
+      "Meylan Charles",
+      "Paillard Louisa"
+    ],
+    "Laiterie": [
+      "Guye César"
+    ],
+    "Pasteur": [
+      "Chappuis Paul"
+    ],
+    "Pierriste": [
+      "Dufey-Barbey Paul"
+    ],
+    "Poste": [
+      "Gonthier David"
+    ],
+    "Téléphone": [
+      "Cercle Populaire"
+    ],
+    "Voiturier": [
+      "Martin Constant"
+    ]
+  },
+  "LA VRACONNAZ": {
+    "Agriculteurs": [
+      "Galland",
+      "Geneux H.",
+      "Graf frères",
+      "Gueissaz Edouard",
+      "Jaccard Henri",
+      "Jaccard Justin",
+      "Jaccard Marius",
+      "Margot Georges",
+      "Paschoud Hri",
+      "Pigueron",
+      "Sueur Ami",
+      "Winkler Emile",
+      "Winkler Jean"
+    ],
+    "Bois (march. de)": [
+      "Jaccard Alfred"
+    ],
+    "Cafés": [
+      "Paschoud Henri",
+      "Barth"
+    ],
+    "Claviers (facteurs de)": [
+      "Jeanmonod Emile"
+    ],
+    "Couturière": [
+      "Belet Rose"
+    ],
+    "Epicerie": [
+      "Margot Georges"
+    ],
+    "Horlogerie": [
+      "Bornand-Bourquin"
+    ],
+    "Institutrice": [
+      "Martin Susanne"
+    ],
+    "Laiterie": [
+      "Barth"
+    ],
+    "Pierriste": [
+      "Simonin L."
+    ],
+    "Poste": [
+      "Jaccard Philippe"
+    ],
+    "Scierie": [
+      "Jaccard Alfred"
+    ],
+    "Téléphone": [
+      "Margot Georges"
+    ],
+    "Tuilerie": [
+      "Barth-Graf"
+    ]
+  },
+  "VAUGONDRY": {
+    "Autorités communales": [
+      "Gander Jules",
+      "Paillard Arthur",
+      "Gander Charles",
+      "Favrat Emile",
+      "Bornoz Maurice",
+      "Gander Albert",
+      "Tharin Jules"
+    ],
+    "Agriculteurs": [
+      "Bornoz Armand",
+      "Bornoz Olivier",
+      "Cochand Jules",
+      "Favrat Emile",
+      "Gander Charles",
+      "Gander Jules",
+      "Gander Albert",
+      "Paillard Arthur",
+      "Tharin Jules"
+    ],
+    "Amodiateur de montagne": [
+      "Paillard Arthur"
+    ],
+    "Commission scolaire": [
+      "Gander Albert",
+      "Bornoz Maurice"
+    ],
+    "Inspecteur du bétail": [
+      "Cochand Jles"
+    ]
+  },
+  "VILLARS-BURQUIN": {
+    "Autorités communales": [
+      "Simon Numa",
+      "Schenkel Lucien",
+      "Duvoisin Alfred",
+      "Guénod Edouard",
+      "Simon Louis",
+      "Ray Olivier",
+      "Maulaz Arnold",
+      "Ray Jules-Ernest"
+    ],
+    "Agriculteurs": [
+      "Duvoisin Alfred",
+      "Hausamann Alexandre",
+      "Maulaz Alfred",
+      "Maulaz Jules-Aug.",
+      "Maulaz François",
+      "Ray Auguste-Louis",
+      "Ray Louis de Jules",
+      "Ray Jules de Justin",
+      "Ray Oscar-Alexis",
+      "Ray Olivier",
+      "Roulet Arthur",
+      "Simon Louis",
+      "Simon Numa"
+    ],
+    "Assesseur": [
+      "Maulaz Jules"
+    ],
+    "Auberges": [
+      "Cercle des Amis",
+      "Duvoisin Alfred",
+      "Simon Numa"
+    ],
+    "Bois de construction (comm. de)": [
+      "Maulaz Arnold"
+    ],
+    "Boisseliers": [
+      "Périllard Ami",
+      "Périllard Alfred",
+      "Périllard Louis",
+      "Simon Numa"
+    ],
+    "Boulangerie": [
+      "Cochand Albin"
+    ],
+    "Charron": [
+      "Guénod Eugène-Edouard"
+    ],
+    "Chef de section": [
+      "Ray Justin"
+    ],
+    "Commission scolaire": [
+      "Maulaz Arnold",
+      "Simon Numa",
+      "Guénod Edouard"
+    ],
+    "Cordonniers": [
+      "Garin Jules",
+      "Ray Marcel"
+    ],
+    "Entrepreneurs": [
+      "Dolci Pierre",
+      "Pessina Alexandre"
+    ],
+    "Inspecteur des montagnes": [
+      "Ray Olivier"
+    ],
+    "Instituteurs": [
+      "Schenkel Lucien",
+      "Schenkel-Notz Marthe"
+    ],
+    "Laitier": [
+      "Richard Fritz"
+    ],
+    "Maréchal": [
+      "Maulaz Maurice"
+    ],
+    "Pasteur": [
+      "Bornand John"
+    ],
+    "Poste": [
+      "Ray Justin"
+    ],
+    "Sel (débit de)": [
+      "Ray Justin"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "Coopérative de consommation",
+      "De chant «l’Union du Jura»",
+      "Du Cercle"
+    ],
+    "Tailleur de pierres": [
+      "Bordini Albert"
+    ],
+    "Tailleuses": [
+      "Maulaz Olga",
+      "Ray Ida"
+    ],
+    "Téléphoniste": [
+      "Maulaz Arnold"
+    ]
+  }
+}

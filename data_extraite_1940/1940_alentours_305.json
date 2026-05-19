@@ -1,0 +1,408 @@
+{
+  "VUARRENS": {
+    "Banque": [
+      "Crédit mutuel",
+      "Magnenat Albert"
+    ],
+    "Boulanger": [
+      "Magnenat Marcel"
+    ],
+    "Café": [
+      "Oulevey Robert"
+    ],
+    "Charcutier": [
+      "Buffat Gustave"
+    ],
+    "Cordonnier": [
+      "Cuany André"
+    ],
+    "Engrais chimiques et fourrages": [
+      "Buffat Gustave",
+      "Magnenat Marc-cel",
+      "Magnenat Albert"
+    ],
+    "Entrepreneur": [
+      "Péclard Armand"
+    ],
+    "Epicerie-mercerie": [
+      "Bonzon Alexis",
+      "Buffat Gustave",
+      "Magnenat Marcel"
+    ],
+    "Ferblantier": [
+      "Laurent André"
+    ],
+    "Laiterie fromages": [
+      "Stauffer Jean",
+      "Roulier Julien"
+    ],
+    "Maréchal": [
+      "Graz Arnold"
+    ],
+    "Rentier": [
+      "Thierry Paul"
+    ],
+    "Sociétés": [
+      "Caisse de crédit mutuel",
+      "Sté d'agriculture",
+      "Sté du battoir à blé",
+      "Sté de chant",
+      "Sté des laiteries de Vuarrens et Vuarrengel",
+      "Sté du pressoir",
+      "Sté de tir",
+      "Syndicat agricole et d'élevage",
+      "Chœur mixte",
+      "Sté de musique «Fanfare»"
+    ]
+  },
+  "Vuarrengel": {
+    "Inspecteur du bétail": [
+      "Thonney Ed."
+    ],
+    "Agriculteurs": [
+      "Besson Ls.",
+      "Blanc Ls",
+      "Bovay Louis",
+      "Buffat Alfred",
+      "Buffat Jean",
+      "Buffat John-Edouard",
+      "Buffat Paul",
+      "Gonet Auguste",
+      "Gonin Lucien",
+      "Piot Edouard",
+      "Kolliker Charles",
+      "Peitrequin Emile",
+      "Piot Alfred",
+      "Piot Georges",
+      "Schönmann Walther",
+      "Thonney Alfred",
+      "Thonney Héli",
+      "Viret Alfred"
+    ],
+    "Apiculteurs": [
+      "Gonet Aug.",
+      "Gonin L."
+    ],
+    "Epicerie-charcuterie": [
+      "Buffat G."
+    ],
+    "Laiterie, fromages": [
+      "Sté de laiterie",
+      "Roulier Julien"
+    ]
+  },
+  "VUCHERENS": {
+    "Conseil général": [
+      "Cherpillod Lucien"
+    ],
+    "Syndic": [
+      "Vuagniaux Léon"
+    ],
+    "Secrétaire": [
+      "Porchet Charles"
+    ],
+    "Boursier": [
+      "Trolliet John"
+    ],
+    "Huissier": [
+      "Chollet Armand"
+    ],
+    "Municipaux": [
+      "Cavin Héli",
+      "Cavin Maurice",
+      "Cherpillod André",
+      "Jaquier Louis"
+    ],
+    "Command. du feu": [
+      "Trolliet John"
+    ],
+    "Commission scolaire": [
+      "Duc Maurice",
+      "Jaquier Ernest"
+    ],
+    "Garde-forestier": [
+      "Porchet Elie"
+    ],
+    "Inspecteur du bétail": [
+      "Vuagniaux Louis-Adolphe"
+    ],
+    "Inspecteur des viandes": [
+      "Cherpillod Germain"
+    ],
+    "Instituteurs": [
+      "Tzaut Louis",
+      "Menétrey Rose"
+    ],
+    "Officier d'état civil": [
+      "Bertolini"
+    ],
+    "Police (agent de)": [
+      "Cherpillod Jules"
+    ],
+    "Poste et télégraphe": [
+      "Vuagniaux Aloïs"
+    ],
+    "Agriculteurs": [
+      "Cavin Charles",
+      "Cavin Victor",
+      "Cherpillod Alphonse",
+      "Cherpillod Armand",
+      "Cherpillod Fernand",
+      "Cherpillod Lucien",
+      "Cherpillod Olivier",
+      "Cherpillod Ulysse",
+      "Destraz Emile",
+      "Duc frères",
+      "Fiaux Jules",
+      "Estoppey Marius",
+      "Gavillet Armand",
+      "Gavillet Jules",
+      "Jaquier Louis",
+      "Jayet Em.",
+      "Lemat Eugène",
+      "Nydegger Frédéric",
+      "Porchet Victor",
+      "Porchet Ch.",
+      "Trolliet Hermann",
+      "Trolliet John",
+      "Vuagniaux Ernest",
+      "Vuagniaux Gustave",
+      "Vuagniaux Léon de Pierre",
+      "Vuagniaux Léon de Jacques",
+      "Vuagniaux Louis de Constant",
+      "Vuagniaux Louis-Ad."
+    ],
+    "Apiculteurs": [
+      "Cherpillod Lucien",
+      "Duc Maurice",
+      "Gavillet Héli",
+      "Vuagniaux Louis-Ad."
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Tzaut L."
+    ],
+    "Boulanger": [
+      "Dumard Louis"
+    ],
+    "Cafés": [
+      "Lorini Vital",
+      "Nydegger Fréd."
+    ],
+    "Cercueils": [
+      "Vuagniaux Louis-Marius"
+    ],
+    "Charpentier": [
+      "Vuagniaux Ernest"
+    ],
+    "Charrons": [
+      "Gavillet Jean-Pierre",
+      "Porchet Victor"
+    ],
+    "Cordonnier": [
+      "Jaquier Ernest"
+    ],
+    "Couturière": [
+      "Vuagniaux Augustine"
+    ],
+    "Distillateur": [
+      "Pache Constant"
+    ],
+    "Entrepreneur": [
+      "Lorini Vital"
+    ],
+    "Epiceries": [
+      "Cherpillod André",
+      "Crot Alfred",
+      "Grosjean G."
+    ],
+    "Laitier": [
+      "Winkler Erich"
+    ],
+    "Maréchal": [
+      "Cavin Maurice"
+    ],
+    "Menuisier": [
+      "Vuagniaux Louis-Marius"
+    ],
+    "Oeufs (comm. d')": [
+      "Grosjean Gust."
+    ],
+    "Pompes funèbres du Nord": [
+      "Monge David"
+    ],
+    "Porcs (comm. de)": [
+      "Schneider Gottl."
+    ],
+    "Râteaux (fabr. de)": [
+      "Cherpillod G."
+    ],
+    "Scieur": [
+      "Besson Maurice"
+    ],
+    "Serrurier": [
+      "Jaquier Emile"
+    ],
+    "Sociétés": [
+      "Sté d'assurance du bétail",
+      "Sté du four du bas de Vucherens",
+      "Sté du four de la Rappaz",
+      "Sté de fromagerie",
+      "Sté de machine à battre, concassage et scierie"
+    ],
+    "Voiturier": [
+      "Arnaudi Albert"
+    ]
+  },
+  "VUFFLENS-LA-VILLE": {
+    "Syndic": [
+      "Montagnon Robert"
+    ],
+    "Boursier": [
+      "Benvegnin Ami"
+    ],
+    "Secrétaire": [
+      "Duperrut Louis"
+    ],
+    "Huissier": [
+      "Rochat Adrien"
+    ],
+    "Municipaux": [
+      "Benvegnin Ernest",
+      "Benvegnin Louis",
+      "Cuérel Edouard",
+      "Duperrut Adolphe"
+    ],
+    "Cantonnier": [
+      "Duperrut Louis"
+    ],
+    "Chef de gare": [
+      "Sonnard Octave"
+    ],
+    "Gare C. F. F. (chef de)": [
+      "Sonnard Octave"
+    ],
+    "Commandant du feu": [
+      "Benvegnin Ern."
+    ],
+    "Commission scolaire": [
+      "Benvegnin Ami"
+    ],
+    "Garde forestier": [
+      "Vaney Henri"
+    ],
+    "Greffier de la Justice de paix": [
+      "Montagnon Robert"
+    ],
+    "Inspecteur du bétail": [
+      "Moret Emile"
+    ],
+    "Inspecteur des viandes": [
+      "Montagnon Charles"
+    ],
+    "Instituteurs": [
+      "Rebeaud Henri",
+      "Rebeaud-Petit Hélène"
+    ],
+    "Officier d'état civil": [
+      "Dubauloz Gustave"
+    ],
+    "Pasteur": [
+      "Cousin Eugène"
+    ],
+    "Police (agent de)": [
+      "Benvegnin René"
+    ],
+    "Poste et télégraphe": [
+      "Wehren Charles"
+    ],
+    "Agriculteurs": [
+      "Benvegnin Ami",
+      "Benvegnin Ernest",
+      "Benvegnin François",
+      "Benvegnin Henri",
+      "Benvegnin Gustave",
+      "Bovay Auguste",
+      "Cuérel Edouard",
+      "Cuérel Lucien",
+      "Damond Gustave",
+      "Duperrut Adolphe",
+      "Duperrut Alfred",
+      "Duperrut Julien",
+      "Duperrut Louis",
+      "Duperrut Paul et Ch. frères",
+      "Duvoisin Jules",
+      "Magnenat Victor",
+      "Meylan Henri",
+      "Montagnon Armand",
+      "Montagnon Charles",
+      "Montagnon Emile",
+      "Moret Emile",
+      "Perrin Armand",
+      "Roulin Louis",
+      "Vougaz Emile",
+      "Vullioud Charles",
+      "Zuber Charles"
+    ],
+    "Apiculteurs": [
+      "Benvegnin Hermann",
+      "Montagnon Robert"
+    ],
+    "Arboriculteur patenté": [
+      "Duperrut P."
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite",
+      "Rebeaud Henri"
+    ],
+    "Boulanger": [
+      "Damond Edouard"
+    ],
+    "Cafés": [
+      "Burnet Céline",
+      "Damond Gust."
+    ],
+    "Cercueils": [
+      "Grin Ulysse"
+    ],
+    "Charcutier": [
+      "Damond Gustave-R."
+    ],
+    "Charron": [
+      "Cosandey Marg."
+    ],
+    "Couturière": [
+      "Duperrut Louisa"
+    ],
+    "Epiceries, merceries": [
+      "Damond Ed.",
+      "Piquerez Henri",
+      "Delapierre Henri"
+    ],
+    "Jardinier": [
+      "Guerry Paul"
+    ],
+    "Maréchal": [
+      "Cottier Robert"
+    ],
+    "Moulin": [
+      "Usine agricole du Moulinet",
+      "Guerry A."
+    ],
+    "Représentant": [
+      "Pellaton Elie"
+    ],
+    "Scierie": [
+      "Cosandey Marg."
+    ],
+    "Sociétés": [
+      "Cercle de l'Egalité",
+      "Sté de laiterie de Vufflens-la-Ville",
+      "Syndicat d'élevage Vufflens-Mex",
+      "Usine agricole du Moulinet"
+    ],
+    "Tonnelier": [
+      "Cosandey Marg."
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "EYSINS": {
+    "Aviculture": [
+      "Chabaud, Suzette"
+    ],
+    "Battoir à blé et huilerie": [
+      "Olivier, Jules",
+      "Olivier, Alphonse"
+    ],
+    "Charron": [
+      "Kiffer, Jean"
+    ],
+    "Chef de section": [
+      "Olivier, Juste"
+    ],
+    "Entrepreneur": [
+      "Cortellini, Eugène"
+    ],
+    "Epicerie, mercerie": [
+      "Delaporte, Anna",
+      "Olivier, Marie"
+    ],
+    "Maréchal": [
+      "Bossay, Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Forel, Auguste"
+    ],
+    "Instituteur": [
+      "Beausire, César"
+    ],
+    "Société": [
+      "Société de fromagerie"
+    ],
+    "Téléphoniste": [
+      "Dupontet, Jules"
+    ]
+  },
+  "FOUNEX": {
+    "Autorités communales": [
+      "Nerfin, Marc",
+      "Dejoux, François",
+      "Debluë, John",
+      "Dejoux, Constant",
+      "Nerfin, Marc",
+      "Debluë, Abram",
+      "Debluë, Julien",
+      "Nerfin, Charles",
+      "Nerfin, Marc"
+    ],
+    "Aubergiste": [
+      "Desvignes, Samuel"
+    ],
+    "Commission scolaire": [
+      "Dejoux, Constant"
+    ],
+    "Fermiers": [
+      "Debluë, Alfred",
+      "Flukiger, Emile",
+      "Moinat, Henri",
+      "Nerfin, Octave"
+    ],
+    "Inspecteurs du bétail": [
+      "Debluë, Julien",
+      "Nerfin, Octave"
+    ],
+    "Instituteurs": [
+      "Roulet, Edouard",
+      "Bruch, Alice"
+    ],
+    "Laitier": [
+      "Sulliger, Christian"
+    ],
+    "Maréchal": [
+      "Luquiens, Louis"
+    ],
+    "Négociants": [
+      "Dejoux, veuve",
+      "Debluë, Louis"
+    ],
+    "Pension": [
+      "Etier, veuve"
+    ],
+    "Propriétaires": [
+      "Mandrot, John",
+      "Nerfin, Sigismond",
+      "Rieder, Amédée",
+      "Rochaix, Etienne"
+    ],
+    "Rentiers": [
+      "Caillat, Alexandre",
+      "Gachet"
+    ],
+    "Sociétés": [
+      "Société de fromagerie",
+      "Société de St-Robert"
+    ],
+    "Tisserand": [
+      "Dommer, J."
+    ],
+    "Tourneurs": [
+      "Magnin, Ami",
+      "Maguin, Auguste"
+    ],
+    "Téléphone": [
+      "Etier, veuve"
+    ],
+    "Vélos (garage et réparat.)": [
+      "Luquiens, Louis"
+    ]
+  },
+  "GENOLLIER": {
+    "Autorités communales": [
+      "Bozonnet, Jules",
+      "Francelet, André",
+      "Prod'hom, Albert",
+      "Vallon, Eugène",
+      "Bolay, Auguste",
+      "Francelet, Elie",
+      "Vallon, Constant",
+      "Guillermin, John",
+      "Bolay, Jules",
+      "Francelet, Abram"
+    ],
+    "Apiculteur": [
+      "Sautter, Léon"
+    ],
+    "Aubergistes": [
+      "Prod'hom, Albert",
+      "Leuba, Albin"
+    ],
+    "Bestiaux (march.)": [
+      "Bozonnet, Aug. R."
+    ],
+    "Bois (march.)": [
+      "Barillier, Fr.",
+      "Caisserie de Genollier"
+    ],
+    "Boulangers": [
+      "Desvignes, Charles",
+      "Pinel, Alfred"
+    ],
+    "Buraliste postal": [
+      "Vallon"
+    ],
+    "Caisses (fabr.)": [
+      "Caisserie de Genollier"
+    ],
+    "Charpentiers": [
+      "Happersberger, Jaques",
+      "Croix, Julien"
+    ],
+    "Charron": [
+      "Vallon, Isaac"
+    ],
+    "Epicerie, mercerie": [
+      "Desvignes, Julie",
+      "Pinel, Alfred",
+      "Rochat, Louis",
+      "Ruchet, Emile"
+    ],
+    "Fermiers": [
+      "Pasche, Jules",
+      "Vuagniaux, Jules"
+    ],
+    "Inspecteur du bétail": [
+      "Bolay, Jules"
+    ],
+    "Instituteurs": [
+      "Dumas, François",
+      "Guex, Constance"
+    ],
+    "Maréchal": [
+      "Modoux, Louis"
+    ],
+    "Mécanicien": [
+      "Vallon, Eugène"
+    ],
+    "Pasteur": [
+      "Dubois, Ch.-Emm.-Ant."
+    ],
+    "Scieurs": [
+      "Barillier, Fr.",
+      "Caisserie de Genollier",
+      "Cujean, François"
+    ],
+    "Sellier": [
+      "Gonin, Ulysse"
+    ],
+    "Société": [
+      "Société de fromagerie"
+    ],
+    "Téléphone": [
+      "Auberge communale"
+    ]
+  },
+  "GINGINS": {
+    "Autorités communales": [
+      "Mestral, Arthur",
+      "Barrilliet, Charles",
+      "Bally, Fr.-L.",
+      "Gentet, Marc",
+      "Charbonnier, Jean",
+      "Tissot, Jules",
+      "Berlie, Albert",
+      "Gentet, S.",
+      "Barrilliet, Auguste",
+      "Joly, Rodolphe"
+    ],
+    "Amodiateur": [
+      "Rossi, Jean"
+    ],
+    "Aubergistes": [
+      "Amiguet, veuve",
+      "Baer, Louis-Etienne"
+    ],
+    "Bois (march.)": [
+      "Guichard, Jean",
+      "Küffer, Adrien",
+      "Mestral, Emile"
+    ],
+    "Boulangers": [
+      "Küffer, Adrien",
+      "Sütter, Rudolf"
+    ],
+    "Buraliste postal": [
+      "Deluche, Henri"
+    ],
+    "Charpentier": [
+      "Schmid, Henri"
+    ],
+    "Charrons": [
+      "Charbonnier, Victor",
+      "Sahy, Jules"
+    ],
+    "Cigares et tabacs": [
+      "Amiguet, veuve",
+      "Baer, Louis",
+      "Gentet, Louis"
+    ]
+  }
+}

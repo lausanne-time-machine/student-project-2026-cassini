@@ -1,0 +1,381 @@
+{
+  "CURTILLES": {
+    "Police (agent de)": [
+      "Vuagniaux Jean"
+    ],
+    "Agriculteurs": [
+      "Aubert Frédéric",
+      "Barth Jean",
+      "Bingueli John",
+      "Clot-Rey Ch.",
+      "Clot-Lagnaz Ch.",
+      "Déglon-Pidoux Aug.",
+      "Déglon Const.",
+      "Déglon Ern.",
+      "Déglon Marcel.",
+      "Falquet Jules.",
+      "Maillard Léonard",
+      "May Ernest",
+      "Moccand frères.",
+      "Perret Ferdinand.",
+      "Pichonnat frères",
+      "Sonnard Alfred",
+      "Sonnard Ami et Constant",
+      "Sonnard Fernand",
+      "Steiner Alfred",
+      "Steiner Edouard"
+    ],
+    "Apiculteurs": [
+      "Déglon Francis",
+      "May Ernest",
+      "Moccand Jules",
+      "Perret Ferdinand"
+    ],
+    "Bois (comm. de)": [
+      "Dutoit Aloïs"
+    ],
+    "Boulanger": [
+      "Avondo Louis"
+    ],
+    "Café": [
+      "Roux Héli",
+      "café Fédéral"
+    ],
+    "Chalets (constr. de)": [
+      "Dutoit Aloïs"
+    ],
+    "Charpentier": [
+      "Dogny Louis"
+    ],
+    "Charron": [
+      "Dubois Louis"
+    ],
+    "Couturière": [
+      "Pahud Rose"
+    ],
+    "Entrepreneurs": [
+      "Clot Héli & fils",
+      "Protti Paul",
+      "Sabattini L. & fils"
+    ],
+    "Gypsier-peintre": [
+      "Violi Henri"
+    ],
+    "Laitier, fromages": [
+      "Scherler Ch."
+    ],
+    "Meuniers": [
+      "Moulin agricole",
+      "May Ernest",
+      "Fischer Fritz"
+    ],
+    "Pierriste": [
+      "Gachet Gustave"
+    ],
+    "Pompes funèbres du Nord": [
+      "Dogny Louis"
+    ],
+    "Porcs (comm. de)": [
+      "Scherler Ch."
+    ],
+    "Scieur": [
+      "Dutoit Aloïs"
+    ],
+    "Sociétés": [
+      "Sté d'assurance du bétail bovin.",
+      "Sté de laiterie.",
+      "Sté de tir aux Armes de Guerre."
+    ]
+  },
+  "DAILLENS": {
+    "Député": [
+      "Delacuisine Edmond"
+    ],
+    "Syndic": [
+      "Villard Emile"
+    ],
+    "Secrétaire": [
+      "Vindayer Georges"
+    ],
+    "Boursier": [
+      "Trolliet William"
+    ],
+    "Huissier": [
+      "Conod Lucien"
+    ],
+    "Municipaux": [
+      "Lugeon Maurice",
+      "Roulin Fernand",
+      "Trolliet Emile",
+      "Trolliet Henri feu Charles",
+      "Trolliet Henri feu Marc",
+      "Villard Aimé"
+    ],
+    "Cantonnier": [
+      "Vindayer Louis"
+    ],
+    "Chef de section": [
+      "Villard Emile"
+    ],
+    "Commission scolaire": [
+      "Villard E."
+    ],
+    "Inspect. du bétail": [
+      "Francillon Pierre"
+    ],
+    "Inspecteur des viandes": [
+      "Francillon Pierre"
+    ],
+    "Instituteurs": [
+      "Nicole André",
+      "Prévost Nelly"
+    ],
+    "Pasteur": [
+      "Morerod Edmond"
+    ],
+    "Police (agent de)": [
+      "Mercier Henri"
+    ],
+    "Poste et télégraphe": [
+      "Trolliet Arnold"
+    ],
+    "Agriculteurs": [
+      "Comtesse Emile.",
+      "Delacuisine Jules.",
+      "Delacuisine hoirie",
+      "Francillon Arm.",
+      "Francillon frères.",
+      "Gavin-Gonnet, hoirie de Charles",
+      "Lugeon Maurice",
+      "Mercier-Porchet Louis",
+      "Moser-Roulin Ernest",
+      "Roulin-Vauthey Fernand",
+      "Roulin Ernest",
+      "Simon frères",
+      "Trolliet-Villard Henri",
+      "Trolliet-Girardet W.",
+      "Trolliet-Roulin Gust.",
+      "Trolliet-Laurent Henri",
+      "Lavanchy Robert",
+      "Villard-Roulin Emile",
+      "Villard-Comtesse Aimé",
+      "Scheurer Fritz"
+    ],
+    "Apiculteurs": [
+      "Comtesse Georges",
+      "Cœytaux Félix",
+      "Delacuisine Louis.",
+      "Jaunin Louis"
+    ],
+    "Appareilleurs": [
+      "Martinelli Georges",
+      "Mercier Gaston"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualiste de retraite",
+      "Villard Emile"
+    ],
+    "Auto": [
+      "Martinelli Georges"
+    ],
+    "Banque": [
+      "Agence Union Vaudoise du Crédit",
+      "Delacuisine Ed."
+    ],
+    "Bestiaux (marchands de)": [
+      "Bischoff Ernest"
+    ],
+    "Boulangers-pâtissiers": [
+      "Clerc Emile",
+      "Wuilliamoz Ami"
+    ],
+    "Café": [
+      "Peyrollaz Adrien",
+      "Hôtel de la Balance"
+    ],
+    "Charcuteries": [
+      "Delacuisine frères.",
+      "Mercier Gaston.",
+      "Peyrollaz Adrien"
+    ],
+    "Charpentiers-menuisiers": [
+      "Pittet Alfr.",
+      "Pittet Maxis"
+    ],
+    "Charron": [
+      "Zimmermann Paul"
+    ],
+    "Cordonnier": [
+      "Jonneret Louis"
+    ],
+    "Couturières": [
+      "Bélaz-Cœytaux Juliette",
+      "Jaquier-Villars Mme",
+      "Tardy Berthe",
+      "Zahnd-Desmeules Alice"
+    ],
+    "Entrepreneurs": [
+      "Chiovini frères"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Mercier-Porchet Ls.",
+      "Mercier-Testuz Roland.",
+      "Rochat sœurs",
+      "Wuilliamoz Ami"
+    ],
+    "Ferblantier": [
+      "Martinelli fils"
+    ],
+    "Fourrages (comm. de)": [
+      "Delespinasse Emile"
+    ],
+    "Gypsier-peintre": [
+      "De Maria A."
+    ],
+    "Laiterie": [
+      "Simond Léon"
+    ],
+    "Maréchal": [
+      "Hoffer Auguste"
+    ],
+    "Notaire": [
+      "Delacuisine Edouard"
+    ],
+    "Pompes funèbres du Nord": [
+      "Monnier A."
+    ],
+    "Poterie": [
+      "Mercier-Testuz Roland"
+    ],
+    "Rentiers": [
+      "Cœytaux Félix",
+      "Contesse Georges",
+      "Contesse Louis"
+    ],
+    "Scierie": [
+      "Cœytaux Ernest"
+    ],
+    "Sociétés": [
+      "Caisse de crédit mutuel.",
+      "Sté du battoir à grains.",
+      "Sté de chant.",
+      "Sté de tir aux armes de guerre.",
+      "Syndicat agricole.",
+      "Sté Laiterie nouvelle."
+    ]
+  },
+  "DEMORET": {
+    "Syndic": [
+      "Jaquier A."
+    ],
+    "Secrétaire": [
+      "Pochon André"
+    ],
+    "Boursier": [
+      "Vienet Henri"
+    ],
+    "Huissier": [
+      "Jaquiéry Edward"
+    ],
+    "Municipaux": [
+      "Bovay Edmond",
+      "Bovay Ernest",
+      "Bovay Paul",
+      "Cruchet Justin"
+    ],
+    "Cantonnier": [
+      "Dutoit Edouard"
+    ],
+    "Chef de section": [
+      "Waridel Edmond"
+    ],
+    "Commandant du feu": [
+      "Bovay Edm."
+    ],
+    "Commission scolaire": [
+      "Varidel Edm."
+    ],
+    "Contrôleur du lait": [
+      "Jaquiéry René"
+    ],
+    "Garde forestier": [
+      "Pitton Ernest"
+    ],
+    "Greffier": [
+      "Jacquiéry Marcel"
+    ],
+    "Inspect. du bétail": [
+      "Jaquiéry André"
+    ],
+    "Instituteurs": [
+      "Bernard Pierre",
+      "Baatard Jeanne"
+    ],
+    "Poste et télégraphe": [
+      "Waridel Edm."
+    ],
+    "Agriculteurs": [
+      "Baatard Emile",
+      "Baatard François",
+      "Besson Albert",
+      "Bovay Auguste",
+      "Bovay Ernest",
+      "Bovay Julien",
+      "Bovay Constant",
+      "Burri Robert",
+      "Christen Otto",
+      "Cruchet Paul",
+      "Jaquier Louis.",
+      "Jaquier Arnold.",
+      "Jaquiéry Bernard",
+      "Jaquiéry Adrien",
+      "Jaquiéry Edward",
+      "Jaquiéry frères",
+      "Pochon Adamir",
+      "Thuillard William",
+      "Vienet Henri.",
+      "Zaugg Jean"
+    ],
+    "Charcuterie": [
+      "Vienet Henri"
+    ],
+    "Charpentier": [
+      "Golay Henri"
+    ],
+    "Electricien": [
+      "Jaquiéry William"
+    ],
+    "Epicerie, mercerie": [
+      "Vienet Hri"
+    ],
+    "Laiterie": [
+      "Société de laiterie."
+    ],
+    "Maréchaux, machines agricoles": [
+      "Bovay Robert"
+    ],
+    "Menuisier": [
+      "Bovay Félix"
+    ],
+    "Pompes funèbres du Nord": [
+      "Bovet Félix"
+    ],
+    "Scieur": [
+      "Jaquier Arnold"
+    ],
+    "Sociétés": [
+      "Sté de fromagerie de Démoret.",
+      "Sté de la machine à battre.",
+      "Syndicat agricole de Démoret.",
+      "Syndicat d'élevage."
+    ]
+  },
+  "DENENS": {
+    "Syndic": [
+      "Sauty Albert"
+    ],
+    "Secrétaire": [
+      "Jacot Gustave"
+    ]
+  }
+}

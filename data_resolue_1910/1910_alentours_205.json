@@ -1,0 +1,262 @@
+{
+  "ORON-LA-VILLE": {
+    "Epicerie": [
+      "Liaudet Edward"
+    ],
+    "Inspecteur du bétail": [
+      "Liaudet Henri-François",
+      "Mellet Charles-L."
+    ],
+    "Instituteurs": [
+      "Dupuis Fritz",
+      "Dupuis-Maret Jeanne",
+      "Henry A.",
+      "Magnenat Justin",
+      "Cousin Pauline",
+      "Martinet Germaine"
+    ],
+    "Laitier": [
+      "Délessert François",
+      "Rawyler Fritz"
+    ],
+    "Maréchal": [
+      "Prahin Emile",
+      "Varidel Jules"
+    ],
+    "Menuisier": [
+      "Reybaz Daniel-Alois"
+    ],
+    "Meunier": [
+      "Pidoux Ulysse"
+    ],
+    "Pasteur": [
+      "De Weiss Albert"
+    ],
+    "Pensions d'été": [
+      "Cavin-Gilliéron S.",
+      "Viret Héli"
+    ],
+    "Rentiers": [
+      "Lavanchy Sel",
+      "Reybaz Edouard"
+    ],
+    "Scierie": [
+      "Société de la Rochette"
+    ],
+    "Sociétés": [
+      "De laiterie",
+      "De la Rochette",
+      "D'assurance du bétail"
+    ],
+    "Tailleuses": [
+      "Gilliard Ida",
+      "Lavanchy Nancy"
+    ],
+    "Téléphone": [
+      "Bureau des postes"
+    ],
+    "Autorités communales": [
+      "Tschumy Auguste",
+      "Cavin Alfred",
+      "Gilliéron William",
+      "Mellet Louis",
+      "Pasche-Cardinaux Daniel",
+      "Martinet Edmond",
+      "Jaccoud Jean-François",
+      "Durand Henri",
+      "Gaillard Gust."
+    ],
+    "Agence agricole": [
+      "Porchet Robert"
+    ],
+    "Agriculteurs": [
+      "Boudry Alexis",
+      "Chollet Jean",
+      "Clerc François",
+      "Félix Charles",
+      "Gossweiler Charles",
+      "Lädermann Louis",
+      "Mayor Paul",
+      "Pasche Abram-Daniel",
+      "Pasche-Dufour Frédéric",
+      "Pasche Jean-Samuel",
+      "Pasche Charles-Louis",
+      "Pasche Frédéric"
+    ],
+    "Assurances": [
+      "Cavin Alfred",
+      "Gilliéron",
+      "Magnenat"
+    ],
+    "Aubergistes": [
+      "Félix Louis",
+      "Gossweiler Charles",
+      "Jaquier Cyprien",
+      "Mayor Paul",
+      "Schlegel Georges"
+    ],
+    "Banques": [
+      "Banque cantonale vaudoise",
+      "Pittet Henoch",
+      "Crédit du Léman",
+      "Gaillard Gust.",
+      "Cavin Alfred",
+      "Union vaudoise du Crédit",
+      "Gilliéron W."
+    ],
+    "Bazar": [
+      "Jan Julie"
+    ],
+    "Blanchisseuses": [
+      "Clerc Alice",
+      "Jan Mina",
+      "Estoppey Amélie"
+    ],
+    "Bois (comm. de)": [
+      "Favre Jules"
+    ],
+    "Boucher": [
+      "Clerc Louis"
+    ],
+    "Boulangers": [
+      "Bovard Alphonse",
+      "Déglon-Burnier Henri",
+      "Dübi Paul",
+      "Jan Jules"
+    ],
+    "Buraliste postal": [
+      "Durand Henri"
+    ],
+    "Chapellerie": [
+      "Berget-Mellet Marie"
+    ],
+    "Charcuteries": [
+      "Clerc Louis",
+      "Jan Jules"
+    ],
+    "Charpentier": [
+      "Stettler Louis"
+    ],
+    "Charron": [
+      "Lädermann Henri"
+    ],
+    "Chaussures": [
+      "Berger Emile",
+      "Bovard Alphonse",
+      "Fâme Jean"
+    ],
+    "Chef de section": [
+      "Jan Charles"
+    ],
+    "Coiffeur": [
+      "Caillet"
+    ],
+    "Colonie de Serix": [
+      "Voir Palézieux"
+    ],
+    "Commission scolaire": [
+      "Gaillard Gustave",
+      "Matter Frédéric",
+      "Mayor Paul",
+      "Gallay Julien",
+      "Pasche Emile"
+    ],
+    "Confections": [
+      "Fâme Jan",
+      "Grandchamp Emile"
+    ],
+    "Cordonniers": [
+      "Berger Emile",
+      "Cavin Constant",
+      "Kissling Fritz"
+    ],
+    "Dentiste": [
+      "Berguer Ch."
+    ],
+    "Electriciens": [
+      "Société Lausannoise d'Electricité"
+    ],
+    "Entrepreneurs en bâtiments": [
+      "Arnoldi Bernard",
+      "Erbeia Félix",
+      "Valle Joseph"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Bovard Alphonse",
+      "Corboz Jules",
+      "Fâme Jean",
+      "Jan Charles",
+      "Porchet Robert"
+    ],
+    "Etoffes": [
+      "Bourloud Augusta",
+      "Corboz Elisée",
+      "Fâme Jean",
+      "Grandchamp Emile"
+    ],
+    "Ferblantier": [
+      "Bonatti Jean"
+    ],
+    "Fers et quincaillerie": [
+      "Bonatti Angelo",
+      "Jan Charles"
+    ],
+    "Géomètre breveté": [
+      "Croset Philippe"
+    ],
+    "Greffier du tribunal": [
+      "Gilliéron William-Samuel"
+    ],
+    "Gypsier": [
+      "Valle Secondo"
+    ],
+    "Horlogerie": [
+      "Favre Jules"
+    ],
+    "Huissier du tribunal": [
+      "Corboz Jules"
+    ],
+    "Huissier de la Justice de paix": [
+      "Jan Henri"
+    ],
+    "Jardinier": [
+      "Kissling Robert"
+    ],
+    "Justice de paix": [
+      "Rubattel Maurice",
+      "Rithner Eugène",
+      "Mellet L.-F.",
+      "Dovat Jules",
+      "Décosterd David",
+      "Pasche Jules-Aloïs"
+    ],
+    "Lingère": [
+      "Grandchamp Elise"
+    ],
+    "Matériaux de construction": [
+      "Arnoldi Bernard",
+      "Erbeia Félix",
+      "Valle Joseph"
+    ],
+    "Médecin": [
+      "Matter Frédéric"
+    ],
+    "Menuisiers": [
+      "Jan Henri",
+      "Tétaz Paul"
+    ],
+    "Meuniers": [
+      "Doges Henri",
+      "Moulin agricole (société)"
+    ],
+    "Modiste": [
+      "Berger-Mellet Marie"
+    ],
+    "Notaire": [
+      "Gilliéron William-Samuel"
+    ],
+    "Officier d'état civil": [
+      "Jan Charles"
+    ]
+  }
+}

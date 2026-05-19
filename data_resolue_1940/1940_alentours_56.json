@@ -1,0 +1,326 @@
+{
+  "CHATEAU-D'OEX": {
+    "Transports": [
+      "Burnand frères",
+      "Chabloz frères",
+      "Isoz-Steiner Aloys.",
+      "Jornayvaz S. A."
+    ],
+    "Vélos": [
+      "Favrod Louis",
+      "Morier Samuel",
+      "Wehren Ami"
+    ],
+    "Vétérinaires": [
+      "Henchoz Ernest.",
+      "Kiener Emile.",
+      "Kiener Jean."
+    ],
+    "Vins et Liqueurs": [
+      "Balestra & Cie.",
+      "Beretta Romano.",
+      "Demaurex Frédéric.",
+      "Desquartiers Louis.",
+      "Pilet-Morier-Genoud Lucile.",
+      "Poschung Alfred (Canal et Cie)",
+      "Tscherter Ernest."
+    ],
+    "Vitriers-Encadreurs": [
+      "Lenoir Daniel.",
+      "Neidl."
+    ],
+    "Voituriers": [
+      "Burnand frères"
+    ],
+    "Divers": [
+      "Allistone E.",
+      "Bach M.",
+      "Beauchamp",
+      "Béguin-Mottier, Alf.",
+      "Berguer & Vernez, Mlles",
+      "Butson C.-W.",
+      "Cérésole Adr.",
+      "Chapalay H.",
+      "Cuénod G.",
+      "Debran Lucette.",
+      "de Ruffer O.",
+      "Divorne Louis",
+      "Dixon F.-P.",
+      "Dubuis, Vve.",
+      "Fletcher Mlle",
+      "Henchoz Henri",
+      "Henchoz-Soumi",
+      "Jallard R., Mme",
+      "Joly, Mlle",
+      "Kelly W.-P.",
+      "Kiener, Vve",
+      "Kiener-Henchoz E.",
+      "King S.-W., prof.",
+      "Malatesta A.",
+      "May Ethel et Mary",
+      "Meyer Robert",
+      "Minelli",
+      "Morier Ph.",
+      "Muller de Sibourg Léon",
+      "Prins van Westdorpe E.",
+      "Rebouis, Mme",
+      "Savoie Ed.",
+      "Schopfer A., Mlle",
+      "Spozio L.",
+      "Stouky Max",
+      "Vuilleumier M., Mlle",
+      "Wansey Smith G.",
+      "Warnery Ele"
+    ]
+  },
+  "LES MOULINS": {
+    "Instituteurs": [
+      "Kissling Reynold",
+      "Morier-Genoud-Mercier Juliette",
+      "Ritter Mathilde."
+    ],
+    "Poste": [
+      "Pilet Adrien"
+    ],
+    "Agriculteurs": [
+      "Berthod Marcel",
+      "Berthod Jules",
+      "Bertholet Alfred",
+      "Chapalay Henri père",
+      "Chapalay Henri fils",
+      "Favre Robert",
+      "Favre-Lempen hoirs",
+      "Favre Emile",
+      "Favre Victor",
+      "Gétaz-Zulauf Ls",
+      "Henchoz-Mottier Hri.",
+      "Henchoz Isaac.",
+      "Isoz-Henchoz Henri",
+      "Lenoir Henri",
+      "Lempen Robert",
+      "Lempen Ernest",
+      "Mottier Henri.",
+      "Mottier-Gétaz Isaac",
+      "Mottier-Roch Odoni",
+      "Mottier Victor",
+      "Mottier Oscar",
+      "Pilet Alfred",
+      "Pilet Jules",
+      "Raynaud Emile",
+      "Rossier Ami",
+      "Rosat-Zulauf Elie."
+    ],
+    "Auto-réparations": [
+      "Morier Sam."
+    ],
+    "Appareilleur": [
+      "Pilet John."
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite"
+    ],
+    "Bestiaux (march. de)": [
+      "Chapalay Hri, fils",
+      "Pilet-Bertholet Alfr."
+    ],
+    "Blanchisseuse": [
+      "Roch Rosalie"
+    ],
+    "Bois (march. de)": [
+      "Henchoz-Roch Aimé.",
+      "Isoz-Mottier Louis."
+    ],
+    "Boisseliers-tonneliers": [
+      "Mottier David",
+      "Desplands Aloïs."
+    ],
+    "Boulanger": [
+      "Chapalay Jules."
+    ],
+    "Cafés": [
+      "Henchoz Emma"
+    ],
+    "Charpentier": [
+      "Isoz Louis"
+    ],
+    "Charron et Cercueils": [
+      "Bornet Ami."
+    ],
+    "Confections et tissus": [
+      "Henchoz-Clavel, Vve.",
+      "Oulevay, Vve."
+    ],
+    "Cordonnier et Chaussures": [
+      "Pilet Ami."
+    ],
+    "Cuirs et peaux": [
+      "Lenoir Albert."
+    ],
+    "Entrepreneur": [
+      "Isoz-Mottier Ls."
+    ],
+    "Epiceries": [
+      "Chapalay-Henchoz Jules",
+      "Henchoz-Clavel, Vve."
+    ],
+    "Fers et quincaillerie": [
+      "Henchoz-Clavel, Vve.",
+      "Morier Sam."
+    ],
+    "Grains et farines": [
+      "Chapalay-Henchoz Jules."
+    ],
+    "Hôtels et pensions": [
+      "Hôtel de la Croix d'Or",
+      "Clairval",
+      "Pension de la Forêt"
+    ],
+    "Laiterie": [
+      "Société de laiterie."
+    ],
+    "Maréchal, machines agricoles": [
+      "Bornet Ami",
+      "Morier Samuel."
+    ],
+    "Menuisier": [
+      "Clavel Gustave."
+    ],
+    "Mercerie-chapellerie": [
+      "Oulevay, Vve. Sylvain."
+    ],
+    "Pension": [
+      "Rapaz Mme."
+    ],
+    "Sable et graviers (exploit. de)": [
+      "Henchoz-Roch Aimé."
+    ],
+    "Scieurs": [
+      "Henchoz-Roch Aimé.",
+      "Isoz Louis"
+    ],
+    "Serrurier-mécanicien": [
+      "Pilet John"
+    ],
+    "Sociétés": [
+      "Chœur des Montagnards.",
+      "Ski-Club des Monts Chevreuils.",
+      "Sté de laiterie."
+    ],
+    "Tanneur": [
+      "Lenoir Albert."
+    ],
+    "Vélos": [
+      "Morier Samuel."
+    ]
+  },
+  "L'ETIVAZ": {
+    "Commission scolaire": [
+      "Combremont Robert"
+    ],
+    "Gardes de triage": [
+      "Henchoz Josué.",
+      "Mottier Emile."
+    ],
+    "Gendarmerie (Poste de)": [
+      "Pilet"
+    ],
+    "Inspecteur du bétail": [
+      "Mollien Ernest",
+      "Chabloz Marcel."
+    ],
+    "Instituteur": [
+      "Laurent Georges."
+    ],
+    "Pasteur": [
+      "Vuille Olivier."
+    ],
+    "Poste et télégraphe": [
+      "Mollien Auguste"
+    ],
+    "Téléphone": [
+      "Café du Chamois",
+      "Combremont Max",
+      "Lenoir Joël"
+    ],
+    "Agriculteurs": [
+      "Chabloz Samuel",
+      "Chabloz David",
+      "Chabloz Eugène",
+      "Chabloz Marcel",
+      "Chapalay Louis",
+      "Combremont Max",
+      "Henchoz Paul",
+      "Henchoz Emile",
+      "Henchoz Josué",
+      "Henchoz-Marmiliod",
+      "Isoz David, père et fils",
+      "Linder Samuel",
+      "Lenoir David",
+      "Lenoir Joël, père et fils",
+      "Mottier Jean-David",
+      "Mottier Joël",
+      "Mottier Samuel",
+      "Mottier Abram",
+      "Pilet Louis",
+      "Pilet Gustave et Maurice",
+      "Zu'auff, hoirie d'Emile."
+    ],
+    "Apiculteurs": [
+      "Chabloz Samuel",
+      "Henchoz-Roch Clément.",
+      "Mollien Auguste."
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite"
+    ],
+    "Auto-location": [
+      "Mollien Ernest."
+    ],
+    "Bazars": [
+      "Chabloz Marcel",
+      "Mollien Lucy."
+    ],
+    "Blanchisseuses": [
+      "de Kaenel Marie",
+      "Pilet-Isoz Marie."
+    ],
+    "Bois (comm. de)": [
+      "Henchoz Charles",
+      "Henchoz, Vve et fils."
+    ],
+    "Boisselier": [
+      "Chabloz S."
+    ],
+    "Boulangers": [
+      "Mollien Lucy."
+    ],
+    "Boucher-charcutier": [
+      "Henchoz Paul."
+    ],
+    "Cafés": [
+      "Henchoz-Pilet David",
+      "Mollien Ernest"
+    ],
+    "Charpentier": [
+      "Divorne Louis."
+    ],
+    "Cordonnier": [
+      "Lenoir Joël fils."
+    ],
+    "Couturière": [
+      "Chabloz Marie."
+    ],
+    "Epiceries-merceries-Bazars": [
+      "Chabloz Marcel.",
+      "Mollien Lucy."
+    ],
+    "Fromages": [
+      "Soc. coopératives des caves à fromages",
+      "Société de laiterie."
+    ],
+    "Hôtels": [
+      "Hôtels des Bains",
+      "Hôtel du Chamois"
+    ]
+  }
+}

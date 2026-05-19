@@ -1,0 +1,270 @@
+{
+  "RUEYRES": {
+    "Café": [
+      "Cavin, dame"
+    ],
+    "Charpentier": [
+      "Zahnd Arthur"
+    ],
+    "Charron": [
+      "Recordon Julien"
+    ],
+    "Commission scolaire": [
+      "Jordan Aimé",
+      "Wagnière Aloïs",
+      "David Constant"
+    ],
+    "Couturière": [
+      "Jordan Alice"
+    ],
+    "Epicerie": [
+      "Thomas Emma, veuve"
+    ],
+    "Inspecteur du bétail": [
+      "Jordan Aimé"
+    ],
+    "Instituteurs": [
+      "Bataillard Louis",
+      "Ruedi Lina"
+    ],
+    "Maréchal": [
+      "Mottaz Jules"
+    ],
+    "Menuisier": [
+      "Viret Emile"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Téléphone": [
+      "Cavin, dame"
+    ]
+  },
+  "St-BARTHÉLEMY": {
+    "Autorités communales": [
+      "Favre Xavier",
+      "Limat Marcel"
+    ],
+    "Syndic": [
+      "Favre Alexandre"
+    ],
+    "Municipaux": [
+      "Favre Victor",
+      "Favre Louis",
+      "Favre Joseph",
+      "Favre Paul",
+      "Limat Xavier",
+      "Favre Aimé",
+      "Basset Vincent",
+      "Favre François"
+    ],
+    "Agriculteurs": [
+      "Ecoffey François",
+      "Favre-Jaquet Victor",
+      "Favre-Pahud Louis",
+      "Panchaud Auguste"
+    ],
+    "Bestiaux (march. de)": [
+      "Favre Louis"
+    ],
+    "Charron": [
+      "Limat Marcel, fils"
+    ],
+    "Commission scolaire catholique": [
+      "Mathey Ignace",
+      "Favre Joseph",
+      "Limat Marcel"
+    ],
+    "Commission scolaire protestante": [
+      "Müller",
+      "Basset Vincent",
+      "Crottaz Alfred"
+    ],
+    "Cordonnier": [
+      "Martin Henri"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Favre Louis",
+      "Juriens Alfred"
+    ],
+    "Facteur": [
+      "Juriens Alfred"
+    ],
+    "Inspecteur du bétail": [
+      "Favre Xavier"
+    ],
+    "Instituteurs": [
+      "Favre Henri",
+      "Basset Henriette"
+    ],
+    "Maréchal": [
+      "Favre Louis"
+    ],
+    "Meunier": [
+      "Favre Alph."
+    ],
+    "Prêtre": [
+      "Mathey Ignace"
+    ],
+    "Scierie": [
+      "Favre Alph."
+    ],
+    "Société": [
+      "De fromagerie de St-Barthélémy-Bretigny"
+    ],
+    "Tailleuses": [
+      "Basset Magdeleine",
+      "Favre Maria"
+    ],
+    "Téléphoniste": [
+      "Favre Joseph"
+    ],
+    "Tisserand": [
+      "Meyer Auguste"
+    ]
+  },
+  "SUGNENS": {
+    "Autorités communales": [
+      "Vauthey Alexis",
+      "Brochon Paul"
+    ],
+    "Syndic": [
+      "Dutoit Ulysse"
+    ],
+    "Municipaux": [
+      "Vauthey Constant",
+      "Brochon William",
+      "Vauthey Louis",
+      "Jaccoud Héli",
+      "Meige Alfred",
+      "Meige Edouard",
+      "Corbaz Héli",
+      "Jaccoud Elie"
+    ],
+    "Agriculteurs": [
+      "Brochon Aimé",
+      "Brochon Charles",
+      "Brochon William",
+      "Buffat François",
+      "Dezarzens Louis",
+      "Dutoit Ulysse",
+      "Jaccoud Louis",
+      "Jaccoud Adrien",
+      "Jaccoud Alfred",
+      "Jaccoud Héli",
+      "Jaccoud Alfred",
+      "Meige Edouard",
+      "Meige Héli",
+      "Meige Aimé",
+      "Vauthey Adèle",
+      "Vauthey Alexis"
+    ],
+    "Cafés": [
+      "Meige Alfred",
+      "Vauthey Ls."
+    ],
+    "Charpentier": [
+      "Hertig Henri"
+    ],
+    "Charron": [
+      "Vauthey Edouard"
+    ],
+    "Chef de gare": [
+      "Vauthey Louis"
+    ],
+    "Commission scolaire": [
+      "Jaccoud Louis",
+      "Milliet",
+      "Dommartin",
+      "Vauthey Alexis",
+      "Brochon William",
+      "Jaccoud Héli"
+    ],
+    "Cordonnier": [
+      "Jaccoud Eugène"
+    ],
+    "Dépositaire postal": [
+      "Vauthey Alexis"
+    ],
+    "Epicerie, mercerie": [
+      "Vauthey Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Brochon Charles"
+    ],
+    "Instituteurs": [
+      "Duvoisin Charles",
+      "Vauthey Aline"
+    ],
+    "Maréchal": [
+      "Meige Eugène"
+    ],
+    "Repasseuse": [
+      "Jaccoud Rosa, dame"
+    ],
+    "Sociétés": [
+      "De laiterie",
+      "Syndicat agricole"
+    ],
+    "Tailleuse": [
+      "Jaccoud Marie"
+    ],
+    "Téléphoniste": [
+      "Vauthey Louis"
+    ]
+  },
+  "VILLARS-LE-TERROIR": {
+    "Autorités communales": [
+      "Pittet Camille",
+      "Dutoit Camille"
+    ],
+    "Syndic": [
+      "Mettraux Alphonse"
+    ],
+    "Municipaux": [
+      "Pittet Emile",
+      "Besson Héli",
+      "Juriens Casimir",
+      "Gardaz François",
+      "Pittet Casimir",
+      "Pittet Félix",
+      "Pittet Henri",
+      "Pittet Marcel"
+    ],
+    "Agriculteurs": [
+      "Berney frères",
+      "Besson frères",
+      "Dupuis Alfred",
+      "Pittet Auguste",
+      "Pittet Bernard",
+      "Pittet Casimir",
+      "Pittet Félix",
+      "Rochat frères"
+    ],
+    "Boulanger": [
+      "Pittet Emile"
+    ],
+    "Cafés": [
+      "Gardaz Elie",
+      "Pittet Charles"
+    ],
+    "Charpentiers": [
+      "Mettraux Auguste",
+      "Pittet Marc"
+    ],
+    "Charron": [
+      "Mettraux Alfred"
+    ],
+    "Cordonniers": [
+      "Dutoit Félix",
+      "Pittet Auguste"
+    ],
+    "Commission scolaire": [
+      "Longchamp Emmanuel",
+      "Pittet Marc",
+      "Pittet Félix",
+      "Pittet Joseph",
+      "Pittet Camille"
+    ]
+  }
+}

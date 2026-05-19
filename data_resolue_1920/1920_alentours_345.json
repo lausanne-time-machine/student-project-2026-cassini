@@ -1,0 +1,241 @@
+{
+  "GRANDEVENT": {
+    "Autorités communales": [
+      "Giroud Jules",
+      "Jeanmonod Louis",
+      "Ray Oscar",
+      "Tissot Ernest",
+      "Gerbex Gustave",
+      "Bornoz Henri",
+      "Tissot Oscar",
+      "Riem Alfred",
+      "Giroud Jules"
+    ],
+    "Agriculteurs": [
+      "Boulaz Alexis",
+      "Dannelet John",
+      "Gerbex Gustave",
+      "Giroud Jules",
+      "Haller Marcel",
+      "Jeanmonod Louis",
+      "Maire Louis",
+      "Nussbaum Alfred",
+      "Nussbaum Jn",
+      "Ray Jules",
+      "Ray Oscar",
+      "Roulet Henri",
+      "Tissot Ernest",
+      "Tissot Adèle"
+    ],
+    "Amodiateur": [
+      "Simon John"
+    ],
+    "Auberge communale": [
+      "Gerbex François"
+    ],
+    "Bûcherons": [
+      "Bonnefoy Henri",
+      "Bornoz Georges",
+      "Gerbex Jules",
+      "Ray Robert"
+    ],
+    "Pierriste": [
+      "Baudin Alfred"
+    ],
+    "Commission scolaire": [
+      "Giroud Jules",
+      "Tissot Ernest",
+      "Jeanmonod Louis"
+    ],
+    "Epicerie, mercerie": [
+      "Haller Elise",
+      "Riem Eugénie"
+    ],
+    "Inspecteur du bétail": [
+      "Gerbex Gust."
+    ],
+    "Institutrice": [
+      "Jaccard Marthe, Mlle."
+    ],
+    "Laitier": [
+      "Duvoisin Robert"
+    ],
+    "Menuisiers-Charpentiers": [
+      "Bornoz, Henri",
+      "Bornoz Louis"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Téléphone": [
+      "Auberge communale"
+    ]
+  },
+  "MAUBORGET": {
+    "Autorités communales": [
+      "Simon Jules",
+      "Perret Marcel",
+      "Guillaume Alphonse",
+      "Perret Edouard",
+      "Perret Oscar",
+      "Duvoisin Ernest",
+      "Duvoisin Robert",
+      "Petitpierre Arthur",
+      "Duvoisin Louis"
+    ],
+    "Agriculteurs": [
+      "Guillaume Alph.",
+      "Petitpierre Alexis",
+      "Petitpierre Edmond",
+      "Petitpierre Arthur",
+      "Perret Edouard",
+      "Perret Oscar",
+      "Roulet Alexis",
+      "Simon Charles",
+      "Simon John"
+    ],
+    "Amodiateur": [
+      "Blanc Ulysse"
+    ],
+    "Bois": [
+      "Simon Ami"
+    ],
+    "Boisseliers": [
+      "Duvoisin Louis",
+      "Guillaume Alphonse",
+      "Perret Oscar",
+      "Petitpierre Arthur"
+    ],
+    "Boulangerie": [
+      "Guillaume Alphonse"
+    ],
+    "Buraliste postal": [
+      "Perret Edouard"
+    ],
+    "Cafés": [
+      "Gottraux, Vve de Jules",
+      "Simon John"
+    ],
+    "Commission scolaire": [
+      "Perret Ed.",
+      "Petitpierre Arthur"
+    ],
+    "Epicerie": [
+      "Guillaume Alph."
+    ],
+    "Hôtel-Pension": [
+      "Girardet Max",
+      "Hôtel Bellevue"
+    ],
+    "Inspecteur du bétail": [
+      "Petitpierre Alexis"
+    ],
+    "Institutrice": [
+      "Duvoisin Jeanne"
+    ],
+    "Laitiers": [
+      "Duvoisin Robert",
+      "Société de laiterie"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Téléphone": [
+      "Dépôt des postes"
+    ]
+  },
+  "MUTRUX": {
+    "Autorités communales": [
+      "Banderet Maurice",
+      "Banderet Gges.",
+      "Fardel Alphonse",
+      "Banderet Benjamin",
+      "Fardel Charles",
+      "Neuenschwander Alphonse",
+      "Fardel Henri",
+      "Neuenschwander Henri",
+      "Duc Jean",
+      "Banderet Georges"
+    ],
+    "Agriculteurs": [
+      "Banderet Benjamin",
+      "Banderet Albert",
+      "Banderet Jules",
+      "Fardel Adèle",
+      "Fardel Alphonse",
+      "Fardel Arnold",
+      "Fardel Aug.",
+      "Fardel frères",
+      "Fardel Gustave",
+      "Gaille Gustave",
+      "Jeanmonod Fritz",
+      "Junod Henri",
+      "Neuenschwander Alphonse",
+      "Raymondaz Louis",
+      "Roulin Louis"
+    ],
+    "Amodiateur": [
+      "Fardel Arnold"
+    ],
+    "Aubergiste": [
+      "Fardel Jules"
+    ],
+    "Blanchisseuse": [
+      "Banderet Georgina"
+    ],
+    "Bois (march. de)": [
+      "Banderet Benjamin",
+      "Banderet Henri",
+      "Gaille Gve"
+    ],
+    "Bûcherons": [
+      "Jeanmonod Fritz",
+      "Jeanmonod Fritz fils",
+      "Jeanmonod Auguste",
+      "Lombardot Augustin",
+      "Neuenschwander Henri et Alphonse",
+      "Roulin Louis"
+    ],
+    "Charretiers": [
+      "Fardel, Vve & fils"
+    ],
+    "Commission scolaire": [
+      "Schutz M.",
+      "Banderet B.",
+      "Fardel Arnold"
+    ],
+    "Epicerie, mercerie": [
+      "Fardel Jules",
+      "Roulin Fanny"
+    ],
+    "Garde-forestier": [
+      "Thibaud Ernest"
+    ],
+    "Inspecteur du bétail": [
+      "Gaille Gust."
+    ],
+    "Instituteurs": [
+      "Duc Jean",
+      "Fardel Albertine"
+    ],
+    "Laitier": [
+      "Delay Léon"
+    ],
+    "Poste": [
+      "Allisson Bertha"
+    ],
+    "Rentiers": [
+      "Fardel Auguste",
+      "Humbert, Mlle."
+    ],
+    "Société": [
+      "Section de la Croix-Bleue"
+    ],
+    "Tailleuse": [
+      "Neuenschwander Hélène"
+    ],
+    "Téléphone": [
+      "Bureau des postes"
+    ]
+  }
+}

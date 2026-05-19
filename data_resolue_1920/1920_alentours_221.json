@@ -1,0 +1,222 @@
+{
+  "BLONAY": {
+    "Poste": [
+      "Pilet Emile"
+    ],
+    "Rentiers": [
+      "de Lacroix, Vve. T.",
+      "de Blonay Sigismond",
+      "Rilliet, Vve. T.",
+      "Russak R. Jacques"
+    ],
+    "Représentant": [
+      "Margairaz Henri"
+    ],
+    "Sociétés": [
+      "Laiterie de Chaussey. R.",
+      "Laiterie des Chevalleyres. R.",
+      "Laiterie de Cojonnex. R.",
+      "Laiterie de Pierraz. R.",
+      "Laiterie de Villard R."
+    ],
+    "Télégraphiste": [
+      "Caillet-Bergoz Lse."
+    ],
+    "Téléphonistes": [
+      "Henchoz-Lenoir Lse",
+      "Pilet Emile"
+    ],
+    "Tonnelier": [
+      "Müller Emile"
+    ]
+  },
+  "CHARDONNE": {
+    "Autorités communales": [
+      "Forestier Ls",
+      "Dutoit Samuel",
+      "Ducret Eugène",
+      "Ducret Henri",
+      "Ducret Louis",
+      "Mouron Ami",
+      "Forestier Charles",
+      "de Muralt Bernard",
+      "Forestier-Morel Jules",
+      "Cand Albert",
+      "Neyroud Henri"
+    ],
+    "Blanchisseries": [
+      "Durussel Marguerite",
+      "Holenstein H.",
+      "Truchard Ant."
+    ],
+    "Bazars": [
+      "Seiler Pierre",
+      "Wolf Ph."
+    ],
+    "Boulangers": [
+      "Bidaud Joane",
+      "Ducros Aug.",
+      "Parisod Emile"
+    ],
+    "Cafetiers": [
+      "Brunet Henri",
+      "Ducret Ferdinand",
+      "Duret Hri",
+      "Mouron Ami"
+    ],
+    "Charron": [
+      "Bronty Constant"
+    ],
+    "Clinique": [
+      "Etablissement médical de Mon-Repos"
+    ],
+    "Commission scolaire": [
+      "Brossy Charles",
+      "Ducret Eugène",
+      "Forestier Louis",
+      "de Muralt Bernard",
+      "Ducret Jean",
+      "Mouron Ch.",
+      "Neyroud André"
+    ],
+    "Cordonniers": [
+      "Bessone J.",
+      "Hottiger Benjamin"
+    ],
+    "Couturières": [
+      "Dénéréaz-Barbey Marguerite",
+      "Mouron-Chappuis Elise",
+      "Revmond Julia"
+    ],
+    "Epicerie. mercerie": [
+      "Bidaud Joane",
+      "Ducret Robert",
+      "Société La Ménagère",
+      "Parisod Emile"
+    ],
+    "Hôtels et pensions": [
+      "Bellevue",
+      "Belvédère",
+      "Gr. Hôtel du Pèlerin",
+      "Hôtel et pension des Alpes",
+      "Dunkel Louis",
+      "Dutoit. hoirs.",
+      "Bovey Marie"
+    ],
+    "Inspecteur du bétail": [
+      "Ducret Emm.",
+      "Genton François"
+    ],
+    "Instituteurs": [
+      "Bonzon Félix",
+      "Cand Albert",
+      "Lugeon Charles",
+      "Bettens Julie",
+      "Favrat Jeanne"
+    ],
+    "Laitier": [
+      "Dénéréaz Adrien",
+      "Décoppet"
+    ],
+    "Maçons": [
+      "Cardis Dominique",
+      "Pilet Edouard",
+      "Spozio Jean"
+    ],
+    "Maréchal": [
+      "Huber Frédéric"
+    ],
+    "Menuisier": [
+      "Rouiller Joseph"
+    ],
+    "Pasteur": [
+      "Brossy Charles"
+    ],
+    "Pépiniériste": [
+      "Neyroud André"
+    ],
+    "Sociétés": [
+      "Laiterie de Pauilly",
+      "Laiterie de Chardonne. R.",
+      "Syndicat agricole et viticole. R.",
+      "Fondation Emile Robin. R."
+    ],
+    "Vins": [
+      "Ducret-Mouron Eugène",
+      "Mouron Henri. R.",
+      "Neyroud, hoirs d'Ed.",
+      "Neyroud Henri",
+      "Neyroud Louis"
+    ],
+    "Vignerons": [
+      "Chappuis Constant",
+      "Dentan Henri",
+      "Forestier Jules-Henri",
+      "Michaud Emile",
+      "Neyroud-Mouron",
+      "Tavel Alfred"
+    ],
+    "Divers": [
+      "De Muralt B."
+    ]
+  },
+  "CORSEAUX": {
+    "Autorités communales": [
+      "Mayor-Delapraz Jules",
+      "Brunet Louis",
+      "Volet Gustave",
+      "Volet Jules",
+      "Chappuis Jules",
+      "Schneeberger Louis",
+      "Brunet Charles",
+      "Brunet Paul",
+      "Volet Jules"
+    ],
+    "Agriculteurs": [
+      "Barbey Edouard",
+      "Chappuis Jules",
+      "Cornu Félix-Edouard",
+      "Schneeberger Louis",
+      "Volet Alfred"
+    ],
+    "Assesseur": [
+      "Brunet Charles"
+    ],
+    "Blanchisseuse": [
+      "Gasser"
+    ],
+    "Cafetier": [
+      "Christen Elisabeth"
+    ],
+    "Chimiste": [
+      "Cornu Félix"
+    ],
+    "Commission scolaire": [
+      "Bornand Paul",
+      "Pache Emile"
+    ],
+    "Ecole ménagère": [
+      "Gavillet-Bettex"
+    ],
+    "Epicerie": [
+      "Grand Aloïs",
+      "Schütz Ulrich"
+    ],
+    "Gypsier": [
+      "Boulenaz Jules"
+    ],
+    "Horticulteurs": [
+      "Arragon Samuel",
+      "Walter Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Visinand-Mouron Jules"
+    ],
+    "Instituteurs": [
+      "Amaudruz Marc",
+      "Nicod Rose",
+      "Volet Marie",
+      "Monachon Elise"
+    ]
+  }
+}

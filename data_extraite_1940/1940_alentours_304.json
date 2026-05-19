@@ -1,0 +1,306 @@
+{
+  "VILLETTE": {
+    "Sociétés": [
+      "Sté de fromagerie Espérance",
+      "Sté de jeunesse",
+      "Choeur mixte"
+    ],
+    "Vignerons": [
+      "Béboux-Gilliéron, Augustus",
+      "Bron-Noverraz François",
+      "Détraz-Rod Ernest",
+      "Parisod-Brossy Berthe, Vve",
+      "Parisod-Oguay Charles"
+    ],
+    "Divers": [
+      "Bénédict Gaston",
+      "Bron-Noverraz F.",
+      "Dobler G.",
+      "Fayet Ch.",
+      "Giroud Henri",
+      "Regamey-Borel"
+    ]
+  },
+  "ARAN": {
+    "Instituteurs": [
+      "Jaques Gustave",
+      "Rawyler Simone"
+    ],
+    "Arboriculteur patenté": [
+      "Giroud-Tauxe Samuel"
+    ],
+    "Boulangerie-épicerie": [
+      "Payot-Favre André"
+    ],
+    "Café": [
+      "Heimann Emma"
+    ],
+    "Commerce de vins": [
+      "Desfayes-Bovard Vincent",
+      "Piccard-Michoud"
+    ],
+    "Pépiniéristes": [
+      "Cardinaux-Ponnaz Vincent",
+      "Giroud-Tauxe Samuel"
+    ],
+    "Vignerons": [
+      "Brossy-Décastel Jules",
+      "Burnier Oscar",
+      "Cardinaux-Ponnaz Vincent",
+      "Dance-Duboux Constant",
+      "Desfayes-Bovard Vincent",
+      "Desfayes-Duc R.",
+      "Giroud-Tauxe Samuel",
+      "Joly-Lin Aimé",
+      "Parisod-Chappuis Ernest",
+      "Piccard-Michoud A. T.",
+      "Piccard-Marguerat Edm. T.",
+      "Piccard-Décombaz Emile",
+      "Riccard-Lin Louis",
+      "Testuz Henri"
+    ]
+  },
+  "MONTS DE VILLETTE": {
+    "Inspecteur du bétail": [
+      "Cuénoud Robert"
+    ],
+    "Agriculteurs": [
+      "Cuénoud-Wenger, Victor",
+      "Cuénoud Robert",
+      "Hauert Ch.",
+      "Lavanchy-Lavanchy",
+      "Noverraz-Ramseyer Henri",
+      "Porta-Perriaz Benjamin",
+      "Porta-Noverraz Louis",
+      "Wenger Charles"
+    ],
+    "Apiculteur": [
+      "Noverraz-Ramseyer Henri"
+    ],
+    "Boucher": [
+      "Cuénoud-Wenger, Victor"
+    ],
+    "Charron": [
+      "Cuénoud-Cornut Eugène"
+    ],
+    "Epicerie-mercerie": [
+      "Porta-Desfayes Rosa"
+    ],
+    "Laiterie": [
+      "Société du Pré-Vert"
+    ],
+    "Menuisier": [
+      "Bastian Alfred"
+    ]
+  },
+  "VINZEL": {
+    "Syndic": [
+      "Keuzen Edouard"
+    ],
+    "Secrétaire": [
+      "Rossier Alexis"
+    ],
+    "Boursier": [
+      "Treyvaud"
+    ],
+    "Huissier": [
+      "Marguerat Ami"
+    ],
+    "Municipaux": [
+      "Cherpillod Ernest",
+      "Dupraz Ernest"
+    ],
+    "Assesseur": [
+      "Rosset Julien"
+    ],
+    "Commission scolaire": [
+      "Cordey Alice",
+      "Rossier Alexis"
+    ],
+    "Inspecteur du bétail": [
+      "Dupraz Ed."
+    ],
+    "Instituteur": [
+      "Durgnat Emile"
+    ],
+    "Pasteur": [
+      "Métraux Paul"
+    ],
+    "Police (agent de)": [
+      "Marguerat Ami"
+    ],
+    "Poste et télégraphe": [
+      "Magnin-Rossier Juliette"
+    ],
+    "Agriculteurs": [
+      "André Louis, fils",
+      "Cherpillod Ernest",
+      "Dupraz Ernest",
+      "Métraux Henri",
+      "Duvaud Henri",
+      "Humbert Henri",
+      "Rosset Julien",
+      "Rossier Alexis",
+      "Suter Emile"
+    ],
+    "Briqueterie-tuilerie": [
+      "Keusen Ed."
+    ],
+    "Café-restaurant": [
+      "Straub Edouard fils"
+    ],
+    "Couturière": [
+      "Magnin Juliette, Mme"
+    ],
+    "Epicerie-mercerie": [
+      "Rossier J."
+    ],
+    "Jardinier": [
+      "Tschanz Fritz"
+    ],
+    "Menuisier": [
+      "Cordey François fils"
+    ],
+    "Tonnelier": [
+      "Straub Hans"
+    ],
+    "Vignes américaines": [
+      "Rosset Julien",
+      "Soc. immobilière du Château"
+    ],
+    "Vignerons": [
+      "André Louis",
+      "Billard Ed.",
+      "Bovy Lucien",
+      "Debonneville Emile",
+      "Dupraz Edouard",
+      "Soc. immobilière du Château"
+    ],
+    "Vins": [
+      "Straub Edouard fils"
+    ],
+    "Divers": [
+      "de Reding Franz, Mme",
+      "Société immobilière Château de Vinzel"
+    ]
+  },
+  "VUARRENS": {
+    "Députés du cercle": [
+      "Piot John",
+      "Thierry Paul"
+    ],
+    "Syndic": [
+      "Buffat Emile"
+    ],
+    "Secrétaire": [
+      "Magnenat Albert"
+    ],
+    "Boursier": [
+      "Buffat Héli"
+    ],
+    "Huissier": [
+      "Tardy Aimé",
+      "Perret Marcel"
+    ],
+    "Municipaux": [
+      "Barbey Robert",
+      "Besson Alfred",
+      "Bovay Louis",
+      "Jaccaud Louis",
+      "Narbel Héli",
+      "Piot Alfred"
+    ],
+    "Chef de section": [
+      "Perret Denis"
+    ],
+    "Commandant du feu": [
+      "Despland Js."
+    ],
+    "Commission scolaire": [
+      "Favez Lucien"
+    ],
+    "Contrôleur du lait": [
+      "Zahnd Robert"
+    ],
+    "Députés": [
+      "Piot John",
+      "Thierry Paul"
+    ],
+    "Inspecteur du bétail": [
+      "Brot Fritz"
+    ],
+    "Inspecteur des viandes": [
+      "Brot Fritz"
+    ],
+    "Instituteurs": [
+      "Bianc Louis",
+      "Magnenat-Wölfli Marthe"
+    ],
+    "Justice de paix": [
+      "Ducret Charles",
+      "Wagnière Gustave"
+    ],
+    "Assesseurs": [
+      "Besson Louis",
+      "Brochon Paul",
+      "Jau-nin Héli",
+      "Mercier Emile"
+    ],
+    "Officier d'état civil": [
+      "Buffat Gustave"
+    ],
+    "Pasteur": [
+      "Narbel Philippe"
+    ],
+    "Poste et télégraphe": [
+      "Auberson Marcel"
+    ],
+    "Agriculteurs": [
+      "Auberson André",
+      "Barbey Robert",
+      "Besson Alfred",
+      "Brot Emile",
+      "Brot Henri",
+      "Brot Jules-Ernest",
+      "Brot Charles",
+      "Buffat Alfred",
+      "Buffat Alphonse",
+      "Buffat Emile",
+      "Buffat Héli",
+      "Buffat André",
+      "Buffat John-Henri",
+      "Buffat Julien",
+      "Buffat Louis",
+      "Courvoisier Constant",
+      "Courvoisier frères",
+      "Duvoisin Héli",
+      "Favez Lucien",
+      "Gasser Maurice",
+      "Gonet Héli",
+      "Jaccaud Louis",
+      "Magnenat Marcel",
+      "Menétrey Héli",
+      "Mettraux Henri",
+      "Narbel Constant",
+      "Narbel Héli",
+      "Pelet Constant",
+      "Perrin Alfred",
+      "Tardy Aimé",
+      "Tardy René",
+      "Thierry Alfred",
+      "Thierry Auguste",
+      "Thierry Eugène",
+      "Thuillard Aug.",
+      "Wulliamoz frères"
+    ],
+    "Apiculteurs": [
+      "Brot Charles",
+      "Brot Fritz",
+      "Buffat Alphonse"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Blanc L."
+    ]
+  }
+}

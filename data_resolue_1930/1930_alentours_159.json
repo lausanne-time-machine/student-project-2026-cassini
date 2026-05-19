@@ -1,0 +1,252 @@
+{
+  "ROMAINMÔTIER": {
+    "Agriculteurs": [
+      "Besson Aloïs",
+      "Besson Jules",
+      "Bonard Ls. T.",
+      "Boulaz Paul",
+      "Perreaud Emile, père et fils",
+      "Perreaud Gustave",
+      "Cuenez Louis",
+      "Reignier Louis"
+    ],
+    "Amodiateur": [
+      "Bonard Louis"
+    ],
+    "Apiculteurs": [
+      "Abrezol Louis",
+      "Bonard Louis",
+      "Boulaz César",
+      "Genier Valéria",
+      "Poschung Robert",
+      "Reymond Emile"
+    ],
+    "Asile des petites familles": [
+      "Fleury Xavier"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite de Romainmôtier et Envy",
+      "Buxcel R."
+    ],
+    "Auberges et cafés": [
+      "Bonard Eugène",
+      "Boulaz Armand",
+      "Sordet Marie, Vve"
+    ],
+    "Bains": [
+      "Besson Maria"
+    ],
+    "Banques": [
+      "Caisse d'épargne cantonale vaudoise",
+      "Crédit Foncier Vaudois",
+      "Poschung Robert"
+    ],
+    "Blanchisseuses": [
+      "Kohler Louise",
+      "Mütsch Cécile"
+    ],
+    "Bois (march. de)": [
+      "Ciana Antoine",
+      "Guignard Jean & Paul"
+    ],
+    "Boulangers-pâtissiers": [
+      "Descombes Louis",
+      "Zahnd, hoirs d'Em."
+    ],
+    "Buraliste postale et centrale téléphonique": [
+      "Dufeu Alice"
+    ],
+    "Camionneurs": [
+      "Besson Aloïs",
+      "Guignard Edmond"
+    ],
+    "Cantonnier": [
+      "Glayre Rodolphe"
+    ],
+    "Chapellerie": [
+      "Poschung Bertha"
+    ],
+    "Charpentiers": [
+      "Diserens Henri",
+      "Diserens Paul"
+    ],
+    "Chaussures (march. de)": [
+      "Léonard Gustave",
+      "Poschung Bertha"
+    ],
+    "Chef de section": [
+      "Bonard Louis"
+    ],
+    "Coiffeur": [
+      "Kohler Charles"
+    ],
+    "Commission scolaire Romainmôtier et Envy": [
+      "Jaccard Henri",
+      "March Harry"
+    ],
+    "Couturière": [
+      "Meyer Léonie"
+    ],
+    "Cordonnier": [
+      "Reignier Henri"
+    ],
+    "Crèmerie": [
+      "Meyer Léonie"
+    ],
+    "Electricien": [
+      "Dufeu Jean"
+    ],
+    "Entrepreneurs": [
+      "Borgazzi Eugène et Alexandre"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Ciana Maria",
+      "Léonard Gust.",
+      "Poschung Bertha",
+      "Wehrly Rose"
+    ],
+    "Facteur postal": [
+      "Poschung Robert"
+    ],
+    "Ferblantiers": [
+      "Fiandra J.",
+      "Martinelli Pierre"
+    ],
+    "Forces de Joux": [
+      "Lindner Charles"
+    ],
+    "Garde-forestier": [
+      "Boulaz Gustave"
+    ],
+    "Garde-police": [
+      "Destraz Albert"
+    ],
+    "Gendarme": [
+      "Détraz Albert"
+    ],
+    "Gypsier-peintre": [
+      "Ciana Humbert"
+    ],
+    "Hôtel": [
+      "Boulaz Armand"
+    ],
+    "Infirmerie Contesse": [
+      "Cornu Georges",
+      "Boulaz Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Perreaud Emile, père"
+    ],
+    "Instituteurs": [
+      "Buxcel Raymond",
+      "Ruegger Marie",
+      "Schüle Sylvie"
+    ],
+    "Jardiniers": [
+      "Borgeaud François",
+      "Duperrex Adolphe"
+    ],
+    "Justice de paix": [
+      "Curtet Jules",
+      "Conod Ami",
+      "Monnier Albert",
+      "Candaux Louis-Alfred",
+      "Berthoud Hri-Sel",
+      "Pittet Francis",
+      "Reignier Abram"
+    ],
+    "Laitier-fromager": [
+      "Baudat Aimé"
+    ],
+    "Machines et outils (fab. de)": [
+      "Etablissem. Ch. Maillefer (S. A.)"
+    ],
+    "Maréchaux": [
+      "Boulaz César et Emile"
+    ],
+    "Masseur": [
+      "Monnay David"
+    ],
+    "Mécanicien (motos, vélos)": [
+      "Boulaz Emile"
+    ],
+    "Médecin": [
+      "Cornu Georges"
+    ],
+    "Modiste": [
+      "Poschung Bertha"
+    ],
+    "Musée": [
+      "March Harry",
+      "Sergy Georges",
+      "Pallen, Mme"
+    ],
+    "Notaire": [
+      "Pittet Francis"
+    ],
+    "Officier d'état-civil": [
+      "Reignier Abr."
+    ],
+    "Pasteurs": [
+      "Favre Gustave",
+      "Rambert Jean"
+    ],
+    "Pêcheur": [
+      "Burnens-Poras, Eug."
+    ],
+    "Pensions": [
+      "Boulaz Arm.",
+      "Jaccard Henri",
+      "Monnay David",
+      "Rambert M."
+    ],
+    "Pharmacien": [
+      "Pahud Ch."
+    ],
+    "Pisciculteur": [
+      "March Harry"
+    ],
+    "Rentiers": [
+      "Bonard Berthe",
+      "Bonard Marie",
+      "Buxcel Edmond",
+      "Benoit Marie",
+      "Duperrex Adolphe",
+      "Gloor Jenny",
+      "Jaccard Justine",
+      "Rochaz Math.",
+      "Stutz Paul"
+    ],
+    "Repasseuse": [
+      "Mütsch Cécile"
+    ],
+    "Sage-femme": [
+      "Bille Jeanne"
+    ],
+    "Scierie et parquets": [
+      "Guignard Jean & Paul. S. A."
+    ],
+    "Sellier-tapissier": [
+      "Bonard Ulysse"
+    ],
+    "Serrurier": [
+      "Abrezol Louis"
+    ],
+    "Sociétés": [
+      "de laiterie",
+      "du poids public de la Gare",
+      "pour le développement de Romainmôtier",
+      "de l'Abbaye « L'Etoile du Jura »",
+      "de tir « Armes de guerre »",
+      "de musique « La Lyre du Nozon »",
+      "de chant",
+      "Section de la Société de secours en cas de décès « La Fraternité »",
+      "« L'Aurore »",
+      "Sections de la Croix-Bleue et de l'Espoir",
+      "Fondation Cunier, pour l'hygiène",
+      "Fondation Abr.-Elie Rochat pour études universitaires",
+      "Fondation Eugène Rochaz pour courses scolaires",
+      "Fonds des vitraux du temple"
+    ]
+  }
+}

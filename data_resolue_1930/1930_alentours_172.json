@@ -1,0 +1,259 @@
+{
+  "CULLAYES": {
+    "Syndic": [
+      "Emery Ami"
+    ],
+    "Municipaux": [
+      "Torny Henri",
+      "Emery Henri",
+      "Cavin Emile",
+      "Cuendet Jules"
+    ],
+    "Secrétaire": [
+      "Emery Georges"
+    ],
+    "Boursier": [
+      "Pouly Aimé"
+    ],
+    "Agriculteurs": [
+      "Bezençon Albert",
+      "Bezençon André",
+      "Cavin Emile",
+      "Chollet Henri",
+      "Délessert Julia",
+      "Devaud Frédéric",
+      "Devaud Oscar",
+      "Emery Alfred",
+      "Emery Ami",
+      "Emery Eugène",
+      "Emery Gustave",
+      "Emery Henri",
+      "Glauser Emile",
+      "Jaton Louis",
+      "Pouly Aimé",
+      "Pouly Charles",
+      "Pouly Elise",
+      "Pouly Gustave",
+      "Pouly John",
+      "Pouly Jules",
+      "Pouly Victor",
+      "Torny Emile",
+      "Torny Ernest",
+      "Torny Henri"
+    ],
+    "Associations mutualistes de retraite": [
+      "Cand Charles"
+    ],
+    "Café": [
+      "Cruchon Aimé"
+    ],
+    "Charpentiers": [
+      "Devaud Edm. T.",
+      "Devaud Ele",
+      "Emery Victor de Jules",
+      "Pouly Jules"
+    ],
+    "Commission scolaire": [
+      "Emery Georges",
+      "Bezençon Albert",
+      "Vernaud Max"
+    ],
+    "Epicerie": [
+      "Cruchon Aimé"
+    ],
+    "Inspecteur du bétail": [
+      "Cavin Emile"
+    ],
+    "Instituteurs": [
+      "Cand Charles",
+      "Roulin Blanche"
+    ],
+    "Laitier": [
+      "Binggeli René"
+    ],
+    "Menuisier": [
+      "Bezençon J. T."
+    ],
+    "Meunier": [
+      "Dalgas Georges"
+    ],
+    "Poste": [
+      "Torny Emile"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "d'assurance du bétail",
+      "de tir",
+      "de chant"
+    ],
+    "Téléphoniste": [
+      "Cruchon Aimé"
+    ]
+  },
+  "ECOTEAUX": {
+    "Autorités communales": [
+      "Boudry Louis",
+      "Corboz Emile"
+    ],
+    "Syndic": [
+      "Sonnay Charles"
+    ],
+    "Municipaux": [
+      "Dovat Emile",
+      "Sonnay Jules",
+      "Cusinay Ch.",
+      "Rubattel Emile"
+    ],
+    "Secrétaire": [
+      "Favre Ulysse"
+    ],
+    "Boursier": [
+      "Corboz Emile"
+    ],
+    "Agriculteurs": [
+      "Beroud Auguste",
+      "Beroud Emile",
+      "Beroud Ch.",
+      "Beroud Henri",
+      "Beroud Jules-Samuel",
+      "Boudry Eugène",
+      "Boudry Hoirie",
+      "Boudry Louis",
+      "Cardinaux Emile",
+      "Cavin Ulysse",
+      "Charmoy Victor",
+      "Chollet Emile",
+      "Chollet Louis",
+      "Chollet Louis",
+      "Corboz Emile",
+      "Cusinay Charles",
+      "Dovat Emile",
+      "Favre Ernest",
+      "Favre Ulysse",
+      "Fonjallaz Emile",
+      "Mosimann Alb.",
+      "Pauly J.-L.",
+      "Rubattel Em.",
+      "Rubattel Frédéric. T.",
+      "Serex Louis",
+      "Sonnay Ch.",
+      "Sonnay Henri",
+      "Sonnay Jules",
+      "Stuby Alexis",
+      "Stuby Henri"
+    ],
+    "Appareilleur": [
+      "Charmoy Robert"
+    ],
+    "Assurances": [
+      "Mutualité scolaire",
+      "Leuba E."
+    ],
+    "Boisselier": [
+      "Chollet Justin"
+    ],
+    "Boulanger, épicerie": [
+      "Dovat Ls."
+    ],
+    "Commission scolaire": [
+      "Boudry Eug.",
+      "Favre Ulysse"
+    ],
+    "Cordonnier": [
+      "Eggen Charles"
+    ],
+    "Horloger": [
+      "Charmoy Robert"
+    ],
+    "Inspecteur du bétail": [
+      "Rubattel Frédéric"
+    ],
+    "Instituteurs": [
+      "Leuba Etienne",
+      "Montet Madeleine"
+    ],
+    "Laitier": [
+      "Etter Fr."
+    ],
+    "Mécanicien": [
+      "Beroud André"
+    ],
+    "Meuniers et scieurs": [
+      "Broillet Jules",
+      "Dorthe Jean"
+    ],
+    "Poste": [
+      "Beroud Alexis"
+    ],
+    "Rentière": [
+      "Beroud Julie"
+    ],
+    "Sociétés": [
+      "de laiterie",
+      "Syndicat d'élevage bovin d'Ecoteaux-Maracon",
+      "Battoir d'Ecoteaux",
+      "Union chrétienne de jeunes gens",
+      "Chœur d'hommes",
+      "Sect. Croix-Bleue"
+    ],
+    "Taxi-Garage": [
+      "Charmoy Robert"
+    ],
+    "Téléphone public": [
+      "Dovat Louis"
+    ]
+  },
+  "ESSERTES": {
+    "Autorités communales": [
+      "Destraz Jean",
+      "Destraz Alexis"
+    ],
+    "Syndic": [
+      "Destraz Oscar"
+    ],
+    "Municipaux": [
+      "Vulliemin Jules",
+      "Cavin Adrien",
+      "Bill Emile",
+      "Conne Robert"
+    ],
+    "Secrétaire": [
+      "Destraz Frank"
+    ],
+    "Boursier": [
+      "Guignet Sam."
+    ],
+    "Agriculteurs": [
+      "Cavin Adrien",
+      "Crot Emile",
+      "Décosterd Charles",
+      "Destraz Alexis",
+      "Destraz Frank",
+      "Destraz frères",
+      "Destraz Jeanne",
+      "Guignet Samuel",
+      "Jaunin Frédéric",
+      "Vulliemin Jules"
+    ],
+    "Associations mutualistes de retraite": [
+      "Guex Jules"
+    ],
+    "Aubergiste": [
+      "Jaton Laura"
+    ],
+    "Bétail (march. de)": [
+      "Hauert Jacob"
+    ],
+    "Charpentier": [
+      "Guignet Adrien"
+    ],
+    "Charron": [
+      "Bill Emile-Rodolphe"
+    ],
+    "Commission scolaire": [
+      "Destraz Jean",
+      "Destraz Alexis",
+      "Bill Emile"
+    ]
+  }
+}

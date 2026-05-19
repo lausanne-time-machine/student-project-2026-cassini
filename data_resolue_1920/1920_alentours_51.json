@@ -1,0 +1,264 @@
+{
+  "ECHICHENS": {
+    "Inspecteur du bétail": [
+      "Widmer Ls."
+    ],
+    "Instituteurs": [
+      "Ménétrey Théodore",
+      "Desponds Clémence"
+    ],
+    "Rentiers": [
+      "de Mandret Adrien",
+      "Monod Aloys",
+      "Dénéréaz Fernand"
+    ],
+    "Société": [
+      "De laiterie"
+    ]
+  },
+  "ECUBLENS": {
+    "Autorités communales": [
+      "Ducret Auguste",
+      "Masson Ami"
+    ],
+    "Syndic": [
+      "Ducret Elie"
+    ],
+    "Municipaux": [
+      "Masson Alphonse",
+      "Masson Gustave",
+      "Musy Emile",
+      "Rossier Charles",
+      "Amiguet Eugène",
+      "Martin Robert"
+    ],
+    "Office de ravitaillement": [
+      "Saugy Alf."
+    ],
+    "Auberges": [
+      "Saugy",
+      "Mont d'Or",
+      "Masson Louis",
+      "Masson Hri",
+      "Porchet Fernand"
+    ],
+    "Battoir à blé": [
+      "Masson Ulr."
+    ],
+    "Bois (march. de)": [
+      "Rouge Henri"
+    ],
+    "Boucher": [
+      "Masson Auguste"
+    ],
+    "Boulanger": [
+      "Rochat Louis"
+    ],
+    "Charron": [
+      "Masson Ch."
+    ],
+    "Charcuterie": [
+      "Masson A."
+    ],
+    "Chef de section": [
+      "Ducret François"
+    ],
+    "Commission scolaire": [
+      "Musy Emile",
+      "Masson Ami",
+      "Ducret Aug.",
+      "Saugy Alfred",
+      "Morel Charles",
+      "Jaquenoud Aloïs",
+      "Masson Louise",
+      "Masson Adèle",
+      "Bonzon Louisa"
+    ],
+    "Cordonniers": [
+      "Métraux frères"
+    ],
+    "Distillateur": [
+      "Masson Henri"
+    ],
+    "Electricien": [
+      "Bourgoz Adrien"
+    ],
+    "Engrais chimiques": [
+      "Rossier Ch."
+    ],
+    "Entrepreneurs en bâtiments": [
+      "Masson Armand"
+    ],
+    "Epicerie": [
+      "Musy Elisabeth",
+      "Gonthier Louis",
+      "Jordan Charles",
+      "Rochat Louis"
+    ],
+    "Ferblantier": [
+      "Redondi Antoine"
+    ],
+    "Fruits-primeurs": [
+      "Wyler Léopold"
+    ],
+    "Gypsier": [
+      "Masson Ami"
+    ],
+    "Inspecteur du bétail": [
+      "Musy Emile"
+    ],
+    "Instituteurs": [
+      "Amiguet Eugène",
+      "Cuanillon Estelle",
+      "Martin Robert",
+      "Panchaud Nelly",
+      "Prévost Sarah"
+    ],
+    "Jardinier": [
+      "Masson Alois"
+    ],
+    "Justice de paix": [
+      "Martin Fr.",
+      "Musy Ele",
+      "Rossier Théophile",
+      "Gysler Louis",
+      "Barraud Alexandre",
+      "Rey Louis"
+    ],
+    "Maréchaux": [
+      "Delorme Jean",
+      "Desponds Louis",
+      "Ménétrey Adrien",
+      "Ruchat Fritz"
+    ],
+    "Officier d'état-civil": [
+      "Ducret Franç."
+    ],
+    "Pasteurs": [
+      "Bonnard Auguste",
+      "Gaillard Charles"
+    ],
+    "Pensions": [
+      "Bæchler Ida",
+      "Masson Louise",
+      "Morel Ch.",
+      "Valet Louisa"
+    ],
+    "Poste": [
+      "Jaquenoud A."
+    ],
+    "Sages-femmes": [
+      "Colelough Marie-Lse",
+      "Musy Louise",
+      "Musy Eugénie"
+    ],
+    "Sellier": [
+      "Martin"
+    ],
+    "Sociétés": [
+      "De laiterie du Pontet et Renges",
+      "Bibliothèque",
+      "Assurance du bétail",
+      "Tir",
+      "Patriotes d'Ecublens",
+      "Chant",
+      "Syndicat agric.",
+      "De gymnastique",
+      "Union chrétienne",
+      "Chœur d'hommes"
+    ],
+    "Tailleur": [
+      "Grand Pierre-S."
+    ],
+    "Tailleuses": [
+      "Grand Aline",
+      "Ménétrey Blanche",
+      "Masson Nadia"
+    ],
+    "Téléphone": [
+      "Porchet Fernand"
+    ],
+    "Divers": [
+      "Bonzon Ad.",
+      "Bonzon Louis",
+      "Matthey Louis"
+    ]
+  },
+  "ETOY": {
+    "Autorités communales": [
+      "Favre Roger",
+      "Teuscher John"
+    ],
+    "Syndic": [
+      "Buchet Alexandre"
+    ],
+    "Municipaux": [
+      "Giriens Henri",
+      "Bohren Henri",
+      "Berger Marius",
+      "Giriens Gustave",
+      "Richard A.",
+      "Buclin Aug."
+    ],
+    "Agriculteurs": [
+      "Berger Jules",
+      "Bohren frères",
+      "Buchet Alex.",
+      "Buchet Eug.",
+      "Buchet Jules",
+      "Buchet Julien",
+      "Buchet Henri",
+      "Buclin Auguste",
+      "Corthay Alexandre",
+      "Corthay Louis",
+      "Corthay frères",
+      "Favre frères",
+      "Giriens Ch.",
+      "Giriens Lucien",
+      "Lapalud François",
+      "Magnollay François",
+      "Magnollay Auguste",
+      "Magnollay frères",
+      "Perroud Henri",
+      "Richoz Pierre",
+      "Rochat Lucien",
+      "Thury François"
+    ],
+    "Appareilleurs": [
+      "Barbey John",
+      "Dutoit Paul"
+    ],
+    "Asiles de l'Espérance": [
+      "Buchet Charlotte",
+      "Buchet Amélie"
+    ],
+    "Aubergistes": [
+      "Gossweiler Charles",
+      "Henry"
+    ],
+    "Boisselier": [
+      "Gentizon Henri"
+    ],
+    "Bouchers": [
+      "Buclin Jules",
+      "Læser Louis",
+      "Renevier Emile"
+    ],
+    "Boulangers-pâtissiers": [
+      "Béboux Victor",
+      "Gossweiler Albert"
+    ],
+    "Briqueterie": [
+      "Favre & Cie."
+    ],
+    "Charpentier": [
+      "Golay Jules"
+    ],
+    "Charron": [
+      "Nidecker Henri"
+    ],
+    "Coiffeur": [
+      "Cavin Auguste"
+    ]
+  }
+}

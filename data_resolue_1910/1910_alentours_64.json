@@ -1,0 +1,244 @@
+{
+  "MALAPALUD": {
+    "Autorités communales": [
+      "Borgeaud Louis",
+      "Borgeaud Emile",
+      "Janin Victor",
+      "Borgeaud Henri",
+      "Borgeaud Henri-Albert",
+      "Chamot Jules",
+      "Borgeaud Emile",
+      "Borgeaud Edouard",
+      "Janin Aimé",
+      "Borgeaud Robert",
+      "Chamot Louis"
+    ],
+    "Agriculteurs": [
+      "Borgeaud Edouard",
+      "Borgeaud Louis",
+      "Borgeaud Robert",
+      "Chamot Louis",
+      "Chamot Gustave",
+      "Janin Victor"
+    ],
+    "Cafés": [
+      "Borgeaud H.",
+      "Wülschlegger Alfred"
+    ],
+    "Charcutier": [
+      "Borgeaud Henri-Albert"
+    ],
+    "Charpentier": [
+      "Borgeaud Emile"
+    ],
+    "Commission scolaire": [
+      "Janin Frédéric",
+      "Favre Henri"
+    ],
+    "Dépositaire postal": [
+      "Borgeaud Louis"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Borgeaud Henri-Albert",
+      "Borgeaud Henri-Victor"
+    ],
+    "Fontainiers": [
+      "Borgeaud Louis",
+      "Borgeaud Samuel"
+    ],
+    "Inspecteur du bétail": [
+      "Chamot Gustave"
+    ],
+    "Instituteurs": [
+      "Dony Georges",
+      "Vallotton Clara"
+    ],
+    "Maçon": [
+      "Favre Emile"
+    ],
+    "Maréchal": [
+      "Borgeaud Alfred"
+    ],
+    "Meunier": [
+      "Viret Eugène"
+    ],
+    "Pasteur": [
+      "Perret Jules"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "D'assurance du bétail"
+    ],
+    "Tailleuses": [
+      "Chamot Lina",
+      "Chamot Hélène"
+    ],
+    "Téléphoniste": [
+      "Borgeaud Henri"
+    ]
+  },
+  "NAZ": {
+    "Autorités communales": [
+      "Dessauges Edouard",
+      "Curchod Aimé",
+      "Stoudmann-Brochon Edouard",
+      "Brochon Daniel",
+      "Dessauges Eugène",
+      "Porchet Jules",
+      "Stoudmann Ulysse",
+      "Dessauges Héli",
+      "Stoudmann E.-Alfred",
+      "Stoudmann Ulysse"
+    ],
+    "Agriculteurs": [
+      "Brochon Daniel",
+      "Curchod Aimé",
+      "Dessauges Eugène",
+      "Dessauges Héli",
+      "Porchet Héli",
+      "Porchet Jules",
+      "Stoudmann Auguste",
+      "Stoudmann Edouard",
+      "Stoudmann Eugène",
+      "Stoudmann J.-Henri",
+      "Vagniere Georgine",
+      "Vaney Charles"
+    ],
+    "Commission scolaire": [
+      "Dessauges Eugène",
+      "Stoudmann Eugène"
+    ],
+    "Epicerie": [
+      "Stoudmann Alexis"
+    ],
+    "Inspecteur du bétail": [
+      "Dessauges Eugène"
+    ],
+    "Instituteurs": [
+      "Guex Jules",
+      "Dessauges Berthe"
+    ],
+    "Laitier": [
+      "Fabrique Nestlé"
+    ],
+    "Maréchal": [
+      "Thévoz Jules"
+    ],
+    "Poste": [
+      "Curchod Aimé"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Téléphoniste": [
+      "Stoudmann Julie"
+    ],
+    "Tonnelier": [
+      "Stoudmann Alexis"
+    ],
+    "Tuilier": [
+      "Jaquier Alexis"
+    ]
+  },
+  "OULENS": {
+    "Autorités communales": [
+      "Clavel Samuel",
+      "Vulliamy Ernest",
+      "Clavel Edouard",
+      "Brandt Charles",
+      "Clavel Auguste",
+      "Mayor Henri",
+      "Vulliamy Georges",
+      "Brun Henri",
+      "Vulliamy Louis",
+      "Clavel Marc",
+      "Gobalet Constant"
+    ],
+    "Agriculteurs": [
+      "Brun Henri",
+      "Clavel Samuel",
+      "Clavel Edouard",
+      "Clavel Marc",
+      "Gobalet Constant",
+      "Mayor Henri",
+      "Vulliamy Georges",
+      "Vulliamy Louis"
+    ],
+    "Aubergistes": [
+      "Dufour Augustine",
+      "Tardy Albert"
+    ],
+    "Bétail (march. de)": [
+      "Mayor Henri"
+    ],
+    "Boulanger": [
+      "Pidoux Marius"
+    ],
+    "Charpentier": [
+      "Clavel Samuel"
+    ],
+    "Charrons": [
+      "Brun Constant",
+      "Clavel François"
+    ],
+    "Commission scolaire": [
+      "Muller Francis",
+      "Burnens Auguste",
+      "Brandt Charles"
+    ],
+    "Dépositaire postal et facteur": [
+      "Vulliamy Louis"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Bezençon Louise",
+      "Clavel Henri",
+      "Rochat Julie"
+    ],
+    "Fers (comm. de)": [
+      "Brun Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Brun François"
+    ],
+    "Instituteurs": [
+      "Maillard Fritz",
+      "Burnens Louisa"
+    ],
+    "Laitier": [
+      "Stalder Emile"
+    ],
+    "Maçons": [
+      "Demarchi Jaques",
+      "Perrazzi Pierre"
+    ],
+    "Maréchal": [
+      "Ramuz Eugène"
+    ],
+    "Pasteur": [
+      "Muller Francis"
+    ],
+    "Quincaillerie": [
+      "Bezençon Louise"
+    ],
+    "Sellier": [
+      "Cavin François"
+    ],
+    "Sociétés": [
+      "Du battoir à blé",
+      "De fromagerie",
+      "Syndicat agricole et d'élevage"
+    ],
+    "Tailleur": [
+      "Bertholet Jaques"
+    ],
+    "Tailleuses": [
+      "Bissat Hélène",
+      "Clavel Marguerite",
+      "Vagniere Elise",
+      "Vagnière Louise"
+    ],
+    "Téléphoniste": [
+      "Chapuis Ami"
+    ]
+  }
+}

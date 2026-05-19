@@ -1,0 +1,364 @@
+{
+  "CARROUGE": {
+    "Municipaux": [
+      "Chappuis Maurice",
+      "Desmeules Louis",
+      "Jordan Edmond",
+      "Monachon Robert"
+    ],
+    "Cantonnier": [
+      "Rod Ernest"
+    ],
+    "Commandant du feu": [
+      "Rod Ernest"
+    ],
+    "Commission scolaire": [
+      "Gindroz Jules",
+      "Chappuis Maurice",
+      "Emery Eugène"
+    ],
+    "Garde-forestier": [
+      "Ramel Alfred"
+    ],
+    "Gendarmerie (Poste de)": [
+      "Coeytaux"
+    ],
+    "Inspecteur du bétail": [
+      "Jordan Pierre"
+    ],
+    "Inspecteur des viandes": [
+      "Jordan Alf."
+    ],
+    "Instituteurs": [
+      "Paquier Armand",
+      "Falconnier Arlette"
+    ],
+    "Juge de paix": [
+      "Jordan Constant. T."
+    ],
+    "Police (agent de)": [
+      "Rey Jules"
+    ],
+    "Poste et télégraphe": [
+      "Chappuis Edm."
+    ],
+    "Agriculteurs": [
+      "Affolter Jean",
+      "Balsiger Gottfr. T.",
+      "Baud Léon",
+      "Bory Fernand",
+      "Cavin Fritz",
+      "Chappuis Alf.",
+      "Chappuis Edm.",
+      "Chappuis Herm.",
+      "Chappuis Maur.",
+      "Chappuis Pierre",
+      "Chappuis Ul.",
+      "Desmeules Ls",
+      "Détraz Aimé",
+      "Détraz John",
+      "Dubois Ernest",
+      "Duc Louis",
+      "Egger Maxime",
+      "Emery Eug.",
+      "Emery, hoirie.",
+      "Gilliéron Eug.",
+      "Gindroz Jules",
+      "Goël Edm.",
+      "Guex Robert",
+      "Jordan David",
+      "Jordan Edmond",
+      "Jordan Lucien",
+      "Jordan Jean-Louis",
+      "Jordan John",
+      "Jordan Pierre",
+      "Jordan Constant. T.",
+      "Jordan Philippe",
+      "Monney Joseph",
+      "Nicolas Héli",
+      "Nicolas Jules",
+      "Pasche Adolphe",
+      "Pasche Adrien",
+      "Pasche Louis",
+      "Perret Louis",
+      "Porchet Justin",
+      "Rey Emile",
+      "Riesen Samuel",
+      "Rod frères",
+      "Rod Ulysse",
+      "Stettler Eugène",
+      "Stettler John",
+      "Schären Fritz",
+      "Stucky Samuel"
+    ],
+    "Apiculteurs": [
+      "Bory Fernand",
+      "Desmeules Louis",
+      "Jordan Constant",
+      "Paquier Armand",
+      "Pasche Marcel",
+      "Porchet Ami",
+      "Rod frères"
+    ],
+    "Assurance-vieillesse": [
+      "Paquier A."
+    ],
+    "Auto-garage": [
+      "Cruchon Georges. T.",
+      "Pasche J"
+    ],
+    "Bois (march. de)": [
+      "Jaquier Justin"
+    ],
+    "Boulanger": [
+      "Gilliéron Georges. RT."
+    ],
+    "Cafés": [
+      "Diserens Fernand",
+      "Gilliéron Georges",
+      "Jordan Jean-Jacques"
+    ],
+    "Charron": [
+      "Jordan-Durussel Phillippe"
+    ],
+    "Confection": [
+      "Cavin Daniel"
+    ],
+    "Couturière": [
+      "Deluche Hélène"
+    ],
+    "Epicerie, mercerie": [
+      "Cavin Daniel",
+      "Gilliéron Georges. RT.",
+      "Ozelley Gustave",
+      "Pasche Louis"
+    ],
+    "Hongreur": [
+      "Besson Henri"
+    ],
+    "Horticulteur": [
+      "Nicolas Jules"
+    ],
+    "Laitiers": [
+      "Dutoit Rodolphe",
+      "Leiser Louis",
+      "Soc. fromagerie de Carrouge. RT."
+    ],
+    "Machine à battre le blé": [
+      "Scheidegger",
+      "Chappuis Ulysse"
+    ],
+    "Maçons": [
+      "Durussel Constant",
+      "Gabella Constant"
+    ],
+    "Maréchal": [
+      "Chevalley Jules"
+    ],
+    "Mécaniciens": [
+      "Cruchon Gges. T.",
+      "Pasche Justin"
+    ],
+    "Menuisier": [
+      "Chappuis Henri"
+    ],
+    "Pompes funèbres du Nord": [
+      "Scheidegger Frédéric"
+    ],
+    "Porcs (comm. de)": [
+      "Leiser Louis"
+    ],
+    "Rentiers": [
+      "Coigny Clara",
+      "Jordan John",
+      "Jordan Philippe",
+      "Leiser, Vve d'Arnold. T.",
+      "Nicolas Héli",
+      "Ramel Alfred"
+    ],
+    "Scieurs": [
+      "Poletti Max",
+      "Scheidegger Fr."
+    ],
+    "Sellier-tapissier": [
+      "Forestier François"
+    ],
+    "Sociétés": [
+      "Syndicat agricole",
+      "Syndicat d'élevage et d'amélioration de la race porcine"
+    ],
+    "Tricoteuse": [
+      "Jordan Violette"
+    ],
+    "Volailles (march. de)": [
+      "Stettler Rosa"
+    ]
+  },
+  "CERNIAZ": {
+    "Régisseur": [
+      "Galay Louis"
+    ],
+    "Secrétaire": [
+      "Bovey Arthur"
+    ],
+    "Boursier": [
+      "Charbonney Charles"
+    ],
+    "Huissier": [
+      "Cachin Ernest"
+    ],
+    "Cercle scolaire": [
+      "Fattebert A.",
+      "Oulevey E."
+    ],
+    "Garde-forestier": [
+      "Cachin Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Charbonney Charles"
+    ],
+    "Institutrice": [
+      "Aubert Gilbert"
+    ],
+    "Agriculteurs": [
+      "Aeberhard Otto",
+      "Benvegnien Louis",
+      "Bovey Alcide",
+      "Cachin Edmond",
+      "Cachin Edouard. T.",
+      "Cachin Octave",
+      "Charbonney Ch",
+      "Dubrit Eugène",
+      "Dubrit Henri"
+    ],
+    "Apiculteurs": [
+      "Cachin Edouard. T."
+    ],
+    "Café": [
+      "Hofmann Edouard. T."
+    ],
+    "Couturière": [
+      "Duc Renée"
+    ],
+    "Epicerie": [
+      "Hofmann Ed. T."
+    ],
+    "Société": [
+      "Sté de fromagerie. R."
+    ]
+  },
+  "CHABREY": {
+    "Syndic": [
+      "Vessaz Emile"
+    ],
+    "Secrétaire": [
+      "Christinat Henri-Fréd."
+    ],
+    "Boursier": [
+      "Vessaz Edmond"
+    ],
+    "Huissier": [
+      "Jaunin Alfred"
+    ],
+    "Municipaux": [
+      "Jaunin Maurice",
+      "Loup Marcel",
+      "Vessaz Albert",
+      "Vessaz Charles"
+    ],
+    "Cantonnier": [
+      "Jaunin Marcel"
+    ],
+    "Commandant du feu": [
+      "Vessaz Emile"
+    ],
+    "Commission scolaire": [
+      "Vessaz Max",
+      "Panchaud M."
+    ],
+    "Contrôleur du lait": [
+      "Vessaz Alfred"
+    ],
+    "Inspecteur du bétail": [
+      "Christinat Ernest"
+    ],
+    "Inspect. des viandes": [
+      "Vessaz Paul"
+    ],
+    "Instituteurs": [
+      "Duperret Emile",
+      "Duperret-Gaillard Lucienne"
+    ],
+    "Juge de paix": [
+      "Vessaz Emile"
+    ],
+    "Officier d'état civil": [
+      "Bessat Jules"
+    ],
+    "Police (agent de)": [
+      "Martin Marius"
+    ],
+    "Poste et télégraphe": [
+      "Christinat Aug."
+    ],
+    "Agriculteurs": [
+      "Blaser Alfred",
+      "Beutler Emile",
+      "Christinat Alfred",
+      "Christinat Albert",
+      "Christinat Alexis",
+      "Christinat Ernest",
+      "Christinat Emile",
+      "Christinat François",
+      "Christinat Henri-Alfred",
+      "Christinat Henri-Ls",
+      "Christinat Hri-Fréd.",
+      "Christinat Auguste",
+      "Christinat Paul",
+      "Häni Jean",
+      "Jaunin Georges",
+      "Jaunin Maurice",
+      "Loup Marcel",
+      "Schick Louis",
+      "Vessaz Alb.",
+      "Vessaz Alf.",
+      "Vessaz Constant",
+      "Vessaz Emile",
+      "Vessaz Max",
+      "Vessaz Samuel"
+    ],
+    "Assurance-vieillesse": [
+      "Duperret Emile"
+    ],
+    "Café": [
+      "Schneuwli Hermann. T."
+    ],
+    "Couturière": [
+      "Dellay Reine"
+    ],
+    "Distillerie": [
+      "Loup & Chuard"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Christinat Auguste",
+      "Jaunin-Vessaz"
+    ],
+    "Laiterie": [
+      "Sté de laiterie",
+      "Aeberhard Rod."
+    ],
+    "Maréchal": [
+      "Delley Marcel"
+    ],
+    "Pompes funèbres du Nord": [
+      "Cuanoud"
+    ],
+    "Sociétés": [
+      "Sté du battoir de Chabrey. R.",
+      "Sté de laiterie de Chabrey. R."
+    ],
+    "Tissage de roseaux": [
+      "Blanc Ami. T."
+    ]
+  }
+}

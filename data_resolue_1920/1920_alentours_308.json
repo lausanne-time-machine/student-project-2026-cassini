@@ -1,0 +1,279 @@
+{
+  "DAILLENS": {
+    "Agriculteurs": [
+      "Louis",
+      "Lugeon Ernest",
+      "Mercier John",
+      "Mercier Louis",
+      "Roulin Jules",
+      "Tissot Louis",
+      "Troillet frères",
+      "Troillet Marc",
+      "Villard Adrien",
+      "Villard Alexis",
+      "Villard Henri",
+      "Villard Maurice"
+    ],
+    "Architecte.": [
+      "Cerutti Humbert"
+    ],
+    "Aubergiste.": [
+      "Ernest Marmillod"
+    ],
+    "Beurre-fromage.": [
+      "Kunz Jacob"
+    ],
+    "Bois (march. de).": [
+      "Cœytaux Jules",
+      "Villard Henri"
+    ],
+    "Boulanger-pâtissier.": [
+      "Clerc Emile"
+    ],
+    "Charpentiers.": [
+      "Desmeules Edouard",
+      "Valet Maurice"
+    ],
+    "Charron.": [
+      "Ryser Jean-Samuel"
+    ],
+    "Chef de section.": [
+      "Villard Henri"
+    ],
+    "Commission scolaire.": [
+      "Schumacher",
+      "Cœytaux Félix"
+    ],
+    "Cordonnier.": [
+      "Jonneret Louis"
+    ],
+    "Couturières.": [
+      "Masson Marie",
+      "Rolaz Méry"
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Conod Pierre",
+      "Mercier-Gex Louis",
+      "Mercier Henri"
+    ],
+    "Entrepreneur.": [
+      "Chiovini Jacques"
+    ],
+    "Gypsiers-peintres.": [
+      "Dédominici Ermain"
+    ],
+    "Inspecteur du bétail.": [
+      "Mercier Henri",
+      "Francillon Armand"
+    ],
+    "Instituteurs.": [
+      "Masnata Jacques",
+      "Dind Suzanne"
+    ],
+    "Lingères.": [
+      "Conod Betty",
+      "Delacrétaz Marthe",
+      "Gex Louise"
+    ],
+    "Maréchal.": [
+      "Favre Albert"
+    ],
+    "Menuisiers.": [
+      "Desmeules Edouard",
+      "Valet Maurice"
+    ],
+    "Meunier.": [
+      "Delacrétaz, Vve."
+    ],
+    "Pasteur.": [
+      "Schumacher Ferdinand"
+    ],
+    "Poste.": [
+      "Conod Eugène"
+    ],
+    "Poterie.": [
+      "Mercier-Guerry Henri"
+    ],
+    "Scierie.": [
+      "Cœytaux Jules"
+    ],
+    "Sociétés.": [
+      "Caisse de Crédit Mutuel",
+      "De fromagerie du Bourquin",
+      "De la grande fromagerie de Daillens",
+      "De tir aux armes de guerre",
+      "Du battoir à grains",
+      "Syndicat agricole"
+    ],
+    "Téléphoniste.": [
+      "Marmillod Ernest"
+    ]
+  },
+  "DIZY": {
+    "Autorités communales.": [
+      "Cugny Albert",
+      "Graf Ulysse"
+    ],
+    "Syndic": [
+      "Gaudin Georges"
+    ],
+    "Municipaux": [
+      "Jaquier Maurice",
+      "Neuschwander Robert",
+      "Brocard-Cugny Louis",
+      "Rochat Fernand"
+    ],
+    "Boursier": [
+      "Jaquier Maurice"
+    ],
+    "Secrétaire": [
+      "Ueltschi Edouard"
+    ],
+    "Agriculteurs.": [
+      "Bioley Charles",
+      "Borgaud Albert",
+      "Brocard Alexis",
+      "Brocard-Cugny Louis",
+      "Brocard-Dupuis Louis",
+      "Brocard Jules",
+      "Brocard frères",
+      "Besson Samuel",
+      "Cugny Frédéric",
+      "Devenoge Alexandre",
+      "Devenoge-Charlet, Vve",
+      "Devenoge-Guerry, Vve",
+      "Gaudin Frédéric",
+      "Gaudin frères",
+      "Jaquier Auguste",
+      "Jaquier Emile",
+      "Jaquier Jules",
+      "Neuschwander frères",
+      "Rochat Alexis",
+      "Ueltschi Edouard",
+      "Viret Marie"
+    ],
+    "Amodiateurs.": [
+      "Gaudin François",
+      "Rochat Alexis"
+    ],
+    "Café.": [
+      "Cugny Julie, Vve"
+    ],
+    "Commission scolaire.": [
+      "Brocard Jules",
+      "Gaudin Frédéric",
+      "Brocard Alexis"
+    ],
+    "Epicerie.": [
+      "Viret-Besson Marie"
+    ],
+    "Instituteurs.": [
+      "Mingard Lina"
+    ],
+    "Inspecteur du bétail.": [
+      "Brocard Alex."
+    ],
+    "Maréchal.": [
+      "Lugeon Henri"
+    ],
+    "Rentiers.": [
+      "Devenoge - Guerry Marie",
+      "Jaquier-Conod Sophie"
+    ],
+    "Sabotier.": [
+      "Gaudin Adrien"
+    ],
+    "Sociétés.": [
+      "De fromagerie",
+      "Syndicat agricole"
+    ],
+    "Tailleuse.": [
+      "Gaudin Lina"
+    ],
+    "Téléphoniste.": [
+      "Devenoge - Charlet, Vve"
+    ]
+  },
+  "ECLEPENS": {
+    "Autorités communales.": [
+      "Berger Julien",
+      "Rochat Paul"
+    ],
+    "Syndic": [
+      "Gex François"
+    ],
+    "Municipaux": [
+      "Berger Edouard",
+      "Berger Aimé",
+      "Monnier Charles",
+      "Ogiz Louis",
+      "Berger Alfred",
+      "Monnier Adalbert"
+    ],
+    "Secrét.": [
+      "Chevalier Gustave"
+    ],
+    "Boursier": [
+      "Fontannaz Louis"
+    ],
+    "Agriculteurs.": [
+      "Berger Julien et Hri",
+      "Fontannaz Jules",
+      "Gachet Louis",
+      "Gex François",
+      "Martignier Emile",
+      "Monnier Charles",
+      "Monnier Jules",
+      "Monnier Louis",
+      "Monnier Marc",
+      "Ogiz Louis",
+      "Reymond Gustave"
+    ],
+    "Amodiateur.": [
+      "Reymond Gustave"
+    ],
+    "Aubergistes.": [
+      "Berger Edouard",
+      "Berger Henri",
+      "Monnier Louis"
+    ],
+    "Briqueterie.": [
+      "Barraud & Cie."
+    ],
+    "Charron.": [
+      "Besse Alphonse"
+    ],
+    "Chef de gare.": [
+      "Capt Louis"
+    ],
+    "Commission scolaire.": [
+      "Berger Henri",
+      "Delafontaine",
+      "Berger-Villard"
+    ],
+    "Cordonnier.": [
+      "Clerc Jules"
+    ],
+    "Epicerie.": [
+      "Grandjean Henri",
+      "Pagani Louise"
+    ],
+    "Fabrique de draps et milaines.": [
+      "Berger J. & H. frères"
+    ],
+    "Fours à chaux.": [
+      "Barraud Maurice"
+    ],
+    "Ingénieur.": [
+      "Dietrich Gustave"
+    ],
+    "Inspecteur du bétail.": [
+      "Rochat Const."
+    ],
+    "Instituteurs.": [
+      "Tétaz Léonce",
+      "Addor Hélène",
+      "Borgeaud Hélène"
+    ]
+  }
+}

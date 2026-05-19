@@ -1,0 +1,267 @@
+{
+  "APPLES": {
+    "Aubergistes": [
+      "Hirschy, Louis",
+      "Flaction"
+    ],
+    "Bestiaux (marchand de)": [
+      "Decollogny, Henri"
+    ],
+    "Boulangers": [
+      "Delacrétaz, Jean.",
+      "Laurent, Emile"
+    ],
+    "Buraliste postal": [
+      "Delacrétaz, Anna."
+    ],
+    "Charrons": [
+      "Henriod, Louis, père.",
+      "Henriod, Louis, fils."
+    ],
+    "Chaussures (marchands de)": [
+      "Cochet, Gustave.",
+      "Weisser-Borel & Cie."
+    ],
+    "Chef de section": [
+      "Baud, Charles."
+    ],
+    "Commission scolaire": [
+      "Jaques",
+      "Decollogny, Louis.",
+      "Bourcoud, Emile.",
+      "Fazan, Alfred.",
+      "Cochet, Alexis."
+    ],
+    "Cordonniers": [
+      "Guignard, L.",
+      "Œchsli, Gottfried."
+    ],
+    "Droguistes": [
+      "Weisser-Borel & Cie."
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Cochet, Gustave.",
+      "Weisser-Borel & Cie."
+    ],
+    "Ferblantiers": [
+      "Demont, Charles.",
+      "Fazan, Jules."
+    ],
+    "Gypsier": [
+      "Ventura, Baptiste."
+    ],
+    "Inspecteur du bétail": [
+      "Baud, Charles."
+    ],
+    "Instituteurs": [
+      "Richard, Adrien.",
+      "Audemars, Aline.",
+      "Demont, Anna."
+    ],
+    "Machines à battre": [
+      "Brot, Henri.",
+      "Golay, Decollogny et Cie."
+    ],
+    "Maçons": [
+      "Rigoli, frères."
+    ],
+    "Maréchaux": [
+      "Félix, Ls.",
+      "Cottier, Jean"
+    ],
+    "Mécanicien": [
+      "Dupuis, Louis."
+    ],
+    "Officier d'état civil": [
+      "Rochat, Jules."
+    ],
+    "Pasteur": [
+      "Jaques, Henri."
+    ],
+    "Porcs (marchand de)": [
+      "Decollogny, Eugène."
+    ],
+    "Quincaillerie": [
+      "Weisser-Borel et Cie."
+    ],
+    "Scierie": [
+      "Golay, Decollogny et Cie."
+    ],
+    "Selliers": [
+      "Cochet, Ami.",
+      "Robellaz, H."
+    ],
+    "Sociétés": [
+      "Fromagerie d'Apples.",
+      "Société de tir aux Armes de Guerre.",
+      "Société de tir « l'Indépendance » .",
+      "Syndicat agricole.",
+      "Syndicat d'alpage."
+    ],
+    "Socques (fabr. de)": [
+      "Rochat, Henri."
+    ],
+    "Tailleur": [
+      "Cochet, Gustave."
+    ],
+    "Tailleuse": [
+      "Besnard, Jenny.",
+      "Zimmermann, Lydie.",
+      "Kuffer, Lina."
+    ],
+    "Télégraphiste": [
+      "Delacrétaz, Anna."
+    ],
+    "Vélocipèdes": [
+      "Dupuis, Louis."
+    ],
+    "Divers": [
+      "Baud, Charles",
+      "Cochet, Caroline",
+      "Cochet, Henri",
+      "Délessert, frères",
+      "Devenoge, Charles",
+      "Fazan-Valette, Eugène",
+      "Mingard, Charles"
+    ]
+  },
+  "BALLENS": {
+    "Autorités communales": [
+      "Croisier, Philippe.",
+      "Croisier, G.",
+      "Croisier, Aug.",
+      "Monod, A.",
+      "Oppeligueur, G.",
+      "Gonvers, Aug.",
+      "Roch, A.",
+      "Gouffon, A.",
+      "Oppeliguer, Eugène.",
+      "Testaz, Ulysse."
+    ],
+    "Aubergistes": [
+      "Oppeliguer, Gustave.",
+      "Zbinden, William. R.",
+      "Viallon, Philippe"
+    ],
+    "Bois (march. de)": [
+      "Zbinden, Henri."
+    ],
+    "Boulanger": [
+      "Capt-Badoux."
+    ],
+    "Charrons": [
+      "Bonzon, Emile.",
+      "Testaz, Ulysse."
+    ],
+    "Chef de section": [
+      "Croisier, Armand."
+    ],
+    "Commission scolaire": [
+      "Croisier, Armand.",
+      "Viallon, Gustave.",
+      "Croisier, Aug.",
+      "Rubattel, Jacques.",
+      "Zimmer, Louis"
+    ],
+    "Cordonniers": [
+      "Bischoff, Jean.",
+      "Martignoni, Joseph."
+    ],
+    "Epicerie, mercerie et tabacs": [
+      "Capt-Badoux.",
+      "Coeytaux-Meylan, Alexis.",
+      "Croisier-Magnin, Marie.",
+      "Viallon. Philippe"
+    ],
+    "Inspecteur du bétail": [
+      "Croisier, Georges."
+    ],
+    "Instituteurs": [
+      "Croisier-Lyon, Marie.",
+      "Meylan, Charles."
+    ],
+    "Laitier": [
+      "Croisier, Auguste."
+    ],
+    "Maçon": [
+      "Monod, Isaac-François-Ls."
+    ],
+    "Maréchal": [
+      "Allamand, Ernest."
+    ],
+    "Menuisier": [
+      "Vallotton, Auguste."
+    ],
+    "Officier d'état civil": [
+      "Cuvit, Eugène"
+    ],
+    "Pasteur": [
+      "Zimmer, Louis."
+    ],
+    "Scieur": [
+      "Zbinden, Henri."
+    ],
+    "Société": [
+      "Société de fromagerie."
+    ],
+    "Tailleur": [
+      "Kropf, Jean-Gonthier, Sophie."
+    ],
+    "Télégraphiste": [
+      "Croisier-Roch, Georgette."
+    ],
+    "Téléphone communal": [
+      "Zbinden, Caroline."
+    ]
+  },
+  "BEROLLE": {
+    "Autorités communales": [
+      "Besson, Armand"
+    ],
+    "Aubergistes": [
+      "Frick, Jean.",
+      "Monod, Frédéric."
+    ],
+    "Carrier": [
+      "Margot, Louis."
+    ],
+    "Charpentiers": [
+      "Reymond, Louis.",
+      "Rochat, Louis."
+    ],
+    "Inspecteur du bétail": [
+      "Burnet, Henri."
+    ],
+    "Instituteurs": [
+      "Badel, Samuel.",
+      "Martinet, Aline."
+    ],
+    "Laitier": [
+      "Baudin, Eugène."
+    ],
+    "Marchands": [
+      "Dauphin, Louis",
+      "Fleury-Rochat, Auguste"
+    ],
+    "Maréchal": [
+      "Testaz, Rodolphe-Ernest."
+    ],
+    "Société": [
+      "Société de fromagerie."
+    ],
+    "Tailleur de pierres": [
+      "Margot, Louis."
+    ],
+    "Tailleuses": [
+      "Dauphin-Besson, Marie.",
+      "Martinet, Aline.",
+      "Piguet, Jeannette."
+    ],
+    "Tisserand": [
+      "Rochat, Henri."
+    ],
+    "Téléphone communal": [
+      "Dumas-Hænny, Marie."
+    ]
+  }
+}

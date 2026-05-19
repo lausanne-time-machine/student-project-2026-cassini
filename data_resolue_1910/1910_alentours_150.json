@@ -1,0 +1,260 @@
+{
+  "LUCENS": {
+    "Sociétés": [
+      "Immobilière de la Chapelle",
+      "De musique d'harmonie l'Abeille",
+      "De chant, l'Union",
+      "De chant, Männerchor",
+      "De tir de campagne",
+      "Des intérêts publics",
+      "Union chrétienne de jeunes gens",
+      "Section de la Croix-Bleue"
+    ],
+    "Tailleur": [
+      "Summermatter Fritz"
+    ],
+    "Télégraphiste": [
+      "Thonnay Alice"
+    ],
+    "Toilerie": [
+      "Meyer F.",
+      "Mutrux-Briod"
+    ],
+    "Vélos (fabr. de)": [
+      "Jornod Elie"
+    ],
+    "Vins (march. de)": [
+      "Déglon Ct",
+      "Dufey Alois",
+      "Mutrux-Briod"
+    ],
+    "Voiturier": [
+      "Vaney Edouard"
+    ],
+    "Volailles": [
+      "Buzzi-Parisod"
+    ]
+  },
+  "MARTHERENGES": {
+    "Autorités communales": [
+      "Crisinel Ulysse",
+      "Trolliet Maurice",
+      "Monachon Constant",
+      "Dony Henri",
+      "Monachon Emile",
+      "Trolliet Maurice"
+    ],
+    "Agriculteurs": [
+      "Freiburghaus Alfred",
+      "Goy frères",
+      "Jenny Rodolphe",
+      "Monachon Oscar"
+    ],
+    "Commission scolaire": [
+      "Crisinel Ulysse",
+      "Monachon Constant",
+      "Monachon Emile"
+    ],
+    "Inspecteur du bétail": [
+      "Trolliet Maurice"
+    ],
+    "Institutrice": [
+      "Pahud Lina"
+    ],
+    "Société": [
+      "De la fromagerie"
+    ]
+  },
+  "MONTAUBION-CHARDONNAY": {
+    "Autorités communales": [
+      "Dufour Félix",
+      "Gavillet John",
+      "Jaccaud Héli",
+      "Jaccaud Alfred",
+      "Gavillet Hri",
+      "Jaccaud Emile",
+      "Dufour Félix"
+    ],
+    "Agriculteurs": [
+      "Jaccaud Edouard",
+      "Gavillet Jean-Louis"
+    ],
+    "Charpentier": [
+      "Jaccaud Emile"
+    ],
+    "Charron": [
+      "Jaccaud Louis"
+    ],
+    "Commission scolaire": [
+      "Dufour Félix"
+    ],
+    "Inspecteur du bétail": [
+      "Jaccaud-Alfred"
+    ],
+    "Institutrice": [
+      "Gavillet-Baudet Lina"
+    ],
+    "Maréchal": [
+      "Braillard Alexis"
+    ],
+    "Meunier": [
+      "Dufour Jules"
+    ],
+    "Rentier": [
+      "Dufour Félix"
+    ],
+    "Société": [
+      "De fromagerie"
+    ]
+  },
+  "NEYRUZ": {
+    "Autorités communales": [
+      "Dutoit Emile",
+      "Porchet Jules",
+      "Dutoit Constant",
+      "Rosset Alfred",
+      "Lagnaz Francis",
+      "Pidoux Eugène",
+      "Dutoit Rodolphe",
+      "Martin Ulysse",
+      "Martin Eugène",
+      "Gavin Aimé",
+      "Jaton Eug.",
+      "Martin César"
+    ],
+    "Agriculteurs": [
+      "Dutoit Emile",
+      "Lagnaz Jules",
+      "Pidoux Eugène",
+      "Pidoux Jules",
+      "Rosset Emile",
+      "Rosset Jean"
+    ],
+    "Aubergistes": [
+      "Castella Isidore",
+      "Martin Alexis"
+    ],
+    "Charron": [
+      "Lagnaz Francis"
+    ],
+    "Charpentier": [
+      "Bulloz Alfred"
+    ],
+    "Commission scolaire": [
+      "Gavin Aimé",
+      "Jaton Eugène",
+      "Rosset Alfred"
+    ],
+    "Cordonnier": [
+      "Boudry Paul"
+    ],
+    "Epicerie": [
+      "Bulloz Alfred",
+      "Freymond Eugénie"
+    ],
+    "Inspecteur du bétail": [
+      "Gavin Aimé"
+    ],
+    "Instituteurs": [
+      "Panchaud Aimé",
+      "Porchet Marie"
+    ],
+    "Maréchal": [
+      "Martin Eugène"
+    ],
+    "Mécanicien": [
+      "Martin Louis"
+    ],
+    "Menuisier": [
+      "Martin Jules"
+    ],
+    "Meunier": [
+      "Hirzig"
+    ],
+    "Poste": [
+      "Gavin Hélène"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Téléphoniste": [
+      "Bulloz Alfred"
+    ]
+  },
+  "OGENS": {
+    "Autorités communales": [
+      "Pahud Gustave d'Emile",
+      "Lagnaz Ulysse",
+      "Riond Ulysse",
+      "Amy Aimé",
+      "Trolliet Edouard",
+      "Pahud Héli",
+      "Pahud Denys",
+      "Pahud Jules",
+      "Pahud Aimé",
+      "Pahud Henri-César",
+      "Pahud Auguste-Jules-François"
+    ],
+    "Agriculteurs": [
+      "Riond David",
+      "Riond Jean",
+      "Riond Louis",
+      "Riond Ulysse"
+    ],
+    "Aubergistes": [
+      "Riond David",
+      "Riond Marguerite"
+    ],
+    "Boulanger": [
+      "Pahud-Meyer Edouard"
+    ],
+    "Buraliste postal": [
+      "Riond Ulysse"
+    ],
+    "Charpentier": [
+      "Lagnaz Ulysse"
+    ],
+    "Commission scolaire": [
+      "Epars L."
+    ],
+    "Cordonnier": [
+      "Pahud Alexis"
+    ],
+    "Draineur": [
+      "Mottaz Alfred"
+    ],
+    "Epicerie": [
+      "Grandchamp John",
+      "Pahud-Meyer Julie",
+      "Pahud Clara"
+    ],
+    "Fers et quincaillerie": [
+      "Grandchamp John"
+    ],
+    "Inspecteur du bétail": [
+      "Pehud Héli"
+    ],
+    "Instituteurs": [
+      "Mercier Ulysse",
+      "Chapuis Marie"
+    ],
+    "Maréchaux": [
+      "Ott Louis",
+      "Riond Jules"
+    ],
+    "Maçon": [
+      "Pahud Louis"
+    ],
+    "Menuisier": [
+      "Degex Emile"
+    ],
+    "Meunier": [
+      "Moulin agricole"
+    ],
+    "Pêcheurs": [
+      "Mercier Ulysse",
+      "Ott Louis",
+      "Pahud Edouard"
+    ]
+  }
+}

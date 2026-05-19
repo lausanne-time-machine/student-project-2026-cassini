@@ -1,0 +1,440 @@
+{
+  "ORON-LA-VILLE": {
+    "Electriciens.": [
+      "Entreprises électriques fribourgeoises",
+      "Philipona Ed.",
+      "Jan F. & Cie"
+    ],
+    "Entrepreneur.": [
+      "Delmonico Jules"
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Blanc Ch.",
+      "Bovard Alphonse",
+      "Corboz Jules",
+      "Durussel H.",
+      "Fame & Cie",
+      "Jan Fréd. & Cie",
+      "Jan Rose",
+      "Maendly, Vve. R.",
+      "Robert Georges"
+    ],
+    "Ferblantiers.": [
+      "Chevalley Fritz",
+      "Mayor Hector",
+      "Waridel Paul"
+    ],
+    "Fers & quincaillerie.": [
+      "Jan Fréd. & Cie"
+    ],
+    "Grains et farines.": [
+      "Corboz Jules",
+      "Fame & Cie",
+      "Maendlv Adine",
+      "Moulin agricole et commercial",
+      "Valle-Bosson Cél."
+    ],
+    "Gypserie et peinture.": [
+      "Valle Martin"
+    ],
+    "Horlogerie.": [
+      "Favre Jules"
+    ],
+    "Horticulteur.": [
+      "Kissling Robert"
+    ],
+    "Hôtels.": [
+      "Fornallaz Albert",
+      "Gavillet Mme",
+      "Mayor Robert"
+    ],
+    "Imprimerie.": [
+      "Durussel Henri"
+    ],
+    "Laitier, fromages.": [
+      "Hoffmann Alf."
+    ],
+    "Librairie-journaux.": [
+      "Durussel Henri"
+    ],
+    "Lingère.": [
+      "Jan Lucie"
+    ],
+    "Machines à coudre.": [
+      "Fame & Cie"
+    ],
+    "Maréchal, machines agricoles.": [
+      "Mayor-Schneeberger Robert"
+    ],
+    "Matériaux de construction.": [
+      "Delmonico Jules"
+    ],
+    "Médecin.": [
+      "Menthonnex Pierre"
+    ],
+    "Menuisiers.": [
+      "Pahud Charles",
+      "Pasche Albert",
+      "Tesauri Pierre"
+    ],
+    "Meunier.": [
+      "Moulin agricole (société)",
+      "Maendly René"
+    ],
+    "Modiste.": [
+      "Berger Henriette, Mlle"
+    ],
+    "Notaires.": [
+      "Gilliéron Edouard T.",
+      "Gilliéron William"
+    ],
+    "Paneterie.": [
+      "Durussel Henri"
+    ],
+    "Pêcheurs.": [
+      "Berger Louis",
+      "Estoppey Francis",
+      "Freymond Eugène",
+      "Jan Julien",
+      "Héritier Constant",
+      "Pasche Albert"
+    ],
+    "Pharmaciens.": [
+      "Martinet frères"
+    ],
+    "Pompes funèbres du Nord.": [
+      "Tesauri Pierre"
+    ],
+    "Primeurs.": [
+      "Chevalley René",
+      "Robert G.-O."
+    ],
+    "Professeurs de piano.": [
+      "Guignard Julia",
+      "Schütz, Mlle"
+    ],
+    "Radio-gramo.": [
+      "Moto-Vélo-Radio S. A."
+    ],
+    "Ramoneur.": [
+      "Studer Alexandre"
+    ],
+    "Renseignements commerciaux.": [
+      "Gilliéron William",
+      "Société de protection du crédit, agent : Cavin Arnold"
+    ],
+    "Sages-femmes.": [
+      "Bolay Nancy, Mlle",
+      "Tesauri-Jaccoud Berthe"
+    ],
+    "Selliers-tapissiers.": [
+      "Leresche Albert",
+      "Leresche Henri",
+      "Rutishauser Walther"
+    ],
+    "Serrurier.": [
+      "Mayor Rob.-Aug."
+    ],
+    "Sociétés.": [
+      "Chorale",
+      "Club montagnard",
+      "Fanfare",
+      "Gymnastique",
+      "Les Premières Cartouches",
+      "Section de la Croix-Bleue",
+      "Sté imm. de la Concorde",
+      "Sté imm. de la salle de concerts et conférences",
+      "Sté des fusiliers des paroisses d'Oron et de Palézieux",
+      "Sté de laiterie",
+      "Sté militaires des Amis de la Montagne",
+      "Sté de tir aux armes de guerre",
+      "Unions chrétiennes de jeunes gens et jeunes filles"
+    ],
+    "Tailleurs.": [
+      "Deschenaux Gustave",
+      "Grandchamp Emile",
+      "Haldi Arn."
+    ],
+    "Tanneur.": [
+      "Schlegel, hoirie"
+    ],
+    "Teinturerie.": [
+      "Berger Henriette",
+      "Boudry Alexis"
+    ],
+    "Transports.": [
+      "Favez Gaston"
+    ],
+    "Vélos-motos.": [
+      "Jan Julien",
+      "Rod William",
+      "Motos-Vélos-Radio S. A.",
+      "Gabriel Marcel"
+    ],
+    "Vétérinaire.": [
+      "Boudry Alexis"
+    ],
+    "Vins.": [
+      "Blanc Ch.",
+      "Chevalley René",
+      "Corboz Jules",
+      "Fame & Cie",
+      "Georges G.-O."
+    ],
+    "Voiturier.": [
+      "Boudry Paul"
+    ],
+    "Divers.": [
+      "Jan-Pasche Ch.",
+      "Rubattel M."
+    ]
+  },
+  "ORON-LE-CHATEL": {
+    "Syndic": [
+      "Mayor Frédéric"
+    ],
+    "Secrétaire": [
+      "Viredaz Henri"
+    ],
+    "Boursier": [
+      "Boudry Jean"
+    ],
+    "Huissier": [
+      "Jossevel Eugène"
+    ],
+    "Municipaux": [
+      "Chollet Ernest",
+      "Desarzens Henri",
+      "Mayor Daniel"
+    ],
+    "Chef de section à Oron-la-Ville.": [
+      "Malherbe David"
+    ],
+    "Chef de gare.": [
+      "Malherbe David"
+    ],
+    "Commandant du feu.": [
+      "Viredaz Henri"
+    ],
+    "Commission scolaire.": [
+      "Mayor Frédéric",
+      "Malherbe N."
+    ],
+    "Contrôleur du lait.": [
+      "George Robert"
+    ],
+    "Garde-forestier.": [
+      "Demiéville Gustave"
+    ],
+    "Inspecteur du bétail.": [
+      "Corboz Julius"
+    ],
+    "Instituteurs.": [
+      "Viredaz Henri",
+      "Stuby Sara, ouvr."
+    ],
+    "Officier d'état-civil à Oron-la-Ville.": [
+      "Pasteur à Oron-la-Ville"
+    ],
+    "Poste et télégraphe.": [
+      "Décosterd Chs"
+    ],
+    "Téléphone.": [
+      "Station publi. à la poste"
+    ],
+    "Agriculteurs.": [
+      "Badertscher Fritz",
+      "Boudry Emile",
+      "Boudry Jean",
+      "Boudry Jules",
+      "Chollet Ernest",
+      "Corboz Alfred",
+      "Corboz Julius",
+      "Desarzens Henri",
+      "Favre-Gœtz Philippe",
+      "Gœtz Paul",
+      "Jossevel Eugène",
+      "Mayor Daniel",
+      "Mayor Frédéric",
+      "Mayor Louis",
+      "Mayor Samuel"
+    ],
+    "Apiculteurs.": [
+      "Badertscher Fritz",
+      "Boudry Emile",
+      "Viredaz Henri"
+    ],
+    "Aviculteurs.": [
+      "Gilliéron sœurs",
+      "Corboz E. T."
+    ],
+    "Mutualité scolaire de retraite.": [
+      "Viredaz H."
+    ],
+    "Autos - garages - réparations.": [
+      "Gabriel Marcel",
+      "Lebet Maurice"
+    ],
+    "Café.": [
+      "Demierre Léonard"
+    ],
+    "Chauffage (appar. de).": [
+      "Leemann Frédéric"
+    ],
+    "Entrepreneurs.": [
+      "Desarzens Henri"
+    ],
+    "Epiceries.": [
+      "Häfelfinger Ch.",
+      "Mayor Elise, Vve."
+    ],
+    "Fers et quincaill.": [
+      "Häfelfinger Ch."
+    ],
+    "Jardiniers.": [
+      "Melina L.",
+      "Mouron A."
+    ],
+    "Maçon.": [
+      "Mayor Louis"
+    ],
+    "Maréchaux, machines agricoles.": [
+      "Félix Ulysse",
+      "Häfelfinger Ch."
+    ],
+    "Pompes funèbres du Nord.": [
+      "Tesauri Pierre"
+    ],
+    "Poudres, explosifs (patente fédérale).": [
+      "Häfelfinger Charles"
+    ],
+    "Société.": [
+      "Sté de fromagerie"
+    ],
+    "Tailleur de pierres.": [
+      "Pillonel Charles"
+    ],
+    "Tonnelier.": [
+      "Studer Ernest"
+    ],
+    "Vélos-motos.": [
+      "Lebet Maurice"
+    ]
+  },
+  "ORZENS": {
+    "Syndic": [
+      "Chevalley Albert"
+    ],
+    "Secrétaire": [
+      "Carrard André"
+    ],
+    "Boursier": [
+      "Bolomey Louis"
+    ],
+    "Huissier": [
+      "Péclard Ernest"
+    ],
+    "Municipaux": [
+      "Beltex Edouard",
+      "Flaction Roger",
+      "Perey René",
+      "Vulliamoz Gustave",
+      "Wagnière Albert",
+      "Wagnière René"
+    ],
+    "Cantonnier.": [
+      "Burdet Ami"
+    ],
+    "Commandant du feu.": [
+      "Wagnière-Bovay Albert"
+    ],
+    "Commission scolaire.": [
+      "Wagnière Armand"
+    ],
+    "Contrôleur du lait.": [
+      "Burla Edmond"
+    ],
+    "Garde-forestier.": [
+      "Auberson Jean"
+    ],
+    "Greffier de paix.": [
+      "Burla Maurice"
+    ],
+    "Inspecteur du bétail.": [
+      "Perey Louis"
+    ],
+    "Instituteurs.": [
+      "Chappuis André",
+      "Landry Suzanne"
+    ],
+    "Officier d'état-civil.": [
+      "Guichard Marcel"
+    ],
+    "Police (agent de).": [
+      "Wagnière Louis"
+    ],
+    "Poste et télégraphe.": [
+      "Chevalley Alb."
+    ],
+    "Téléphone.": [
+      "Burla Maurice"
+    ],
+    "Agriculteurs.": [
+      "Anker Jean",
+      "Bettex frères",
+      "Bettex Ulysse",
+      "Billaud W.",
+      "Burdet Julien",
+      "Burla Agénor",
+      "Burla Edm.",
+      "Carrard André",
+      "Chevalley Alf.",
+      "Chevalley Alb.",
+      "Chevalley Marcel",
+      "Chevalley Robert",
+      "Chevalley Roland",
+      "Flaction Roger",
+      "Grin Paul",
+      "Guichard Alb.",
+      "Guichard Emile",
+      "Guichard Edm.",
+      "Guichard Henri",
+      "Guichard Marcel",
+      "Perey frères",
+      "Perey Louis",
+      "Piot Jules",
+      "Vulliamoz Gustave",
+      "Wagnière Aloys",
+      "Wagnière Albert de Constant",
+      "Wagnière John",
+      "Wagnière Octave",
+      "Wagnière René"
+    ],
+    "Arboriculteurs.": [
+      "Flaction Georges",
+      "Perey Armand"
+    ],
+    "Assurance-vieillesse.": [
+      "Mutualité scolaire de retraite, Chappuis A."
+    ],
+    "Café.": [
+      "Burla Maurice"
+    ],
+    "Charpentier.": [
+      "Burkhardt Ernest"
+    ],
+    "Couturière.": [
+      "Wagnière Thérèse"
+    ],
+    "Epiceries.": [
+      "Vulliamoz Justine",
+      "Wagnière Adèle"
+    ],
+    "Laitier.": [
+      "Oehrli Jean"
+    ],
+    "Menuisier.": [
+      "Burdet Julien"
+    ]
+  }
+}

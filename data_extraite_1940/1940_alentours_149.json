@@ -1,0 +1,414 @@
+{
+  "MONT-SUR-ROLLE": {
+    "Poste et télégraphe": [
+      "Muller Charles"
+    ],
+    "Agriculteurs": [
+      "Amstutz Henri",
+      "Faillettaz Henri",
+      "Gallay-Baer Julien",
+      "Jaquier Aloys",
+      "Maurer Marcel",
+      "Monnard François",
+      "Ramel Alexandre",
+      "Ramel Félix",
+      "Ramel, hoirie d'Ulysse",
+      "Richard Ls",
+      "Rochat Louis",
+      "Schmidt-Bauer Gust."
+    ],
+    "Apiculteurs": [
+      "Berger Hri.",
+      "Rochat Louis"
+    ],
+    "Assurances": [
+      "Gallay Fritz"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Badan Louis"
+    ],
+    "Blanchisseuse": [
+      "Wuillemin Virginie"
+    ],
+    "Boulangers": [
+      "Berthoud, Vve d'Alfred",
+      "Diserens Gérard"
+    ],
+    "Cafés": [
+      "Reguin Arthur",
+      "Rayroux Jules"
+    ],
+    "Camionneurs": [
+      "Batailland Ami",
+      "Guignet Henri"
+    ],
+    "Charcutier": [
+      "Ansermet Louis"
+    ],
+    "Charpentier-menuis": [
+      "Caillat Adr."
+    ],
+    "Charrons-maréchaux": [
+      "Favre Albert et fils"
+    ],
+    "Couturière": [
+      "Hofstetter-Monnard Marie-Louise"
+    ],
+    "Electricien": [
+      "Berger Paul"
+    ],
+    "Entrepreneur": [
+      "Chapuis E. & fils"
+    ],
+    "Epiceries-merceries": [
+      "Ansermet Ls.",
+      "Batailland Ami",
+      "Berthoud, Vve d'Alfred",
+      "Diserens Gérard",
+      "Gilgen Edouard"
+    ],
+    "Fromages (march. de)": [
+      "Roy Eug."
+    ],
+    "Jardinier": [
+      "Kiener-Ryser Adrien"
+    ],
+    "Laitier": [
+      "Roy Eugène"
+    ],
+    "Maison de rééducation pour enfants": [
+      "Haute-Cour S. A."
+    ],
+    "Mécanicien": [
+      "Hofstetter Robert"
+    ],
+    "Pension-famille": [
+      "Riva Louise"
+    ],
+    "Régisseurs": [
+      "Dufour Samuel",
+      "Richard Louis"
+    ],
+    "Rentiers": [
+      "Berger Henri",
+      "Dumatheray Marie",
+      "Guiguer de Prangins Noëlle (Mlle)",
+      "Haussner Nancy (Mlle)",
+      "Loeffler Cécile (Mlle)",
+      "Martin Ernest",
+      "Pernet Marcel",
+      "Monnet Frédéric",
+      "Vuadens Emma"
+    ],
+    "Représentant": [
+      "Witzig William"
+    ],
+    "Sage-femme": [
+      "Dufour Lucie (Mlle)"
+    ],
+    "Sociétés": [
+      "Sté de distillerie",
+      "Sté de fromagerie",
+      "Sté vaud. d'agriculture et de viticult.",
+      "Syndicat d'aménagement foncier du vignoble (1er sect.)"
+    ],
+    "Sourcier": [
+      "Renaud Eugène"
+    ],
+    "Tonnelier": [
+      "Wyss Arnold"
+    ],
+    "Vignerons": [
+      "Aubert William",
+      "Bally Henri",
+      "Bataillard Alfred",
+      "Bovard Robert",
+      "Chabloz Ernest",
+      "Chevalley John",
+      "Abbaye de Mont",
+      "Chevalley Ls",
+      "Clavel Basile",
+      "Cottet Jean-Irénée",
+      "Croisier Genri",
+      "Delaraye Charles",
+      "Dufour André",
+      "Dufour Ernest",
+      "Durand Alfred",
+      "Gallay Jean",
+      "Gallay Charles",
+      "Gallay Marcel",
+      "Gallay William",
+      "Gander Auguste",
+      "Grosjean, Vve d'Ernest",
+      "Hausermann Hermann",
+      "Jotterand Jules",
+      "Kursner Alfred",
+      "Kursner Alfr.",
+      "Maurer, Vve de Gust.",
+      "Maye Jules",
+      "Mérinat Charles",
+      "Meynand, Vve d'Anselme",
+      "Monnard-Baud John",
+      "Monnard Louis",
+      "Monnard Paul",
+      "Muller, Vve d'Eug.",
+      "Muller Hri",
+      "Parmeiin Lina",
+      "Quiblier Charles",
+      "Renevier Alfred",
+      "Rosset Ls",
+      "Sachot Aimé",
+      "Sachot, Vve d'Alfred",
+      "Seewer Ernest",
+      "Teysseron Prosper-Casimir"
+    ],
+    "Viticulteurs-propr.": [
+      "Ansenmet Ls.",
+      "Ansermet Maur.",
+      "Baud-Monnard Emilie",
+      "Baud Jules",
+      "Blondel Alexandre",
+      "Blondel John",
+      "Blondel Victor",
+      "Chanson Emile",
+      "Chardon Auguste",
+      "Chardon Jean",
+      "Chevalley Henri",
+      "Coderay Eugène",
+      "Desponds Alfred",
+      "Desponds Francis",
+      "Dufour Emile",
+      "Dufour Samuel",
+      "Durand Jules",
+      "Durand John",
+      "Gallay François",
+      "Gallay John",
+      "Gallay Jules",
+      "Haldy Frédéric",
+      "Jacot Adolphe",
+      "Jorand Ernest",
+      "Monnard Auguste",
+      "Monnard Charles",
+      "Monnard Emile",
+      "Monnard, Vve d'Ernest",
+      "Monnard-Baud John",
+      "Monnard-Blum John",
+      "Monnard Marcel",
+      "Monnard Ulrich",
+      "Naef Ernest",
+      "Parmelin-Chevalley Aug.",
+      "Renaud Eugène",
+      "Renaud Alfred",
+      "Renevier Marcel",
+      "Richard Emile",
+      "Vve Roguin Ernest",
+      "de Salis, Mme"
+    ],
+    "Divers": [
+      "de Mulinen J., Mme",
+      "Beletruche",
+      "Naef Ernest",
+      "de Salis P.",
+      "de Watteville Rod.",
+      "Monthenay"
+    ]
+  },
+  "MONTMAGNY": {
+    "Syndic": [
+      "Loup Maurice"
+    ],
+    "Secrétaire": [
+      "Piguet François"
+    ],
+    "Boursier": [
+      "Gentizon Ulysse"
+    ],
+    "Huissier": [
+      "Loup Ruben"
+    ],
+    "Municipaux": [
+      "Loup Jean",
+      "Loup André",
+      "Loup Louis",
+      "Wuillemin Em."
+    ],
+    "Chef de section à Vallamand": [
+      "Loup Jean"
+    ],
+    "Commandant du feu": [
+      "Loup Jean"
+    ],
+    "Commission scolaire": [
+      "Loup Alfred",
+      "Louis Louis",
+      "Laurent Paul"
+    ],
+    "Contrôleurs du lait": [
+      "Magnin Henri-Ernest",
+      "Wuillemin E."
+    ],
+    "Garde-forestier cantonal": [
+      "Vacat."
+    ],
+    "Inspecteur du bétail": [
+      "Verdon Ernest"
+    ],
+    "Inspecteur des viandes": [
+      "Loup Sam."
+    ],
+    "Instituteurs": [
+      "Hollenweger Adolphe",
+      "Ravussin Suzanne"
+    ],
+    "Pasteur à Constantine": [
+      "Panchaud (M.)"
+    ],
+    "Police (agent de)": [
+      "Gentizon Ulysse"
+    ],
+    "Poste et télégraphe": [
+      "Loup Georges"
+    ],
+    "Téléphone": [
+      "Verdon J.",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs-vignerons": [
+      "Geisbühler Herm.",
+      "Gentizon Ulysse",
+      "Jaquenod Aug.",
+      "Jaquenod William",
+      "Loup-Rapin André",
+      "Loup Daniel",
+      "Loup Alfred",
+      "Loup Eug.",
+      "Loup Maurice",
+      "Loup Samuel",
+      "Loup Percival",
+      "Loup Ruben",
+      "Magnin Georges",
+      "Magnin Henri",
+      "Magnin Louis",
+      "Wuillemin frères",
+      "Wuillemin Henri"
+    ],
+    "A la Fenetaz (hameau)": [
+      "Loup Jean",
+      "Loup Louis",
+      "Loup Maurice",
+      "Piguet Roger",
+      "Rapin Constant"
+    ],
+    "Apiculteur": [
+      "Magnin J.-C."
+    ],
+    "Café": [
+      "Baïtotti, Veuve de J."
+    ],
+    "Charcutier": [
+      "Louis Sadi"
+    ],
+    "Charron": [
+      "Piguet François"
+    ],
+    "Cordonniers": [
+      "Beyeler frères"
+    ],
+    "Couturières": [
+      "Gentizon sœurs",
+      "Sourin"
+    ],
+    "Couvreur": [
+      "Gentizon Ulysse"
+    ],
+    "Entrepreneur": [
+      "Ramella Ange"
+    ],
+    "Epiceries, merceries": [
+      "Loup Hermine",
+      "Collaud Edouard"
+    ],
+    "Graines": [
+      "Gentizon Ulysse"
+    ],
+    "Laitier": [
+      "Verdon J."
+    ],
+    "Lingère": [
+      "Loup Hermine"
+    ],
+    "Menuisiers": [
+      "Piguet Franç. & fils"
+    ],
+    "Pompes funèbres du Nord": [
+      "Guesbuhler Hermann"
+    ],
+    "Sociétés": [
+      "Sté du battoir à grains",
+      "Sté de laiterie",
+      "Sté de tir les Armes de guerre de Montmagny-Constantine"
+    ]
+  },
+  "MONTPREVEYRES": {
+    "Secrétaire": [
+      "Gindroz Lucien"
+    ],
+    "Boursier": [
+      "Viret Edward"
+    ],
+    "Huissier": [
+      "Gilliard Louis"
+    ],
+    "Municipaux": [
+      "Lavanchy Adrien",
+      "Mottaz Edward",
+      "Reybaz Arthur",
+      "Rod Jules"
+    ],
+    "Cantonnier": [
+      "Baumgartner Henri"
+    ],
+    "Command. du feu": [
+      "Gindroz Lucien"
+    ],
+    "Commission scolaire": [
+      "Reybaz Jean"
+    ],
+    "Garde de triage": [
+      "Gindroz Lucien"
+    ],
+    "Inspecteur du bétail": [
+      "Mottaz Edward"
+    ],
+    "Inspecteur des viandes": [
+      "Reybaz Jn."
+    ],
+    "Instituteurs": [
+      "Meylan Charles",
+      "Meylan-Gétaz Suzanne"
+    ],
+    "Pasteur": [
+      "Klunge Maurice"
+    ],
+    "Police (agent de)": [
+      "Décosterd Samuel"
+    ],
+    "Poste et télégraphe": [
+      "Liaudet Edward"
+    ],
+    "Agriculteurs": [
+      "Corthésy Gustave",
+      "Gilliéron Samuel",
+      "Gindroz Héli",
+      "Lavanchy Adrien",
+      "Liaudet Arthur",
+      "Martin Alfred",
+      "Mellet John",
+      "Mellet René",
+      "Mellioret, hoirie",
+      "Mottaz Edward",
+      "Pauli Er-"
+    ]
+  }
+}

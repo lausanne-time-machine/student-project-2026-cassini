@@ -1,0 +1,80 @@
+{
+  "LAUSANNE": {
+    "ELECTRICIENS": [
+      "Fauconnet Emile",
+      "Fedam S. A.",
+      "Grisel Marcel",
+      "Jordi Frédéric",
+      "Kappeler Henri",
+      "Lampes Alpina",
+      "Lampes Philips S. A.",
+      "Maier Charles & Cie",
+      "S. A. des produits électrotechniques Siemens",
+      "Schutz Walter",
+      "Storrer-Borel Emile",
+      "Trolliet frères S. A.",
+      "Wagner Paul"
+    ],
+    "ELECTRICIENS-CONSTRUCTEURS": [
+      "A. E. G., S. A.",
+      "Ateliers de Construction Oerlikon",
+      "Brown, Boveri & Cie, S. A.",
+      "Burgi O. & Cie, S. A.",
+      "Erni & Cie",
+      "Jaques-Pétri Joseph",
+      "S. A. des produits électrotechniques Siemens",
+      "Maier Charles & Cie"
+    ],
+    "ELECTRICIENS-MECANICIENS": [
+      "Chassot-Cornut Martin",
+      "Cornut Serge",
+      "Dupertuis R.",
+      "Gailloud Edgar",
+      "Leiser & Schaffner",
+      "Pythoud-Castella",
+      "Stoudmann Paul"
+    ],
+    "ÉMAILLERIE": [
+      "Emaillerie de Corgémont S. A."
+    ],
+    "EMBALLAGES": [
+      "Fabrique de cartonnages S. A."
+    ],
+    "EMBALLEURS - DÉMÉNAGEURS": [
+      "Digerens Paul",
+      "Lavanchy & Cie"
+    ],
+    "ENCADREURS-VITRIERS": [
+      "Baechler Sébastien",
+      "Caccia Laurent",
+      "Carrera Jean",
+      "CHIARA PIERRE Vve",
+      "Corbaz Auguste",
+      "Décosterd Emile",
+      "Fabrique de cadres et baguettes S. A.",
+      "Fauchez Ch.",
+      "Fortis Joseph",
+      "Galeries artistiques de Lausanne",
+      "Gozzola Francis",
+      "Giudicetti Rich.",
+      "Grossenbacher Ernest",
+      "Helfer Robert",
+      "Marmillod Pierre",
+      "Marioni Charles",
+      "Peytrequin Henri",
+      "Ramuz E.",
+      "Rouge Emile",
+      "Ruchti Charles",
+      "Turuvanni Jean",
+      "Wagenländer Charles",
+      "Wildy Adolphe",
+      "Wullschleger Samuel"
+    ],
+    "ENCADREMENT (fournitures pour)": [
+      "Fabrique de cadres et baguettes, S. A."
+    ],
+    "ENCAISSEMENT": [
+      "Jordan Victor"
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "CHIGNY": {
+    "Syndic": [
+      "Jaquet Robert"
+    ],
+    "Secrétaire": [
+      "Jotterand Louis"
+    ],
+    "Boursier": [
+      "Demaurex Henri"
+    ],
+    "Municipaux": [
+      "Forel Franç.",
+      "Rayroux François"
+    ],
+    "Huissier": [
+      "Magnin Georges"
+    ],
+    "Commandant du feu": [
+      "Burnens Eugène"
+    ],
+    "Commission scolaire": [
+      "Moreillon R."
+    ],
+    "Equarrisseur": [
+      "Chauvy Jules"
+    ],
+    "Garde forestier": [
+      "Prélaz"
+    ],
+    "Inspecteur du bétail": [
+      "Rayroux Jules"
+    ],
+    "Inspecteurs forestiers": [
+      "de Luze J.",
+      "Jaques"
+    ],
+    "Inspecteur des viandes": [
+      "Rayroux Js."
+    ],
+    "Police (agent de)": [
+      "Jan Maurice"
+    ],
+    "Agriculteurs": [
+      "Galay Louis",
+      "Imhof Gottfried",
+      "Jaquet Robert",
+      "Jotterand Louis",
+      "Rayroux François",
+      "Rayroux Jules"
+    ],
+    "Chimiste": [
+      "Chauvet Bernard"
+    ],
+    "Jardinier-maraîcher": [
+      "Tschäppeler F."
+    ],
+    "Mécanicien": [
+      "Burnens Eugène"
+    ],
+    "Médecin": [
+      "Forel François"
+    ],
+    "Sage-femme": [
+      "Farner-Galay Anna"
+    ],
+    "Société": [
+      "S. A. d'exploitations et d'améliorations foncières"
+    ],
+    "Vignerons": [
+      "Aubert Georges",
+      "Buchilly André",
+      "Francfort Alfred",
+      "Gros René",
+      "Jan Maurice",
+      "Pasche Edouard",
+      "Vuffray Elie"
+    ],
+    "Divers": [
+      "Laufer Henri"
+    ]
+  },
+  "CLARMONT": {
+    "Syndic": [
+      "Vidoudez Georges"
+    ],
+    "Secrétaire": [
+      "Schopfer Ernest"
+    ],
+    "Boursier": [
+      "Demaurex Henri"
+    ],
+    "Municipaux": [
+      "Jacot Ernest",
+      "Moret"
+    ],
+    "CONTINUATION_FROM_PREVIOUS_PAGE": [
+      "René",
+      "Schopfer Ernest",
+      "Viande François"
+    ],
+    "Huissier": [
+      "Dupuis Emile"
+    ],
+    "Cantonnier": [
+      "Gatabin Emile"
+    ],
+    "Commandant du feu": [
+      "Jacot Ernest"
+    ],
+    "Commission scolaire": [
+      "Jacot Ernest"
+    ],
+    "Garde forestier": [
+      "Besson Adrien"
+    ],
+    "Inspecteur du bétail": [
+      "Cretegny W."
+    ],
+    "Inspecteur de la loque et acariose des abeilles": [
+      "Amaron Léon"
+    ],
+    "Inspecteur des viandes": [
+      "Schopfer Georges"
+    ],
+    "Instituteurs": [
+      "Amaron Léon",
+      "Amaron Eva"
+    ],
+    "Agriculteur": [
+      "Moret R. T."
+    ],
+    "Amodiateur": [
+      "Vidoudez Georges"
+    ],
+    "Apiculteur": [
+      "Amaron Léon"
+    ],
+    "Assurance-vieillesse": [
+      "Amaron L."
+    ],
+    "Assurance": [
+      "La Suisse",
+      "Pahud Charles"
+    ],
+    "Epicerie-mercerie": [
+      "Schopfer Chs."
+    ],
+    "Jardinier": [
+      "Berthet Daniel"
+    ],
+    "Laitier-fromager": [
+      "Fiechter Marcel"
+    ],
+    "Sociétés": [
+      "Sté du battoir",
+      "Sté de fromagerie"
+    ],
+    "Vignerons-agriculteurs": [
+      "Berguer Fernand",
+      "Berthet Daniel",
+      "Cretegny W.",
+      "Decollogny Louis",
+      "Dupuis Emile",
+      "Fiechter Emile",
+      "Jacot Ernest",
+      "Moret Const.",
+      "Schopfer Lina",
+      "Viande Paul",
+      "Vidoudez Georges",
+      "Vidoudez Marie"
+    ],
+    "Divers": [
+      "Moret René",
+      "Roth Alexis",
+      "Stähli Fritz"
+    ]
+  },
+  "LES CLÉES - LA RUSSILLE": {
+    "Syndic": [
+      "Conod Francis"
+    ],
+    "Secrétaire": [
+      "Schwab Albert"
+    ],
+    "Boursier": [
+      "Mermoud Jules"
+    ],
+    "Municipaux": [
+      "Blanchet Jean-Louis",
+      "Conod Ami",
+      "Genier Justin",
+      "Mermoud Jules"
+    ],
+    "Huissier": [
+      "Blanchet Alfred"
+    ],
+    "Assesseur": [
+      "Conod Ami"
+    ],
+    "Cantonnier": [
+      "Genier Justin"
+    ],
+    "Commandant du feu": [
+      "Conod Ami"
+    ],
+    "Commission scolaire": [
+      "Conod Ami",
+      "Conod Benjamin",
+      "Co-",
+      "Conod René"
+    ],
+    "CONTINUATION_FROM_PREVIOUS_PAGE": [
+      "nod René."
+    ],
+    "Garde forestier": [
+      "Conod Charles"
+    ],
+    "Inspecteurs du bétail": [
+      "Lambercy Jean",
+      "Conod Edmond"
+    ],
+    "Instituteurs": [
+      "Schwab Albert"
+    ],
+    "Police (agents de)": [
+      "Blanchet Alfred",
+      "Genier Alfred"
+    ],
+    "Poste et télégraphe": [
+      "Conod Benjamin"
+    ],
+    "Téléphone": [
+      "Nicolet Laure",
+      "Genier Justin"
+    ],
+    "Agriculteurs": [
+      "Blanchet frères",
+      "Conod Francis",
+      "Hug Jean",
+      "Lambercy père et fils",
+      "Baltensweiler Emile",
+      "Conod Edmond",
+      "Conod John",
+      "Conod Ami",
+      "Conod David",
+      "Conod Robert",
+      "Genier Alfred",
+      "Jaccard Emile",
+      "Pichonnat Paul",
+      "Pichonnat Sam.",
+      "Richard Louis"
+    ],
+    "Apiculteurs": [
+      "Conod Benjamin",
+      "Mermoud Jules"
+    ],
+    "Assurance-vieillesse": [
+      "Schwab"
+    ],
+    "Café": [
+      "Nicolet Laure"
+    ],
+    "Couturière": [
+      "Jaccard Suzanne",
+      "Baer Frédéric"
+    ],
+    "Epicerie, mercerie": [
+      "Conod-Baudat Ida"
+    ],
+    "Maçon": [
+      "Néri Henri"
+    ],
+    "Pêcheurs": [
+      "Conod Benj.",
+      "Neri Hri"
+    ],
+    "Pompes funèbres du Nord": [
+      "Dumauthioz"
+    ],
+    "Sable et gravier": [
+      "Tallichet Henri"
+    ],
+    "Sociétés": [
+      "Sté du battoir à grains",
+      "Sté du pressoir de La Russille",
+      "Sté de l'Usine électrique des Clées"
+    ],
+    "Transport": [
+      "Tallichet Henri"
+    ],
+    "Divers": [
+      "Baer F.",
+      "Baer fils",
+      "Conod Fritz",
+      "Glardon Emma"
+    ]
+  },
+  "COINSINS": {
+    "Syndic": [
+      "Baumann Gottfried"
+    ],
+    "Secrétaire": [
+      "Vernez Jules"
+    ],
+    "Boursier": [
+      "Reyrenn Albert"
+    ],
+    "Municipaux": [
+      "Guex Alfred",
+      "Jaugi Pierre",
+      "Muller Jean",
+      "Reyrenn Albert"
+    ],
+    "Huissier": [
+      "Brauch Albert"
+    ],
+    "Commandant du feu": [
+      "Guex Alfred"
+    ],
+    "Commission scolaire": [
+      "Vuagniaux John",
+      "Reyrenn Albert"
+    ],
+    "Inspecteur du bétail": [
+      "Reyrenn Albert"
+    ],
+    "Inspecteur forestier": [
+      "Leuenberger Gl."
+    ],
+    "Instituteurs": [
+      "Zimmermann Edmund",
+      "Mettraux Marguerite"
+    ]
+  }
+}

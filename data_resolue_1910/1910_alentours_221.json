@@ -1,0 +1,269 @@
+{
+  "CORCELLES": {
+    "Tailleur.": [
+      "Fivaz Jules"
+    ],
+    "Télégraphiste.": [
+      "Cherbuin-Schneider Jules"
+    ],
+    "Téléphoniste.": [
+      "Rossier Gémina, veuve"
+    ],
+    "Tisserands.": [
+      "Luthy Frédéric",
+      "Matthys Jean"
+    ],
+    "Tonneliers.": [
+      "Buache Henri",
+      "Buache Jules"
+    ],
+    "Tourneur.": [
+      "Locher Emile"
+    ],
+    "Tuilerie.": [
+      "Morandi, hoirie de Léonard"
+    ]
+  },
+  "GRANDCOUR": {
+    "Président du Conseil communal": [
+      "Combremont H."
+    ],
+    "Secrétaire": [
+      "Mayor-Marcuard Adolphe",
+      "Mayor Ernest"
+    ],
+    "Syndic": [
+      "Dudan Auguste"
+    ],
+    "Municipaux": [
+      "Mayor Emile",
+      "Marcuard Ernest",
+      "Marion Louis",
+      "Mayor Eugène"
+    ],
+    "Agriculteurs": [
+      "Aerni, veuve",
+      "Combremont A.",
+      "Combremont Henri",
+      "Dudan Auguste",
+      "Dudan Frédérich",
+      "Göttschi Jean",
+      "Hänni frères",
+      "Liechti Samuel",
+      "Marcuard Fritz",
+      "Mayor Ernest",
+      "Mayor Fritz",
+      "Mayor-Dudan Fritz",
+      "Mayor Emile",
+      "Mayor Henri",
+      "Meillard fils",
+      "Rossier Alfred"
+    ],
+    "Aubergistes": [
+      "Mäder Jules",
+      "Marmier-Coucet Constant"
+    ],
+    "Boucher-charcutier": [
+      "Mayor Ernest"
+    ],
+    "Boulangers": [
+      "Christinat Alfred",
+      "Mayor Constant fils"
+    ],
+    "Charcutiers": [
+      "Mayor-Tannaz Adolphe. R",
+      "Ruchat-Mercet, veuve"
+    ],
+    "Charpentiers": [
+      "Cuany Fritz",
+      "Marcuard-Zeller Jules",
+      "Ruchat A."
+    ],
+    "Charrons": [
+      "Cuany Louis",
+      "Estoppey Alfred",
+      "Ruchat Eugène",
+      "Ruchat Henri"
+    ],
+    "Coiffeur": [
+      "Mayor Martin"
+    ],
+    "Cordonniers": [
+      "Cruchon Emile",
+      "Gachet Félix",
+      "Ney Frédéric",
+      "Roux Emile",
+      "Zanoni C."
+    ],
+    "Couturières": [
+      "Buschy Eugénie",
+      "Cuany Elise",
+      "Gachet Elise",
+      "Ludi Mina",
+      "Mayor-Blanc, dame"
+    ],
+    "Electricien": [
+      "Hauterive, Fribourg",
+      "Société lausannoise d'électricité"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Marmier Constant",
+      "Mayor Julie. R",
+      "Menétrey Emile. R",
+      "Ruchat Constant. R",
+      "Ruchat A."
+    ],
+    "Fontainier": [
+      "Ruchat Eugène"
+    ],
+    "Inspecteur du bétail": [
+      "Mayor Constant"
+    ],
+    "Instituteurs": [
+      "Marcuard Charles",
+      "Oulevey Lucie",
+      "Combremont Anne",
+      "Petitpierre-Monney Suzanne"
+    ],
+    "Jardinier": [
+      "Schüle Jules"
+    ],
+    "Justice de paix": [
+      "Marcuard Fritz",
+      "Morel Louis",
+      "Comte Paul",
+      "Rapin-Schneider César",
+      "Marcuard Ernest",
+      "Perrin Henri",
+      "Marcuard Adolphe"
+    ],
+    "Lingère": [
+      "Zbinden Anna"
+    ],
+    "Maraîchers": [
+      "Marcuard Victor",
+      "Marmier Oscar",
+      "Roux Eugénie",
+      "Ruchat-Mercet, veuve"
+    ],
+    "Maréchaux": [
+      "Marmier Louis",
+      "Ruchat Charles",
+      "Ruchat Henri"
+    ],
+    "Menuisier": [
+      "Matthey Gustave"
+    ],
+    "Meunier": [
+      "Combremont Edouard. R."
+    ],
+    "Modiste": [
+      "Mayor Madeleine"
+    ],
+    "Officier d'état civil": [
+      "Dudan Auguste"
+    ],
+    "Pasteur": [
+      "Schutz Charles"
+    ],
+    "Pierristes": [
+      "Mayor Jules",
+      "Schüle Fritz"
+    ],
+    "Poste": [
+      "Menétrey Emile. T",
+      "Marcuard Aug"
+    ],
+    "Sage-femme": [
+      "Marcuard Marianne"
+    ],
+    "Scieurs": [
+      "Combremont E.",
+      "Jenny, hoirs de P. R."
+    ],
+    "Selliers": [
+      "Gachet Daniel-Constant",
+      "Marmier Oscar",
+      "Rod Ernest"
+    ],
+    "Sociétés": [
+      "De laiterie. R",
+      "De tir de Cordon Vert. R",
+      "Section de la Croix Bleue"
+    ],
+    "Tailleurs": [
+      "Marcuard Jules",
+      "Schüle Louis"
+    ],
+    "Télégraphiste et téléphoniste": [
+      "Menétrey Emile"
+    ],
+    "Tisserands": [
+      "Combremont Louis",
+      "Reitz J."
+    ]
+  },
+  "GRANGES": {
+    "Président du Conseil communal": [
+      "Desmeules Emile"
+    ],
+    "Secrétaire": [
+      "Jayet Aug.",
+      "Nicod Alexandre"
+    ],
+    "Syndic": [
+      "Nicod Victor"
+    ],
+    "Municipaux": [
+      "Nicod Auguste",
+      "Bidiville Constant",
+      "Duc François",
+      "Brit",
+      "Clément Aloïs",
+      "Mermoud Charles",
+      "Terrin Constant"
+    ],
+    "Agriculteurs": [
+      "Barbey Jean-Elie",
+      "Bidiville Constant",
+      "Bugnion André",
+      "Clément frères",
+      "Duc Alfred",
+      "Duc Jean-Daniel",
+      "Duc François",
+      "Duc Louis",
+      "Durussel Emile",
+      "Jordan Alfred",
+      "Ney, veuve",
+      "Nicod Adolphe",
+      "Nicod Auguste",
+      "Nicod Gustave",
+      "Rossat, hoirs de Jean",
+      "Rossat Louis"
+    ],
+    "Ameublement": [
+      "Barbey Louis",
+      "Terrin Constant"
+    ],
+    "Assurance-vie": [
+      "La Suisse",
+      "Nicod V."
+    ],
+    "Auberges et cafés": [
+      "Estoppey Félix",
+      "Genier Louis",
+      "Pugin Arsène",
+      "Mermoud Eugène",
+      "Ogay Henri",
+      "Pasche, veuve",
+      "Tercier, dame",
+      "Villard Alex"
+    ],
+    "Bois (march. del.)": [
+      "Trolliet Elie"
+    ],
+    "Boursier": [
+      "Durussel-Bidiville Emile"
+    ]
+  }
+}

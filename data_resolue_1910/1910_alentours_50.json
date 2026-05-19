@@ -1,0 +1,213 @@
+{
+  "MAURAZ": {
+    "Municipaux": [
+      "Bovay Henri",
+      "Gruaz Paul",
+      "Rochat Henri"
+    ],
+    "Agriculteurs": [
+      "Amstutz Adrien",
+      "Bovay Alexis",
+      "Gruaz Robert",
+      "Rochat Henri",
+      "Tardy Charles",
+      "Vial Edouard"
+    ],
+    "Apiculteurs": [
+      "Bovay Henri",
+      "Vial Ed."
+    ],
+    "Bois (march. de)": [
+      "Bovay Henri",
+      "Gruaz frères"
+    ],
+    "Fabricant de fourches et râteaux": [
+      "Tardy Charles"
+    ],
+    "Inspecteur du bétail": [
+      "Bovay Alexis"
+    ],
+    "Institutrice": [
+      "Rochat-Schüle Emma"
+    ],
+    "Menuisier": [
+      "Chauvet Louis"
+    ],
+    "Planches rabotées": [
+      "Bovay Henri"
+    ],
+    "Scieurs": [
+      "Bovay Henri",
+      "Chauvet Louis"
+    ]
+  },
+  "MEX": {
+    "Municipaux": [
+      "Valet Edouard",
+      "Cuérel Elie",
+      "Chollet Louis",
+      "Ramuz François",
+      "Dufey Auguste"
+    ],
+    "Agriculteurs": [
+      "Chollet Louis",
+      "Cuérel Elie",
+      "Moret Henri",
+      "Ramuz Ami",
+      "Ramuz François",
+      "Valet Ferdinand"
+    ],
+    "Aubergistes": [
+      "Chollet Louis",
+      "Vaney Charles"
+    ],
+    "Charpentier": [
+      "Duboux Louis"
+    ],
+    "Commission scolaire": [
+      "Valet Ferdinand",
+      "Ramuz François",
+      "Moret Henri"
+    ],
+    "Epicerie et tabacs": [
+      "Vaney Charles"
+    ],
+    "Fermiers": [
+      "Bonzon Henri",
+      "Cœytaux Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Valet Edouard"
+    ],
+    "Instituteurs": [
+      "Dufey Auguste",
+      "Benvegnin Sophie"
+    ],
+    "Jardinier": [
+      "Veit Frédéric"
+    ],
+    "Laitier": [
+      "Vehren Charles"
+    ],
+    "Machine à battre": [
+      "La Commune"
+    ],
+    "Maréchal": [
+      "Wyss Frédéric"
+    ],
+    "Rentier": [
+      "Charrière-De Sévery"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Tailleur": [
+      "Charmasson Emile"
+    ],
+    "Tailleuse": [
+      "Wermuth Adèle"
+    ],
+    "Téléphone public": [
+      "Chollet Julie"
+    ]
+  },
+  "MOIRY": {
+    "Municipaux": [
+      "Chanson Louis-Constant",
+      "Chanson Arnold",
+      "Clerc Henri",
+      "Cugny Louis",
+      "Gaillard Emile",
+      "David Ed.",
+      "Chanson Robert",
+      "Chanson Gustave"
+    ],
+    "Assesseur": [
+      "Chanson François"
+    ],
+    "Agriculteurs": [
+      "Aubert Charles",
+      "Berger Jules",
+      "Berthold François",
+      "Bonzon John",
+      "Boulaz Henri",
+      "Chanson Alexis",
+      "Chanson Armand",
+      "Chanson François",
+      "Chanson Charles",
+      "Chanson Eugène et Constant frères",
+      "Chanson hoirie d'Albert",
+      "Chanson Louis",
+      "Chanson Louis le Grand",
+      "Chanson Michel",
+      "Clerc Pierre",
+      "Cugny Auguste",
+      "Cugny Fernand",
+      "Cugny Léon",
+      "Decollogny hoirie",
+      "Dizerens Louis",
+      "Gaillard Emmanuel",
+      "Magnenat Jean",
+      "Pittet Paul",
+      "Rochat Lucien et Laurent"
+    ],
+    "Aubergistes": [
+      "Berthold François",
+      "Cugny Léon"
+    ],
+    "Charpentier": [
+      "Cachin Adrien"
+    ],
+    "Commission scolaire": [
+      "Chanson Arnold",
+      "Chanson Robert"
+    ],
+    "Epicerie, mercerie": [
+      "Chanson Armand",
+      "Schupbach Jenny"
+    ],
+    "Fabricant de pèse-lait": [
+      "Chanson G."
+    ],
+    "Inspecteur du bétail": [
+      "Chanson Eugène"
+    ],
+    "Instituteurs": [
+      "Piot Constant",
+      "Cugny Lina"
+    ],
+    "Laitiers": [
+      "Jousson frères"
+    ],
+    "Maréchal": [
+      "Badan Elie"
+    ],
+    "Mécanicien": [
+      "Chanson Gustave"
+    ],
+    "Meuniers": [
+      "Chanson Louis-Constant",
+      "Crisinel Aline"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Tailleuses": [
+      "Berger Sophie",
+      "Crisinel Emilie"
+    ],
+    "Téléphoniste": [
+      "Berthold François"
+    ]
+  },
+  "MONT-LA-VILLE": {
+    "Municipaux": [
+      "Charoton Adrien",
+      "Martinet Louis-David",
+      "Charoton Emile",
+      "Cardinaux Louis",
+      "Rochat-Billard",
+      "Martinet Louis"
+    ]
+  }
+}

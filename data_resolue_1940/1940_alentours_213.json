@@ -1,0 +1,310 @@
+{
+  "ORMONT-DESSOUS": {
+    "Instituteurs": [
+      "Mottier Edouard",
+      "Schwizguebel-Martin Lina"
+    ],
+    "Agriculteurs": [
+      "Bonzon Paul",
+      "Borloz Alfred",
+      "Chablaix Elise",
+      "Dupertuis Eugène",
+      "Dupertuis Marcel",
+      "Girod, Vve de Paul",
+      "Mermod Edouard",
+      "Mottier Eugène",
+      "Mottier-Bonzon Alfred",
+      "Oguey Aloys",
+      "Oguey Henri",
+      "Tavernier Aug.",
+      "Tille Auguste",
+      "Tille John"
+    ],
+    "Charpentier": [
+      "Mottier-Chablaix Ami"
+    ],
+    "Epicerie-boulangerie-mercerie": [
+      "Tille John"
+    ],
+    "Médecin": [
+      "Reymond L. Dr"
+    ],
+    "Divers": [
+      "Ginier B., Mme"
+    ]
+  },
+  "ORMONT-DESSUS": {
+    "Députés du cercle": [
+      "Monod Alfred",
+      "Pichard Frank"
+    ],
+    "Syndic": [
+      "Morerod Eugène"
+    ],
+    "Secrétaire": [
+      "Moillen Jules"
+    ],
+    "Boursier": [
+      "Ansermoz Albert"
+    ],
+    "Huissier": [
+      "Moillen Jean"
+    ],
+    "Municipaux": [
+      "Favre Olivier",
+      "Moulin Jules",
+      "Mermod Fernand",
+      "Pichard Frank",
+      "Pilet Alb.",
+      "Treina Georges"
+    ],
+    "Chef de section": [
+      "Busset Edouard",
+      "Busset Edouard"
+    ],
+    "Commission scolaire": [
+      "Gilliard T.",
+      "Busset Eug."
+    ],
+    "Justice de paix (sect. Ormont-Dessus)": [
+      "Treina Georges",
+      "Busset Robert",
+      "Genillard Robert",
+      "Girod Armand",
+      "Moulin Jules",
+      "Nicolier Pernet Jean",
+      "Dufresne Edmond"
+    ]
+  },
+  "LES DIABLERETS": {
+    "Officier d'état civil": [
+      "Chapalay Constant",
+      "Busset Robert"
+    ],
+    "Pasteurs": [
+      "Faes Ed.",
+      "Dierens Gaston"
+    ],
+    "Cantonniers": [
+      "Nicolier Marcel",
+      "Tille Jules",
+      "Schneiter Arth."
+    ],
+    "Chef de gare A.-S.-D.": [
+      "Jaquerod John"
+    ],
+    "Commandant du feu": [
+      "Masson Maur."
+    ],
+    "Gardes-forestiers": [
+      "Berruex Alexis",
+      "Nicolier Emile"
+    ],
+    "Gare A.-S.-D. (chef de)": [
+      "Jaquerod John"
+    ],
+    "Gendarmerie (poste de)": [
+      "Croset Ad.",
+      "Blanc"
+    ],
+    "Greffier de paix": [
+      "Busset Robert"
+    ],
+    "Inspecteur du bétail": [
+      "Moillen-Berruex François"
+    ],
+    "Instituteurs": [
+      "Henchoz Georges",
+      "Trolliet Suzanne",
+      "Treina Madeleine"
+    ],
+    "Police (agent de)": [
+      "Moillen Jean"
+    ],
+    "Poste, télégraphe, téléphone": [
+      "Gallaz John"
+    ],
+    "Agriculteurs": [
+      "Ansermoz Albert",
+      "Ansermoz Eugène",
+      "Ansermoz Jean",
+      "Ansermoz Paul",
+      "Ansermoz René",
+      "Ansermet Othmar",
+      "Berruex-Favre E.",
+      "Berruex Alexis ff. David",
+      "Berruex-Genillard Paul",
+      "Borloz Emile",
+      "Busset Robert",
+      "Chambovey Etienne",
+      "Favre-Pernet Vincent",
+      "Favre Henri",
+      "Favre Samuel",
+      "Favre Olivier",
+      "Favre Robert",
+      "Fuhrer Eugène",
+      "Fuhrer Constant",
+      "Gallaz Emmanuel",
+      "Genillard Rob.",
+      "Genillard Emile",
+      "Genillard Ernest",
+      "Gilliard Théophile",
+      "Girod Paul",
+      "Hauswirth Robert",
+      "Isabel Vincent",
+      "Jordan Jules",
+      "Jordan Ernest",
+      "Jordan Constant",
+      "Moillen-Isabel Jules",
+      "Moillen-Pilet Alexis",
+      "Moillen-Morerod Jules",
+      "Moillen-Chapalay Jules",
+      "Moillen Fernand",
+      "Morerod Eug.",
+      "Morerod Paul",
+      "Morerod Jules",
+      "Morerod Eug.",
+      "Morerod Emile",
+      "Morex Auguste",
+      "Moulin Paul",
+      "Nicolier Louis",
+      "Nicolier Alexandre",
+      "Nicolier Jules",
+      "Nicolier Marcel",
+      "Nicolier Aloïs",
+      "Nicolier Jules ff Emile",
+      "Pernet Pichard Jules",
+      "Pernet John-Vincent",
+      "Pernet-Bovon Em.",
+      "Pernet-Pichard Fd",
+      "Pernet-Favre Js",
+      "Pernet John",
+      "Perreten-Pernet V.",
+      "Perrod, hoirs d'Alf.",
+      "Pfund Adolphe père",
+      "Pfund Adolphe, fils",
+      "Pichard Frank",
+      "Pichard Emile",
+      "Pichard Robert",
+      "Pichard Jean",
+      "Pichard Albert",
+      "Pichard Paul",
+      "Pichard François",
+      "Pichard William",
+      "Pichard Henri",
+      "Pilet-Nicolier Alb.",
+      "Pott Marcelin",
+      "Schneiter Fern.",
+      "Schopfer Gottfried",
+      "Treina Georges"
+    ],
+    "Apiculteur": [
+      "Jordan Constant"
+    ],
+    "Auto-garage, taxi, réparat.": [
+      "Pichard Georges",
+      "Treina Paul"
+    ],
+    "Bazars": [
+      "Dufresne Frida",
+      "Favre Olivier",
+      "Grand Bazar des Alpes",
+      "Pernet Armand",
+      "Pernet Gottfried"
+    ],
+    "Bétail (march. de)": [
+      "Berruex J.",
+      "Mermod Marcel",
+      "Mermod Fernand",
+      "Moillen Fernand"
+    ],
+    "Blanchisseuses": [
+      "Gallaz Sophie",
+      "Perreten Louise"
+    ],
+    "Bois (md de)": [
+      "Treina Georges"
+    ],
+    "Boisselier": [
+      "Jordan Constant"
+    ],
+    "Boucherie": [
+      "Besançon Robert"
+    ],
+    "Boulangerie-pâtisserie": [
+      "Genillard Ernest",
+      "Girod Armand",
+      "Narbel-Moillen Octave"
+    ],
+    "Cafés-restaurants": [
+      "Grand Hôtel des Diablerets",
+      "Corboz Louis",
+      "Jaggi Chs",
+      "Jaquerod John",
+      "Maison François",
+      "Muller-Burnier G.",
+      "Pernet Gottfried",
+      "Pichard Georges"
+    ],
+    "Camionnage": [
+      "Pichard A.",
+      "Treina Marcel et fils"
+    ],
+    "Charpentiers-menuisiers": [
+      "Berruex Constant",
+      "Jordan Jules",
+      "Perreten Emmanuel",
+      "Perreten Alfred",
+      "Perreten John",
+      "Perreten Victor",
+      "Treina Jules"
+    ],
+    "Coiffeurs": [
+      "Berruex André",
+      "Schneiter John"
+    ],
+    "Combustibles": [
+      "Callias A.-H. S.A.",
+      "Pichard Alexis"
+    ],
+    "Cordonniers": [
+      "Nicolier Jules",
+      "Pataroni H."
+    ],
+    "Couturières": [
+      "Jordan Lina",
+      "Jordan Marie",
+      "Jordan Sophie"
+    ],
+    "Electricien": [
+      "Société Romande d'Electricité"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Boillat-Baume Rémy",
+      "Dufresne Frida",
+      "Favre Olivier",
+      "Moillen Jean",
+      "Pernet Armand"
+    ],
+    "Guides patentés": [
+      "Jordan Lucien",
+      "Pernet Armand",
+      "Reber Albert fils",
+      "Reber Ernest"
+    ],
+    "Gypsier-peintre": [
+      "Monti Vincent"
+    ],
+    "Horloger": [
+      "Boillat-Baume Rémy"
+    ],
+    "Hôtels": [
+      "Hôtel Bellevue",
+      "Hôtel des Diablerets",
+      "Hôtel de la Gare",
+      "Hôtel-pension Victoria",
+      "Hôtel-pension du Chamois",
+      "Hôtel du Pillon"
+    ]
+  }
+}

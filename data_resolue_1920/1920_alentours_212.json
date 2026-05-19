@@ -1,0 +1,238 @@
+{
+  "Apples": {
+    "Mécanique (ateliers de tournage)": [
+      "Maurer Robert"
+    ],
+    "Médecins (docteurs)": [
+      "Bergier Alf.",
+      "Zimmer Ch."
+    ],
+    "Menuisiers": [
+      "André Marcel",
+      "Metzner-Junod"
+    ],
+    "Mercerie": [
+      "Agassis-Rochat E. R.",
+      "André Fernand",
+      "Cruchon-Poget Louisa",
+      "Giddey sœurs",
+      "Perret Charles",
+      "Uldry Ad. R."
+    ],
+    "Meuniers": [
+      "Charrière Paul",
+      "Société du Moulin",
+      "Muller Ch.",
+      "Muller Albert"
+    ],
+    "Modistes": [
+      "Cottier A. R.",
+      "Giddey sœurs"
+    ],
+    "Notaires": [
+      "Merminod Edmond",
+      "Rolaz Jules"
+    ],
+    "Officier d'état-civil": [
+      "Merminod Edmond",
+      "Bartré Daniel"
+    ],
+    "Orfèvre": [
+      "Cuendet Daniel, fils"
+    ],
+    "Papeteries": [
+      "André Fern. R.",
+      "Eberhard G.",
+      "Vittoz, Vve de Jules"
+    ],
+    "Pasteurs": [
+      "Beausire Louis",
+      "Borle Maurice",
+      "Raccaud Jules"
+    ],
+    "Pharmacien": [
+      "Eppinger Paul"
+    ],
+    "Peintre (artiste)": [
+      "Hermenjat A."
+    ],
+    "Pension": [
+      "Perret Jeanne"
+    ],
+    "Pierristes": [
+      "Calonne-Margot Ed.",
+      "Piguet Emile"
+    ],
+    "Porcelaine et verrerie": [
+      "Delapierre-Jotterand J. R.",
+      "Lincio Alfred. R.",
+      "Uldry Adolphe"
+    ],
+    "Poterie": [
+      "Lincio Alfred",
+      "Perret Charles",
+      "Uldry Adolphe"
+    ],
+    "Poudrerie de la Confédération suisse": [
+      "Jaquerod A."
+    ],
+    "Quincaillerie": [
+      "Gyssler-Bron H. & Cie",
+      "Lincio Alfred"
+    ],
+    "Ramoneur": [
+      "Clément Auguste"
+    ],
+    "Relieur": [
+      "Eberhard G. Th."
+    ],
+    "Repasseuses": [
+      "Bertholet Henriette",
+      "Dumont Elisa",
+      "Gaillard Louise",
+      "Winkelmann Anna"
+    ],
+    "Sages-femmes": [
+      "Davoët, dame",
+      "Yersin Méry"
+    ],
+    "Sellier-carrossier": [
+      "Gonvers Thle."
+    ],
+    "Serruriers": [
+      "Bartré G.",
+      "Grosjean Paul",
+      "Truan Jules-Emile"
+    ],
+    "Sociétés": [
+      "D'Agriculture de la Côte",
+      "Amis Réunis",
+      "Association viticole",
+      "Du Moulin — Immobilière",
+      "Musique Echo du Chêne",
+      "Electrique d'Aubonne",
+      "Vignes d'Aubonne",
+      "Section de la Croix-Bleue",
+      "Cercle de l'Amitié",
+      "La Chorale",
+      "Gymn. hommes et gymn. Fédérale",
+      "Chêne Foot-Ball Club",
+      "Syndicat d'élevage"
+    ],
+    "Tailleurs": [
+      "Delapierre Jules",
+      "Gerber Gottlieb",
+      "Cœndoz Louis"
+    ],
+    "Tapissier": [
+      "Metzner-Junod"
+    ],
+    "Teintureries": [
+      "Agassiz-Rochat",
+      "Aubert Anna",
+      "Cruchon-Poyet"
+    ],
+    "Télégraphiste": [
+      "Daxelhofer Octavie"
+    ],
+    "Tisserand": [
+      "Frey Henri"
+    ],
+    "Toilerie et tissus": [
+      "Agassis-Rochat E. R.",
+      "Nerfin E. R."
+    ],
+    "Tonneliers": [
+      "Lædermann Alexis",
+      "Locher Robert",
+      "Serex Louis",
+      "Winkelmann Emile"
+    ],
+    "Vélocipèdes": [
+      "Cuendet D. R.",
+      "Wehrly Jean"
+    ],
+    "Vétérinaire": [
+      "Röthlisberger M.-F.",
+      "Trottet Etienne"
+    ],
+    "Vins (nég. en)": [
+      "Matthey, hoirie",
+      "Peter Alfr.",
+      "Tavernier"
+    ],
+    "Voituriers": [
+      "Filliettaz Edouard",
+      "Jaquenoud Emile"
+    ],
+    "Divers": [
+      "Bretagne Marc-Antoine",
+      "Burnet C.",
+      "Burnet F.",
+      "Crinsoz, Vve d'Ed.",
+      "Escher-Grand, Vve",
+      "Grand Paul-Em.",
+      "Liardet Lina, Vve",
+      "Magnenat Louis",
+      "Perret Louis",
+      "Rochat Paul",
+      "de Tscharner Elisa"
+    ],
+    "Autorités communales": [
+      "Fazan Marcel",
+      "Nicod Edouard",
+      "Fazan Edouard",
+      "Bourcaud Emile",
+      "Jotterand Ls",
+      "Baud Charles",
+      "Devenoge Henri",
+      "Pantet Alfred",
+      "Delacuisine Maurice"
+    ],
+    "Agriculteurs": [
+      "Baud Ch.",
+      "Baud Henri",
+      "Baud Louis",
+      "Baud William",
+      "Bourcaud Emile",
+      "Brot Ele",
+      "Cochet Edouard",
+      "Cochet, hoirie d'Emile",
+      "Cochet Gustave",
+      "Cochet John",
+      "Decollogny Gaston",
+      "Decollogny Henri",
+      "Decollogny Henri",
+      "Decollogny frères",
+      "Decollogny Jules",
+      "Decollogny Samuel",
+      "Delacuisine Maurice",
+      "Demont Marcel",
+      "Devenoge frères",
+      "Dubois Charles",
+      "Dubois Jules",
+      "Fazan Ed.",
+      "Fazan Henri",
+      "Fazan Maurice",
+      "Fazan Robert",
+      "Mingard Charles",
+      "Mingard Charles",
+      "Meldem frères",
+      "Oeschli Gottfried",
+      "Pantet Alfred",
+      "Rochat Jules"
+    ],
+    "Amodiateurs": [
+      "Devenoge frères"
+    ],
+    "Apiculteurs": [
+      "Baud Henri",
+      "Baud William",
+      "Besson Adrien",
+      "Delacrétaz Jean",
+      "Decollogny Henri",
+      "Henriod L. fils",
+      "Mermod Ch."
+    ]
+  }
+}

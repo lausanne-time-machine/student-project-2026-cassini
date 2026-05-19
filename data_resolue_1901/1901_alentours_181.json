@@ -1,0 +1,270 @@
+{
+  "ORON-LA-VILLE": {
+    "Téléphone public": [
+      "Maison de Ville"
+    ],
+    "Tisserand": [
+      "Serex, Fr.-Louis"
+    ],
+    "Vélocipèdes": [
+      "Chamot, Albert",
+      "Favre, Jules. R."
+    ],
+    "Vétérinaire": [
+      "Boudry, Alexis. R T."
+    ]
+  },
+  "ORON-LE-CHATEL": {
+    "Autorités communales": [
+      "Mayor, Daniel",
+      "Corboz, Emile"
+    ],
+    "Syndic": [
+      "Mayor, Gustave"
+    ],
+    "Municipaux": [
+      "Corboz, Fréd.",
+      "Mayor, Henri",
+      "Mayor, Ch.",
+      "Blanchoud, Ch."
+    ],
+    "Secrétaire municipal": [
+      "Blanchoud, Jules"
+    ],
+    "Boursier": [
+      "Mayor, Louis"
+    ],
+    "Aubergistes": [
+      "Amy, Héli",
+      "Corboz, E."
+    ],
+    "Bouchers": [
+      "Mayor, David",
+      "Mayor, Henri"
+    ],
+    "Chef de gare": [
+      "Dubois, Eugène"
+    ],
+    "Fontainier": [
+      "Mayor, Henri"
+    ],
+    "Garde-forestier cantonal": [
+      "Arnaud, L."
+    ],
+    "Inspecteur du bétail": [
+      "Mayor, Daniel"
+    ],
+    "Instituteur": [
+      "Lavanchy, Victor"
+    ],
+    "Laitier": [
+      "Ravyler, Fritz. R."
+    ],
+    "Maréchal": [
+      "Corboz-Budry, Fréd."
+    ],
+    "Menuisier": [
+      "Corboz, Louis"
+    ],
+    "Négociante": [
+      "Corboz, Louise"
+    ],
+    "Société": [
+      "Société de fromagerie. R."
+    ],
+    "Tuiles, briques": [
+      "Amy, Héli. R."
+    ]
+  },
+  "PALÉZIEUX": {
+    "Autorités communales": [
+      "Jaunin, Constant",
+      "Dufey, Albert"
+    ],
+    "Syndic": [
+      "Pasche, Charles"
+    ],
+    "Municipaux": [
+      "Perroud, Adrien",
+      "Chollet, Henri",
+      "Chevalley, Aimé",
+      "Perroud, François"
+    ],
+    "Secrétaire municipal": [
+      "Blanchoud",
+      "Demiéville, Aimé"
+    ],
+    "Boursier": [
+      "Beroud, Charles"
+    ],
+    "Aubergistes": [
+      "Devaud, Jules",
+      "Dufey, veuve",
+      "Herren, Jean",
+      "Zbinden, Joseph. R T."
+    ],
+    "Babouches et pantoufles (fabr.)": [
+      "Martin, Charles. R."
+    ],
+    "Bétail (marchand!)": [
+      "Devaud, Jules. R."
+    ],
+    "Bière (dépôt)": [
+      "Grande brasserie Beauregard",
+      "Zbinden"
+    ],
+    "Bois (marchand!)": [
+      "Chollet, Henri. R."
+    ],
+    "Boulangers": [
+      "Chaubert, Léon",
+      "Favre, Julien."
+    ],
+    "Charron": [
+      "Chollet, Augnste."
+    ],
+    "Chef de section": [
+      "Pasche, Charles"
+    ],
+    "Colonie agricole de Serix": [
+      "Leresche-Roy, Albert",
+      "Magnenat, Louis",
+      "Magnenat, Georges",
+      "Chambaz, Octave",
+      "Berger, Louis"
+    ],
+    "Cordonniers": [
+      "Grandchamp, Henri",
+      "Gilliéron, Edouard."
+    ],
+    "Engrais chimiques": [
+      "Buttet, François."
+    ],
+    "Epicerie, mercerie": [
+      "Delafontaine, Emma. R.",
+      "Martin, Charles. R.",
+      "Pasche, Charles. R.",
+      "Reymond-Buttet, Ed. R."
+    ],
+    "Etoffes": [
+      "Reymond-Buttet, Ed. R."
+    ],
+    "Ferronnerie": [
+      "Pasche, Charles. R."
+    ],
+    "Inspecteur du bétail": [
+      "Demiéville, Franç."
+    ],
+    "Instituteur": [
+      "Chamot, Victor",
+      "Favez-Pasche, Adèle."
+    ],
+    "Juge au tribunal": [
+      "Pasche, Charles."
+    ],
+    "Laitier": [
+      "Guillaume, Joseph. R."
+    ],
+    "Maçon": [
+      "Berlucchi, Joseph."
+    ],
+    "Maréchal": [
+      "Dubois, Alfred."
+    ],
+    "Meuniers": [
+      "Chollet, Emile. R",
+      "Demiéville, Auguste."
+    ],
+    "Officier d'état civil": [
+      "Chamot, Victor."
+    ],
+    "Pasteur": [
+      "Lugrin, Ami."
+    ],
+    "Poste (dépôt!)": [
+      "Favez, Jean-Louis."
+    ],
+    "Scieries": [
+      "Chollet, Emile. R",
+      "Demiéville, Aug."
+    ],
+    "Sellier": [
+      "Dufey, Fr."
+    ],
+    "Sociétés": [
+      "Société du cordon vert, rouge et blanc. R",
+      "Société de fromagerie. R",
+      "Société de laiterie de Monnéaz. R."
+    ],
+    "Téléphoniste": [
+      "Herren, Jean."
+    ],
+    "Vélocipèdes": [
+      "Chamot, Albert."
+    ],
+    "Vins": [
+      "Pasche, Ch. R."
+    ]
+  },
+  "PENEY-LE-JORAT": {
+    "Autorités communales": [
+      "Jaton, Jean",
+      "Gavillet, John"
+    ],
+    "Syndic": [
+      "Gavillet, Héli"
+    ],
+    "Municipaux": [
+      "Gavillet, Alfred",
+      "Gavillet, Elie",
+      "Gavillet, Lucien",
+      "Gavillet, Adrien",
+      "Gavillet, Héli-Jacques",
+      "Delessert, Charles-Auguste"
+    ],
+    "Secrétaire municipal": [
+      "Delessert, Lucien"
+    ],
+    "Boursier": [
+      "Gavillet, Aimé"
+    ],
+    "Aubergistes": [
+      "Besson, Ernest",
+      "Jaton, Ophélia, veuve"
+    ],
+    "Boulanger": [
+      "Besson, Ernest. R."
+    ],
+    "Charpentiers": [
+      "Curchod, Edouard",
+      "Gavillet-Viret, François"
+    ],
+    "Cordonniers": [
+      "Rubattel, Henri",
+      "Stoll, Jean"
+    ],
+    "Engrais d'os": [
+      "Gavillet, Daniel"
+    ],
+    "Epicerie, mercerie": [
+      "Delessert, Louis-Samuel. R.",
+      "Gavillet, Emma. R."
+    ],
+    "Inspecteur du bétail": [
+      "Gavillet, Lucien"
+    ],
+    "Instituteur": [
+      "Gaillard, Ami"
+    ],
+    "Maréchaux": [
+      "Mayor, Adrien",
+      "Vioget, Louis"
+    ],
+    "Meunier": [
+      "Gavillet, Daniel"
+    ],
+    "Pasteur": [
+      "Décombaz, Ch.-Samuel-Joseph"
+    ]
+  }
+}

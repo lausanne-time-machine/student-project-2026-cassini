@@ -1,0 +1,286 @@
+{
+  "CHÊNE-PAQUIER": {
+    "Agriculteurs": [
+      "Centlivres Edouard",
+      "Centlivres Jean-François",
+      "Centlivres Lucien",
+      "Cordey Félix",
+      "Deppierraz Constant",
+      "Guex Olympe",
+      "Guillet Aimé",
+      "Guillet Léonard",
+      "Guillet Oscar",
+      "Jaillet Louis",
+      "Pahud Ulysse",
+      "Perret Louis",
+      "Pochon Charles",
+      "Pochon Félix",
+      "Pochon François",
+      "Pochon Henri",
+      "Pochon Louise et Nancy",
+      "Pochon Robert"
+    ],
+    "Charpentiers": [
+      "Bally Maxis",
+      "Cordey Félix",
+      "Guillet Léonard"
+    ],
+    "Charron": [
+      "Bally Félix"
+    ],
+    "Commission scolaire": [
+      "Bezençon Edmond",
+      "Bally Henri",
+      "Pochon Auguste"
+    ],
+    "Cordonnier": [
+      "Perret Louis"
+    ],
+    "Epicerie": [
+      "Thuillard Jules"
+    ],
+    "Inspecteur du bétail": [
+      "Pochon Julien"
+    ],
+    "Instituteur": [
+      "Vallotton Paul"
+    ],
+    "Pasteur": [
+      "Bezençon Edmond"
+    ],
+    "Poste": [
+      "Centlivres Constant"
+    ],
+    "Scieurs": [
+      "Bally Henri",
+      "Pochon Emile"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Téléphoniste": [
+      "Centlivres Adèle"
+    ]
+  },
+  "CHESEAUX-NORÉAZ": {
+    "Président du Conseil général": [
+      "Glauser Constant"
+    ],
+    "Secrétaire": [
+      "Gasser Jules"
+    ],
+    "Syndic": [
+      "Christin Emile"
+    ],
+    "Municipaux": [
+      "Auberson Louis",
+      "Marendaz Georges"
+    ],
+    "Boursier": [
+      "Collet Henri"
+    ],
+    "Agriculteurs": [
+      "Auberson Louis",
+      "Bloësch hoirs",
+      "Christin Emile",
+      "Collet Henri",
+      "du Bois François",
+      "du Bois Maurice",
+      "Gasser Jules",
+      "Glauser hoirs",
+      "Häni Gottfried",
+      "Jeanmonod Louis",
+      "Marendaz Georges-Louis",
+      "Muller Jean",
+      "Sollberger Eugénie",
+      "Studmann Jean",
+      "Tanner Charles",
+      "Thonney"
+    ],
+    "Commission scolaire": [
+      "du Bois Maurice",
+      "Christin Emile",
+      "Marendaz Georges"
+    ],
+    "Forestier": [
+      "Volper Albert"
+    ],
+    "Inspecteur du bétail": [
+      "Collet Henri"
+    ],
+    "Institutrice": [
+      "Glauser-Mottaz Louise"
+    ],
+    "Jardinier": [
+      "Tanner Henri"
+    ],
+    "Menuisier": [
+      "Müller Jean"
+    ]
+  },
+  "CRONAY": {
+    "Président du Conseil général": [
+      "Viquerat Emile"
+    ],
+    "Secrétaire": [
+      "Potterat Aloïs",
+      "Pittet Alfred"
+    ],
+    "Syndic": [
+      "Guidoux Edouard"
+    ],
+    "Municipaux": [
+      "Duruz Julien",
+      "Viquerat Jules",
+      "Resin François",
+      "Pittet Lucien",
+      "Duruz Gustave",
+      "Guidoux Oscar"
+    ],
+    "Boursier": [
+      "Duruz Julien"
+    ],
+    "Agriculteurs": [
+      "Besson Frintzi",
+      "Besson Henri",
+      "Besson Louis",
+      "Duruz frères",
+      "Duruz Julien",
+      "Duruz-Pidoux Gustave",
+      "Guidoux frères",
+      "Guidoux Oscar",
+      "Pittet frères",
+      "Resin François",
+      "Resin-Guidoux Julien",
+      "Viquerat Jules"
+    ],
+    "Apiculteur": [
+      "Décorges Aimé"
+    ],
+    "Aubergistes": [
+      "Frauche",
+      "Resin Julien"
+    ],
+    "Bétail (march. de)": [
+      "Resin Julien"
+    ],
+    "Boulanger": [
+      "Guidoux Ernest"
+    ],
+    "Charpentier": [
+      "Baumann Frédéric"
+    ],
+    "Charron-tourneur": [
+      "Bruand Frentzi"
+    ],
+    "Commission scolaire": [
+      "Honoré",
+      "Pittet Alfred"
+    ],
+    "Cordonniers": [
+      "Addor-Degex",
+      "Tardy-Peytregnet E."
+    ],
+    "Epicerie, mercerie": [
+      "Guidoux Ernest",
+      "Pittet Augusta"
+    ],
+    "Forestier": [
+      "Pittet Alfred"
+    ],
+    "Inspecteur du bétail": [
+      "Duruz Julien"
+    ],
+    "Instituteurs": [
+      "Despland Emile",
+      "Despland-Puenzieux Emma"
+    ],
+    "Maçon": [
+      "Perdrisat Auguste"
+    ],
+    "Maréchaux": [
+      "Besson Henri",
+      "Danthe Louis"
+    ],
+    "Marchand de bois et scieur": [
+      "Décorges Ulysse"
+    ],
+    "Pasteur": [
+      "Honoré Christian"
+    ],
+    "Poste": [
+      "Potterat Julie"
+    ],
+    "Rentier": [
+      "Potterat Aloïs"
+    ],
+    "Sage-femme": [
+      "Duruz-Gruaz Alice"
+    ],
+    "Sociétés": [
+      "De tir aux armes de guerre",
+      "De laiterie",
+      "Immobilière de l'Union chrétienne de jeunes gens",
+      "De battage",
+      "De chant",
+      "Section de la Croix Bleue"
+    ],
+    "Tailleuses": [
+      "Duruz Georgine",
+      "Duruz Pidoux",
+      "Duruz Jean-J."
+    ],
+    "Tisserand": [
+      "Danthe Jules"
+    ],
+    "Téléphoniste": [
+      "Duruz Gustave"
+    ]
+  },
+  "CUARNY": {
+    "Président du Conseil général": [
+      "Roullier Jules"
+    ],
+    "Secrétaire": [
+      "Peguiron Emile",
+      "Correvon E."
+    ],
+    "Syndic": [
+      "Gondoux Constant"
+    ],
+    "Municipaux": [
+      "Christin Louis",
+      "Correvon Marc",
+      "Gendroz Justin",
+      "Guerry Louis",
+      "Correvon Oscar",
+      "Peguiron Alfred"
+    ],
+    "Agriculteurs": [
+      "Bécherraz François",
+      "Christin Louis",
+      "Correvon Marc",
+      "Gondoux Constant",
+      "Roullier Jules"
+    ],
+    "Café": [
+      "Tardy F."
+    ],
+    "Cordonnier": [
+      "Peguiron Edouard"
+    ],
+    "Epicerie, mercerie": [
+      "Guillet Louis",
+      "Peguiron-Rognon Ch.-F."
+    ],
+    "Inspecteur du bétail": [
+      "Bécherraz François"
+    ],
+    "Instituteur": [
+      "Favrat Jules"
+    ],
+    "Maçon": [
+      "Tardy F."
+    ]
+  }
+}

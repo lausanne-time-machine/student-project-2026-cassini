@@ -1,0 +1,425 @@
+{
+  "CHEXBRES": {
+    "Municipaux:": [
+      "Chappuis Ul.",
+      "Carroz",
+      "Chevalley Samuel",
+      "Légeret Francis",
+      "Légeret Paul"
+    ],
+    "Huissier:": [
+      "Zimmermann Octave"
+    ],
+    "Assesseur.": [
+      "Chappuis Henri"
+    ],
+    "Bureau des étrangers.": [
+      "Poste de police"
+    ],
+    "Cantonnier.": [
+      "Burnand Edouard"
+    ],
+    "Commandant du feu.": [
+      "Légeret F."
+    ],
+    "Commission scolaire.": [
+      "Bidlingmeyer Ami",
+      "Prim",
+      "Chevalley Samuel"
+    ],
+    "Contrôleur du lait.": [
+      "Chappuis Paul"
+    ],
+    "Gardes-forestiers.": [
+      "Testuz Henri"
+    ],
+    "Gare C. F. F. (chef de).": [
+      "Anex M."
+    ],
+    "Greffier de paix.": [
+      "Gilliéron Willy"
+    ],
+    "Huissier de la justice de paix.": [
+      "Trolliet P."
+    ],
+    "Inspecteur du bétail.": [
+      "Gilliéron Oct."
+    ],
+    "Inspecteur des viandes.": [
+      "Paley André"
+    ],
+    "Instituteurs.": [
+      "Chollet Paul",
+      "Echenard Robert",
+      "Peyrollaz Robert",
+      "Bugnon Hélène",
+      "Corthésy Andrée"
+    ],
+    "Juge de paix.": [
+      "Bron Oscar"
+    ],
+    "Officier d'état-civil.": [
+      "Bidlingmeyer Ami",
+      "Gilliéron Willy"
+    ],
+    "Pasteur.": [
+      "Leuba Pierre"
+    ],
+    "Police (agent de).": [
+      "Zimmermann Octave"
+    ],
+    "Poste et télégraphe.": [
+      "Ischer Aug"
+    ],
+    "Agriculteurs — vignerons.": [
+      "Amstein Henri",
+      "Barbey Emile",
+      "Barbey Léon",
+      "Blanc Louis",
+      "Bovy Maurice",
+      "Chappuis Henri",
+      "Chappuis Max",
+      "Chappuis Vincent, Henri et Louis",
+      "Chappuis Ulysse",
+      "Chevalley Pl.",
+      "Chevalley Samuel",
+      "Chevalley Théodore",
+      "Conne André",
+      "Conne Ernest",
+      "Conne Ami",
+      "Fonjallaz Pierre",
+      "Jaunin Victor",
+      "Légeret Oscar",
+      "Leyvraz Alfred",
+      "Leyvraz John",
+      "Meylan Adrien",
+      "Paley André",
+      "Rogivue Jean-P."
+    ],
+    "Apiculteur.": [
+      "Tondu François, fils"
+    ],
+    "Appareilleurs.": [
+      "Albanesi Louis",
+      "Fardel Albert",
+      "Rastoldo. veuve"
+    ],
+    "Artistes-peintres.": [
+      "Biéler Ernest",
+      "Verneuil de Marval"
+    ],
+    "Asile pour enfants.": [
+      "La Nichée"
+    ],
+    "Assurances.": [
+      "Morel Aloys"
+    ],
+    "Assurance-vieillesse.": [
+      "Mutualité scolaire de retraite",
+      "Peyrollaz Robert"
+    ],
+    "Automobiles (excursions).": [
+      "Lebet Marcel",
+      "Meylan Ed."
+    ],
+    "Banques.": [
+      "Banque Cantonale Vaudoise"
+    ],
+    "Blanchisseuses.": [
+      "Delay, dame",
+      "Simond, dame",
+      "Wüthrich Anna"
+    ],
+    "Bois (comm. de).": [
+      "Delay John"
+    ],
+    "Bouchers.": [
+      "Gilliéron Vve de P.",
+      "Moret Max"
+    ],
+    "Boulangers.": [
+      "Bidlingmeyer Ami",
+      "Chaubert Aimé",
+      "Naegele Louis"
+    ],
+    "Bureau de renseignements et location.": [
+      "Ischer Auguste"
+    ],
+    "Cafés.": [
+      "Carestia Elisa",
+      "café de la Poste",
+      "Chaubert Lina, Veuve",
+      "Café du Cotterd",
+      "Hochuli Henri",
+      "Hôtel du Nord",
+      "Légeret Paul",
+      "café Central",
+      "Pittet Maurice",
+      "café de la Paix",
+      "Wirsten-Séchaud Jules",
+      "Lion d'Or"
+    ],
+    "Café sans alcool.": [
+      "«Le Foyer»",
+      "Tea-Room Décosterd Louis"
+    ],
+    "Camionneurs.": [
+      "Delay John",
+      "Meylan Edouard"
+    ],
+    "Cercueils.": [
+      "Eich & fils"
+    ],
+    "Charpentier.": [
+      "Eich et fils"
+    ],
+    "Charretiers.": [
+      "Barbey Emile",
+      "Barbey Léon",
+      "Chevalley Samuel"
+    ],
+    "Charron.": [
+      "Grandchamp Aimé"
+    ],
+    "Chaussures.": [
+      "Dénéréaz Eug., fils"
+    ],
+    "Coiffeurs.": [
+      "Conne François",
+      "Giorla Paul",
+      "Murisier Henri",
+      "Richner-Müller"
+    ],
+    "Coiffeuses pr dames.": [
+      "Conne, dame",
+      "Richner Mathilde"
+    ],
+    "Combustibles.": [
+      "Delay John"
+    ],
+    "Confections pour hommes.": [
+      "Richardet Gustave"
+    ],
+    "Cordonnier.": [
+      "Bruand René"
+    ],
+    "Couturières.": [
+      "Fiette Germaine",
+      "Pittet Elise, Mme"
+    ],
+    "Dentiste.": [
+      "Cherix Louis"
+    ],
+    "Droguistes.": [
+      "Gilliéron Willy",
+      "Guex Héli"
+    ],
+    "Electriciens.": [
+      "Bersier Reymond",
+      "Entreprises électriques fribourgeoises",
+      "Fiette Louis",
+      "Rey Edouard"
+    ],
+    "Entrepreneurs.": [
+      "Garzoni Alfred",
+      "Racle Walter",
+      "Tettoni Generoso"
+    ],
+    "Epicerie, mercerie, poterie.": [
+      "Dénéréaz E. fils",
+      "Gilliéron Willy",
+      "Mayor John",
+      "Renfer-Fellay J. R."
+    ],
+    "Ferblantiers-appareilleurs.": [
+      "Albanesi Louis et Antoine fils",
+      "Fardel Albert",
+      "Rastoldo, Vve."
+    ],
+    "Fers et quincaillerie.": [
+      "Gilliéron Willy"
+    ],
+    "Fromages.": [
+      "Renfer Jean",
+      "Dénéréaz Eugène fils",
+      "Gilliéron Willy"
+    ],
+    "Garages.": [
+      "Chaubert Louis",
+      "Lebet Marcel"
+    ],
+    "Gypsiers-peintres.": [
+      "Tintori Jules",
+      "Zoppi Angelo"
+    ],
+    "Horloger.": [
+      "Wutrich Fritz"
+    ],
+    "Hôtels-pensions.": [
+      "Pension de la Charmille",
+      "Gilliéron E.",
+      "Pension La Violette",
+      "Christin Berthe",
+      "Hôtel Cécil",
+      "Regamey-Favre Paul",
+      "Hôtel du Signal",
+      "de Gunten",
+      "Pension Le Verger",
+      "Sandoz Elisa, Mlle.",
+      "Hôtel Belle-vue",
+      "Butticaz Jean",
+      "Hôtel du Nord",
+      "Hochuli Henri",
+      "Hôtel Victoria",
+      "Chappuis Rose",
+      "Hôtel Lion d'Or",
+      "J. Würsten-Séchaud",
+      "Le Foyer",
+      "L. Décosterd",
+      "Chalet Plan-Fleuri",
+      "Tièche Willy"
+    ],
+    "Institut.": [
+      "Institut préalpin pour jeunes filles",
+      "Buser"
+    ],
+    "Jardiniers.": [
+      "Beausire frères",
+      "Chappuis Constant",
+      "Dubuis Ch.",
+      "Rochat Maxime"
+    ],
+    "Journaux.": [
+      "Dénéréaz Eugène, fils"
+    ],
+    "Laitiers.": [
+      "Jacquemettaz H.",
+      "Société de laiterie",
+      "Sterki Ami"
+    ],
+    "Maisons de repos.": [
+      "Christin Berthe",
+      "Robert-Reymond J.-S."
+    ],
+    "Maréchal.": [
+      "Naegele Albert"
+    ],
+    "Mécaniciens.": [
+      "Lebet Marcel",
+      "Chaubert Ls fils",
+      "Pauroux Jean"
+    ],
+    "Médecins.": [
+      "Champrenaud F.",
+      "Frossard Julien",
+      "Lanz W."
+    ],
+    "Menuisiers.": [
+      "Eich & fils",
+      "Légeret & fils"
+    ],
+    "Merceries.": [
+      "Jaccard Augusta",
+      "Richardet Gustave"
+    ],
+    "Meunier.": [
+      "Conne-Gilliéron Emile"
+    ],
+    "Notaires.": [
+      "Buche Paul",
+      "Conne Maurice",
+      "Cornut Fernand"
+    ],
+    "Pharmacie.": [
+      "Guex Héli"
+    ],
+    "Prévntorium p. enfants.": [
+      "La Nichée"
+    ],
+    "Primeurs.": [
+      "Aellen A."
+    ],
+    "Radio.": [
+      "Wutrich Fritz"
+    ],
+    "Représentants.": [
+      "Kolitzus Jean et Roger",
+      "Pauroux Jean",
+      "Richner Marcel"
+    ],
+    "Sage-femme.": [
+      "Delacasa Germaine"
+    ],
+    "Scieur.": [
+      "Cossy Louis"
+    ],
+    "Selliers-tapissiers.": [
+      "Butticaz Maurice",
+      "Grunder Auguste"
+    ],
+    "Serruriers.": [
+      "Bovard Louis",
+      "Naegele Albert"
+    ],
+    "Sociétés": [
+      "Association catholique",
+      "Association Vieux-Lavaux",
+      "Chœur mixte",
+      "Orchestre de Chexbres",
+      "Section de la Croix-Bleue",
+      "Sté de chant L'Echo du Forestay",
+      "Sté de la Grande Salle",
+      "Sté de gymnastique La Jeune Suisse",
+      "Sté de secours mutuels",
+      "Sté de tir au flobert et pistolet"
+    ],
+    "Surveillant des eaux.": [
+      "Conne Albert"
+    ],
+    "Tailleur.": [
+      "Weingart Jean",
+      "Vogel, hoirie de Jean"
+    ],
+    "Tapissiers.": [
+      "Butticaz Maurice",
+      "Gilliard Ch."
+    ],
+    "Tea-rooms.": [
+      "Bidlingmeyer Ami",
+      "Chaubert Aimé",
+      "Décosterd Louis",
+      "Perret E."
+    ],
+    "Tonnelier.": [
+      "Noverraz Aloïs"
+    ],
+    "Vélos.": [
+      "Chaubert Louis, fils",
+      "Lebet Marcel"
+    ],
+    "Vins.": [
+      "Bovy Maurice",
+      "Barbey Fernand et Léon",
+      "Chappuis Ulysse",
+      "Chevalley Jean"
+    ],
+    "Voituriers.": [
+      "Barbey Léon",
+      "Chevalley Samuel"
+    ],
+    "Divers.": [
+      "Chappuis Emile",
+      "Clavel François",
+      "Conne Raoul",
+      "Cossy André",
+      "de Coppet Ed.",
+      "Depeursinge Edouard",
+      "Lehner Alfred",
+      "Mermod Eric",
+      "Noir Jean",
+      "Oettli M.",
+      "Picard Auguste",
+      "Vermeil Henri"
+    ]
+  }
+}

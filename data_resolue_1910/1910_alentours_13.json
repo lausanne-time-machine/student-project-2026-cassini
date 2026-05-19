@@ -1,0 +1,227 @@
+{
+  "LEYSIN": {
+    "Bouchers": [
+      "Dupertuis Constant",
+      "Monod Jules",
+      "Pernet Jules"
+    ],
+    "Boulangers": [
+      "Boulangerie du Mont-Blanc",
+      "Chappuis Th. R",
+      "Dufresne Jules",
+      "Stæmpfli Fritz"
+    ],
+    "Cafés": [
+      "Berthoud Lucien",
+      "Besse Louis",
+      "Dufresne Henri",
+      "Lobsiger Jean",
+      "Lovisetto Jean",
+      "Neithardt Auguste",
+      "Rigazzio Antoine",
+      "Schwendy Charles"
+    ],
+    "Cafés-chocolat": [
+      "Chevalley Henri",
+      "Hauser Emile"
+    ],
+    "Charpentiers": [
+      "Schläppi Jean",
+      "Tille Victor",
+      "Uselini Théobald"
+    ],
+    "Charretiers": [
+      "Vaudroz Henri",
+      "Vaudroz Jules"
+    ],
+    "Chef de gare": [
+      "Bonzon Ernest"
+    ],
+    "Chef de section": [
+      "Neveu Auguste"
+    ],
+    "Cigares et tabacs": [
+      "Chappuis Th.",
+      "Dufresne Jules",
+      "Dufour Sylvie",
+      "Tauxe Charles",
+      "Traphagen Charles"
+    ],
+    "Cliniques": [
+      "Clinique chirurgicale, Docteur Rollier",
+      "Clinique du Dr de Reynier"
+    ],
+    "Combustibles": [
+      "Besse L."
+    ],
+    "Commandant du feu": [
+      "Neveu Auguste"
+    ],
+    "Coiffeurs": [
+      "Roiron Albert",
+      "Traphagen Charles"
+    ],
+    "Commission scolaire": [
+      "Favey L.",
+      "Barroud Eugène"
+    ],
+    "Cordonniers": [
+      "Poggia G. R",
+      "Tauss, Vve."
+    ],
+    "Couturières": [
+      "Barroud Marie",
+      "Kramer, dame",
+      "Levrat Marie",
+      "Nicolier Aline"
+    ],
+    "Cremerie": [
+      "Wyler, demoiselle"
+    ],
+    "Electriciens": [
+      "Dufresne S.",
+      "Cossy Félix"
+    ],
+    "Entrepreneur postal": [
+      "Warpelin Jules"
+    ],
+    "Epicerie": [
+      "Besse Joseph",
+      "Chappuis Th.",
+      "Dufour S. R",
+      "Dufresne Jules",
+      "Ernst Emile & frère",
+      "Rittener Elise R",
+      "Sieber Arnold",
+      "Welten, Mmes",
+      "Zimmerli Sophie"
+    ],
+    "Facteurs postaux": [
+      "Barroud Charles",
+      "Burnier Eugène",
+      "Dufour Eugène",
+      "Monod Henri",
+      "Monod Gustave",
+      "Nicolier Alfred"
+    ],
+    "Ferblantier": [
+      "Fureder F."
+    ],
+    "Fournitures pour la photographie": [
+      "Antoine",
+      "Decaux Gustave"
+    ],
+    "Fromager": [
+      "Bertholet David"
+    ],
+    "Garde-forestier": [
+      "Borloz Alfred"
+    ],
+    "Gypserie et peinture": [
+      "Demarchi Pierre",
+      "Massera Antoine",
+      "Rabattoni Louis"
+    ],
+    "Horloger": [
+      "Walther Arnold. R."
+    ],
+    "Horticulteur": [
+      "Corthésy Aloïs"
+    ],
+    "Hôtel du Mont-Blanc": [
+      "Hôtel du Mont-Blanc"
+    ],
+    "Hôtels et pensions": [
+      "La Violette, Tauxe Sylvie",
+      "La Violette des Alpes, Garagnon, dame",
+      "Pension de Mademoiselle Steiner",
+      "Les Arolles, Lachapelle",
+      "Chalet Aurore, Levrat A.",
+      "Pension-Famille, Th. Chappuis",
+      "La Forêt, M. Haller",
+      "Les Fougères, Mlles Sœrensen",
+      "Pension Palettaz, Lobsiger Jean",
+      "Pension Beau-Séjour, Desarzens Eugène",
+      "Restaurant-pension A la Tour d'Aï, Schwendy Charles",
+      "Pension Primevère",
+      "Hôtel Belle Vue, Neidhardt Aug.",
+      "Les Chamois, Mader J.",
+      "Clinique du Dr Rollier",
+      "Les Sapins, Widmer Emma",
+      "Bassin, Madelaine"
+    ],
+    "Inspecteur du bétail": [
+      "Tauxe Alfred",
+      "Vaudroz Eugène"
+    ],
+    "Instituteurs": [
+      "Pasche Jules",
+      "Vassaux Marie",
+      "Nicolier Aline",
+      "Péneveyre Isabelle",
+      "Widmer Constance"
+    ],
+    "Journal": [
+      "Journal de Leysin",
+      "Borloz Jules"
+    ],
+    "Laitier": [
+      "Barroud-Vaudroz"
+    ],
+    "Librairie": [
+      "Traphagen Charles. T."
+    ],
+    "Lingeries": [
+      "Traphagen Charles. R",
+      "Ernst Emile. R"
+    ],
+    "Maçons": [
+      "Drapel Alex",
+      "Ranzoni Jean"
+    ],
+    "Maréchal": [
+      "Burky H."
+    ],
+    "Mécanicien": [
+      "Tacheron Jules"
+    ],
+    "Médecins": [
+      "Exchaquet Th.",
+      "Henzler Oscar",
+      "Jaquerod Marc",
+      "Meyer Pio",
+      "de Peyer Alfred",
+      "Rollier A.",
+      "de Reynier Léopold",
+      "Roulet",
+      "Sillig César",
+      "Dieudonné Léon",
+      "Roatta J.",
+      "Tecon",
+      "Burnand René"
+    ],
+    "Menuisiers": [
+      "Usellini. R",
+      "Fantotti Ch."
+    ],
+    "Mercerie, étoffes, lainages": [
+      "Besse Joseph",
+      "Brunot Paul. R",
+      "Dupertuis Hélène",
+      "Rittener Elise. R",
+      "Zimmerli Sophie"
+    ],
+    "Office des poursuites et faillites": [
+      "Gillieron Al"
+    ],
+    "Officier d'état civil": [
+      "Tauxe-Neveu L.",
+      "Neveu Auguste"
+    ],
+    "Pasteurs": [
+      "Favez Louis",
+      "Abbé Wolf Gérome",
+      "Hoffet Eugène"
+    ]
+  }
+}

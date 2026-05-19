@@ -1,0 +1,33 @@
+{
+  "VILLE DE LAUSANNE": {
+    "AGENCES DE LOCATION": [
+      "Bretagne Charles",
+      "Chatelain Hri",
+      "de Rham P.",
+      "Franel G.",
+      "Galland & Cie",
+      "Hoguer F.-C.",
+      "L'Intermédiaire, S. A.",
+      "Menétrey & Redard",
+      "Wanner-Roussy J.",
+      "Tourist-Office Grand"
+    ],
+    "AGENCES MARITIMES": [
+      "Méditerranée-Amérique",
+      "Suisse-Italie",
+      "Thos. Cook & Son."
+    ],
+    "AGENCES DE PUBLICITÉ": [
+      "Amacker Gust.",
+      "Annonces Suisses (S. A.)",
+      "La Revue",
+      "Le Comte frères.",
+      "Mercuria S. A.",
+      "Orell-Füssli & Cie (S. A.)",
+      "Publicitas (S. A.)",
+      "Société générale d'Affichage",
+      "Société suisse d'édition",
+      "Turrian Chs."
+    ]
+  }
+}

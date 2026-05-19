@@ -1,0 +1,250 @@
+{
+  "CHESEREX": {
+    "Autorités communales": [
+      "Berlie John",
+      "Perrier Charles",
+      "Guibert Emile",
+      "Ansermet Albert",
+      "Ansermet John",
+      "Genoux Marc",
+      "Meylan Alexis",
+      "Sumi Frédéric",
+      "Chambrier Paul"
+    ],
+    "Agriculteurs": [
+      "André Paul",
+      "Ansermet Albert",
+      "Ansermet Ernest",
+      "Ansermet Louis-Marc",
+      "Bally Ch.",
+      "Baudraz Jules",
+      "Berlie John",
+      "Dugranpraz Jules",
+      "Gonthier Julien",
+      "Guibert Ele",
+      "Hauser F.",
+      "Kernen Frédéric",
+      "Loup Louis",
+      "Meylan Alexis",
+      "Perrier-Dugranpraz Henri"
+    ],
+    "Amodiateurs": [
+      "Baudraz Jules",
+      "Perrier Henri"
+    ],
+    "Cafetiers": [
+      "Genoux Marc",
+      "Ottonin Gustave"
+    ],
+    "Coiffeur": [
+      "Büla Frédéric"
+    ],
+    "Commission scolaire": [
+      "Berlie John",
+      "Ansermet Ern."
+    ],
+    "Cordonnier": [
+      "Languetin Lucien"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Chambrier Paul",
+      "Guichard Jules"
+    ],
+    "Forestier cantonal": [
+      "Rochat Armand"
+    ],
+    "Forgeron": [
+      "Guibert Jules"
+    ],
+    "Inspecteur du bétail": [
+      "Guichard J."
+    ],
+    "Instituteurs": [
+      "Pahud Ulysse",
+      "Gonthier Sophie"
+    ],
+    "Jardinier": [
+      "Berlie Albert"
+    ],
+    "Pension-famille": [
+      "Perrier frères"
+    ],
+    "Poste": [
+      "Chambrier Paul"
+    ],
+    "Rentiers": [
+      "Baylon, dame",
+      "de Riaz Henri",
+      "Sautter Ernest"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "Machine à battre le blé"
+    ],
+    "Tapissier": [
+      "Gilliéron Gustave"
+    ],
+    "Téléphone": [
+      "Auberge communale"
+    ]
+  },
+  "COINSINS": {
+    "Autorités communales": [
+      "Bron François",
+      "Zimmermann William",
+      "Corbaz Edouard",
+      "Barbe Emile",
+      "Baumann Gottfried",
+      "Guex Alfred",
+      "Brauch Philippe",
+      "Vuagniaux John",
+      "Golay Gustave"
+    ],
+    "Agriculteurs": [
+      "Bolay frères",
+      "Brauch frères",
+      "Corbaz Edouard",
+      "Golay Gustave",
+      "Guex frères",
+      "Mettraux Gustave",
+      "Moynat frères",
+      "Muller Jean",
+      "Reyrenn Alexandre",
+      "Vuagniaux John"
+    ],
+    "Amodiateurs": [
+      "Bolay frères"
+    ],
+    "Aubergiste": [
+      "Desponds Louis"
+    ],
+    "Boucher": [
+      "Brauch Philippe"
+    ],
+    "Charron-Charpentier": [
+      "Bron Franç."
+    ],
+    "Commission scolaire": [
+      "Baumann Gottfried"
+    ],
+    "Epicerie": [
+      "Baumann Gottfried"
+    ],
+    "Inspecteur du bétail": [
+      "Barbe Emile"
+    ],
+    "Instituteur": [
+      "Zimmermann William"
+    ],
+    "Laitier": [
+      "Beetschen Jaques"
+    ],
+    "Pépiniériste": [
+      "Magnin Henri"
+    ],
+    "Propriétaire": [
+      "Guebhart, dame"
+    ],
+    "Société": [
+      "De fromagerie de Vich et Coinsins"
+    ],
+    "Téléphoniste": [
+      "Desponds Louis"
+    ]
+  },
+  "COMMUGNY": {
+    "Autorités communales": [
+      "Vulliet Louis",
+      "Decré Marcel",
+      "Blazer Louis",
+      "Polencent Charles",
+      "Decré E.",
+      "Claris G.",
+      "Guichoud Charles",
+      "Hermenjat John",
+      "Decré Edouard"
+    ],
+    "Agriculteurs": [
+      "Blazer Louis",
+      "Burnat",
+      "Claris Charles",
+      "Decré Edouard",
+      "Decré Jules",
+      "Golaz Ernest",
+      "Guichoud Philippe",
+      "Guignet Ami",
+      "Guignet Marc",
+      "Hermenjat Charles",
+      "Hermenjat Louis",
+      "Hermenjat, Vve",
+      "Hermenjat-Vulliet",
+      "Lanz",
+      "Martin frères",
+      "Pellegrin Elise",
+      "Pellegrin Paul",
+      "Polencent Ch.",
+      "Robert Frères",
+      "Roybin Vve",
+      "Rubin Johannes",
+      "Sulliger Christian",
+      "Thomann David",
+      "Vulliet Louis",
+      "Widmer Ls"
+    ],
+    "Amodiateurs": [
+      "Decré Edouard",
+      "Hermenjat Louis"
+    ],
+    "Aubergistes": [
+      "Nicollier Elise",
+      "Viquerat Henri"
+    ],
+    "Boulanger": [
+      "Nicolier Elise"
+    ],
+    "Buraliste postal": [
+      "Moille François"
+    ],
+    "Charpentier": [
+      "Rouge Théophile"
+    ],
+    "Commission scolaire": [
+      "Gindraux J.-A.",
+      "Blazey Marie",
+      "Polencent Ch."
+    ],
+    "Cordonnier": [
+      "Kamerzin Henri"
+    ],
+    "Couturières": [
+      "Clerc Jenny",
+      "Fazan Célina",
+      "Pellegrin Louise",
+      "Rayroud Amile",
+      "Deblüe Rosa"
+    ],
+    "Entrepreneurs": [
+      "Pascal",
+      "Rouge Théophile"
+    ],
+    "Epicerie": [
+      "Delaporte, sœurs",
+      "Moille Alexandrine"
+    ],
+    "Inspecteurs du bétail": [
+      "Claris Charles",
+      "Hermenjat Charles"
+    ],
+    "Instituteurs": [
+      "Ogay Robert",
+      "Blazer, dame"
+    ],
+    "Jardinier": [
+      "Valloton"
+    ],
+    "Laitiers-fromagers": [
+      "Guignet Ami",
+      "Sté coopérative de Genève"
+    ]
+  }
+}

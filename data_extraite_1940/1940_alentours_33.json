@@ -1,0 +1,344 @@
+{
+  "BEX": {
+    "CONTINUATION_FROM_PREVIOUS_PAGE": [
+      "Marlétaz J.-Ls",
+      "Moreillon G.-Ed.",
+      "Moreillon Célestin",
+      "Moreillon-Rebord Francis",
+      "Ravy Constant",
+      "Ravy-Moreillon Gustave",
+      "Ravy-Morerod Charles"
+    ],
+    "Café": [
+      "Café du Muveran"
+    ],
+    "Epiceries": [
+      "Herren-Baud Albert",
+      "Soc. Coop. de Consommation l'Avenir",
+      "Cherix-Bonjour Henri"
+    ],
+    "Pension": [
+      "Pension du Muveran"
+    ]
+  },
+  "Les Plans-sur-Bex": {
+    "Institutrice": [
+      "Fontannaz Marguerite"
+    ],
+    "Poste, télégraphe, buraliste": [
+      "Fontannaz Isaac"
+    ],
+    "Agriculteurs": [
+      "Croset-Cherix Maurice",
+      "Fontannaz Isaac",
+      "Marlétaz Pierre",
+      "Marlétaz Gustave",
+      "Marlétaz Emmanuel",
+      "Marlétaz Jean",
+      "Marlétaz Philippe",
+      "Moreillon-Fontannaz Alfred",
+      "Moreillon Armand",
+      "Moreillon François",
+      "Moreillon-Marlétaz Félix",
+      "Moreillon Philippe de Th.",
+      "Morerod-Croset Félix",
+      "Morerod-Moreillon Philippe",
+      "Morerod Maurice",
+      "Veillon Adrien",
+      "Veillon Félix"
+    ],
+    "Bazars": [
+      "Emery Alfred",
+      "Monnier Paul",
+      "Morerod-Moreillon",
+      "Morerod Suzanne",
+      "Ravy Louise"
+    ],
+    "Boulangerie": [
+      "Marlétaz Emmanuel"
+    ],
+    "Cafés": [
+      "Chautems Berthe",
+      "Emery Alfred"
+    ],
+    "Confiserie-Tea Room": [
+      "Morerod Suz."
+    ],
+    "Cordonnier": [
+      "Veillon Charles fils"
+    ],
+    "Epicerie-mercerie-tabacs": [
+      "Chautems Berthe",
+      "Morerod Suzanne",
+      "Morerod-Moreillon"
+    ],
+    "Guides patentés": [
+      "Marlétaz Pierre",
+      "Moreillon Armand",
+      "Veillon Adr.",
+      "Veillon Félix"
+    ],
+    "Hôtels-pensions": [
+      "Pension Les Tilleuls",
+      "Pension Les Aroles",
+      "Pension les Martinets"
+    ],
+    "Institut": [
+      "Gunning W."
+    ],
+    "Tisserands": [
+      "Société de tissage"
+    ],
+    "Sociétés": [
+      "Fanfare l'Argentine",
+      "Ski-Club Plan-Névé",
+      "Société d'intérêt public"
+    ],
+    "Divers": [
+      "Lauber de Rougemont C."
+    ]
+  },
+  "Pont de Nant": {
+    "Chalet du jardin": [
+      "Dr Wilczek"
+    ],
+    "Café": [
+      "F. Ravy"
+    ],
+    "Ecole": [
+      "Ecole nouvelle des Alpes Vaudoises"
+    ],
+    "Jardin botanique": [
+      "Dr Wilczek"
+    ]
+  },
+  "Les Posses": {
+    "Inspecteur du bétail": [
+      "Cherix Benjamin"
+    ],
+    "Instituteurs": [
+      "Thibaud Louis",
+      "Warpelin-Gaud Julie"
+    ],
+    "Inspecteur de la loque": [
+      "Chamorel Eugène"
+    ],
+    "Poste et télégraphe, buraliste": [
+      "Moreillon François"
+    ],
+    "Agriculteurs": [
+      "Baud François",
+      "Borloz Jean",
+      "Cherix-Cherix Benjamin",
+      "Cherix-Ruchet Ferdinand",
+      "Cherix-Ruchet René",
+      "Drapel Jules",
+      "Favre-Boo François",
+      "Favre Albert",
+      "Fontannaz-Warpelin Félix",
+      "Genet-Roulet Louis",
+      "Genet-Fontannaz Edouard",
+      "Genet Constant",
+      "Genet-Schwenter Henri",
+      "Genet-Moreillon Philippe",
+      "Genet-Moreillon Philippe de Félix",
+      "Genet-Brandt Louis",
+      "Genet Justin",
+      "Genet Gustave",
+      "Genet Albert",
+      "Genet-Jaquerod Henri",
+      "Massard Alphonse",
+      "Moreillon-Vuagniaux Paul",
+      "Moreillon Marcel",
+      "Mœsching Chs",
+      "Mœsching Arnold",
+      "Pittier-Vurlod John",
+      "Pittier-Richard Jules",
+      "Richard Louis",
+      "Rouge Edouard",
+      "Ruchet Benj.",
+      "Ruchet Robert",
+      "Ruchet-Genet Gustave",
+      "Ruchet-Pittier Pierre-François",
+      "Ruchet-Vurlod Henri",
+      "Wusten Henri"
+    ],
+    "Café-Epicerie-Tabacs": [
+      "Rossier Marthe"
+    ],
+    "Charpentiers-menuisiers": [
+      "Genet-Moreillon Aug.",
+      "Putallaz Armand"
+    ],
+    "Menuisier": [
+      "Putallaz A."
+    ],
+    "Pensions": [
+      "Putallaz A.",
+      "Rossier-Gacon Marthe"
+    ],
+    "Sociétés": [
+      "Sté de tir des Représentants de tell",
+      "Syndicat agricole de Fenalet-Les Posses"
+    ],
+    "Tabacs et cigares": [
+      "Rossier-Gacon Marthe"
+    ]
+  },
+  "BIERE": {
+    "Syndic": [
+      "Authier Maxime"
+    ],
+    "Secrétaire": [
+      "Croisier Louis fils"
+    ],
+    "Boursier": [
+      "Burnier Edouard"
+    ],
+    "Huissier": [
+      "Pittet Emile fils"
+    ],
+    "Municipaux": [
+      "Chenevard Edouard",
+      "Cloux Marcel",
+      "Monthoux Rob.",
+      "Croisier Paul"
+    ],
+    "Assesseur": [
+      "Bugnoux Jules"
+    ],
+    "Cantonniers": [
+      "Autier René",
+      "Benoit Eugène"
+    ],
+    "Chef de gare": [
+      "Cuagnier Henri"
+    ],
+    "Chef de section": [
+      "Favre Marcel"
+    ],
+    "Commission scolaire": [
+      "Olivary Léon"
+    ],
+    "Gardes-forestiers": [
+      "Bugnoux Js.",
+      "Croisier Eugène"
+    ],
+    "Greffier de paix": [
+      "Croisier Ls"
+    ],
+    "Inspecteur du bétail": [
+      "Burnier-Rossy Constant"
+    ],
+    "Inspecteur des viandes": [
+      "Ansermet Emile"
+    ],
+    "Instituteurs": [
+      "Meynet Robert",
+      "Renaud Ami",
+      "Stauffer Charles",
+      "Barman Cécile",
+      "Landry Yvonne",
+      "Monthoux Juliette"
+    ],
+    "Intendant des casernes": [
+      "Monthoux Henri"
+    ],
+    "Intendant de l'Arsenal": [
+      "Pittet Ed."
+    ],
+    "Officier d'état-civil": [
+      "Croisier Louis fils"
+    ],
+    "Pasteur": [
+      "Vuilleumier Pierre"
+    ],
+    "Poste": [
+      "Renaud Jules"
+    ],
+    "Agriculteurs": [
+      "Annen Rob.",
+      "Authier Aymon",
+      "Authier Maxime",
+      "Authier Jules",
+      "Bellon-Uldry Gustave",
+      "Bellon P.",
+      "Benoit J.",
+      "Brocard Auguste fils",
+      "Brocard Auguste",
+      "Brocard J.",
+      "Bugnoux Ed.",
+      "Burnier-Caillat Hri.",
+      "Burnier Alfr.",
+      "Burnier Auguste",
+      "Burnier Constant",
+      "Burnier Edouard",
+      "Burnier John",
+      "Burri Charles",
+      "Bussey Casimir",
+      "Chenevard Ed.",
+      "Chollet-Michot Alphonse",
+      "Cloux-Brocard Js",
+      "Cloux-Bugnoux Jules",
+      "Cloux Benj.",
+      "Cloux Marcel",
+      "Cloux Maxime",
+      "Cloux WM",
+      "Croisier Paul",
+      "Epars Gustave",
+      "Ethenoz Jean",
+      "Frick Jean",
+      "Genevaz Eugène",
+      "Gnägi Albert",
+      "Jotterand Luc",
+      "Jotterand Paul",
+      "Jotterand-Bellon Ed.",
+      "Jotterand Vincent",
+      "Krieg Albert",
+      "Krieg Louis",
+      "Künzi Rodolphe",
+      "Liardon Alfred",
+      "Liardon Henri et Marc",
+      "Mange Henri",
+      "Mange Jean",
+      "Mange Octave",
+      "Meldem Aloys",
+      "Meldem Ed.",
+      "Messiaux Alf.",
+      "Monthoux André",
+      "Monthoux-Clerc Robert",
+      "Monthoux-Pellet Eugène",
+      "Neuenschwander Octave",
+      "Pittet Alois",
+      "Pittet Georges",
+      "Pittet-Borel Emile",
+      "Pittet-Annen Edouard",
+      "Pittet-Ruedi Aug.",
+      "Rochat André",
+      "Rochat Edmond",
+      "Rochat-Meylan Constant",
+      "Rochat-Bellon John",
+      "Rochat John",
+      "Schenkel Jacob",
+      "Theintz Henri",
+      "Trachsel Jean",
+      "Trachsel Rodolphe",
+      "Weber Ernest",
+      "Wyss Ernest"
+    ],
+    "Amodiataires": [
+      "Bellon Pierre",
+      "Bugnoux Edouard",
+      "Burnier-Caillat Henri",
+      "Mange Henri"
+    ],
+    "Appareilleurs": [
+      "Dell'ava Joseph",
+      "Klay Jules",
+      "Rochat frères"
+    ],
+    "Articles en bois, skis (fabr. d')": [
+      "Authier John"
+    ]
+  }
+}

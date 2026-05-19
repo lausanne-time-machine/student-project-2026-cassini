@@ -1,0 +1,233 @@
+{
+  "ESSERT-PILLET": {
+    "Chef de Gare": [
+      "Chevalier Maurice"
+    ],
+    "Commission scolaire": [
+      "Henry Louis",
+      "Massonnet J."
+    ],
+    "Entrepreneur": [
+      "Garoni Jean. R."
+    ],
+    "Epicerie": [
+      "Chevalier Henri",
+      "Massonnet Mathilde. R."
+    ],
+    "Inspecteur du bétail": [
+      "Massonnet E."
+    ],
+    "Instituteurs": [
+      "Mæder Fritz",
+      "Mæder-Bovay Marie"
+    ],
+    "Laitier": [
+      "Matthys Fritz."
+    ],
+    "Pasteur": [
+      "Paul Ernest. T."
+    ],
+    "Poste": [
+      "Beausire Ida."
+    ],
+    "Rentiers": [
+      "Gueydan de Roussel. T.",
+      "Mullener Hélène."
+    ],
+    "Sociétés": [
+      "De fromagerie. R.",
+      "De l'Abbaye d'Ependes. R.",
+      "Machine à battre. R."
+    ],
+    "Téléphoniste": [
+      "Beausire Ida."
+    ]
+  },
+  "ESSERT-PITTET": {
+    "Autorités communales": [
+      "Meystre Emile",
+      "Martignier Eugène",
+      "Miéville Louis",
+      "Dind Louis",
+      "Deytard Ernest",
+      "Meystre Em.",
+      "Martignier Emile",
+      "Jaton Marc",
+      "Meystre Emile"
+    ],
+    "Agriculteurs": [
+      "Balsiger Jacob",
+      "Bieler Louis",
+      "Burdet Eugène",
+      "Deytard Alfred",
+      "Dind Louis",
+      "Dupuis Jaques",
+      "Dupuis Ulysse",
+      "Dupuis Fritz",
+      "Germond Jules",
+      "Laurent Ernest",
+      "Martin frères",
+      "Martignier Alexandre",
+      "Meystre Emile",
+      "Miéville Louis",
+      "Schaeffer Louis",
+      "Staudenmann frères"
+    ],
+    "Café": [
+      "Bula Robert. T."
+    ],
+    "Charron": [
+      "Martin Adrien."
+    ],
+    "Commission scolaire": [
+      "Meystre Ele",
+      "Miéville Louis",
+      "Dind Louis."
+    ],
+    "Cordonnier": [
+      "Miéville Constant."
+    ],
+    "Epicerie, mercerie": [
+      "Auberson Jne."
+    ],
+    "Inspecteur du bétail": [
+      "Meystre Emile."
+    ],
+    "Instituteur": [
+      "Jaton Marc."
+    ],
+    "Poste": [
+      "Miéville Paul."
+    ],
+    "Rentier": [
+      "Deytard François."
+    ],
+    "Sociétés": [
+      "De fromagerie. R.",
+      "Du battoir à grain. R."
+    ],
+    "Téléphoniste": [
+      "Bula Robert."
+    ]
+  },
+  "ESSERT-SOUS-CHAMPVENT": {
+    "Autorités communales": [
+      "Agassis Alfred",
+      "Corset Edouard",
+      "Plojoux Gaston",
+      "Agassis Armand",
+      "Gillard Gustave",
+      "Agassis Jean"
+    ],
+    "Accordéons (fab. d')": [
+      "Mercier Eug."
+    ],
+    "Agriculteurs": [
+      "Agassis Jean",
+      "Chollet Georges",
+      "Corset Eug.",
+      "Crausaz Emile",
+      "Cochet Jules",
+      "David Emile",
+      "Frossard Emile",
+      "Gillard Gustave",
+      "Plojoux Gaston",
+      "Roulet Jules",
+      "Scheink Jean."
+    ],
+    "Apiculteurs": [
+      "Gillard Gust.",
+      "Groux Henri."
+    ],
+    "Cafetier": [
+      "Maulaz Eugène."
+    ],
+    "Commission scolaire": [
+      "Gillard Gust.",
+      "Agassis Alfred."
+    ],
+    "Inspecteur du bétail": [
+      "Corset Eug."
+    ],
+    "Institutrice": [
+      "Notz-Pochon Anna."
+    ],
+    "Sociétés": [
+      "De laiterie. R.",
+      "Du battoir. R."
+    ]
+  },
+  "GOSSENS": {
+    "Autorités communales": [
+      "Trolliet Félicien",
+      "Bovay Jules",
+      "Charbon Aimé."
+    ],
+    "Agriculteurs": [
+      "Bovay Jules et Henri",
+      "Charbon Aimé",
+      "Gasser Aimé",
+      "Gottraux Paul",
+      "Jaccaud Henri",
+      "Lehmann frères",
+      "Lequatre Alex.",
+      "Pasche Jules",
+      "Perrin Gustave",
+      "Trolliet Félicien",
+      "Viquerat Félix."
+    ],
+    "Commission scolaire": [
+      "Charbon Aimé",
+      "Gasser Aimé",
+      "Perrin Gustave."
+    ],
+    "Entrepreneur": [
+      "Erisman Gottfried."
+    ],
+    "Inspecteur du bétail": [
+      "Pasche Jules."
+    ],
+    "Institutrice": [
+      "Ad. Bouffard-Vuaden"
+    ],
+    "Sociétés": [
+      "Trolliet Félicien",
+      "Erisman Gottfried"
+    ]
+  },
+  "GRESSY": {
+    "Autorités communales": [
+      "Dutoit Paul",
+      "Grin Fern.",
+      "Bornoz Alfred. T.",
+      "Gonin Hri",
+      "Auberson Henri",
+      "Henrioud Marc",
+      "Grin Maurice",
+      "Auberson Aymon",
+      "Grin Fern."
+    ],
+    "Agriculteurs": [
+      "Auberson Frédéric",
+      "Auberson Louis",
+      "Auberson Victor",
+      "Bornoz Alfred",
+      "Burdet Fr.",
+      "Dutoit Paul",
+      "Gonin H.",
+      "Grin frères",
+      "Gruet Adolphe",
+      "Jaquiéry Octave",
+      "Henrioud Marcel",
+      "Mæder",
+      "Massonnet Samuel",
+      "Miéville Louis",
+      "Mutrux Constant."
+    ],
+    "Commission scolaire": [
+      "Dutoit Just",
+      "Gonin Henri",
+      "Grin Fernand."
+    ]
+  }
+}

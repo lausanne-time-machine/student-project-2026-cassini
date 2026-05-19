@@ -1,0 +1,230 @@
+{
+  "JOUXTENS-MÉZERY": {
+    "Bouchers-charcutiers": [
+      "Blanc Charles",
+      "Boand Marc",
+      "Favrat Charles",
+      "Niederhauser Charles",
+      "Porchet Auguste",
+      "Rapaz Jules"
+    ],
+    "Boulangerie": [
+      "Niederhauser Louis"
+    ],
+    "Charcutiers": [
+      "Blanc Ch.",
+      "Boand Marc",
+      "Favrat Ch.",
+      "Niederhauser Ch."
+    ],
+    "Charpentiers": [
+      "Michon Eugène",
+      "Nicolas Henri-Emile",
+      "Pache Henri",
+      "Pache-Béboux Henri"
+    ],
+    "Charrons": [
+      "Nicolas Ed.",
+      "Regamey Louis",
+      "Vittoz François"
+    ],
+    "Chef de section": [
+      "Béboux Edouard"
+    ],
+    "Commission scolaire": [
+      "Favrat, Ch.",
+      "Chapuis Eugène",
+      "Pache-Béboux Henri",
+      "Reymond",
+      "Hänni Nicolas",
+      "Besson Julien",
+      "Peitrequin Daniel",
+      "Cosandey Louis"
+    ],
+    "Cordonniers": [
+      "Droguet François-Louis",
+      "Vernez Constant"
+    ],
+    "Ebéniste": [
+      "Nevaretti J."
+    ],
+    "Entrepreneurs": [
+      "Michon Eugène",
+      "Nicolas Ulysse",
+      "Pache-Béboux Henri"
+    ],
+    "Epicerie": [
+      "Blanc Jules",
+      "Blanc Rosine",
+      "Niederhauser Louis",
+      "Niederhauser, Gustave"
+    ],
+    "Fontenier": [
+      "Pache Paul-François"
+    ],
+    "Fourches et râteaux (fabr. de)": [
+      "Goumaz & fils"
+    ],
+    "Garde-forêts": [
+      "Pache Gustave"
+    ],
+    "Horlogerie, petite mécanique": [
+      "Dettwiler, Alfred"
+    ],
+    "Hottes (fabr. de)": [
+      "Chapuis Marc"
+    ],
+    "Inspecteurs du bétail": [
+      "Favrat Charles",
+      "Porchet Auguste"
+    ],
+    "Instituteurs": [
+      "Belet Eugène",
+      "Reymond Louis",
+      "Crottaz-Meylan Augusta",
+      "Aigroz Marthe",
+      "Bovey Eugénie",
+      "Bally Edouard",
+      "Golaz Clara"
+    ],
+    "Jardinier": [
+      "Blanc Paul",
+      "Charbon Alfred"
+    ],
+    "Laitier": [
+      "Regamey Jules-Edouard",
+      "Blanchard Gustave"
+    ],
+    "Machines à coudre": [
+      "Dettwiler Alfred"
+    ],
+    "Maçons": [
+      "Michon Eugène",
+      "Nicolas Emile"
+    ],
+    "Maréchaux": [
+      "Monod J.",
+      "Vittoz François"
+    ],
+    "Mécanicien": [
+      "Corbaz Ch."
+    ],
+    "Menuisier": [
+      "Michon E.",
+      "Wuillamoz François"
+    ],
+    "Meuniers": [
+      "Pache Charles-Henri",
+      "Porchet Jean-Louis"
+    ],
+    "Officier d'état civil": [
+      "Pache Jules"
+    ],
+    "Pasteur": [
+      "Subilia Henri"
+    ],
+    "Pensions": [
+      "Chamot",
+      "Vincent sœurs"
+    ],
+    "Poste": [
+      "Chapuis, veuve"
+    ],
+    "Sages-femmes": [
+      "Chapuis Emma",
+      "Poget Julie"
+    ],
+    "Sellier": [
+      "Regamey Louis"
+    ],
+    "Scieur": [
+      "Corbaz Charles"
+    ],
+    "Sociétés": [
+      "Deux sociétés de laiterie",
+      "Deux sociétés de chant",
+      "De développement",
+      "De tir",
+      "De gymnastique",
+      "Syndicat agricole"
+    ],
+    "Tailleuses": [
+      "Barbaz Nanette",
+      "Blanc Hélène",
+      "Corbaz, dame",
+      "Delacrausaz Suzanne",
+      "Moulin Eugénie",
+      "Nicolas Caroline",
+      "Porchet sœurs"
+    ],
+    "Tapissier": [
+      "Regamey Louis"
+    ],
+    "Terre à poêliers (comm. de)": [
+      "Pache-Chapuis Gustave"
+    ],
+    "Vannier": [
+      "Chapuis Marc"
+    ],
+    "Vélocipèdes": [
+      "Dettwiler Alfred"
+    ],
+    "Voituriers": [
+      "Favrat Gustave",
+      "Favrat Louis",
+      "Lienhard Vincent",
+      "Pache-Martin Vincent"
+    ],
+    "Divers": [
+      "Bettex Ernest",
+      "Favrat Louis",
+      "van Berchem, dame"
+    ],
+    "Autorités communales": [
+      "Meylan Louis",
+      "Bally Edouard"
+    ],
+    "Syndic": [
+      "Allenbach Louis"
+    ],
+    "Municipaux": [
+      "Hänni Nicolas",
+      "Gaudard Henri",
+      "Clavel Juste",
+      "Narbel Gustave",
+      "Cosandey Louis",
+      "Vidoudez H."
+    ],
+    "Agriculteurs": [
+      "Masson Louis",
+      "Narbel Gustave"
+    ],
+    "Artistes peintres": [
+      "Auberjonois René",
+      "Rivier Louis"
+    ],
+    "Bétail (éleveurs de)": [
+      "Allenbach Louis",
+      "Auberjonois Gustave",
+      "Besson frères"
+    ],
+    "Blanchisseuse": [
+      "Sommer Marie"
+    ],
+    "Epicerie, mercerie": [
+      "Pittet-Fallet E."
+    ],
+    "Fromages (comm. de)": [
+      "Auberjonois Gustave"
+    ],
+    "Inspecteur du bétail": [
+      "Besson Julien"
+    ],
+    "Tailleur": [
+      "Charbon Rodolphe"
+    ],
+    "Voiturier": [
+      "Clavel Juste"
+    ]
+  }
+}

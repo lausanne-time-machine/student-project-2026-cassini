@@ -1,0 +1,286 @@
+{
+  "OLEYRES": {
+    "Syndic": [
+      "Miauton Auguste"
+    ],
+    "Municipaux": [
+      "Charmey Gustave",
+      "Nicolier Gustave",
+      "Nicolier Fritz",
+      "Miauton Oscar",
+      "Miauton Charles",
+      "Nicolier Constant"
+    ],
+    "Agriculteurs": [
+      "Charmey Edouard",
+      "Charmey Emile",
+      "Charmey Louis",
+      "Miauton Léonard",
+      "Nicolier Charles",
+      "Nicolier Jean-Jules"
+    ],
+    "Assesseur": [
+      "Nicolas Constant"
+    ],
+    "Auberges et cafés": [
+      "Hug Ernest",
+      "Nicolier Auguste. R."
+    ],
+    "Bétail (comm. de)": [
+      "Kuhn Vincent. R.",
+      "Miauton Oscar. R."
+    ],
+    "Charrons": [
+      "Gonin J.",
+      "Lauper Christian",
+      "Nicolier Abram-Frédéric"
+    ],
+    "Commission scolaire": [
+      "Gonin Jean",
+      "Miauton Auguste",
+      "Péclard"
+    ],
+    "Dépôt des postes": [
+      "Miauton Charles"
+    ],
+    "Epicerie": [
+      "Calderara Adèle",
+      "Charmey Edouard",
+      "Nicolier Elvina"
+    ],
+    "Ferblantier": [
+      "Jacob Konrad"
+    ],
+    "Inspecteur du bétail": [
+      "Nicolier Ch.-Jean"
+    ],
+    "Instituteurs": [
+      "Corthésy Henri",
+      "Martin-Miauton Laure"
+    ],
+    "Lamineur": [
+      "Guermann Emile"
+    ],
+    "Maréchal": [
+      "Fornallaz Arthur"
+    ],
+    "Menuisier": [
+      "Jaquenod Edouard"
+    ],
+    "Société": [
+      "De laiterie. R.",
+      "Société agricole. R."
+    ],
+    "Socques (fabr. de bois de)": [
+      "Bürri Adolphe"
+    ],
+    "Tailleuse": [
+      "Nicolier Amélie"
+    ],
+    "Téléphone communal": [
+      "Nicolier Elvina"
+    ]
+  },
+  "VALLAMAND-DESSUS": {
+    "Autorités communales": [
+      "Vassaux Adolphe",
+      "Revilly Henri"
+    ],
+    "Syndic": [
+      "Vincent Emile"
+    ],
+    "Municipaux": [
+      "Delorme Jean-Adrien",
+      "Delorme Paul",
+      "Tricot Louis",
+      "Vyss Rodolphe",
+      "Failloubaz Samuel",
+      "Vincent Jules",
+      "Mury-Berthoud Jules"
+    ],
+    "Agriculteurs": [
+      "Druey Louis",
+      "Failloubaz Samuel",
+      "Vincent Emile",
+      "Vincent Louis-Henri"
+    ],
+    "Bois (comm. del.)": [
+      "Eelorme-Druey E. RT."
+    ],
+    "Boulanger": [
+      "Eichenberger Gottlieb"
+    ],
+    "Cafés": [
+      "Gédet Emile R",
+      "Vincent Marie"
+    ],
+    "Charcuteries": [
+      "Chenevard Auguste"
+    ],
+    "Commission scolaire": [
+      "Delorme-Druey",
+      "Vincent Emile",
+      "Genton M."
+    ],
+    "Couvreur": [
+      "Hügli Barthélemy"
+    ],
+    "Epicerie": [
+      "Chenevard Auguste",
+      "Delorme Paul",
+      "Mury Marie"
+    ],
+    "Inspecteur du bétail": [
+      "Revilly Henri"
+    ],
+    "Instituteurs": [
+      "Vallotton Emile",
+      "Bussy Eugénie"
+    ],
+    "Laitier": [
+      "Gédet Emile. R.",
+      "Société de laiterie. R."
+    ],
+    "Maréchal": [
+      "Fornerod Augustin"
+    ],
+    "Menuisiers": [
+      "Baud Alfred",
+      "Chautems Louis",
+      "Delorme-Druey Emile. RT."
+    ],
+    "Meubles (fab. de)": [
+      "Delorme-Druey Emile RT"
+    ],
+    "Rotins filés": [
+      "Delorme-E. RT."
+    ],
+    "Scierie et moulin": [
+      "Delorme-Druey E. RT."
+    ],
+    "Société": [
+      "De laiterie. R."
+    ],
+    "Tailleuses": [
+      "Grandjean Elisa",
+      "Piquilloud Marie"
+    ],
+    "Téléphoniste": [
+      "Chautems Emile"
+    ],
+    "Tonnelier": [
+      "Matthey Henri. R."
+    ],
+    "Vins (march. de)": [
+      "Matthey Henri. R",
+      "Tricot Louis"
+    ]
+  },
+  "VILLARS-LE-GRAND": {
+    "Autorités communales": [
+      "Bardet L.-F.-Samuel",
+      "Jaunin L.-Victor"
+    ],
+    "Syndic": [
+      "Bardet André"
+    ],
+    "Municipaux": [
+      "Bardet Louis",
+      "Braucoup David",
+      "Monney Max",
+      "Pulver Rodolphe",
+      "Spahr Jules",
+      "Monney Henri",
+      "Christinat Auguste"
+    ],
+    "Agriculteurs": [
+      "Bardet Abram-Ch.-L.",
+      "Bardet Achille",
+      "Bardet Adolphe",
+      "Bardet Auguste",
+      "Bardet Henri",
+      "Bardet Louis",
+      "Christinat Daniel",
+      "Christinat Emile",
+      "de Sybourg Alexandre",
+      "Etter",
+      "Jaunin Alfred",
+      "Jaunin David-Daniel",
+      "Jaunin Louis-Victor",
+      "Jaunin Paul",
+      "Monney Daniel",
+      "Monney Jean-Aug.",
+      "Monney Ls-Ch.",
+      "Rollier"
+    ],
+    "Bouchers": [
+      "Roth Jean. R.",
+      "Pulver Jean. R."
+    ],
+    "Boulangers": [
+      "Eberhardt Alfred",
+      "Monney Gustave"
+    ],
+    "Cafés": [
+      "Pulver Jean",
+      "Roth Jean"
+    ],
+    "Charcutiers": [
+      "Pulver Jean",
+      "Roth Jean"
+    ],
+    "Charrons": [
+      "Christinat Jules",
+      "Monney Max",
+      "Christinat Emile"
+    ],
+    "Cordonniers": [
+      "Cirio Pierre",
+      "Monney Jules",
+      "Zanoni"
+    ],
+    "Epicerie": [
+      "Eberhardt Alfred",
+      "Pulver Christian. R."
+    ],
+    "Inspecteur du bétail": [
+      "Monney Louis-Charles"
+    ],
+    "Instituteurs": [
+      "Amaudruz Paul",
+      "Bardet Anna"
+    ],
+    "Laitier": [
+      "Dätwyler Fritz. R."
+    ],
+    "Maréchaux": [
+      "Bovet Paul",
+      "Spahr Jules"
+    ],
+    "Menuisier": [
+      "Jomini Paul"
+    ],
+    "Moulin agricole": [
+      "Jaunin Daniel"
+    ],
+    "Scierie": [
+      "Mercanton Emile"
+    ],
+    "Sellier": [
+      "Monney Henri"
+    ],
+    "Sociétés": [
+      "De laiterie. R",
+      "De tir de l'Abbaye. R",
+      "De chant l'Espérance. R",
+      "De tir aux armes de guerre."
+    ],
+    "Tailleuse": [
+      "Bardet Emmy"
+    ],
+    "Téléphone": [
+      "Bureau des postes",
+      "Monney Gustave"
+    ]
+  }
+}

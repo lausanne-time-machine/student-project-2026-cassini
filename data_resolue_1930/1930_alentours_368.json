@@ -1,0 +1,234 @@
+{
+  "BOURNENS": {
+    "Inspecteur du bétail": [
+      "Piot Georges",
+      "Pache Emile"
+    ],
+    "Instituteur": [
+      "Destraz Henri"
+    ],
+    "Laitier": [
+      "Buffat Maurice"
+    ],
+    "Lingère": [
+      "Curchod-Rossier Elise"
+    ],
+    "Poste": [
+      "Bocion Louis"
+    ],
+    "Société": [
+      "de fromagerie",
+      "du battoir à grains",
+      "Syndicat pour l'amélioration de la race porcine"
+    ],
+    "Téléphoniste": [
+      "Bocion Victor"
+    ],
+    "Tricotage": [
+      "Favre-Schlaeppi, Mme"
+    ]
+  },
+  "BOUSSENS": {
+    "Président du Conseil général": [
+      "Gaudard-Bocion Emile"
+    ],
+    "Secrétaire": [
+      "Bally Maurice"
+    ],
+    "Syndic": [
+      "Girardet Constant"
+    ],
+    "Municipaux": [
+      "Chatelan Auguste",
+      "Gaudard Paul",
+      "Gaudard Ernest",
+      "Gaudard Maurice",
+      "Degallier Marcel"
+    ],
+    "Boursier": [
+      "Chatelan Auguste"
+    ],
+    "Agriculteurs": [
+      "Bally Louise",
+      "Bally Charles",
+      "Bally Const.",
+      "Chatelan Auguste",
+      "Dubauloz François",
+      "Dubrit Constant",
+      "Gachet Alfred",
+      "Gaudard Charles-Henri",
+      "Gaudard Lina",
+      "Gaudard Paul",
+      "Gaudard-Bocion Emile",
+      "Gaudard-Bally Emile",
+      "Gaudard-Bourgeois Emile",
+      "Gaudard Ami",
+      "Gaudard Eugène",
+      "Gaudard Maurice",
+      "Gaudard Ch.",
+      "Gaudard Jules",
+      "Girardet Constant",
+      "Henny William",
+      "Vanev Louis"
+    ],
+    "Apiculteur": [
+      "Cornaz Félix"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Degallier M."
+    ],
+    "Cafetier": [
+      "Girardet Constant"
+    ],
+    "Commission scolaire": [
+      "Gaudard-Bocion Emile",
+      "Girardet Octave",
+      "Gaudard Maurice"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Bally Louisa"
+    ],
+    "Facteur": [
+      "Gaudard-Chatelan Auguste"
+    ],
+    "Inspecteur du bétail": [
+      "Bally Ch."
+    ],
+    "Instituteurs": [
+      "Degallier Marcel",
+      "Clavel Rosa"
+    ],
+    "Sociétés": [
+      "de laiterie",
+      "Syndicat agricole",
+      "Société de tir",
+      "Assurance contre la mortalité des chevaux",
+      "Assurance bovine"
+    ],
+    "Téléphoniste": [
+      "Girardet Constant"
+    ]
+  },
+  "CHAVANNES-LE-VEYRON": {
+    "Dépôt de poste et téléphone": [
+      "Autobus S. A. P. I. V."
+    ],
+    "Président du Conseil général": [
+      "Rochat Louis"
+    ],
+    "Secrétaire": [
+      "Bettens Jean",
+      "Bettens Adrien"
+    ],
+    "Syndic": [
+      "Bettens William"
+    ],
+    "Municipaux": [
+      "David Ed.",
+      "Bettens Emile",
+      "Nyffenegger Pierre",
+      "Zimmermann Marcel"
+    ],
+    "Boursier": [
+      "Bettens Jean"
+    ],
+    "Agriculteurs": [
+      "Bettens Albert",
+      "Bettens William",
+      "Bolay Julien",
+      "Braissant Emile",
+      "Braissant Germain",
+      "Clément Constant",
+      "David John",
+      "Favre Alfred",
+      "Favre William",
+      "Fuchs Henri",
+      "Kuffer Emile",
+      "Nyffenegger Pierre",
+      "Pavillard François",
+      "Rochat Louis",
+      "Zimmermann Georges"
+    ],
+    "Amodiateurs": [
+      "Nyffenegger Pierre",
+      "Rochat Louis"
+    ],
+    "Apiculteurs (fab. de ruches)": [
+      "Cochet Léon",
+      "Kuffer Emile",
+      "Longchamp Edouard",
+      "Schiesser Albert"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Cochet L."
+    ],
+    "Charpentier": [
+      "Zbinden Louis"
+    ],
+    "Commission scolaire": [
+      "Bettens Albert",
+      "Bettens Charles"
+    ],
+    "Dépositaire postal": [
+      "Bettens Alb."
+    ],
+    "Epicerie": [
+      "Braissant Emile",
+      "Longchamp Edouard"
+    ],
+    "Inspecteur du bétail": [
+      "David Ed."
+    ],
+    "Instituteurs": [
+      "Cochet Léon",
+      "Favre Jenny"
+    ],
+    "Laitier": [
+      "Rochat Gustave"
+    ],
+    "Meunier": [
+      "Boven Charles"
+    ],
+    "Scierie et forge": [
+      "Prévost Léopold"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "Gustave Rochat",
+      "du battoir à grains"
+    ],
+    "Téléphoniste": [
+      "Bettens Hortense"
+    ]
+  },
+  "CHEVILLY": {
+    "Président du Conseil général": [
+      "Gleyre Arnold"
+    ],
+    "Secrétaire": [
+      "Lugeon Robert",
+      "Gaudin Charles"
+    ],
+    "Syndic": [
+      "Gleyre Maurice"
+    ],
+    "Municipaux": [
+      "Lugeon-Bonzon",
+      "Lugeon-Chanson",
+      "Lugeon-Gex",
+      "Lugeon-Burnier"
+    ],
+    "Agriculteurs": [
+      "Braissant Adolphe",
+      "Braissant Marc",
+      "Bredaz Henri",
+      "Cornaz Charles",
+      "Gaudin René",
+      "Gleyre Fernand",
+      "Lugeon Maurice",
+      "Lugeon Louis",
+      "Mingard Louis",
+      "Walter-Braissant"
+    ]
+  }
+}

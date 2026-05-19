@@ -1,0 +1,373 @@
+{
+  "GENOLIER": {
+    "Jardiniers": [
+      "Bachmann Georges",
+      "Schaeffer Jules"
+    ],
+    "Machine à battre": [
+      "Barrillier Ami"
+    ],
+    "Maçon": [
+      "Rickli Auguste"
+    ],
+    "Maréchal": [
+      "Badel Aloïs"
+    ],
+    "Mécanicien": [
+      "Barrillier Alfred"
+    ],
+    "Menuisiers": [
+      "Chabloz Ls.",
+      "Pinel Pierre"
+    ],
+    "Rentiers": [
+      "Belet Emile",
+      "Pellet Jenny"
+    ],
+    "Scieurs": [
+      "Barrillier Ami",
+      "Caisserie de Genolier",
+      "Gujean Frank"
+    ],
+    "Société": [
+      "Sté de fromagerie"
+    ],
+    "Viticulteurs": [
+      "Bozonnet Jules",
+      "Bosson Olivier",
+      "Croix Samuel",
+      "Guillermin John",
+      "Neuffer Roger"
+    ]
+  },
+  "GIEZ": {
+    "Syndic": [
+      "Montandon Louis"
+    ],
+    "Secrétaire": [
+      "Compondu Aimé"
+    ],
+    "Boursier": [
+      "Montandon Robert"
+    ],
+    "Municipaux": [
+      "Amiet Henri",
+      "Compondu Louis",
+      "Duvoisin Henri",
+      "Herren Fritz"
+    ],
+    "Commandant du feu": [
+      "Montandon Ls."
+    ],
+    "Commission scolaire": [
+      "Duvoisin Adrien"
+    ],
+    "Garde-forestier": [
+      "Junod Robert"
+    ],
+    "Inspecteur du bétail": [
+      "Montandon Georges"
+    ],
+    "Instituteurs": [
+      "Monnet Louis",
+      "Montandon-Quinche Berthe"
+    ],
+    "Juge de paix": [
+      "Montandon Louis"
+    ],
+    "Pasteur": [
+      "de Payer"
+    ],
+    "Police (agent de)": [
+      "Vögeli Francis"
+    ],
+    "Poste et télégraphe": [
+      "Montandon Robert"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Dupont Marie"
+    ],
+    "Agriculteurs": [
+      "Amiet Henri",
+      "Bétrix Emile",
+      "Chevalier Léon",
+      "Compondu Ernest",
+      "Compondu Louis",
+      "Cruchet Alfred",
+      "Cruchet Pierre",
+      "Duvoisin Henri",
+      "Groux Julien",
+      "Herren Ernest",
+      "Herren Fritz fils",
+      "Meylan-Cottier",
+      "Montandon frères",
+      "Mumenthaler Werner",
+      "Porchet Emile",
+      "Siegenthaler Ulrich",
+      "Simonin Eug.",
+      "Vögeli François"
+    ],
+    "Assurance cantonale contre la grêle": [
+      "Cavin Henri"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite",
+      "Monnet Louis"
+    ],
+    "Café": [
+      "Dupont Placide",
+      "café de la Croix-Blanche"
+    ],
+    "Charpentiers-menuisiers": [
+      "Montandon Edouard & Cie"
+    ],
+    "Entrepreneur": [
+      "Rigo Jean"
+    ],
+    "Epicerie, mercerie": [
+      "Dupont Placide"
+    ],
+    "Ingénieur": [
+      "Keller Willy"
+    ],
+    "Laitier": [
+      "Scherler René"
+    ],
+    "Rentière": [
+      "Bourgeois Augusta Vve"
+    ],
+    "Divers": [
+      "Bourgeois Augusta",
+      "Bourgeois M.",
+      "de Rham Ed."
+    ]
+  },
+  "GILLY": {
+    "Députés du cercle": [
+      "Burnet François",
+      "Rolaz Henri"
+    ],
+    "Syndic": [
+      "Rolaz René"
+    ],
+    "Secrétaire": [
+      "Pernet Charles"
+    ],
+    "Boursier": [
+      "Maréchal Henri"
+    ],
+    "Huissier": [
+      "Chambovey Adrien",
+      "Billard Ami"
+    ],
+    "Municipaux": [
+      "Delafoge Henri",
+      "Michon François",
+      "Quillier Samuel",
+      "Rolaz Charles"
+    ],
+    "Cantonnier": [
+      "Pernet Paul"
+    ],
+    "Chef de gare": [
+      "Peneveyre Edouard"
+    ],
+    "Chef de section": [
+      "Meylan Albert"
+    ],
+    "Commandant du feu": [
+      "Pernet Ch."
+    ],
+    "Commission scolaire": [
+      "Michon François"
+    ],
+    "Gardes-forestiers": [
+      "Berger Henri",
+      "Quiblier Albert"
+    ],
+    "Inspecteur du bétail": [
+      "Schumacher Adolphe"
+    ],
+    "Inspecteur des viandes": [
+      "Schumacher Adolphe"
+    ],
+    "Instituteurs": [
+      "Inglin Roland",
+      "Badel Marie-Louise"
+    ],
+    "Justice de paix": [
+      "Borgeaud Albert",
+      "Meylan Benjamin",
+      "Merminod Julien-Eugène",
+      "Michon François",
+      "Pilloud Ch.",
+      "Walther Eugène"
+    ],
+    "Officier d'état-civil": [
+      "Delapierre Henri"
+    ],
+    "Pasteur": [
+      "Walther Paul"
+    ],
+    "Police (agent de)": [
+      "Chambovey Adr."
+    ],
+    "Poste": [
+      "Chevalier Alice"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Auberge communale",
+      "station publique à la poste"
+    ],
+    "Agriculteurs": [
+      "Berger Hans",
+      "Cartier Ernest",
+      "Delafoge Henri",
+      "Delévaux Aloïs",
+      "Delapierre Henri",
+      "Fankhauser Jacob",
+      "Guichard John",
+      "Gay John",
+      "Michon Ch.",
+      "Henny Ch.",
+      "Michon Frs",
+      "Monneyron Chs",
+      "Ponnaz H.",
+      "Rojard Jules",
+      "Rojard Fréd.",
+      "Rolaz Edouard",
+      "Rolaz François",
+      "Rolaz Hri",
+      "Rolaz Adolphe",
+      "Rolaz Eric",
+      "Schumacher Adolphe",
+      "Schumacher Ernest",
+      "Suardet Jules"
+    ],
+    "Apiculteurs": [
+      "Marchand François",
+      "Monneyron Ls",
+      "Pernet Gustave"
+    ],
+    "Assurances": [
+      "Henny Ch.",
+      "Winterthur-Vie"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Inglin R."
+    ],
+    "Blanchisseuse": [
+      "Andrée Marie"
+    ],
+    "Boucher": [
+      "Bourguignon Henri"
+    ],
+    "Boulangers": [
+      "Duperrex Alphonse",
+      "Janzi Maurice"
+    ],
+    "Cafés": [
+      "Fontolliet Alfred",
+      "Auberge communale",
+      "Fragnière Adolphe",
+      "café Central"
+    ],
+    "Charron": [
+      "Badan Alfred"
+    ],
+    "Cordonnier": [
+      "Muller Auguste"
+    ],
+    "Couturières (p. hommes)": [
+      "Bessat Valentine",
+      "Delévaux-Golaz Odette",
+      "Golaz Nelly",
+      "Pernet O.",
+      "Turin A."
+    ],
+    "Electriciens": [
+      "Forces de Joux et de l'Orbe"
+    ],
+    "Encadreur": [
+      "Chevalier Henri"
+    ],
+    "Entrepreneur": [
+      "Melina Secundo"
+    ],
+    "Epiceries-merceries": [
+      "Marchand Frs",
+      "Wetzel Ernest"
+    ],
+    "Gypserie et peinture": [
+      "Keller Rodolphe et fils"
+    ],
+    "Hôpitaux": [
+      "Maison de convalescence",
+      "Hess, Mme",
+      "Pavillon de la Côte",
+      "Sanatorium p. tuberculeux",
+      "Schmutz Frida"
+    ],
+    "Horloger": [
+      "Jeanrenaud William"
+    ],
+    "Jardiniers": [
+      "Ochsner Hermann",
+      "Ruegsegger Ch."
+    ],
+    "Laitier": [
+      "Gay Marc"
+    ],
+    "Maréchal": [
+      "Bessat Gérard"
+    ],
+    "Menuisier": [
+      "Bielser Gustave"
+    ],
+    "Pépiniériste": [
+      "Delévaux Louis"
+    ],
+    "Rentier": [
+      "de Lessert René"
+    ],
+    "Sociétés": [
+      "Sté de la machine à battre",
+      "Syndicat d'élevage"
+    ],
+    "Tapissier": [
+      "Jeanrenaud William"
+    ],
+    "Tonneliers": [
+      "Bielser frères"
+    ],
+    "Vélos et motos": [
+      "Pernet Gustave"
+    ],
+    "Vignerons": [
+      "Ansermet Alb.",
+      "Bielser Walther",
+      "Billard Samuel",
+      "Bourguignon Ami",
+      "Cartier Gust.",
+      "Croisier Edouard",
+      "Delafoge Emile",
+      "Monneyron Louis",
+      "Michon Aug.",
+      "Michon Henri",
+      "Ostermon L.",
+      "Pasche Robert",
+      "Pernet Ch.",
+      "Quiblier Constant",
+      "Quiblier Marcel",
+      "Quiblier Constant",
+      "Quiblier Samuel",
+      "Rolaz Henri",
+      "Rolaz René",
+      "Suardet Jules",
+      "Turin Auguste"
+    ]
+  }
+}

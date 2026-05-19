@@ -1,0 +1,243 @@
+{
+  "MONT-LA-VILLE": {
+    "Sertisseurs": [
+      "Martinet Charles",
+      "Rochat César"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "Militaire",
+      "Syndicat agricole"
+    ],
+    "Tailleur": [
+      "Rochat Alexandre"
+    ],
+    "Tailleuses": [
+      "Genevaz Bertha",
+      "Genevaz Henriette"
+    ],
+    "Téléphoniste": [
+      "Charoton Marc-Louis"
+    ],
+    "Voituriers": [
+      "Bélaz Ami",
+      "Martinet-Flaction",
+      "Guetty Henri",
+      "Rochat-Billard"
+    ],
+    "Divers": [
+      "Roux Félix"
+    ]
+  },
+  "MONTRICHER": {
+    "Autorités communales": [
+      "Huller Constant",
+      "Chenuz Walter",
+      "Morel-Roy Edouard"
+    ],
+    "Municipaux": [
+      "Buffet Edmond",
+      "Chenuz Louis",
+      "Magnin Alexandre",
+      "Chenuz Emile",
+      "Magnin Paul",
+      "Sahli Alexandre"
+    ],
+    "Agriculteurs": [
+      "Buffet Edmond",
+      "Buffet Charles",
+      "Freymond Charles de Jules",
+      "Freymond Alexandre",
+      "Freymond Emile",
+      "Freymond John",
+      "Magnin Charles",
+      "Magnin John",
+      "Morel Louis",
+      "Morel-Roy frères",
+      "Morel Ferd"
+    ],
+    "Amodiateurs": [
+      "Buffet Charles",
+      "Desmeules John",
+      "Henchoz Alexis",
+      "Magnin Samuel"
+    ],
+    "Apiculteurs": [
+      "Buffet Eugène",
+      "Chenuz Louis",
+      "Henry, Mlles",
+      "Morel Alfred"
+    ],
+    "Appartements pour séjour d'été": [
+      "Baudin Sophie",
+      "Magnin Paul"
+    ],
+    "Assesseur": [
+      "Morel Justin"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Nicod H."
+    ],
+    "Auberges et cafés": [
+      "Freymond Robert",
+      "Hôtel des Deux Sapins",
+      "Allamand Ernest",
+      "Lion-d'Or",
+      "Grandjean Emile",
+      "café du Nord",
+      "Moser, Mme",
+      "café de la Gare"
+    ],
+    "Bestiaux (comm. de)": [
+      "Desmeules John",
+      "Morel-Roy frères"
+    ],
+    "Blanchisseuses": [
+      "Freymond Bertha",
+      "Rod Marie"
+    ],
+    "Bois": [
+      "Chabot Jules",
+      "Morel-Roy Edouard",
+      "Schacher & Chenuz"
+    ],
+    "Boisselier": [
+      "Dépraz Louis"
+    ],
+    "Boucher": [
+      "Morel Edmond"
+    ],
+    "Boulangers": [
+      "Béday, Vve de Léon",
+      "Henry Gabrielle"
+    ],
+    "Chapellerie": [
+      "Henry Gabrielle"
+    ],
+    "Charpentiers": [
+      "Monnier Louis",
+      "Morel Aug.-Louis"
+    ],
+    "Charcutier": [
+      "Morel Edmond"
+    ],
+    "Charrons": [
+      "Golay Ad.",
+      "Magnenat L."
+    ],
+    "Chaussures": [
+      "Henry Gabrielle"
+    ],
+    "Commission scolaire": [
+      "Morel-Roy Edouard",
+      "Magnin Paul"
+    ],
+    "Cordonniers": [
+      "Gachet Marius",
+      "Guignet Charles"
+    ],
+    "Draperie": [
+      "Henry Gabrielle"
+    ],
+    "Entrepreneurs": [
+      "Bois-Lin",
+      "Mosini Jules"
+    ],
+    "Epicerie et tabacs": [
+      "Béday Vve de Léon",
+      "Henry Gabrielle",
+      "Magnin-Guignet Henri",
+      "Morel-Dufey Rose",
+      "Wulliemin-Capt Henri"
+    ],
+    "Gardes-forestiers": [
+      "Buffet Armand",
+      "Jaques Charles, fils"
+    ],
+    "Géomètre": [
+      "Chenuz Georges"
+    ],
+    "Inspecteur du bétail": [
+      "Magnin Marcel"
+    ],
+    "Instituteurs": [
+      "Maire Robert",
+      "Albrecht Berthe",
+      "Dutoit Suzanne"
+    ],
+    "Laitier": [
+      "Gürtner Ch."
+    ],
+    "Lingère": [
+      "Mojonnet Constance"
+    ],
+    "Machines agricoles": [
+      "Henry Gabrielle",
+      "Prévost Maxime"
+    ],
+    "Maréchaux": [
+      "Prévost T.",
+      "Rod Gustave"
+    ],
+    "Menuisiers": [
+      "Breitenstein Henri",
+      "Magnin Armand",
+      "Magnin Paul"
+    ],
+    "Mercerie et tissus": [
+      "Henry Gabrielle",
+      "Magnin-Guignet Henri",
+      "Wulliemin-Capt Henri"
+    ],
+    "Pensions": [
+      "Bernard Ernest",
+      "Pension de la Forêt",
+      "Pension du Jura"
+    ],
+    "Photographe": [
+      "Breitenstein Louis"
+    ],
+    "Poste, télégraphe et téléphone": [
+      "Chenuz Hermance"
+    ],
+    "Quincaillerie": [
+      "Guignet Magnin",
+      "Henry Gabrielle",
+      "Morel-Dufey Rose"
+    ],
+    "Sellier": [
+      "Magnin Louis"
+    ],
+    "Serrurier": [
+      "Prévost Eugène"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "Syndicat agricole",
+      "Section de la Croix-Bleue",
+      "Société du Crédit Mutuel",
+      "Prévost Eugène"
+    ],
+    "Socques (fab. de)": [
+      "Cuvit François"
+    ],
+    "Son et maïs": [
+      "Henry Gabrielle"
+    ],
+    "Tailleuses": [
+      "Grimm-Magnin Eugénie",
+      "Magnin Rosalie",
+      "Morel Julie"
+    ]
+  },
+  "ORNY": {
+    "Autorités communales": [
+      "Juvet Alexandre",
+      "Pavillard Robert",
+      "Pavillard Alexis"
+    ],
+    "Municipaux": [
+      "Messeiller Henri"
+    ]
+  }
+}

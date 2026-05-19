@@ -1,0 +1,241 @@
+{
+  "FAOUG": {
+    "Pêcheurs": [
+      "Cornaz, Jean",
+      "Cornaz, Hri",
+      "Demeyriez, Albert"
+    ],
+    "Pensionnat": [
+      "Guignard, demoiselles"
+    ],
+    "Sellier": [
+      "Cornaz, Louis"
+    ],
+    "Société": [
+      "Nouvelle Société de laiterie R."
+    ],
+    "Tailleur": [
+      "Urfer, Frédéric"
+    ],
+    "Tailleuses": [
+      "Cornaz, Anna-Mrie",
+      "Druey, Adèle"
+    ],
+    "Télégraphiste.": [
+      "Druey, Fritz"
+    ],
+    "Téléphoniste.": [
+      "von Gunten, Alfred"
+    ],
+    "Tonnelier": [
+      "Demeyriez, Auguste"
+    ],
+    "Tuyaux en ciment (fabrique de)": [
+      "Cornaz, Paul & Cie. R."
+    ],
+    "Tuiliers": [
+      "Savary et fils"
+    ],
+    "Vins (négociants en)": [
+      "Cornaz & Cie. R. T."
+    ],
+    "Divers": [
+      "Cornaz, Fritz",
+      "Cornaz, hoirs d'Eugène",
+      "Cornaz, Louis-David",
+      "Cornaz, Sophie",
+      "Crisinel, Jean",
+      "Geiser, Samuel",
+      "Guignard, sœurs",
+      "Hahner, Paul",
+      "Inæbnit, Charles",
+      "Inæbnit, veuve",
+      "Meignez, veuve",
+      "Paroz, Jules",
+      "Savary, Charles"
+    ]
+  },
+  "MONTMAGNY": {
+    "Autorités communales": [
+      "Loup, Ernest",
+      "Magnin, Constant"
+    ],
+    "Syndic.": [
+      "Loup, Jules"
+    ],
+    "Municipaux": [
+      "Loup, Frédéric-Louis",
+      "Loup, Arnold",
+      "Loup, Henri",
+      "Verdon, Arthur",
+      "Magnin, Gustave",
+      "Loup, Adolphe"
+    ],
+    "Café": [
+      "Loup, Dan.-Rod., fils"
+    ],
+    "Commission scolaire.": [
+      "Emile Favez",
+      "Léon Loup",
+      "Arthur Verdon"
+    ],
+    "Forestier": [
+      "Loup, Jean-Frédéric"
+    ],
+    "Inspecteur du bétail": [
+      "Loup, Léon"
+    ],
+    "Institutrice": [
+      "Mury, Louisa"
+    ],
+    "Laitier": [
+      "Rebaud, R."
+    ],
+    "Menuisier": [
+      "Roth, Jean"
+    ],
+    "Négociant": [
+      "Loup, Henri. R."
+    ],
+    "Pionnier": [
+      "Loup, Emile"
+    ],
+    "Société": [
+      "Société de laiterie de Montmagny. R."
+    ],
+    "Tailleuse": [
+      "Sugnet, Henriette"
+    ],
+    "Téléphoniste": [
+      "Loup"
+    ]
+  },
+  "MUR": {
+    "Autorités communales": [
+      "Amiet, Fritz",
+      "Cornuz, Louis-Aimé"
+    ],
+    "Syndic.": [
+      "Amiet, Auguste"
+    ],
+    "Municipaux": [
+      "Amiet, Eugène",
+      "Cornuz, Henri",
+      "Noyer, Jean",
+      "Pouly, François",
+      "Besse, William",
+      "Cornuz, Henri"
+    ],
+    "Charron": [
+      "Christinat, David"
+    ],
+    "Epicerie": [
+      "Petter, Auguste"
+    ],
+    "Inspecteur du bétail": [
+      "Cornuz, Jean-Samuel"
+    ],
+    "Instituteur": [
+      "Aubort, Gustave"
+    ],
+    "Jardinier": [
+      "Vacheron, Louis-Auguste"
+    ],
+    "Maréchal-ferrant": [
+      "Petter, Henri"
+    ],
+    "Divers": [
+      "Cornuz, Louis-Nicolas",
+      "Dance, Georges",
+      "Linniger, Samuel",
+      "Hoirie Rivier",
+      "Vacheron, Edouard, fils"
+    ]
+  },
+  "OLEYRES": {
+    "Autorités communales": [
+      "Nicolier, Chs-Jean",
+      "Martin, Chs"
+    ],
+    "Syndic.": [
+      "Jaquenod, Jules"
+    ],
+    "Municipaux": [
+      "Charmey, Gustave",
+      "Doleyres, Jules",
+      "Miauton, Auguste",
+      "Nicolier, Alphonse",
+      "Miauton, Chs",
+      "Martin, Alfred"
+    ],
+    "Assesseur": [
+      "Nicolier, Constant"
+    ],
+    "Auberges et cafés": [
+      "Kuhn, Vincent",
+      "Nicolier, Auguste"
+    ],
+    "Charpentier": [
+      "Doleyres, Louis"
+    ],
+    "Charrons": [
+      "Lauper, Christian",
+      "Nicolier, Abrahm-Frédéric & J. Gonin"
+    ],
+    "Commerce de bétail": [
+      "Miauton, Oscar. R."
+    ],
+    "Commission scolaire": [
+      "Gonin, Jean",
+      "Miauton, Auguste",
+      "Miauton, Chs"
+    ],
+    "Cordonnier": [
+      "Simonet, Pierre"
+    ],
+    "Epiceries": [
+      "Calderara, Adèle",
+      "Charmey, Edouard",
+      "Stucki, Jean"
+    ],
+    "Inspecteur du bétail": [
+      "Charmey, Daniel"
+    ],
+    "Institutrice": [
+      "Martin-Miauton, Laure"
+    ],
+    "Laiterie": [
+      "Portner, Daniel. R."
+    ],
+    "Maréchal": [
+      "Fornallaz, Arthur"
+    ],
+    "Société": [
+      "Société de laiterie. R."
+    ],
+    "Téléphone communal": [
+      "Stucki, Jean"
+    ]
+  },
+  "VALLAMAND-DESSUS": {
+    "Autorités communales": [
+      "Delorme, Emile",
+      "Chautems, Emile"
+    ],
+    "Syndic.": [
+      "Vincent, Emile"
+    ],
+    "Secrétaire municip.": [
+      "Failloubaz, Samuel",
+      "Chautems, Emile"
+    ],
+    "Cafés": [
+      "Vincent, Samuel",
+      "Piquilloud, frères"
+    ],
+    "Chaises (fabricants de)": [
+      "Delorme-Druey, Emile. R.",
+      "Failloubaz, Louis-Benoit"
+    ]
+  }
+}

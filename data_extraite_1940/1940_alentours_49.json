@@ -1,0 +1,374 @@
+{
+  "CHAPELLE": {
+    "Syndic": [
+      "Guex Alphonse"
+    ],
+    "Secrétaire": [
+      "Besson-Porchet Héli"
+    ],
+    "Boursier": [
+      "Mingard Ernest"
+    ],
+    "Municipaux": [
+      "Jaton Ernest",
+      "Mingard Fernand",
+      "Pache Jean-Charles",
+      "Veyre Ulysse"
+    ],
+    "Huissier": [
+      "Cordey Auguste"
+    ],
+    "Cantonnier": [
+      "Cordey Louis"
+    ],
+    "Command. du feu": [
+      "Mingard Fernand"
+    ],
+    "Commission scolaire": [
+      "Guignard P.",
+      "Besson Alfred"
+    ],
+    "Garde forestier": [
+      "Cordey Auguste"
+    ],
+    "Inspecteur du bétail": [
+      "Guignard Paul"
+    ],
+    "Inspecteur des viandes": [
+      "Mingard Emile"
+    ],
+    "Instituteurs": [
+      "Dupuis Marguerite",
+      "Lagnel Frédéric"
+    ],
+    "Juge de paix": [
+      "Pache Jean-Ch."
+    ],
+    "Police (agent de)": [
+      "Cordey Ulysse"
+    ],
+    "Poste et télégraphe": [
+      "Jaton Eugénie"
+    ],
+    "Agriculteurs": [
+      "Besson Ami",
+      "Besson Alfred",
+      "Besson Edouard",
+      "Besson Emile",
+      "Besson Jules",
+      "Besson René",
+      "Besson-Porchet Héli",
+      "Bovay Henri",
+      "Cavin Adrien",
+      "Cavin André",
+      "Cavin Paul",
+      "Cavin Jules",
+      "Cordey Auguste",
+      "Cordey Edmond",
+      "Cordey Henri",
+      "Cordey Robert",
+      "Chapallay Emile",
+      "Clot Robert",
+      "Decrevel Marcel",
+      "Diserens Eugène",
+      "Duthon Ernest",
+      "Estoppey Ami",
+      "Gilliéron Alfred",
+      "Guignard Paul",
+      "Guex Alphonse",
+      "Jaton Alfred",
+      "Jaton Ernest",
+      "Jaton Héli",
+      "Jaton Héli",
+      "Jaton Louis",
+      "Jaton Aimé",
+      "Lemat Edmond",
+      "Lemat Jules",
+      "Martin André",
+      "Martin Héli",
+      "Martin Ls",
+      "Martin Ulysse",
+      "Mingard Ami",
+      "Mingard Edmond",
+      "Mingard Emile",
+      "Mingard Ern.",
+      "Mingard John",
+      "Mingard Louis",
+      "Mingard Jules",
+      "Mingard Fern.",
+      "Mingard Adolphe",
+      "Mingard William",
+      "Nidegger Alfred",
+      "Pache Eugène",
+      "Pache Louis",
+      "Pache Jean",
+      "Pache Jean-Ch.",
+      "Pache-Chevalley Jean",
+      "Porchet Robert",
+      "Sauvageat Paul",
+      "Sonnay Justin",
+      "Trolliet Emile",
+      "Veyre Constant",
+      "Veyre Henri",
+      "Veyre Jules",
+      "Veyre Louis",
+      "Veyre Ulysse"
+    ],
+    "Apiculteurs": [
+      "Guignard Paul",
+      "Jaton Alfred",
+      "Mingard Ami"
+    ],
+    "Assurance - vieillesse": [
+      "Associations mutualistes de retraite",
+      "Lagnel F."
+    ],
+    "Banque": [
+      "Crédit mutuel de Chapelle"
+    ],
+    "Boucher": [
+      "Pache Jean"
+    ],
+    "Boulangerie": [
+      "Delay André"
+    ],
+    "Cafés": [
+      "L'Ecusson",
+      "Maillard Louis",
+      "L'Etoile",
+      "Trolliet Gisèle"
+    ],
+    "Charpentiers": [
+      "Diserens Eugène",
+      "Mingard Arthur"
+    ],
+    "Charrons": [
+      "Dufour Jules-Henri",
+      "Martin Héli"
+    ],
+    "Cordonniers": [
+      "Dubois Jules",
+      "Guignard Jules"
+    ],
+    "Couturières": [
+      "Guex Renée",
+      "Schwertfeger Marie"
+    ],
+    "Epiceries-merceries": [
+      "Delay André",
+      "Gauthey Ami"
+    ],
+    "Entrepreneurs": [
+      "Delgrande Salvator"
+    ],
+    "Epicerie-mercerie": [
+      "Delgrande Cath."
+    ],
+    "Fourches (fabr. de)": [
+      "Mingard Ami",
+      "Mingard John",
+      "Veyre J."
+    ],
+    "Laiterie": [
+      "Soc. Coop. de Consommation",
+      "Ingold Fritz"
+    ],
+    "Maréchaux": [
+      "Jaccaud Marcel",
+      "Jaton Henri"
+    ],
+    "Pompes funèbres du Nord": [
+      "Mingard Art."
+    ],
+    "Scieurs": [
+      "Cordey Ulysse",
+      "Pache Louis"
+    ],
+    "Sociétés": [
+      "Abbaye de Chapelle",
+      "Caisse d'assurance du bétail",
+      "Caisse de crédit mutuel",
+      "Jaton Alfred",
+      "Sté de chant L'Aurore",
+      "Sté du poids public",
+      "Sté de tir aux Armes de Guerre",
+      "Syndicat d'élevage bovin"
+    ]
+  },
+  "CHARDONNE": {
+    "Député": [
+      "Forestier Jean"
+    ],
+    "Syndic": [
+      "Forestier Jean"
+    ],
+    "Secrétaire": [
+      "Barbey Gustave"
+    ],
+    "Boursier": [
+      "Forestier-Ducret Charles"
+    ],
+    "Municipaux": [
+      "Forestier Victor",
+      "Genton Ernest",
+      "Neyrond Eugène",
+      "Neyroud Marc",
+      "Neyroud Paul",
+      "Pinget Ami"
+    ],
+    "Huissier": [
+      "Forestier Victor"
+    ],
+    "Assesseur": [
+      "Taverney Henri"
+    ],
+    "Cantonnier": [
+      "Mouron Aloys"
+    ],
+    "Chef de section": [
+      "Neyroud-Richard André"
+    ],
+    "Commandant du feu": [
+      "Neyroud Paul"
+    ],
+    "Commission scolaire": [
+      "Barbey Gustave"
+    ],
+    "Commission scolaire, classe primaire supérieure": [
+      "Ducret-Mouron Eug.",
+      "Brunet Edouard"
+    ],
+    "Garde forestier": [
+      "Mouron Paul"
+    ],
+    "Gare Mont-Pèlerin (chef de)": [
+      "Graf Fritz"
+    ],
+    "Greffier de paix": [
+      "Delapraz M."
+    ],
+    "Huissier de paix": [
+      "Ducret Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Forestier Ed.",
+      "Neyroud Robert"
+    ],
+    "Inspecteur des viandes": [
+      "Forestier Ed."
+    ],
+    "Instituteurs": [
+      "Dutoit Samuel",
+      "Goy Auguste",
+      "Reymond Georges",
+      "Meylan James",
+      "Baechtold Emilie",
+      "Goy-Delacrétaz Aline"
+    ],
+    "Juge de paix": [
+      "Savary"
+    ],
+    "Mesureur-juré": [
+      "Ducret François"
+    ],
+    "Officier d'état-civil": [
+      "Neyroud-Richard A."
+    ],
+    "Pasteur": [
+      "Vittoz Paul"
+    ],
+    "Poste et télégraphe": [
+      "Barbey Gustave",
+      "Cherpillod Paul"
+    ],
+    "Agriculteurs": [
+      "Amstein André",
+      "Amstein Jean",
+      "Barbey Edouard",
+      "Blanc Agénor",
+      "Boulenaz Robert",
+      "Cossy Max",
+      "Davet Robert",
+      "Dénéréaz-Berbey Henri",
+      "Dénéréaz Jules",
+      "Dénéréaz Ami",
+      "Ducret Marius",
+      "Ducret Vict.",
+      "Ducret Jean",
+      "Perriaz",
+      "Ducret-Penard E.",
+      "Ducret-Volet Elise",
+      "Ducret Louis",
+      "Perriaz",
+      "Dupertais Paul",
+      "Buattonets",
+      "Emery Auguste",
+      "Forestier-Taverney Jean",
+      "Forestier Victor",
+      "Freiburghaus Gottfried",
+      "Genton Ernest",
+      "Genton Henri",
+      "Genton Marius",
+      "Genton François",
+      "Hollenstein Hans",
+      "Leyvraz Ami",
+      "Métrailler Alexis",
+      "Michel Antonin",
+      "Morel-Ducret Ch.",
+      "Morel-Penard Ls",
+      "Morel-Pasche Hri",
+      "Morel-Mouron Hri",
+      "Mouron Ls",
+      "Mouron-Forestier Jean",
+      "Mouron Jules",
+      "Mouron Jules",
+      "Mouron Frs",
+      "Mouron Marc",
+      "Mouron Hri",
+      "Mouron Jean",
+      "Murisier René",
+      "Mouron Ami",
+      "Perriaz",
+      "Neyroud Paul",
+      "Neyroud Eugène",
+      "Neyroud Robert",
+      "Neyroud Marc",
+      "Neyroud Paul",
+      "Neyroud Armand",
+      "Neyroud-Bidaud Florian",
+      "Pinget Yve",
+      "Philipona Irénée",
+      "Volet Louis",
+      "Volet Charles",
+      "Volet François",
+      "Volet Emile",
+      "Wicki Marcelin",
+      "Taverney Charles",
+      "Taverney Henri"
+    ],
+    "Apiculteurs": [
+      "Barbey Gustave",
+      "Barbey Edouard",
+      "Genton Ernest",
+      "Neyroud André",
+      "Neyroud Robert"
+    ],
+    "Appareilleur": [
+      "Huber Frédéric"
+    ],
+    "Assurance cantonale grêle": [
+      "Neyroud Paul"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite",
+      "Raymond G."
+    ],
+    "Auto-garage, taxis": [
+      "Herminjard Hermann"
+    ],
+    "Aviculteurs": [
+      "Gavairon Gust.",
+      "Maikoff Alex"
+    ]
+  }
+}

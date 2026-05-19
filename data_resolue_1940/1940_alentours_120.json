@@ -1,0 +1,362 @@
+{
+  "LA PRAZ": {
+    "Apiculteurs": [
+      "Cordey Robert",
+      "Delacrétaz Pierre"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Muller Eric"
+    ],
+    "Bois (march. de)": [
+      "Baumgartner Ch.",
+      "Lyon Fernand"
+    ],
+    "Café": [
+      "Sordet Marie"
+    ],
+    "Epiceries, merceries": [
+      "Baumgartner Lucie. T.",
+      "Delacrétaz Albert"
+    ],
+    "Laitier": [
+      "Bignens Hermann",
+      "Laiteries Réunies",
+      "Neuffer Robert. T."
+    ],
+    "Maréchal": [
+      "Ney Max",
+      "Martin Charles"
+    ],
+    "Pensions": [
+      "Pension Bellevue",
+      "Pension Bardet",
+      "Pension Rossire"
+    ],
+    "Rentière": [
+      "Falquet Léonie, Vve."
+    ],
+    "Scierie": [
+      "Lyon Edouard"
+    ],
+    "Voituriers": [
+      "Baumgartner Charles. f.",
+      "Chapuis Hermann"
+    ],
+    "Couturière": [
+      "Melly Anna"
+    ],
+    "Epiceries": [
+      "Girod Ami. RT.",
+      "Paltani-Duvoisin Joseph"
+    ],
+    "Maçons": [
+      "Paltani H. & Joseph"
+    ],
+    "Mécanicien": [
+      "Dubois René"
+    ],
+    "Scieur": [
+      "Paréaz Julien. T."
+    ],
+    "Sociétés": [
+      "Sté de fromagerie et de laiterie. R.",
+      "Sté immobilière de la Germine. R.",
+      "Syndicat agricole. R.",
+      "Syndicat de battage."
+    ]
+  },
+  "LA RIPPE": {
+    "Député": [
+      "Melly Arm. T."
+    ],
+    "Syndic": [
+      "Melly Fernand. T."
+    ],
+    "Secrétaire": [
+      "Genevay Marcel"
+    ],
+    "Boursier": [
+      "Girod Ami"
+    ],
+    "Huissier": [
+      "Roy Henri"
+    ],
+    "Municipaux": [
+      "Berlie John",
+      "Berlie René",
+      "Gautier Henri",
+      "Hermenjat Arnold",
+      "Hermenjat Marcel",
+      "Melly Georges"
+    ],
+    "Commission scolaire": [
+      "Gautier Hri"
+    ],
+    "Garde forestier": [
+      "Girod Ami. T."
+    ],
+    "Inspect. du bétail": [
+      "Girod Ami. T."
+    ],
+    "Inspecteur forestier": [
+      "Leuenberger G."
+    ],
+    "Instituteurs": [
+      "Fluck Georges",
+      "Fluck Lilia"
+    ],
+    "Poste et télégraphe": [
+      "Niederhauser Georges"
+    ],
+    "Agriculteurs": [
+      "Berlie frères",
+      "Berlie Henri",
+      "Berlie Jules",
+      "Chouet Alf.",
+      "Gautier Henri",
+      "Hermenjat Alph.",
+      "Hermenjat Henri",
+      "Hermenjat Emile",
+      "Hermenjat John",
+      "Hermenjat Louis",
+      "Hermenjat Marcel",
+      "Hermenjat Paul",
+      "Meichtry Jean",
+      "Melly Armand. T.",
+      "Melly Charles",
+      "Melly Fernand. T.",
+      "Rietz Gottfried",
+      "Tharin Aimé",
+      "Varidel Samuel. T."
+    ],
+    "Amodiateur": [
+      "Melly Armand. T."
+    ],
+    "Apiculteurs": [
+      "Chouet Roger",
+      "Lenz Oscar",
+      "Paréaz Julien"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Fluck Gges"
+    ],
+    "Assurance": [
+      "Sieber Raymond"
+    ],
+    "Bois (comm. de)": [
+      "Berlie frères",
+      "Girod Marc",
+      "Paréaz Julien. R."
+    ],
+    "Cafés": [
+      "Duvoisin O.",
+      "Paltani Joseph"
+    ]
+  },
+  "LA ROGIVUE": {
+    "Syndic": [
+      "Dovat Ami"
+    ],
+    "Secrétaire": [
+      "Félix Philippe"
+    ],
+    "Boursier": [
+      "Félix Paul"
+    ],
+    "Huissier": [
+      "Félix Philippe"
+    ],
+    "Municipaux": [
+      "Cusin Henri",
+      "Félix Samuel"
+    ],
+    "Commandant du feu": [
+      "Dovat Robert"
+    ],
+    "Commission scolaire": [
+      "Félix Philippe",
+      "Cusin Henri"
+    ],
+    "Garde forestier": [
+      "Félix-Borel Samuel"
+    ],
+    "Inspect. du bétail": [
+      "Félix Philippe"
+    ],
+    "Agriculteurs": [
+      "Chollet Albert",
+      "Cusin Henri",
+      "Dovat Ami",
+      "Félix Rosine",
+      "Félix-Borel Samuel",
+      "Félix Philippe",
+      "Félix David",
+      "Meyer Charles",
+      "Meyer Victor"
+    ],
+    "Epicerie, mercerie": [
+      "Bovey J.-D.-O. RT."
+    ],
+    "Tricoteuse": [
+      "Félix Emma"
+    ]
+  },
+  "LA SARRAZ": {
+    "Députés du cercle": [
+      "Devenoge François",
+      "Monnier Charles"
+    ],
+    "Syndic": [
+      "Vannod Henri. T."
+    ],
+    "Secrétaire": [
+      "Guignard Jean"
+    ],
+    "Boursier": [
+      "Meyer Ph."
+    ],
+    "Huissier": [
+      "Bonard Rodolphe"
+    ],
+    "Municipaux": [
+      "Besson Henri",
+      "Cugny Henri",
+      "Michaud Alfred",
+      "Rollier Henri"
+    ],
+    "Chef de section": [
+      "Décoppet Paul. T."
+    ],
+    "Chef de gare": [
+      "Bataillard René"
+    ],
+    "Commission scolaire primaire": [
+      "Rollier Henri"
+    ],
+    "Commission scolaire primaire sup.": [
+      "Pavillard Alexis"
+    ],
+    "Commandant du feu": [
+      "Décoppet Paul"
+    ],
+    "Contrôleur du lait (circ. de La Sarraz)": [
+      "Gaudin Henri",
+      "Michaud Gustave"
+    ],
+    "Garde-forestier": [
+      "Chailley",
+      "Ferreyres"
+    ],
+    "Gendarmerie (poste de)": [
+      "Morier-Genoud"
+    ],
+    "Inspecteur du bétail": [
+      "Vannod Em."
+    ],
+    "Inspecteur forestier": [
+      "Monachon F. T."
+    ],
+    "Inspecteur des viandes": [
+      "Besson Hri"
+    ],
+    "Instituteurs": [
+      "Auberson Jules. T.",
+      "Zwahlen René",
+      "Besançon Yvette",
+      "Guignard Jeanne",
+      "Zwahlen Madeleine"
+    ],
+    "Justice de paix": [
+      "Pavillard Alexis",
+      "Cugny H.",
+      "Gex François",
+      "Gleyre Maurice",
+      "Mermoud Henri",
+      "Pittet René",
+      "Besson Henri"
+    ],
+    "Officier d'état civil": [
+      "Delacuisine"
+    ],
+    "Pasteur": [
+      "Centlivres Robert. T."
+    ],
+    "Police (agent de)": [
+      "Bonard Rodolphe"
+    ],
+    "Poste": [
+      "Michaud Alfred"
+    ],
+    "Téléphone": [
+      "Greffe municipal"
+    ],
+    "Agriculteurs": [
+      "Bonzon William",
+      "Broccard Gustave",
+      "Chenaux, hoirie",
+      "Cuhat Georges",
+      "Cuhat Lucien",
+      "Develey Jean",
+      "Ernst Jules",
+      "Hofer Em. T.",
+      "Hofer Roland. T.",
+      "Imhof J.",
+      "Michaud Fréd.",
+      "Michaud Sam.",
+      "Rollier Henri",
+      "Schopfer René",
+      "Wannaz Charles",
+      "Wannaz Victor",
+      "Vannod Emile",
+      "Vannod Hri. T.",
+      "Zoël Louis"
+    ],
+    "Ameublements": [
+      "Chauvet frères",
+      "Penseyres Robert"
+    ],
+    "Appareilleurs": [
+      "Guignard-Ernst Jean",
+      "Guignard Julien. R."
+    ],
+    "Appareils de chauffage (fabr. de)": [
+      "Bouverat Al. T."
+    ],
+    "Architecte": [
+      "Guignard-Tétaz Jean. RT."
+    ],
+    "Assurances": [
+      "Chaubert Charles",
+      "Delacuisine Ed.",
+      "Guillemin Marcel",
+      "Vannod Pierre"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Bignens E."
+    ],
+    "Auto-garage, taxi": [
+      "Jaccard Jules. R. T.",
+      "Hämmerli Marcel. T."
+    ],
+    "Banques": [
+      "Crédit mutuel de la Sarraz",
+      "Guignard-Ernst Jean",
+      "Caisse d'Epargne Cantonale",
+      "Bignens E.",
+      "Union Vaudoise du Crédit",
+      "Delacuisine E."
+    ],
+    "Bestiaux (march. de)": [
+      "Develey Samuel",
+      "Duvoisin Robert",
+      "Leutwyler Albert. T."
+    ],
+    "Blanchisseuses": [
+      "Favrichon Florence",
+      "Kägi Frida"
+    ]
+  }
+}

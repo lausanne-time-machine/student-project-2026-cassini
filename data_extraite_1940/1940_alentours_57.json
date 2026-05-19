@@ -1,0 +1,359 @@
+{
+  "CHATEAU-D'OEX": {
+    "Laiterie": [
+      "Société de laiterie"
+    ],
+    "Menuisier": [
+      "Henchoz-Roch Clément"
+    ],
+    "Pensions": [
+      "Henchoz Clément",
+      "Henchoz-Pilet Hortense"
+    ],
+    "Scierie": [
+      "Henchoz Charles"
+    ],
+    "Sociétés": [
+      "Sté des amodiateurs de L'Etivaz et environs",
+      "Sté de laiterie de L'Etivaz",
+      "Sté de tir aux armes de guerre",
+      "Syndicat d'élevage"
+    ],
+    "Vins": [
+      "de Kaenel Paul"
+    ]
+  },
+  "LES GRANGES": {
+    "Poste et télégraphe": [
+      "Bach Louis"
+    ],
+    "Agriculteurs": [
+      "Berdoz Albert",
+      "Berdoz Emmanuel",
+      "Blum Alfred",
+      "Blum Louis",
+      "Chabloz Henri",
+      "Daenzer Fritz",
+      "Henchoz Henri",
+      "Henchoz-Yersin Louis",
+      "Karlen Jean",
+      "Morier Georges",
+      "Pilet Louis",
+      "Pilet Alfred",
+      "Ramel Auguste",
+      "Rossier Emile",
+      "Rossier Louis",
+      "Rossier-Pilet Louis",
+      "Rossier Berthold",
+      "Zulauf Ami",
+      "Karlen Ad."
+    ],
+    "Bétail (md de)": [
+      "Daenzer Fritz"
+    ],
+    "Bois (comm. de)": [
+      "Berdoz Aimé",
+      "Morier-Genoud Gabriel"
+    ],
+    "Boulangerie": [
+      "Donzallaz Paul"
+    ],
+    "Boucher": [
+      "Turrian Louis"
+    ],
+    "Café": [
+      "Morier Charles"
+    ],
+    "Couturière": [
+      "Turrian Marie"
+    ],
+    "Epiceries-merceries-tabacs": [
+      "Chapalay Marie",
+      "Donzallaz Paul"
+    ],
+    "Equarrisseur": [
+      "Chabloz Henri"
+    ],
+    "Menuisier": [
+      "Cicognani Jean"
+    ],
+    "Voiturier": [
+      "Morier Charles, fils"
+    ],
+    "Divers": [
+      "Daenzer F., fils"
+    ]
+  },
+  "LA LECHERETTE": {
+    "Poste et télégraphe": [
+      "Mermod Marie"
+    ],
+    "Agriculteurs": [
+      "Berthod Jules",
+      "Blum Alfred",
+      "Chablaix frères",
+      "Chabloz Samuel",
+      "Chapalay Henri",
+      "Chapalay Samuel",
+      "Henchoz Henri",
+      "Henchoz-Roch Benjamin",
+      "Henchoz-Favre Ami",
+      "Karlen Albert",
+      "Mermod-de Kaenel Alexis",
+      "Morier Charles",
+      "Rosat Paul",
+      "Rosat frères"
+    ],
+    "Bétail (march. de)": [
+      "Dänzer H.",
+      "Dänzer Ad."
+    ],
+    "Bois (march. de)": [
+      "Borloz Théodore"
+    ],
+    "Boulanger": [
+      "Henchoz Hri"
+    ],
+    "Café-pension": [
+      "Mermod-de Kaenel Alexis"
+    ],
+    "Epicerie-mercerie-tabacs": [
+      "Mermod-de Kaenel Alexis",
+      "Henchoz Hri"
+    ],
+    "Hôtel-pension": [
+      "Hôtel-pension de la Lécherette",
+      "Mermod-de Kaenel Alexis"
+    ]
+  },
+  "VALLEE DE L'HONGRIN": {
+    "Agriculteurs": [
+      "Berthod Jules",
+      "Favre-Emile",
+      "Favre-Morier Louis",
+      "Isoz Fritz",
+      "de Kaenel Samuel",
+      "Lempen Robert",
+      "Lenoir Louis-David",
+      "Mottier Oscar",
+      "Perren frères"
+    ],
+    "Bois (Comm. de)": [
+      "Borloz Théodore"
+    ],
+    "Epicerie": [
+      "Henchoz Hri"
+    ],
+    "Particulier": [
+      "Favre-Morier Louis"
+    ]
+  },
+  "CHATILLENS": {
+    "Syndic": [
+      "Guignet Alfred"
+    ],
+    "Secrétaire": [
+      "Jan Arthur"
+    ],
+    "Boursier": [
+      "Gilliard Henri"
+    ],
+    "Municipaux": [
+      "Gilliard Henri",
+      "Guignet Oscar",
+      "Jan Daniel",
+      "Rogivue René"
+    ],
+    "Huissier": [
+      "Piretti Paul"
+    ],
+    "Cantonnier": [
+      "Richard Eugène"
+    ],
+    "Commandant du feu": [
+      "Guignet Alfred"
+    ],
+    "Commission scolaire": [
+      "Gilliard Henri"
+    ],
+    "Contrôleur laitier": [
+      "Pasche Edmond"
+    ],
+    "Garde-forestier de triage": [
+      "Rogivue Emile-Henri"
+    ],
+    "Gare C.F.F. (Chef de)": [
+      "Métraux M."
+    ],
+    "Inspecteur du bétail": [
+      "Jan Daniel"
+    ],
+    "Instituteurs": [
+      "Schmutz Robert",
+      "Mayor Ida"
+    ],
+    "Poste et télégraphe": [
+      "Jan Arthur"
+    ],
+    "Agriculteurs": [
+      "Bersier Ern.",
+      "Chevaley Ami",
+      "Ducret Marcel",
+      "Dutoit Vict.",
+      "Emery Js",
+      "Favez Alf.",
+      "Gilliard Adolphe",
+      "Gilliard Henri",
+      "Gilliéron John",
+      "Gerber Charles",
+      "Guignet Alfred",
+      "Guignet Eugène",
+      "Guignet Oscar",
+      "Jan Daniel",
+      "Jan Hri",
+      "Maillard Js",
+      "Mayor Adr.",
+      "Moser Th.",
+      "Pasche Louis",
+      "Rogivue Ernest",
+      "Rogivue-Vuillemin Henri",
+      "Rogivue Emile-Hni",
+      "Vogt Th.",
+      "Zahnd Alfred"
+    ],
+    "Ameublement": [
+      "Piretti Emile"
+    ],
+    "Apiculteur": [
+      "Vogt Théophile"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Schmutz R."
+    ],
+    "Assurance": [
+      "Dufey Jean"
+    ],
+    "Auto-transports": [
+      "Favez Gaston",
+      "Rod William"
+    ],
+    "Bétail (march. de)": [
+      "Baudois Jules"
+    ],
+    "Bois (march. de)": [
+      "Jayet & Boss"
+    ],
+    "Boulangeries": [
+      "Loth René",
+      "Pahud Maurice"
+    ],
+    "Cafés": [
+      "Baudois Jules",
+      "Buffet de la Gare",
+      "Loth René",
+      "Hôtel du Commerce"
+    ],
+    "Confections": [
+      "Bongni Emma"
+    ],
+    "Couturières": [
+      "Cavin L.",
+      "Pasche Rosa",
+      "Pasche Laura"
+    ],
+    "Engrais chimiques": [
+      "Société d'agriculture",
+      "Guignet Alfred"
+    ],
+    "Epiceries-merceries": [
+      "Blanc Lina",
+      "Charrière Pauline",
+      "Loth René",
+      "Pasche sœurs"
+    ],
+    "Hôtel": [
+      "Commerce",
+      "Loth René"
+    ],
+    "Laiterie, fromages": [
+      "Gilliard Ern."
+    ],
+    "Mécaniciens": [
+      "Cavin Louis et fils",
+      "Cavin Jean",
+      "Piretti Paul"
+    ],
+    "Menuiserie": [
+      "Piretti Emile"
+    ],
+    "Métaux": [
+      "Piretti Paul"
+    ],
+    "Moulin": [
+      "Moulin de la contrée d'Oron"
+    ],
+    "Pompes funèbres du Nord": [
+      "Daniel Jean"
+    ],
+    "Porcs (comm. de)": [
+      "Gilliard Ernest"
+    ],
+    "Serrurier": [
+      "Piretti Paul"
+    ],
+    "Scierie": [
+      "Jayet & Boss"
+    ],
+    "Sociétés": [
+      "Sté d'agriculture d'Oron",
+      "Guignet",
+      "Sté de laiterie de Châtillens et Vuibroye"
+    ],
+    "Vélos-motos": [
+      "Cavin J.",
+      "Piretti P."
+    ]
+  },
+  "CHAVANNES-DE-BOGIS": {
+    "Syndic": [
+      "Chollet Jules"
+    ],
+    "Secrétaire": [
+      "Barraud L."
+    ],
+    "Boursier": [
+      "Borgeaud Lucien"
+    ],
+    "Municipaux": [
+      "Monod Marc",
+      "Magnin Fernand"
+    ],
+    "Huissier": [
+      "Mennet Louis"
+    ],
+    "Commandant du feu": [
+      "Magnin Fern."
+    ],
+    "Commission scolaire": [
+      "Borgeaud Lucien",
+      "Monod Marc",
+      "Triss Fern."
+    ],
+    "Garde forestier": [
+      "Mugnier John"
+    ],
+    "Inspecteur du bétail": [
+      "Golay Henri"
+    ],
+    "Inspecteur forestier": [
+      "Leuenberger G."
+    ],
+    "Inspecteur assurance-grêle": [
+      "Barraud Louis"
+    ],
+    "Inspecteur des viandes": [
+      "Vulliez Arm."
+    ]
+  }
+}

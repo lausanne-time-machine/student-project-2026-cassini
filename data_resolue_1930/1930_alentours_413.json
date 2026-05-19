@@ -1,0 +1,216 @@
+{
+  "GRANDEVENT": {
+    "Auberge communale": [
+      "Giroud Jules"
+    ],
+    "Bûcherons": [
+      "Ray Jules",
+      "Ray Robert",
+      "Roulet Henri",
+      "Roulet Victor"
+    ],
+    "Commission scolaire": [
+      "Cousin Eugène",
+      "Giroud Jules",
+      "Tissot Ernest"
+    ],
+    "Inspecteur du bétail": [
+      "Gerbex Gust."
+    ],
+    "Institutrice": [
+      "Ray Odette"
+    ],
+    "Laitier": [
+      "Duvoisin Robert"
+    ],
+    "Menuisiers-charpentiers": [
+      "Bornoz Henri",
+      "Bornoz Louis",
+      "Roulet Marcel"
+    ],
+    "Société": [
+      "de fromagerie"
+    ],
+    "Téléphone": [
+      "Auberge communale",
+      "Duvoisin Robert",
+      "Riem Alfred"
+    ]
+  },
+  "MAUBORGET": {
+    "Autorités communales": [
+      "Roulet Oscar",
+      "Petitpierre Maurice",
+      "Guillaume Alphonse",
+      "Perret Oscar",
+      "Duvoisin Ernest",
+      "Simon Charles",
+      "Perret Edouard",
+      "Gottraux Charles"
+    ],
+    "Agriculteurs": [
+      "Duvoisin Ernest",
+      "Guillaume Alph.",
+      "Petitpierre Alex.",
+      "Petitpierre Arthur",
+      "Petitpierre Maurice",
+      "Petitpierre Willy",
+      "Perret Edouard",
+      "Perret Oscar",
+      "Roulet Oscar",
+      "Simon Alexis",
+      "Simon Ch."
+    ],
+    "Amodiateur": [
+      "Basset Aimé"
+    ],
+    "Boisseliers": [
+      "Duvoisin Louis",
+      "Guillaume Alphonse",
+      "Perret Oscar",
+      "Simon Olivier"
+    ],
+    "Boulangerie": [
+      "Guillaume Alphonse"
+    ],
+    "Buraliste postal": [
+      "Perret Marcel"
+    ],
+    "Cafés": [
+      "Duvoisin Ernest",
+      "Gottraux Lucie"
+    ],
+    "Commission scolaire": [
+      "Perret Ed.",
+      "Duvoisin Ernest"
+    ],
+    "Epicerie": [
+      "Guillaume Alph."
+    ],
+    "Hôtel-Pension": [
+      "Hôtel Bellevue",
+      "Hôtel Croix Fédérale",
+      "Duvoisin Ernest"
+    ],
+    "Inspecteur du bétail": [
+      "Petitpierre Alexis"
+    ],
+    "Institutrice": [
+      "Duvoisin Jeanne"
+    ],
+    "Laitier": [
+      "Duvoisin Robert"
+    ],
+    "Téléphone public": [
+      "Gottraux Lucie"
+    ]
+  },
+  "MUTRUX": {
+    "Autorités communales": [
+      "Banderet Maurice",
+      "Kormann Adolphe",
+      "Gaille Gustave",
+      "Banderet Benjamin",
+      "Fardel Charles",
+      "Neuenschwander Alphonse",
+      "Fardel Henri",
+      "Reymondaz Daniel",
+      "Kormann Adolphe"
+    ],
+    "Agriculteurs": [
+      "Banderet Benjamin",
+      "Banderet Alb.",
+      "Fardel Arn.",
+      "Fardel Ch.",
+      "Fardel frères",
+      "Fardel Gust.",
+      "Gaille Alb.",
+      "Gaille Gustave",
+      "Junod Henri",
+      "Neuenschwander Alph.",
+      "Reymondaz Louis"
+    ],
+    "Amodiateur": [
+      "Fardel Arnold"
+    ],
+    "Assurance-vieillesse": [
+      "Nicoud S."
+    ],
+    "Aubergiste": [
+      "Saugy Charles"
+    ],
+    "Blanchisseuse": [
+      "Fardel Albertine"
+    ],
+    "Bois (march. de)": [
+      "Banderet Benjamin",
+      "Gaille Gustave"
+    ],
+    "Bûcherons": [
+      "Boillet Edouard",
+      "Fardel Henri",
+      "Fardel Louis",
+      "Lombardot Augustin",
+      "Neuenschwander Henri",
+      "Neuenschwander Alphonse"
+    ],
+    "Carrier": [
+      "Lombardot Augustin"
+    ],
+    "Charretier": [
+      "Fardel Charles"
+    ],
+    "Commission scolaire": [
+      "Banderet B."
+    ],
+    "Epicerie, mercerie": [
+      "Delay Edmond",
+      "Saugy Chs."
+    ],
+    "Garde-forestier": [
+      "Thibaud Ernest"
+    ],
+    "Inspecteur du bétail": [
+      "Banderet Hri"
+    ],
+    "Instituteurs": [
+      "Nicoud Samuel",
+      "Fardel Albertine"
+    ],
+    "Laitier": [
+      "Fardel Georges"
+    ],
+    "Menuisier": [
+      "Raymondoz Timothée"
+    ],
+    "Poste": [
+      "Allisson Bertha"
+    ],
+    "Société": [
+      "Section de la Croix-Bleue"
+    ],
+    "Tailleuse": [
+      "Neuenschwander Hélène"
+    ],
+    "Téléphone": [
+      "Bureau des postes",
+      "auberge communale"
+    ]
+  },
+  "NOVALLES": {
+    "Autorités communales": [
+      "Taillefert Reynold",
+      "Mayor Arnold",
+      "Pahud Gustave",
+      "Recordon Emile",
+      "Mermod Georges",
+      "Viguet Louis",
+      "Pahud Claude"
+    ],
+    "Agriculteurs": [
+      "Feissli Jacob",
+      "Frutig Jean",
+      "Kobi Alexandre"
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "FOUNEX": {
+    "Syndic": [
+      "Nerfin Marc"
+    ],
+    "Municipaux": [
+      "Deblüe Emile",
+      "Deblüe Eugène",
+      "Baud Auguste",
+      "Nerfin Constant"
+    ],
+    "Secrétaire": [
+      "Deblüe Charles"
+    ],
+    "Boursier": [
+      "Deblüe Samuel"
+    ],
+    "Agriculteurs": [
+      "Deblüe Marc",
+      "Duffey Henri",
+      "Deblüe-Magnin",
+      "Flükiger Emile",
+      "Herren Albert",
+      "Nerfin Constant",
+      "Nerfin Octave",
+      "Rieder Amédée",
+      "Varidel Gustave"
+    ],
+    "Apiculteurs": [
+      "Dejoux Charles",
+      "Fluckiger Emile",
+      "Quiblier"
+    ],
+    "Aubergiste": [
+      "Flückiger Emile"
+    ],
+    "Chef de section": [
+      "Guichoud Edouard"
+    ],
+    "Coiffeur": [
+      "Nerfin Jules"
+    ],
+    "Commission scolaire": [
+      "Baud Auguste",
+      "Deblüe John"
+    ],
+    "Epicerie": [
+      "Caboussat, veuve",
+      "Monnerat Charles"
+    ],
+    "Inspecteurs du bétail": [
+      "Deblüe Julien",
+      "Nerfin Octave"
+    ],
+    "Instituteurs": [
+      "Guignard Hippolyte",
+      "Berney Germaine"
+    ],
+    "Laitier": [
+      "Corthésy E."
+    ],
+    "Maréchal": [
+      "Luquiens Louis"
+    ],
+    "Naturaliste": [
+      "Guignard Hippolyte"
+    ],
+    "Pensions": [
+      "Dejoux François",
+      "Etier, veuve",
+      "Nerfin Ch."
+    ],
+    "Poste": [
+      "Monnerat Charles"
+    ],
+    "Rentiers": [
+      "Caillat, veuve",
+      "Crausaz François",
+      "Deblüe-Monaco",
+      "Fermaud Laure",
+      "Pillod Henri",
+      "Renevier Mme",
+      "Rochaix Etienne"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "De chant « l'Helvétienne »"
+    ],
+    "Téléphone": [
+      "Bureau de poste"
+    ],
+    "Vélos (garage et réparat. de)": [
+      "Luquiens Louis"
+    ],
+    "Divers": [
+      "Deblüe Abram",
+      "Deblüe John"
+    ]
+  },
+  "GENOLIER": {
+    "Autorités communales": [
+      "Bozonnet Jules",
+      "Dumas François"
+    ],
+    "Syndic": [
+      "Prod'hom Albert"
+    ],
+    "Municipaux": [
+      "Vallon Eugène",
+      "Bolay Auguste",
+      "Neuffer Jules",
+      "Vallon Constant"
+    ],
+    "Secrétaire": [
+      "Guillermin John"
+    ],
+    "Boursier": [
+      "Bolay Alexandre"
+    ],
+    "Assesseur": [
+      "Prod'hom Albert"
+    ],
+    "Agriculteurs": [
+      "Pache Jules",
+      "Niklauss Robert"
+    ],
+    "Apiculteur": [
+      "Dorier Marius"
+    ],
+    "Aubergistes": [
+      "Prod'hom Albert",
+      "Leuba Alice"
+    ],
+    "Bestiaux (march. de)": [
+      "Bozonnet Aug."
+    ],
+    "Bois (march. de)": [
+      "Caisserie de Genolier"
+    ],
+    "Boulangers": [
+      "Guex François",
+      "Pinel Alfred"
+    ],
+    "Buraliste postal": [
+      "Vallon Marie"
+    ],
+    "Caisses (fabr. de)": [
+      "Caisserie de Genolier"
+    ],
+    "Charpentier": [
+      "Chabloz Louis"
+    ],
+    "Chef de section": [
+      "Bozonnet Jules"
+    ],
+    "Commission scolaire": [
+      "Prod'hom Albert"
+    ],
+    "Epicerie, mercerie": [
+      "Chabloz-Dégallier Louis",
+      "Pinel Alfred"
+    ],
+    "Inspecteur du bétail": [
+      "Wuischpard Louis"
+    ],
+    "Instituteurs": [
+      "Dumas François",
+      "Reber Marie"
+    ],
+    "Laitier": [
+      "Bozonnet J. R."
+    ],
+    "Mécanicien": [
+      "幫Vallon Eugène"
+    ],
+    "Pasteur": [
+      "Gindraux Jules"
+    ],
+    "Scieurs": [
+      "Barillier F.",
+      "Caisserie de Genolier",
+      "Cujean François"
+    ],
+    "Sellier": [
+      "Gonin Ulysse"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "Section de la Croix Bleue"
+    ],
+    "Taillandier": [
+      "Vallon Eugène"
+    ],
+    "Téléphone": [
+      "Auberge communale"
+    ]
+  },
+  "GINGINS": {
+    "Autorités communales": [
+      "Sahy Louis",
+      "Joly Samuel"
+    ],
+    "Syndic": [
+      "Mestral Arthur"
+    ],
+    "Municipaux": [
+      "Bally Fr.-L.",
+      "Barilliet Aug.",
+      "Gentet John",
+      "Rochaix Ch.",
+      "Tissot Jules",
+      "Sahy Jules"
+    ],
+    "Secrétaire": [
+      "Bally Samuel"
+    ],
+    "Boursier": [
+      "Barilliet Aug."
+    ],
+    "Huissier": [
+      "Bally J."
+    ],
+    "Agriculteurs": [
+      "Bally F.",
+      "Correvon Frédéric",
+      "Gentet John",
+      "Mestral Arthur",
+      "Mestral E.",
+      "Pittet Héli",
+      "Schupbach Gottfried"
+    ],
+    "Apiculteur": [
+      "Jeanneret Henri"
+    ],
+    "Aubergistes": [
+      "Bær Ernest",
+      "Guibert Ami"
+    ],
+    "Blanchisseuse-repasseuse": [
+      "Corbaz Pauline"
+    ],
+    "Bois (comm. de)": [
+      "Guichard Jean",
+      "Küffer Adrien",
+      "Mestral Emile"
+    ],
+    "Boulangers": [
+      "Küffer Adrien",
+      "Sütter Rudolf"
+    ],
+    "Buraliste postal": [
+      "Deluche Henri"
+    ],
+    "Charcutier": [
+      "Mestral Elie"
+    ],
+    "Charpentier": [
+      "Schmid Henri"
+    ],
+    "Charrons": [
+      "Sahy Jules",
+      "Charbonnier Victor"
+    ],
+    "Cigares et tabacs": [
+      "Bær Ernest",
+      "Gentet Louis",
+      "Guibert Ami"
+    ],
+    "Commission scolaire": [
+      "Gindraux",
+      "Gentet Louis"
+    ],
+    "Cordonnier": [
+      "Schlüb Jules"
+    ]
+  }
+}

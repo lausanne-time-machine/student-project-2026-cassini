@@ -1,0 +1,386 @@
+{
+  "ORZENS": {
+    "Sociétés": [
+      "Caisse du Crédit Mutuel.",
+      "Sté de fromagerie. R.",
+      "Sté de la machine à battre le grain. R.",
+      "Syndicat d’élevage. R."
+    ],
+    "Divers": [
+      "Bolomey Louis",
+      "Guichard Hélène",
+      "Tenthorey Héli."
+    ]
+  },
+  "OULENS-SUR-ECHALLENS": {
+    "Syndic": [
+      "Vulliamy Louis."
+    ],
+    "Secrétaire": [
+      "Bezençon François."
+    ],
+    "Boursier": [
+      "Bigler Henri."
+    ],
+    "Huissier": [
+      "Jaquier Julien."
+    ],
+    "Conseil général": [
+      "Clavel Samuel",
+      "Bezençon François."
+    ],
+    "Municipaux": [
+      "Bezençon Paul",
+      "Clavel Auguste",
+      "Chappuis Louis",
+      "Clavel Gaston",
+      "Clavel Henri",
+      "Clavel Ed."
+    ],
+    "Cantonnier": [
+      "Bigler Louis, fils."
+    ],
+    "Commandant du feu": [
+      "Charlet Louis."
+    ],
+    "Commission scolaire": [
+      "Menoux Emile",
+      "Clavel Aug."
+    ],
+    "Inspect. du bétail": [
+      "Pidoux Marius."
+    ],
+    "Instituteurs": [
+      "Dupuis Edouard.",
+      "Thomas Marguerite."
+    ],
+    "Pasteur": [
+      "Menoux Emile."
+    ],
+    "Police (agent de)": [
+      "Bezençon Franç."
+    ],
+    "Poste et télégraphe": [
+      "Vulliamy Louis."
+    ],
+    "Agriculteurs": [
+      "Bezençon Albert",
+      "Bezençon Elie",
+      "Bezençon François",
+      "Bezençon Paul",
+      "Bigler Sophie",
+      "Brandt Charles. T.",
+      "Brun Henri",
+      "Cavin Alfred",
+      "Chapuis Jules",
+      "Chapuis Louis",
+      "Chapuis Paul",
+      "Charlet Louis",
+      "Clavel Auguste",
+      "Clavel Edm.",
+      "Clavel Edouard. T.",
+      "Clavel Fernand",
+      "Clavel François",
+      "Clavel Fréd. T.",
+      "Clavel Gust.",
+      "Clavel Samuel",
+      "Clavel Henri",
+      "Fontannaz Alfred",
+      "Gachet Paul",
+      "Gobalet Louis",
+      "Mayor François",
+      "Pache Armand",
+      "Pidoux Louis. T.",
+      "Pidoux Marius.",
+      "Rochat Franç.",
+      "Schmidt Ch.",
+      "Vulliamy frères. T.",
+      "Vulliamy, hoirie d'Ami",
+      "Vulliamy Louise",
+      "Vulliamy Aug. de Georges. T.",
+      "Vulliamy Félix.",
+      "Vulliamy Georges. T.",
+      "Wagnière Alfred",
+      "Desmeules Maurice",
+      "Epars Pierre."
+    ],
+    "Appareilleur": [
+      "Clavel Florian."
+    ],
+    "Assurance-vieillesse": [
+      "Dupuis Ed."
+    ],
+    "Auto-transport": [
+      "Vulliamy Maurice"
+    ],
+    "Banque": [
+      "Caisse de crédit mutuel."
+    ],
+    "Bétail (march. de)": [
+      "Clavel Gustave."
+    ],
+    "Boulanger": [
+      "Pidoux Louis. RT."
+    ],
+    "Cafés": [
+      "Paccaud Lydie",
+      "Vulliamy Cécile",
+      "Vve d'Albert",
+      "café du Tilleul. RT."
+    ],
+    "Charpentiers": [
+      "Clavel Gaston et Alexis",
+      "Clavel Charles et André."
+    ],
+    "Charrons": [
+      "Clavel François et fils."
+    ],
+    "Cordonnier": [
+      "Dessauges Albert."
+    ],
+    "Couturières": [
+      "Clavel Eléonore",
+      "Guex Ida",
+      "Vulliamy-Chapuis Germaine."
+    ],
+    "Entrepreneurs": [
+      "Perazzi Pierre. RT.",
+      "Perazzi frères."
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Burnens Alfred. R.",
+      "Clavel-Rochat Fréd. RT."
+    ],
+    "Fabrique de fourches et râteaux.": [
+      "Clavel-Borgeaud Samuel."
+    ],
+    "Perblantier-couvreur": [
+      "Guex Jules."
+    ],
+    "Horloger": [
+      "Burnens Paul."
+    ],
+    "Laiterie": [
+      "Ramseyer et Nyffenegger.",
+      "Frey Ernest"
+    ],
+    "Maréchal": [
+      "Cochet Louis."
+    ],
+    "Menuisiers, meubles": [
+      "Clavel Charles et André. RT."
+    ],
+    "Sellier-tapissier": [
+      "Baertschi Albert."
+    ],
+    "Sociétés": [
+      "Sté du battoir à blé. R.",
+      "Sté de Crédit mutuel. R.",
+      "Sté de fromagerie. R.",
+      "Sté Abbaye des Nations",
+      "Sté de tir",
+      "Syndicat d’élevage. R."
+    ],
+    "Divers": [
+      "Nivoit-Guex André"
+    ]
+  },
+  "OULENS-SUR-MOUDON": {
+    "Député": [
+      "Rey François."
+    ],
+    "Syndic": [
+      "Rey François."
+    ],
+    "Secrétaire": [
+      "Gurtner Otto."
+    ],
+    "Boursier": [
+      "Rey Justin."
+    ],
+    "Huissier": [
+      "Vernez Eugène."
+    ],
+    "Municipaux": [
+      "Bigler Ernest",
+      "Bigler Fritz",
+      "Bize André",
+      "Rey Justin."
+    ],
+    "Commandant du feu": [
+      "Rey Edouard."
+    ],
+    "Commission scolaire": [
+      "Rey Victor."
+    ],
+    "Garde-forestier": [
+      "Martin Ami",
+      "Neyruz."
+    ],
+    "Inspecteur du bétail": [
+      "Rey Alfred."
+    ],
+    "Institutrice": [
+      "Dutoit Olga."
+    ],
+    "Téléphone public": [
+      "Bize Charles."
+    ],
+    "Agriculteurs": [
+      "Bigler Charles",
+      "Bigler Fritz",
+      "Bize André",
+      "Gurtner Fritz",
+      "Moser Jean",
+      "Niklaus Alfred",
+      "Rey Alfred",
+      "Rey Edouard",
+      "Rey Justin",
+      "Rey Henri",
+      "Vernez Eugène",
+      "Vernez Ivan."
+    ],
+    "Couturière": [
+      "Vernez-Jolliet Hélène"
+    ],
+    "Pompes funèbres du Nord": [
+      "Rey Ed."
+    ],
+    "Société": [
+      "Sté de fromagerie. R."
+    ]
+  },
+  "PAILLY": {
+    "Député": [
+      "Piot John. T."
+    ],
+    "Syndic": [
+      "Gonet Jaques. T."
+    ],
+    "Secrétaire": [
+      "Pidoux Albert."
+    ],
+    "Boursier": [
+      "Courvoisier Roger."
+    ],
+    "Huissier": [
+      "Métraux Ferdinand."
+    ],
+    "Municipaux": [
+      "Bovet Aimé",
+      "Courvoisier Fernand",
+      "Cruchet Constant. T.",
+      "Lüthi Albert",
+      "Menétrey Agénor",
+      "Piot Max."
+    ],
+    "Commandant du feu": [
+      "Gonet Jacques."
+    ],
+    "Commission scolaire": [
+      "Péclard Oscar."
+    ],
+    "Inspecteur du bétail": [
+      "Pahud Albert."
+    ],
+    "Instituteurs": [
+      "Gauthey Robert",
+      "Goy Gabrielle."
+    ],
+    "Pasteur": [
+      "Guignard Jean. T."
+    ],
+    "Police (agent de)": [
+      "Depierraz Eug."
+    ],
+    "Poste et télégraphe": [
+      "Thierry Emile"
+    ],
+    "Agriculteurs": [
+      "Augsburger Edmond",
+      "Barraud Denis",
+      "Bolomey Aimé",
+      "Brot Ls",
+      "Carrard Constant",
+      "Chaillet Gustave",
+      "Courvoisier Roger",
+      "Courvoisier William. T.",
+      "Cruchet Hoirie. T.",
+      "Dériaz Georges",
+      "Gonet Jacques",
+      "Luthy Alb.",
+      "Menétrey Alfred",
+      "Mermoud Henri",
+      "Pahud Albert",
+      "Péclard-Jeanmonod Louis",
+      "Péclard Oscar",
+      "Perrin Ernest",
+      "Perrin-Pahud Henri",
+      "Piot frères."
+    ],
+    "Amodiateurs": [
+      "Piot et Courvoisier."
+    ],
+    "Apiculteurs": [
+      "Bolomey Aimé",
+      "Fischer Oscar",
+      "Menétrey Paul",
+      "Piot John."
+    ],
+    "Assurance - vieillesse": [
+      "Menétrey Agénor"
+    ],
+    "Boulanger": [
+      "Chevalley Charles. RT."
+    ],
+    "Cafés": [
+      "Métraux Hulda",
+      "café de la Croix-Blanche. T.",
+      "Humberset Lse",
+      "Café de la Croix-d'Or. T."
+    ],
+    "Couturière": [
+      "Dufour Marie."
+    ],
+    "Entrepreneur": [
+      "Péclard Jules. RT."
+    ],
+    "Epicerie, mercerie": [
+      "Chevalley Charles. RT.",
+      "Fillitettaz René. RT.",
+      "Menétrey Agénor. T."
+    ],
+    "Maréchal": [
+      "Emch André. T."
+    ],
+    "Pompes funèbres du Nord": [
+      "Pidoux Albert"
+    ],
+    "Sellier": [
+      "Gavillet Charles."
+    ],
+    "Sociétés": [
+      "Crédit mutuel. R.",
+      "Section de la Croix-Bleue.",
+      "Sté anonyme de la machine à battre le blé. R.",
+      "Sté du battoir roulant. R.",
+      "Sté de chant Harmonie des Champs.",
+      "Sté de la fromagerie. R.",
+      "Syndicat agricole. R."
+    ]
+  },
+  "PALEZIEUX": {
+    "Député": [
+      "Chollet Aimé."
+    ],
+    "Syndic": [
+      "Chamot Paul."
+    ],
+    "Secrétaire": [
+      "Chollet Aimé. T."
+    ],
+    "Boursier": [
+      "Rossier Edouard."
+    ]
+  }
+}

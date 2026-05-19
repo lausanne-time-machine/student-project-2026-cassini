@@ -1,0 +1,398 @@
+{
+  "POLIEZ-PITTET": {
+    "Instituteurs": [
+      "Dutoit Alfred",
+      "Monod Emmanuel",
+      "Dougoud-Delamadeleine Louise"
+    ],
+    "Assesseur": [
+      "Mivelaz Placide"
+    ],
+    "Poste et télégraphe": [
+      "Grognuz François"
+    ],
+    "Agriculteurs": [
+      "Allaman Emile",
+      "Brugger frères",
+      "Carrard Alfred",
+      "Carrard Alexis",
+      "Carrard André",
+      "Carrard Constant",
+      "Carrard Henri",
+      "Carrard Jules",
+      "Carrard Marc",
+      "Delamadeleine Léon",
+      "Delamadeleine Louis",
+      "Gindroz Alfred",
+      "Gindroz Aimé",
+      "Gindroz Daniel",
+      "Gindroz Herm.",
+      "Gindroz frères",
+      "Grognuz Bazile",
+      "Grognuz Dom.",
+      "Grognuz Etienne",
+      "Grognuz Jos.",
+      "Grognuz Jules",
+      "Grognuz Ls",
+      "Grognuz Gustave",
+      "Limat Aimé",
+      "Mettraux Auguste",
+      "Mivelaz Alb",
+      "Mivelaz Auguste",
+      "Mivelaz Constant",
+      "Mivelaz Jules",
+      "Mivelaz Placide",
+      "Mivelaz Emilien",
+      "Mivelaz Louis",
+      "Morand Marc",
+      "Pahud Jean",
+      "Pahud Jules",
+      "Pahud Robert",
+      "Pahud V.",
+      "Panchaud frères"
+    ],
+    "Apiculteurs": [
+      "Brugger frères",
+      "Carrard Marc",
+      "Delamadeleine Léon",
+      "Monod Emmanuel",
+      "Mivelaz Franc"
+    ],
+    "Assurance - vieillesse": [
+      "Monod E."
+    ],
+    "Bois (march. de)": [
+      "Allaz Edouard",
+      "Carrard Jules",
+      "Morand Marc"
+    ],
+    "Cafés": [
+      "Monney Marie",
+      "Café de l'Union"
+    ],
+    "Cercueils": [
+      "Grognuz Dom."
+    ],
+    "Charpentiers": [
+      "Dougoud Antonin",
+      "Mivelaz Charles"
+    ],
+    "Charron": [
+      "Grognuz Alfred"
+    ],
+    "Cordonnier": [
+      "Grognuz Clément"
+    ],
+    "Couturières": [
+      "Pahud Célestine",
+      "Pahud Laurence"
+    ],
+    "Echalas (fabr. de)": [
+      "Carrard Jules",
+      "Limat Aimé",
+      "Mivelaz Marc",
+      "Pahud Jules"
+    ],
+    "Entrepreneur": [
+      "Fantoli Patrice"
+    ],
+    "Epicerie-mercerie": [
+      "Grognuz Joseph. R.",
+      "Monney Marie"
+    ],
+    "Ferblantier": [
+      "Delamadeleine Louis"
+    ],
+    "Laiterie": [
+      "Société de laiterie"
+    ],
+    "Sociétés": [
+      "Caisse d'assurance du bétail bovin",
+      "Sté du battoir à grains. R.",
+      "Sté de laiterie et fromagerie. R."
+    ]
+  },
+  "POMPAPLES": {
+    "Syndic": [
+      "Bonzon Germain"
+    ],
+    "Secrétaire": [
+      "Favey Robert"
+    ],
+    "Boursier": [
+      "Bonzon Francis"
+    ],
+    "Huissier": [
+      "Bonzon Henri"
+    ],
+    "Municipaux": [
+      "Bonzon Edmond",
+      "Bonzon Louis",
+      "Bonzon Francis",
+      "Favey André"
+    ],
+    "Commandant du feu": [
+      "Meystre Arm."
+    ],
+    "Commission scolaire": [
+      "Bonzon-Monnier Henri"
+    ],
+    "Garde forestier": [
+      "Chaillet Paul",
+      "Ferreyres"
+    ],
+    "Inspecteur du bétail": [
+      "Bonzon Edm."
+    ],
+    "Instituteurs": [
+      "Desponds Jean-Jacques",
+      "Meystre R."
+    ],
+    "Police (agent de)": [
+      "Guillaume Ernest"
+    ],
+    "Poste et télégraphe": [
+      "Favey André"
+    ],
+    "Téléphone": [
+      "Café Bula Robert"
+    ],
+    "Agriculteurs": [
+      "Bonzon Emile",
+      "Bonzon - Chappuis Ernest",
+      "Bonzon Francis",
+      "Bonzon Germain",
+      "Bonzon Gustave",
+      "Bonzon Louis",
+      "Adrien",
+      "Bonzon Charles",
+      "Chabloz Henri",
+      "Favey Georges",
+      "Favey Lucien",
+      "Favey Paul",
+      "Favey Robert",
+      "Favey Samuel",
+      "Küffer frères",
+      "Michaud Robert",
+      "Morier Eugène",
+      "Monnier Félix",
+      "Raimond Marc"
+    ],
+    "Assurance-vieillesse": [
+      "Desponds J.-J."
+    ],
+    "Auto-garage": [
+      "Meystre Alfred fils"
+    ],
+    "Café": [
+      "Bula R."
+    ],
+    "Charron": [
+      "Lavanchy Aimé"
+    ],
+    "Cordonnier": [
+      "Bettens Robert"
+    ],
+    "Couturières": [
+      "Hostettler Hélène",
+      "Weber Lucie"
+    ],
+    "Cycles, répar.": [
+      "Fontannaz Henri"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Bonzon-Adr. R.",
+      "Chanson Julien. R."
+    ],
+    "Hospice de Saint-Loup": [
+      "Béguin Paul"
+    ],
+    "Laiterie": [
+      "Société de laiterie"
+    ],
+    "Huilerie": [
+      "Bonzon frères"
+    ],
+    "Laitier": [
+      "Huguenin Alfred"
+    ],
+    "Machines agricoles": [
+      "Bonzon André & Ferdinand",
+      "Meystre Armand"
+    ],
+    "Mécanicien": [
+      "Meystre A."
+    ],
+    "Meuniers": [
+      "Bonzon frères",
+      "Chabloz L. & Cie"
+    ],
+    "Pêcheurs": [
+      "Bonzon Adrien",
+      "Bonzon Adrien",
+      "Favey Samuel"
+    ],
+    "Pompes funèbres du Nord": [
+      "Monnier H."
+    ],
+    "Serrurerie": [
+      "Bonzon André et Ferdinand",
+      "Meystre Alfred fils"
+    ],
+    "Sociétés": [
+      "Assurance du bétail",
+      "Sté de fromagerie. R.",
+      "Syndicat agricole. R."
+    ],
+    "Vignerons": [
+      "Lavenex Emile",
+      "Monnet",
+      "Favey Julien"
+    ],
+    "Divers": [
+      "Duplain J.",
+      "Meystre Alfred"
+    ]
+  },
+  "POMY": {
+    "Syndic": [
+      "Pellaux Arm."
+    ],
+    "Secrétaire": [
+      "Miéville Emile"
+    ],
+    "Boursier": [
+      "Vulliemin Paul"
+    ],
+    "Huissier": [
+      "Desarzens Armand"
+    ],
+    "Municipaux": [
+      "Henry Emile",
+      "Miéville Jean",
+      "Miéville William",
+      "Pellaux Jean",
+      "Richardet Robert",
+      "Vulliemin John"
+    ],
+    "Cantonniers": [
+      "Miéville Paul",
+      "Pellaux François"
+    ],
+    "Commandant du feu": [
+      "Pellaux Jean"
+    ],
+    "Commission scolaire": [
+      "Richardet Gustave"
+    ],
+    "Garde-forestier": [
+      "Vuilliemin Gustave"
+    ],
+    "Inspecteur du bétail": [
+      "Miéville Hri"
+    ],
+    "Instituteurs": [
+      "Bonifay Charles",
+      "Cardis Anne"
+    ],
+    "Pasteur": [
+      "Visinand Alexandre"
+    ],
+    "Police (agent de)": [
+      "Falconnier Emile"
+    ],
+    "Poste et télégraphe": [
+      "Richardet Lina"
+    ],
+    "Agriculteurs": [
+      "Berchier Alfred",
+      "Bettex Victor",
+      "Burnand Constant",
+      "Burla Jean",
+      "Chevalley Edouard",
+      "Chevalley Paul",
+      "Frétaz",
+      "Chevalley Ls",
+      "Centlivres Justin",
+      "Courvoisier Henri",
+      "Courvoisier Philippe",
+      "Cruchet Henri",
+      "Cruchet Ernest",
+      "Cuche John",
+      "Desarzens Armand",
+      "Dutoit Jean",
+      "Duvoisin William",
+      "Henry Emile",
+      "Henry François",
+      "Jeanneret Auguste",
+      "Magnenat Henri",
+      "Miéville",
+      "Miéville John",
+      "Miéville Aimé",
+      "Miéville Constant",
+      "Miéville John",
+      "Miéville Maurice",
+      "Miéville Henri",
+      "Ottonin Maur.",
+      "Péguiron Alfred",
+      "Pellaux Alf.",
+      "Pellaux Aug.",
+      "Pellaux Maur.",
+      "Pellaux Ch.",
+      "Pellaux Ern.",
+      "Pilloud frères",
+      "Richardet Aimé",
+      "Richardet frères",
+      "Rochat Héli",
+      "Roulin Gustave",
+      "Roulier Jean",
+      "Vulliemin John",
+      "Vulliemin Henri",
+      "Vulliemin Robert"
+    ],
+    "Assurance-vieillesse": [
+      "Bonifay Charles"
+    ],
+    "Auto-transports": [
+      "Lavanchy Paul"
+    ],
+    "Boulanger": [
+      "Peguiron René"
+    ],
+    "Cafés": [
+      "Cuche John",
+      "Jaquier Edouard"
+    ],
+    "Charpentiers": [
+      "Centlivres Justin",
+      "Roulier Jules",
+      "Pidoux Ul."
+    ],
+    "Charrons": [
+      "Favre Alfred",
+      "Vittoz Ls"
+    ],
+    "Cordonnier": [
+      "Bruand Pierre"
+    ],
+    "Couturières": [
+      "Barbay Ida",
+      "Gaillard Marie",
+      "Mayland Florence",
+      "Miéville Emma",
+      "Ottonin Marthe",
+      "Vitoz Suzanne"
+    ],
+    "Denrées coloniales": [
+      "Perrin Paul"
+    ],
+    "Epiceries-merceries": [
+      "Jaquier Nelly",
+      "Ottonin Maurice",
+      "Vulliamy Bertha"
+    ],
+    "Laitier": [
+      "Nussbaum Gottfried"
+    ]
+  }
+}

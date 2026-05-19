@@ -1,0 +1,273 @@
+{
+  "BUCHILLON": {
+    "Pisciculteur": [
+      "Etat de Vaud"
+    ],
+    "Poste": [
+      "Corthay François"
+    ],
+    "Rentiers": [
+      "Chevallaz S.",
+      "de Loriol Cécile"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Téléphoniste": [
+      "Girardet Louis"
+    ],
+    "Vignerons": [
+      "Corthay Louis",
+      "Gervaix Edouard",
+      "Jousson Louis"
+    ]
+  },
+  "BUSSIGNY": {
+    "Autorités communales": [
+      "Pittet Charles",
+      "Gorgerat Charles",
+      "Barraud William",
+      "Moret Ulysse",
+      "Dumont Alexandre",
+      "Visinand Isaac",
+      "Perret François",
+      "Neyret Albert",
+      "Barraud Alexandre",
+      "Vidoudez Gustave",
+      "Barraud-Moret Henri"
+    ],
+    "Agriculteurs": [
+      "Barraud Alexandre",
+      "Barraud-Cottier Lucien",
+      "Desplands Charles",
+      "Dutoit Constant",
+      "Moret Ulysse",
+      "Neyret Albert",
+      "Pittet Charles",
+      "Perret François",
+      "Vidoudez Gustave"
+    ],
+    "Assesseur": [
+      "Vidoudez Gustave"
+    ],
+    "Auberges et cafés": [
+      "Allamand Charles",
+      "Annen Barthélémy",
+      "Bettex",
+      "Demelay Charles R.",
+      "Mercier Constant",
+      "Schmidli Ls."
+    ],
+    "Bétail (march. de)": [
+      "Barraud Jules",
+      "Dutoit Constant"
+    ],
+    "Boucher": [
+      "Bastian Maurice"
+    ],
+    "Boulangers": [
+      "Capt-Emery",
+      "Oesch",
+      "Roulet J. R",
+      "Wagner"
+    ],
+    "Briqueterie": [
+      "Barraud & Cie."
+    ],
+    "Buraliste postal": [
+      "Emery Marc"
+    ],
+    "Charpentiers-menuisiers": [
+      "Rossier Louis",
+      "Rey Guillaume"
+    ],
+    "Charron": [
+      "Henry Jules"
+    ],
+    "Charcutiers": [
+      "Druey Adrien",
+      "Durussel"
+    ],
+    "Chef de gare": [
+      "Petitpierre"
+    ],
+    "Chef de section": [
+      "Pittet Charles"
+    ],
+    "Combustibles": [
+      "Lederrey Henri"
+    ],
+    "Commission scolaire": [
+      "Pittet Charles",
+      "Gorgerat Charles"
+    ],
+    "Cordonnier": [
+      "Wælchli Christian"
+    ],
+    "Entrepreneur": [
+      "Baroni Jules"
+    ],
+    "Epicerie, mercerie": [
+      "Bonatti Ch.",
+      "Cavé J.",
+      "Druey Adrien",
+      "Mingard, dame",
+      "Perret Samuel",
+      "Syndicat des consommateurs",
+      "Wælchli Christian"
+    ],
+    "Essence de café (fabr. de)": [
+      "Druey Ad."
+    ],
+    "Fers et quincaillerie": [
+      "Cavé J."
+    ],
+    "Ferblantier-couvreur": [
+      "Rolando Joseph"
+    ],
+    "Gypsiers": [
+      "Casellini Archange",
+      "Vaglio F."
+    ],
+    "Inspecteur du bétail": [
+      "Neyret Alfred"
+    ],
+    "Instituteurs": [
+      "Grin Camille",
+      "Pasche Louis",
+      "Neyret Rosine",
+      "Barraud Annette",
+      "Chappuis Henriette"
+    ],
+    "Maréchaux": [
+      "Cottier frères",
+      "Jacot Raoul"
+    ],
+    "Médecin": [
+      "Charbonnier Edmond"
+    ],
+    "Menuisiers": [
+      "Rey William",
+      "Rossier Louis",
+      "Valet Alexandre",
+      "Visinand Isaac"
+    ],
+    "Officier d'état civil": [
+      "Barraud Ls-Albert"
+    ],
+    "Pensionnat de demoiselles": [
+      "Subilia"
+    ],
+    "Produits chimiques": [
+      "Fama Att. & Cie."
+    ],
+    "Régisseur": [
+      "Emery Marc"
+    ],
+    "Sages-femmes": [
+      "Pavillard Lina",
+      "Vaglio Louise"
+    ],
+    "Savonnerie (fab. de)": [
+      "Lémania (Rogivue Maurice)"
+    ],
+    "Sellier": [
+      "Barraud Julien"
+    ],
+    "Sociétés": [
+      "Immobilière de la fromagerie",
+      "Immobilière du battoir à grains",
+      "Militaires Laboureurs et Fraternité",
+      "Section de la Croix Bleue",
+      "Syndicat des consommateurs"
+    ],
+    "Tailleur": [
+      "Schmidli Louis"
+    ],
+    "Tailleuses": [
+      "Ducret Marie",
+      "Roulin Julie",
+      "Tanniger, dame"
+    ],
+    "Téléphoniste": [
+      "Schmidli L."
+    ],
+    "Tonnelier": [
+      "Schmied David"
+    ],
+    "Voituriers": [
+      "Moret Auguste",
+      "Nigra Alérino",
+      "Pache Eugène"
+    ]
+  },
+  "BUSSY sur MORGES": {
+    "Autorités communales": [
+      "Pavillon Eugène",
+      "Stoudmann Robert",
+      "Borel Edouard",
+      "Garin Eugène",
+      "Mingard Samuel",
+      "Rey Edouard",
+      "Stoudmann Ernest",
+      "Jacot Arthur",
+      "Reymond François"
+    ],
+    "Agriculteurs": [
+      "Bianchetti Louis",
+      "Bignes Lucien",
+      "Borel Edouard",
+      "Charrière, hoirie",
+      "Garin François",
+      "Jacot Alexis",
+      "Jacot Henri",
+      "Kohly Louis",
+      "Pavillon Eugène",
+      "Reymond Eugène",
+      "Rey Alexis",
+      "Reymond François",
+      "Stoudmadn Ernest",
+      "Stoudmann Henri"
+    ],
+    "Apiculteur": [
+      "Anken Ferdinand"
+    ],
+    "Commission scolaire": [
+      "Curchod Robert",
+      "Borel Edouard",
+      "Reymond François",
+      "Pavillon Eugène",
+      "Jacot Arthur"
+    ],
+    "Couturières": [
+      "Huller Joséphine",
+      "Jacot Christine"
+    ],
+    "Epicerie": [
+      "Mingard Samuel",
+      "Reymond Félicie, veuve"
+    ],
+    "Inspecteur du bétail": [
+      "Jacot Henri"
+    ],
+    "Instituteur": [
+      "Beausire César"
+    ],
+    "Laitier": [
+      "Knukel"
+    ],
+    "Maréchal": [
+      "Messeiller L."
+    ],
+    "Mécanicien": [
+      "Anken Ferdinand"
+    ],
+    "Repasseuse": [
+      "Anken Anna"
+    ],
+    "Sociétés": [
+      "De fromagerie de Bussy et Chardonnay",
+      "Poids public"
+    ]
+  }
+}

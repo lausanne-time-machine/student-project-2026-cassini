@@ -1,0 +1,416 @@
+{
+  "BIÈRE": {
+    "Assurance - vieillesse": [
+      "Associations mutualistes de retraite",
+      "Stauffer Ch."
+    ],
+    "Autos-Garages": [
+      "Isoz Armand",
+      "Sulliger Félix"
+    ],
+    "Articles en bois": [
+      "Authier John"
+    ],
+    "Banque": [
+      "Crédit Mutuel Raiffeisen",
+      "Croisier Louis fils"
+    ],
+    "Bière (dépôts de)": [
+      "Jaquemard Chs."
+    ],
+    "Blanchisseuses": [
+      "Corthésy Lina, Mme",
+      "Desiebenthal Olga",
+      "Matter M.",
+      "Sulliger Marguerite"
+    ],
+    "Bois (march. de)": [
+      "Brocard Auguste",
+      "Cloux Maxime"
+    ],
+    "Boucher": [
+      "Ledermann Georges"
+    ],
+    "Boulangers": [
+      "Gindroz Paul",
+      "Janzi Fern.",
+      "Magnenat Marcel"
+    ],
+    "Cafés": [
+      "Burnier Max, Cantine des Casernes",
+      "Campiche Emile, Hôtel du Jura",
+      "Baselgia E., Hôt. des Trois-Sapins",
+      "Monthoux Rob., café National",
+      "Olivary Léon, café du Camp",
+      "Piguet Aug., café Fédéral",
+      "Perrin Charles, Hôtel du Nord",
+      "Schlaeppi Berthe, Vve café du Commerce"
+    ],
+    "Cafés de tempérance": [
+      "La Violette de Bière",
+      "Crémerie des Casernes",
+      "Plattner Ernest"
+    ],
+    "Camionneurs": [
+      "Jotterand Vincent",
+      "Service Cie B.-A.-M."
+    ],
+    "Carrosserie": [
+      "Stauffenegger Robert"
+    ],
+    "Cercueils (dépôts de)": [
+      "Jotterand Marcel",
+      "Pasche Gustave"
+    ],
+    "Chapellerie": [
+      "Simond Fernand"
+    ],
+    "Charcutiers": [
+      "Buchs Gottfried",
+      "Jousson Jules",
+      "Ledermann Georges",
+      "Piguet Auguste"
+    ],
+    "Charpentiers": [
+      "Pasche Hyppolyte & fils",
+      "Viennet Jules"
+    ],
+    "Charrons": [
+      "Pasche et fils",
+      "Stauffenegger Robert"
+    ],
+    "Chaussures (march. de)": [
+      "Rebeaud Ed.",
+      "Simond Emile",
+      "Simond Fernand",
+      "Soc. coop. de consommation"
+    ],
+    "Cinéma": [
+      "Olivary Léon"
+    ],
+    "Coiffeurs": [
+      "Gerber E.",
+      "Plattner Ernest",
+      "Olivary Charles",
+      "Olivary Eugène"
+    ],
+    "Cordonniers": [
+      "Berdoz Marcel",
+      "Cogniasse Charles",
+      "Vienny Alexis"
+    ],
+    "Couturières": [
+      "Corthésy Georgette",
+      "Jan-Brocard Edith",
+      "Meier-Rochat Léa",
+      "Monnard Louise",
+      "Piguet Frida",
+      "Renaud Simone",
+      "Ritter-Chammartin, Mme"
+    ],
+    "Crémerie": [
+      "Plattner Ernest"
+    ],
+    "Dentistes": [
+      "Huber Paul",
+      "Strudel Frédéric"
+    ],
+    "Drogueries": [
+      "Gilliéron Adrien",
+      "Rebeaud Ed."
+    ],
+    "Eaux gazeuses": [
+      "Campiche Emile",
+      "Jaquemard Charles"
+    ],
+    "Electricien": [
+      "Pause Chs."
+    ],
+    "Entrepreneurs": [
+      "Gaggio Pierre",
+      "Pasche-Piguet Hip."
+    ],
+    "Epiceries": [
+      "Gilliéron Adrien",
+      "Magnenat Marcel",
+      "Schlaeppi-Cloux Berthe, Vve.",
+      "Simond Emile",
+      "Simond Fernand",
+      "Société coopérative"
+    ],
+    "Ferblantiers": [
+      "Dellava Joseph",
+      "Jotterand Constant",
+      "Jotterand Maurice"
+    ],
+    "Fers et quincaillerie": [
+      "Gilliéron Adr.",
+      "Rebeaud Ed."
+    ],
+    "Fourches et râteaux": [
+      "Autier John"
+    ],
+    "Garage et taxis": [
+      "Isoz Armand",
+      "Sulliger Félix"
+    ],
+    "Gérants": [
+      "Croisier-Golaz Jules",
+      "Jotterand-Favre Robert"
+    ],
+    "Gypsiers": [
+      "Bussien Henri",
+      "Estoppey Marius",
+      "Montangero Marcel",
+      "Rochat Charles et fils"
+    ],
+    "Horloger": [
+      "Simond F."
+    ],
+    "Horticulteur": [
+      "Burnier Auguste"
+    ],
+    "Hôtels": [
+      "Hôtel du Jura, Campiche Emile",
+      "Hôtel des Trois-Sapins, Baselgia E.",
+      "Hôtel du Nord, Perrin Chs."
+    ],
+    "Imprimerie": [
+      "Monthoux Willy"
+    ],
+    "Jardinier-horticulteur": [
+      "Burnier Auguste"
+    ],
+    "Journal": [
+      "Feuille d'Avis de Bière",
+      "F. Trabaud"
+    ],
+    "Laiteries": [
+      "Buchs-Francfort G.",
+      "Sté de laiterie",
+      "Jotterand Rob."
+    ],
+    "Machines agricoles": [
+      "Rochat frères",
+      "Monthoux Rob."
+    ],
+    "Maréchaux": [
+      "Ganivet Jean",
+      "Matter Jacob",
+      "Rochat frères"
+    ],
+    "Matériaux de construction": [
+      "Gaggio Pierre"
+    ],
+    "Mécaniciens": [
+      "Isoz Armand",
+      "Meier Paul",
+      "Sulliger Félix"
+    ],
+    "Médecin": [
+      "Sallin Norbert"
+    ],
+    "Menuisiers": [
+      "Corthésy Paul",
+      "Jotterand Marcel",
+      "Meldem André",
+      "Pasche Hyppolyte et fils",
+      "Stauffenegger Robert"
+    ],
+    "Mercerie": [
+      "Gilliéron Adrien",
+      "Rebeaud Ed.",
+      "Schlaeppi-Cloux Berthe, Vve.",
+      "Simond Fernand",
+      "Société coopérative"
+    ],
+    "Meuniers": [
+      "Brönimann frères",
+      "Gusthiot Armand"
+    ],
+    "Modistes": [
+      "Croisier-Grillet Alice",
+      "Simond Marie"
+    ],
+    "Notaire": [
+      "Croisier Louis"
+    ],
+    "Officiers instructeurs": [
+      "Curchod André",
+      "Gfeller Rodolphe",
+      "Schmidt Aloys"
+    ],
+    "Sous-officiers instructeurs": [
+      "Ponnaz René",
+      "Jenni Werner",
+      "Hiltbrand Wilhelm",
+      "Weidmann Hans",
+      "Hassler Jean"
+    ],
+    "Pharmacien": [
+      "Meylan Georges"
+    ],
+    "Photographe": [
+      "Jotterand Arthur"
+    ],
+    "Porcs (comm. de)": [
+      "Bassin T."
+    ],
+    "Primeurs": [
+      "Burnier Aug."
+    ],
+    "Relieur": [
+      "Monthoux Ele"
+    ],
+    "Repasseuses": [
+      "Corthésy Léon, Mme",
+      "Matter J., Mme",
+      "de Siebenthal Olga",
+      "Sulliger Marguerite"
+    ],
+    "Sage-femme": [
+      "Besson Louise"
+    ],
+    "Scieries": [
+      "Autier John",
+      "Meldem Aloys",
+      "Meldem Edouard",
+      "Pasche Hyppolyte & fils"
+    ],
+    "Selliers": [
+      "Berdoz David",
+      "Ciana Jean fils",
+      "Corthésy John",
+      "Monthoux-Combremont Georges"
+    ],
+    "Serruriers": [
+      "Ganivet Jean",
+      "Klay Jules",
+      "Rochat frères",
+      "Martinet"
+    ],
+    "Skis": [
+      "Authier John"
+    ],
+    "Sociétés": [
+      "Ski-Club",
+      "Sté d'apiculture",
+      "Sté d'artillerie du Pied du Jura",
+      "Sté du battoir à grains",
+      "Sté de chant",
+      "Sté de développement",
+      "Sté de fromagerie",
+      "Sté de gymnastique",
+      "Sté de musique La Lyre",
+      "Avant-Garde",
+      "les Trois Sapins",
+      "Pistolet et Revolver",
+      "Syndicat agricole d'alpage",
+      "Syndicat d'élevage et d'amélioration de la race porcine"
+    ],
+    "Tabacs et cigares": [
+      "Burnier Max",
+      "Campiche Emile",
+      "Gilliéron Adrien",
+      "Gindroz Paul",
+      "Magnenat Marcel",
+      "Olivary Charles",
+      "Olivary Eugène",
+      "Perrin Charles",
+      "Plattner Ernest",
+      "Rebeaud Ed.",
+      "Schlaeppi Berthe, Vve",
+      "Simond Emile",
+      "Simond Fernand",
+      "Soc. coopérative",
+      "Vienny Alexis"
+    ],
+    "Tailleurs": [
+      "Duvaud Simone",
+      "Métrailler V."
+    ],
+    "Tapissiers": [
+      "Berdoz David",
+      "Monthoux-Combremont Georges",
+      "Viennet Jules"
+    ],
+    "Vélos": [
+      "Isoz Armand",
+      "Meier Paul",
+      "Sulliger Félix"
+    ],
+    "Vétérinaire": [
+      "Ansermet Emile"
+    ],
+    "Vins (représ. de)": [
+      "Monthoux-Clerc Rob."
+    ],
+    "Voiturier": [
+      "Jotterand Vincent"
+    ],
+    "Divers": [
+      "Decollogny Franck",
+      "Ducret François",
+      "Ethenoz Alexis",
+      "Jan Henri",
+      "Jotterand Arthur",
+      "Messiaux Louis",
+      "Monthoux-Dutoit Aug.",
+      "Vollichard Roger"
+    ]
+  },
+  "BIOLEY-MAGNOUX": {
+    "Syndic": [
+      "Pahud Robert"
+    ],
+    "Secrétaire": [
+      "Burnand Alb."
+    ],
+    "Boursier": [
+      "Groux Marcel"
+    ],
+    "Huissier": [
+      "Groux René"
+    ],
+    "Municipaux": [
+      "Burnand Fernand",
+      "David Victor",
+      "Groux Constant",
+      "Pahud Albert",
+      "Pahud Samuel",
+      "Perey Armand"
+    ],
+    "Assesseur": [
+      "Pahud Robert"
+    ],
+    "Cantonnier": [
+      "Pahud Marcel"
+    ],
+    "Commandant du feu": [
+      "Burnand John"
+    ],
+    "Commission scolaire": [
+      "Pahud William",
+      "Groux Constant"
+    ],
+    "Garde-forestier": [
+      "David",
+      "Rueyre"
+    ],
+    "Inspecteur du bétail": [
+      "Groux Const."
+    ],
+    "Instituteur": [
+      "Pitton Georges"
+    ],
+    "Institutrice": [
+      "Puhud Nelly"
+    ],
+    "Police (agent de)": [
+      "Pahud Marcel"
+    ],
+    "Poste": [
+      "Pahud William"
+    ]
+  }
+}

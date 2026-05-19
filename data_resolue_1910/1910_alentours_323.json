@@ -1,0 +1,237 @@
+{
+  "VALEYRES-sous-URSINS": {
+    "Municipaux": [
+      "Emile",
+      "Beney Robert",
+      "Henry Auguste",
+      "Henry Victor, de Louis",
+      "Henry Victor, de François",
+      "Miéville Lucien"
+    ],
+    "Agriculteurs": [
+      "Beney Clément",
+      "Beney Emile",
+      "Beney Justin",
+      "Henry Victor",
+      "Miéville Lucien",
+      "Vuagnaux Ami"
+    ],
+    "Charpentiers": [
+      "Beney Auguste",
+      "Beney Henri",
+      "Henry Auguste"
+    ],
+    "Commission scolaire": [
+      "Henry Auguste",
+      "Beney Robert",
+      "Planche Edvard"
+    ],
+    "Epicerie, mercerie": [
+      "Henry François"
+    ],
+    "Inspecteur du bétail": [
+      "Beney Henry-L."
+    ],
+    "Instituteur": [
+      "Pidoux Victor"
+    ],
+    "Laitier": [
+      "Matthys Fritz",
+      "Urfer Pierre"
+    ],
+    "Machine à battre": [
+      "Société du battoir à grain. R."
+    ],
+    "Maréchal": [
+      "Frauche Héli"
+    ],
+    "Mécaniciens": [
+      "Nicod Alexis",
+      "Nicod François"
+    ],
+    "Scieur": [
+      "Pidoux Louis"
+    ],
+    "Société": [
+      "De fromagerie. R."
+    ],
+    "Téléphone": [
+      "Dépôt des postes"
+    ],
+    "Tailleuse": [
+      "Wenker Julie"
+    ]
+  },
+  "VILLARS-ÉPENEY": {
+    "Autorités communales": [
+      "Favre Siméon",
+      "Roulier Jules"
+    ],
+    "Syndic": [
+      "Roulier Julien"
+    ],
+    "Municipaux": [
+      "Roulier Jean",
+      "Correvon Julien",
+      "Roulier Jules",
+      "Correvon François"
+    ],
+    "Agriculteurs": [
+      "Correvon François",
+      "Correvon Julien",
+      "Favre Siméon",
+      "Gondoux Alfred",
+      "Métraux Adolphe",
+      "Maillard Frédéric",
+      "Roulier Henri",
+      "Roulier Jean",
+      "Roulier Jules",
+      "Roulier Julien"
+    ],
+    "Commission scolaire": [
+      "Wetter",
+      "Roulier Jules"
+    ],
+    "Inspecteur du bétail": [
+      "Roulier Jules"
+    ],
+    "Institutrice": [
+      "Durouvenoz Jeanne"
+    ],
+    "Société": [
+      "De fromagerie. R."
+    ],
+    "Téléphone": [
+      "Commune"
+    ]
+  },
+  "VILLARS-sous-CHAMPVENT": {
+    "Autorités communales": [
+      "Pages Jules"
+    ],
+    "Syndic": [
+      "Mayor Louis"
+    ],
+    "Municipaux": [
+      "Bovet Louis",
+      "Page Henri",
+      "Urfer Théophile",
+      "Meyerat Louis"
+    ],
+    "Agriculteurs": [
+      "Bovet Louis",
+      "Genaine David",
+      "Meyerat Louis",
+      "Pages Jules",
+      "Urfer, hoirie"
+    ],
+    "Horticulteur": [
+      "Bovet Louis. T."
+    ],
+    "Inspecteur du bétail": [
+      "Pages Jules"
+    ]
+  },
+  "VUGELLES-LA-MOTHE": {
+    "Autorités communales": [
+      "Marchand Gustave",
+      "Bornoz Albert"
+    ],
+    "Syndic": [
+      "Gaillard Eugène"
+    ],
+    "Municipaux": [
+      "Devaud Louis",
+      "Marchand Gustave",
+      "Marchand Maurice",
+      "Ray François",
+      "Zbinden John",
+      "Gaillard Eugène, fils"
+    ],
+    "Agriculteurs et vignerons": [
+      "Beer Louis",
+      "Gaillard Eug.",
+      "Glayre Pierre",
+      "Jaccard François",
+      "Jaccard Justin",
+      "Marchand Arnold",
+      "Nicolet Louis",
+      "Viguet Henri"
+    ],
+    "Aubergistes": [
+      "Jaccard Justin",
+      "Marchand Maurice",
+      "Viguet Henri"
+    ],
+    "Boulanger": [
+      "Jaccard François. R."
+    ],
+    "Buraliste postal": [
+      "Devaud Louis"
+    ],
+    "Charpentier": [
+      "Marchand Gustave"
+    ],
+    "Commission scolaire": [
+      "Cousin Eug.",
+      "Devaud Louis"
+    ],
+    "Cordonnier": [
+      "Eigenheer Jean"
+    ],
+    "Couturières": [
+      "Eigenheer Isaline",
+      "End Marie"
+    ],
+    "Epicerie": [
+      "Jaccard Justin",
+      "Marchand Maurice. R."
+    ],
+    "Inspecteurs du bétail": [
+      "Ray François",
+      "Zbinden John"
+    ],
+    "Instituteurs": [
+      "Pahud Henri",
+      "Zbinden Elisabeth"
+    ],
+    "Pierristes": [
+      "Baumgartner Fritz",
+      "Fivaz Gustave",
+      "Ray François",
+      "Triebolb R."
+    ],
+    "Scieurs": [
+      "Bonnefoy Jules",
+      "Schupbach Louis"
+    ],
+    "Sociétés": [
+      "Militaire. R",
+      "De tir aux armes de guerre",
+      "De fromagerie l'Espérance. R."
+    ],
+    "Téléphone": [
+      "Bureau des postes"
+    ]
+  },
+  "YVONAND": {
+    "Autorités communales": [
+      "Dutoit Ernest",
+      "Thonney Fritz"
+    ],
+    "Syndic": [
+      "Vonnez Constant"
+    ],
+    "Municipaux": [
+      "Genillod Alfred",
+      "Gudit Jules",
+      "Payot Fritz",
+      "Pauly Edouard",
+      "Carraud Edouard",
+      "Michoud Edouard",
+      "Vonnez Jules",
+      "Roulier François",
+      "Marrel Alexis"
+    ]
+  }
+}

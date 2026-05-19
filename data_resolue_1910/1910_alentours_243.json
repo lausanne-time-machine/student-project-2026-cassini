@@ -1,0 +1,247 @@
+{
+  "LUINS": {
+    "Autorités communales": [
+      "Walther Auguste",
+      "Dutruy Julien",
+      "Walther F.",
+      "Corthay Eugène",
+      "Cochet Jules",
+      "Rochat Charles",
+      "Bubloz Constant",
+      "Dutruy A.",
+      "Rossier Charles"
+    ],
+    "Agriculteurs": [
+      "Bubloz Constant",
+      "Burnet Charles",
+      "Dutruy Albert",
+      "Dutruy Julien",
+      "Rochat Charles",
+      "Sordet Alfred",
+      "Walther Auguste"
+    ],
+    "Cafés": [
+      "Cornaz Hector",
+      "Studer François"
+    ],
+    "Commission scolaire": [
+      "Dutruy Julien",
+      "Rochat Charles",
+      "Rosset Louis"
+    ],
+    "Dépositaire postal": [
+      "Dutruy Maria"
+    ],
+    "Epicerie": [
+      "Walther Fanny",
+      "Besson Ernest"
+    ],
+    "Inspecteur du bétail": [
+      "Dutruy Albert"
+    ],
+    "Institutrice": [
+      "Monod Elisa"
+    ],
+    "Laitier": [
+      "Chapuis Eugène"
+    ],
+    "Maréchal": [
+      "Fontolliet Alfred"
+    ],
+    "Meuniers": [
+      "Moulin agricole (Grosjean)"
+    ],
+    "Rentiers": [
+      "Pappaz Fanny",
+      "Sachot, veuve"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "Du Moulin agricole"
+    ],
+    "Téléphoniste": [
+      "Studer François"
+    ],
+    "Vignerons": [
+      "Corthay Eugène",
+      "Dutruy Gustave",
+      "Girard Louis",
+      "Pernoud Jean",
+      "Rebet Bernard",
+      "Rosset Louis",
+      "Tirefort Marc"
+    ]
+  },
+  "MONT-LE-GRAND": {
+    "Autorités communales": [
+      "de Meuron Aug. T",
+      "Jorand Ernest",
+      "Ansermet J.",
+      "Rosset Constant",
+      "Monnard F.",
+      "Richard Louis",
+      "de Meuron Max",
+      "Monnard Ernest",
+      "Gallay Eugène"
+    ],
+    "Agence agricole": [
+      "Baud & Cie"
+    ],
+    "Assesseur": [
+      "Ansermet Louis"
+    ],
+    "Aubergistes": [
+      "Jorand Ernest",
+      "Pache A.",
+      "Renaud Alfred"
+    ],
+    "Boulangers": [
+      "Berthoud Alfred",
+      "Christin Edouard"
+    ],
+    "Commission scolaire": [
+      "Bippert",
+      "Gallay David",
+      "Baud Auguste",
+      "Chardon A.",
+      "de Meuron Max"
+    ],
+    "Cordonnier": [
+      "Birrer Joseph"
+    ],
+    "Dépositaire postal": [
+      "Christin Ed."
+    ],
+    "Epicerie, mercerie, tabacs et cigares": [
+      "Baud Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Monnard Ulrich"
+    ],
+    "Inspecteur des boucheries": [
+      "Renaud Alfred"
+    ],
+    "Instituteurs": [
+      "Berger Henri",
+      "Brochon Anna",
+      "Cevey Marthe"
+    ],
+    "Maréchal": [
+      "Brändli François"
+    ],
+    "Menuisier-charpentier": [
+      "Kurz"
+    ],
+    "Pépiniéristes": [
+      "Gallay,Rosset & Cie"
+    ],
+    "Rentier": [
+      "De Meuron Auguste. T."
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "De distillerie",
+      "De boulangerie"
+    ],
+    "Tonnelier": [
+      "Wyss Arnold. T."
+    ],
+    "Vignerons": [
+      "Ansermet Louis",
+      "Baud Louis",
+      "Baud Auguste. T",
+      "Blondel Fernand",
+      "Chardon Alfred",
+      "Clavel hoirie",
+      "Dufour Samuel",
+      "Dufour, Bellevue",
+      "Faillettaz Louis",
+      "Gallay François",
+      "Gallay Louis",
+      "Gallay Marc",
+      "feu Isaac",
+      "Jorand, hoirie",
+      "Mérinat, au Château",
+      "de Meuron Max. T",
+      "Meylan Henri",
+      "Monnard Alfred",
+      "Monnard François",
+      "Monnard John",
+      "Monnard hoirie de Louis",
+      "Monnard Victor",
+      "Monnard Ulrich",
+      "Renaud, veuve",
+      "Richard, veuve",
+      "de Senarclens",
+      "Renevier Jules",
+      "Rosset, hoirie, feu Henri"
+    ]
+  },
+  "PERROY": {
+    "Autorités communales": [
+      "Martin Rodolphe",
+      "Blanchard Emile",
+      "Martin Georges",
+      "Dutruit Jaques",
+      "Jotterand Jules",
+      "de Siebenthal Jules",
+      "Martin Lévi",
+      "Fayet Georges",
+      "Martin Auguste"
+    ],
+    "Agriculteurs": [
+      "Blanchard Georges",
+      "Dutruit Edouard",
+      "Dutruit Jaques",
+      "Fillietaz François",
+      "Gaillard Ernest",
+      "Grosjean Arthur",
+      "Jotterand Jules",
+      "Martin François",
+      "Martin Georges",
+      "Martin Rodolphe",
+      "Tissot Louis",
+      "Tissot Ulrich"
+    ],
+    "Assesseur": [
+      "Dutruit Jaques"
+    ],
+    "Aubergistes": [
+      "Miville, veuve de Bénédict",
+      "Rubin François",
+      "Vez Henri"
+    ],
+    "Boulanger": [
+      "Fayet Georges"
+    ],
+    "Buraliste postal": [
+      "Maurer Julien"
+    ],
+    "Charpente et menuiserie": [
+      "Marti Félix"
+    ],
+    "Chef de gare": [
+      "Gaillard Alfred"
+    ],
+    "Commission scolaire": [
+      "Blanchard Emile",
+      "de la Harpe Henri",
+      "Martin Auguste"
+    ],
+    "Epicerie": [
+      "Emery Lucie",
+      "Favez Julie",
+      "Maurer Julien"
+    ],
+    "Inspecteur du bétail": [
+      "Martin-Aguet Alb."
+    ],
+    "Instituteurs": [
+      "Monnet Frédéric",
+      "Tharin Laure"
+    ],
+    "Laitier": [
+      "Pécoud Louis"
+    ]
+  }
+}

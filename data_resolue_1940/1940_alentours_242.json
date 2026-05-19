@@ -1,0 +1,325 @@
+{
+  "ROMANEL": {
+    "Agriculteurs": [
+      "bert",
+      "Bataillard Ulysse",
+      "Burri Charles",
+      "Christen Ernest",
+      "Chapuis Francis",
+      "Coderey François",
+      "Chambaz Emile",
+      "Curtet Jules",
+      "Devillard Louis",
+      "Favre Théophile",
+      "Zeender Charles"
+    ],
+    "Amodiateur.": [
+      "Devillard Louis"
+    ],
+    "Assurance-vieillesse.": [
+      "Mutualité scolaire de retraite",
+      "Knuchel Ch."
+    ],
+    "Café.": [
+      "Bataillard Roger"
+    ],
+    "Charron.": [
+      "Burri Charles"
+    ],
+    "Cordonnier.": [
+      "Gachet Joseph"
+    ],
+    "Couturière.": [
+      "Favre Liliane"
+    ],
+    "Epiceries.": [
+      "Favre Fanny",
+      "Burri Vve."
+    ],
+    "Laitier, fromages.": [
+      "Pidoux Franc."
+    ],
+    "Maréchal.": [
+      "Rebeaud Henri"
+    ],
+    "Sociétés.": [
+      "Sté de fromagerie. R",
+      "Sté immobilière du battoir à grains de Bremblens-Romanel"
+    ]
+  },
+  "ROPRAZ": {
+    "Syndic": [
+      "Rod Jules"
+    ],
+    "Secrétaire": [
+      "Jaquier Henri"
+    ],
+    "Boursier": [
+      "Gilliéron Marius"
+    ],
+    "Huissier": [
+      "Ecoffey John"
+    ],
+    "Municipaux": [
+      "Porchet Camille",
+      "Rod Henri-Alexis",
+      "Rod Walther",
+      "Rod William"
+    ],
+    "Cantonnier.": [
+      "Cardinaux Frédéric"
+    ],
+    "Commandant du feu.": [
+      "Porchet Camille"
+    ],
+    "Commission scolaire.": [
+      "Rod Julien"
+    ],
+    "Garde-forestier.": [
+      "Porchet Ulysse"
+    ],
+    "Inspecteur du bétail.": [
+      "Desmeules Robert"
+    ],
+    "Inspecteur des viandes.": [
+      "Desmeules Albert"
+    ],
+    "Instituteurs.": [
+      "Perroud Edmond",
+      "Porchet-Fluckiger Rolande"
+    ],
+    "Police (agent de).": [
+      "Ecoffey John"
+    ],
+    "Poste, télégraphe et téléphone.": [
+      "Gilliéron Marius"
+    ],
+    "Agriculteurs.": [
+      "Abrezol Georges",
+      "Buttet Ernest",
+      "Cardinaux Henri",
+      "Chappuis Lucien",
+      "Desmeules Jules",
+      "Desmeules Robert",
+      "Desmeules Jean-Louis",
+      "Desmeules Camille",
+      "Dubois Constant",
+      "Dubois John",
+      "Danalet Marcel",
+      "Ecoffey John",
+      "Freymond Ern.",
+      "Gilliéron Justin",
+      "Gilliéron Ulrich",
+      "Gilliéron Henri",
+      "Gilliéron Louis",
+      "Jaunin Const.",
+      "Jaunin Ern.",
+      "Jaquier Henri",
+      "Maeder Louis",
+      "Rod Walther",
+      "Rod Ernest",
+      "Rod Jules",
+      "Rod Henri-Samuel",
+      "Rod Henri-Alexis",
+      "Rod-Desmeules Henri",
+      "Rod Samuel",
+      "Rod Emile",
+      "Rod John",
+      "Rossier Edouard",
+      "Schwab Ernest",
+      "Stettler Jean",
+      "Stucki Alfred",
+      "Stucki Alfred, fils",
+      "Savary Oscar",
+      "Witz Ernest"
+    ],
+    "Apiculteurs.": [
+      "Desmeules Albert",
+      "Gilliéron Henri",
+      "Rod Jules"
+    ],
+    "Assurance-vieillesse.": [
+      "Mutualité scolaire de retraite",
+      "Perroud E."
+    ],
+    "Bois (comm. de).": [
+      "Gabella Victor"
+    ],
+    "Cafés.": [
+      "Cavin Rosa",
+      "Gilliéron frères"
+    ],
+    "Cordonnier.": [
+      "Mellet Charles"
+    ],
+    "Epicerie-mercerie.": [
+      "Gilliéron Augusta"
+    ],
+    "Laitier.": [
+      "Roth Walther. R."
+    ],
+    "Maréchal, machines agric.": [
+      "Porchet C."
+    ],
+    "Matériaux de construction.": [
+      "Gabella Robert",
+      "Usine d'Ussières"
+    ],
+    "Parqueterie.": [
+      "Gabella Victor"
+    ],
+    "Pêcheurs.": [
+      "Desmeules Jean",
+      "Stucki Alfred"
+    ],
+    "Pompes funèbres du Nord.": [
+      "Ecoffey John"
+    ],
+    "Produits en ciment.": [
+      "Gabella Robert",
+      "Usine d'Ussières"
+    ],
+    "Scierie.": [
+      "Gabella V."
+    ],
+    "Sociétés.": [
+      "Sté de fromagerie. R",
+      "Sté militaire de Ropraz. R",
+      "Sté de tir aux Armes de guerre"
+    ]
+  },
+  "ROSSENGES": {
+    "Syndic": [
+      "Débaz Ulysse"
+    ],
+    "Secrétaire-boursier.": [
+      "Isely Gustave"
+    ],
+    "Huissier": [
+      "Morel Paul"
+    ],
+    "Municipaux": [
+      "Blaser Emile",
+      "Pulver Rodolphe"
+    ],
+    "Commandant du feu.": [
+      "Débaz Ulysse"
+    ],
+    "Commission scolaire.": [
+      "Rod J.",
+      "Isely Gustave"
+    ],
+    "Garde-forestier.": [
+      "Morel Paul"
+    ],
+    "Inspecteur du bétail.": [
+      "Pulver Rodolphe"
+    ],
+    "Pasteur.": [
+      "Rod Jules"
+    ],
+    "Téléphone.": [
+      "Blaser Emile"
+    ],
+    "Agriculteurs.": [
+      "Blaser Emile",
+      "Débaz Robert",
+      "Débaz Ulrich",
+      "Etter Fritz",
+      "Joly Henri",
+      "Morel Paul",
+      "Morel Ulysse",
+      "Pulver Rodolphe"
+    ],
+    "Bois (comm. de).": [
+      "Pulver Rod."
+    ],
+    "Société.": [
+      "Sté de laiterie. R."
+    ],
+    "Divers.": [
+      "Isely Gustave"
+    ]
+  },
+  "ROSSENS": {
+    "Syndic": [
+      "Roux Emile"
+    ],
+    "Secrétaire": [
+      "Gast Robert"
+    ],
+    "Boursier": [
+      "Roux André"
+    ],
+    "Huissier": [
+      "Gast Gustave"
+    ],
+    "Municipaux": [
+      "Cachin Marius",
+      "Morattel Ernest"
+    ],
+    "Commandant du feu.": [
+      "Cachin Marius"
+    ],
+    "Inspecteur du bétail.": [
+      "Morattel Ernest"
+    ],
+    "Téléphone.": [
+      "Bartholomé Fritz"
+    ],
+    "Agriculteurs.": [
+      "Barthlomé Fritz",
+      "Gast Robert",
+      "Morattel frères",
+      "Probst Ernest",
+      "Roux Emile",
+      "Roux Edouard",
+      "Schupbach Alfred",
+      "Spielmann hoirie"
+    ],
+    "Assurance-vieillesse.": [
+      "Société mutualiste de retraite",
+      "Rossier A."
+    ],
+    "Epicerie-mercerie.": [
+      "Cachin Ami"
+    ],
+    "Fourches et râteaux (fabrique de).": [
+      "Morattel frères"
+    ],
+    "Porcs (comm. de).": [
+      "Joye Ch. T."
+    ]
+  },
+  "ROSSINIERE": {
+    "Préfet": [
+      "Marmillod Ami. T."
+    ],
+    "Syndic": [
+      "Burnier Henri. T."
+    ],
+    "Secrétaire": [
+      "Marmillod Aloïs."
+    ],
+    "Boursier": [
+      "Martin Aloïs."
+    ],
+    "Huissier": [
+      "Dubuis Paul."
+    ],
+    "Municipaux": [
+      "Berdoz-Longchamp Paul",
+      "Dubuis-Mottier Alphonse",
+      "Henchoz-Martin Louis",
+      "Martin-Pilet Auguste",
+      "Pilet-Bays Paul",
+      "Pilet-Dubois Samuel"
+    ],
+    "Assesseurs de paix.": [
+      "Burnier Henri",
+      "Marmillod Portmann Louis",
+      "Pilet Jules",
+      "Ramel Fritz"
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "SIGNY": {
+    "Municipaux": [
+      "nen, Julien",
+      "Jaton, Lucien",
+      "Dubois, Eugène"
+    ],
+    "Café": [
+      "André, Charles. R."
+    ],
+    "Epicier": [
+      "Pernet, Alice."
+    ],
+    "Graveur": [
+      "Dubois, Eugène."
+    ],
+    "Inspecteur du bétail": [
+      "Mamboury, Ami."
+    ],
+    "Instituteur": [
+      "Rochat, Ernest."
+    ],
+    "Société": [
+      "Société de fromagerie de Grens et Signy. R."
+    ],
+    "Téléphone": [
+      "Bureau des postes."
+    ]
+  },
+  "TANNAY": {
+    "Autorités communales": [
+      "Duvillard, Charles",
+      "Delor, Louis."
+    ],
+    "Syndic": [
+      "Despland, John."
+    ],
+    "Municipaux": [
+      "Dutoit, François",
+      "Buffat, Alphonse",
+      "Baud, Antoine",
+      "Semoroz, César-Henri",
+      "Baud, Louis, fils",
+      "Gauthey, Henri."
+    ],
+    "Aubergiste": [
+      "Garin, Jules."
+    ],
+    "Bestiaux (march.)": [
+      "Buensoz, Alfred."
+    ],
+    "Charron": [
+      "Quillet, Joseph."
+    ],
+    "Epicerie": [
+      "Gauthey, Henri."
+    ],
+    "Inspecteur du bétail": [
+      "Baud, Louis-Fr."
+    ],
+    "Instituteurs": [
+      "Coindet, Ernest (Myes-Tannay)",
+      "Semoroz, Elise-Julie."
+    ]
+  },
+  "TRÉLEX": {
+    "Autorités communales": [
+      "Galé, Ami",
+      "Galé, John."
+    ],
+    "Syndic": [
+      "Bory, Marc."
+    ],
+    "Municipaux": [
+      "Bossey, Albert",
+      "Vanat, Henri",
+      "Quayzin, John",
+      "Galé, Auguste",
+      "Duboulet, Ami",
+      "Galé, Charles",
+      "Ravenel, Charles",
+      "Duboulet, Alfred."
+    ],
+    "Amodiateurs": [
+      "Galé, Auguste",
+      "Gfeller, hoirs de Jean."
+    ],
+    "Asile pour buveurs": [
+      "Piaget, Emile"
+    ],
+    "Aubergistes": [
+      "Bugnon-Pinel, veuve",
+      "Martin, François-André. R",
+      "Reichenbach, Louis."
+    ],
+    "Boulanger": [
+      "Eberhardt, Julien. R."
+    ],
+    "Buraliste postal": [
+      "Jaton, Charles."
+    ],
+    "Cordonnier": [
+      "Seillon, François."
+    ],
+    "Chef de section": [
+      "Bossey, Albert."
+    ],
+    "Entrepreneur": [
+      "Simond, Marc."
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Bory-Galé, Caroline. R",
+      "Bugnon-Pinel, veuve."
+    ],
+    "Fermiers": [
+      "Bory, Louis",
+      "Fonjallaz, François",
+      "Morax, Louis."
+    ],
+    "Fontainier": [
+      "Eberhardt, John."
+    ],
+    "Gypsier": [
+      "Curton, François."
+    ],
+    "Hongreur": [
+      "Favre, Jules."
+    ],
+    "Inspecteurs du bétail": [
+      "Ravenel, Charles",
+      "Duboulet, Ami"
+    ],
+    "Instituteurs": [
+      "Courvoisier, Aimé",
+      "Chappuis, Henriette."
+    ],
+    "Laitier": [
+      "Betchen, Jaques."
+    ],
+    "Maréchaux": [
+      "Bricolens, Marc",
+      "Martin, François-André."
+    ],
+    "Menuisiers": [
+      "Dalphin, Jean",
+      "Quaysin, John."
+    ],
+    "Pasteur": [
+      "Burnat, Eugène"
+    ],
+    "Propriétaires": [
+      "Bossey, Julien",
+      "Félix, Jean",
+      "Galé, Jules",
+      "Galé, Louis",
+      "Ravenet, John."
+    ],
+    "Rentiers": [
+      "Chollet, Henri",
+      "Morax, Alfred",
+      "Nicole, Suzanne."
+    ],
+    "Sage-femme": [
+      "Ravenel, dame."
+    ],
+    "Scieur": [
+      "Gacon, Virgile."
+    ],
+    "Société": [
+      "Société de fromagerie et de laiterie. R."
+    ],
+    "Tailleur": [
+      "Porchet, César."
+    ],
+    "Tapissier": [
+      "Schreüth, Louis."
+    ],
+    "Téléphone": [
+      "Auberge communale."
+    ]
+  },
+  "VICH": {
+    "Autorités communales": [
+      "Thélin, Henri. T.",
+      "Gauthier, Louis."
+    ],
+    "Syndic": [
+      "Régnier, Alexis"
+    ],
+    "Municipaux": [
+      "Panchaud, Anatole",
+      "Croisier, Albert",
+      "Ehinger, Samuel."
+    ],
+    "Aubergistes": [
+      "Dumas, Henri",
+      "Miéville, veuve."
+    ],
+    "Avocat": [
+      "Thélin, Henri"
+    ],
+    "Battoirs à blé": [
+      "Légeret, veuve",
+      "Lyon, Gustave."
+    ],
+    "Bois (march.)": [
+      "Uhler, Léon. R."
+    ],
+    "Boulanger": [
+      "Croisier, Albert."
+    ],
+    "Buraliste postal": [
+      "Perrier, Albert."
+    ],
+    "Chef de section": [
+      "Régnier, Alexis."
+    ],
+    "Cordonniers": [
+      "Angst, Jaques",
+      "Favre, Fritz."
+    ],
+    "Couvreurs": [
+      "Barbe, Henri et fils."
+    ],
+    "Ferblantier": [
+      "Barbe, Henri."
+    ],
+    "Filature et tissage": [
+      "Société vaudoise de filature et tissage. R."
+    ],
+    "Inspecteur du bétail": [
+      "Aubert, Ch.-Henri."
+    ],
+    "Instituteurs": [
+      "Barraud, William",
+      "Sturzmann, Hortense."
+    ],
+    "Laitier": [
+      "Weith, Marc."
+    ],
+    "Matelassier": [
+      "Chollet, Henri."
+    ],
+    "Meunier": [
+      "Légeret, veuve."
+    ],
+    "Négociants": [
+      "Aubert, Charles. R",
+      "Perrier, Albert."
+    ],
+    "Pasteur": [
+      "Dumas, Alphonse."
+    ],
+    "Scieur": [
+      "Uhler, Léon. R."
+    ],
+    "Sellier": [
+      "Favre, Henri."
+    ],
+    "Taillandier": [
+      "Witzig, Jaques."
+    ],
+    "Tailleuses": [
+      "Capt, Lina",
+      "Francfort, Louise."
+    ],
+    "Téléphone": [
+      "Bureau des postes."
+    ],
+    "Vignerons": [
+      "Begeat, Louis",
+      "Brégy, Alexis."
+    ]
+  }
+}

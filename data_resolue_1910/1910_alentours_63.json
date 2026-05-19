@@ -1,0 +1,265 @@
+{
+  "FROIDEVILLE": {
+    "Agriculteurs": [
+      "de Jules",
+      "Reymond Constant",
+      "Thuillard François",
+      "Thuillard Jean",
+      "Thuillard Jules",
+      "Thuillard Louis",
+      "Thuillard Louis, de Jules"
+    ],
+    "Battoir à blé": [
+      "Dony Louis"
+    ],
+    "Boulanger": [
+      "Verboux Louis"
+    ],
+    "Cafés": [
+      "Michon Paul",
+      "Peytregnet Charles"
+    ],
+    "Charcutiers": [
+      "Clerc John",
+      "Martin Franç."
+    ],
+    "Charpentiers": [
+      "Chatelan Emile",
+      "Vittoz Louis"
+    ],
+    "Charron": [
+      "Vittoz Emile"
+    ],
+    "Chef de section": [
+      "Vittoz Jules"
+    ],
+    "Commission scolaire": [
+      "Martin Louis",
+      "Martin Ernest"
+    ],
+    "Cordonnier": [
+      "Delisle Victor"
+    ],
+    "Epicerie": [
+      "Clerc Auguste",
+      "Verboux Louis. R."
+    ],
+    "Inspecteur du bétail": [
+      "Michon Marc"
+    ],
+    "Instituteurs": [
+      "Martin Auguste",
+      "Martin-Brun Elise"
+    ],
+    "Juge de paix": [
+      "Thuillard Jean-Charles"
+    ],
+    "Laitier": [
+      "Autier Edouard"
+    ],
+    "Maréchaux": [
+      "Clerc Auguste",
+      "Vittoz Aug."
+    ],
+    "Menuisiers": [
+      "Schenk Louis",
+      "Trinkard Alfred"
+    ],
+    "Sage-femme": [
+      "Delisle Louise"
+    ],
+    "Société": [
+      "De fromagerie. R."
+    ],
+    "Tailleuse": [
+      "Thuillard-Martin Julie"
+    ],
+    "Téléphoniste": [
+      "Peitregnet Charles"
+    ]
+  },
+  "GOUMŒNS-LA-VILLE": {
+    "Autorités communales": [
+      "Marguerat Benjamin",
+      "Basset Emile"
+    ],
+    "Syndic": [
+      "Jaquier Edouard"
+    ],
+    "Municipaux": [
+      "Basset Alfred",
+      "Bezençon Aimé",
+      "Bissat Emile",
+      "Favre Alfred",
+      "Favre Henri",
+      "Narbel Edouard, fils"
+    ],
+    "Secretaire": [
+      "Basset Edouard"
+    ],
+    "Boursier": [
+      "Logoz Marc"
+    ],
+    "Agriculteurs": [
+      "Bezençon Alfred",
+      "Bezençon Emile",
+      "Bezençon Eugène",
+      "Bezençon Louis",
+      "Dony Emile",
+      "Favre Constant",
+      "Jaquier Aimé",
+      "Jaquier Charles",
+      "Jaquier Louis",
+      "Marguerat Benjamin",
+      "Turin Louis"
+    ],
+    "Assesseur": [
+      "Favre Henri"
+    ],
+    "Aubergistes": [
+      "Bezençon-Hirtz Eugène",
+      "Bauverd Jean-David",
+      "Versel Ernest"
+    ],
+    "Bois (march. de)": [
+      "Favre Henri"
+    ],
+    "Boulanger": [
+      "Pache Ami"
+    ],
+    "Charpentiers": [
+      "Hänni Frédéric",
+      "Stöckli Jules"
+    ],
+    "Charron": [
+      "Basset François"
+    ],
+    "Commission scolaire": [
+      "Testaz Ch.",
+      "Favre Samuel",
+      "Narbel Edouard",
+      "Basset Edouard",
+      "Bezençon Aimé"
+    ],
+    "Cordonniers": [
+      "Favre Jules",
+      "Jaquier Jules"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Basset Ed. R",
+      "Bauverd Jean-David, R",
+      "Falconnier Elisa. R."
+    ],
+    "Etoffes": [
+      "Basset Edouard. R."
+    ],
+    "Géomètre": [
+      "Mœnnoz Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Bissat Emile"
+    ],
+    "Instituteurs": [
+      "Pahud Edmond",
+      "Peitrequin Henri",
+      "Logoz Jenny"
+    ],
+    "Juge": [
+      "Favre-Rubattel Samuel"
+    ],
+    "Laitier": [
+      "Välhli Jacob"
+    ],
+    "Lingères-repasseuses": [
+      "Dufour Jenny"
+    ],
+    "Maréchal": [
+      "Logoz Eugène"
+    ],
+    "Menuisier": [
+      "Hänni Frédéric"
+    ],
+    "Pasteur": [
+      "Testaz Charles"
+    ],
+    "Poste": [
+      "Narbel Edouard"
+    ],
+    "Sage-femme": [
+      "Basset Lydie"
+    ],
+    "Sellier": [
+      "Favre Louis"
+    ],
+    "Sociétés": [
+      "De fromagerie de Goumoëns-la-Ville R",
+      "De la machine à battre. R",
+      "Syndicat agricole. R."
+    ],
+    "Téléphone": [
+      "Jaquier Aimé"
+    ],
+    "Tuilerie": [
+      "Bolomey & fils. R."
+    ]
+  },
+  "GOUMŒNS-LE-JUX": {
+    "Autorités communales": [
+      "Narbel Henri"
+    ],
+    "Régie": [
+      "Narbel Ed.",
+      "Basset E."
+    ],
+    "Agriculteurs": [
+      "Bezençon Jules",
+      "Falconnier Henri",
+      "Gaudard François",
+      "Mayor Elie"
+    ],
+    "Battoir à blé": [
+      "Falconnier & Cie. R."
+    ],
+    "Inspecteur du bétail": [
+      "Gaudard François"
+    ],
+    "Instituteur": [
+      "Voir Goumoëns-la-Ville"
+    ]
+  },
+  "MALAPALUD": {
+    "Autorités communales": [
+      "Longchamp Auguste",
+      "Longchamp Isidore"
+    ],
+    "Syndic": [
+      "Longchamp Jules"
+    ],
+    "Municipaux": [
+      "Longchamp François",
+      "Despont Marc"
+    ],
+    "Secrétaire": [
+      "Longchamp Emile"
+    ],
+    "Charron": [
+      "Longchamp Gustave"
+    ],
+    "Commission scolaire": [
+      "Despont Marc",
+      "Longchamp Gustave"
+    ],
+    "Inspecteur du bétail": [
+      "Despont Marc"
+    ],
+    "Institutrice": [
+      "Beinert-Jaccottet Marie"
+    ],
+    "Menuisier": [
+      "Bavaud Marc"
+    ],
+    "Tisserand": [
+      "Longchamp Isidore"
+    ]
+  }
+}

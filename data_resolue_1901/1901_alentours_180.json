@@ -1,0 +1,284 @@
+{
+  "MONTPREVEYRES": {
+    "Maréchal": [
+      "Prahins, Emile"
+    ],
+    "Menuisiers": [
+      "Mellet, Jules",
+      "Reybaz, Daniel-Alois",
+      "Décosterd, Henri"
+    ],
+    "Meunier": [
+      "Rod, Jules"
+    ],
+    "Négociant": [
+      "Liaudet, Edward"
+    ],
+    "Pasteur": [
+      "Guignard, Gabriel"
+    ],
+    "Rentier": [
+      "Reybaz, Edouard"
+    ],
+    "Sage-femme": [
+      "Gilliard, Jeannette"
+    ],
+    "Scierie": [
+      "Société de la Rochette"
+    ],
+    "Sociétés": [
+      "Société de laiterie",
+      "Société de la Rochette"
+    ],
+    "Téléphone": [
+      "Bureau des postes"
+    ]
+  },
+  "ORON-LA-VILLE": {
+    "Autorités communales": [
+      "Gaillard, Gustave",
+      "Gallay, J."
+    ],
+    "Syndic": [
+      "Pasche, Charles"
+    ],
+    "Municipaux": [
+      "Mellet, Ls-Fréd.",
+      "Pasche, Ch.-Fréd.",
+      "Jan, Jules",
+      "Boudry, Alexis",
+      "Gloor, Eugène",
+      "Gaillard, Gustave"
+    ],
+    "Aubergistes": [
+      "Bochud, Jean-Léonard",
+      "Denervaud, Eugène",
+      "Gossweiler, Charles",
+      "Mayor, Paul",
+      "Schlegel et Schwille"
+    ],
+    "Banques": [
+      "Banque cantonale vaudoise",
+      "Crédit du Léman",
+      "Vuagniaux"
+    ],
+    "Blanchisseuses": [
+      "Clerc, Alice",
+      "Estoppey, Julie",
+      "Jan, Mina"
+    ],
+    "Bois (marchands)": [
+      "Clerc, Alfred",
+      "Gilliéron, John"
+    ],
+    "Boucher": [
+      "Begert, Jean"
+    ],
+    "Boulangers": [
+      "Jan, Jules",
+      "Pasche, Louis"
+    ],
+    "Buraliste postal": [
+      "Durand, Henri"
+    ],
+    "Carrier": [
+      "Mellet, Jean-Louis"
+    ],
+    "Carrossier": [
+      "Wenger, Jean-G."
+    ],
+    "Chapelleries": [
+      "Barraud-Dutoit, Julie",
+      "Berger-Mellet, Marie"
+    ],
+    "Charcuterie": [
+      "Bégert, Jean",
+      "Jan, Jules",
+      "Jan, Julie"
+    ],
+    "Charpentiers": [
+      "Gilliéron, John",
+      "Mellet, Louis-Frédéric",
+      "Stettler, Louis"
+    ],
+    "Charron": [
+      "Lädermann, Henri"
+    ],
+    "Chaussures": [
+      "Berger, Ulrich",
+      "Duboux, Louis",
+      "Fâme, Jean"
+    ],
+    "Chef de section": [
+      "Gloor, Eugène"
+    ],
+    "Coiffeurs": [
+      "Lädermann, Henri",
+      "Wenger, J.-G."
+    ],
+    "Confections": [
+      "Fâme, Jean"
+    ],
+    "Conservateur des droits réels": [
+      "Gallay, Julien"
+    ],
+    "Cordonniers": [
+      "Berger, Emile",
+      "Berger, Ulrich",
+      "Félix, Frédéric"
+    ],
+    "Droguerie": [
+      "Duboux, Louis",
+      "Jan, Charles"
+    ],
+    "Entrepreneur en bâtiments": [
+      "Valle, Joseph",
+      "Clerc, Charles"
+    ],
+    "Epicerie, mercerie et tabacs": [
+      "Corboz, Elisée",
+      "Duboux, Louis",
+      "Fâme, Jean",
+      "Jan, Charles",
+      "Marmillod, Frédéric"
+    ],
+    "Etoffes": [
+      "Addor, Arthur",
+      "Corboz, Elisée",
+      "Fâme, Jean",
+      "Marmillod, Fréd."
+    ],
+    "Ferblantier": [
+      "Bonatti; Angelo"
+    ],
+    "Fers et quincaillerie": [
+      "Bonatti, Angelo",
+      "Jan, Charles"
+    ],
+    "Géomètre breveté": [
+      "Croset, Philippe"
+    ],
+    "Greffier du tribunal": [
+      "Gilliéron, Louis-William-Samuel"
+    ],
+    "Gypsier": [
+      "Valle, Joseph"
+    ],
+    "Horloger": [
+      "Favre, Jules"
+    ],
+    "Huissier du tribunal": [
+      "Pasche, Charles-Daniel"
+    ],
+    "Huissier de la justice de paix": [
+      "Jan, Hri"
+    ],
+    "Inspecteur du bétail": [
+      "Mellet, Charles-Ls."
+    ],
+    "Instituteur": [
+      "Magnenat, Justin",
+      "Crausaz, Suzanne",
+      "Favre, Alice"
+    ],
+    "Lingère": [
+      "Grandchamp, Elise"
+    ],
+    "Laitier": [
+      "Conus, Pierre Hilaire"
+    ],
+    "Maçons": [
+      "Valle, Joseph",
+      "Clerc, Chs"
+    ],
+    "Maréchal": [
+      "Varidel"
+    ],
+    "Matériaux de construction": [
+      "Valle, Joseph",
+      "Clerc, Charles"
+    ],
+    "Médecins": [
+      "Menthonnex, Aloïs",
+      "Jambé, Ch.-Fs."
+    ],
+    "Menuisiers": [
+      "Jan, Henri",
+      "Piretti"
+    ],
+    "Meunier": [
+      "Doges, Henri"
+    ],
+    "Modistes": [
+      "Barraud-Dutoit, Julie",
+      "Berger-Mellet, Marie"
+    ],
+    "Notaire": [
+      "Gilliéron, William-Samuel"
+    ],
+    "Officier d'état civil": [
+      "Jan, Charles"
+    ],
+    "Organiste": [
+      "Rubattel, Anna"
+    ],
+    "Pasteurs": [
+      "Noir, Théod.",
+      "Vermeil, H."
+    ],
+    "Pharmacien": [
+      "Martinet, Edmond"
+    ],
+    "Préposé aux poursuites et faillites": [
+      "Cavin, Alfred"
+    ],
+    "Propriétaires": [
+      "Chollet, Jean",
+      "Clerc, François",
+      "Demiéville, Charles",
+      "Denervaud, Eugène",
+      "Dénéréaz",
+      "Félix, Jean",
+      "Lädermann, Daniel",
+      "Mayor, Paul",
+      "Pasche, Abram-Daniel",
+      "Pasche, Jean-Samuel",
+      "Pasche, Charles-Louis",
+      "Pidoux, Gustave"
+    ],
+    "Sages-femmes": [
+      "Rossier, Fanny",
+      "Vulliens, dame"
+    ],
+    "Scieurs": [
+      "Doges, Henri",
+      "Gilliéron, John"
+    ],
+    "Selliers": [
+      "Rohrbasser, J.",
+      "Wenger, J.-G."
+    ],
+    "Sociétés": [
+      "Société immobilière de la Paisible",
+      "Société immobilière de la salle de concerts et conférences",
+      "Société de laiterie",
+      "Société militaire des Amis de la Montagne",
+      "Société des fusiliers des paroisses d'Oron et de Palézieux"
+    ],
+    "Tailleurs": [
+      "Corboz, Elisée",
+      "Grandchamp, Emile",
+      "Pasche, Jules"
+    ],
+    "Tailleuses": [
+      "Berger, Emma",
+      "Violet, Louise"
+    ],
+    "Tanneurs": [
+      "Schlegell et Schwille"
+    ],
+    "Teinture": [
+      "Fraisse, Brugger et Cie"
+    ]
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "BOUSSENS": {
+    "Pompes funèbres du Nord.": [
+      "Despond Ernest"
+    ],
+    "Sociétés": [
+      "Sté d'assurance contre la mortalité des chevaux de la commune de Boussens. R.",
+      "St de laiterie. R.",
+      "Sté. R.",
+      "Sté de tir.",
+      "Syndicat agricole. R."
+    ]
+  },
+  "BRASSUS (Le)": {
+    "voir sous Chenit": []
+  },
+  "BREMBLENS": {
+    "Syndic": [
+      "Emery Aimé"
+    ],
+    "Secrétaire": [
+      "Perret Henri"
+    ],
+    "Boursier": [
+      "Demaurex Henri"
+    ],
+    "Municipaux": [
+      "Golaz Marius",
+      "Saugy Alfred",
+      "Tissot Fernand",
+      "Keuffer Marius"
+    ],
+    "Huissier": [
+      "Perret Ulysse"
+    ],
+    "Commandant du feu.": [
+      "Keuffer Hri."
+    ],
+    "Commission scolaire.": [
+      "Keuffer Will."
+    ],
+    "Garde forestier.": [
+      "Prélat Alb."
+    ],
+    "Inspecteur du bétail": [
+      "Keuffer Henri"
+    ],
+    "Inspecteur des viandes": [
+      "Perret Ul."
+    ],
+    "Instituteurs": [
+      "Paschoud Pierre",
+      "Bataillard Lucienne"
+    ],
+    "Police (agent de)": [
+      "Ogiz Paul"
+    ],
+    "Poste et télégraphe": [
+      "Henneberger Julia"
+    ],
+    "Téléphone": [
+      "Bornand André"
+    ],
+    "Agriculteurs": [
+      "Bornand André",
+      "Bourgeois Henri",
+      "Chambaz Eugène",
+      "Chambaz frères",
+      "Chambaz Marie",
+      "Chappuis Eug. T et Frédéric",
+      "Emery Aimé",
+      "Golaz Marius",
+      "Keuffer Henri",
+      "Keuffer Marius",
+      "Keuffer William",
+      "Martin Ernest",
+      "Perret Henri",
+      "Reymond Marius T.",
+      "Rossier Louis",
+      "Saugy Alfred",
+      "Tavel Charles",
+      "Tissot Fernand"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite",
+      "Paschoud Pierre"
+    ],
+    "Boulanger": [
+      "Dussoix Denis"
+    ],
+    "Café": [
+      "Chambaz Eugène"
+    ],
+    "Confitures (fabr de)": [
+      "Auba."
+    ],
+    "Couturières": [
+      "Perret Aline",
+      "Chapuisat Cécile"
+    ],
+    "Ecole d'équitation": [
+      "Reymond Marius"
+    ],
+    "Entrepreneur": [
+      "Paquier Marcel"
+    ],
+    "Epicerie": [
+      "Bornand André. T."
+    ],
+    "Fruits (culture de)": [
+      "Emery A. T.",
+      "Cuendet Justin. T."
+    ],
+    "Jardiniers": [
+      "Cuendet Justin et fils"
+    ],
+    "Laitier": [
+      "Pidoux Francis"
+    ],
+    "Maçon": [
+      "Tavel Charles"
+    ],
+    "Sage-femme": [
+      "Bornand Alice"
+    ],
+    "Sociétés": [
+      "Bibliothèque populaire",
+      "Sté de chant La Paysanne",
+      "Sté de fromagerie. R.",
+      "Syndicat d'élevage du bétail bovin. R."
+    ],
+    "Vignerons": [
+      "Crausaz Emile",
+      "Kirschmann Charles",
+      "Monnet Hri",
+      "Ogiz Alfred",
+      "Perret Ulysse"
+    ],
+    "Viticulteurs": [
+      "Bornand Alb.",
+      "Bornand Henri"
+    ],
+    "Divers": [
+      "Bornand William",
+      "Chappuis Eugène. T.",
+      "Pelichet Constant"
+    ]
+  },
+  "BRENLES": {
+    "Syndic": [
+      "Rod Ulysse"
+    ],
+    "Secrétaire": [
+      "Corthésy Robert"
+    ],
+    "Boursier": [
+      "Germond E."
+    ],
+    "Municipaux": [
+      "Blanc Henri",
+      "Gavin Paul",
+      "Germond Eugène",
+      "Senn Edmond"
+    ],
+    "Huissier": [
+      "Pasche Constant"
+    ],
+    "Commandant du feu": [
+      "Monod Alb."
+    ],
+    "Commission scolaire": [
+      "Blanc Georges",
+      "Corthésy Robert"
+    ],
+    "Contrôleur du lait": [
+      "Mojonnier Marcel"
+    ],
+    "Gardes-forestiers": [
+      "Morel Aimé",
+      "Pasche Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Gavin Louis"
+    ],
+    "Instituteurs": [
+      "Nicod Albert",
+      "Corthésy-Masson Amélie"
+    ],
+    "Police (agent de)": [
+      "Lincio Marcel"
+    ],
+    "Poste et télégraphe": [
+      "Senn Nancy"
+    ],
+    "Téléphone": [
+      "Blanc Henri"
+    ],
+    "Agriculteurs": [
+      "Albisser Joseph",
+      "Blanc Adrien",
+      "Blanc frères",
+      "Blanc Henri",
+      "Corthésy Paul",
+      "Clément frères",
+      "Dovat Em.",
+      "Durussel Oscar",
+      "Cœndet Fritz",
+      "Ganières Marcel",
+      "Ganières Constant",
+      "Ganières Jules",
+      "Gavin Constant",
+      "Gavin Emile",
+      "Gavin Louis",
+      "Germond Eug.",
+      "Monod Alb.",
+      "Morel Aimé",
+      "Muri Chr.",
+      "Pidoux Héli",
+      "Pauly Ernest",
+      "Pasche Constant",
+      "Pasche Hri",
+      "Pittet Ernest",
+      "Rod Ulysse",
+      "Senn Edmond",
+      "Senn Ulysse",
+      "Senn Jules et Gustave",
+      "Senn Maurice"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Chevalley C."
+    ],
+    "Boulangerie-épicerie": [
+      "Porchet Alexis"
+    ],
+    "Cafés": [
+      "Léchaire Max",
+      "Gafté. T.",
+      "Senn Ulysse"
+    ],
+    "Epicerie, mercerie": [
+      "Blanc Henri. T."
+    ],
+    "Laiterie": [
+      "Schneider Gottfried"
+    ],
+    "Maréchal": [
+      "Porchet Ernest"
+    ],
+    "Pompes funèbres du Nord.": [
+      "Monod Albert"
+    ],
+    "Scieur": [
+      "Noble Fernand"
+    ],
+    "Sellier": [
+      "Frossard Henri"
+    ],
+    "Sociétés": [
+      "Sté du battoir. R.",
+      "Syndicat agricole. R."
+    ]
+  },
+  "BRENT": {
+    "voir sous Châtelard-Montreux": []
+  },
+  "BRESSONNAZ": {
+    "voir sous Moudon": []
+  },
+  "BRETAYE": {
+    "voir sous Ollon": []
+  },
+  "BRETIGNY-SUR-MORRENS": {
+    "Syndic": [
+      "Chatelan Jules-Henri"
+    ],
+    "Secrétaire": [
+      "Chatelan Oscar. T."
+    ],
+    "Boursier": [
+      "Chatelan Aimé"
+    ],
+    "Huissier": [
+      "Chatelan Gustave"
+    ],
+    "Municipaux": [
+      "Chatelan Jules. T.",
+      "Martin Léon. T.",
+      "Reymond Aloïs"
+    ],
+    "Cantonnier": [
+      "Mathev Edouard"
+    ],
+    "Command. du feu": [
+      "Treuthardt René"
+    ],
+    "Commission scolaire": [
+      "Chatelan Oscar",
+      "Chatelan Jules"
+    ],
+    "Contrôleur du lait": [
+      "Treuthardt René"
+    ],
+    "Inspecteur du bétail": [
+      "Chatelan Ami"
+    ],
+    "Inspecteur des viandes": [
+      "Treuthardt René"
+    ],
+    "Instituteurs": [
+      "Jaquet Charles",
+      "Roth-Gay Henriette"
+    ],
+    "Juge de paix": [
+      "Chatelan Oscar. T."
+    ],
+    "Poste et télégraphe": [
+      "Piaget Adèle"
+    ],
+    "Téléphone": [
+      "Du-bauloz Maurice"
+    ],
+    "Agriculteurs": [
+      "Bonzon Henri",
+      "Carrard Léon",
+      "Chatelan Ami",
+      "Chatelan Aimé et Jean",
+      "Chatelan Eugène. T.",
+      "Chatelan Henri",
+      "Chatelan Jules d'Edouard",
+      "Chatelan Oscar T.",
+      "Chatelan John",
+      "Chatelan Robert",
+      "Corbaz Marcel",
+      "Correvon Paul",
+      "Correvon Ulysse",
+      "Corday François",
+      "Maendly hoirs",
+      "Martin Léon. T.",
+      "Noverraz Octave",
+      "Reymond Aloïs",
+      "Reymond Edouard",
+      "Roux Rodolphe",
+      "Treuthardt Reymond"
+    ],
+    "Apiculteurs": [
+      "Chatelan Hri",
+      "Dony Georges",
+      "Maurer Gustave",
+      "Reymond Edouard",
+      "Treuthardt Jules"
+    ],
+    "Appareilleur": [
+      "Chatelan Eugène"
+    ],
+    "Assurances": [
+      "La Suisse",
+      "Dubauloz Maurice"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Jaquet C."
+    ],
+    "Bois march. de)": [
+      "Maurer Gustave"
+    ],
+    "Café": [
+      "Ottet Séraphine"
+    ],
+    "Charpentier": [
+      "Chatelan J. T."
+    ],
+    "Charron-maréchal": [
+      "Chatelan Eugène de Jules"
+    ],
+    "Couturière": [
+      "Viredaz Marie"
+    ],
+    "Epicerie, mercerie": [
+      "Noverraz Octave. R."
+    ],
+    "Laiterie": [
+      "Société de laiterie"
+    ],
+    "Mécanicien": [
+      "Chatelan Emile"
+    ],
+    "Pension de repos": [
+      "Laurent Henri"
+    ]
+  }
+}

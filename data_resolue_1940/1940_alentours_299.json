@@ -1,0 +1,396 @@
+{
+  "VILLARS-LE-TERROIR": {
+    "Inspecteur des viandes.": [
+      "Pittet Gustave"
+    ],
+    "Instituteurs.": [
+      "Maendly Jules",
+      "Luy Irène",
+      "Novi Jeanne"
+    ],
+    "Mesureurs-jurés.": [
+      "Maendly Jules",
+      "Pittet Emile"
+    ],
+    "Office communal de placement.": [
+      "Dutoit Adrien"
+    ],
+    "Police (agent de).": [
+      "Pittet Ferdinand"
+    ],
+    "Poste.": [
+      "Allaz Marc"
+    ],
+    "Téléphone.": [
+      "Station communale",
+      "café Central",
+      "Station publ. à la poste"
+    ],
+    "Agriculteurs.": [
+      "Allaz Henri",
+      "Allaz Henri",
+      "Dupuis Henri",
+      "Juriens Félix",
+      "Juriens Isidore",
+      "Pittet Alexandre",
+      "Pittet Alphonse",
+      "Pittet Casimir",
+      "Pittet Ernest",
+      "Pittet Gustave",
+      "Pittet Joseph",
+      "Pittet Marc"
+    ],
+    "Amodiateur.": [
+      "Pittet Joseph"
+    ],
+    "Apiculteurs.": [
+      "Dutoit Joseph",
+      "Maendly Jules",
+      "Mettraux Alphonse",
+      "Pittet Gustave",
+      "Pittet Joseph",
+      "Pittet Benoit"
+    ],
+    "Banque.": [
+      "Caisse de crédit mutuei"
+    ],
+    "Bétail (march. de).": [
+      "Allaz Elie",
+      "Allaz Henri",
+      "Pittet Ernest",
+      "Pittet Marc",
+      "Pittet Joseph"
+    ],
+    "Boulanger.": [
+      "Pittet Alfred"
+    ],
+    "Cafés.": [
+      "Piccand Virginie",
+      "Café Central",
+      "Pittet Emile",
+      "café du Midi"
+    ],
+    "Charpentier.": [
+      "Pittet Gust."
+    ],
+    "Charron.": [
+      "Pittet Joseph"
+    ],
+    "Contrôle du chômage.": [
+      "Dutoit Adrien",
+      "Greffe municipal"
+    ],
+    "Cordonniers.": [
+      "Allaz Adrien",
+      "Mettraux Marc"
+    ],
+    "Couturières.": [
+      "Dutoit Odette",
+      "Gardaz Rose",
+      "Juriens Marie-Rose",
+      "Maendly Denise",
+      "Mettraux Marguerite",
+      "Pittet Clémence",
+      "Pittet Marie"
+    ],
+    "Épiceries-merceries.": [
+      "Dutoit Joseph",
+      "Piccand Virginie"
+    ],
+    "Maréchal.": [
+      "Dutoit Adrien"
+    ],
+    "Menuisier.": [
+      "Pittet Auguste"
+    ],
+    "Pompes funèbres du Nord.": [
+      "Dutoit Fernand"
+    ],
+    "Sage-femme.": [
+      "Waeber Célestine"
+    ],
+    "Sociétés.": [
+      "Sté de fromagerie du Buron",
+      "Sté de laiterie et Machine à battre",
+      "Syndicat agricole"
+    ]
+  },
+  "VILLARS-TIERCELIN": {
+    "Syndic :": [
+      "Duboux Paul"
+    ],
+    "Secrétaire :": [
+      "Viret Louis"
+    ],
+    "Boursier :": [
+      "Viret Arthur"
+    ],
+    "Huissier :": [
+      "Dufour Alexis"
+    ],
+    "Municipaux :": [
+      "Guex Alexis",
+      "Payot Marc",
+      "Viret Aimé",
+      "Viret René"
+    ],
+    "Commandant du feu.": [
+      "Viret Arthur"
+    ],
+    "Commission scolaire.": [
+      "Rittener Fernand"
+    ],
+    "Garde-forestier.": [
+      "Huguenent Robert"
+    ],
+    "Inspecteur du bétail.": [
+      "Payot Marc"
+    ],
+    "Inspecteur des viandes.": [
+      "Viret Gust."
+    ],
+    "Instituteurs.": [
+      "Clavel Maurice",
+      "Viret Adèle"
+    ],
+    "Police (agent de).": [
+      "Dufour Alexis"
+    ],
+    "Poste et télégraphe.": [
+      "Viret Louis"
+    ],
+    "Téléphone.": [
+      "Station communale",
+      "café de l'Ecusson vaudois",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs.": [
+      "Barraud Adr.",
+      "Blanc Jules",
+      "Buttet Ida",
+      "Chappuis Aloys",
+      "Debétaz Ls",
+      "Dufour Hermann",
+      "Dufour Alfred",
+      "Huguenent Robert",
+      "Huguenent Marius",
+      "Jaccaud Auguste",
+      "Jaccaud Edouard",
+      "Jaccaud Hermann",
+      "Jaccaud frères",
+      "Mœri Gottfried",
+      "Payot frères",
+      "Sauvageat Aimé",
+      "Vallon John",
+      "Viret Hermann",
+      "Viret Henri",
+      "Viret Gustave",
+      "Viret William",
+      "Viret Arthur",
+      "Viret Aimé",
+      "Viret Alphonse",
+      "Viret Paul",
+      "Viret Edouard",
+      "Viret Alfred"
+    ],
+    "Bois (comm. de).": [
+      "Chappuis Aloïs",
+      "Mœri Gottfried"
+    ],
+    "Café.": [
+      "Viret William"
+    ],
+    "Charron.": [
+      "Rittener Fernand"
+    ],
+    "Couturières.": [
+      "Barraud Frida",
+      "Viret-Burnier Nelly"
+    ],
+    "Entrepreneur.": [
+      "Barraud Adrien-Alfr.",
+      "Fantoli Primo"
+    ],
+    "Épiceries, merceries.": [
+      "Jaccaud Marie",
+      "Sauvageat Rosa"
+    ],
+    "Maréchal, mach. agricoles.": [
+      "Duboux Paul"
+    ],
+    "Menuisier.": [
+      "Viret Lucien"
+    ],
+    "Pension.": [
+      "Guex Alexis"
+    ],
+    "Rentiers.": [
+      "Dufour Alf.",
+      "Payot Ls."
+    ],
+    "Pompes funèbres du Nord.": [
+      "Viret-Viaget Jules"
+    ],
+    "Scieurs.": [
+      "Huguenent Marius",
+      "Miéville Emilien"
+    ],
+    "Sociétés.": [
+      "Sté de laiterie et fromagerie",
+      "Syndicat d'alpage"
+    ]
+  },
+  "VILLARS-SOUS-CHAMPVENT": {
+    "Syndic :": [
+      "Urfer Adrien"
+    ],
+    "Secrétaire :": [
+      "Pittet Alphonse"
+    ],
+    "Boursier :": [
+      "Genaine Edouard"
+    ],
+    "Huissier :": [
+      "Pittet Alphonse"
+    ],
+    "Municipaux :": [
+      "Genaine Edouard",
+      "Prêtre Georges"
+    ],
+    "Chef de section :": [
+      "Urfer Adrien"
+    ],
+    "Commandant du feu.": [
+      "Urfer Adr."
+    ],
+    "Garde-forestier.": [
+      "Junod"
+    ],
+    "Inspecteur du bétail.": [
+      "Genaine Ed."
+    ],
+    "Téléphone.": [
+      "Station communale",
+      "Pittet Alphonse"
+    ],
+    "Agriculteurs.": [
+      "Genaine Edouard",
+      "Monnier Roger",
+      "Page Henri",
+      "Prêtre Georges",
+      "Urfer Adrien",
+      "Urfer Pierre"
+    ],
+    "Horticulteur.": [
+      "Liardon René"
+    ],
+    "Laitier.": [
+      "Sté de laiterie",
+      "Urfer Th."
+    ],
+    "Vignerons.": [
+      "Urfer Théophile"
+    ]
+  },
+  "VILLARS-SOUS-YENS": {
+    "Députés du cercle": [
+      "Berthet Emile",
+      "Charrière Eugène",
+      "Cornaz Max"
+    ],
+    "Syndic :": [
+      "Guibert Robert"
+    ],
+    "Secrétaire :": [
+      "Lannaz Henri"
+    ],
+    "Boursier :": [
+      "Kratzer Aloïs"
+    ],
+    "Huissier :": [
+      "Martin Paul"
+    ],
+    "Municipaux :": [
+      "Favre Robert",
+      "Goy Aimé",
+      "Kratzer Aloïs",
+      "Reymond Ernest"
+    ],
+    "Assesseurs.": [
+      "Bally Robert",
+      "Coeytaux Henri",
+      "Magnollay Ernest",
+      "Sauty Emile"
+    ],
+    "Chef de section.": [
+      "Grand René"
+    ],
+    "Commandant du feu.": [
+      "Mauerhofer M."
+    ],
+    "Commission scolaire.": [
+      "Schmid Théophile"
+    ],
+    "Greffier de paix.": [
+      "Gonvers Henri"
+    ],
+    "Huissier de paix.": [
+      "Mercier Eugène"
+    ],
+    "Inspecteur du bétail.": [
+      "Guibert Aug."
+    ],
+    "Inspecteur des viandes.": [
+      "Guibert Aug."
+    ],
+    "Instituteurs.": [
+      "Pittet Louis",
+      "Bataillard Lucienne"
+    ],
+    "Juge de paix.": [
+      "Rebuz Henri"
+    ],
+    "Officier d'état-civil.": [
+      "Berthet Emile"
+    ],
+    "Police (agent de).": [
+      "Martin Paul"
+    ],
+    "Poste.": [
+      "Favre Fanny"
+    ],
+    "Téléphone.": [
+      "Station communale à la Croix Fédérale",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs.": [
+      "Baudin Alexis",
+      "Berthet Emile",
+      "Blanc Art.",
+      "Blanc Paul",
+      "Blanc Willy",
+      "Bujard Marcel",
+      "Croisier Paul",
+      "Favre Robert",
+      "Favre frères",
+      "Favre Octave",
+      "Grand Emile",
+      "Grand René",
+      "Goy Aimé",
+      "Guibert Aug.",
+      "Guibert Rob.",
+      "Guignard Ls",
+      "Hofmann Walter",
+      "Maillefer Ihri",
+      "Martin Ernest",
+      "Ozelet Henri",
+      "Ozelet Jules",
+      "Pernet Henri",
+      "Reymond Ami",
+      "la Motte Forain",
+      "Reymond Ernest",
+      "Rézin Aloïs",
+      "Tripod Henri"
+    ]
+  }
+}

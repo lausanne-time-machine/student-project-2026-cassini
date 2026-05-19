@@ -1,0 +1,234 @@
+{
+  "ROPRAZ": {
+    "Téléphoniste": [
+      "Gilliéron Marius",
+      "Pasche Adolphe"
+    ],
+    "Tuyaux en ciment": [
+      "Gabella frères"
+    ],
+    "Tailleurs de pierres": [
+      "Devaud Emile",
+      "Maury Alexis"
+    ]
+  },
+  "SERVION": {
+    "Président du Conseil général": [
+      "Pasche Louis"
+    ],
+    "Secrétaire": [
+      "Moillen Ernest",
+      "George Louis"
+    ],
+    "Syndic": [
+      "Pasche Frédéric"
+    ],
+    "Municipaux": [
+      "Devaud Hri",
+      "George Ulysse",
+      "Pasche Constant",
+      "Destraz Charles"
+    ],
+    "Boursier": [
+      "Destraz Ch."
+    ],
+    "Agriculteurs": [
+      "Baumgartner Fritz",
+      "Charmey Eugène",
+      "Charmey Jules",
+      "Colomb Paul",
+      "Delessert Louis",
+      "Destraz Charles",
+      "Devaud Emile",
+      "Devaud Henri",
+      "Favez frères",
+      "Fawer, hoirie de Ls",
+      "George, hoirie de Hri",
+      "George frères",
+      "George Ls",
+      "Gilliéron-Buttet Louis",
+      "Gilliéron Emile",
+      "Gilliéron Victor",
+      "Jaquier Louis",
+      "Pasche Albert",
+      "Pasche Constant",
+      "Pasche-Cuendet Frédéric",
+      "Pasche-Droz Frédéric",
+      "Pouly Henri"
+    ],
+    "Apiculteurs": [
+      "Charmey Jules",
+      "Colomb Jean",
+      "Destraz Charles",
+      "George Albert",
+      "George Frédéric",
+      "Guignet Ami"
+    ],
+    "Associations mutualistes de retraite": [
+      "Moillen E."
+    ],
+    "Aubergistes": [
+      "Pasche Constant",
+      "Pasche Frédéric"
+    ],
+    "Boulanger": [
+      "Pognant Narcisse"
+    ],
+    "Bois (march. de)": [
+      "Fawer frères",
+      "Pasche Constant"
+    ],
+    "Charpentiers": [
+      "Charmey Jules",
+      "Gilliéron Emile"
+    ],
+    "Commission scolaire": [
+      "Devaud Henri",
+      "Vernaud Max",
+      "Collomb Jean"
+    ],
+    "Cordonnier": [
+      "Burgdorfer Jacob"
+    ],
+    "Entrepreneur-carrier": [
+      "Devaud Em."
+    ],
+    "Epicerie, mercerie": [
+      "Pognant Narcisse"
+    ],
+    "Inspecteur du bétail": [
+      "Jaquier Louis"
+    ],
+    "Instituteurs": [
+      "Moillen Ernest",
+      "Moillen Emma"
+    ],
+    "Maçon": [
+      "Maury Alexis"
+    ],
+    "Poste": [
+      "Pasche Adolphe"
+    ],
+    "Sage-femme": [
+      "Fawer Clara"
+    ],
+    "Scierie": [
+      "George, hoirie d'Henri"
+    ],
+    "Sociétés": [
+      "Immobilière de laiterie et fromagerie",
+      "Militaire de Servion et Ferlens",
+      "d'assurance du bétail",
+      "de tir aux armes de guerre"
+    ]
+  },
+  "LES TAVERNES": {
+    "Président du Conseil général": [
+      "Chappuis Paul"
+    ],
+    "Secrétaire": [
+      "Pasche Samuel",
+      "Rogivue Ch."
+    ],
+    "Syndic": [
+      "Sonnay Albert"
+    ],
+    "Municipaux": [
+      "Chappuis Aug.",
+      "Leyvraz Emile",
+      "Ducros Henri",
+      "Sonnay Paul"
+    ],
+    "Boursier": [
+      "Dufey Charles"
+    ],
+    "Agriculteurs": [
+      "Chapuis Pl.",
+      "Duffey Henri",
+      "Glauser Fritz, Dausaz",
+      "Jan Fr.",
+      "Leyvraz Aloïs",
+      "Leyvraz Victor",
+      "Pasche Sam.",
+      "Rogivue Charles",
+      "Rogivue Emile",
+      "Rogivue Henri",
+      "Rossier Ch.",
+      "Rossier, hoirie",
+      "Sonnay, hoirie, au Saley",
+      "Sonnay Louis, à la Dausaz",
+      "Sonnay Louis, aux Rafforts",
+      "Vioget Emile"
+    ],
+    "Carrière de grès dur": [
+      "Sonnay Louis"
+    ],
+    "Commission scolaire": [
+      "Pasche Sam.",
+      "Rogivue Ch."
+    ],
+    "Entrepreneur-maçon": [
+      "Ducros Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Rogivue Ch."
+    ],
+    "Institutrice": [
+      "Jomini Louise"
+    ],
+    "Laitier": [
+      "Gilliard Ernest"
+    ],
+    "Société": [
+      "de laiterie"
+    ],
+    "Tonnelier": [
+      "Sonnay L."
+    ],
+    "Téléphone": [
+      "Dépôt des postes"
+    ],
+    "Usine": [
+      "Moulin et scierie d'Haut-Crêt",
+      "Cornuz Louis"
+    ]
+  },
+  "LES THIOLEYRES": {
+    "Président du Conseil général": [
+      "Chevalley Charles"
+    ],
+    "Secrétaire": [
+      "Décosterd Charles"
+    ],
+    "Syndic": [
+      "Rittener Alexis"
+    ],
+    "Municipaux": [
+      "Chevalley Henri",
+      "Rittener Adrien",
+      "Décosterd Albert",
+      "Wulliamoz Daniel"
+    ],
+    "Boursier": [
+      "Chevalley Victor"
+    ],
+    "Agriculteurs": [
+      "Blanc Henri",
+      "Chappuis Adolphe",
+      "Chappuis Albert",
+      "Chaubert Henri",
+      "Chevalley Charles",
+      "Chevalley Henri",
+      "Chevalley Victor",
+      "Cordey Ernest",
+      "Décosterd Henri",
+      "Delisle Emile",
+      "Félix Aloïs",
+      "Glauser Fritz",
+      "Mounoud Jules",
+      "Rittener Eugène",
+      "Rittener Henri",
+      "Souter Jean"
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "ÉCHALLENS": {
+    "Cafés": [
+      "Elie",
+      "Gottofrey, Aloïs",
+      "Gottofrey, Rosalie",
+      "Guinchard",
+      "Longchamp, Ernest",
+      "Mermoud, Auguste",
+      "Pittet, Henri",
+      "Vauthey, Ch.",
+      "Vincent, Henriette"
+    ],
+    "Café-chocolat": [
+      "Delapraz, Charles"
+    ],
+    "Chapelleries": [
+      "Brouty-Favre",
+      "Gugger, Ernest"
+    ],
+    "Charcuteries": [
+      "Gottofrey, Alfred",
+      "Magnenat, Adèle",
+      "Mayor, veuve de Félix",
+      "Mermoud, Auguste"
+    ],
+    "Charpentier": [
+      "Jaccoud, Jules"
+    ],
+    "Charrons": [
+      "Henriod, Charles, fils",
+      "Vauthey, Eugène"
+    ],
+    "Charrues (fabr. de)": [
+      "Henrio l, Henri"
+    ],
+    "Chaussures": [
+      "Baud, Pierre",
+      "Morel, Louis",
+      "Falcy-Fornerod"
+    ],
+    "Chef de gare": [
+      "Curchod, Octave"
+    ],
+    "Chef de section": [
+      "Jaccottet, Alfred"
+    ],
+    "Cigares et tabacs": [
+      "Baud, Pierre",
+      "Bezençon-Heusser, Auguste",
+      "Falcy-Fornerod, R",
+      "Gottofrey, Aloys",
+      "Grognuz, Virginie",
+      "Morel, Marc-Louis",
+      "Thomet, Alexandre"
+    ],
+    "Cimenteurs (entrepreneurs)": [
+      "Bernasconi, Adolphe",
+      "Cerutti, Charles",
+      "Mergozzi, Félix",
+      "Mettraux, Joseph"
+    ],
+    "Coiffeurs": [
+      "Henriod, Alfred",
+      "Thomet, Alexandre"
+    ],
+    "Confiseurs-pâtissiers": [
+      "Blum, Albert",
+      "Eberhardt, Arthur"
+    ],
+    "Contrôleur des droits réels": [
+      "Clerc, Samuel"
+    ],
+    "Cordonniers": [
+      "Hunziger, Samuel",
+      "Longchamp, Antonin",
+      "Péclard, Jules",
+      "Weber, Jean-Alexandre"
+    ],
+    "Courtepointière": [
+      "Henriod, Fanny",
+      "Chappuis, Fanny"
+    ],
+    "Cuirs (march. de)": [
+      "Devolz frères"
+    ],
+    "Curé": [
+      "Dupraz, Emmanuel"
+    ],
+    "Draperies et nouveautés": [
+      "Baud, Pierre",
+      "Bezençon, Charles",
+      "Gottofrey-Nicod, Marie",
+      "Wyler, Salomon"
+    ],
+    "Droguiste": [
+      "Bezençon-Heusser, Auguste"
+    ],
+    "Eaux gazeuses (fabr. de)": [
+      "Rochat, Emmanuel"
+    ],
+    "Ebénistes": [
+      "Devolz, Eugène",
+      "Feissly, Charles"
+    ],
+    "Equarisseur": [
+      "Willommet, Henri"
+    ],
+    "Engrais chimiques": [
+      "Bavaud, Auguste"
+    ],
+    "Entrepreneurs en bâtiments": [
+      "Bernasconi, Adolphe",
+      "Cerrutti, Charles",
+      "Mergozzi, Félix"
+    ],
+    "Epiceries": [
+      "Baud, Pierre",
+      "Bezençon-Heusser, Auguste",
+      "Falcy-Fornerod, R",
+      "Grognuz, Virginie",
+      "Jaccaud, L.",
+      "Morel, Marc-Louis"
+    ],
+    "Faïence": [
+      "Favre, Joseph",
+      "Falcy-Fornerod",
+      "Morel, Marc-Louis"
+    ],
+    "Ferblantiers-couvreurs": [
+      "Brun frères",
+      "Scalabrini, Jean",
+      "Viale, Charles"
+    ],
+    "Fers (magasin de)": [
+      "Bezençon-Heusser, Auguste"
+    ],
+    "Fromages (march. de)": [
+      "Estoppey, Adrien",
+      "Hennard, Ed.",
+      "Magnenat-Duport Adèle",
+      "Mayor, veuve de Félix"
+    ],
+    "Fumiste": [
+      "Delapierre, Henri-Louis"
+    ],
+    "Geôlier": [
+      "Estoppey, Adrien"
+    ],
+    "Géomètres brevetés": [
+      "Brochon, Ernest",
+      "Mœnnoz, Charles-Henri"
+    ],
+    "Grains et farines": [
+      "Jaccaud, L."
+    ],
+    "Graines fourragères": [
+      "Bezençon-Heusser",
+      "Falcy-Fornerod, R."
+    ],
+    "Greffier de paix": [
+      "Jaccottet, Alfred"
+    ],
+    "Gypsier": [
+      "Delapierre, Henri",
+      "Mettraux J. R",
+      "Nerini, Jean. R."
+    ],
+    "Horlogers": [
+      "Courvoisier frères"
+    ],
+    "Hôtels": [
+      "Hôtel de la Balance",
+      "Hôtel du Cheval Blanc",
+      "Hôtel du Cerf",
+      "Hôtel de la Couronne",
+      "Hôtel du Lion d'Or",
+      "Hôtel de Ville"
+    ],
+    "Huissier de paix": [
+      "Mayor, David"
+    ],
+    "Huissiers du tribunal": [
+      "Gottofrey, François",
+      "Mayor, David"
+    ],
+    "Inspecteur du bétail": [
+      "Wälti, Gottfried"
+    ],
+    "Instituteurs": [
+      "Gardaz, Henri",
+      "Reymond, E."
+    ],
+    "Institutrices": [
+      "Devolz, Thérèse",
+      "Maccaud, Fanny",
+      "Panchaud Marie",
+      "Puthod Lina"
+    ],
+    "Instituteurs secondaires": [
+      "Bossel, F.",
+      "Pache, Edouard",
+      "Lambelet-Narbel dame"
+    ],
+    "Jardinier": [
+      "Jaccottet, Aimé"
+    ],
+    "Juge de paix": [
+      "Roulet, Jules"
+    ],
+    "Laitier": [
+      "Hennard, Eugène"
+    ],
+    "Librairies et papeteries": [
+      "Bezençon-Heusser, Auguste",
+      "Morel, Louis-Thomet, A."
+    ],
+    "Lingères": [
+      "Biaudet, Julie",
+      "Dutoit, Régina",
+      "Gottofrey, Marceline",
+      "Lambelet, Elise"
+    ],
+    "Liquoristes": [
+      "Blum, Albert",
+      "Rochat Emmanuel",
+      "Eberhardt, Arthur"
+    ],
+    "Machines agricoles": [
+      "Henriod, Henri"
+    ],
+    "Maçons": [
+      "Bernasconi, Adolphe",
+      "Cerrutti, Charles",
+      "Mergozzi, Félix",
+      "Rutti, Charles",
+      "Mayor, Edouard"
+    ],
+    "Maréchaux": [
+      "Henriod, frères",
+      "Huber Joseph",
+      "Rebaud, Henri"
+    ],
+    "Mécaniciens": [
+      "Bovat, François",
+      "Bovay, Alfred"
+    ],
+    "Médecins": [
+      "Gloor, Th.",
+      "Pitteloud, B. T."
+    ],
+    "Menuisiers": [
+      "Devolz, Eugène",
+      "Feissly, Charles",
+      "Mayor, Edouard"
+    ],
+    "Mercerie": [
+      "Baud, Pierre",
+      "Bezençon, Charles",
+      "Gottofrey-Nicod, Marie",
+      "Duc, Charlotte",
+      "Grognuz, Virginie"
+    ],
+    "Meubles (march. de)": [
+      "Feissly, Ch."
+    ],
+    "Meunier": [
+      "Jaccaud, L."
+    ],
+    "Modiste": [
+      "Brouty-Favre",
+      "Thommet, Bertha"
+    ],
+    "Notaires": [
+      "Aguet, Louis",
+      "Jaccottet, Alfred",
+      "Laurent, Eugène",
+      "Mayor, Gustave",
+      "Veyre, Victor"
+    ]
+  }
+}

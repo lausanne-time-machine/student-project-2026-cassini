@@ -1,0 +1,247 @@
+{
+  "PAILLY": {
+    "Commission scolaire": [
+      "Piot John",
+      "Cruchet Louis"
+    ],
+    "Entrepreneur": [
+      "Péclard Jules"
+    ],
+    "Epicerie, mercerie": [
+      "Chevalley Charles",
+      "Ménétrey Fanny"
+    ],
+    "Inspecteur du bétail": [
+      "Cruchet Alf."
+    ],
+    "Instituteurs": [
+      "Pitton Alfred",
+      "Mermoud Cécile"
+    ],
+    "Maçon": [
+      "Péclard Constant."
+    ],
+    "Maréchal": [
+      "Emch Ad."
+    ],
+    "Sage-femme": [
+      "Péclard Julie."
+    ],
+    "Sellier": [
+      "Daenzer Frédéric."
+    ],
+    "Sociétés": [
+      "De la fromagerie",
+      "De la machine à battre le blé",
+      "Association du Crédit rural",
+      "Syndicat agricole",
+      "Soc. de chant Harmonie des Champs"
+    ],
+    "Tailleuses": [
+      "Deriaz Lina",
+      "Dufour-Péclard Marie",
+      "Perrin Zélie."
+    ],
+    "Télégraphiste": [
+      "Péclard Célina."
+    ],
+    "Téléphoniste": [
+      "Péclard-Jordan Elisa."
+    ]
+  },
+  "PENTHEREAZ": {
+    "Président du Conseil général": [
+      "Collet Ulysse"
+    ],
+    "Secrétaire": [
+      "Collet Alfred",
+      "Potterat Henri"
+    ],
+    "Syndic": [
+      "Mayor Jules"
+    ],
+    "Municipaux": [
+      "Bovay Lucien",
+      "Mercier Henri",
+      "Mercier Georges",
+      "Collet Aloïs",
+      "Dupuis Gustave",
+      "Millioud René"
+    ],
+    "Boursier": [
+      "Millioud Emile"
+    ],
+    "Huissier": [
+      "Millioud Jules"
+    ],
+    "Agriculteurs": [
+      "Autier Edouard",
+      "Borgeaud Henri",
+      "Bovay Lucien",
+      "Collet frères",
+      "Collet frères",
+      "Collet Auguste",
+      "Dupuis Gust.",
+      "Dupuis Héli",
+      "Favez Edouard",
+      "Flaction Louis",
+      "Mayor Léonard",
+      "Mercier Fidély",
+      "Mercier Héli",
+      "Mercier Emile",
+      "Mercier Louis",
+      "Mercier Marie",
+      "Mercier Jles",
+      "Mercier Gustave",
+      "Mercier Denis",
+      "Millioud Ch.",
+      "Millioud Denis",
+      "Millioud Em.",
+      "Millioud Jles",
+      "Millioud Jles",
+      "Millioud Edward",
+      "Millioud Lucien",
+      "Millioud Ele.",
+      "Péclard Const.",
+      "Potterat Henri"
+    ],
+    "Amodiateur": [
+      "Mercier Héli"
+    ],
+    "Battoir à grains": [
+      "La Commune"
+    ],
+    "Bétail (comm. de)": [
+      "Mercier Héli",
+      "Mercier Fidély"
+    ],
+    "Boulanger": [
+      "Caillachon Henri"
+    ],
+    "Cafés": [
+      "Autier Edouard",
+      "Meystre Jules"
+    ],
+    "Cantonnier": [
+      "Favez Auguste"
+    ],
+    "Chef de section": [
+      "Millioud Denis"
+    ],
+    "Commission scolaire": [
+      "Béranger",
+      "Collet Ulysse",
+      "Millioud Emile",
+      "Millioud René",
+      "Mercier Gustave"
+    ],
+    "Epicerie, mercerie": [
+      "Caillachon Hri."
+    ],
+    "Gardes-forestiers": [
+      "Collet Louis",
+      "Collet Ulysse"
+    ],
+    "Inspecteurs du bétail": [
+      "Flaction Jules",
+      "Millioud Frédéric"
+    ],
+    "Instituteurs": [
+      "Blanchoud Henri",
+      "Collet Rose"
+    ],
+    "Laitier": [
+      "Autier Edouard"
+    ],
+    "Maréchal": [
+      "Schmid S."
+    ],
+    "Officier d'état civil": [
+      "Mayor Jules"
+    ],
+    "Poste": [
+      "Emery Daniël"
+    ],
+    "Sociétés": [
+      "De fromagerie et de laiterie de Penthéréaz",
+      "De fromagerie et de laiterie dite du Champ de Vaud (hameau)",
+      "Tir aux armes de guerre"
+    ],
+    "Tailleur": [
+      "Buffat Alfred"
+    ],
+    "Tailleuses": [
+      "Bréchon Rose",
+      "Favez Emma",
+      "Viret Elise"
+    ],
+    "Téléphoniste": [
+      "Mayor Léonard"
+    ]
+  },
+  "POLIEZ-LE-GRAND": {
+    "Président du Conseil général": [
+      "Mermoud Eug."
+    ],
+    "Vice-président": [
+      "Ménétrey Charles"
+    ],
+    "Secrétaire": [
+      "Mermoud Alfred",
+      "Bouquet Louis"
+    ],
+    "Syndic": [
+      "Panchaud Adolphe"
+    ],
+    "Municipaux": [
+      "Panchaud Victor",
+      "Ménétrey Henri",
+      "Mermoud Paul",
+      "Mermoud Louis",
+      "Chaillet Héli",
+      "Mermoud Frédér."
+    ],
+    "Boursier": [
+      "Ménétrey Henri"
+    ],
+    "Agriculteurs": [
+      "Jaton frères",
+      "Ménétrey Alfred",
+      "Ménétrey Daniel",
+      "Ménétrey François",
+      "Ménétrey Lucien",
+      "Mermoud Auguste",
+      "Mermoud Constant",
+      "Mermoud Eugène",
+      "Mermoud Henri",
+      "Mermoud-Ménétrey Ernest",
+      "Mermoud Emile",
+      "Mermoud Ls.",
+      "Michon Constant",
+      "Panchaud Adolphe",
+      "Panchaud Emilien",
+      "Panchaud Fritz",
+      "Panchaud Henri",
+      "Panchaud Léon",
+      "Ropraz Jules"
+    ],
+    "Aubergistes": [
+      "Mermoud Paul",
+      "Mermoud Ulysse"
+    ],
+    "Blanchisseuse": [
+      "Ménétrey Elise"
+    ],
+    "Charpentier": [
+      "Panchaud Jules"
+    ],
+    "Charron": [
+      "Rouilly Constant"
+    ],
+    "Commission scolaire": [
+      "Mermoud Ct",
+      "Redard",
+      "Mermoud Ernest"
+    ]
+  }
+}

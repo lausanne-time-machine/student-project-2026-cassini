@@ -1,0 +1,232 @@
+{
+  "MORRENS": {
+    "Tailleuse": [
+      "Chamot Lina"
+    ],
+    "Téléphoniste": [
+      "Borgeaud Henri"
+    ]
+  },
+  "NAZ": {
+    "Autorités communales": [
+      "Porchet Jules",
+      "Brochon Jules",
+      "Porchet Héli",
+      "Curchod Aimé",
+      "Stoudman Henri",
+      "Porchet Ernest",
+      "Dessauges Héli"
+    ],
+    "Agriculteurs": [
+      "Brochon Jules",
+      "Curchod Aimé",
+      "Dessauges Edouard",
+      "Dessauges Héli",
+      "Porchet Héli",
+      "Porchet Héli",
+      "Porchet Jules",
+      "Stoudmann Ed.",
+      "Stoudmann Eugène",
+      "Stoudmann les hoirs d'Ulysse."
+    ],
+    "Commission scolaire": [
+      "Stoudmann, Edouard",
+      "Curchod Aimé",
+      "Porchet Ernest"
+    ],
+    "Inspecteur du bétail": [
+      "Dessauges Héli."
+    ],
+    "Institutrice": [
+      "Roulet Berthe"
+    ],
+    "Laitier": [
+      "Fabrique Nestlé, Bercher."
+    ],
+    "Maréchal": [
+      "Thévoz Jules"
+    ],
+    "Poste": [
+      "Curchod Aimé"
+    ],
+    "Société": [
+      "De fromagerie. R."
+    ],
+    "Téléphoniste": [
+      "Stoudmann Jlie"
+    ],
+    "Tonnelier": [
+      "Stoudmann Alexis"
+    ]
+  },
+  "OULENS": {
+    "Autorités communales": [
+      "Vulliamy Ernest",
+      "Clavel Gaston",
+      "Vulliamy Louis",
+      "Mayor Henri",
+      "Clavel Henri",
+      "Clavel Edmond",
+      "Chapuis Louis",
+      "Burnens Paul",
+      "Vulliamy Albert",
+      "Clavel Marc",
+      "Chapuis Jules"
+    ],
+    "Agriculteurs": [
+      "Bezençon Elie",
+      "Bezençon François",
+      "Bezençon Louise",
+      "Bezençon Vincent",
+      "Bigler Ls",
+      "Brandt Charles",
+      "Brun Henri",
+      "Brun Louis",
+      "Burnens Auguste",
+      "Burnens Louis",
+      "Chapuis Paul",
+      "Clavel Auguste",
+      "Clavel-Brandt Auguste",
+      "Clavel Ed.",
+      "Clavel Fréd.",
+      "Clavel Marc",
+      "Clavel-Mayor",
+      "Clavel Paul",
+      "Clavel Samuel",
+      "Dufour Auguste",
+      "Gobalet Constant",
+      "Gobalet frères",
+      "Mayor Ami",
+      "Mayor Henri",
+      "Schmidt Charles",
+      "Vulliamy Albert",
+      "Vulliamy Auguste",
+      "Vulliamy Ernest",
+      "Vulliamy Félix",
+      "Vulliamy François",
+      "Vulliamy Georges",
+      "Vulliamy Jules",
+      "Vulliamy Louis",
+      "Wagnière Jules"
+    ],
+    "Amodiateurs": [
+      "Vulliamy frères"
+    ],
+    "Aubergistes": [
+      "Dufour Augustine, Vve",
+      "Perretten Ls"
+    ],
+    "Boulanger": [
+      "Pidoux Marius. R."
+    ],
+    "Charpentier": [
+      "Clavel Samuel"
+    ],
+    "Charron": [
+      "Clavel François"
+    ],
+    "Commission scolaire": [
+      "Vallotton Ch.",
+      "Vulliamy Ls",
+      "Clavel Fernand"
+    ],
+    "Buraliste postal et facteur": [
+      "Vulliamy Louis"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Clavel Samuel",
+      "Trolliet Rose. R.",
+      "Rochat Julie. R."
+    ],
+    "Inspecteur du bétail": [
+      "Brun Constant"
+    ],
+    "Instituteurs": [
+      "Dupuis Edouard",
+      "Thomas Marguerite"
+    ],
+    "Maçons": [
+      "Perrazzi Victor et Pierre"
+    ],
+    "Maréchal": [
+      "Petter Charles"
+    ],
+    "Pasteur": [
+      "Dessemontet Constant"
+    ],
+    "Sellier": [
+      "Cavin François"
+    ],
+    "Sociétés": [
+      "Du battoir à blé",
+      "De fromagerie. R.",
+      "Syndicat agricole et d'élevage. R.",
+      "Crédit mutuel. R."
+    ],
+    "Tailleuses": [
+      "Clavel Julia",
+      "Guex Ida",
+      "Vagnière Louise"
+    ],
+    "Téléphoniste": [
+      "Chapuis Ami"
+    ]
+  },
+  "PAILLY": {
+    "Autorités communales": [
+      "Péclard Jules",
+      "Menétrey Agénor",
+      "Péclard-Courvoisier Louis",
+      "Courvoisier William",
+      "Péclard-Jordan Eli",
+      "Péclard Louis, d'A.",
+      "Piot Denis",
+      "Péclard Henri",
+      "Cruchet Louis, d'Alfred"
+    ],
+    "Agriculteurs": [
+      "Barraud Denis",
+      "Chaillet Charles",
+      "Courvoisier William",
+      "Cruchet-Jannin Alf.",
+      "Cruchet frères",
+      "Dériaz Louis",
+      "Gonet Edouard",
+      "Métraux Emile",
+      "Métraux-Gallandat",
+      "Pahud Albert",
+      "Péclard Héli de François",
+      "Péclard Jean",
+      "Péclard-Pidoux",
+      "Perrin Aimé, hoirie",
+      "Perrin Louis d'Henri",
+      "Piot Louis"
+    ],
+    "Amodiateurs": [
+      "Piot et Courvoisier"
+    ],
+    "Assesseur": [
+      "Gonet Edouard"
+    ],
+    "Aubergistes": [
+      "Jordan Gustave",
+      "Piot Jules"
+    ],
+    "Battoir à blé": [
+      "Société du battoir"
+    ],
+    "Bois (comm. de) et scierie": [
+      "Pidoux Constant"
+    ],
+    "Boulanger": [
+      "Chevalley Charles"
+    ],
+    "Buraliste postal": [
+      "Péclard - Jordan Elisa."
+    ],
+    "Charrons": [
+      "Péclard Victor",
+      "Romanens Aimé"
+    ]
+  }
+}

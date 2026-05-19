@@ -1,0 +1,101 @@
+{
+  "DISTRICT DE NYON": {
+    "Préfet": [
+      "Falconnier, Gustave"
+    ],
+    "Substitut": [
+      "Dupraz, Adolphe"
+    ],
+    "Receveur": [
+      "Dumartheray, Emile"
+    ],
+    "Voyer": [
+      "Dorier, Lucien"
+    ],
+    "Tribunal de district": [
+      "Moreillon, Louis",
+      "Vernet, Henri",
+      "Richard, Louis",
+      "Régnier, Alexis",
+      "Thibaud, Armand",
+      "Denogent, Jules"
+    ]
+  },
+  "VILLE DE NYON": {
+    "Président du Conseil communal": [
+      "Gottofrey, L."
+    ],
+    "Secrétaire": [
+      "Thomas, Jules",
+      "Gignoux, Charles"
+    ],
+    "Syndic": [
+      "Bonnard, Louis"
+    ],
+    "Municipaux": [
+      "Teysseire, Arthur",
+      "Baup, Alphonse",
+      "Wellauer, Théodore",
+      "Sauvet, Louis",
+      "Dupraz, Adolphe",
+      "Roquerbe, Henri"
+    ],
+    "Boursier": [
+      "Brandt, Charles",
+      "Falconnier, Gustave",
+      "Lavanchy, Henri"
+    ],
+    "Directrices": [
+      "Ravens, Mlle",
+      "Juvet, Marie"
+    ],
+    "Médecin": [
+      "Martin, Dr"
+    ],
+    "Econome": [
+      "Freymond, Frédéric"
+    ],
+    "Agent d'affaires.": [
+      "Champrenaud, Louis."
+    ],
+    "Agents commerciaux.": [
+      "Gignoux, Charles"
+    ],
+    "Allumettes (fabricants).": [
+      "Société Diamond"
+    ],
+    "Ameublements.": [
+      "Corbet-Noguet, Lucien",
+      "Graber, frères"
+    ],
+    "Antiquaires.": [
+      "Cristin-Dufour, Bernardine",
+      "Cristin, fils"
+    ],
+    "Apiculteur.": [
+      "Bertrand-Olivier, Ed."
+    ],
+    "Architectes.": [
+      "Dorier, Louis"
+    ],
+    "Assurances (agents).": [
+      "Bâloise (la)",
+      "Compagnie d'assurances générales",
+      "Genevoise (la)",
+      "New-York (la)",
+      "Société suisse d'assurances générales (vie)",
+      "Société suisse d'assurance contre la grêle",
+      "Winterthour (la)",
+      "Zurich (la)"
+    ],
+    "Auberges et cafés.": [
+      "Bardet",
+      "Berlie, Louis",
+      "Bettex, Daniel",
+      "Bettex, Julien",
+      "Bolle, Ch.-Ed.",
+      "Boller, Léo",
+      "Brasserie de Nyon"
+    ]
+  }
+}

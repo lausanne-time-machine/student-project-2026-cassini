@@ -1,0 +1,359 @@
+{
+  "BIOLEY": {
+    "Agriculteurs": [
+      "Barbey Arn.",
+      "Burger Chs",
+      "Burnand Albert",
+      "Burnand Fernand",
+      "Burnand John",
+      "Curchod Edmond",
+      "David Louis",
+      "David Victor",
+      "Groux Alfred",
+      "Groux Constant",
+      "Groux Marcel",
+      "Groux Paul",
+      "Jaquiéry Hri",
+      "Kunz Fr.",
+      "Maire Fernand",
+      "Pahud Denis",
+      "Pahud Alfred",
+      "Pahud Marcel",
+      "Pahud frères",
+      "Pahud Robert",
+      "Perey Louis",
+      "Salzmann Hans",
+      "Vuagniaux Arthur"
+    ],
+    "Atelier mécanique": [
+      "Dutoit Louis"
+    ],
+    "Bois (comm. de)": [
+      "Perey Armand"
+    ],
+    "Café": [
+      "Favrod Henri"
+    ],
+    "Couturière": [
+      "David Hélène"
+    ],
+    "Epiceries": [
+      "Perey-Pahud Eugénie",
+      "Prétôt Gaston"
+    ],
+    "Maréchal": [
+      "Forestier Paul"
+    ],
+    "Meunerie": [
+      "Société du Moulin"
+    ],
+    "Menuisiers-charpentiers": [
+      "Pahud Emile",
+      "Pahud Héli"
+    ],
+    "Scierie": [
+      "Perey Armand"
+    ],
+    "Sociétés": [
+      "Assurance du bétail bovin",
+      "Battoir à grains",
+      "Moulin agricole",
+      "Sté de la bibliothèque",
+      "Sté de tir aux Armes de Guerre",
+      "Syndicat d'élevage"
+    ]
+  },
+  "BIOLEY-ORJULAZ": {
+    "Syndic": [
+      "Gachet Henri"
+    ],
+    "Secrétaire": [
+      "Gaudard Robert"
+    ],
+    "Boursier": [
+      "Guex Henri"
+    ],
+    "Huissier": [
+      "Bavaud Louis"
+    ],
+    "Municipaux": [
+      "Bally Ernest",
+      "Fatio Fritz",
+      "Favre Léon",
+      "Favre Victor"
+    ],
+    "Commission scolaire mixte": [
+      "Fatio Fritz"
+    ],
+    "Garde-forestier": [
+      "Thélin Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Guex Henri"
+    ],
+    "Instituteurs": [
+      "Cardis Roger",
+      "Favre Maria"
+    ],
+    "Poste": [
+      "Despont Joseph"
+    ],
+    "Agriculteurs": [
+      "Bally Ernest",
+      "Bavaud Louis",
+      "Despont François",
+      "Despont Joseph",
+      "Despont Jules",
+      "Despont-Bavaud Emile",
+      "Dory Aimé",
+      "Emery Samuel",
+      "Favre Léon",
+      "Favre Victor",
+      "Gachet Arnold",
+      "Gachet Gustave",
+      "Gachet Henri",
+      "Gachet Paul",
+      "Guex Henri",
+      "Henrioud Ed.",
+      "Henrioud Xavier",
+      "Matthey Jules",
+      "Nobs G.",
+      "Pelot Edouard",
+      "Porchet Eugène",
+      "Schmidt Albert",
+      "Thélin Emile",
+      "Thélin Henri"
+    ],
+    "Aviculteurs": [
+      "Dory Aimé",
+      "Favre Léon",
+      "Favre Victor",
+      "Thélin André"
+    ],
+    "Bétail (march. de)": [
+      "Despont Jos."
+    ],
+    "Café": [
+      "Longchamp François"
+    ],
+    "Cercueils": [
+      "Thélin Emile"
+    ],
+    "Charron": [
+      "Despont Emile"
+    ],
+    "Cordonnier": [
+      "Despont Marc"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Bavaud Louis",
+      "Dory Aimé"
+    ],
+    "Gravière cantonale": [
+      "Baudet Alfred"
+    ],
+    "Laiterie": [
+      "Laiterie Agricole"
+    ],
+    "Maréchal": [
+      "Despont Ernest"
+    ],
+    "Produits en ciment": [
+      "P. Cornaz, Tatti & Cie"
+    ],
+    "Pompes funèbres du Nord": [
+      "Favre frères"
+    ],
+    "Ramoneur": [
+      "Darbellay Jean"
+    ],
+    "Tuyaux en ciment": [
+      "Cornaz-Tatti & Cie"
+    ],
+    "Sociétés": [
+      "Sté du battoir à grains",
+      "Sté de laiterie",
+      "Syndicat agricole"
+    ]
+  },
+  "BLONAY": {
+    "Député": [
+      "Pilliod R."
+    ],
+    "Syndic": [
+      "Guex-Hirschy Louis"
+    ],
+    "Secrétaire": [
+      "Müller Ernest"
+    ],
+    "Boursier": [
+      "Vuadens Georges"
+    ],
+    "Municipaux": [
+      "Bonjour Albert d'Alexis",
+      "Cardinaux André",
+      "Guex Louis",
+      "Mamin-Visinand Rodolphe",
+      "Regamey Adolphe"
+    ],
+    "Assesseur": [
+      "Cardinaux André"
+    ],
+    "Cantonnier": [
+      "Bonjour Jules"
+    ],
+    "Chef de gare": [
+      "Guex Edouard"
+    ],
+    "Chef de section": [
+      "Skawronski Robert"
+    ],
+    "Commandant du feu": [
+      "Cornaz S."
+    ],
+    "Commission scolaire": [
+      "Henry Louis"
+    ],
+    "Contrôle des denrées et boissons alimentaires": [
+      "Muller Ernest"
+    ],
+    "Garde forestier": [
+      "Montet Alexandre"
+    ],
+    "Gendarmerie (Poste de)": [
+      "Dupertuis Ami"
+    ],
+    "Huissier": [
+      "Dépraz Emile"
+    ],
+    "Inspecteur du bétail": [
+      "Morier Louis"
+    ],
+    "Inspecteur des viandes": [
+      "Dépraz Ele"
+    ],
+    "Instituteurs": [
+      "Cornaz Samuel",
+      "Lavanchy Paul",
+      "Cornaz Eugénie",
+      "Herminjard Renée",
+      "Bron Nelly"
+    ],
+    "Officier d'état-civil": [
+      "Mamin Henri"
+    ],
+    "Pasteurs": [
+      "Subilia Fernand",
+      "Teesdale H."
+    ],
+    "Police (agent de)": [
+      "Dépraz Emile"
+    ],
+    "Poste": [
+      "Pilet Emile"
+    ],
+    "Affichage": [
+      "Depraz Emile"
+    ],
+    "Agriculteurs": [
+      "Bachelard Emile",
+      "Bonjour Alexis",
+      "Bonjour-Vuadens Gustave",
+      "Bonjour-Porret Louis",
+      "Bonjour Alfred",
+      "Bonjour-Mamin Albert",
+      "Bonjour-Guex Willy",
+      "Boraley-Bornet François",
+      "Boraley Adrien",
+      "Burry Jean-Louis",
+      "Cardinaux Jules",
+      "Cardinaux André",
+      "Chablaix Constant",
+      "Chabloz",
+      "Chevalley Constant",
+      "Delafontaine Marius",
+      "Dupraz Aimé",
+      "Foniailaz Georges",
+      "Genoud Alfred",
+      "Guex-Bonjour Ls",
+      "Hayoz Henri",
+      "Lenoir Charles",
+      "Mamin Rodolphe",
+      "Mamin Victor",
+      "Mamin Henri",
+      "Mamin Robert",
+      "Montet Henri",
+      "Mouron Eugène",
+      "Pernet Vincent",
+      "Pilloud Victor",
+      "Rossier Louis",
+      "Rossire François",
+      "Rossire Adolphe",
+      "Roulet Hector",
+      "Saugy Eugène",
+      "Schneiter Edouard",
+      "Veluz Edmond",
+      "Villard",
+      "Vincent Victor",
+      "Vincent Louis",
+      "Vuadens Charles",
+      "Vuadens Emile"
+    ],
+    "Apiculteurs": [
+      "Bohren Aug.",
+      "Dupertuis",
+      "Huck",
+      "Prima-Flora",
+      "de Siebenthal",
+      "Townley Ed."
+    ],
+    "Appareilleurs": [
+      "Durini Alfred",
+      "Montet Félix",
+      "Weber Emile"
+    ],
+    "Arboriculteurs": [
+      "Dancet Pierre",
+      "Laurent Georges"
+    ],
+    "Architecte": [
+      "Vuadens Georges"
+    ],
+    "Articles horticoles": [
+      "Weber Robert"
+    ],
+    "Assurances": [
+      "« Helvétia »",
+      "Regamey Adolphe"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite",
+      "Lavanchy Paul"
+    ],
+    "Auto-garage-réparations": [
+      "Clerc Georges",
+      "Schmid R.",
+      "Vuadens Rob.",
+      "Yersin Emile"
+    ],
+    "Auto-taxis": [
+      "Bonjour Rod.",
+      "Vuadens Robert",
+      "Yersin Emile"
+    ],
+    "Bains": [
+      "Bonjour-Serex Ernest"
+    ],
+    "Blanchisseuses": [
+      "Hayoz",
+      "Mamin Berthe",
+      "Gallay Mathilde"
+    ],
+    "Bois (com. de)": [
+      "Commune Blonay"
+    ],
+    "Boucherie-charcuterie": [
+      "Dovat Adr."
+    ]
+  }
+}

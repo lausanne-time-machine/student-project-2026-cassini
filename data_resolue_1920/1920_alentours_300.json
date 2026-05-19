@@ -1,0 +1,250 @@
+{
+  "FAOUG": {
+    "Blanchisseuses": [
+      "Cornaz Anna",
+      "Simonet Marguerite"
+    ],
+    "Charpentier": [
+      "Spach Théophile"
+    ],
+    "Charron": [
+      "Cornaz Jules"
+    ],
+    "Chef de gare": [
+      "Cherbuin Jules"
+    ],
+    "Chevaux": [
+      "von Gunten & Ramuz"
+    ],
+    "Commission scolaire": [
+      "Lefèvre A.",
+      "Grin Paul"
+    ],
+    "Cordonnier": [
+      "Derendinger Friedrich"
+    ],
+    "Entrepreneur": [
+      "Gasparini Paul"
+    ],
+    "Epicerie": [
+      "Guex Ida",
+      "Meyer Adolphe",
+      "Meyer Fritz"
+    ],
+    "Inspecteur du bétail": [
+      "Desarzens Oc."
+    ],
+    "Instituteurs": [
+      "Gacon Albert",
+      "Desarzens-Jaton Sophie",
+      "Delacrétaz Paul",
+      "Loup Hermine"
+    ],
+    "Laitiers": [
+      "Rœtlisberger & Cie"
+    ],
+    "Maréchal": [
+      "Grin Paul"
+    ],
+    "Matériaux de construction": [
+      "Cornaz Paul"
+    ],
+    "Mercerie": [
+      "Guex Ida"
+    ],
+    "Pêcheur": [
+      "Guillod Louis"
+    ],
+    "Scierie-bois": [
+      "Spach Th."
+    ],
+    "Sociétés": [
+      "Nouvelle Société de laiterie",
+      "Section de la Croix-Bleue",
+      "Du battoir à grain",
+      "De laiterie"
+    ],
+    "Tailleur": [
+      "Blank Emile"
+    ],
+    "Tailleuse": [
+      "Cornaz-Spach Marie"
+    ],
+    "Téléphone": [
+      "Tenthorey Louis"
+    ],
+    "Tuyaux en ciment (fab. de)": [
+      "Cornaz Paul"
+    ],
+    "Vins (négociants en)": [
+      "Cornaz frères & Cie"
+    ],
+    "Menuisier": [
+      "Loup Charles"
+    ],
+    "Poste": [
+      "Loup Georges"
+    ],
+    "Téléphoniste": [
+      "Loup Henri"
+    ]
+  },
+  "MONTMAGNY": {
+    "Autorités communales": [
+      "Loup Georges",
+      "Magnin Alcide"
+    ],
+    "Syndic": [
+      "Loup René"
+    ],
+    "Municipaux": [
+      "Loup Adolphe",
+      "Loup Emile",
+      "Loup Léon",
+      "Piguet François",
+      "Loup Auguste"
+    ],
+    "Agriculteurs": [
+      "Loup Adolphe",
+      "Loup André",
+      "Loup Daniel",
+      "Loup Georges",
+      "Loup Léon",
+      "Loup Jules",
+      "Jean-Daniel",
+      "Loup-Gentizon Henri",
+      "Loup Jules",
+      "Loup Arnold",
+      "Loup Jules de Frédéric",
+      "Magnin Emma",
+      "Magnin Gustave",
+      "Magnin Henri",
+      "Rapin Constant",
+      "Sugnet Henri",
+      "Verdon Rosa",
+      "Wuillemin Alph."
+    ],
+    "Café": [
+      "Loup Daniel-Rod."
+    ],
+    "Charron": [
+      "Piguet François"
+    ],
+    "Commission scolaire": [
+      "Loup Georges",
+      "Loup Daniel",
+      "Loup Emile"
+    ],
+    "Couvreur": [
+      "Hugli Rodolphe"
+    ],
+    "Epicerie": [
+      "Loup Henri"
+    ],
+    "Garde-forestier cantonal": [
+      "Loup R."
+    ],
+    "Inspecteur du bétail": [
+      "Loup Henri-Constant"
+    ]
+  },
+  "MUR": {
+    "Autorités communales": [
+      "Amiet Jules",
+      "Perrenoud Edmond",
+      "Amiet Fritz"
+    ],
+    "Municipaux": [
+      "Amiet Eug.",
+      "Besse Emile",
+      "Amiet Louis",
+      "Javet Jules",
+      "Amiet Henri",
+      "Amiet Jules"
+    ],
+    "Agriculteurs": [
+      "Amiet Emile",
+      "Amiet Eugène",
+      "Amiet Fritz",
+      "Amiet-Gringet Emile",
+      "Amiet Hri",
+      "Amiet Louis",
+      "Besse Emile",
+      "Besse William",
+      "Cornuz Jean",
+      "Cornuz Paul",
+      "Delorme Paul",
+      "Füri Samuel",
+      "Javet Jles",
+      "Mosimann Jr",
+      "Noyer Jn",
+      "Pouly François",
+      "Rivier Théodore et Henri",
+      "Vacheron Jules",
+      "Vacheron-Amiet Emile"
+    ],
+    "Commission scolaire": [
+      "Cornuz Louis-Aimé",
+      "Basset",
+      "Besse Emile"
+    ],
+    "Cordonnier": [
+      "Petter Auguste"
+    ],
+    "Epicerie": [
+      "Petter Auguste"
+    ],
+    "Inspecteur du bétail": [
+      "Cornuz Paul"
+    ],
+    "Instituteur": [
+      "Zinder Edouard"
+    ]
+  },
+  "OLEYRES": {
+    "Autorités communales": [
+      "Miauton Arm.",
+      "Bœuf Eugène"
+    ],
+    "Syndic": [
+      "Miauton Charles"
+    ],
+    "Municipaux": [
+      "Nicolier Gustave",
+      "Nicolier Fritz",
+      "Charmey Aug.",
+      "Nicolier Charles",
+      "Nicolier Alexis",
+      "Nicolier Alfred"
+    ],
+    "Agriculteurs": [
+      "Charmey Edouard",
+      "Charmey Emile",
+      "Charmey Louis",
+      "Miauton Charles-Daniel",
+      "Miauton Léonard",
+      "Nicolier Charles",
+      "Nicolier Jean-Jules"
+    ],
+    "Assesseur": [
+      "Nicolier Constant"
+    ],
+    "Auberges et cafés": [
+      "Horner Baptiste",
+      "Rentsch Jean"
+    ],
+    "Bétail (com. de)": [
+      "Miauton Osc."
+    ],
+    "Charrons": [
+      "Gonin J.",
+      "Lauper Christ"
+    ],
+    "Cigares (fab. de)": [
+      "Beyeler Alfred"
+    ],
+    "Commission scolaire": [
+      "Nicolier Marc"
+    ]
+  }
+}

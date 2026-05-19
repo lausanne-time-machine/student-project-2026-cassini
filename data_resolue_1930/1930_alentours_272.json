@@ -1,0 +1,215 @@
+{
+  "CORSIER": {
+    "Laitiers": [
+      "Infanger Louis",
+      "Lehnherr Fritz"
+    ],
+    "Meunier": [
+      "Poget John"
+    ],
+    "Menuisier": [
+      "Held Hans"
+    ],
+    "Notaire": [
+      "Clerc J.-E."
+    ],
+    "Officier d'état civil": [
+      "Neyroud André"
+    ],
+    "Pasteurs": [
+      "Gardiol Louis",
+      "Mercier Charles"
+    ],
+    "Peintre": [
+      "Thomet Joseph"
+    ],
+    "Pépiniéristes": [
+      "Neyroud frères"
+    ],
+    "Poste": [
+      "Burky Robert",
+      "Ecuyer Charles"
+    ],
+    "Représentant": [
+      "Pasche Louis"
+    ],
+    "Ramoneur": [
+      "Genoud"
+    ],
+    "Sage-femme": [
+      "Herminjard Rose",
+      "Incerti-Magnenat Louise"
+    ],
+    "Scieur": [
+      "Marguerat Ernest"
+    ],
+    "Sellier-tapissier": [
+      "Benkert Jean"
+    ],
+    "Serrurier": [
+      "Gottraux David"
+    ],
+    "Sociétés": [
+      "Association vinicole de Corsier",
+      "de la Banderette",
+      "de Longpraz",
+      "de Fenil",
+      "du Crêt-Cory",
+      "Coopérative d'alpage du Syndicat agricole",
+      "Immobilière du Clos de la Condeminaz",
+      "Syndicat agricole",
+      "de tir Cordon Bleu",
+      "de tir l'Union",
+      "de tir Cordon Vert et Blanc",
+      "Caisse de Crédit Mutuel"
+    ],
+    "Vignerons": [
+      "Bricod Louis",
+      "Chabloz François",
+      "Cherpillod G.",
+      "Cornu Maurice",
+      "Coderay Emile",
+      "Cossy Ferdin.",
+      "Curchod Edouard",
+      "Devez Edouard",
+      "Dubuis Félix",
+      "Ducret Eugène",
+      "Duperret Constant",
+      "Fonjallaz Albert",
+      "Herminjard Louis",
+      "Marguerat Ernest",
+      "Neyroud Marius",
+      "Niclas Hyacinthe",
+      "Parisod Paul",
+      "Pasche Alexis",
+      "Pfeiffle Ernest",
+      "Richon-Mottier Charles",
+      "Saillen Joseph",
+      "Taverney Charles",
+      "Trottet Henri"
+    ],
+    "Vins (march. de)": [
+      "Obrist & Cie",
+      "Goy L."
+    ],
+    "Voiturier": [
+      "Villiger Robert"
+    ],
+    "Divers": [
+      "Blanc Henri",
+      "Bonny Ch.",
+      "Bossange Edouard",
+      "Burnat J.",
+      "Chavannes Robert",
+      "Couvreu Maurice",
+      "de Palézieux André",
+      "Schell Ch.",
+      "Klausfelder S. A.",
+      "La Vigie",
+      "Schneider Mce",
+      "Teuscher A.",
+      "Thomet Ch.",
+      "La Chaumière"
+    ]
+  },
+  "JONGNY": {
+    "Autorités communales": [
+      "Reymond Hri",
+      "Taverney-Hubert E.",
+      "Chapuis Paul"
+    ],
+    "Municipaux": [
+      "Taverney-Fonjallaz Emmanuel",
+      "Taverney André",
+      "Reymond Emile",
+      "Guex Louis",
+      "Bastian Victor",
+      "Taverney André"
+    ],
+    "Agriculteurs": [
+      "Chabloz Louis",
+      "Chapuis Paul",
+      "Chaudet Florian",
+      "Chaudet Victor",
+      "Détraz Ernest",
+      "Fonjallaz Henri",
+      "Fonjallaz Jenny",
+      "Gilliard Hri",
+      "Guérite Aloïs",
+      "Guex Louis",
+      "Reymond Henri",
+      "Reymond Louis",
+      "Reymond Emile",
+      "Rufenacht Jean",
+      "Stern Emile",
+      "Taverney Ferdinand",
+      "Taverney André",
+      "Taverney Emmanuel",
+      "Taverney Henri",
+      "Schneeberger Aloys"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Bastian V."
+    ],
+    "Aubergiste": [
+      "Guex Louis"
+    ],
+    "Charron": [
+      "Forestier Julien"
+    ],
+    "Commission scolaire": [
+      "Gilliard Hri"
+    ],
+    "Ecole ménagère": [
+      "Anderfuhren, Mme"
+    ],
+    "Epicerie": [
+      "Barbey Julien"
+    ],
+    "Inspecteur du bétail": [
+      "Guex Louis"
+    ],
+    "Jardinier": [
+      "Joder Gottlieb"
+    ],
+    "Laitier": [
+      "Fédération laitière du Léman"
+    ],
+    "Maçon": [
+      "Pilet Edouard"
+    ],
+    "Maréchal": [
+      "Forestier Marius"
+    ],
+    "Pensions": [
+      "Henry Vve de Paul",
+      "Chambaud, Mlle",
+      "Forestier Julien"
+    ],
+    "Police": [
+      "Cand David"
+    ],
+    "Rentiers": [
+      "Leresche Auguste",
+      "de Schnenuhr, Mme",
+      "Tissot Pierre",
+      "de Vallière Paul"
+    ],
+    "Sociétés": [
+      "de laiterie",
+      "de tir : Les Campagnards réunis"
+    ],
+    "Vignerons": [
+      "Betschen Ferd.",
+      "Fonjallaz Eugène",
+      "Taverney Emmanuel",
+      "Taverney-Niederhauser A.",
+      "Veuve"
+    ],
+    "Voituriers": [
+      "Barbey Julien",
+      "Taverney Henri-Louis"
+    ]
+  }
+}

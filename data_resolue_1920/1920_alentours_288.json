@@ -1,0 +1,232 @@
+{
+  "URSINS": {
+    "Officier d'état-civil.": [
+      "Burdet Eug."
+    ],
+    "Pionnier.": [
+      "Burdet Augustin-Louis."
+    ],
+    "Poste.": [
+      "Reguin Aline."
+    ],
+    "Sociétés.": [
+      "De fromagerie. R.",
+      "D'agriculture. R.",
+      "Bibliothèque."
+    ],
+    "Téléphoniste.": [
+      "Burdet Eugénie."
+    ]
+  },
+  "VALEYRES-SOUS-MONTAGNY": {
+    "Autorités communales.": [
+      "Simon Alfred",
+      "Martin Const., fils.",
+      "Christin Alfred.",
+      "Margot Louis",
+      "Pilliard Alfred",
+      "Martin Lucien",
+      "Chevaley Louis",
+      "Gail-lard Emile",
+      "Pilliard Jules."
+    ],
+    "Agriculteurs.": [
+      "Bétrix Emile",
+      "Chevalley Louis",
+      "Cottier Emile",
+      "Gaillard Emile",
+      "Imhof François",
+      "Martin Constant",
+      "Martin Emman.",
+      "Martin Em.",
+      "Margot Jules",
+      "Michoud Jean",
+      "Perrin Henri",
+      "Pilliard Alfred",
+      "Pilliard Eugène",
+      "Pilliard François",
+      "Pilliard Jules",
+      "Pilliard Henri",
+      "Pilliard Ls",
+      "Porraz François",
+      "Porraz Hri",
+      "Schaffroth Eugène",
+      "Simon Frs."
+    ],
+    "Aubergiste": [
+      "Boillet Emma, Vve. T."
+    ],
+    "Couvreur.": [
+      "Marendaz Eugène."
+    ],
+    "Epicerie.": [
+      "Boillet Eugène."
+    ],
+    "Inspecteur du bétail.": [
+      "Simon Alf."
+    ],
+    "Instituteurs.": [
+      "Burdet Jules",
+      "Burdet Madeleine."
+    ],
+    "Laitier.": [
+      "Genillod J. T."
+    ],
+    "Maréchal": [
+      "Margot Louis."
+    ],
+    "Pierristes.": [
+      "Sangrouber Henri",
+      "Sangrouber Marc."
+    ],
+    "Poste.": [
+      "Margot Rose."
+    ],
+    "Scieur.": [
+      "Jaggi Léon."
+    ],
+    "Société.": [
+      "De laiterie. R."
+    ],
+    "Téléphone.": [
+      "Café du Raisin. T."
+    ]
+  },
+  "VALEYRES-SOUS-URSINS": {
+    "Autorités communales.": [
+      "Pidoux Vict.",
+      "Planche Edward.",
+      "Beney Clément.",
+      "Beney Justin",
+      "Beney Rob.",
+      "Auberson Ls",
+      "Henry Auguste",
+      "Henry Victor, de Louis",
+      "Henry Victor, de François",
+      "Miéville Lucien."
+    ],
+    "Agriculteurs.": [
+      "Beney Clément",
+      "Beney Emile",
+      "Beney Justin",
+      "Henry Victor",
+      "Miéville Lucien."
+    ],
+    "Charpentiers.": [
+      "Beney Auguste",
+      "Henry Auguste."
+    ],
+    "Commission scolaire.": [
+      "Henry Ernest",
+      "Planche Edward",
+      "Bréchon Arm."
+    ],
+    "Epicerie, mercerie.": [
+      "Henry Elise."
+    ],
+    "Inspecteur du bétail.": [
+      "Henry Victor."
+    ],
+    "Instituteur.": [
+      "Pidoux Victor."
+    ],
+    "Laitier.": [
+      "Gasser Louis. R."
+    ],
+    "Machine à battre.": [
+      "Société du bat-toir à grain. R."
+    ],
+    "Maréchal.": [
+      "Frauche Héli."
+    ],
+    "Mécaniciens.": [
+      "Nicod Alexis",
+      "Nicod François."
+    ],
+    "Société.": [
+      "De fromagerie. R."
+    ],
+    "Téléphone.": [
+      "Dépôt des postes."
+    ]
+  },
+  "VILLARS-EPENEY": {
+    "Autorités communales.": [
+      "Potterat Const.",
+      "Roulier Paul.",
+      "Roulier Julien. T.",
+      "Correvon Julien",
+      "Favre Henri",
+      "Roulier Paul",
+      "Gondoux Alfred."
+    ],
+    "Agriculteurs.": [
+      "Correvon Julien",
+      "Favre Alfred",
+      "Gondoux Alfred",
+      "Roulier Henri",
+      "Roulier Jean",
+      "Roulier frères."
+    ],
+    "Inspecteur du bétail.": [
+      "Gondoux-Roulier Alfred."
+    ],
+    "Institutrice.": [
+      "Burdet Berthe."
+    ],
+    "Société.": [
+      "De fromagerie. R."
+    ],
+    "Téléphone.": [
+      "Roulier Julien"
+    ]
+  },
+  "VILLARS-SOUS-CHAMPVENT": {
+    "Autorités communales.": [
+      "Mayerat Julien.",
+      "Urfer Th.",
+      "Roy Alfred",
+      "Page Henri",
+      "Mayerat Louis",
+      "Mayerat Julien."
+    ],
+    "Agriculteurs.": [
+      "Genaine David",
+      "Mayerat Louis",
+      "Page Jules",
+      "Roy Alfred",
+      "Urfer Pierre."
+    ],
+    "Inspecteur du bétail.": [
+      "Genaine David."
+    ],
+    "Laitier.": [
+      "Urfer Théophile."
+    ],
+    "Tailleur.": [
+      "Vallotton Alfred."
+    ],
+    "Tailleuse.": [
+      "Wenker Julie"
+    ]
+  },
+  "VUGELLES-LA-MOTHE": {
+    "Autorités communales.": [
+      "Schüpbach Ls",
+      "Bornoz Albert.",
+      "Zbinden Louis, fils.",
+      "Gaillard Eug., père",
+      "Nicolet Louis",
+      "Marchand Gustave",
+      "Devaud Louis",
+      "Marchand Maurice",
+      "Bertschy Maurice."
+    ],
+    "Agriculteurs.": [
+      "Balmer frères",
+      "Borgeaud Ernest",
+      "Fahrni Jn",
+      "Gail-"
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "RIVAZ": {
+    "Pasteur": [
+      "Gagnebin-de Bons"
+    ],
+    "Police (agent de)": [
+      "Trolliet Prosper"
+    ],
+    "Poste": [
+      "Chevalley Marius"
+    ],
+    "Téléphone": [
+      "Trolliet Prosper",
+      "Station communale"
+    ],
+    "Agriculteurs": [
+      "Ruchonnet Louis",
+      "Simon Jean",
+      "Testuz Paul"
+    ],
+    "Apiculteurs": [
+      "Chappuis Fernand",
+      "Clot Constant",
+      "Simon Henri",
+      "Testuz Francis",
+      "Testuz Paul",
+      "Duperrex Jules",
+      "Schaffner Jean"
+    ],
+    "Architecte": [
+      "Sartoris Alb."
+    ],
+    "Artistes-peintres": [
+      "Bieler E.",
+      "Monteiller",
+      "Lassueur Paul",
+      "Verneuil de Marval",
+      "Monteiller"
+    ],
+    "Assurance-vieillesse": [
+      "Société mutualiste de retraite La Vigneronne",
+      "Leyvraz Jean"
+    ],
+    "Boulangers": [
+      "Guermann Henri",
+      "Jaccard Louis"
+    ],
+    "Café": [
+      "Maulini Martin"
+    ],
+    "Comptable": [
+      "Chappuis Gustave"
+    ],
+    "Couturières": [
+      "Grandchamp Cécile",
+      "Trolliet, Mme"
+    ],
+    "Engrais (Sté des)": [
+      "Bron Oscar"
+    ],
+    "Epiceries": [
+      "Guermann Henri",
+      "Jaccard Louis"
+    ],
+    "Géomètre officiel": [
+      "Luginbühl Charles"
+    ],
+    "Laiterie": [
+      "Bron Robert"
+    ],
+    "Maréchal": [
+      "Cavin Jules"
+    ],
+    "Menuisier": [
+      "Cossy Robert"
+    ],
+    "Meunier": [
+      "Minoterie coopérative du Léman"
+    ],
+    "Pépiniéristes viticoles": [
+      "Monachon Jules",
+      "Testuz Louis"
+    ],
+    "Sociétés": [
+      "Sté de laiterie de Rivaz",
+      "Caisse de Crédit Mutuel"
+    ],
+    "Vignerons": [
+      "Bron Oscar",
+      "Chappuis Ls d'Alfred",
+      "Chappuis Constant",
+      "Chappuis Aloïs",
+      "Chappuis Léon",
+      "Chappuis Louis",
+      "Chappuis Francis",
+      "Chappuis Fernand et Ernest",
+      "Chappuis Félix",
+      "Clot Constant",
+      "Cossy Jules",
+      "Fonjallaz Hermann",
+      "Fonjallaz Léon",
+      "Fonjallaz Gaston",
+      "Imhof Aloïs",
+      "Imhof Jules",
+      "Jacquier, Vve de Léon",
+      "Leyvraz Charles",
+      "Leyvraz Louis",
+      "Monachon Jules",
+      "Ruchonnet Roger",
+      "Vve Ruchonnet Louis",
+      "Simon Emile",
+      "Simon Jean",
+      "Simon Henri",
+      "Testuz Francis",
+      "Testuz Paul",
+      "Testuz frères"
+    ],
+    "Vins (march. de)": [
+      "Bron Oscar",
+      "Chappuis frères",
+      "Chaudet Emile",
+      "Pinget Francis",
+      "Testuz Francis",
+      "Testuz frères"
+    ],
+    "Divers": [
+      "Beausire J.",
+      "Breuleux H.-P.",
+      "Chaudet Paul",
+      "Desgraz Paul",
+      "Lassueur"
+    ]
+  },
+  "ROCHE": {
+    "Syndic": [
+      "Sartoris Marc"
+    ],
+    "Secrétaire": [
+      "Eyer Abram"
+    ],
+    "Boursier": [
+      "Byrde Auguste"
+    ],
+    "Huissier": [
+      "Nicolet Maurice"
+    ],
+    "Municipaux": [
+      "Buser Edouard",
+      "Deladoey Robert",
+      "Dufresne Louis",
+      "Lagrive Jean"
+    ],
+    "Assesseur": [
+      "Guay Henri"
+    ],
+    "Commandant du feu": [
+      "Sartoris Marc"
+    ],
+    "Commission scolaire": [
+      "Sartoris Marc",
+      "Henchoz Albert"
+    ],
+    "Contrôleur du lait": [
+      "Hallada Louis"
+    ],
+    "Curé": [
+      "Jaegger Robert"
+    ],
+    "Garde-forestier": [
+      "Minder Ernest"
+    ],
+    "Gare CFF (chef de)": [
+      "Gavin Emile"
+    ],
+    "Gendarmerie (poste de)": [
+      "Martin Alexandre"
+    ],
+    "Inspecteur du bétail": [
+      "Hallada Louis"
+    ],
+    "Inspecteur des viandes": [
+      "Viredaz Hri"
+    ],
+    "Instituteurs": [
+      "Cherix Alexis",
+      "Jaccard Paul-Hri",
+      "Dufaux Antoinette",
+      "Favre Marguerite",
+      "Gillard Denise"
+    ],
+    "Juge de paix": [
+      "Chabloz Louis"
+    ],
+    "Police (agent de)": [
+      "Nicolet Maurice"
+    ],
+    "Poste et télégraphe": [
+      "Girard Louis"
+    ],
+    "Téléphone": [
+      "Station communale au greffe municipal",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs": [
+      "Aeberhardt Alb.",
+      "Bertholet Gust.",
+      "Borloz Louis",
+      "Borloz Georges",
+      "Brand Emile",
+      "Buser Edouard",
+      "Chabloz Louis",
+      "Chevalley Henri",
+      "Dufresne Louis",
+      "Dufaux Robert",
+      "Guay Henri",
+      "Hallada Louis",
+      "Herminjard Marc",
+      "Humberset Maurice",
+      "Herminjard Marc",
+      "Humberset Maurice",
+      "Michaud Em.",
+      "Michaud Eugène",
+      "Parisod François",
+      "Portner Gottfr.",
+      "Voutaz Félix",
+      "Voutaz Robert",
+      "Weibel E."
+    ],
+    "Apiculteurs": [
+      "Delacrétaz Eugène",
+      "Gremion Arthur",
+      "Henchoz Albert",
+      "Herminjard Marc",
+      "Vioget Edouard",
+      "Voutaz Charles"
+    ],
+    "Bois (march. de)": [
+      "Buser Henri"
+    ],
+    "Boulangers": [
+      "Maillard Roger",
+      "Maret Henri"
+    ],
+    "Cafés": [
+      "Ansermoz Henri",
+      "Buser Henri",
+      "Duroux Charles"
+    ],
+    "Chaux, ciments, gypses (fab. de)": [
+      "Wiswald Jean",
+      "Duroux Charles"
+    ],
+    "Couturières": [
+      "Chevalley Sophie",
+      "Corthésy Adèle",
+      "Hirt Nelly"
+    ],
+    "Entrepreneurs": [
+      "Arceci César",
+      "Lagrive Jean",
+      "Nino J."
+    ],
+    "Epiceries-merceries, tabacs": [
+      "Buser Edouard",
+      "Chabloz Nelly",
+      "Favre Emile",
+      "Jaquet Paul",
+      "Maret Henri",
+      "Maillard Roger",
+      "Muller Hélène",
+      "Piralla-Vioget",
+      "Société coopérative"
+    ],
+    "Gypsier-peintre": [
+      "Borghini Paul"
+    ],
+    "Infirmière": [
+      "Leyvraz Louise"
+    ],
+    "Ingénieur": [
+      "Wiswald Jean"
+    ],
+    "Laitier": [
+      "Chabloz Charles"
+    ],
+    "Jardinier": [
+      "Badan Gustave",
+      "Deléchat Charles"
+    ],
+    "Maraîcher": [
+      "Favrod Paul"
+    ],
+    "Maréchal": [
+      "Ecuyer Edmond"
+    ],
+    "Mécanicien": [
+      "Dutoit Albert"
+    ],
+    "Meunier": [
+      "Moulin agricole",
+      "Rappo Fridolin"
+    ],
+    "Menuisier": [
+      "Borloz Eugène"
+    ],
+    "Pension": [
+      "Buser Ed."
+    ],
+    "Sociétés": [
+      "Sté des tireurs des Alpes",
+      "Sté de tir militaire",
+      "Harmonie des Alpes",
+      "Sté de gymnastique",
+      "Sté du battoir et moulin agricole de Roche",
+      "Sté d'assurance du bétail",
+      "Sté de musique Fanfare de Roche",
+      "Syndicat d'élevage"
+    ],
+    "Divers": [
+      "Muller H."
+    ]
+  }
+}

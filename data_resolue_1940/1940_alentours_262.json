@@ -1,0 +1,357 @@
+{
+  "SERGEY": {
+    "Apiculteurs": [
+      "Deriaz Maurice",
+      "Gaillard Emile",
+      "Gaillard François",
+      "Gaillard Ls-Alexis",
+      "Gaillard Numa"
+    ],
+    "Café": [
+      "Pache Alfred"
+    ],
+    "Epicerie": [
+      "Zoëll Louise"
+    ],
+    "Laiterie": [
+      "Sallin Louis"
+    ],
+    "Pompes funèbres du Nord": [
+      "Pache Alfred"
+    ],
+    "Sociétés": [
+      "Abbaye des Volontaires",
+      "Battoir à grains. R.",
+      "Sté de fromagerie. R."
+    ]
+  },
+  "SERVION": {
+    "Syndic": [
+      "Destraz Julien"
+    ],
+    "Secrétaire": [
+      "George Louis"
+    ],
+    "Boursier": [
+      "Devaud Henri"
+    ],
+    "Huissier": [
+      "Fawer Ulysse"
+    ],
+    "Municipaux": [
+      "Fawer Albert",
+      "Guignet Louis",
+      "Jaquier Louis",
+      "Pasche Robert"
+    ],
+    "Assesseur": [
+      "George Louis"
+    ],
+    "Commandant du feu": [
+      "Pasche Arnold"
+    ],
+    "Commission scolaire": [
+      "Collomb Jean"
+    ],
+    "Inspecteur du bétail": [
+      "Jaquier Louis"
+    ],
+    "Inspecteur des viandes": [
+      "Devaud Hri"
+    ],
+    "Instituteurs": [
+      "Moillen Ernest",
+      "Moillen Emma"
+    ],
+    "Police (poste de)": [
+      "Bonnelance Rob."
+    ],
+    "Poste": [
+      "Pasche-Gilliéron Louise"
+    ],
+    "Agriculteurs": [
+      "Baumgartner Ernest",
+      "Charmey Victorine",
+      "Collomb Jean",
+      "Delessert Louis",
+      "Destraz Charles",
+      "Devaud Emile",
+      "Devaud Hri",
+      "Emery Louis",
+      "Favey frères",
+      "Fawer frères",
+      "George Fréd.",
+      "George frères",
+      "George Louis",
+      "George Paul",
+      "Gilliéron Eugénie",
+      "Gilliéron-Buttet Louis",
+      "Gilliéron Paul",
+      "Gilliéron frères",
+      "Guignet Louis",
+      "Jaquier Louis",
+      "Lambelet Fritz",
+      "Pasche Albert",
+      "Pasche Arnold",
+      "Pasche Robert",
+      "Pasche-Cuendet Frédéric",
+      "Pasche-Droz Frédéric",
+      "Pasche Louis",
+      "Pouly Henri",
+      "Vonnez Henri",
+      "Wuillemin Arnold"
+    ],
+    "Apiculteurs": [
+      "Collomb Jean",
+      "Destraz Charles",
+      "George Frédéric",
+      "George frères",
+      "Guignet Louis",
+      "Wuillemin Arnold"
+    ],
+    "Assurance-vieillesse": [
+      "Moillen E."
+    ],
+    "Banque": [
+      "Caisse Raiffeisen",
+      "Jaquier Louis"
+    ],
+    "Bois (march. de)": [
+      "Fawer frères",
+      "George Frédéric"
+    ],
+    "Boulanger": [
+      "Gander Louis"
+    ],
+    "Cafés": [
+      "Pasche Robert",
+      "Pasche-Cuendet Fréd."
+    ],
+    "Charpentier-menuis": [
+      "Gilliéron Fernand"
+    ],
+    "Couturières": [
+      "Emery Germaine",
+      "Fawer Jeanne",
+      "Maury Adèle"
+    ],
+    "Epicerie, mercerie": [
+      "Gander Ls."
+    ],
+    "Maçon": [
+      "Charmey Maurice"
+    ],
+    "Oeufs et volailles": [
+      "Fawer Ulysse"
+    ],
+    "Pompes funèbres du Nord": [
+      "Bill André"
+    ],
+    "Scierie": [
+      "George Frédéric"
+    ],
+    "Sociétés": [
+      "Caisse de Crédit mutuel. R.",
+      "Chœur mixte",
+      "Sté d'assurance du bétail",
+      "Sté d'estivage de Praz-don-Abbé. R.",
+      "Sté immobilière de laiterie et fromagerie. R.",
+      "Sté militaire de Servion et Ferlens",
+      "Sté de tir Aux Armes de guerre"
+    ],
+    "Tailleurs de pierres": [
+      "Devaud Emile",
+      "Maury Alexis"
+    ]
+  },
+  "SEVERY": {
+    "Syndic": [
+      "Gaudin Ernest"
+    ],
+    "Secrétaire": [
+      "Prior Eugène"
+    ],
+    "Boursier": [
+      "Monnier Olivier, fils"
+    ],
+    "Huissier": [
+      "Tappy Auguste"
+    ],
+    "Municipaux": [
+      "Meylan Fernand",
+      "Monnier Olivier, fils",
+      "Oulevay Francis",
+      "Girard Edward"
+    ],
+    "Assesseur": [
+      "Lavanchy Aloïs"
+    ],
+    "Commandant du feu": [
+      "Girard André"
+    ],
+    "Commission scolaire": [
+      "Braissant Paul"
+    ],
+    "Inspect. du bétail": [
+      "Girard Edward"
+    ],
+    "Instituteurs": [
+      "Junod Maurice",
+      "Bataillard Lucienne"
+    ],
+    "Pasteur": [
+      "Gétaz Emile"
+    ],
+    "Police (agent de)": [
+      "Tappy Auguste"
+    ],
+    "Poste": [
+      "Henneberger Mme"
+    ],
+    "Téléphone": [
+      "Autier Alfred"
+    ],
+    "Agriculteurs": [
+      "Bovey Emile",
+      "Braissant Paul",
+      "Gaudin Ernest",
+      "Girard André",
+      "Girard Edward",
+      "Henneberger Fernand",
+      "Hostettler Ulrich",
+      "Jaccard Eugène",
+      "Krieg Georges",
+      "Lavanchy Aloïs",
+      "Meylan Louis, hoirie",
+      "Monnier Olivier",
+      "Nicole Constant",
+      "Oulevay Francis",
+      "Prior Eugène",
+      "Rithener Ernest",
+      "Tardy Adrien"
+    ],
+    "Amodiateurs": [
+      "Braissant Paul",
+      "Tardy Adrien"
+    ],
+    "Assurance-vieillesse": [
+      "Junod Maurice"
+    ],
+    "Café": [
+      "Prior Eug."
+    ],
+    "Epicerie, mercerie": [
+      "Autier Alf."
+    ],
+    "Laiterie, fromages": [
+      "Fédération du Pied du Jura"
+    ],
+    "Meunier": [
+      "Bovey Emile"
+    ],
+    "Pensionnat": [
+      "Girard Mlles"
+    ],
+    "Société": [
+      "Société de fromagerie. R."
+    ]
+  },
+  "SIGNY": {
+    "Député": [
+      "Crausaz Eugène"
+    ],
+    "Syndic": [
+      "Crausaz Eugène"
+    ],
+    "Secrétaire": [
+      "Miaz Julien"
+    ],
+    "Boursier": [
+      "Wildhaber Otto"
+    ],
+    "Huissier": [
+      "Glaus Gottfried"
+    ],
+    "Municipaux": [
+      "Jaton Constant",
+      "Pariat Louis",
+      "Steiner Paul",
+      "Tecon Rob."
+    ],
+    "Commandant du feu": [
+      "Steiner Paul"
+    ],
+    "Commission scolaire": [
+      "Brocher Arthur",
+      "Bader Ernest"
+    ],
+    "Inspecteur du bétail": [
+      "Miaz Charles"
+    ],
+    "Inspecteur des viandes": [
+      "Bally Const."
+    ],
+    "Police (agent de)": [
+      "Blanchard Arthur"
+    ],
+    "Poste et télégraphe": [
+      "Miaz Louise"
+    ],
+    "Agriculteurs": [
+      "Baumgartner Robert",
+      "Blanchard Frs",
+      "Crausaz Eug.",
+      "Entrepris agric. et forest. S. A.",
+      "Wildahler",
+      "Jaton Constant",
+      "Jaton Lucien",
+      "Miaz Chs et Julien",
+      "Pariat Louis",
+      "Tecon Jules",
+      "Thuner Otto"
+    ],
+    "Assurance-vieillesse": [
+      "Corbaz R."
+    ],
+    "Bois (comm. de)": [
+      "Entreprise agricole et forestière S. A.",
+      "Wildahler"
+    ],
+    "Café": [
+      "Glaus-Thuner Gottfried"
+    ],
+    "Couturière": [
+      "Chevaillaz Cécile"
+    ],
+    "Entrepreneur": [
+      "Pariat Marcel"
+    ],
+    "Epicerie": [
+      "Blanchard-Dubois Jeanne"
+    ],
+    "Maréchal": [
+      "Blanchard Eugène"
+    ],
+    "Sociétés": [
+      "S. A. pour entreprises agricoles et forestières. R.",
+      "Sté de fromagerie de Grens et Signy. R."
+    ],
+    "Vigneron": [
+      "Steiner Paul"
+    ]
+  },
+  "SOTTENS": {
+    "Syndic": [
+      "Dubrit René"
+    ],
+    "Secrétaire": [
+      "Porchet Ernest"
+    ],
+    "Boursier": [
+      "Vuagniaux Jean-Jules"
+    ],
+    "Huissier": [
+      "Jaton Albert"
+    ]
+  }
+}

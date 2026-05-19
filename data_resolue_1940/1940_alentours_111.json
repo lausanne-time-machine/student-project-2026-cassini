@@ -1,0 +1,438 @@
+{
+  "GRANDCOUR": {
+    "Députés du cercle": [
+      "Marcuard Ernest",
+      "Perrin Ernest"
+    ],
+    "Syndic": [
+      "Marcuard Ernest"
+    ],
+    "Secrétaire": [
+      "Mayor Jean-Louis"
+    ],
+    "Boursier": [
+      "Mayor-Combremont Aug."
+    ],
+    "Huissier": [
+      "Marcuard Adolphe"
+    ],
+    "Municipaux": [
+      "Dudan Gustave",
+      "Marcuard-Bardet",
+      "Mayor Charles",
+      "Ruchat-Mayor"
+    ],
+    "Chef de section": [
+      "Mayor Charles"
+    ],
+    "Commandant du feu": [
+      "Mayor Rob."
+    ],
+    "Commission scolaire": [
+      "Mayor Auguste"
+    ],
+    "Contrôleur du lait": [
+      "Blanc Marcel"
+    ],
+    "Garde-forestier": [
+      "Combremont Fritz"
+    ],
+    "Inspecteur du bétail": [
+      "Marcuard Ad."
+    ],
+    "Inspecteur des viandes": [
+      "Combremont Fritz"
+    ],
+    "Instituteurs": [
+      "Burnier Paul",
+      "Mingard Samuel",
+      "Rippert Juliette",
+      "Marcuard Mathilde"
+    ],
+    "Justice de paix": [
+      "Matter Louis",
+      "Mayor-Thévoz",
+      "Bonny-Muller Louis",
+      "Detrey-Blanc Louis",
+      "Mayor Charles",
+      "Rapin-Blanc",
+      "Marcuard Adolphe"
+    ],
+    "Officier d'état civil": [
+      "Marion André"
+    ],
+    "Pasteurs": [
+      "Jomini Paul",
+      "Pache Ed."
+    ],
+    "Police (agent)": [
+      "Combremont Numa"
+    ],
+    "Prisons": [
+      "Combremont Numa"
+    ],
+    "Poste et télégraphe": [
+      "Menétrey Emile",
+      "Häni-Noy Marthe"
+    ],
+    "Agriculteurs": [
+      "Aebischer Charles",
+      "Buschi Christian",
+      "Combremont Oscar",
+      "Cusin Henri",
+      "de Blairville Charles",
+      "Dudan Hri",
+      "Dudan Gustave",
+      "Dudan Paul",
+      "Estoppey Ernest",
+      "Gentil Auguste",
+      "Kaltenrieder Gott.",
+      "Kaltenrieder Fritz",
+      "Marcuard Henri",
+      "Marcuard Ch.",
+      "Marcuard Adolphe",
+      "Marcuard Aug. d'Adolphe",
+      "Marcuard Oct.",
+      "Marcuard Aug.",
+      "Marcuard Ls",
+      "Marion André",
+      "Marmier Jean",
+      "Marmier Georges",
+      "Mayor Georges",
+      "Mayor Louisa",
+      "Mayor-Dudan Fritz",
+      "Mayor Alfred",
+      "Mayor Henri",
+      "Mayor-Combremont Aug.",
+      "Mayor Ls de Frédéric",
+      "Mayor René",
+      "Mayor Robert",
+      "Mayor Ch.",
+      "Mayor-Thévoz Fritz",
+      "Mayor Auguste d'Henri",
+      "Mayor Adolphe",
+      "Mayor Samuel",
+      "Mayor Jean",
+      "Mayor-Dudan Em.",
+      "Mayor Constant de Fritz",
+      "Mayor Jean-Louis",
+      "Mayor Charles et Marcel",
+      "Meillard Jules",
+      "Oulevey Alfred",
+      "Oulevey Paul",
+      "Oulevey Charles",
+      "Oulevey Edm.",
+      "Oulevey César",
+      "Rapin Marcel",
+      "Rapin Numa",
+      "Rossier Fritz",
+      "Rossat Jean",
+      "Ruchat Ulysse",
+      "Ruchat Louis",
+      "Ruchat Gérald",
+      "Ruchat Marc",
+      "Ruchat-Mayor Fritz",
+      "Ruchat David",
+      "Ruchat Jean",
+      "Ruchat Alfred"
+    ],
+    "Hameau de Ressudens": [
+      "Blanc Armand",
+      "Christinat Alexis",
+      "Combremont Martin",
+      "Häni Jacob",
+      "Häni-Ney Jacob",
+      "Laurent Paul",
+      "Laurent Ernest",
+      "Mayor Fernand",
+      "Mayor Emile",
+      "Ney Jules",
+      "Ney Ami",
+      "Ney Adolphe",
+      "Ney Fritz",
+      "Pradervand Gust.",
+      "Schule Fritz"
+    ],
+    "Hameau de Chezard": [
+      "Combremont Alfred",
+      "Combremont-Delacour Aug.",
+      "Combremont-Morel Auguste",
+      "Liechti frères",
+      "Liechti Ida",
+      "Paschoud Lydie",
+      "Pillionel Louis",
+      "Pradervand Jules",
+      "Schulé Jean"
+    ],
+    "Apiculteurs": [
+      "Combremont-Morel Auguste",
+      "Mayor-Dudan Fr.",
+      "Oulevey Paul",
+      "Rossier Fritz"
+    ],
+    "Appareilleur": [
+      "Combremont Fritz"
+    ],
+    "Arboriculteurs": [
+      "Combremont Alfred",
+      "Dudan Charles"
+    ],
+    "Aviculteur": [
+      "Mayor Adrien"
+    ],
+    "Assurance-vieillesse": [
+      "Burnier P."
+    ],
+    "Société mutualiste de retraite": [
+      "Rod Ernest"
+    ],
+    "Auto-rép.-taxis": [
+      "Combremont Fr."
+    ],
+    "Bétail (comm. de)": [
+      "Ruchat Alf."
+    ],
+    "Blanchisseuse": [
+      "Gachet Jeanne"
+    ],
+    "Bois (comm. de)": [
+      "Combremont Ed."
+    ],
+    "Boucherie-charcuterie": [
+      "Combremont Robert",
+      "Marcuard Auguste d'Adolphe",
+      "Mayor Robert",
+      "Mayor Constant",
+      "Ruchat Albert"
+    ],
+    "Boulanger": [
+      "Hugli-Buache Charles"
+    ],
+    "Cafés": [
+      "Bircher Albert",
+      "Demierre Cyprien"
+    ],
+    "Carrossier (autos)": [
+      "Combremont William"
+    ],
+    "Charpentiers": [
+      "Aebischer Alfred",
+      "Buschy André",
+      "Mayor Gustave"
+    ],
+    "Charrons": [
+      "Combremont William",
+      "Cuany Louis"
+    ],
+    "Coiffeurs": [
+      "Dudan Charles",
+      "Gyger Edouard"
+    ],
+    "Cordier": [
+      "Aebischer Charles"
+    ],
+    "Cordonniers": [
+      "Crausaz Jules",
+      "Zanoni César"
+    ],
+    "Couturières": [
+      "Buschy Hortense",
+      "Gilomen Marie",
+      "Oulevey Ida",
+      "Rossier Elisa"
+    ],
+    "Droguerie": [
+      "Combremont Charles"
+    ],
+    "Electricité": [
+      "Mayor Const."
+    ],
+    "Entrepreneurs": [
+      "Giacometti Pierre",
+      "Ruchat Gérold",
+      "Ruchat Jean"
+    ],
+    "Epiceries": [
+      "Cusin Georges",
+      "Marcuard Ernest",
+      "Mayor Const.",
+      "Menétrey Emile",
+      "Ruchat Alb."
+    ],
+    "Fers et quincaillerie": [
+      "Bonny Henri"
+    ],
+    "Hôtel": [
+      "Bircher Alb."
+    ],
+    "Laiterie-fromages": [
+      "Schwarz Ernest"
+    ],
+    "Maréchaux-forgerons": [
+      "Guggisberg Hermann",
+      "Besson Fernand"
+    ],
+    "Matériaux de construction": [
+      "Bonny Henry",
+      "Mayor Auguste",
+      "Ruchat Henri"
+    ],
+    "Mécaniciens": [
+      "Bircher Alb.",
+      "Combremont Ernest",
+      "Combremont Fritz",
+      "Ruchat Henri"
+    ],
+    "Meubles (fabr. de)": [
+      "Matthey Rob."
+    ],
+    "Meunier": [
+      "Combremont Edouard"
+    ],
+    "Pompes funèbres du Nord": [
+      "Mayor Gustave"
+    ],
+    "Porcs (comm. de)": [
+      "Ruchat Alfr."
+    ],
+    "Primeurs": [
+      "Gentil Aug.",
+      "Marcuard Aug.",
+      "Ruchat Julie"
+    ],
+    "Radios": [
+      "Combremont Fritz"
+    ],
+    "Roseaux (tissage de, pour gypsiers)": [
+      "Bonny Henri"
+    ],
+    "Sage-femme": [
+      "Combremont Olga"
+    ],
+    "Scierie": [
+      "Combremont Edouard",
+      "Moulin"
+    ],
+    "Selliers-tapissiers": [
+      "Marcuard Willy",
+      "Rod Ernest"
+    ],
+    "Sociétés": [
+      "Chœur d'hommes",
+      "Fanfare La Lyre",
+      "Section de la Croix-Bleue",
+      "Section de l'Espoir",
+      "Sté d'agriculture",
+      "Sté de laiterie",
+      "Sté de tir Les Amis réunis",
+      "Sté de tir des bourgeois",
+      "Syndical d'élevage bovin",
+      "Union chrétienne de jeunes gens"
+    ],
+    "Tabacs": [
+      "Bircher Albert",
+      "Cusin Georges",
+      "Demierre Cyprien",
+      "Mayor Constant",
+      "Menétrey Emile",
+      "Ruchat Albert"
+    ],
+    "Tailleurs": [
+      "Bonny Jean",
+      "Mayor Fr."
+    ],
+    "Tissage de roseaux": [
+      "Bonny Hri."
+    ],
+    "Vélos-motos": [
+      "Combremont Fritz",
+      "Combremont Ernest"
+    ],
+    "Vannerie": [
+      "Cusin Georges"
+    ]
+  },
+  "GRANDEVENT": {
+    "Syndic": [
+      "Nussbaum Samuel"
+    ],
+    "Secrétaire": [
+      "Nussbaum Jean"
+    ],
+    "Boursier": [
+      "Giroud Agénor"
+    ],
+    "Huissier": [
+      "Jeanmonod Clément"
+    ],
+    "Municipaux": [
+      "Bornoz André",
+      "Bornoz René",
+      "Giroud Georges",
+      "Roulet Marcel"
+    ],
+    "Commandant du feu": [
+      "Tissot Ernest"
+    ],
+    "Commission scolaire": [
+      "Patte Pierre"
+    ],
+    "Garde-forestier": [
+      "Duvoisin Auguste"
+    ],
+    "Inspecteur du bétail": [
+      "Tissot Ernest"
+    ],
+    "Institutrice": [
+      "Meyer Marguerite"
+    ],
+    "Pasteur": [
+      "Patte Pierre"
+    ],
+    "Police (agent de)": [
+      "Bornoz Henri"
+    ],
+    "Poste": [
+      "Roulet Louis"
+    ],
+    "Agriculteurs": [
+      "Bornoz René",
+      "Dannelet Charly",
+      "Giroud",
+      "hoirie Haller",
+      "hoirie Jeanmonod Clément",
+      "Kohler Edm.",
+      "Nussbaum Jean",
+      "Nussbaum Samuel",
+      "Nussbaum Marcel",
+      "Ray Oscar",
+      "Riem Alfr.",
+      "Roulet Henri",
+      "Roulet Victor",
+      "Simon Emma",
+      "Tissot Ernest",
+      "Tissot Oscar"
+    ],
+    "Amodiateur": [
+      "Simon John"
+    ],
+    "Apiculteur": [
+      "Riem Alfred"
+    ],
+    "Café": [
+      "Roulet Marcel"
+    ],
+    "Laitier": [
+      "Allisson Fritz"
+    ],
+    "Menuisiers-charpentiers": [
+      "Bornoz Hri",
+      "Bornoz André",
+      "Roulet Marcel"
+    ],
+    "Divers": [
+      "Goumaz Pierre",
+      "Monod Adèle"
+    ]
+  }
+}

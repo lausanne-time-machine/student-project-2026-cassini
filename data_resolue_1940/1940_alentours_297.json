@@ -1,0 +1,374 @@
+{
+  "VILLARS-BRAMARD": {
+    "Café.": [
+      "Müri Ernest"
+    ],
+    "Couturière": [
+      "Duc Marguerite"
+    ],
+    "Epicerie": [
+      "Fattebert Alfred"
+    ],
+    "Pompes funèbres du Nord": [
+      "Delisle Louis"
+    ],
+    "Sociétés": [
+      "Sté de fromagerie. R.",
+      "Sté du four. R.",
+      "Sté du battoir à blé. R.",
+      "Sté du Cercle Les Amis du Pied de la Côte. R.",
+      "Sté de chant Union du Jura. R.",
+      "Sté coopérative de consommation. RT.",
+      "Sté de fromagerie. R."
+    ],
+    "Pépiniériste": [
+      "Duvoisin Auguste"
+    ],
+    "Sage-femme": [
+      "Paul Marguerite"
+    ],
+    "Sellier-tapissier": [
+      "Roulet Gilbert"
+    ],
+    "Vigneron": [
+      "Duvoisin Auguste"
+    ],
+    "Vitrier": [
+      "Guenot Edouard"
+    ]
+  },
+  "VILLARS-BURQUIN": {
+    "Syndic": [
+      "Guenot Ed."
+    ],
+    "Secrétaire": [
+      "Duvoisin Maurice"
+    ],
+    "Boursier": [
+      "Simon Maurice"
+    ],
+    "Huissier": [
+      "Roulet René"
+    ],
+    "Municipaux": [
+      "Ray Alfred",
+      "Ray Jules",
+      "Simon Louis",
+      "Simon Robert. T."
+    ],
+    "Assesseur": [
+      "Guénot Edouard"
+    ],
+    "Cantonniers": [
+      "Périllard Alfred",
+      "Périllard Ami"
+    ],
+    "Chef des ection": [
+      "Duvoisin Aug. T."
+    ],
+    "Commandant du feu": [
+      "Simon Robert"
+    ],
+    "Commission scolaire": [
+      "Jaquemet Edm."
+    ],
+    "Garde-forestier": [
+      "Duvoisin Aug. T."
+    ],
+    "Inspecteur du bétail": [
+      "Ray Jules"
+    ],
+    "Instituteurs": [
+      "Schenkel Lucien",
+      "Duvoisin-Simon Jeanne"
+    ],
+    "Pasteur": [
+      "Hentsch William. T."
+    ],
+    "Poste et télégraphe": [
+      "Duvoisin Justin"
+    ],
+    "Téléphone": [
+      "Station communale au Cercle des Amis"
+    ],
+    "Agriculteurs": [
+      "Duvoisin, hoirie",
+      "Duvoisin Justin. T.",
+      "Favre Ernest",
+      "Hausamann Maurice",
+      "Hausamann Oscar",
+      "Jacquemet Edmond",
+      "Maulaz Edm.",
+      "Maulaz John",
+      "Maulaz Jules",
+      "Ray-Baatard Auguste",
+      "Ray Fernand",
+      "Ray Jules",
+      "Ray Louis",
+      "Ray Marcel",
+      "Ray Oscar",
+      "Roulet Ernest",
+      "Roulet frères",
+      "Simon hoirie",
+      "Simon Louis",
+      "Simon Robert"
+    ],
+    "Amodiateur": [
+      "Société d'alpage"
+    ],
+    "Apiculteurs": [
+      "Maulaz Jules",
+      "Roulet Gilbert"
+    ],
+    "Appareilleur": [
+      "Hartmann Adolphe"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite"
+    ],
+    "Bois (comm. de)": [
+      "Ray Auguste",
+      "Ray Fernand",
+      "Ray Jules",
+      "Ray Oscar"
+    ],
+    "Boulanger": [
+      "Roulet Gilbert. T."
+    ],
+    "Cafés": [
+      "Duvoisin Clara",
+      "Simon Robert"
+    ],
+    "Charron": [
+      "Guenot Edouard"
+    ],
+    "Cordonnier": [
+      "Ray Marcel"
+    ],
+    "Couturières": [
+      "Duvoisin-Cochand Marguerite",
+      "Simon-Ray Ida"
+    ],
+    "Entrepreneur": [
+      "Dolci Charles"
+    ],
+    "Epicerie-mercerie": [
+      "Coop. cons. RT."
+    ],
+    "Laitier, fromages": [
+      "Duvoisin Rob. RT."
+    ],
+    "Maréchal-forgeron": [
+      "Hartmann Ad."
+    ],
+    "Porcs (comm. de)": [
+      "Duvoisin Rob. T."
+    ]
+  },
+  "VILLARS-EPENEY": {
+    "Syndic": [
+      "Roulier P. T."
+    ],
+    "Secrétaire": [
+      "Vuagniaux Georges"
+    ],
+    "Boursier": [
+      "Gondoux Alfred. T."
+    ],
+    "Huissier": [
+      "Favre Robert"
+    ],
+    "Municipaux": [
+      "Favre Albert",
+      "Gondoux Alfred"
+    ],
+    "Cantonnier": [
+      "Duruz Robert"
+    ],
+    "Command. du feu": [
+      "Gondoux Edm."
+    ],
+    "Garde-forestier": [
+      "Marendaz Marcel"
+    ],
+    "Inspecteur du bétail": [
+      "Gondoux A."
+    ],
+    "Poste": [
+      "''"
+    ],
+    "Téléphone": [
+      "Station communale"
+    ],
+    "Agriculteurs": [
+      "Cornamusaz John",
+      "Correvon Marcel",
+      "Favre Alfred. T.",
+      "Gondoux Alfred",
+      "Roulier frères",
+      "Roulier Jean",
+      "Vuagniaux Emile"
+    ],
+    "Maçon": [
+      "Camoletto Félix"
+    ]
+  },
+  "VILLARS-LE-COMTE": {
+    "Syndic": [
+      "Pidoux Adrien"
+    ],
+    "Secrétaire": [
+      "Pidoux Fr."
+    ],
+    "Boursier": [
+      "Bulloz Edw."
+    ],
+    "Huissier": [
+      "Gilliéron Jules"
+    ],
+    "Municipaux": [
+      "Bulloz Edward",
+      "Druey Charles",
+      "Jaquier François",
+      "Martin Florian",
+      "Pidoux Adrien",
+      "Pidoux Willy",
+      "Pidoux Henri"
+    ],
+    "Commandant du feu": [
+      "Jaquier Franc."
+    ],
+    "Commission scolaire": [
+      "Druey Charles",
+      "Pidoux Ami"
+    ],
+    "Contrôleur du lait": [
+      "Bulloz Francis"
+    ],
+    "Garde forestier": [
+      "Martin Ami"
+    ],
+    "Inspecteur du bétail": [
+      "Bulloz Edward"
+    ],
+    "Inspecteur des viandes": [
+      "Bulloz Francis"
+    ],
+    "Instituteur": [
+      "Pahud Charles",
+      "Pidoux Rose"
+    ],
+    "Poste": [
+      "Pidoux Emma"
+    ],
+    "Téléphone": [
+      "Station communale"
+    ],
+    "Agriculteurs": [
+      "Bulloz Edward",
+      "Bulloz Fernand",
+      "Druey Eugène",
+      "Gosteli Jacob",
+      "Gilliéron-Jaquier J.",
+      "Jäggi Arnold",
+      "Jaquier François et Siméon",
+      "Joillet Auguste",
+      "Martin Florian",
+      "Martin Auguste",
+      "Motte Louis",
+      "Pidoux Adrien et Pierre",
+      "Pidoux Constant",
+      "Pidoux René",
+      "Pidoux-Centlivres Emile",
+      "Pidoux Henri et Ami",
+      "Pidoux-Chevalley Jean. T.",
+      "Pidoux Louis-Herbert",
+      "Pidoux Ls-Oscar. T.",
+      "Pidoux Franc. et Hector",
+      "Pidoux-Dutoit Ulysse",
+      "Pidoux-Dind Rosine",
+      "Sahli Ernest"
+    ],
+    "Apiculteurs": [
+      "Bulloz Edward",
+      "Bulloz Fernand",
+      "Pidoux Emma"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite"
+    ],
+    "Charpentier": [
+      "Pidoux Samuel"
+    ],
+    "Charron": [
+      "Pidoux Emile"
+    ],
+    "Cordonnier": [
+      "Trolliet Robert"
+    ],
+    "Epicerie-mercerie": [
+      "Jaquier-Pidoux J."
+    ],
+    "Ferblantier": [
+      "Bulloz Adolphe"
+    ],
+    "Pompes funèbres du Nord": [
+      "Pidoux Samuel"
+    ],
+    "Société": [
+      "Société de fromagerie. R."
+    ]
+  },
+  "VILLARS-LE-GRAND": {
+    "Syndic": [
+      "Bardet Henri"
+    ],
+    "Secrétaire": [
+      "Bardet Armand"
+    ],
+    "Boursier": [
+      "Monney Lucien"
+    ],
+    "Huissier": [
+      "Bardet Fernand"
+    ],
+    "Municipaux": [
+      "Bardet Georges",
+      "Jaunin Henri",
+      "Monney Robert",
+      "Spahr Jules"
+    ],
+    "Assesseur": [
+      "Monney Charles"
+    ],
+    "Cantonnier": [
+      "Monney Alfred"
+    ],
+    "Commission scolaire": [
+      "Jaunin Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Bardet Const."
+    ],
+    "Inspecteur des viandes": [
+      "Bardet René"
+    ],
+    "Instituteurs": [
+      "Ducommun Emile",
+      "Ducommun-Bornand Emma"
+    ],
+    "Poste": [
+      "Monney Madeleine"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs": [
+      "Bardet-Jaunin Louis",
+      "Bardet-Bardet Georges",
+      "Bardet-Blaser Louis",
+      "Bardet Constant"
+    ]
+  }
+}

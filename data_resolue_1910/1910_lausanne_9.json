@@ -1,0 +1,46 @@
+{
+  "LAUSANNE": {
+    "ASSURANCE-VIEILLESSE": [
+      "SUISSE (la)",
+      "Union (l')",
+      "Urbaine (l')",
+      "Soleil-Sécurité générale et responsabilité civile réunies (le)",
+      "Zurich (la)"
+    ],
+    "Contre les accidents.": [
+      "Alliance de Berlin",
+      "Assicuratrice (l'), Italiana",
+      "Assurance mutuelle Vaudoise contre les accidents",
+      "Bâloise (la)",
+      "Haut-Rhin",
+      "Helvétia, Assurance mutuelle suisse",
+      "Nationale suisse (la)",
+      "Préservatrice (la)",
+      "Providence (la)",
+      "Société suisse d'assurances la Winterthur"
+    ],
+    "Contre l'incendie.": [
+      "Alliance de Berlin",
+      "Assurance mutuelle cantonale contre l'incendie",
+      "Bâloise (la)",
+      "France (la)",
+      "Helvétia (l')",
+      "Nord (le)",
+      "Phœnix (le)",
+      "Union (l')",
+      "Urbaine (l')"
+    ],
+    "Contre le bris des glaces et vitrages.": [
+      "Cologne (la)",
+      "Haut-Rhin",
+      "Nationale suisse (la)",
+      "Union suisse (l')"
+    ],
+    "Contre les dégâts aux machines.": [
+      "Alliance de Berlin"
+    ],
+    "ATELIERS de CONSTRUCTION": [
+      "Bureau de Lausanne"
+    ]
+  }
+}

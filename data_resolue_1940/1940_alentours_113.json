@@ -1,0 +1,409 @@
+{
+  "GRANDSON": {
+    "Agriculteurs": [
+      "Ernest. T.",
+      "Perret Michel",
+      "Perrusset Jacques",
+      "Ray Louis",
+      "Wittwer François, Bru."
+    ],
+    "Ameublements": [
+      "Ingilby Henri, Vve",
+      "Troxler Henri"
+    ],
+    "Apiculteurs": [
+      "Capt Denis",
+      "Gasser Auguste"
+    ],
+    "Appareilleurs": [
+      "Bron Louis. T.",
+      "Morisetti Etienne. T."
+    ],
+    "Arboriculteur": [
+      "Francfort Louis"
+    ],
+    "Architecte": [
+      "Duvoisin André"
+    ],
+    "Atelier de construct.": [
+      "Staempfli Ls."
+    ],
+    "Assurances": [
+      "Zurich-accidents",
+      "Grossasso J.",
+      "Sté suisse de secours mutuels Heivétia",
+      "Cand Alfr.",
+      "Genevoise-vie",
+      "Beyler Maurice"
+    ],
+    "Assurance-vieillesse": [
+      "Retraites populaires cantonales",
+      "Guilloud Gust."
+    ],
+    "Autos-garages": [
+      "Cand frères",
+      "Landi Jean",
+      "Robert Henri"
+    ],
+    "Aviculteurs": [
+      "Giroud Edmond",
+      "Fankhauser Jules"
+    ],
+    "Banques": [
+      "Banque Cantonale Vaudoise",
+      "Braillard Victor",
+      "Crédit agricole de Grandson",
+      "Crédit Foncier Vaudois",
+      "Caisse d'Epargne Cantonale",
+      "Bornand Armand"
+    ],
+    "Bateaux (construct. de)": [
+      "Chantiers navals Louis Staempfli"
+    ],
+    "Bazars": [
+      "Denger Gottlieb",
+      "Ingilby Henri, Vve",
+      "Jeanprêtre Laure"
+    ],
+    "Bétail (march. de)": [
+      "Gaillard-Schneiter Jeanne"
+    ],
+    "Benzine, huiles et mazout": [
+      "Cand frères",
+      "Hucar S. A.",
+      "Laffely",
+      "Landi Jean"
+    ],
+    "Bois et charbons (comm. de)": [
+      "Cand frères",
+      "Landi Jean"
+    ],
+    "Bouchers": [
+      "Gaillard-Schneiter Vve",
+      "Gasser E."
+    ],
+    "Boulangers": [
+      "Duruz Hector",
+      "Jufer Fritz",
+      "Leuenberger F.",
+      "Mutrux Marcel",
+      "Tharin Germain"
+    ],
+    "Bricelets et biscuits": [
+      "Pahud Maurice"
+    ],
+    "Cafés": [
+      "Colomb Arthur",
+      "Cercle des Ouvriers",
+      "Genier Constant",
+      "café du Cheval-Blanc",
+      "Guggisberg Oscar",
+      "hôtel de la Gare",
+      "Haberbusch Gaston",
+      "café du Tonneau",
+      "Isely Eugène",
+      "café de la Charrue",
+      "Peissard Joseph",
+      "café-restaurant du Commerce",
+      "Magnin Gertrude",
+      "hôtel du Lion d'Or",
+      "Dupont Jean",
+      "café de la Croix-Blanche",
+      "Wacker Ami",
+      "hôtel de la Croix-Rouge"
+    ],
+    "Camionneurs": [
+      "Cand frères",
+      "Landi Jean"
+    ],
+    "Cercueils": [
+      "Candaux Edouard",
+      "Gerber Ernest"
+    ],
+    "Chapellerie": [
+      "Denger Gotthilft"
+    ],
+    "Charcuteries": [
+      "Desplands E. R.",
+      "Gaillard-Schneiter Vve"
+    ],
+    "Charpentier": [
+      "Candaux Edouard"
+    ],
+    "Chaussures": [
+      "Suter Emile"
+    ],
+    "Cigares et tabacs (manuf.)": [
+      "Henri Simon fils S. A.",
+      "Vautier frères et Cie",
+      "Walter fils et Cie"
+    ],
+    "Cigares et tabacs (fabrique de)": [
+      "S. A. Vautier frères & Cie"
+    ],
+    "Coiffeurs": [
+      "Bardet G.",
+      "Leuenberger Alex.",
+      "Sehmann Charles"
+    ],
+    "Combustibles": [
+      "Cand frères",
+      "Landi J."
+    ],
+    "Confections": [
+      "Kiener Fanny"
+    ],
+    "Confiseurs, crémeries": [
+      "Jufer Fritz",
+      "Leuenberger Frédéric",
+      "Mutrux Marcel"
+    ],
+    "Cordonniers": [
+      "Suter Emile",
+      "Vulliamy Ernest"
+    ],
+    "Courroies": [
+      "Wyss Pierre"
+    ],
+    "Couturières": [
+      "Devenoge-Jaques, Mme.",
+      "Robert-Maire, Mme."
+    ],
+    "Dentiste": [
+      "Waller André"
+    ],
+    "Drogueries": [
+      "Cornu Pierre",
+      "Francey Aloys"
+    ],
+    "Ebéniste": [
+      "Gerber Ern."
+    ],
+    "Encadrements": [
+      "Gerber E."
+    ],
+    "Antiquités": [
+      "Gerber E."
+    ],
+    "Désinfection meubles vermoulus": [
+      "Gerber E."
+    ],
+    "Electricité": [
+      "Société de l'Usine des Clées",
+      "M. Capt"
+    ],
+    "Encadreur": [
+      "Glardon Alfred"
+    ],
+    "Entrepreneurs": [
+      "Ballerini Albert",
+      "Walther Fernand"
+    ],
+    "Epiceries": [
+      "Capt Denis",
+      "Dengen Gottfr.",
+      "Jeanprêtre Laure",
+      "Ledermann Elise",
+      "Margot Ls",
+      "Roulet Louise, Vve.",
+      "Soc. Yverdoun. de consom."
+    ],
+    "Ferblantiers-couvreurs": [
+      "Bron Louis",
+      "Cochand Fernand",
+      "Morisetti J."
+    ],
+    "Fers (md de)": [
+      "Glardon Alfred"
+    ],
+    "Fromages": [
+      "Despland Ern.",
+      "Werly Charles"
+    ],
+    "Fruits (culture)": [
+      "Henchoz F.",
+      "Mermod Emile",
+      "Michel Alb."
+    ],
+    "Garages": [
+      "Cand frères",
+      "Landi Jean",
+      "Robert Henri"
+    ],
+    "Garde-malade": [
+      "Gasser B."
+    ],
+    "Géomètre": [
+      "Meige P."
+    ],
+    "Gypsiers": [
+      "Ballerini Albert",
+      "Ortelli Baptiste",
+      "Pozzi Baptiste",
+      "Walther Fernand"
+    ],
+    "Hongreur": [
+      "Fankhauser Jules"
+    ],
+    "Horloger-bijoutier": [
+      "Miéville Eug."
+    ],
+    "Horlogerie-Bijouterie-Lunetterie": [
+      "Miéville-Junod"
+    ],
+    "Horticulteur": [
+      "Francfort Louis"
+    ],
+    "Hôtels": [
+      "Hôtel de la Croix-Rouge",
+      "Wacker Ami",
+      "Hôtel de la Gare",
+      "Guggisberg O.",
+      "Hôtel du Lion d'Or",
+      "Marthaler Gertrude",
+      "Hôtel-pension Jacot W. & A."
+    ],
+    "Huiles et graisses industr.": [
+      "Hucar S.A.",
+      "Wyss Pierre"
+    ],
+    "Imprimeurs": [
+      "Cavin & Cie"
+    ],
+    "Institut de jeunes filles": [
+      "Les Marronniers",
+      "Germiquet A."
+    ],
+    "Jardiniers - maraîchers": [
+      "Francfort-Ruegg Louis",
+      "Girod Arnold",
+      "Matthey Roger",
+      "Mermod Emile"
+    ],
+    "Laitier": [
+      "Werly Charles"
+    ],
+    "Librairie": [
+      "Cavin & Cie"
+    ],
+    "Lingères": [
+      "Buchmann Bertha",
+      "Joly Suzanne",
+      "Kience Fanny"
+    ],
+    "Machines agricoles": [
+      "Glardon Alfred"
+    ],
+    "Machines à coudre": [
+      "Glardon Alfred"
+    ],
+    "Matériaux de constructions": [
+      "Cand frères",
+      "Landi Jean"
+    ],
+    "Matières isolantes": [
+      "Usines Lignat S. A."
+    ],
+    "Mécaniciens": [
+      "Robert René"
+    ],
+    "Médecin-chirurg.": [
+      "Bidlingmeyer J."
+    ],
+    "Menuisiers": [
+      "Candaux Edouard",
+      "Crausaz Emile",
+      "Gerber Ern.",
+      "Margot Henri"
+    ],
+    "Mercerie": [
+      "Dengen Gotthilft",
+      "Jeanprêtre Laure",
+      "Roulet Louise"
+    ],
+    "Meubles (fabr. de)": [
+      "Margot H."
+    ],
+    "Meunier": [
+      "S. A. Moulin agricole"
+    ],
+    "Modes": [
+      "Jeanprêtre Laure"
+    ],
+    "Notaires, gérances": [
+      "Crosasso Jean",
+      "Duvoisin Léon",
+      "Michaud François",
+      "Mermoud Rob."
+    ],
+    "Pensionnat de demoiselles": [
+      "Germiquet A."
+    ],
+    "Pharmacien": [
+      "Francey Aloys"
+    ],
+    "Pierriste": [
+      "Robert Arthur"
+    ],
+    "Poissons (comm. de)": [
+      "Dupuis Ls."
+    ],
+    "Primeurs": [
+      "Campiche Ami",
+      "Matthey Roger"
+    ],
+    "Produits chimiques": [
+      "Gerber Ern.",
+      "Pilet et Piaget",
+      "Scheller Remy"
+    ],
+    "Produits de nettoyage": [
+      "Longchamp Jules"
+    ],
+    "Professeur de musique": [
+      "Germiquet A."
+    ],
+    "Quincaillerie": [
+      "Glardon Alfred"
+    ],
+    "Radio": [
+      "Strehl R."
+    ],
+    "Ramonneur": [
+      "Cochand-Mermillod Ferd."
+    ],
+    "Relieurs": [
+      "Cavin & Cie"
+    ],
+    "Représentant": [
+      "Zwahlen Henri"
+    ],
+    "Revêtements (plaques de)": [
+      "Usine Lignat S. A."
+    ],
+    "Sage-femme": [
+      "Ray-Genicoud Louise"
+    ],
+    "Scieur": [
+      "Ray Louis"
+    ],
+    "Sellier": [
+      "Troxler Henri"
+    ],
+    "Serrurier": [
+      "Houst Georges"
+    ],
+    "Sociétés": [
+      "Chœur de dames Caecilia",
+      "Cercle de la Voile",
+      "Corps de musique de Grandson",
+      "Fonds de l'infirmerie des cercles de Grandson et de Concise",
+      "Football-Club",
+      "Section de la Croix-Bleue",
+      "Sté des Amis du tir",
+      "Sté de l'Abbaye des Mousquetaires",
+      "Sté d'alpage du Petit Beau-Regard",
+      "Sté de chant"
+    ]
+  }
+}

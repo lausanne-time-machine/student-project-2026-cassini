@@ -1,0 +1,385 @@
+{
+  "SOTTENS": {
+    "Municipaux": [
+      "Pelet Eugène",
+      "Porchet Alexis",
+      "Porchet-Chollet Constant",
+      "Vuagniaux Jean-Jules"
+    ],
+    "Cantonnier": [
+      "Curchod Edouard"
+    ],
+    "Commandant du feu": [
+      "Porchet Alexis"
+    ],
+    "Commission scolaire": [
+      "Dubrit René"
+    ],
+    "Inspecteur des viandes": [
+      "Porchet Sl."
+    ],
+    "Inspecteur du bétail": [
+      "Porchet-Choillet Constant"
+    ],
+    "Instituteurs": [
+      "Pache Marcel",
+      "Porchet-Fiaux Pauline"
+    ],
+    "Poste et télégraphe": [
+      "Dubrit René"
+    ],
+    "Téléphone": [
+      "Allisson Augustin"
+    ],
+    "Agriculteurs": [
+      "Auberson Marcel",
+      "Augsburger Auguste",
+      "Bissat Ed",
+      "Braillard John",
+      "Cosendai Alfred",
+      "Dubrit Gustave",
+      "Dubrit René",
+      "Guignet Constant",
+      "Jaton Albert",
+      "Porchet Alexis",
+      "Porchet Const.",
+      "Porchet Amy",
+      "Pelet frères",
+      "Thuillard Ern.",
+      "Vuagniaux Jean",
+      "Besuchet Richard",
+      "Buchs Gustave",
+      "Carrel Jules",
+      "Cholly Alfred",
+      "Cholly Gustave",
+      "Cholly Marcel",
+      "Collet Charles",
+      "Collet Eugène",
+      "Collet-Girardet Ls",
+      "Collet-Grin Louis",
+      "Cuanoud Aloys",
+      "Décombaz Edouard",
+      "Deytard Emile",
+      "Dind René",
+      "Girardet Marcel",
+      "Girardet Arthur",
+      "Girardet Edmond",
+      "Hoffer Louis",
+      "Junod Ami",
+      "Magnenat Eugène",
+      "Moser Ernest",
+      "Piguet Jules",
+      "Pittet Adolphe",
+      "Pittet Edouard",
+      "Pittet Eugène",
+      "Pittet Louis",
+      "Porchet frères",
+      "Porchet Gustave",
+      "Roy Ls"
+    ],
+    "Assurance cantonale contre l'incendie": [
+      "Besson Alexis"
+    ],
+    "Assurance cantonale contre la grêle": [
+      "Porchet Sam"
+    ],
+    "Café": [
+      "Germond Henri",
+      "Buchs Gustave",
+      "Burdet E"
+    ],
+    "Cordonnier": [
+      "Ducret Ulysse",
+      "Cuanoud Edouard"
+    ],
+    "Epicerie": [
+      "Crausaz Jean",
+      "Auberson Ulysse",
+      "Girardet Jules"
+    ],
+    "Fourches et rateaux (fabr. de)": [
+      "Braillard John"
+    ],
+    "Pompes funèbres du Nord": [
+      "Chevalley",
+      "Girardet Emile"
+    ],
+    "Station de T. S. F.": [
+      "Pièce Roland"
+    ],
+    "Assurance - vieillesse": [
+      "Francillon L."
+    ],
+    "Boulanger": [
+      "Perrin Gustave"
+    ],
+    "Charpentiers-menuisiers": [
+      "Magnenat E. et fils"
+    ],
+    "Charron": [
+      "Magnenat Eugène"
+    ],
+    "Couturière": [
+      "Magnenat Augusta"
+    ],
+    "Entrepreneurs": [
+      "Magnenat E. et fils"
+    ],
+    "Laitier": [
+      "Graber André"
+    ],
+    "Maraîcher": [
+      "Choily Fernand"
+    ],
+    "Maréchal": [
+      "Pavillard Henri"
+    ],
+    "Menuisier": [
+      "Girardet Emile"
+    ],
+    "Sociétés": [
+      "Machine à battre",
+      "Sté de fromagerie",
+      "Sté agricole et viticole",
+      "Syndicat d'élevage"
+    ],
+    "Divers": [
+      "Allisson Augustin"
+    ]
+  },
+  "SUCHY": {
+    "Syndic": [
+      "Collet Ch."
+    ],
+    "Secrétaire": [
+      "Porchet Gustave"
+    ],
+    "Boursier": [
+      "Girardet Arthur"
+    ],
+    "Huissier": [
+      "Collet-Grin Louis"
+    ],
+    "Municipaux": [
+      "Carrel Jules",
+      "Collet Ls",
+      "Hoffer Louis",
+      "Pittet Adolphe",
+      "Pittet Eugène",
+      "Roy Louis"
+    ],
+    "Assesseur": [
+      "Carrel Jules"
+    ],
+    "Chef de section": [
+      "Cholly Alfred"
+    ],
+    "Garde-forestier": [
+      "Léonnard Alfred"
+    ],
+    "Commandant du feu": [
+      "Carrel Jules"
+    ],
+    "Commission scolaire": [
+      "Hoffer Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Carrel Jules"
+    ],
+    "Inspecteur des viandes": [
+      "Carrel Jules"
+    ],
+    "Instituteurs": [
+      "Francillon Louis",
+      "Peitrequin Madeleine"
+    ],
+    "Pasteur": [
+      "Mauris Edouard"
+    ],
+    "Poste et télégraphe": [
+      "Girardet Adrien"
+    ]
+  },
+  "SUGNENS": {
+    "Syndic": [
+      "Brochon Louis"
+    ],
+    "Secrétaire": [
+      "Jaccoud Paul"
+    ],
+    "Boursier": [
+      "Brochon William"
+    ],
+    "Huissier": [
+      "Desarrens Edouard"
+    ],
+    "Municipaux": [
+      "Gindroz William",
+      "Hertig Henri",
+      "Jaton Adolphe"
+    ],
+    "Assesseur": [
+      "Brochon Paul"
+    ],
+    "Gare L.-E.-B. (chef de)": [
+      "Durussel, Mme."
+    ],
+    "Commandant du feu": [
+      "Dutoit fils"
+    ],
+    "Commission scolaire": [
+      "Dutoit Ulysse"
+    ],
+    "Garde forestier": [
+      "Jaccoud Jean"
+    ],
+    "Inspecteur du bétail": [
+      "Brochon William"
+    ],
+    "Instituteurs": [
+      "Monod Gustave",
+      "Pahud Edith",
+      "Lambelet Marie-Lse"
+    ],
+    "Pasteur": [
+      "Reymond Eugène"
+    ],
+    "Poste et télégraphe": [
+      "Brochon Louise"
+    ],
+    "Téléphone": [
+      "Gindroz Rosa"
+    ],
+    "Agriculteurs": [
+      "Brochon Louis",
+      "Brochon William",
+      "Brochon Paul et Francis",
+      "Burnens Lucien",
+      "Desarrens Edouard",
+      "Dutoit Albert",
+      "Dutoit Ulysse",
+      "Freymond Constant",
+      "Gindroz William",
+      "Jaccoud Adr.",
+      "Jaccoud Elie",
+      "Jaccoud Gustave",
+      "Jaccoud Louis",
+      "Jaccoud Maurice",
+      "Jaccoud Paul",
+      "Jaton Héli",
+      "Meige frères",
+      "Vauthey Alexis",
+      "Vauthey Gustave"
+    ],
+    "Apiculteurs": [
+      "Brochon Ls",
+      "Dutoit Albert",
+      "Jaccoud Elie",
+      "Jaton Héli",
+      "Meige Louisa, Mme."
+    ],
+    "Assurance-vieillesse": [
+      "Monod G."
+    ],
+    "Bétail (march. de)": [
+      "Dutoit Alb.",
+      "Dutoit Albert"
+    ],
+    "Charpentier-menuisier": [
+      "Hertig Melb."
+    ],
+    "Epicerie, mercerie": [
+      "Gindroz Rosa"
+    ],
+    "Laitier": [
+      "Neuschwander Paul"
+    ],
+    "Maréchal": [
+      "Neuschwander Louis"
+    ],
+    "Scierie": [
+      "Hertig-Melb."
+    ],
+    "Sociétés": [
+      "Sté de laiterie",
+      "Syndicat d'élevage"
+    ]
+  },
+  "SULLENS": {
+    "Députés du cercle": [
+      "Delacuisine Edmond",
+      "Piot Robert"
+    ],
+    "Syndic": [
+      "Dubauloz Charles"
+    ],
+    "Secrétaire": [
+      "Séchaud David"
+    ],
+    "Boursier": [
+      "Ramuz Aimé"
+    ],
+    "Huissier": [
+      "Ramuz Fernand"
+    ],
+    "Municipaux": [
+      "Laurent Henri",
+      "Martin Edouard",
+      "Ramuz Aimé",
+      "Simond Henri"
+    ],
+    "Commandant du feu": [
+      "Dubauloz Ami"
+    ],
+    "Commission scolaire": [
+      "Ramuz Aimé"
+    ],
+    "Contrôleur du lait": [
+      "Léderrey"
+    ],
+    "Garde-forestier": [
+      "Kohler Fritz"
+    ],
+    "Greffier": [
+      "Guerry André"
+    ],
+    "Inspecteur du bétail": [
+      "Dubauloz G."
+    ],
+    "Inspecteur des viandes": [
+      "Laurent Chs."
+    ],
+    "Instituteurs": [
+      "Pasche Louis",
+      "Pache-Peytregnet Charlotte"
+    ],
+    "Justice de paix": [
+      "Bommottet Henri",
+      "Guerry André",
+      "Dubrit Ernest",
+      "Gaudard-Bocion Emile",
+      "Montagnon Charles",
+      "Vullioud Hippolyte",
+      "Delespinasse Emile"
+    ],
+    "Officier d'état civil": [
+      "Dubauloz Gust."
+    ],
+    "Police (agent de)": [
+      "Pahud Henri"
+    ],
+    "Poste et télégraphe": [
+      "Séchaud Arm."
+    ],
+    "Téléphone": [
+      "Dubrit Charles"
+    ],
+    "Agriculteurs": [
+      "Aguet Louis",
+      "Badan Henri",
+      "Badan Louis",
+      "Badan Maurice",
+      "Bailly Edouard"
+    ]
+  }
+}

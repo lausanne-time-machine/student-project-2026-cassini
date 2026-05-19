@@ -1,0 +1,233 @@
+{
+  "Leysin": {
+    "Couturière": [
+      "Laurent Alice",
+      "Reymond Marie"
+    ],
+    "Epicerie, mercerie": [
+      "Lannaz Henri",
+      "Lauper Emma"
+    ],
+    "Inspecteur du bétail": [
+      "Guibert Aug."
+    ],
+    "Instituteur": [
+      "Pittet Louis"
+    ],
+    "Institutrice": [
+      "Perey Susanne"
+    ],
+    "Justice de paix": [
+      "De la Harpe Henri",
+      "Sauty Constant",
+      "Crottaz Louis",
+      "Grand Jules",
+      "Gonvers Henri"
+    ],
+    "Laitier": [
+      "Siegenthaler Walther"
+    ],
+    "Maréchal": [
+      "Hartmann Paul"
+    ],
+    "Officier d’état-civil": [
+      "Bujard Fernand"
+    ],
+    "Scierie": [
+      "Amaron Aloïs"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "du battoir à grains",
+      "de l’usine du Moulin"
+    ],
+    "Téléphone": [
+      "Hostettler Ulrich"
+    ]
+  },
+  "VUFFLENS-LE-CHATEAU": {
+    "Autorités communales": [
+      "Duruz Marius",
+      "Perez Alfred",
+      "Vuffray Auguste",
+      "Perey Georges",
+      "Vuffray Constant",
+      "Vuffray Rob.",
+      "Henriod Jules",
+      "Vuffray Léon",
+      "Vuffray Albert"
+    ],
+    "Agriculteurs": [
+      "Blaser Gottfried",
+      "Duruz Marius",
+      "Henriod L.",
+      "Mercier Ch.",
+      "Perey Louise",
+      "Rossier Ul.",
+      "Stoudmann",
+      "Vuffray Rob.",
+      "Vuffray Constant",
+      "Vuffray Ed.",
+      "Vuffray Albert",
+      "Vuffray Auguste"
+    ],
+    "Boulangerie": [
+      "Delafontaine Robert"
+    ],
+    "Café": [
+      "Cruchet François"
+    ],
+    "Charcutier": [
+      "Delapierre Henri"
+    ],
+    "Chef de gare": [
+      "Bovy Marc"
+    ],
+    "Commission scolaire": [
+      "Colomb Gustave",
+      "Vuffray Léon"
+    ],
+    "Epicerie, mercerie": [
+      "Bussy Henriette",
+      "Monnerat Adèle"
+    ],
+    "Facteur": [
+      "Bovy Marc"
+    ],
+    "Inspecteur du bétail": [
+      "Henriod Jules"
+    ],
+    "Instituteurs": [
+      "Sordet Louis",
+      "Maire-Rochat Eugénie"
+    ],
+    "Maréchal": [
+      "Candaux Ami"
+    ],
+    "Officier d'état civil": [
+      "Duruz Marius"
+    ],
+    "Pasteur": [
+      "Colomb Gustave"
+    ],
+    "Sage-femme": [
+      "Vuffray Elise"
+    ],
+    "Scierie": [
+      "Bregand L."
+    ],
+    "Sociétés": [
+      "du battoir à grains",
+      "de fromagerie de Vufflens et Chigny",
+      "de tir aux armes de guerre"
+    ],
+    "Téléphoniste": [
+      "Bussy Henriette"
+    ],
+    "Vignerons": [
+      "Baudin Gust.",
+      "Chevalier Robert",
+      "Guignard Louis fils",
+      "Guignard Louis, père",
+      "Viret Jules",
+      "Vuffray Léon",
+      "Vuffray César"
+    ],
+    "Divers": [
+      "de Saussure",
+      "Jaton Alfred",
+      "Monod Aloïs"
+    ]
+  },
+  "VULLIERENS": {
+    "Autorités communales": [
+      "Demont Adrien",
+      "Henry Samuel",
+      "Henry Arn.",
+      "Pelichet Marcel",
+      "Demont Armand",
+      "Demont Georges",
+      "Demont Ami",
+      "Henry-Pahud Alf.",
+      "Henry Eugène"
+    ],
+    "Agriculteurs": [
+      "Bourgeois Auguste",
+      "Demont Adrien",
+      "Demont Arm.",
+      "Demont Charles",
+      "Demont David",
+      "Demont Félicien",
+      "Demont Georges",
+      "Demont Julien",
+      "Gleyre Alexis",
+      "Henry Célestin",
+      "Henry Florian",
+      "Henry Edouard",
+      "Martigner Albert",
+      "de Mestral Henri",
+      "Moinat Fritz",
+      "Schläppi frères",
+      "Schopfer Louise"
+    ],
+    "Apiculteurs": [
+      "Henry André",
+      "Henry Florian"
+    ],
+    "Associations mutualistes de retraite": [
+      "Roulier Armand"
+    ],
+    "Auberge": [
+      "Vionnet Paul"
+    ],
+    "Boulanger": [
+      "Roggen Charles"
+    ],
+    "Boucher": [
+      "Henry-Pahud Alfred"
+    ],
+    "Commission scolaire": [
+      "Henry Arnold",
+      "Subilia Edouard",
+      "Demont Aimé"
+    ],
+    "Charpentier": [
+      "Dallinges Albert"
+    ],
+    "Epicerie": [
+      "Bally Maurice",
+      "Mercier Marie",
+      "Roggen Charles"
+    ],
+    "Inspecteur du bétail": [
+      "Mercier Ls."
+    ],
+    "Instituteurs": [
+      "Roulier Armand",
+      "Gervaix Fernande"
+    ],
+    "Jardinier": [
+      "Favre Emile"
+    ],
+    "Juge de paix": [
+      "Henry Arnold"
+    ],
+    "Maréchaux": [
+      "Monod Eugène",
+      "Ramuz Eugène"
+    ],
+    "Officier d’état-civil": [
+      "Henry Florian"
+    ],
+    "Pasteur": [
+      "Rochat André"
+    ],
+    "Poste": [
+      "Demont Edouard"
+    ],
+    "Rentiers": [
+      "de Mestral Henri",
+      "Schopfer Louise"
+    ]
+  }
+}

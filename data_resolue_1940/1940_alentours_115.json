@@ -1,0 +1,415 @@
+{
+  "GRANDVAUX": {
+    "Vignerons": [
+      "Beroud André",
+      "Bessat",
+      "Bessat Louis",
+      "Boch Hri",
+      "Bovard Aloïs",
+      "Bovard Gustave",
+      "Buttin Louis",
+      "Chappuis Oscar",
+      "Chappuis Aimé",
+      "Chappuis Rosa",
+      "Chappuis-Duflon Oscar",
+      "Chappuis Vincent",
+      "Chaubert Eug.",
+      "Chopard Marie",
+      "Cordey Jules",
+      "Crot Marcel",
+      "Crot frères",
+      "Crot Constant",
+      "Crot Charles",
+      "Cuénoud Aloïs",
+      "Cuénoud Félix, Vve",
+      "Devanthéry Ls.",
+      "Duboux Louise",
+      "Duboux Jules",
+      "Duflon-Crot Eugénie",
+      "Duflon Eug.",
+      "Duflon Hri père et fils",
+      "Emery Alice",
+      "Fauquex Louise",
+      "Fayet Henri",
+      "Fayet François",
+      "Fayet Marie, Vve",
+      "Fayet Willy",
+      "Fonjallaz Louis",
+      "Fonjallaz Maurice",
+      "Fonjallaz René",
+      "Genier Ulysse",
+      "Giddey Henri",
+      "Giddey Louis",
+      "Gindroz Aimé",
+      "Gindroz Henri",
+      "Gorjat Fanny",
+      "Gorjat René",
+      "Gorjat Louis",
+      "Gorjat Anna",
+      "Gorjat Ernest",
+      "Gorjat Fernand",
+      "Gorjat Frédéric",
+      "Hänni Louis",
+      "Jaques Aimé",
+      "Jomini Constant",
+      "Léderrey Eug.",
+      "Loup Maurice",
+      "Malherbe Georges",
+      "Marguerat Aimé",
+      "Michoud Henri",
+      "Mingard Jules",
+      "Monney Ch.",
+      "Monney René",
+      "Monnier G.",
+      "Noverraz Arthur",
+      "Noverraz Marcel",
+      "Palaz Georges",
+      "Panico André",
+      "Pantet Alfr.",
+      "Parisod Adèle",
+      "Parisod Alfred",
+      "Parisod Robert",
+      "Ponnaz Armand",
+      "Ponnaz Henri",
+      "Riccard Isaac",
+      "Riccard Julien",
+      "Riccard Marcus",
+      "Rod Henri",
+      "Serex François",
+      "Testuz Oscar",
+      "Teuscher Marcel",
+      "Vogel Samuel",
+      "Vuagniaux Paul"
+    ],
+    "Vins (march. de)": [
+      "Duflon Henri",
+      "Léderrey Eugène",
+      "Palaz Georges",
+      "Parisod Robert"
+    ],
+    "Divers": [
+      "Boch Hri",
+      "Bonnard G.",
+      "Buttin de Loës Louis",
+      "Chopard",
+      "Crot Marcel",
+      "Duflon Eugène",
+      "Faillettaz-L'Epée R.",
+      "de Favrat A.",
+      "Gorgerat",
+      "Helfer Edouard",
+      "Pettinerolli Frs",
+      "Rod H.",
+      "Radelfinger Ernest",
+      "Soguel A.",
+      "Teuscher Marcel"
+    ]
+  },
+  "GRANGES (Broie)": {
+    "Députés du cercle": [
+      "Crisinel Ulysse",
+      "Miéville Albert",
+      "Nicod L.-Aug."
+    ],
+    "Syndic": [
+      "Nicod Auguste"
+    ],
+    "Secrétaire": [
+      "Barbey Georges"
+    ],
+    "Boursier": [
+      "Barbey Ernest"
+    ],
+    "Huissier": [
+      "Cosandai Louis"
+    ],
+    "Municipaux": [
+      "Barbey Eugène",
+      "Clot Henri",
+      "Cuany Henri",
+      "Jordan Henri",
+      "Nicod Adrien",
+      "Nicod Js."
+    ],
+    "Cantonniers": [
+      "Bidiville Arthur",
+      "Bidiville Roger"
+    ],
+    "Chef de gare": [
+      "Chapallaz William"
+    ],
+    "Commandant du feu": [
+      "Rossat Adrien"
+    ],
+    "Commission scolaire": [
+      "Jordan Henri"
+    ],
+    "Garde-forestier": [
+      "Estoppey Héli"
+    ],
+    "Gendarmerie (poste)": [
+      "Santschy Ch.",
+      "Cœytaux Edmond"
+    ],
+    "Inspecteur du bétail": [
+      "Nicod Albert"
+    ],
+    "Inspecteur des viandes": [
+      "Bovay Ct."
+    ],
+    "Instituteurs": [
+      "Badan Armand",
+      "Oulevey Paul",
+      "Dumantheray Jeanne",
+      "Jöhr-Barrelet Elisabeth",
+      "Schnell Simone",
+      "Schmutz Anna",
+      "Robellaz Madeleine"
+    ],
+    "Justice de paix": [
+      "Galay Louis",
+      "Barbey Georges",
+      "Cosendai-Meylan Jules",
+      "Cornut Alfred",
+      "Nicod Adolphe",
+      "Vauthey Ul.",
+      "Potterat Jules"
+    ],
+    "Officier d'état-civil": [
+      "Barbey Georges"
+    ],
+    "Pasteurs": [
+      "Secretan Jean",
+      "Bonnard Fritz"
+    ],
+    "Police (agent de)": [
+      "Crausaz Daniel"
+    ],
+    "Prisons (géôlier)": [
+      "Terrin Eugène"
+    ],
+    "Surveillant des cours d'eau": [
+      "Clot Henri"
+    ],
+    "Poste et télégraphe": [
+      "Desmeules Ad."
+    ],
+    "Agriculteurs": [
+      "Balsiger Otto",
+      "Barbey Eugène",
+      "Barbey Paul",
+      "Barbey Ulysse",
+      "Barbey Charles",
+      "Bidiville Henri",
+      "Cherbuin Robert",
+      "Chevalley Aug.",
+      "Corthésy Paul",
+      "Cosendai Alfred",
+      "Cosendai Henri",
+      "Duc Albert",
+      "Duc Edmond",
+      "Duc Emile",
+      "Duc François",
+      "Estoppey Héli",
+      "Gander Emile",
+      "Gosteli Emile",
+      "Jordan Henri",
+      "Jossevel Auguste",
+      "Jossevel Jules",
+      "Mermoud Alexis",
+      "Nicod Albert",
+      "Nicod Adrien d'Elie",
+      "Nicod Adrien d'Auguste",
+      "Nicod Adolphe",
+      "Nicod Aimé",
+      "Nicod Ls-Auguste",
+      "Rossat Alphonse",
+      "Rossat Eugène",
+      "Rossat Adrien",
+      "Rothlisberger frères",
+      "Rossier Fernand",
+      "Saugy Emile",
+      "Terrin Alfred",
+      "Terrin Henri",
+      "Vuagniaux Louis"
+    ],
+    "Hameau de Brit": [
+      "Dind Jules",
+      "Duc Maurice",
+      "Duc Louis",
+      "Duc William",
+      "Jöhr Robert",
+      "Schlosser Frédéric",
+      "Terrin-Rey Marcel",
+      "Tharin Emile"
+    ],
+    "Agence de voyage": [
+      "Rapin F."
+    ],
+    "Agriculture (fournit. p. l')": [
+      "Nicod Auguste"
+    ],
+    "Ameublements": [
+      "Diserens Emile",
+      "Senn Roland"
+    ],
+    "Apiculteurs": [
+      "Barbey Ulysse",
+      "Cosandai Constant",
+      "Nicod Auguste",
+      "Savary André"
+    ],
+    "Appareilleurs": [
+      "Resin Alfred",
+      "Weber René",
+      "Rapin Martin"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Oulevey P."
+    ],
+    "Autos-garages": [
+      "de Blasio",
+      "Rapin Martin",
+      "Savary Ami",
+      "Weber René"
+    ],
+    "Aviculteurs": [
+      "Buttex Constant",
+      "Duc Louis",
+      "Nicod Aug.",
+      "Terrin Marcel",
+      "Savary André"
+    ],
+    "Banques": [
+      "Crédit Foncier et Caisse d'épargne",
+      "Barbey Ernest",
+      "Crédit Mutuel de Granges",
+      "Savary M."
+    ],
+    "Bétail (march. de)": [
+      "Ducotterd Fernand",
+      "Saugy Emile",
+      "Trüssel Jean"
+    ],
+    "Blanchisseuses": [
+      "Resin Louisa",
+      "Steinmann Marie"
+    ],
+    "Bouchers": [
+      "Marcuard Aug.",
+      "Rossier Robert"
+    ],
+    "Boulangers": [
+      "Cherbuin Victor",
+      "Cuany Henri",
+      "Knopfel Jean"
+    ],
+    "Briqueterie (dépôt de la briqueterie de Payerne)": [
+      "Valiton Frédéric"
+    ],
+    "Cafés": [
+      "Corminbœuf Marc",
+      "Pugin Jean",
+      "Marcuard Auguste",
+      "Mermoud Alexis",
+      "Hôtel de la Gare",
+      "Ducotterd Ida"
+    ],
+    "Camionneurs": [
+      "Catellani Angelino",
+      "Siegenthaler Charles"
+    ],
+    "Chapelleries": [
+      "Gilliéron Alfred",
+      "Pavarin Antoine"
+    ],
+    "Charcutiers": [
+      "Barbey Gustave",
+      "Marcuard Aug.",
+      "Piaget Ulrich",
+      "Ravenel René",
+      "Rossier Robert"
+    ],
+    "Charrons": [
+      "Bovet Charles",
+      "Stoll Auguse"
+    ],
+    "Chaussures": [
+      "Chabloz Eugénie",
+      "Sté Coopérative",
+      "Gilliéron Alfred",
+      "Pavarin Antoine"
+    ],
+    "Coiffeurs": [
+      "De Crouzaz Yvonne",
+      "Savary E. et dame",
+      "Tenthorey Charles"
+    ],
+    "Combustibles": [
+      "Gilliéron Alfred"
+    ],
+    "Confection": [
+      "Pasteur Marc",
+      "Valiton F.",
+      "Soc. coopérative"
+    ],
+    "Cordonniers": [
+      "Cachin Marcel",
+      "Cosendai Henri"
+    ],
+    "Couturières": [
+      "Pasche sœurs",
+      "Roux Julie",
+      "Tenthorey-Bettex Mme",
+      "Terrin Isabelle",
+      "Weber Lisette"
+    ],
+    "Ebénistes": [
+      "Roux Emile",
+      "Senn Roland"
+    ],
+    "Electricité": [
+      "Entrepr. Electr. Fribourg",
+      "Trolliet Georges",
+      "Weber René"
+    ],
+    "Entrepreneurs": [
+      "Catellani Adelino",
+      "Clot, hoirs d'Ernest",
+      "Jossevel Auguste",
+      "Righetti Ernest",
+      "Sertori Silvio"
+    ],
+    "Epicerie-mercerie": [
+      "Chabloz, Vve",
+      "Sté coop. de consommation",
+      "Desmeules François",
+      "Gilliéron Alfred",
+      "Pavarin Antoine",
+      "Piaget Ulrich",
+      "Tenthorey Jules"
+    ],
+    "Ferblantier": [
+      "Perret Emile"
+    ],
+    "Fers et quincaillerie": [
+      "Desmeules François",
+      "Gilliéron Alfr."
+    ],
+    "Fourches (fabr. de)": [
+      "Durussel Emile"
+    ],
+    "Fourrages": [
+      "Desmeules François",
+      "Nicod L.-A."
+    ],
+    "Grains et farines": [
+      "Moulins de Granges S. A."
+    ],
+    "Gypsiers-peintres": [
+      "Gilliand Arsène",
+      "Righetti Paul"
+    ]
+  }
+}

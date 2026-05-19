@@ -1,0 +1,274 @@
+{
+  "COTTENS": {
+    "Municipaux": [
+      "gny Constant",
+      "Piguet Jaques",
+      "Berney Benjamin"
+    ],
+    "Agriculteurs": [
+      "Cretegny Constant",
+      "Monnet Marius",
+      "Paquier Armand",
+      "Paquier Auguste",
+      "Pinguely Edouard",
+      "Rayroux Maurice",
+      "Schopfer Jules"
+    ],
+    "Apiculteur": [
+      "Cuendet Charles"
+    ],
+    "Aubergiste": [
+      "Rayroux Jenny, veuve"
+    ],
+    "Bétail (éleveurs de)": [
+      "Besson Louis",
+      "Bussy Henri",
+      "Métraux Jules"
+    ],
+    "Blanchisseuses": [
+      "Decollogny Marie",
+      "Schopfer Hélène"
+    ],
+    "Boulanger": [
+      "Berney Benjamin"
+    ],
+    "Charpentier": [
+      "Rochat William"
+    ],
+    "Commission scolaire": [
+      "Monnet Marius",
+      "Berney Benjamin",
+      "Borle Maurice"
+    ],
+    "Epicerie": [
+      "Mounoud Auguste"
+    ],
+    "Huilerie": [
+      "Monnet Alfred et Marius"
+    ],
+    "Inspecteur du bétail": [
+      "Mayor Constant"
+    ],
+    "Instituteur": [
+      "Zwahlen Louis"
+    ],
+    "Laitier": [
+      "Schwab Jacob"
+    ],
+    "Maréchal": [
+      "Truan Jules"
+    ],
+    "Menuisier-ébéniste": [
+      "Barbey Juste"
+    ],
+    "Meuniers": [
+      "Monnet Alfred et Marius"
+    ],
+    "Pensions": [
+      "Berney Jules",
+      "Berney Esther",
+      "Bussy Henri",
+      "Truan Jules"
+    ],
+    "Poste": [
+      "Challet Louis"
+    ],
+    "Rentiers": [
+      "Mahien Charles",
+      "Petitpierre Henri"
+    ],
+    "Sabots (fabr. de)": [
+      "Seillon Gustave"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Téléphoniste": [
+      "Bussy Henri"
+    ]
+  },
+  "CUARNENS": {
+    "Autorités communales": [
+      "Guyaz Lucien",
+      "Chappuis Antoine",
+      "Bovey Gustave",
+      "Chappuis Jules",
+      "Chappuis Robert",
+      "Chappuis-Baudin Henri",
+      "Chappuis Edouard",
+      "Clément Marius",
+      "Pouly François",
+      "Bovey Edouard",
+      "Chappuis Frank",
+      "Clément Emile"
+    ],
+    "Agriculteurs": [
+      "Bovey G.",
+      "Bovey frères",
+      "Braissant Adrien",
+      "Chappuis Edouard",
+      "Chappuis Henri",
+      "Chappuis Jean-Rodolphe",
+      "Chappuis frères",
+      "Chappuis frères",
+      "Clément Emile",
+      "Gaillard Julien",
+      "Mange Auguste",
+      "Pittet frères"
+    ],
+    "Aubergistes": [
+      "Clément-Chappuis Marius"
+    ],
+    "Bétail (march. de)": [
+      "Chappuis Henri-Victor",
+      "Chappuis-Baudin H."
+    ],
+    "Blanchisseuses": [
+      "Braissant Caroline",
+      "Clément Laure"
+    ],
+    "R": [
+      "Rochat frères"
+    ],
+    "Bois (march. de)": [
+      "Bovey Charles-François",
+      "Clément Ami",
+      "Chappuis frères"
+    ],
+    "Boulanger": [
+      "Pouly François"
+    ],
+    "Charpentiers": [
+      "Durussel J.",
+      "Dumauthioz Armand"
+    ],
+    "Charcutier": [
+      "Perroud Daniel"
+    ],
+    "Charron": [
+      "Chappuis Armand"
+    ],
+    "Commission scolaire": [
+      "Pittet Fernand",
+      "Chappuis Ernest"
+    ],
+    "Cordonniers": [
+      "Bonzon A.",
+      "Dubach Jean"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Maire Jules",
+      "Perroud Daniel",
+      "Pouly François"
+    ],
+    "Forestier de triage": [
+      "Chappuis Ernest"
+    ],
+    "Gypsier-peintre": [
+      "Romagnolo"
+    ],
+    "Huilerie": [
+      "Clément Ami"
+    ],
+    "Inspecteur du bétail": [
+      "Piguet Henri"
+    ],
+    "Instituteurs": [
+      "Girardet Edouard",
+      "Berzin Clémence"
+    ],
+    "Jardinier": [
+      "Clément Fernand"
+    ],
+    "Laitier": [
+      "Pittet Auguste"
+    ],
+    "Maréchal": [
+      "Boulaz Emile"
+    ],
+    "Meuniers": [
+      "Chappuis frères",
+      "Clément Ami"
+    ],
+    "Modiste": [
+      "Perroud, dame"
+    ],
+    "Pasteur": [
+      "Marguerat Charles"
+    ],
+    "Postes": [
+      "Chappuis Louis"
+    ],
+    "Rentiers": [
+      "Bovey Charles-F.",
+      "Bovey sœurs",
+      "Chappuis-Guex-Emile",
+      "Maurer Rose",
+      "Pittet Marie"
+    ],
+    "Repasseuse": [
+      "Clément Laure"
+    ],
+    "Scieurs": [
+      "Bovey Charles-François",
+      "Chappuis frères",
+      "Clément Ami"
+    ],
+    "Sellier": [
+      "Chappuis Louis"
+    ],
+    "Sociétés": [
+      "Société anonyme du poids public",
+      "De fromagerie",
+      "D'assurance du bétail bovin",
+      "Syndicat agricole"
+    ],
+    "Tailleuses": [
+      "Clément Lina",
+      "Clément Rosalie",
+      "Guyaz Eugénie"
+    ],
+    "Téléphoniste": [
+      "Perroud Daniel"
+    ],
+    "Tisserand": [
+      "Chappuis, veuve d'Henri"
+    ]
+  },
+  "DAILLENS": {
+    "Autorités communales": [
+      "Francillon Armand",
+      "Mercier Louis",
+      "Troillet Marc",
+      "Francillon Emile",
+      "Rolaz Georges",
+      "Troillet Louis",
+      "Cœytaux César",
+      "Delacuisine Louis",
+      "Tenthorey Emile",
+      "Crottaz-Troillet L.",
+      "Mercier-Favre Louis"
+    ],
+    "Agriculteurs": [
+      "Cœytaux H.",
+      "Croisier Jenny, veuve",
+      "Comtesse Emile",
+      "Comtesse Georges",
+      "Comtesse Louis",
+      "Delacuisine François-Louis",
+      "Delacuisine Louis",
+      "Dubrit Louis",
+      "Favre Louis",
+      "Gex-Rochat Charles",
+      "Isely Louis",
+      "Lugeon Ernest",
+      "Mercier Charlotte",
+      "Mercier Louise",
+      "Rochat Charles",
+      "Villard Armand"
+    ],
+    "Aubergiste": [
+      "Moser Théophile"
+    ]
+  }
+}

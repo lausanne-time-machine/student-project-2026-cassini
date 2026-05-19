@@ -1,0 +1,264 @@
+{
+  "SÉVERY": {
+    "Commission scolaire": [
+      "Girard Edouard",
+      "Lavanchy Aloïs"
+    ],
+    "Couturière": [
+      "Girard Rose"
+    ],
+    "Epicerie, mercerie": [
+      "Autier Alfred",
+      "Ramuz J."
+    ],
+    "Fourches et râteaux (fabr. de)": [
+      "Autier"
+    ],
+    "Inspecteur de bétail": [
+      "Girard Edouard"
+    ],
+    "Instituteur": [
+      "Guignard Charles"
+    ],
+    "Laitier": [
+      "Allenbach H. R."
+    ],
+    "Meunier": [
+      "Bovey Emile"
+    ],
+    "Sage-femme": [
+      "Besson Marie"
+    ],
+    "Société": [
+      "De fromagerie"
+    ]
+  },
+  "SULLENS": {
+    "Autorités communales": [
+      "Badan Louis",
+      "Badan Gustave"
+    ],
+    "Syndic": [
+      "Dubauloz François"
+    ],
+    "Agriculteurs": [
+      "Badan Gustave",
+      "Badan Louis",
+      "Badan Charles",
+      "Dubauloz François",
+      "Dubauloz Emile",
+      "Laurent Charles",
+      "Séchaud David",
+      "Séchaud Samuel",
+      "Reymond François"
+    ],
+    "Aubergistes": [
+      "Duflon Henri",
+      "Veyre Ls."
+    ],
+    "Blanchisseuse": [
+      "Séchaud Emma"
+    ],
+    "Boucher": [
+      "Badan Charles"
+    ],
+    "Boulanger": [
+      "Veyre Ls."
+    ],
+    "Charpentier": [
+      "Pittet Maxis"
+    ],
+    "Chef de section": [
+      "Dubauloz François"
+    ],
+    "Commission scolaire": [
+      "Candaux Jules",
+      "Reymond François"
+    ],
+    "Electriciens": [
+      "Société lausannoise d'électricité"
+    ],
+    "Entrepreneurs": [
+      "Bariatti Charles et Josué. R."
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Duflon H: R."
+    ],
+    "Inspecteur du bétail": [
+      "Laurent Charles"
+    ],
+    "Instituteurs": [
+      "Chabanel Armand",
+      "Jorand Eva"
+    ],
+    "Justice de paix": [
+      "Bocion-Joyet Eug.",
+      "Clavel Georges",
+      "Montagnon Charles",
+      "Girardet Constant",
+      "Corbaz François"
+    ],
+    "Maréchal": [
+      "Hoffer Auguste"
+    ],
+    "Officier d'état civil": [
+      "Badan Louis-Jules"
+    ],
+    "Sellier": [
+      "Badan Charles-François"
+    ],
+    "Sociétés": [
+      "De fromagerie. R",
+      "Syndicat agricole. R."
+    ],
+    "Tailleuses": [
+      "Ramuz Sophie",
+      "Puthod Marie"
+    ],
+    "Téléphoniste": [
+      "Duflon Henri"
+    ]
+  },
+  "VILLARS-LUSSERY": {
+    "Autorités communales": [
+      "Despland Maurice",
+      "Guillemin Louis fils"
+    ],
+    "Syndic": [
+      "Despland-Cavat Maurice"
+    ],
+    "Municipaux": [
+      "Séchaud Henri",
+      "Guillemin Vincent",
+      "Despland M.",
+      "Guillemin Vincent"
+    ],
+    "Agriculteurs": [
+      "Borgeaud Alexandre",
+      "Borgeaud Alfred",
+      "Chamot Marie",
+      "Despland M.",
+      "Despland-Cavat",
+      "Devenoge François",
+      "Gatabin Héli",
+      "Guillemin Charles",
+      "Guillemin Louis",
+      "Guillemin Vincent",
+      "Guillemin frères",
+      "Mermoud Charles",
+      "Mouquin Maurice",
+      "Peyrollaz Hélène",
+      "Peyrollaz Julie",
+      "Séchaud Henri"
+    ],
+    "Commission scolaire": [
+      "Despland-Cavat Maurice",
+      "Guillemin Vincent"
+    ],
+    "Institutrice": [
+      "Bastardot Clarisse"
+    ],
+    "Laitier": [
+      "Gerber Charles. R."
+    ],
+    "Pêcheurs": [
+      "Bastardot Jules",
+      "Guillemin Louis",
+      "Guillemin Henri"
+    ],
+    "Société": [
+      "De laiterie. R."
+    ]
+  },
+  "VUFFLENS-LA-VILLE": {
+    "Autorités communales": [
+      "Duperrut Ulysse",
+      "Benvegnin W."
+    ],
+    "Syndic": [
+      "Benvegnin Alfred"
+    ],
+    "Municipaux": [
+      "Duperrut Julien",
+      "Damond Auguste",
+      "Vougaz Emile",
+      "Meylan Charles",
+      "Duperrut Louis",
+      "Montagnon Emile",
+      "Benvegnin Louis",
+      "Benvegnin Ami"
+    ],
+    "Agriculteurs": [
+      "Benvegnin Alfred",
+      "Benvegnin Ami",
+      "Benvegnin Fernand",
+      "Duperrut Julien",
+      "Duperrut Constant",
+      "Duperrut Alfred",
+      "Golay Constant",
+      "Meylan Charles",
+      "Montagnon Ami",
+      "Montagnon Charles",
+      "Montagnon Emile",
+      "Vougaz Emile",
+      "Vullioud frères",
+      "Zuber Jacques"
+    ],
+    "Apiculteur": [
+      "Benvegnin Hermann"
+    ],
+    "Bétail (march. de)": [
+      "Duperrut Julien"
+    ],
+    "Bois (march. de)": [
+      "Duperrut Alfred",
+      "Vullioud frères"
+    ],
+    "Boucher": [
+      "Yersin Gabriel"
+    ],
+    "Boulanger": [
+      "Damond Auguste. R."
+    ],
+    "Cafetiers": [
+      "Damond Auguste. R",
+      "Parisod Gustave. R."
+    ],
+    "Charcutier": [
+      "Damond Auguste. R."
+    ],
+    "Charron": [
+      "Benvegnin William"
+    ],
+    "Chef de gare": [
+      "Croisier F."
+    ],
+    "Cordonnier": [
+      "Zavallone Bartoloméo"
+    ],
+    "Commission scolaire": [
+      "Benvegnin Alfred",
+      "Chaillet Ed.",
+      "Montagnon Charles"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Damond Auguste. R",
+      "Pichon Emma. R."
+    ],
+    "Etoffes": [
+      "Pichon Emma. R."
+    ],
+    "Filature et tissage": [
+      "Steiner-Pittet P. R."
+    ],
+    "Inspecteur du bétail": [
+      "Montagnon Ch."
+    ],
+    "Instituteur": [
+      "Michaud Paul"
+    ],
+    "Institutrice": [
+      "Rochat Louis"
+    ]
+  }
+}

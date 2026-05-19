@@ -1,0 +1,266 @@
+{
+  "GLION": {
+    "Hôtels-pensions": [
+      "sex, A.",
+      "Grand Hôtel de Caux",
+      "Mäder",
+      "H. Bellevue et Belvédère",
+      "Buchs, F., fils.",
+      "H. Champ-Fleury",
+      "Pfister, G.",
+      "H. de Glion",
+      "Kappeler, demoiselle.",
+      "H. du Parc",
+      "Haller, V.",
+      "H. des Rochers de Naye",
+      "Lugon, V.",
+      "H. du Midi",
+      "Reuteler, Ju-selle.",
+      "H. du Righi vaudois",
+      "Riechelmann-Heimberg",
+      "H. Victoria",
+      "Kupfer, frères."
+    ],
+    "Inspecteur du bétail": [
+      "Jordan, Henri."
+    ],
+    "Instituteurs": [
+      "Forestier, Elie",
+      "Henchoz, Paul",
+      "Chevalley, Henriette."
+    ],
+    "Jardinier": [
+      "Pfister, G."
+    ],
+    "Libraire-papetier": [
+      "Vodoz, Eugène"
+    ],
+    "Maréchal": [
+      "Vouillot, E."
+    ],
+    "Menuisier": [
+      "Pillet, Joseph."
+    ],
+    "Vins": [
+      "Burdet, F. R."
+    ],
+    "Voiturier": [
+      "Baumann, hoirie."
+    ]
+  },
+  "TERRITET": {
+    "Appareilleur": [
+      "Schnetzer, B."
+    ],
+    "Bains": [
+      "David"
+    ],
+    "Banque": [
+      "Banque de Montreux"
+    ],
+    "Bazars": [
+      "Egger, J.",
+      "Goldner, Louisa",
+      "Klefenz-Durgniat"
+    ],
+    "Blanchisseuses": [
+      "Terribilini, dame",
+      "Martin, Charles."
+    ],
+    "Bijoutier": [
+      "Roman-Mayer"
+    ],
+    "Bois": [
+      "Chessex, Marius."
+    ],
+    "Boucher": [
+      "Ammetter, veuve."
+    ],
+    "Boulangers": [
+      "Demont, A.",
+      "Falquier, Fanny.",
+      "Mosimann",
+      "Nobs."
+    ],
+    "Cafés": [
+      "Mounoud, Auguste.",
+      "Gallo, Charles",
+      "Manz",
+      "Terbelet, dame"
+    ],
+    "Cercueils": [
+      "Chessex, Marius."
+    ],
+    "Charpentier": [
+      "Mann."
+    ],
+    "Charronnage": [
+      "Nicolet, Ch."
+    ],
+    "Chaussures": [
+      "Englisch, T.",
+      "Loosli, J."
+    ],
+    "Chef des deux gares": [
+      "Villard, Nestor."
+    ],
+    "Cigares et tabacs": [
+      "Held, Gustave."
+    ],
+    "Coiffeurs": [
+      "Held, Gustave.",
+      "Egger, Jean."
+    ],
+    "Combustibles": [
+      "Chessex, Marius."
+    ],
+    "Confiseur": [
+      "Demont, A."
+    ],
+    "Constructeurs — mécaniciens": [
+      "Perdrisat, Blanc & Cie."
+    ],
+    "Cordonnier": [
+      "Englisch, T."
+    ],
+    "Couturières": [
+      "Held, sœurs",
+      "Débétaz, dame",
+      "Michaud, sœurs",
+      "Wolf, demoiselle",
+      "Perroud, sœurs"
+    ],
+    "Dentiste": [
+      "Lecoultre"
+    ],
+    "Doreur-encadreur": [
+      "Terribilini, Joachim."
+    ],
+    "Electricité": [
+      "Forces motrices de la Grande-Eau",
+      "Perdrisat, Blanc & Cie."
+    ],
+    "Entrepreneurs": [
+      "Buzzini, Robert",
+      "Forni, Jean"
+    ],
+    "Epicerie": [
+      "Chenaux, E.",
+      "Forni, Jean",
+      "Kléfenz-Durgniat",
+      "Rumpff, Jules"
+    ],
+    "Escrime, gymnastique": [
+      "Rouilly, E."
+    ],
+    "Ferblantiers": [
+      "Benoit & Dolder",
+      "Schnetzer."
+    ],
+    "Hôtels et pensions": [
+      "Grand Hôtel",
+      "Société immobilière",
+      "Bossy, F.",
+      "Hôtel Bon-Port",
+      "Kunz, J.",
+      "H. d'Angleterre",
+      "Portsch, F.",
+      "H. des Alpes",
+      "Société immobilière",
+      "Bossy, F.",
+      "H. Mont-Fleuri",
+      "Reiss, Fritz.",
+      "H.-P. Bristol",
+      "Jeannot",
+      "Hôtel du Lac",
+      "Manz, F.",
+      "H. Richelieu",
+      "Duvoisin, J.",
+      "Dario, P."
+    ],
+    "Jardinier": [
+      "Chambaz, Marius."
+    ],
+    "Librairie": [
+      "Schlesinger, E."
+    ],
+    "Magasins réunis": [
+      "Chessex, Ami"
+    ],
+    "Maréchal": [
+      "Hubscher."
+    ],
+    "Médecins": [
+      "Vuilleumier",
+      "Widmer, Dr"
+    ],
+    "Menuisier": [
+      "Staub."
+    ],
+    "Mercerie": [
+      "Besson, E. R.",
+      "Colas, dame"
+    ],
+    "Modes": [
+      "Chollet, dame",
+      "Kalbfuss, dame"
+    ],
+    "Pasteur": [
+      "Sankey"
+    ],
+    "Pensionnat": [
+      "Des Essarts."
+    ],
+    "Pharmacien": [
+      "Engelmann, K.-A."
+    ],
+    "Sanatorium": [
+      "Widmer, Dr"
+    ],
+    "Sculpteurs": [
+      "Morhardt",
+      "Négri",
+      "Uberti & Cie"
+    ],
+    "Serrurier": [
+      "Dolder, B."
+    ],
+    "Sociétés": [
+      "Sauvetage de Territet",
+      "Société du Territet-Glion-Naye",
+      "Société des forces motrices de la Grande-Eau"
+    ],
+    "Tailleurs": [
+      "Kraus",
+      "Sommer, Rob."
+    ],
+    "Tapissier": [
+      "Gillard, Eugène."
+    ],
+    "Vins": [
+      "Curtin, Alphonse."
+    ],
+    "Voiturier": [
+      "Mounoud, Auguste."
+    ],
+    "Divers": [
+      "Chessex, Ami",
+      "Christin, Jean",
+      "Maisey, dame",
+      "Pasteur, dlle."
+    ]
+  },
+  "VEYTAUX": {
+    "Autorités communales": [
+      "Capré, Jules",
+      "Vallotton, A.",
+      "Masson, Albert.",
+      "Chatelanat, Dr",
+      "Falquier, Henri",
+      "Masson, Henri",
+      "Falquier, Edmond",
+      "Tschumy, Adrien",
+      "Banque de Montreux"
+    ]
+  }
+}

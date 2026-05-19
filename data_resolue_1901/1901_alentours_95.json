@@ -1,0 +1,244 @@
+{
+  "GRANDVAUX": {
+    "Municipaux": [
+      "Ponuaz, Victor",
+      "Bovard, Jean-Louis",
+      "Henny, Abram",
+      "Molliex, Pierre",
+      "Parisod, Vincent",
+      "Palaz, Jules",
+      "Parisod, Aimé",
+      "Fayet, Gustave",
+      "Bessat, Auguste",
+      "Noverraz, Constant",
+      "Gay, Marc",
+      "Noël, François"
+    ],
+    "Auberges et cafés": [
+      "Chappuis, Samuel",
+      "Desfayes, Emma",
+      "Détraz, Constant",
+      "Duboux-Chollet, Louis",
+      "Lavanchy, Jaques",
+      "Léderrey, Bertha"
+    ],
+    "Boulangers": [
+      "Duflon, Eugène",
+      "Parisod, Aimé",
+      "Varidel, Philippe",
+      "Cosandey, Edmond",
+      "Etter",
+      "Grobéty, Charles",
+      "Marguerat, Sam.",
+      "Mennet",
+      "Marguerat, hoirs de Marc",
+      "Vuagniaux"
+    ],
+    "Charpentiers": [
+      "Marguerat, Aimé",
+      "Chappuis, Vincent",
+      "Chappuis, Louis. R",
+      "Joly, Gabriel",
+      "Lavanchy, Henri",
+      "Rod, Eugène"
+    ],
+    "Chef de gare": [
+      "Blanc",
+      "Eggimann"
+    ],
+    "Cordonniers": [
+      "Duboux, Alfred",
+      "Duboux Rodolphe",
+      "Bolomey, Jules",
+      "Marguerat, Sam.",
+      "Mennet, François",
+      "Penseyres",
+      "Soutter, Jacob",
+      "Thomas, Pierre & Emile",
+      "Wannaz, Auguste"
+    ],
+    "Entrepreneurs": [
+      "Bovard, Frédéric",
+      "Panico, Félix",
+      "Buche, Ls",
+      "Ganty, Louis-Alexis"
+    ],
+    "Epicerie, mercerie": [
+      "Desfayes, Emma",
+      "Duboux-Ziegler, Aloïs",
+      "Visinand, sœurs"
+    ],
+    "Facteurs": [
+      "Michoud, Henri",
+      "Parisod, Victor"
+    ],
+    "Inspecteurs du bétail": [
+      "Duboux, Constant",
+      "Jaques, Alfred",
+      "Bolomey, Louis",
+      "Diserens-Ducret, Henri"
+    ],
+    "Instituteurs": [
+      "Gonin, Louis",
+      "Ramuz, Robert",
+      "Martin, demoiselle",
+      "Ramuz, dame"
+    ],
+    "Lingère": [
+      "Forestier, Eléonore"
+    ],
+    "Machines agricoles": [
+      "Léderrey, frères"
+    ],
+    "Maréchaux": [
+      "Fayet, Henri-Samuel",
+      "Michoud",
+      "Testuz & fils"
+    ],
+    "Menuisier": [
+      "Oguey, David"
+    ],
+    "Poste": [
+      "Lavanchy, Eugénie"
+    ],
+    "Propriétaires": [
+      "Gorjat, Charles",
+      "Gorjat, Henri",
+      "Gorjat, Léa, dame",
+      "Gorjat, Sophie",
+      "Palaz, Susette",
+      "Ponnaz, Ls",
+      "Ponnaz, Victor",
+      "Riccard, veuve"
+    ],
+    "Rentier": [
+      "Choppard-Butticaz, Paul"
+    ],
+    "Serrurier": [
+      "Michoud, L."
+    ],
+    "Sociétés": [
+      "Association des propriétaires d'eau du Pont-de-Pierre",
+      "Société de fromagerie",
+      "Société de fromagerie du Tronchet",
+      "Syndicat agricole des Monts de Lavaux"
+    ],
+    "Tailleur": [
+      "Lavanchy, Auguste"
+    ],
+    "Tailleuses": [
+      "Lin, Henriette-Charlotte",
+      "Gindroz, Marie",
+      "Noverraz, demoiselle"
+    ],
+    "Téléphone communal": [
+      "Léderrey, Bertha-Elise"
+    ],
+    "Tuilier": [
+      "Dutoit"
+    ],
+    "Bazar": [
+      "Fornallaz, Frédéric"
+    ],
+    "Blanchisseuses": [
+      "Bolomey-Gehrig",
+      "Bolomey-Félix, dame",
+      "Delmonaco, sœurs",
+      "Mennet-Blanc, Adèle"
+    ],
+    "Bouchers": [
+      "Galley, Louis",
+      "Marguerat, A."
+    ],
+    "Cafés": [
+      "Aguet-Beck, veuve",
+      "Bron, Foscale",
+      "Delay, veuve",
+      "Domenjoz, Auguste",
+      "Emery, Gustave",
+      "Goy",
+      "Lavanchy, Edouard",
+      "Lole, Séverin",
+      "Marguerat, Jules",
+      "Paschoud, veuve d'Ami",
+      "Piccard, Alfred",
+      "Roget"
+    ],
+    "Cercle": [
+      "Cercle de l'Union"
+    ],
+    "Charcutiers": [
+      "Poget & Cie"
+    ],
+    "Chaussures (marchand)": [
+      "Gerber, Charlotte"
+    ],
+    "Chef de section": [
+      "Bujard, Maurice"
+    ],
+    "Coiffeurs": [
+      "Fornallaz, Frédéric",
+      "Pfister, Emile"
+    ],
+    "Comestibles": [
+      "Chappuis, Fanny"
+    ],
+    "Confiseurs-pâtissiers": [
+      "Etter",
+      "Marguerat, hoirs de Marc"
+    ],
+    "Couvreurs": [
+      "Baudet-Blanc",
+      "Picconi, E."
+    ],
+    "Epicerie": [
+      "Bastian-Vivian, Auguste",
+      "Bolomey, Fernand",
+      "Bolomey, Louis",
+      "Brélaz, Jean-Louis",
+      "Cuénoud, Victor",
+      "Mazurri, Jean",
+      "Marguerat-Aguet, Julie",
+      "Martinoni, Louise",
+      "Paschoud, Lydie",
+      "Tissot, Georgette"
+    ],
+    "Etoffes": [
+      "Fischer, Jean",
+      "Gerber, Charlotte",
+      "Tissot-Brélaz, Georgette"
+    ],
+    "Ferblantiers": [
+      "Baudet-Blanc",
+      "Picconi, E."
+    ],
+    "Fers (marchand)": [
+      "Jaccottet, Henri"
+    ],
+    "Géomètres brevetés": [
+      "Blanc, Charles",
+      "Paschoud, Auguste"
+    ],
+    "Gypsiers": [
+      "Bastian, Aug.",
+      "Bolomey, Samuel"
+    ],
+    "Horloger": [
+      "Lavanchy, Etienne"
+    ],
+    "Horticulteurs": [
+      "Burnier & Duvoisin"
+    ],
+    "Hôtel": [
+      "Hurni, H."
+    ],
+    "Huissier de paix": [
+      "Brélaz, Jean-Louis"
+    ]
+  },
+  "LUTRY": {
+    "Autorités communales": [
+      "Lavanchy, Léon"
+    ]
+  }
+}

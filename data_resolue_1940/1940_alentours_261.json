@@ -1,0 +1,401 @@
+{
+  "SEDEILLES": {
+    "Command. du feu": [
+      "Goumaz Arthur"
+    ],
+    "Commission scolaire": [
+      "Goumaz Arthur",
+      "Cornut Alfr."
+    ],
+    "Garde-forestier": [
+      "Pages Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Goumaz Arth."
+    ],
+    "Inspect. des viandes": [
+      "Goumaz Arth."
+    ],
+    "Instituteurs": [
+      "Buttex Emmanuel",
+      "Baudraz Lisette"
+    ],
+    "Police (agent de)": [
+      "Badoux Louis"
+    ],
+    "Poste": [
+      "Chassot Henri"
+    ],
+    "Téléphone": [
+      "Morattel Marcel"
+    ],
+    "Agriculteurs": [
+      "Badoux Louis",
+      "Bersier Jean",
+      "Besson Edmond",
+      "Cachin Robert",
+      "Cornut Alfred",
+      "Dayras Alf.",
+      "Goumaz Adrien",
+      "Goumaz Aloys",
+      "Goumaz Arthur",
+      "Goumaz Louis",
+      "Goumaz Paul",
+      "Goumaz Ernest",
+      "Miéville Albert",
+      "Miéville Louis",
+      "Morattel Louis",
+      "Peytegnet Robert",
+      "Roux Oscar",
+      "Savary Henri",
+      "Schlaubitz René"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Buttex Emmanuel"
+    ],
+    "Bétail (march. de)": [
+      "Goumaz Adrien"
+    ],
+    "Boulanger": [
+      "Gobet Jules"
+    ],
+    "Café": [
+      "Ropraz Aline"
+    ],
+    "Charcutier": [
+      "Goumaz Alfred"
+    ],
+    "Charron": [
+      "Glannaz Alexandre"
+    ],
+    "Couturières": [
+      "Morattel Lucie",
+      "Savary Esther"
+    ],
+    "Entrepreneurs-maçons": [
+      "Magistrini André",
+      "Salomon Ernest"
+    ],
+    "Epiceries": [
+      "Gobet Jules",
+      "Juvet Juliette",
+      "Morattel Jeanne"
+    ],
+    "Laitier": [
+      "Perrin Edouard"
+    ],
+    "Menuisier": [
+      "Goumaz Henri"
+    ],
+    "Pompes funèbres du Nord": [
+      "Grognuz Ulysse"
+    ],
+    "Porcs (comm. de)": [
+      "Perrin Edouard"
+    ],
+    "Sociétés": [
+      "Sté de fromagerie",
+      "Sté du battoir à blé",
+      "Syndicat agricole",
+      "Caisse d'assurance du bétail bovin"
+    ],
+    "Tricotage mécanique": [
+      "Morattel Lse."
+    ]
+  },
+  "SEIGNEUX": {
+    "Syndic": [
+      "Pasche Alcide"
+    ],
+    "Secrétaire": [
+      "Vauthey A."
+    ],
+    "Boursier": [
+      "Cosandey Fernand"
+    ],
+    "Huissier": [
+      "Vauthey Jules"
+    ],
+    "Municipaux": [
+      "Cachin Eugène",
+      "Cosandey Albert",
+      "Cachin Albert",
+      "Wist Jean"
+    ],
+    "Commandant du feu": [
+      "Vauthey Armand"
+    ],
+    "Commission scolaire": [
+      "Vauthey Armand"
+    ],
+    "Garde-forestier": [
+      "Cosandey Albert"
+    ],
+    "Inspect. du bétail": [
+      "Trolliet Camille"
+    ],
+    "Inspect. des viandes": [
+      "Vauthey Ul."
+    ],
+    "Instituteurs": [
+      "Baillif Adrien",
+      "Débaz-Aguet"
+    ],
+    "Police (agent de)": [
+      "Vauthey Jules"
+    ],
+    "Téléphone": [
+      "café Vaudois"
+    ],
+    "Agriculteurs": [
+      "Cachin Albert",
+      "Cachin Arthur",
+      "Cachin Eugène",
+      "Déglon Aloys",
+      "Dovat W.",
+      "Durussel Aimé",
+      "Gâschen Fritz",
+      "Pasche Robert",
+      "Schwab Ernest",
+      "Tenthorey Eugène",
+      "Trolliet Alfred",
+      "Trolliet Emile",
+      "Vauthey Adolphe",
+      "Vauthey Armand",
+      "Vauthey Jules",
+      "Vauthey Ulysse",
+      "Wist Jean"
+    ],
+    "Hameau : Aux 13 Cantons": [
+      "Bovey Fernand",
+      "Cachin-Nydegger",
+      "Cosandey Albert",
+      "Cosandey Fernand",
+      "Droux Roger",
+      "Durussel Nancy",
+      "Pasche Alcide",
+      "Pittet Emile",
+      "Rey Ernest",
+      "Wist Henri"
+    ],
+    "Apiculteurs": [
+      "Baillif Adrien",
+      "Cachin Albert",
+      "Dovat William",
+      "Schwab Ernest",
+      "Tenthorey Eugène",
+      "Vauthey Adolphe"
+    ],
+    "Auto-garage": [
+      "Francey Ch."
+    ],
+    "Associations mutualistes de retraite": [
+      "Baillif Ad."
+    ],
+    "Banque": [
+      "Crédit mutuel",
+      "Vauthey Armand"
+    ],
+    "Bois (comm. de)": [
+      "Rey Ernest"
+    ],
+    "Café": [
+      "Vauthey Alfred",
+      "Café Vaudois"
+    ],
+    "Couturières": [
+      "Durussel Alice",
+      "Trolliet Anne-Marie"
+    ],
+    "Epiceries, merceries": [
+      "Lambelet Claire",
+      "Schwab Ernest"
+    ],
+    "Laiterie": [
+      "Société de laiterie"
+    ],
+    "Maréchal": [
+      "Bovey Fernand"
+    ],
+    "Mécanicien, vélos, motos": [
+      "Francey Ch."
+    ],
+    "Orchestre Florida": [
+      "Trolliet Bertr."
+    ],
+    "Porcs (comm. de)": [
+      "Bovey Lina"
+    ],
+    "Représentants": [
+      "Fahrni Adrien",
+      "Trolliet Bertrand"
+    ],
+    "Scieur": [
+      "Rey Ernest"
+    ],
+    "Sélectionneurs": [
+      "Dovat William",
+      "Trolliet-Bovey E."
+    ],
+    "Sociétés": [
+      "Sté de fromagerie",
+      "Crédit agricole",
+      "Syndicat agricole",
+      "Assurance du bétail"
+    ]
+  },
+  "SENARCLENS": {
+    "Syndic": [
+      "Gleyre Ernest"
+    ],
+    "Secrétaire": [
+      "Brun Gustave"
+    ],
+    "Boursier": [
+      "Linder Louis"
+    ],
+    "Huissier": [
+      "Cevey Henri"
+    ],
+    "Municipaux": [
+      "Brun Hermann",
+      "Courvoisier Ulysse",
+      "Rochat Charles",
+      "Vidoudez Jules"
+    ],
+    "Assesseur": [
+      "Gleyre Ernest"
+    ],
+    "Commandant du feu": [
+      "Mange Louis"
+    ],
+    "Commission scolaire": [
+      "Linder Ls"
+    ],
+    "Contrôleur du lait": [
+      "Gleyre Ern."
+    ],
+    "Garde-forestier": [
+      "Berge Gustave"
+    ],
+    "Inspecteur du bétail": [
+      "Dupuis Ern."
+    ],
+    "Instituteurs": [
+      "Dutoit André",
+      "Dutoit-Charlet Irène"
+    ],
+    "Police (agent de)": [
+      "Neuenschwander François"
+    ],
+    "Poste": [
+      "Brun Lucien"
+    ],
+    "Agriculteurs": [
+      "Berney John",
+      "Brun Lucien",
+      "Brun frères",
+      "Courvoisier Ulysse",
+      "Dumauthioz frères",
+      "Dupuis Frédéric",
+      "Dupuis Henri",
+      "Gleyre Ch.",
+      "Gleyre Ernest",
+      "Guerry, Vve de Constant",
+      "Linder Louis",
+      "Mange Ls",
+      "Prodolliet frères",
+      "Rochat Ch.",
+      "Savary Marcel"
+    ],
+    "Apiculteurs": [
+      "Dupuis René",
+      "Gleyre Ch.",
+      "Gleyre Maurice",
+      "Linder Ls",
+      "Mange Marius"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Dutoit André"
+    ],
+    "Café": [
+      "Oberli M."
+    ],
+    "Couturières": [
+      "Brun Yvonne",
+      "Dupuis Suzanne",
+      "Guerry Hélène"
+    ],
+    "Epicerie-mercerie": [
+      "Oberli Marc"
+    ],
+    "Laitier": [
+      "Simond Charles"
+    ],
+    "Maréchal": [
+      "David Henri"
+    ],
+    "Société": [
+      "Sté de fromagerie"
+    ]
+  },
+  "SERGEY": {
+    "Syndic": [
+      "Gaillard Louis-Alexis"
+    ],
+    "Secrétaire": [
+      "Gaillard Louis-Maurice"
+    ],
+    "Boursier": [
+      "Zoëll Maurice"
+    ],
+    "Huissier": [
+      "Gaillard Roger"
+    ],
+    "Municipaux": [
+      "Buffat André",
+      "Gaillard Arnold",
+      "Gaillard Camille",
+      "Gaillard Jules"
+    ],
+    "Commandant du feu": [
+      "Gaillard Numa"
+    ],
+    "Commission scolaire": [
+      "Gaillard Jules"
+    ],
+    "Contrôleurs du lait": [
+      "Gaillard Gustave",
+      "Gaillard Louis-Alexis"
+    ],
+    "Garde forestier": [
+      "Favre Gustave"
+    ],
+    "Inspecteur du bétail": [
+      "Deriaz Maur."
+    ],
+    "Police (agent de)": [
+      "Gaillard François"
+    ],
+    "Téléphone": [
+      "Gaillard Henri"
+    ],
+    "Agriculteurs": [
+      "Buffat André",
+      "Dériaz Maurice",
+      "Gaillard Agénor",
+      "Gaillard Bernard",
+      "Gaillard Emile",
+      "Gaillard frères",
+      "Gaillard Hri.",
+      "Gaillard Lucien",
+      "Gaillard Marcel",
+      "Gaillard Numa",
+      "Gaillard Paul",
+      "Zoëll Ch.",
+      "Zoëll Edouard"
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "CHATEAU-D'ŒX": {
+    "Epicerie": [
+      "Bertholet",
+      "Chabloz-Scherrer",
+      "Dubuis-Yersin",
+      "Henchoz",
+      "Lenoir",
+      "Lœrtscher, Charles",
+      "Margot",
+      "Morier-Bricod",
+      "Mollien",
+      "Morier-Guerraz",
+      "Morier-Genoud",
+      "Rubin",
+      "Société de consommation"
+    ],
+    "Fers": [
+      "Bertholet",
+      "Dubuis-Yersin",
+      "Burri",
+      "Henchoz-Yersin"
+    ],
+    "Ferblantiers": [
+      "Dubuis-Yersin",
+      "Henchoz-Yersin",
+      "Favre",
+      "Isoz",
+      "Lœrtscher",
+      "Morier"
+    ],
+    "Fourrures": [
+      "Morier",
+      "Simon"
+    ],
+    "Fromageries": [
+      "Bricod",
+      "Société de la fromagerie de Château-d'Œx"
+    ],
+    "Gypsier": [
+      "Moschini"
+    ],
+    "Horlogerie": [
+      "Chabloz, L.-S.",
+      "Morier-Bricod"
+    ],
+    "Imprimeurs": [
+      "Favrod-Coune",
+      "Roch"
+    ],
+    "Inspecteurs des montagnes": [
+      "Bertholet",
+      "de Kænel"
+    ],
+    "Instituteurs primaires": [
+      "Noisette",
+      "Forel",
+      "Gétaz",
+      "Delacuisine",
+      "Paillard",
+      "Bovay",
+      "Challand",
+      "Bertholet",
+      "Morier-Meylan",
+      "Turrian",
+      "Corthésy"
+    ],
+    "Instituteurs secondaires": [
+      "Jaccard",
+      "Ganty",
+      "Morier",
+      "Morier-Genoud",
+      "Viret"
+    ],
+    "Justice de paix": [
+      "Roch",
+      "Gétaz",
+      "Bricod",
+      "Jornayvaz",
+      "Berthod",
+      "Dubuis"
+    ],
+    "Librairie": [
+      "Gétaz"
+    ],
+    "Lumière électrique": [
+      "Société électrique du Pays-d'Enhaut"
+    ],
+    "Maréchaux": [
+      "Burri",
+      "Morier",
+      "Morier",
+      "Roch"
+    ],
+    "Médecin": [
+      "Favrod-Coune"
+    ],
+    "Menuisiers": [
+      "Bach",
+      "Cardis",
+      "Cottier",
+      "Gétaz",
+      "Henchoz",
+      "Simon",
+      "Wehren"
+    ],
+    "Mercerie": [
+      "Chabloz-Scherrer",
+      "Henchoz-Yersin",
+      "Lœrtscher, Charles",
+      "Morier",
+      "Morier-Bricod, H.",
+      "Morier-Genoud",
+      "Morier-Isoz",
+      "Rubin",
+      "Simon"
+    ],
+    "Modistes": [
+      "Morier",
+      "Simon"
+    ],
+    "Notaires": [
+      "Boruet",
+      "Dubuis-Martin",
+      "Favrod-Coune"
+    ],
+    "Officiers d'état civil": [
+      "Chabloz",
+      "Henchoz"
+    ],
+    "Pasteurs": [
+      "Bonnard",
+      "Bonnard",
+      "Chuard",
+      "Jaccard",
+      "Galley"
+    ],
+    "Pensions et hôtels": [
+      "Berthod",
+      "Bricod",
+      "Dubuis-Martin",
+      "Gétaz",
+      "Hauswirth-Romang",
+      "Henchoz-Pilet",
+      "Morier",
+      "Mottier",
+      "Rosat"
+    ],
+    "Pharmacien": [
+      "Gétaz"
+    ],
+    "Préposé aux poursuites et faillites": [
+      "Dupuis"
+    ],
+    "Quincaillerie": [
+      "Burri",
+      "Dubuis-Yersin",
+      "Henchoz-Yersin",
+      "Morier",
+      "Bertholet-Hauswirth",
+      "Morier-Bricod, H.",
+      "Morier-Genoud",
+      "Simon"
+    ],
+    "Relieur": [
+      "Isoz"
+    ],
+    "Ruches (fabricant)": [
+      "Wehren"
+    ],
+    "Scieurs": [
+      "Berdoz",
+      "Chapalay",
+      "Henchoz",
+      "Mottier",
+      "Ramel",
+      "Rosat",
+      "Tille"
+    ],
+    "Selliers": [
+      "Chabloz",
+      "Hercod"
+    ],
+    "Serruriers": [
+      "Henchoz",
+      "Klingert",
+      "Neusel"
+    ],
+    "Sociétés": [
+      "Société de l'Ancienne Abbaye",
+      "Société de consommation",
+      "Sociétés des fromageries de l'Etivaz",
+      "de Flendruz",
+      "du Mont",
+      "des Moulins",
+      "du Pont de-Pierre",
+      "Société de la Caisse d'épargne du district",
+      "Société de tir aux armes de guerre",
+      "Société de tir au fusil du district du Pays-d'Enhaut",
+      "Société immobilière de la Villa d'Ex",
+      "Société électrique du Pays-d'Enhaut",
+      "Société d'utilité publique",
+      "Société de la laiterie du village",
+      "Lawn-tennis Club"
+    ],
+    "Tailleurs": [
+      "Jost",
+      "Geneyne"
+    ],
+    "Tapissier": [
+      "Friedli"
+    ],
+    "Tanneur": [
+      "Lenoir"
+    ],
+    "Verrerie": [
+      "Morier",
+      "Margot",
+      "Dubuis-Yersin"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "BRETAYE": {
+    "Cafés-restaurants": [
+      "Buffet de la Gare, Luthy Charles",
+      "Hôtel-restaurant de Bretaye",
+      "Restaurant du Lac, Savioz Henri",
+      "Restaurant du Lac Chavonnes, Roud Ad."
+    ]
+  },
+  "CHESIERES": {
+    "Chef de section": [
+      "Croset Félix"
+    ],
+    "Contrôleur du lait": [
+      "Nicolier Edouard",
+      "Echenard Jean"
+    ],
+    "Gendarmerie (poste de)": [
+      "Moreillon",
+      "Moillen"
+    ],
+    "Inspecteur du bétail": [
+      "Moret-Guex François"
+    ],
+    "Municipal": [
+      "Cuttelod Adrien"
+    ],
+    "Police (agent de)": [
+      "Grob Robert"
+    ],
+    "Agriculteurs": [
+      "Bertarionne Louis",
+      "Bonzon Edouard",
+      "Bonzon Emile",
+      "Bratschy Marius",
+      "Bratschy Ls",
+      "Cuttelod Adrien",
+      "Cuttelod Gabriel",
+      "Dupertuis Aug.",
+      "Durand Gabriel",
+      "Jaggi Alfr.",
+      "Isabel Jean",
+      "Moret François",
+      "Moret Ls",
+      "Moret Gustave",
+      "Roud Adolphe",
+      "Roud Louis",
+      "Wursten François"
+    ],
+    "Ameublement": [
+      "Gehrig Kurt"
+    ],
+    "Appareilleur": [
+      "Ruchet Ernest",
+      "Peytrignet S."
+    ],
+    "Assurance": [
+      "Dulex Albert"
+    ],
+    "Auto, garages, taxis": [
+      "Besson Adrien",
+      "Cosandey L.",
+      "Roud F.",
+      "Suter Fritz"
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "SAINTE-CROIX": {
+    "Aviculteurs": [
+      "Jaccard Adrien",
+      "Jaques, Vve",
+      "Mermod Alice",
+      "Paillard Marcel"
+    ],
+    "Avocats": [
+      "Jaccard Pierre",
+      "Lador Jacques"
+    ],
+    "Banques": [
+      "Banque Cantonale Vaudoise",
+      "Addor Henri",
+      "Crédit Foncier Vaudois",
+      "Caisse d'Epargne Cantonale",
+      "Martin Louis",
+      "Crédit Yverdonnois",
+      "W. Mermoud"
+    ],
+    "Bazars": [
+      "Addor René",
+      "Gloor H. & A.",
+      "Gonset & Henrioud S. A.",
+      "Jaccard Dora",
+      "Jaccard Fanny",
+      "Junod Hélène",
+      "Martin-Jaccard hoirie"
+    ],
+    "Bétail (march. de)": [
+      "Bissat Ernest",
+      "Bornand-Karlen Georges",
+      "Canzarini Marcel",
+      "Erb Adolphe",
+      "Joseph Hélène"
+    ],
+    "Bière (dépôts de)": [
+      "Margot Louis et fils",
+      "Vaucher Alcide"
+    ],
+    "Bijouterie": [
+      "Barbezat Maurice",
+      "Jaccard Dora",
+      "Pv Camille",
+      "Sueur Marc"
+    ],
+    "Blanchisseuses": [
+      "Cuendet-Kaempf Lydia",
+      "Cuendet-Muller",
+      "Gonthier Marie",
+      "Perrier Marie"
+    ],
+    "Bleu à lessive (fabr. de)": [
+      "Rossel-Reynold. R."
+    ],
+    "Bois (march. de)": [
+      "Besse-Widmer Emile",
+      "Mermod frères",
+      "Scierie de la Gare S. A."
+    ],
+    "Bouchers et charcutiers": [
+      "Bornand Adrien",
+      "Campiche Georges",
+      "Champod Louis",
+      "Cuendet H.",
+      "Gaillard Gilbert",
+      "Jaccard Charles",
+      "Jaccard Edouard",
+      "Joseph John. T.",
+      "Junod Marcel",
+      "Nicod Georges"
+    ],
+    "Boucherie chevaline": [
+      "Bissat Numa"
+    ],
+    "Boulangers-Pâtissiers": [
+      "Addor Eugène",
+      "L'Avenir, coop. de consom.",
+      "Desponds Ed.",
+      "Hofer Fritz",
+      "Jaccard Albert",
+      "Koch Pierre",
+      "Thomas Emile"
+    ],
+    "Briquets (fabriques de)": [
+      "Thorens Hermann S.A."
+    ],
+    "Cafés-restaurants": [
+      "Bornand André",
+      "Caussé Amélie",
+      "Chammartin Jules",
+      "Gacond Marc",
+      "Götti Anna",
+      "Lassueur René",
+      "Mermod A., Vve",
+      "Paillard Paul",
+      "Robellaz Jules",
+      "Stehlé Marthe",
+      "Thévenaz Albert",
+      "Thorens Henri",
+      "Villiger Chs.",
+      "Volery Numa"
+    ],
+    "Café sans alcool": [
+      "Le Foyer",
+      "Addor Georges"
+    ],
+    "Cafés (commerce de)": [
+      "Société Kaiser, S.A."
+    ],
+    "Caisses d'emballage (fabr. de)": [
+      "Crausaz Hermann",
+      "Mermod frères",
+      "Thévenaz Adrien"
+    ],
+    "Camionneurs-expéditeurs": [
+      "Cand frères",
+      "Jaccard Auguste",
+      "Joseph frères",
+      "Thévenaz Albert"
+    ],
+    "Cartonnages (fabr. de)": [
+      "Gueissaz Edouard",
+      "Jost Jean"
+    ],
+    "Cercueils": [
+      "Jaccard, Vve de Maurice",
+      "Simon Louis",
+      "Fatio Jules"
+    ],
+    "Chapeliers": [
+      "Addor René",
+      "Gonset & Henrioud S. A.",
+      "Margot, hoirie de Jules",
+      "Huguenin Henri",
+      "Piolino G. & A."
+    ],
+    "Charcutiers": [
+      "Bornand Adrien",
+      "Campiche Georges",
+      "Gaillard Gilbert",
+      "Junod Marcel"
+    ],
+    "Charpentiers": [
+      "Bornand-Sueur Arthur",
+      "Jaques & Jaccard",
+      "Leuba frères",
+      "Marguet & Steiner"
+    ],
+    "Charrons": [
+      "Graff Christian",
+      "Junod Eug."
+    ],
+    "Chaussures (mag. de)": [
+      "L'Avenir, coop. de consom.",
+      "Bissat Marcel",
+      "Mehl Rodolphe",
+      "Paillard Paul",
+      "Perotti François",
+      "Piolino G. & A."
+    ],
+    "Cinéma (fabrique d'appareils)": [
+      "Lassueur & Cie",
+      "Paillard E. & Cie, S. A."
+    ],
+    "Cinéma": [
+      "Royal Biograph S.A.",
+      "Ferrari O."
+    ],
+    "Coiffeurs": [
+      "Arrighi, Mme.",
+      "Bornand Gaston",
+      "Bourquin Paul",
+      "Duvoisin, Mme",
+      "Gerber Alexandre",
+      "Gonthier Roland",
+      "Jaccard André",
+      "Jaccard Sarah",
+      "Leuenberg Ida",
+      "Penseyres Pierre",
+      "Wütrich Armand"
+    ],
+    "Combustibles": [
+      "Besse-Widmer Emile",
+      "Cand frères",
+      "Jaccard & Glardon",
+      "Thévenaz Albert"
+    ],
+    "Comestibles": [
+      "Gaillard Gilbert"
+    ],
+    "Confections": [
+      "Bonnet A. et E.",
+      "Colombo Angel",
+      "Gonset-Henrioud S.A.",
+      "Hellmüller Anton",
+      "Huguenin Henri",
+      "Jaques-Margot E.",
+      "Piolino André & Cie",
+      "Thomann Frédéric"
+    ],
+    "Cordonniers": [
+      "Calame Marcel",
+      "Champod Ami",
+      "Junod Georges",
+      "Mehl Rodolphe",
+      "Meidinger Marcel",
+      "Pantet Emile",
+      "Perotti Ernest",
+      "Perotti François"
+    ],
+    "Couturières": [
+      "Berthoud Colette",
+      "Bornand-Egli Emilie",
+      "Geremia-Jaccard Mme",
+      "Grandjean Henriette",
+      "Hössli Emilie",
+      "Margot Alice",
+      "Jaques Hélène",
+      "Joseph Amélie",
+      "Leuba Edith",
+      "Recordon Louisa"
+    ],
+    "Crèmeries-tea-room": [
+      "Addor Eugène",
+      "Despond Edouard",
+      "Matthey Georges"
+    ]
+  }
+}

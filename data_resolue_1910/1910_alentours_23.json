@@ -1,0 +1,256 @@
+{
+  "VILLE D'AUBONNE": {
+    "Bière": [
+      "Brasserie du Saumon",
+      "Martinet Henri"
+    ],
+    "Bouchers": [
+      "Liardet Paul",
+      "Viquerat Henri"
+    ],
+    "Boulangers": [
+      "Daxelhofer Hector",
+      "Gaillard Paul",
+      "Matthey Henri",
+      "Paccaud Emile",
+      "Rochat - Vallon Louis"
+    ],
+    "Cafetiers": [
+      "Bornand Samuel",
+      "Kehrli, veuve",
+      "Martinet Henri",
+      "Matthey, veuve de Charles",
+      "Palaz",
+      "Rothlisberg Fritz",
+      "Urfer hoirie",
+      "Wecker Aug."
+    ],
+    "Chapeliers": [
+      "Delapierre-Jotterand Jeanne",
+      "Poget, veuve de Jules"
+    ],
+    "Charcutiers": [
+      "Courvoisier Emile",
+      "Liardet Ami",
+      "Viquerat Henri"
+    ],
+    "Charpentier": [
+      "Simon Charles"
+    ],
+    "Charrons": [
+      "Guignard Ami",
+      "Pfiffer Joseph-Emile"
+    ],
+    "Chaussures (march. de)": [
+      "Droz Marguerite",
+      "Fayet Ed., fils",
+      "Grossen Jacob",
+      "Janin Julie et Emile",
+      "Poget, veuve de Jules"
+    ],
+    "Chef de gare": [
+      "Noverraz Oscar"
+    ],
+    "Chef de section": [
+      "Fayet Edouard"
+    ],
+    "Cigares et tabacs": [
+      "Agier-Turin Jules",
+      "André Fernand",
+      "Bron-Comte Henri",
+      "Delapierre-Jotterand Jeanne",
+      "Frey-Grosjean",
+      "Grandchamp Isaline",
+      "Meylan Albert",
+      "Meylan-Simon",
+      "Monnet C",
+      "Pellet Frédéric",
+      "Poget, veuve",
+      "Rothlisberg Fritz",
+      "Uldry Adolphe",
+      "Wecker Auguste"
+    ],
+    "Coiffeurs": [
+      "Meylan Alb",
+      "Delacrausaz"
+    ],
+    "Combustibles": [
+      "Grivat & Kohler"
+    ],
+    "Commission scolaire": [
+      "Jaquerod Arthur",
+      "Perret Ernest"
+    ],
+    "Confiseurs": [
+      "Paccaud Emile",
+      "Vallon Louis"
+    ],
+    "Conservateur des droits réels": [
+      "Dubugnon Jules"
+    ],
+    "Cordonniers": [
+      "Fayet Ed., fils",
+      "Grossen Jacob",
+      "Janin Julie et Emile",
+      "Jotterand E."
+    ],
+    "Couturières": [
+      "Dällenbach Marie",
+      "Giddey sœurs",
+      "Golay Marie-Virginie",
+      "Grosjean Jenny",
+      "Poget sœurs",
+      "Rochat-Bercher Alexandrine",
+      "Rochat-Dovat Lucie",
+      "Wiessler Jenny"
+    ],
+    "Draperies et confections": [
+      "Nerfin Ernest",
+      "Rochat-Dovat",
+      "Scheller-Chavannes"
+    ],
+    "Droguistes": [
+      "Monnet Charles",
+      "Pellet Frédéric"
+    ],
+    "Eaux gazeuses (fabr. de)": [
+      "Lædermann Alexis"
+    ],
+    "Ecole ménagère": [
+      "Desbaillets-Matthey, dame"
+    ],
+    "Electriciens": [
+      "Société Lausannoise d'Electricité"
+    ],
+    "Entrepreneurs": [
+      "Chavannes frères",
+      "Simon Charles"
+    ],
+    "Epicerie": [
+      "Agier-Turin Jules",
+      "André Fernand",
+      "Aubert-Gruaz Jenny",
+      "Bron-Comte H.",
+      "Frey-Grosjean O.",
+      "Grandchamp Isaline",
+      "Guignard Ami",
+      "Meylan-Simon",
+      "Monnet Ch.",
+      "Pellet Frédéric",
+      "Poget hoirs.",
+      "Uldry Adolphe"
+    ],
+    "Equarisseur": [
+      "Cuérel Adolphe"
+    ],
+    "Fers (march. de)": [
+      "Bron-Comte",
+      "Pellet Frédéric"
+    ],
+    "Ferblantiers-couvreurs": [
+      "Custot Louis",
+      "Matthey Emile",
+      "Tissot-Dallenbach Charles"
+    ],
+    "Fromages": [
+      "Gobelli Jean",
+      "Grosjean Ami",
+      "Poget J. hoirs."
+    ],
+    "Géomètre-breveté": [
+      "Nordhof William"
+    ],
+    "Gérants d'immeubles": [
+      "Bujard E. & fils",
+      "Corthésy Charles",
+      "Jaquinet Ch.",
+      "Perret Ernest",
+      "Rolaz J."
+    ],
+    "Grains et farines": [
+      "Charrière Paul"
+    ],
+    "Gypsiers": [
+      "Déléchat Jaques",
+      "Locca Pierre",
+      "Montangero Jean"
+    ],
+    "Horlogerie": [
+      "Berney Théodore",
+      "Cuendet fils",
+      "Meylan-Simon"
+    ],
+    "Hôtels": [
+      "Hôtel de la Couronne",
+      "Hôtel du Lion d'Or"
+    ],
+    "Imprimerie": [
+      "Eberhard & Cie"
+    ],
+    "Infirmerie": [
+      "Route de Féchy"
+    ],
+    "Ingénieur": [
+      "Simon Charles"
+    ],
+    "Inspecteur du bétail": [
+      "Ambühl Auguste"
+    ],
+    "Instituteurs primaires": [
+      "Renaud Emile",
+      "Rochat Louis",
+      "Henrioud Léa",
+      "Giron Augustine",
+      "Piguet Alice",
+      "Fromentin Alexandrine",
+      "Jaton Anna"
+    ],
+    "Instituteurs secondaires": [
+      "David Emile",
+      "Bard Louis",
+      "Dubois Paul",
+      "Duquesne Philippe",
+      "Reiser",
+      "Vittel Max",
+      "Weitzel Adolphe",
+      "Delisle Martha"
+    ],
+    "Inspecteur de police": [
+      "Chenuz Alexis"
+    ],
+    "Jardiniers": [
+      "Bovey E",
+      "Dentz Gustave"
+    ],
+    "Journaux": [
+      "Journal d'Aubonne",
+      "Falconnier H.",
+      "Jura vaudois"
+    ],
+    "Justice de paix du Cercle": [
+      "Gleyre Jules",
+      "Barbey Alfred",
+      "Jotterand Marc",
+      "Chaudet Jules",
+      "Vallon Louis",
+      "Falconnier Henri"
+    ],
+    "Laitier": [
+      "Grosjean Ami"
+    ],
+    "Librairie": [
+      "Eberhard & Cie",
+      "Vittoz Veuve"
+    ],
+    "Lingères": [
+      "Cauderay Louise",
+      "Giddey sœurs",
+      "Grosjean Jenny",
+      "Wissler Julie"
+    ],
+    "Lingerie": [
+      "Decoppet A.",
+      "Giddey sœurs"
+    ]
+  }
+}

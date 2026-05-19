@@ -1,0 +1,377 @@
+{
+  "CHAVANNES-SUR-MOUDON": {
+    "Agriculteurs": [
+      "Dutoit Paul",
+      "Dutoit Rob.",
+      "Gavin Louis",
+      "Héritier Jean",
+      "Kammermann Gottfried",
+      "Pidoux Ern.",
+      "Pidoux Oscar",
+      "Porchet Marcel",
+      "Veyre frères"
+    ],
+    "Apiculteurs": [
+      "Crausaz F.",
+      "Duc Numa",
+      "Dutoit Alexandre",
+      "Veyre Marcel"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite",
+      "Michaud Eugène"
+    ],
+    "Café": [
+      "Devaud Eug."
+    ],
+    "Charpentier": [
+      "Emery Paul"
+    ],
+    "Couturière": [
+      "Emery Anaïs"
+    ],
+    "Epicerie, mercerie": [
+      "Dutoit Ulysse",
+      "Kunzi Georges"
+    ],
+    "Maréchal": [
+      "Kunzi Georges"
+    ],
+    "Menuisier": [
+      "Emery Louis"
+    ],
+    "Pompes funèbres du Nord": [
+      "Emery Louis"
+    ],
+    "Sociétés": [
+      "Sté d'assurance contre les pertes du bétail.",
+      "Sté de la Bibliothèque.",
+      "Sté de fromagerie. R.",
+      "Sté de jeunesse.",
+      "Sté de tir."
+    ]
+  },
+  "CHAVORNAY": {
+    "Député": [
+      "Dutoit Eugène"
+    ],
+    "Syndic": [
+      "Laurent Auguste"
+    ],
+    "Secrétaire": [
+      "Pelichet Louis"
+    ],
+    "Boursier": [
+      "Laurent-Perrieraz Constant"
+    ],
+    "Huissier": [
+      "Lombardet Charles"
+    ],
+    "Municipaux": [
+      "Auberson François",
+      "Dutoit Eugène",
+      "Lavanchy Constant",
+      "Magnin Aloïs",
+      "Roulin Emile",
+      "Malherbe René"
+    ],
+    "Assesseur.": [
+      "Laurent Aug."
+    ],
+    "Cantonnier.": [
+      "Péclard Julien"
+    ],
+    "Chef de gare.": [
+      "Nicoulaz Emile"
+    ],
+    "Chef de section.": [
+      "Roulin Henri"
+    ],
+    "Commandant du feu.": [
+      "Malherbe-Favre Marcel"
+    ],
+    "Commission scolaire.": [
+      "Lavanchy Constant",
+      "Piton Théodore"
+    ],
+    "Garde forestier.": [
+      "Léonard Alfred"
+    ],
+    "Gare C.F.F. (chef de)": [
+      "Nicoulaz E."
+    ],
+    "Gendarmerie (Poste de)": [
+      "Rochat J."
+    ],
+    "Inspecteur du bétail.": [
+      "Rossy Charles"
+    ],
+    "Instituteurs.": [
+      "David Marcel",
+      "Glaridon Adrien",
+      "Gaillard Elisabeth",
+      "Martinet Juliette",
+      "Roulin Simone",
+      "Simon Bluette"
+    ],
+    "Officier d'état-civil.": [
+      "Auberson Emile"
+    ],
+    "Pasteur.": [
+      "Piton Th."
+    ],
+    "Police (agent de)": [
+      "Roulin Charles"
+    ],
+    "Poste et télégraphe.": [
+      "Laurent Auguste"
+    ],
+    "Téléphone.": [
+      "Guillemin Gges"
+    ],
+    "Agriculteurs.": [
+      "Auberson-Guillemin Constant",
+      "Auberson Emile et Aug.",
+      "Baillif Frédéric",
+      "Beauverd-Carrel Auguste",
+      "Beauverd-Favre Auguste",
+      "Beauverd-Malherbe François",
+      "Beauverd-Devenoge Auguste",
+      "Beauverd-Malherbe Charles",
+      "Beauverd-Laur.-Const",
+      "Beauverd Ls d'Abram",
+      "Beauverd-Laurent Charles",
+      "Beauverd Henri",
+      "Carrel Louis",
+      "Charrière Emile",
+      "Dind Ernest",
+      "Dupuis Ernest",
+      "Gaillard Charles",
+      "Girardet William",
+      "Girardet Charles",
+      "Hutzener Auguste",
+      "Lauper Hermann",
+      "Lavanchy Const.",
+      "Magnin Aloïs",
+      "Malherbe Lucien",
+      "Malherbe Auguste de François",
+      "Malherbe Constant",
+      "Malherbe Jean",
+      "Péclard Armand",
+      "Porret frères",
+      "Rochat John",
+      "Romanens Alfred",
+      "Roulin Emile",
+      "Siegenthaler et Zimmermann",
+      "Steiner Emile"
+    ],
+    "Appareilleurs-ferblantiers.": [
+      "Ernst Francis",
+      "Tröhler Hermann"
+    ],
+    "Assurance-vieillesse.": [
+      "Mutualité de retraite",
+      "Giardon A."
+    ],
+    "Assurances.": [
+      "Bousson Charles"
+    ],
+    "Autos.": [
+      "Guillemin Georges",
+      "Oulevay Lucien"
+    ],
+    "Banque.": [
+      "Crédit Mutuel",
+      "Laurent Emile"
+    ],
+    "Bétail (comm. de).": [
+      "Maire Ed."
+    ],
+    "Blanchisseuse.": [
+      "Miéville Marguerite"
+    ],
+    "Bois (comm. de)": [
+      "Dutoit frères"
+    ],
+    "Boucheries-Charcuteries.": [
+      "Bonjour Albert",
+      "Maire Ed."
+    ],
+    "Boulangeries.": [
+      "Flaction Arthur",
+      "Pahud Juste",
+      "Sommerhalder Ern."
+    ],
+    "Briqueterie.": [
+      "Barraud & Cie"
+    ],
+    "Cafés-restaurants.": [
+      "Hôtel de la Gare",
+      "Ray C.",
+      "Hôtel Bellevue",
+      "Desponds Ernest",
+      "Café de l'Union",
+      "Gaillard Charles",
+      "Café de la Croix Blanche",
+      "Laurent-Steiner Emile",
+      "Café Laurent.",
+      "Laurent Emile"
+    ],
+    "Charcuterie.": [
+      "Viglino Jean"
+    ],
+    "Charpentiers-menuisiers.": [
+      "Dutoit frères"
+    ],
+    "Charron.": [
+      "Jaccoud Alfred"
+    ],
+    "Clapiers et poulaillers.": [
+      "Fabrique du Vallon",
+      "Agassiz Alfred"
+    ],
+    "Cloches (fond. de).": [
+      "Viglino frères"
+    ],
+    "Coiffeurs.": [
+      "Pantet Rose",
+      "Salomon Rob.",
+      "Stähli Edouard et Mme",
+      "Lombardet Y."
+    ],
+    "Cordonniers.": [
+      "Badini Antoine",
+      "Reguin Maurice"
+    ],
+    "Couturières.": [
+      "Belin Marthe",
+      "Beauverd Berthe",
+      "Droz Marguerite",
+      "Guillemin Marie",
+      "Roulin Simone",
+      "Pantet Edith",
+      "Jaquier Simone"
+    ],
+    "Cultures maraîchères.": [
+      "S. G. G.",
+      "Houwer Gérald"
+    ],
+    "Electriciens.": [
+      "Laubscher Fritz",
+      "Malherbe-Métral Charles"
+    ],
+    "Entrepreneurs.": [
+      "Dalle Pierre",
+      "Gabella",
+      "Pérazzi Victor"
+    ],
+    "Epiceries-merceries.": [
+      "Auberson François",
+      "Basset Aimé",
+      "Bezençon & Cie",
+      "Bousson Charles",
+      "Coop. L'Economie",
+      "Malherbe-Schmidt Anna",
+      "Sommerhalder Ernest"
+    ],
+    "Ferblantiers-couvreurs.": [
+      "Ernst Francis",
+      "Tröhler Hermann"
+    ],
+    "Ferronnerie.": [
+      "Fabrique d'espagnolettes",
+      "Beauverd Jules"
+    ],
+    "Fers (comm. de).": [
+      "Bezençon & Cie"
+    ],
+    "Forgerons-maréchaux.": [
+      "Maeder Jean",
+      "Wolf Charles"
+    ],
+    "Fromages (comm. de).": [
+      "Siegenthaler R.-Th.",
+      "Siegenthaler F. et Hermann",
+      "Société de fromagerie de Chavornay-Bas",
+      "Société de fromagerie de Crausaz"
+    ],
+    "Garage.": [
+      "Guillemin Georges",
+      "Garage central",
+      "Oulevay Lucien"
+    ],
+    "Gypsiers-peintres.": [
+      "Mellina Eugène",
+      "Salero Emm.",
+      "Viglino Jean"
+    ],
+    "Horloger.": [
+      "Mathez René-Armand"
+    ],
+    "Hôtels.": [
+      "Hôtel-Buffet de la Gare",
+      "Ray Vve de Robert",
+      "Hôtel Bellevue",
+      "Desponds Ernest",
+      "Hôtel de la Croix-Blanche",
+      "Laurent-Steiner Emile"
+    ],
+    "Ingénieur.": [
+      "Laurent Benjamin"
+    ],
+    "Jardinier.": [
+      "Auberson François"
+    ],
+    "Laiteries.": [
+      "Rapin Js.",
+      "Schwarz Walter"
+    ],
+    "Lingères.": [
+      "Diserens Laure",
+      "Laurent Emma"
+    ],
+    "Maréchaux.": [
+      "Maeder Jean",
+      "Wolf Charles"
+    ],
+    "Matériaux de construct.": [
+      "Gabella"
+    ],
+    "Mécaniciens.": [
+      "Guillemin George",
+      "Oulevay Lucien"
+    ],
+    "Médecin.": [
+      "Ehinger Maurice"
+    ],
+    "Menuisier-ébéniste.": [
+      "Girardet René"
+    ],
+    "Mercerie.": [
+      "Lombardet Y."
+    ],
+    "Moulin.": [
+      "Moulin agricole de Chavornay",
+      "Maendly Henri"
+    ],
+    "Parqueteurs.": [
+      "Dutoit frères & Cie"
+    ],
+    "Pensions.": [
+      "Hôtel de la Gare",
+      "Hôtel Bellevue",
+      "Hauser Auguste",
+      "Dufour-Lambert Elie",
+      "Alpina",
+      "Berney-Viglino",
+      "Restaurant de la Croix-Blanche",
+      "Viglino frères"
+    ],
+    "Pharmacie.": [
+      "Trœsch-Jaccottet Nelly"
+    ],
+    "Porcs (comm. de).": [
+      "Porret Ernest"
+    ]
+  }
+}

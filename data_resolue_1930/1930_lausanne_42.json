@@ -1,0 +1,51 @@
+{
+  "VILLE DE LAUSANNE": {
+    "CAFÉS DE TEMPÉRANCE": [
+      "Bolomey Marthe",
+      "Foyer féminin et restaurant La Clé",
+      "Foyer du travailleur",
+      "Détraz Edouard",
+      "Peytrequin Marius",
+      "Rossier-Cevey J.",
+      "Streuli-Secretan Ed."
+    ],
+    "CAFÉS TORRÉFIÉS": [
+      "Bornand Charles, fils",
+      "Bouru Henri",
+      "Corbaz Hri",
+      "Costa Thomaz",
+      "Cuendet H.",
+      "Delisle Ernest",
+      "Destraz & Robert",
+      "Favez Auguste",
+      "Forny Charles",
+      "Grandjean frères",
+      "Lévy G.",
+      "Mouron & Grobet",
+      "Manuel & Cie. S. A.",
+      "« Mercure » (S. A.)",
+      "Nicollerat Ph.",
+      "Reymond Fritz",
+      "Robert Gustave.",
+      "Société Kaiser"
+    ],
+    "CAISSES D'ÉPARGNE": [
+      "Caisse d'épargne cantonale vaudoise.",
+      "Caisse d'épargne de l'Union Vaudoise du Crédit",
+      "Caisse d'épargne et de prévoyance",
+      "Caisse populaire d'épargne de et crédit"
+    ],
+    "CAISSES ENREGISTREUSES": [
+      "Caisse enregistreuse «National»",
+      "Eberlé Otto",
+      "Maye Camille",
+      "Vuille Max"
+    ],
+    "CAISSES DE RETRAITE": [
+      "Caisse des retraites populaires",
+      "Caisse de retraite des employés de l'administration cantonale",
+      "Caisse de retraite des Cantonniers de l'Etat",
+      "Caisse intercommunale des pensions"
+    ]
+  }
+}

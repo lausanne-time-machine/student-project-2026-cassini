@@ -1,0 +1,234 @@
+{
+  "CHATILLENS": {
+    "Agriculteurs": [
+      "Aebischer Pierre",
+      "Affolter",
+      "Balsiger Gottfried. T.",
+      "Baud Léon",
+      "Bory Fernand",
+      "Cavin Fritz",
+      "Chappuis Edmond",
+      "Chappuis Ulysse",
+      "Desmeules Constant",
+      "Dubois frères",
+      "Duc Paul",
+      "Duvoisin Edouard",
+      "Emery Eugène",
+      "Emery François",
+      "Gilliéron Samuel",
+      "Goël Edmond",
+      "Guex Robert",
+      "Jordan Alfred",
+      "Jordan David",
+      "Jordan Pierre",
+      "Jordan Pierre d'Ulysse",
+      "Jordan frères",
+      "Jordan Jules",
+      "Jordan Constant",
+      "Jordan Philippe",
+      "Perret Ls",
+      "Pasche Adolphe",
+      "Pouly, hoirie",
+      "Riesen Samuel",
+      "Rod frères",
+      "Chevalley Ami",
+      "Dutoit Victor",
+      "Emery Jules",
+      "Favez Alfred",
+      "Gilliard Henri",
+      "Gilliard Adolphe",
+      "Gilliéron Frères",
+      "Gerber Charles",
+      "Guignet Eugène",
+      "Guignet Gustave",
+      "Guignet Oscar",
+      "Jan Daniel",
+      "Jan Paul",
+      "Rogivue Henri",
+      "Rogivue Jules",
+      "Rogivue Louis",
+      "Mayor Adrien",
+      "Zahnd Alfred"
+    ],
+    "Apiculteurs": [
+      "Bory Fernand",
+      "Desmeules Louis",
+      "Jordan Constant",
+      "Paquier Armand",
+      "Pasche Marcel",
+      "Rod Pierre"
+    ],
+    "Associations mutualistes de retraite": [
+      "Paquier A."
+    ],
+    "Boulanger": [
+      "Gilliéron George"
+    ],
+    "Cafés": [
+      "Dupuis Arthur",
+      "Jordan Jean-Jacques",
+      "Gilliéron George",
+      "Klaus Victor",
+      "Giddey-Volet Ch.",
+      "Buffet de la Gare"
+    ],
+    "Charron": [
+      "Chapuis Louis",
+      "Rouiller Pierre"
+    ],
+    "Commission scolaire": [
+      "Roud Gustave",
+      "Desmeules Louis",
+      "Gindroz Jules",
+      "Manigley Henri"
+    ],
+    "Couturières": [
+      "Banderet, Mme",
+      "Pasche Nelly",
+      "Pasche Rosa et Laura"
+    ],
+    "Cycles et atelier de réparations": [
+      "Pasche Justin"
+    ],
+    "Epicerie, mercerie": [
+      "Chappuis Cécile",
+      "Destraz Albertine",
+      "Gilliéron George",
+      "Jordan Jean-Jacques"
+    ],
+    "Inspecteur du bétail": [
+      "Jordan Alfr.",
+      "Guignet Gust."
+    ],
+    "Instituteurs": [
+      "Paquier Armand",
+      "Roulin Rose",
+      "Wacker Aloïs",
+      "Müller Marie"
+    ],
+    "Laitiers": [
+      "Dutoit Rodolphe",
+      "Leiser Arn."
+    ],
+    "Machine à battre le blé": [
+      "Berno Louis",
+      "Chappuis frères"
+    ],
+    "Maréchal": [
+      "Chevalley Jules"
+    ],
+    "Oeufs (march. d')": [
+      "Cavin John",
+      "Stettler Rosa"
+    ],
+    "Pension d’été": [
+      "Monachon Louis"
+    ],
+    "Poste": [
+      "Nicolas Héli",
+      "Jan A."
+    ],
+    "Rentiers": [
+      "Coigny Alice",
+      "Coigny Clara",
+      "Desmeules Camille",
+      "Jordan John",
+      "Jodan Samuel",
+      "Ramel Alfred"
+    ],
+    "Scieur": [
+      "Berno Louis"
+    ],
+    "Sellier-tapissier": [
+      "Forestier François"
+    ],
+    "Sociétés": [
+      "de fromagerie du Bourgeaux",
+      "de laiterie de Carrouge",
+      "Syndicat agricole"
+    ],
+    "Téléphone public": [
+      "Station communale"
+    ],
+    "Volailles (march. de)": [
+      "Cavin John",
+      "Stettler Rosa, dame"
+    ],
+    "Président du Conseil général": [
+      "Rogivue Louis"
+    ],
+    "Secrétaire": [
+      "Wacker Aloïs",
+      "Jan Arthur"
+    ],
+    "Huissier": [
+      "Jan Daniel"
+    ],
+    "Syndic": [
+      "Guignet Alfred"
+    ],
+    "Municipaux": [
+      "Piretti Alfred",
+      "Jan Henri",
+      "Rogivue Henri",
+      "Gilliard Henri"
+    ],
+    "Boursier": [
+      "Gilliard Henri"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Wacker A."
+    ],
+    "Auto-Transports": [
+      "Bongni & Porchet",
+      "Société des Auto-Transports de la Haute-Broie, S. A."
+    ],
+    "Bestiaux (march. de)": [
+      "Chevalley Ami",
+      "Rogivue Jules",
+      "Rogivue René",
+      "Volet Victor"
+    ],
+    "Bois (march. de) et scierie": [
+      "Jayet John"
+    ],
+    "Boulangerie-pâtisserie": [
+      "Klaus Victor"
+    ],
+    "Chasse et pêche": [
+      "Jan Henri"
+    ],
+    "Chef de gare": [
+      "Huguin Marcel"
+    ],
+    "Confections pour hommes et enfants": [
+      "Bongni Emma"
+    ],
+    "Cycles et motocycles": [
+      "Piretti Alfred",
+      "Piretti Paul",
+      "Rod William"
+    ],
+    "Entrepreneur": [
+      "Delmonico, R.",
+      "Volet Victor"
+    ],
+    "Epiceries": [
+      "Blanc Lina",
+      "Klaus Victor",
+      "Pasche sœurs"
+    ],
+    "Laitier": [
+      "Sonnay Jules"
+    ],
+    "Mécaniciens": [
+      "Cavin Louis"
+    ],
+    "Menuiserie-ébénisterie": [
+      "Piretti Emile"
+    ],
+    "Serrurier": [
+      "Piretti Alfred"
+    ]
+  }
+}

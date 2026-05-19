@@ -1,0 +1,266 @@
+{
+  "COPPET": {
+    "Entrepreneurs": [
+      "Anthonioz François",
+      "Batistolo Jean",
+      "Bertoncini François",
+      "Cattaneo Jaques",
+      "Guippone François"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Barbier, Mlle",
+      "Batistolo Mathilde",
+      "Gogaz Louis",
+      "Meylan Adrien"
+    ],
+    "Ferblantier": [
+      "Antonietti Laurent"
+    ],
+    "Fers et quincaillerie": [
+      "Baumgartner Auguste"
+    ],
+    "Fontainier": [
+      "Vallotton Henri"
+    ],
+    "Fromage et beurre": [
+      "Zürcher Emile"
+    ],
+    "Graines potagères et fleurs": [
+      "Meylan Adrien"
+    ],
+    "Gypsiers-peintres": [
+      "Batistolo Jean",
+      "Bertoncini Francis",
+      "Guippone François"
+    ],
+    "Hôtels": [
+      "Anker John",
+      "Meylan-Renaud"
+    ],
+    "Inspecteur du bétail": [
+      "Duvillard Arnold"
+    ],
+    "Instituteurs": [
+      "Pidoux François",
+      "Gaudin-Golaz Marie",
+      "Vulliemin Hélène"
+    ],
+    "Jardiniers": [
+      "Dupouy Joseph",
+      "Favre Emile",
+      "Vulliemin"
+    ],
+    "Justice de paix": [
+      "Collioud Marc",
+      "Baierlé Emile",
+      "Caut John",
+      "Monod Charles",
+      "Rosset Siméon",
+      "Mayor Henri"
+    ],
+    "Liquoriste": [
+      "Michel Jules"
+    ],
+    "Maréchal": [
+      "Steiner Frédéric"
+    ],
+    "Mécanicien": [
+      "Gaudin Louis"
+    ],
+    "Médecins": [
+      "Mercier J.-L.",
+      "Mercier Edmond"
+    ],
+    "Modiste": [
+      "Vulliemin sœurs"
+    ],
+    "Notaires": [
+      "Mayor & Bonzon"
+    ],
+    "Officier d’état-civil": [
+      "Mayor Henri"
+    ],
+    "Pasteur": [
+      "Lagier Albert"
+    ],
+    "Rentiers": [
+      "Dupont S.",
+      "Galopin Adolphe",
+      "Haussonville (comte de)",
+      "Peyralbe Ed.",
+      "Villard, Dr",
+      "Wisswald Léo"
+    ],
+    "Régisseur": [
+      "Collioud Marc"
+    ],
+    "Sage-femme": [
+      "Jaccard Elise"
+    ],
+    "Sellier": [
+      "Quinche Samuel"
+    ],
+    "Serruriers": [
+      "Baumgartner Aug.",
+      "Gaudin Louis",
+      "Girardet Charles"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "Française de secours",
+      "Section de la Croix Bleue"
+    ],
+    "Tailleur": [
+      "Bel François"
+    ],
+    "Tapissiers-matelassiers": [
+      "Bornet Eugène",
+      "Meylan Jules"
+    ],
+    "Télégraphe et téléphone": [
+      "Bertoncini Rosine"
+    ],
+    "Tonnelier": [
+      "Rohr Jules"
+    ],
+    "Vélocipèdes (fabr. de)": [
+      "Antonietti L., fils"
+    ],
+    "Vignerons": [
+      "Condevaux",
+      "Duverney Marie",
+      "Rossit Paul",
+      "Viret"
+    ],
+    "Vinaigre (fabr. de)": [
+      "Baierlé Emile"
+    ],
+    "Voiturier": [
+      "Tillmann Charles"
+    ]
+  },
+  "CRANS": {
+    "Autorités communales": [
+      "Blondel John",
+      "Guillet Henri",
+      "Gay Emile",
+      "Lecoultre Jules",
+      "van Berchem Paul",
+      "Brocard Louis",
+      "Kislig Louis",
+      "Serez Jules",
+      "Guillet Daniel",
+      "Vulliez Henri",
+      "Brocard Jules"
+    ],
+    "Agence agricole": [
+      "Brocard Louis"
+    ],
+    "Agriculteurs": [
+      "Blondel John",
+      "Brocard Jules",
+      "Lecoultre Juste",
+      "Pelichet Ulysse",
+      "Reusser Gottfried",
+      "Vulliez Ami",
+      "Vulliez Samuel"
+    ],
+    "Aubergistes": [
+      "Brocard Louis",
+      "Chabloz Emile"
+    ],
+    "Battoir à blé": [
+      "Pelichet Ulysse"
+    ],
+    "Boulanger": [
+      "Hauselmann Gottfried"
+    ],
+    "Bureau de poste": [
+      "Hauselmann"
+    ],
+    "Charcutier": [
+      "Chappuis Henri"
+    ],
+    "Charron": [
+      "Zumstein Jules"
+    ],
+    "Commission scolaire": [
+      "Brocard Louis",
+      "Gay Emile",
+      "van Berchem Max"
+    ],
+    "Epicerie": [
+      "Hauselmann Gottfried",
+      "Jaccard"
+    ],
+    "Inspecteur du bétail": [
+      "Brocard Jules"
+    ],
+    "Instituteur": [
+      "Michot Henri-Ami",
+      "Gay Fréda"
+    ],
+    "Laitier": [
+      "Stoky Francis"
+    ],
+    "Maréchal": [
+      "Steiner"
+    ],
+    "Menuisier": [
+      "Kislig Louis"
+    ],
+    "Officier d’état civil": [
+      "Lecoultre Juste"
+    ],
+    "Ouate (fabr. de)": [
+      "Allombert, veuve"
+    ],
+    "Régisseurs": [
+      "Guillet frères"
+    ],
+    "Rentiers": [
+      "van Berchem MM.",
+      "Blum Daniel"
+    ],
+    "Société": [
+      "De fromagerie"
+    ],
+    "Téléphoniste": [
+      "Chabloz Emile"
+    ],
+    "Vignerons": [
+      "Sinner Ch.",
+      "Dupraz"
+    ]
+  },
+  "CRASSIER": {
+    "Autorité communale": [
+      "Rossier Auguste",
+      "Duflon Edouard",
+      "Berlie Henri",
+      "Thomas Ami",
+      "Steffen J.-Louis",
+      "Bornet Marc",
+      "Poustif John",
+      "Thomas Louis",
+      "Durgniat Emile"
+    ],
+    "Agriculteurs": [
+      "Badan Jules",
+      "Baudraz Henri",
+      "Berlie Henri",
+      "Livet Salomon",
+      "Poustif John",
+      "Romand Ferdinand",
+      "Rossier Auguste",
+      "Thomas Ami"
+    ],
+    "Aubergistes": [
+      "Duina Pierre",
+      "Steffen H."
+    ],
+    "Boucher": [
+      "Urfer David"
+    ]
+  }
+}

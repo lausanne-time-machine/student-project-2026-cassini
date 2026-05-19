@@ -1,0 +1,437 @@
+{
+  "MEX": {
+    "Huiles et benzines": [
+      "Valet Ern."
+    ],
+    "Ingénieur": [
+      "Livio André"
+    ],
+    "Laitier, fromages.": [
+      "Burla Ern."
+    ],
+    "Lingères.": [
+      "Amiet Blanche",
+      "Chollet Lina"
+    ],
+    "Maréchal-forgeron.": [
+      "Stutzmann Ern."
+    ],
+    "Menuisier-parq.": [
+      "Marguet Fern."
+    ],
+    "Pépiniériste-sylviculteur.": [
+      "Vaney H."
+    ],
+    "Porcs (md de).": [
+      "Burla Ernest"
+    ],
+    "Sage-femme.": [
+      "Marguet Evelyne"
+    ],
+    "Société.": [
+      "Sté de fromagerie"
+    ],
+    "Divers.": [
+      "Charrière de Sévery Simone",
+      "Livio André"
+    ]
+  },
+  "MEZERY": {
+    "Syndic": [
+      "Vuagniaux Robert"
+    ],
+    "Secrétaire": [
+      "Henrioud Constant"
+    ],
+    "Boursier": [
+      "Cavin William"
+    ],
+    "Huissier": [
+      "Cavin William"
+    ],
+    "Municipaux": [
+      "Basset Robert",
+      "Héritier Jean"
+    ],
+    "Commandant du feu": [
+      "Héritier Jean"
+    ],
+    "Commission scolaire": [
+      "Héritier Jean",
+      "Basset Marc",
+      "Vuagniaux Robert"
+    ],
+    "Garde-forestier": [
+      "Pitton E."
+    ],
+    "Inspecteur du bétail": [
+      "Henrioud Paul"
+    ],
+    "Inspecteur des viandes": [
+      "Schafftler C."
+    ],
+    "Agriculteurs": [
+      "Basset Robert",
+      "Cavin William",
+      "Rapin Florian",
+      "Henrioud Paul",
+      "Héritier Henri",
+      "Héritier Jean",
+      "Héritier Albert-Soltermann Hans",
+      "Vuagniaux frères"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite",
+      "Favre, Mme"
+    ],
+    "Boucher": [
+      "Wuagniaux Robert"
+    ],
+    "Epicerie": [
+      "Braillard Héli"
+    ],
+    "Pompes funèbres du Nord": [
+      "Henrioud Marcel"
+    ],
+    "Tisserand": [
+      "Basset Marc"
+    ]
+  },
+  "MÉZIÈRES": {
+    "Députés du cercle": [
+      "Jordan Pierre",
+      "Porchet Jean-Louis"
+    ],
+    "Syndic": [
+      "Jordan Constant"
+    ],
+    "Secrétaire": [
+      "Fawer Charles"
+    ],
+    "Boursier": [
+      "Gilliéron Jean-Louis"
+    ],
+    "Huissier": [
+      "Gilliéron William",
+      "Durussel Paul"
+    ],
+    "Municipaux": [
+      "Badel Octave",
+      "Fiaux Henri",
+      "Gloor Gréd.",
+      "Guisan Ch."
+    ],
+    "Bureau de renseignements": [
+      "Badel Octave"
+    ],
+    "Cantonnier": [
+      "Rod Victor"
+    ],
+    "Chef de gare": [
+      "Ramel Louis"
+    ],
+    "Chef de section": [
+      "Emery Marcel"
+    ],
+    "Command. du feu": [
+      "Porchet Pierre"
+    ],
+    "Commission scolaire": [
+      "Mack Jean"
+    ],
+    "Contrôleur du lait": [
+      "Mellioret Georges"
+    ],
+    "Inspecteur du bétail": [
+      "Jordan Henri"
+    ],
+    "Inspecteur des viandes": [
+      "Rod Jean"
+    ],
+    "Instituteurs": [
+      "Bourgeois Léon",
+      "Pasche Ch.",
+      "Gander Jacqueline"
+    ],
+    "Justice de paix. - Juge": [
+      "Jordan Constant"
+    ],
+    "Greffier": [
+      "Cavin W.-A."
+    ],
+    "Assesseurs": [
+      "Gavillet Louis",
+      "Nicod Constant",
+      "Porchet Edmond",
+      "Reybaz Jean"
+    ],
+    "Officier d'état-civil": [
+      "Gloor Frédéric"
+    ],
+    "Pasteur": [
+      "Prod'hom Roger"
+    ],
+    "Police (agent de)": [
+      "Devaud René"
+    ],
+    "Poste et télégraphe": [
+      "Bize Emile"
+    ],
+    "Théâtre": [
+      "Société du Théâtre du Jorat"
+    ],
+    "Agriculteurs": [
+      "Aubert Paul-Louis",
+      "Baelcher Ernest",
+      "Bettens Emile",
+      "Beyeler Auguste",
+      "Dubois Oscar",
+      "Emery Marcel",
+      "Fiaux frères",
+      "Forestier André",
+      "Gilliéron Alf.",
+      "Gilliéron Hri",
+      "Gilliéron Osc.",
+      "Glauser Ern.",
+      "Gloor Fréd.",
+      "Gloor Hector",
+      "Jordan Aloïs",
+      "Jordan Alf.",
+      "Jordan Constant",
+      "Jordan Henri",
+      "Jordan hoirie",
+      "Jordan Louis",
+      "Kupfer Gottgried",
+      "Loup Samuel",
+      "Menth Marcel",
+      "Moltaz Emile",
+      "Pouly Henri",
+      "Rod Gustave",
+      "Rod Jean",
+      "Rod Oscar"
+    ],
+    "Apiculteurs": [
+      "Gilliéron J.-Louis",
+      "Jordan Constant"
+    ],
+    "Ameublements": [
+      "Allasia & Cie",
+      "Gilliéron & Cie"
+    ],
+    "Assurance": [
+      "Assurance mutuelle vaudoise",
+      "Badel O.",
+      "Genevoise",
+      "Cavin Albert"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Pasche Ch."
+    ],
+    "Auto-garage": [
+      "Favez Gaston",
+      "Jordan Roger"
+    ],
+    "Banques": [
+      "Banque populaire de la Broye",
+      "Pasche Ernestine, Mme",
+      "Caisse Raiffeisen",
+      "Cavin Albert"
+    ],
+    "Caisse d'Epargne Cantonale": [
+      "Cavin W."
+    ],
+    "Boulangers": [
+      "Fawer Charles",
+      "Porchet, Vve d'Aug."
+    ],
+    "Cafés": [
+      "Chapuis Georges",
+      "Christin Joseph",
+      "Fawer Julie",
+      "Porchet Auguste, Mme, Vve"
+    ],
+    "Camionneurs": [
+      "Favez Gaston",
+      "Rod Edouard"
+    ],
+    "Chapelleries": [
+      "Allasia & Cie",
+      "Gilliéron & Cie",
+      "Mayor-Dubois Arnold"
+    ],
+    "Charcutiers": [
+      "Ponthet frères",
+      "Chapuis Georges"
+    ],
+    "Charpentier": [
+      "Nicolas Ernest"
+    ],
+    "Charron": [
+      "Degex Aloïs"
+    ],
+    "Chaussures": [
+      "Allasia & Cie",
+      "Gilliéron & Cie",
+      "Ponthet frères",
+      "Stuby Louis"
+    ],
+    "Coiffeurs": [
+      "Mayor-Dubois Arnold",
+      "Monney Alice",
+      "Stuby Louis"
+    ],
+    "Combustibles": [
+      "Chappuis & Cie",
+      "Ponthet frères"
+    ],
+    "Confections": [
+      "Allasia & Cie",
+      "Gilliéron & Cie",
+      "Mayor-Dubois Arnold",
+      "Stuby Louis"
+    ],
+    "Cordonnier": [
+      "Durussel Paul"
+    ],
+    "Couturières": [
+      "Fawer Berthe",
+      "Jordan Nelly, Mme",
+      "Junod Mme",
+      "Maury Méry"
+    ],
+    "Dentiste": [
+      "Rhein-despraz"
+    ],
+    "Eaux minérales": [
+      "Mellioret Georges"
+    ],
+    "Electricité": [
+      "Entreprises électriques fribourgeoises",
+      "Dorier Louis"
+    ],
+    "Entrepreneur": [
+      "Gabella Louis"
+    ],
+    "Epicerie, mercerie": [
+      "Allasia & Cie",
+      "Chappuis & Cie",
+      "Gilliéron & Cie",
+      "Ponthet frères"
+    ],
+    "Ferblantiers-appareilleurs": [
+      "Jordan Ulysse",
+      "Pasche Maur."
+    ],
+    "Fers et quincaillerie": [
+      "Chappuis & Cie",
+      "Mamin Alfr.",
+      "Ponthet frères",
+      "Stuby Louis"
+    ],
+    "Fromages (comm. de)": [
+      "Cavin Oscar",
+      "Jaton Auguste"
+    ],
+    "Gravière": [
+      "Rod Victor"
+    ],
+    "Grains et farines": [
+      "Société d'agriculture",
+      "Emery Marcel"
+    ],
+    "Gypsier-peintre": [
+      "Letto Ernest"
+    ],
+    "Horloger": [
+      "Rebetez Marcel"
+    ],
+    "Hôtel": [
+      "Chapuis Georges"
+    ],
+    "Huilerie": [
+      "Gilliéron Alfred"
+    ],
+    "Journaux": [
+      "Mayor-Dubois Arnold"
+    ],
+    "Laitiers": [
+      "Cavin Oscar",
+      "Jaton Auguste"
+    ],
+    "Machines agricoles": [
+      "Chappuis & Cie",
+      "Mamin Alfred"
+    ],
+    "Machines à coudre": [
+      "Allasia & Cie",
+      "Gilliéron & Cie"
+    ],
+    "Maréchal": [
+      "Mamin Alfred"
+    ],
+    "Matériaux de constr.": [
+      "Gabella Ls."
+    ],
+    "Mécaniciens": [
+      "Jordan, hoirie",
+      "Porchet J.-Louis"
+    ],
+    "Médecins": [
+      "Guisan Charles",
+      "Mack Jean"
+    ],
+    "Menuisiers": [
+      "Bezençon Alfred",
+      "Cavin Alfred"
+    ],
+    "Notaire": [
+      "Cavin W.-A."
+    ],
+    "Pension": [
+      "Clos des Roses",
+      "Georges, Mme, Vve."
+    ],
+    "Pharmacien": [
+      "Kiener Ed."
+    ],
+    "Primeurs": [
+      "Caillet Emile",
+      "Ponthet frères"
+    ],
+    "Rentiers": [
+      "Badel Oct.",
+      "Cavin Alfred",
+      "Dubied Ami",
+      "Gilliéron Maurice",
+      "Guisan Eva"
+    ],
+    "Sage-femme": [
+      "Emery Berthe"
+    ],
+    "Sellier-tapissier": [
+      "Eichenberger Fr."
+    ],
+    "Sociétés": [
+      "Abbaye des fusiliers du Jorat",
+      "Chœur de dames",
+      "Fanfare du Jorat",
+      "Section de la société de cavalerie",
+      "Section de Secours mutuels",
+      "Sté d'agriculture",
+      "Sté de chant L'Espérance",
+      "Sté de fromagerie",
+      "Sté de gymnastique",
+      "Sté de jeunesse",
+      "Théâtre du Jorat",
+      "Pasche Ch."
+    ],
+    "Tailleur": [
+      "Christen J."
+    ],
+    "Tricotage mécan.": [
+      "Chappuis Emma",
+      "Eichenberger F."
+    ]
+  }
+}

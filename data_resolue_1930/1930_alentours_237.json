@@ -1,0 +1,64 @@
+{
+  "VILLE DE VEVEY": {
+    "Auberges.": [
+      "Hôtel du Guillaume Tell",
+      "Hôtel Friedrich",
+      "Hôtel de tempérance"
+    ],
+    "Automobiles et autogarages.": [
+      "Bettex & Salzmann",
+      "Bovay André",
+      "Bovay Robert",
+      "Bovay Marcel",
+      "Bourquin A.",
+      "Briffod Ch.",
+      "Claude Léon",
+      "Claude Paul",
+      "Dettwiller Alfred",
+      "Ducret Gust.",
+      "Fuchs J.",
+      "Kundig & Cie",
+      "Liewald Fritz",
+      "Maquelin Ch.",
+      "Pittet & Morvant",
+      "Pouly Henri",
+      "Taverney Robert",
+      "Volet Jean",
+      "Vulliens E.",
+      "Vulliens Henri"
+    ],
+    "Automobiles (appareils de contrôle).": [
+      "Le Controlographe, S. A."
+    ],
+    "Avocats.": [
+      "Paschoud Henri",
+      "Secretan Charles",
+      "Sillig Ed. & Turin"
+    ],
+    "Bâches et couvertures (fabr. de)": [
+      "Guinand Bernard"
+    ],
+    "Bains.": [
+      "Bains du Lac",
+      "Vevey-Corseaux Plage.",
+      "Buanderie et bains",
+      "Bains des Alpes"
+    ],
+    "Balanciers.": [
+      "Briffod Ch."
+    ],
+    "Bandagistes.": [
+      "Barraud François"
+    ],
+    "Banques.": [
+      "Banque cantonale vaudoise",
+      "Banque fédérale",
+      "Caisse d’épargne Monod A.",
+      "Crédit du Léman",
+      "Comptoir d'Escompte de Genève",
+      "de Palézieux & Cie",
+      "Union de Banques Suisses",
+      "Union vaudoise du Crédit"
+    ]
+  }
+}

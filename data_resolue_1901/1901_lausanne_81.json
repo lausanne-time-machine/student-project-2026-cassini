@@ -1,0 +1,79 @@
+{
+  "VILLE DE LAUSANNE": {
+    "PROFESSEURS": [
+      "Troyon, Charles",
+      "Vallotton, Paul",
+      "Vittoz, Edouard",
+      "Vittoz, Paul",
+      "Vulliemin, Charles",
+      "Wellauer, Albert"
+    ],
+    "PROFESSEURS DE CALLIGRAPHIE": [
+      "Petoud, Edouard",
+      "Petoud, Fanny"
+    ],
+    "PROFESSEURS DE COUPE": [
+      "Berthoud-Goldinger",
+      "Beutler-Kopf, Catherine",
+      "Chevalley, A.",
+      "Giroud, Mathilde",
+      "Vidoudez, Ida"
+    ],
+    "PROFESSEUR DE CUISINE": [
+      "Hayward, Georges",
+      "Maillard, Albert-Frédéric"
+    ],
+    "PROFESSEURS DE DANSE": [
+      "Gerber, Henri",
+      "Lorenz, Henri",
+      "Pilet, Eugène",
+      "Plojoux-Lovetti, Emma",
+      "Ruchet, Emilie",
+      "Schönenberger-Lovetti"
+    ],
+    "PROFESSEURS DE DESSIN ET PEINTURE": [
+      "Aigroz, Marguerite",
+      "Bauernheinz-Epplé, Auguste",
+      "Bieler, Elisabeth",
+      "Bischoff, Th.",
+      "Bize, H.",
+      "Chavannes, Berthe",
+      "Colomb, Emma",
+      "Dulex, Hélène",
+      "Estoppey, Léonie",
+      "Gloor, Lina",
+      "Gross, Eléonore",
+      "Herzog, Arthur",
+      "Koëlla, Charles",
+      "Laurent, Jeanne",
+      "Ledoux",
+      "Lugrin, Prosper",
+      "Malan, Camille",
+      "Mellet, Joséphine",
+      "Nicolet",
+      "Penard-Teillet, Marie",
+      "Pétrequin-Bronne",
+      "Sandoz, Marie",
+      "Siméon, Nicolas"
+    ],
+    "PROFESSEURS DE DICTION": [
+      "Byse, Charles",
+      "Chovel, Emilie",
+      "Malan, Camille",
+      "Scheler, Alphonse"
+    ],
+    "PROFESSEURS D'ESCRIME": [
+      "Brun, Louis",
+      "De Buysscher",
+      "Dufour-Borter",
+      "Dufour, François"
+    ],
+    "PROFESSEURS D'ÉQUITATION": [
+      "Dufour, Jules",
+      "Mauerhofer, Charles"
+    ],
+    "PROFESSEURS DE GYMNASTIQUE": [
+      "Brun, Louis"
+    ]
+  }
+}

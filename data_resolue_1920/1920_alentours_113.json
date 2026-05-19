@@ -1,0 +1,201 @@
+{
+  "OLLON": {
+    "Bazars": [
+      "Hôtel du Parc et Queen's Hôtel",
+      "Gutierrez-Melly J.",
+      "Grand Hôtel de Villars",
+      "Freudweiler Jacques",
+      "Pension du Cerf",
+      "Weber J. R",
+      "Chalet Rose",
+      "Hôtel Belvédère",
+      "G. Roth",
+      "Hôtel Victoria",
+      "Chalet Anglais",
+      "pension E. Macdonell",
+      "Pension Bellevue",
+      "Pension Gentiane",
+      "Pension Marie-Antoinette",
+      "Pension Rose-Marie",
+      "Société des Hôtels de Villars",
+      "Grand Hôtel",
+      "Muveran",
+      "Bellevue",
+      "Villars-Palace",
+      "Genillard Ch.",
+      "Hôtel des Sapins",
+      "Croset Henri",
+      "Clinique Montesana",
+      "Angelo de Rin",
+      "Pension des Fougères",
+      "Pension Roud"
+    ],
+    "Huileries": [
+      "Ambresin Ph.",
+      "Pittet Paul"
+    ],
+    "Inspecteur des montagnes": [
+      "Moret François"
+    ],
+    "Inspecteurs du bétail": [
+      "Anex Louis",
+      "Moret-Guex François",
+      "Dulex Jean",
+      "Pilet Charles"
+    ],
+    "Instituteurs": [
+      "Cosandai Edmond",
+      "Dony Lucien",
+      "Girod Vincent",
+      "Rossat Gaston",
+      "Jordan David",
+      "Marmier Richard",
+      "Thomi William",
+      "Rosset Alexis"
+    ],
+    "Institutrices": [
+      "Isabel Charlotte",
+      "Chambovey Juliette",
+      "Colomb-Anex Isaline",
+      "Demartin Lina",
+      "Demartin Louise",
+      "Greyloz Emma",
+      "Gertsch Caroline",
+      "Moret-Keller Justine",
+      "Corboz Marthe",
+      "Amiguet Augusta",
+      "Pilet Marie",
+      "Vaudroz Germaine"
+    ],
+    "Justice de paix du cercle": [
+      "Bercier Henri",
+      "Anex-Guex Henri",
+      "Chamorel Félix",
+      "Moret H.",
+      "Ruchet Benjamin",
+      "Greyloz Adolphe"
+    ],
+    "Laiteries": [
+      "Laiterie de Cramoisine",
+      "Laiterie d'Ollon"
+    ],
+    "Librairie-papeterie": [
+      "Butner Louis",
+      "Thomas Pl."
+    ],
+    "Lingères": [
+      "Anex Marguerite",
+      "Buffat Elisa",
+      "Jouvenat-Chamorel Marie",
+      "Moret-Keller Justine",
+      "Ruchet-Amiguet Sophie"
+    ],
+    "Maçons": [
+      "Mérinat Emile",
+      "Mathys Edouard"
+    ],
+    "Maréchaux": [
+      "Amiguet Samuel",
+      "Denoréaz J.",
+      "Dupertuis Auguste",
+      "Luisiez Alphonse",
+      "Tille Alexis"
+    ],
+    "Médecins": [
+      "Demiéville Ernest",
+      "Guillermin René"
+    ],
+    "Menuisiers": [
+      "Fankhauser Albert",
+      "Hauenstein Gottfried",
+      "Oguey-Olivet Henri"
+    ],
+    "Mercerie": [
+      "Anex Marguerite",
+      "Eggen Auguste"
+    ],
+    "Modes": [
+      "Michot et Leresche"
+    ],
+    "Notaire": [
+      "Greyloz L.-A."
+    ],
+    "Officiers d'état-civil": [
+      "Kalbfuss Fs",
+      "Anex Jean",
+      "Anex-Guex Henri"
+    ],
+    "Pasteurs": [
+      "Chapuis Paul",
+      "Mercier Charles",
+      "Murset Charles"
+    ],
+    "Peintre (artiste(": [
+      "Rouge Frédéric"
+    ],
+    "Photographe": [
+      "Butner L."
+    ],
+    "Piano (Prof. de)": [
+      "Bonzon Eléonore"
+    ],
+    "Quincaillerie": [
+      "Curchod-Pittet"
+    ],
+    "Sages-femmes": [
+      "Durand Marie",
+      "Hauswirth Julie",
+      "Roud-Anex Elise"
+    ],
+    "Scieries": [
+      "Association de la scierie de Panex",
+      "Ambresin Ph., fils",
+      "Dulex Gustave",
+      "Dumas Placide",
+      "Mosching Adolphe"
+    ],
+    "Sellier-tapissier": [
+      "Ackermann L."
+    ],
+    "Serruriers": [
+      "Amiguet Samuel",
+      "Luisier A."
+    ],
+    "Sociétés": [
+      "Battoir et moulin agricole",
+      "Association vinicole d'Ollon",
+      "Syndicat agricole d'Ollon",
+      "Caisse d'assurance du bétail d'Ollon",
+      "Caisse d'assurance du bétail de Chesières-Villars-Arveyes",
+      "Laiterie d'Ollon",
+      "Laiterie de St-Triphon",
+      "Laiterie de Cramoisines",
+      "Laiteries de Huémoz, de Panex et d'Antagnes",
+      "Société de fromagerie de Chesières",
+      "Société anonyme du Petit Clos",
+      "Société des Amis de la Liberté",
+      "Société de l'Union de Huémoz",
+      "Société des Hôtels de Villars",
+      "Société des carrières de St-Triphon et Collombey",
+      "Section de la Croix-Bleue",
+      "Section de l'Avenir",
+      "Société immobilière de Chesières",
+      "Société des gypses de Salaz",
+      "Crédit mutuel d'Ollon"
+    ],
+    "Teinturerie": [
+      "Metz-Kissling"
+    ],
+    "Télégraphistes": [
+      "Amiguet Henri",
+      "Anex-Dulex Marie, Vve",
+      "Dormond-Croset Henri"
+    ],
+    "Téléphone": [
+      "Station publique à Ollon",
+      "Maison de Ville",
+      "Mme Jaquemin",
+      "M. Ruchet Henri"
+    ]
+  }
+}

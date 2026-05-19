@@ -1,0 +1,239 @@
+{
+  "ORBE": {
+    "Cafés.": [
+      "Hutzner & fils L.",
+      "Lavenex Alb.",
+      "Pahud Paul",
+      "Pasche Louis",
+      "Reymond Arth.",
+      "Troyon Alfred",
+      "Wyss Ernest"
+    ],
+    "Caisse d'épargne.": [
+      "Société de la Caisse d'épargne d'Orbe"
+    ],
+    "Camionneurs.": [
+      "Dissard Pierre",
+      "Junod Edmond",
+      "Tallichet Henri",
+      "Vallotton Lucien"
+    ],
+    "Carrière (exploitation de.)": [
+      "Testori Ange"
+    ],
+    "Carrosserie.": [
+      "Rauchle Charles"
+    ],
+    "Cercueils.": [
+      "Huber Albert",
+      "Pompes Funèbres Générales, S. A.",
+      "Pompes Funèbres Nouvelles, S. A.",
+      "Sterchi Eug."
+    ],
+    "Chapellerie.": [
+      "Bloch-Meyer Georges",
+      "Gabé Emile",
+      "Gonset-Henrioud S. A.",
+      "Hégi-Zumwald Emile"
+    ],
+    "Charcutiers.": [
+      "Berger Charles",
+      "Giroud M.",
+      "Herren Hermann",
+      "Michaud Ernest",
+      "Périllard V. & R."
+    ],
+    "Charpentiers.": [
+      "Addor & Cie",
+      "Huber Albert",
+      "Sterchi Eugène",
+      "Troyon Emile"
+    ],
+    "Charrons.": [
+      "Huber Rodolphe"
+    ],
+    "Chauffage central.": [
+      "Bischof Jean"
+    ],
+    "Chaussures (march. de).": [
+      "Broglio Jean",
+      "Estoppey Marcel",
+      "Ferreux Louis",
+      "Société coopérative de consommation L'Economie"
+    ],
+    "Chocolat (fab. de).": [
+      "Nestlé, Peter, Cailler, Kohler, Chocolats suisses"
+    ],
+    "Cinéma.": [
+      "Casino sonore"
+    ],
+    "Coiffeurs.": [
+      "Antonietti P.",
+      "Canel Roger",
+      "Cant Louis",
+      "Cant-Mottaz A.",
+      "Cassini Pierre",
+      "Cottier-Boudry Lucie",
+      "Oulevay Charles",
+      "Tauxe Gaby",
+      "Vassalli Ivan"
+    ],
+    "Combustibles.": [
+      "Bezençon & Bousson",
+      "Société coopérative"
+    ],
+    "Confections pour hommes.": [
+      "Bloch Georges",
+      "Galé Emile",
+      "Gilliéron Louis",
+      "Gonset-Henrioud P., S. A.",
+      "Ramelet Emile"
+    ],
+    "Crèmeries-Tea-room.": [
+      "Bauer E.",
+      "Grobéty Marcel",
+      "Molleyres André",
+      "Pelaton Ernest",
+      "Zehnder Paul"
+    ],
+    "Cordonniers.": [
+      "Beyeler Jean",
+      "Broglio Jean",
+      "Ferreux Ls",
+      "Meige A.",
+      "Monney Joseph",
+      "Pletscher P.",
+      "Schranz Fritz"
+    ],
+    "Courtepointière.": [
+      "Robellaz Marguerite"
+    ],
+    "Couturières": [
+      "Chenuz Antoinette",
+      "Cochard-Goy Henriette",
+      "Gueissaz-Perriraz Blanche",
+      "Junod Yvonne",
+      "Matthey",
+      "Morattel M.",
+      "Pichonnaz",
+      "Pochon",
+      "Publioz Fernande",
+      "Savary Esther"
+    ],
+    "Cycles": [
+      "Grandjean"
+    ],
+    "Dentistes": [
+      "Huguenin Gustave",
+      "Nicole Henry"
+    ],
+    "Distillerie": [
+      "Erni Adolphe",
+      "Kern Robert"
+    ],
+    "Droguerie": [
+      "Masmejan Charles",
+      "Rosset Eugène"
+    ],
+    "Eaux gazeuses et minérales.": [
+      "Bezençon & Bousson",
+      "Dissard Pierre",
+      "Suri Auguste"
+    ],
+    "Electricité": [
+      "Sté des Usines de l'Orbe",
+      "Bourquin W."
+    ],
+    "Encadreurs.": [
+      "Tallichet René",
+      "Descombes Louis"
+    ],
+    "Engrais chimiques.": [
+      "Bezençon & Bousson"
+    ],
+    "Entrepreneurs.": [
+      "Addor & Cie",
+      "Bula & Tardy",
+      "Castelli Joseph et fils",
+      "Castelli José",
+      "Dell'Acqua Joseph",
+      "Ferrario Pierre",
+      "Rovero frères",
+      "Zeni Félix"
+    ],
+    "Epiceries, merceries.": [
+      "Addor Rosa",
+      "Béguelin Jean",
+      "Buhler André",
+      "Dietrich B.",
+      "Dissard Pierre",
+      "Dupuis Fernand",
+      "Gianoli-Devenoge Mathilde",
+      "Gindroz Olive",
+      "Golaz Louisa",
+      "Mercier Juliette",
+      "Périllard",
+      "Rod-Charles Frida",
+      "Rosset Eug.",
+      "Rossier Louis",
+      "Roth Evelyne",
+      "Schönenberger Gges",
+      "Soc. coop. consomm. L'Economie",
+      "Suri Auguste"
+    ],
+    "Equarisseur.": [
+      "Meylan William"
+    ],
+    "Ferblantiers-couvreurs.": [
+      "Alvazzi Aug.",
+      "Rogivue Léon"
+    ],
+    "Fers et quincaillerie.": [
+      "Ramuz-Bonzon Sophie",
+      "Reymond Gustave"
+    ],
+    "Fromages (march. de).": [
+      "Bignens-Vallotton",
+      "Conod, hoirie",
+      "Demont-Gindroz Olive",
+      "Pidoux René"
+    ],
+    "Garde-malades.": [
+      "Beauverd Félicie",
+      "Schaller Annette"
+    ],
+    "Géomètres officiels.": [
+      "Jomini Paul",
+      "Thomas H.",
+      "Thibaud Marcel"
+    ],
+    "Grains et farines (en gros).": [
+      "Bezençon & Bousson",
+      "Moulins Rod. (S. A.)"
+    ],
+    "Gramophones.": [
+      "Disteli Otto",
+      "Gudit-Morel Julia"
+    ],
+    "Gypsiers-peintres.": [
+      "Antonietti Alphonse",
+      "Antonietti frères",
+      "Antonietti Léon",
+      "Dallerto Jean",
+      "Gagliardini Ernest",
+      "Jaques Ernest",
+      "Perolini frères"
+    ],
+    "Hongreur.": [
+      "Cochet Jules"
+    ],
+    "Horlogers-bijoutiers.": [
+      "Béguelin Marcel",
+      "Guignard Francis"
+    ],
+    "Hôtels.": [
+      "Fuhmann Maria",
+      "Reymond Arthur"
+    ]
+  }
+}

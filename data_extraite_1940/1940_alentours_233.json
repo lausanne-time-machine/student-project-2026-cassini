@@ -1,0 +1,390 @@
+{
+  "PUIDOUX": {
+    "CONTINUATION_FROM_PREVIOUS_PAGE": [
+      "Mérian A.",
+      "Meyer Ed.",
+      "Wirz Henri"
+    ],
+    "Charcutier": [
+      "Dupont Robert"
+    ],
+    "Charpentiers": [
+      "Durussel Emile",
+      "Lambelet Henri"
+    ],
+    "Charrons": [
+      "Dutoit Ernest",
+      "Sunier Gaston"
+    ],
+    "Cordonnier": [
+      "Légeret Alfr."
+    ],
+    "Couturières": [
+      "Chaubert Suzanne",
+      "Chollet Julie",
+      "Cossy Juliette",
+      "Corbessière",
+      "Hügi, Mlle"
+    ],
+    "Crèmerie-tea-room": [
+      "Wirz Henri"
+    ],
+    "Décorateur-étalagiste": [
+      "Benedetto Marcel"
+    ],
+    "Electricité": [
+      "Muller Ernest"
+    ],
+    "Entrepreneurs": [
+      "Leyvraz-Grandchamp Emile",
+      "Mellina Sylvestre",
+      "Toso Joseph"
+    ],
+    "Epicerie, mercerie": [
+      "Chaubert Hermann",
+      "Décosterd E.",
+      "Karlen Louis"
+    ],
+    "Fabrique de fibre de bois": [
+      "La Vulpillière, Isoterme S.A."
+    ],
+    "Gravière (exploit. de)": [
+      "Chabloz Jules",
+      "Toso, hoirs d'Auguste"
+    ],
+    "Hôtels-pensions": [
+      "Bellevue-Hôtel",
+      "Butticaz J. T.",
+      "Hôtel des Chemins de fer, Robert André",
+      "Hôtel du Signal de Chexbres, von Gunten Hermann"
+    ],
+    "Jardinier-pépiniériste": [
+      "Murisier Max"
+    ],
+    "Laiterie de Cremière": [
+      "Décosterd R."
+    ],
+    "Maçons": [
+      "Mélina",
+      "Leyvraz Emile",
+      "Toso Joseph"
+    ],
+    "Maraîchers": [
+      "Bastian frères"
+    ],
+    "Maréchaux et machines agricoles": [
+      "Naegele Emile",
+      "Pasche Pierre"
+    ],
+    "Matériaux de construction": [
+      "Chabloz et fils",
+      "Toso, hoirs d'Aug."
+    ],
+    "Menuisiers": [
+      "Benedetto Louis et fils",
+      "Jossevel Paul",
+      "Muller Gges"
+    ],
+    "Meunier": [
+      "Conne Emile"
+    ],
+    "Pensions d'été": [
+      "Chappuis P., Mme",
+      "Chollet Constant",
+      "Bornand Charles",
+      "Grandchamp Adrien"
+    ],
+    "Pépiniériste": [
+      "Murisier Max"
+    ],
+    "Produits alimentaires pour le bétail": [
+      "« Ruppa »",
+      "Rosselet"
+    ],
+    "Professeur de musique": [
+      "Bornand Marcel"
+    ],
+    "Sables et graviers": [
+      "Chabloz Jules",
+      "Toso, hoirs d'Aug."
+    ],
+    "Sage-femme": [
+      "Schupbach Marthe"
+    ],
+    "Scieries": [
+      "Cossy Henri",
+      "Leyvraz Julien"
+    ],
+    "Scierie circulante": [
+      "Réy"
+    ],
+    "Selliers-tapissiers": [
+      "Jan Adolphe",
+      "Mounoud Paul"
+    ],
+    "Sociétés": [
+      "Sté de laiterie de l'Epesse",
+      "Sté de laiterie de La Lôche",
+      "Sté de laiterie de Longchamp",
+      "Sté de laiterie de Méléreaz",
+      "Sté de laiterie de Cremières et de Toloveau",
+      "Syndicat agricole Puidoux-Chexbres",
+      "Crédit mutuel de Puidoux-Chexbres"
+    ],
+    "Vignerons-viticult.": [
+      "Blanc Victor",
+      "Bovard Henri",
+      "Butticaz Frédéric",
+      "Chappuis Samuel",
+      "Chappuis Maurice",
+      "Chevalley Victor",
+      "Chevalley Pl.",
+      "Conne Ernest",
+      "Delessert Em.",
+      "Dubois Oscar, Vve",
+      "Leyvraz Emile",
+      "Monod Aug."
+    ],
+    "Vins (march. de)": [
+      "Bron Victor",
+      "Testuz Jules"
+    ],
+    "Divers": [
+      "Gardiol R."
+    ]
+  },
+  "RANGES": {
+    "Syndic": [
+      "Vuitel Ls."
+    ],
+    "Secrétaire": [
+      "Pinard Maurice"
+    ],
+    "Boursier": [
+      "Randin Emile"
+    ],
+    "Huissier": [
+      "Randin Edmond"
+    ],
+    "Municipaux": [
+      "May Paul, fils",
+      "Pinard Jules",
+      "Randin Julien",
+      "Randin Marcel",
+      "Simonin Donat",
+      "Vandem Albert"
+    ],
+    "Cantonnier": [
+      "Mayland Robert"
+    ],
+    "Commandant du feu": [
+      "Cottens Aimé"
+    ],
+    "Commission scolaire": [
+      "Simonin Albert"
+    ],
+    "Contrôleur du lait": [
+      "Pinard Maurice"
+    ],
+    "Garde-forestier": [
+      "Favre Gust."
+    ],
+    "Inspecteur du bétail": [
+      "Randin Marcel"
+    ],
+    "Inspecteur des viandes": [
+      "Schneiter M."
+    ],
+    "Instituteurs": [
+      "Pinard Camille",
+      "Tréhan-Grognuz Marguerite",
+      "Jaccard-Widmer Juliette"
+    ],
+    "Pasteur": [
+      "de Perrot Gustave"
+    ],
+    "Police (agent de)": [
+      "Cand Charles"
+    ],
+    "Poste et télégraphe": [
+      "Simonin Albert"
+    ],
+    "Téléphone": [
+      "Stat. communale, Ecusson Vaudois",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs": [
+      "Bavet William",
+      "Beauverd Robert",
+      "Bonzon Julien",
+      "Cand Alfred",
+      "Cottens frères",
+      "Cottens Henri",
+      "Fiaux Adrien",
+      "Fiaux Louis",
+      "Guignard hoirie d'Eugène",
+      "Jaccard Agénor",
+      "Martin Ami",
+      "May Paul",
+      "Paux Ch.",
+      "Perriraz Ch.",
+      "Pichonnaz Sam.",
+      "Pinard Ami",
+      "Pinard Jules",
+      "Pisler Alb.",
+      "Pisler Ls",
+      "Randin, hoirie de Ch.",
+      "Randin Emile",
+      "Randin, hoirie d'Emile",
+      "Randin Sam.",
+      "Randin Louis",
+      "Randin-Mayland Robert",
+      "Randin Julien",
+      "Randin-Roulet Henri",
+      "Randin Victor",
+      "Ravey, hoirie de Gustave",
+      "Schneiter Louis",
+      "Schneiter Sam.",
+      "Simonin Aug.",
+      "Simonin Ch.",
+      "Simonin Albert",
+      "Simonin Emile",
+      "Simonin Jules",
+      "Tétaz Jules",
+      "Thibaud Jules",
+      "Tréhan Lucien de Jules",
+      "Tréhan Maurice",
+      "Wagnière Julien"
+    ],
+    "Apiculteurs": [
+      "Caillachon John",
+      "Richard Charles",
+      "Perrin Frida, Mme"
+    ],
+    "Assurance-vieillesse": [
+      "Société mutuelle de retraite",
+      "Pisler"
+    ],
+    "Banque": [
+      "Caisse de crédit mutuel",
+      "Pinard C."
+    ],
+    "Bois (march. de)": [
+      "Ravey, hoirie de Gustave"
+    ],
+    "Boulangers": [
+      "Pisler Emile",
+      "Randin Ulysse"
+    ],
+    "Bûcheron": [
+      "Cornu Ls."
+    ],
+    "Cafés": [
+      "Cottens, Vve de Jules et fils",
+      "Ecusson Vaudois",
+      "Randin Elisa, Vve de Charles"
+    ],
+    "Cantonnier de l'Etat": [
+      "Mayland Rob."
+    ],
+    "Charcutiers": [
+      "Caillachon John",
+      "Simonin Louis"
+    ],
+    "Charpentier": [
+      "Pisler Gustave"
+    ],
+    "Charron": [
+      "Cand Jules"
+    ],
+    "Cordonniers": [
+      "Richard Charles",
+      "Vallotton Auguste"
+    ],
+    "Couturières": [
+      "Bignens Violette",
+      "Martin, Mme",
+      "Widmer Marie"
+    ],
+    "Entrepreneur": [
+      "Balzaretti Rémy"
+    ],
+    "Epiceries": [
+      "Correvon Louis",
+      "Pisler-Bogno Louis",
+      "Randin Ulysse"
+    ],
+    "Jardinier": [
+      "Van Dedem Albert"
+    ],
+    "Laitier": [
+      "Ramseier Charles"
+    ],
+    "Maréchaux": [
+      "Pisler Emile, fils",
+      "Tréhan Félix"
+    ],
+    "Mécanicien et T. S. F.": [
+      "Randin A."
+    ],
+    "Menuisiers": [
+      "Bignens Paul",
+      "Mabille Fernand et fils"
+    ],
+    "Radio": [
+      "Randin André"
+    ],
+    "Sellier-tapissier": [
+      "Caillachon Albert"
+    ],
+    "Sociétés": [
+      "Sté du battoir à grains",
+      "Caisse de crédit mutuel",
+      "Syndicat agricole et d'élevage",
+      "Stés de musique et de gymnastique",
+      "Sté de tir Aux Armes de guerre",
+      "Société L'Echo du Jura"
+    ],
+    "Tissus et confection": [
+      "Pisler-Bogno Louis"
+    ],
+    "Transports": [
+      "Cottens frères"
+    ],
+    "Vélos": [
+      "Correvon Ls."
+    ],
+    "Vignerons": [
+      "Agassiz Chs",
+      "Bavet William",
+      "Cottens Jean",
+      "Jaccard Agénor",
+      "Mabille Fernand",
+      "Pinard hoirs de Paul",
+      "Pisler Emile, père",
+      "Randin, hoirie de Ch.",
+      "Randin Paul",
+      "Richard Ch.",
+      "Simonin Emile feu Benjamin",
+      "Zoëll Alfred"
+    ]
+  },
+  "RENNAZ": {
+    "Syndic": [
+      "Faiquier Aloïs"
+    ],
+    "Secrétaire": [
+      "Ansermoz André"
+    ],
+    "Boursier": [
+      "Banque Popul. de Montreux"
+    ],
+    "Huissier": [
+      "Dumusc Alphonse"
+    ],
+    "Municipaux": [
+      "Hodel Franz",
+      "Marquis Gustave"
+    ]
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "ORMONT-DESSUS": {
+    "Laiteries": [
+      "Sté de laiterie des Diablerets",
+      "Saugy Paul"
+    ],
+    "Maréchal": [
+      "Ansermet Auguste"
+    ],
+    "Médecin": [
+      "Santschi V. T."
+    ],
+    "Pensions": [
+      "Pension Bellevue",
+      "Pension-hôtel Buffet de la Gare",
+      "Pension Printanière",
+      "Pension Victoria",
+      "Pension La Gaîté",
+      "Pension Val-Mont",
+      "Pension du Chamois",
+      "Pension Les Lilas",
+      "Pension Mon Abri"
+    ],
+    "Pensions d'enfants": [
+      "Les Perrières",
+      "Freymond-Dutoit M. T."
+    ],
+    "Photographe": [
+      "Zurcher Alfred"
+    ],
+    "Quincaillerie": [
+      "Favre Olivier"
+    ],
+    "Scieries": [
+      "Perreten Victor",
+      "Treina Georges"
+    ],
+    "Sociétés": [
+      "Chœur mixte L'Avenir.",
+      "Corporation Montagne de Marnex.",
+      "Section de la Croix-Bleue.",
+      "Ski-Club des Diablerets.",
+      "Sporting-Club des Diablerets.",
+      "Sté de la Cabane des Diablerets.",
+      "Sté du Cordon Rouge et Vert.",
+      "Sté du Cordon Vert.",
+      "Sté de fromagerie du Plan.",
+      "Sté l'Instrumentale.",
+      "Sté militaire de tir.",
+      "Sté La Sentinelle.",
+      "Sté de tir Les Chasseurs.",
+      "Sté d'utilité publique des Diablerets.",
+      "Stand des Diablerets.",
+      "Syndicat agricole des Diablerets."
+    ],
+    "Transports": [
+      "Pichard Alexis"
+    ],
+    "Tricotage à la machine": [
+      "Moulin Esther",
+      "Pernet Marthe"
+    ],
+    "Visons (élevage)": [
+      "Monthoux Régine"
+    ],
+    "Divers": [
+      "Marti L.",
+      "Pott",
+      "Schaller G."
+    ]
+  },
+  "VERS L'EGLISE": {
+    "Autorités communales": [
+      "Voir Ormont-Dessus."
+    ],
+    "Chef de section": [
+      "Busset Edouard"
+    ],
+    "Chef de gare A.-S.-D.": [
+      "Pernet-Tille Suzanne"
+    ],
+    "Garde-forestier": [
+      "Nicolier Emile"
+    ],
+    "Inspecteur du bétail": [
+      "Genillard Em."
+    ],
+    "Instituteurs": [
+      "Berruex Amédée.",
+      "Rochat André",
+      "Tille Nelly",
+      "Treina Madeleine"
+    ],
+    "Pasteur": [
+      "Diserens G."
+    ],
+    "Poste et télégraphe": [
+      "Tille Jean"
+    ],
+    "Téléphone": [
+      "Station publique à l'Auberge communale"
+    ],
+    "Agriculteurs": [
+      "Ansermet Olivier.",
+      "Berruex-Ginggen Jean",
+      "Berruex hoirs d'Eugène",
+      "Berruex-Dupertuis Emile et fils",
+      "Berruex Alfred",
+      "Berruex-Favre Alfred",
+      "Berruex-Favre Jean",
+      "Berruex-Favre Rob.",
+      "Berruex-Morerod Vincent",
+      "Berruex-Berruex Emile",
+      "Bonzon Eugène",
+      "Bonzon Ami",
+      "Busset Sophie",
+      "Busset Eugène",
+      "Busset Alexandre",
+      "Busset Edouard",
+      "Busset Alfred",
+      "Dupertuis Emile",
+      "Durgniat Marc",
+      "Favre Emile-Alfred",
+      "Favre-Nicolier Alfr.",
+      "Favre Emm.",
+      "Favre Marie et Sophie, d'Henri",
+      "Favre, hoirs de Jean",
+      "Favre-Pernet Emile",
+      "Favre Armand",
+      "Favre Victor",
+      "Favre Ernest",
+      "Favre Paul",
+      "Favre Alexandre",
+      "Fromentin Jules",
+      "Gallaz Constant",
+      "Gallaz Vincent",
+      "Genillard Emile",
+      "Isabel-Favre Vincent",
+      "Jordan-Bonzon François",
+      "Mermod hoirs d'Alfred",
+      "Mermod Marcel",
+      "Mermod Ami",
+      "Morerod André",
+      "Morerod-Pernet Paul",
+      "Morerod-Mermod Jean",
+      "Mottier Ami",
+      "Mottier Emile",
+      "Moulin Jules",
+      "Nicolier-Favre Emile",
+      "Nicolier-Nicolier Emile",
+      "Nicolier-Bron Vincent, hoirie",
+      "Nicolier-Moulin Paul",
+      "Nicolier-Moulin Alb.",
+      "Nicolier-Pernet Jean",
+      "Nicolier-Morerod Frs.",
+      "Oguey-Bonzon Ami",
+      "Pernet-Tille Jules",
+      "Pernet-Pernet Eugène",
+      "Pernet-Tille Eugène",
+      "Pernet-Pichard Emile",
+      "Pernet-Treina Emile",
+      "Pernet-Moulin Aug.",
+      "Pernet-Moulin Edouard",
+      "Pernet Ern.",
+      "Perreten Arm.",
+      "Perrod-Morerod Rob.",
+      "Perrod Rob.",
+      "Pichard Jules",
+      "Pichard-Fuhrer Jules",
+      "Pilet-Perreten Albert",
+      "Ramel Louis",
+      "Schopfer Charles",
+      "Schwenter, hoirs d'Emile",
+      "Tille, vve d'Alfred",
+      "Tille Eugène",
+      "Weber Jean. T.",
+      "Würsten Samuel."
+    ],
+    "Assurance - vieillesse": [
+      "Associations mutualistes de retraite",
+      "Chapalay C."
+    ],
+    "Bétail (march. de)": [
+      "Berruex Jules. T.",
+      "Mermod Marcel. T.",
+      "Morerod André. T."
+    ],
+    "Bois (march. de)": [
+      "Berruex Jules. RT",
+      "Busset frères. R."
+    ],
+    "Boulangeries-pâtisseries": [
+      "Nicolier Pl.",
+      "Schweizer Ernest"
+    ],
+    "Cafés": [
+      "Nicolier Paul",
+      "Treina-Nicolier Ch."
+    ],
+    "Charpentiers": [
+      "Oguey Alexis.",
+      "Pernet Auguste."
+    ],
+    "Cordonnier": [
+      "Fromentin Auguste"
+    ],
+    "Epiceries-merceries": [
+      "Favre-Isabel E.",
+      "Favre-Fuhrer G. T.",
+      "Favre-Prior Jeanne",
+      "Jouvenat Roger",
+      "Nicolier Paul",
+      "Soc. coop. de consommation. RT.",
+      "Schweizer E."
+    ],
+    "Géomètre officiel": [
+      "Busset Eug. T."
+    ],
+    "Horloger": [
+      "Genillard Alexandre"
+    ],
+    "Hôtel-pension": [
+      "Treina-Nicolier Ch.",
+      "Hôtel de l'Ours. T."
+    ],
+    "Quincaillerie": [
+      "Bonzon Sylvie.",
+      "Favre-Isabel Emile. T.",
+      "Société coop. de consommation. RT."
+    ],
+    "Scieries": [
+      "Berruex Jules",
+      "Busset frères. R.",
+      "Bertholet Constant."
+    ],
+    "Serrurier": [
+      "Nicolier Ami"
+    ],
+    "Sociétés": [
+      "Echo des Diablerets.",
+      "Ski-Club Meilleret.",
+      "Sté de tir aux armes de guerre.",
+      "Syndicat agricole Ormont-Dessus."
+    ],
+    "Tricotage à la machine": [
+      "Berruex Nancy",
+      "Huguelet-Morerod Aurette"
+    ]
+  },
+  "ORNY": {
+    "Syndic": [
+      "Juvet Alexandre"
+    ],
+    "Secrétaire": [
+      "Messeiller Julien. T."
+    ],
+    "Boursier": [
+      "Messeiller Henri. T."
+    ],
+    "Huissier": [
+      "Vannod Justin"
+    ],
+    "Municipaux": [
+      "Pavillard Robert",
+      "Pavillard Justin",
+      "Pavillard Lucien",
+      "Michaud Lucien"
+    ],
+    "Cantonnier": [
+      "Dessauges H."
+    ],
+    "Commandant du feu": [
+      "Vannod Georges. T."
+    ],
+    "Commission scolaire": [
+      "Messeiller Julien"
+    ],
+    "Inspecteur du bétail": [
+      "Michaud Alex."
+    ],
+    "Instituteurs": [
+      "Henchoz André",
+      "Bonzon-Gonthier Yvonne"
+    ],
+    "Juge de paix": [
+      "Pavillard Alexis. T."
+    ],
+    "Police (agent de)": [
+      "Derameruz Maur."
+    ],
+    "Agriculteurs": [
+      "Derameruz Alf.",
+      "Gex Hri",
+      "Jaquinet frères",
+      "Juvet Alex.",
+      "Messeiller Emile",
+      "Messeiller Hri T.",
+      "Messeiller Julien. T.",
+      "Michaud Alex.",
+      "Michaud Emile",
+      "Michaud Henri",
+      "Michaud Maurice",
+      "Pavillard Ch. T.",
+      "Pavillard Lucien. T.",
+      "Pavillard Justin",
+      "Pavillard Maurice",
+      "Pavillard Rob. T.",
+      "Péclard Alexandre",
+      "Tissot Alexis",
+      "Tissot Emile",
+      "Vannod Georges"
+    ],
+    "Apiculteurs": [
+      "Borgeaud Emile.",
+      "Messeiller Julien.",
+      "Michaud Henri",
+      "Pavillard Lucien",
+      "Vannod Félic."
+    ],
+    "Asile de vieillards incurables": [
+      "Cottier Boys. T."
+    ],
+    "Assurance - vieillesse": [
+      "Associations mutualistes de retraite",
+      "Borgeaud Emile.",
+      "Michaud Maurice. T."
+    ],
+    "Café": [
+      "Michaud Maurice. T."
+    ],
+    "Concasseur de gravier": [
+      "Derameruz F."
+    ],
+    "Epicerie-mercerie": [
+      "Romanens W. R."
+    ],
+    "Laitier": [
+      "Bovay Marcel"
+    ],
+    "Pêcheurs": [
+      "Messeiller Emile",
+      "Rochat Paul",
+      "Vannod Ami",
+      "Vannod Lucien"
+    ],
+    "Pension (malad. ment.)": [
+      "Michaud Henri. T."
+    ],
+    "Pension": [
+      "Tissot Jeanne"
+    ],
+    "Pompes funèbres du Nord": [
+      "Monnier A."
+    ],
+    "Radio": [
+      "Michaud Gustave. RT."
+    ],
+    "Sociétés": [
+      "Sté du battoir à blé. R.",
+      "Sté de fromagerie. R.",
+      "Syndicat agricole. R."
+    ]
+  }
+}

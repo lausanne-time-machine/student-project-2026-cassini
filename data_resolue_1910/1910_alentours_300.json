@@ -1,0 +1,89 @@
+{
+  "DISTRICT D'YVERDON": {
+    "Préfet": [
+      "Augsbourg Louis"
+    ],
+    "Substitut": [
+      "Delay Henri"
+    ],
+    "Conservateur des droits réels": [
+      "Borgognon Jules"
+    ],
+    "Receveur": [
+      "Manigley Jules"
+    ],
+    "Président": [
+      "Péclard Ulysse"
+    ],
+    "Vice-président": [
+      "Cholly Emile"
+    ],
+    "Tribunal de District": [
+      "Magnenat Henri",
+      "Chautems Jules",
+      "Fornachon Edmond"
+    ],
+    "Greffier": [
+      "Baatard Edouard"
+    ]
+  },
+  "VILLE D'YVERDON": {
+    "Président du Conseil communal": [
+      "Perey Alfred"
+    ],
+    "Secrétaire": [
+      "Mabille Charles"
+    ],
+    "Syndic": [
+      "Landry John"
+    ],
+    "Municipaux": [
+      "Vodoz Charles",
+      "Paschoud C.",
+      "Fischer Eugène",
+      "Péclard Robert"
+    ],
+    "Secrétaire municipal": [
+      "Dufour Jules"
+    ],
+    "Adjoint": [
+      "Boillet Gustave"
+    ],
+    "Boursier communal": [
+      "Caille Ch."
+    ],
+    "Huissier": [
+      "Bolle H."
+    ],
+    "Administrateur postal": [
+      "Buhler Eugène"
+    ],
+    "Agents d'affaires patentés": [
+      "Cavin Héli",
+      "Gilliand William-Arnold",
+      "Willommet Fritz"
+    ],
+    "Agence agricole": [
+      "Chapuis E."
+    ],
+    "Agence de placement": [
+      "Bader Elise"
+    ],
+    "Agriculteurs": [
+      "Aeschlimann Henri",
+      "Bändi Alfred",
+      "Bangerter Gottfried",
+      "Bovay Gustave",
+      "Buhler Reinhardt",
+      "Carrard Louis et Gustave",
+      "Chevalley Emile",
+      "Collet Alexis",
+      "Comtesse Albert",
+      "Cuche Aimé",
+      "Dovat Léon",
+      "Gasser Louis",
+      "Gilliard François",
+      "Golaz Louis-Emile"
+    ]
+  }
+}

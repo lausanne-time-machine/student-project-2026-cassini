@@ -1,0 +1,249 @@
+{
+  "ROVRAY": {
+    "Autorités communales": [
+      "Chambaz Octave",
+      "Courvoisier Ami"
+    ],
+    "Syndic": [
+      "Gallandat Paul"
+    ],
+    "Municipaux": [
+      "Rebeaud Denis",
+      "Gallandat Henri",
+      "Viquerat Emile"
+    ],
+    "Secrétaire": [
+      "Fivat Paul"
+    ],
+    "Agriculteurs": [
+      "Brun Ernest",
+      "Courvoisier Ami",
+      "Cusin Frédéric",
+      "Despland Albert",
+      "Durussel Auguste",
+      "Gallandat Art.",
+      "Gallandat Ch.",
+      "Gallandat Ls",
+      "Gallandat Paul",
+      "Gallandat Hri",
+      "Gallandat John",
+      "Hofmann Jean",
+      "Jaquier Elie",
+      "Michoud Ch",
+      "Pidoux Emile",
+      "Rebeaud Denis",
+      "Rebeaud Louis",
+      "Rebeaud Jules",
+      "Viquerat Emile"
+    ],
+    "Cafés": [
+      "Gallandat Arthur",
+      "Eberhardt Jean"
+    ],
+    "Commission scolaire": [
+      "Vermeil Hri.",
+      "Gallandat Paul",
+      "Courvoisier Ami"
+    ],
+    "Couturière": [
+      "Gaberel Rosa"
+    ],
+    "Epicerie": [
+      "Eberhardt Jean"
+    ],
+    "Inspecteur du bétail": [
+      "Rebeaud Jules"
+    ],
+    "Instituteur": [
+      "Fivat Paul"
+    ],
+    "Maréchal": [
+      "Rebeaud Jules"
+    ],
+    "Pasteur": [
+      "Favez Georges"
+    ],
+    "Société": [
+      "de fromagerie"
+    ],
+    "Téléphoniste": [
+      "Rebeaud Jules"
+    ],
+    "Voyageur en vins": [
+      "Saugy Numa"
+    ]
+  },
+  "SUCHY": {
+    "Autorités communales": [
+      "Pittet Ernest",
+      "Hoffer Louis"
+    ],
+    "Syndic": [
+      "Collet Charles"
+    ],
+    "Municipaux": [
+      "Collet Louis",
+      "Pittet François",
+      "Porchet Jules",
+      "Carrel Jules",
+      "Pittet Adolphe",
+      "Girardet Paul"
+    ],
+    "Secrétaire": [
+      "Porchet Gustave"
+    ],
+    "Boursier": [
+      "Girardet Arthur"
+    ],
+    "Agriculteurs": [
+      "Besuchet Richard",
+      "Buchs Gustave",
+      "Carrel Jules",
+      "Cholly Gustave",
+      "Cholly Marcel",
+      "Collet Charles",
+      "Collet Louis, ffeu Emile",
+      "Collet Ls, feu Eug.",
+      "Crévot Jules",
+      "Cuanoud Constant",
+      "Dind René",
+      "Devrard Emile",
+      "Décombaz Edouard",
+      "Fawer Gustave",
+      "Girardet Art.",
+      "Girardet Em.",
+      "Girardet Adolphe",
+      "Girardet Edmond",
+      "Girardet Jules",
+      "Henry Louis",
+      "Henry Robert",
+      "Hoffer Louis",
+      "Junod Ami",
+      "Junod Louis",
+      "Moser frères",
+      "Nicollin Louis",
+      "Piguet Jules",
+      "Pittet Adolphe",
+      "Pittet Edouard",
+      "Pittet Emile",
+      "Pittet Louis",
+      "Pittet François",
+      "Porchet Jules",
+      "Porchet Gve",
+      "Roy Louis"
+    ],
+    "Associations mutualistes de retraite": [
+      "Francillon L."
+    ],
+    "Aubergistes": [
+      "Buchs Gust.",
+      "Porchet Jules"
+    ],
+    "Boulanger": [
+      "Girardier Gaston"
+    ],
+    "Charron": [
+      "Magnenat Eugène"
+    ],
+    "Chef de section": [
+      "Cholly Alfred"
+    ],
+    "Commission scolaire": [
+      "Collet Charles",
+      "Pittet François"
+    ],
+    "Couturière": [
+      "Buchs Marie",
+      "Pittet Rose"
+    ],
+    "Entrepreneur-maçon": [
+      "Vadi Bapt."
+    ],
+    "Epicerie": [
+      "Auberson Ulysse",
+      "Girardet Jules"
+    ],
+    "Inspecteur du bétail": [
+      "Carrel Jules"
+    ],
+    "Instituteurs": [
+      "Francillon Louis",
+      "Cordey Marie"
+    ],
+    "Laitier": [
+      "Siegenthaler L."
+    ],
+    "Maréchal": [
+      "Gilliard Aloïs"
+    ],
+    "Pasteur": [
+      "Hausmann Robert"
+    ],
+    "Sociétés": [
+      "Machine à battre",
+      "de fromagerie",
+      "agricole et viticole",
+      "Syndicat d'élevage"
+    ],
+    "Tisserands": [
+      "Collet frères"
+    ],
+    "Téléphoniste": [
+      "Allisson Augustin"
+    ]
+  },
+  "SUSCEVAZ": {
+    "Autorités communales": [
+      "Décoppet Victor",
+      "Comte Emile"
+    ],
+    "Syndic": [
+      "Charles Henri"
+    ],
+    "Municipaux": [
+      "Décoppet Ulysse",
+      "Décoppet-Comte Louis",
+      "Tharin Charles"
+    ],
+    "Secrétaire": [
+      "Décoppet François"
+    ],
+    "Boursier": [
+      "Tharin Albert"
+    ],
+    "Agriculteurs": [
+      "Décoppet Eugène",
+      "Décoppet Paul",
+      "Charles Henri",
+      "Hurni Fritz",
+      "Ravay Alfred"
+    ],
+    "Associations mutualistes de retraite": [
+      "Mlle B. Ruegger"
+    ],
+    "Commission scolaire": [
+      "Décoppet Marius",
+      "Décoppet Ernest",
+      "Tharin Albert"
+    ],
+    "Inspecteur du bétail": [
+      "Décoppet Victor"
+    ],
+    "Institutrice": [
+      "Rüegger Bertha"
+    ],
+    "Maréchal": [
+      "Delessert Alexis"
+    ],
+    "Poste": [
+      "Turin Alice"
+    ],
+    "Sociétés": [
+      "de laiterie",
+      "de tir aux armes de guerre"
+    ],
+    "Téléphone": [
+      "La commune"
+    ]
+  }
+}

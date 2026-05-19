@@ -1,0 +1,435 @@
+{
+  "PENTHAZ": {
+    "Agriculteurs": [
+      "Amaudruz Henri",
+      "Bastian Auguste et Jules",
+      "Bastian Eugène et Fernand",
+      "Bommottet Henri et Maurice",
+      "Charlet Hri",
+      "Charlet frères",
+      "Delederray Ed.",
+      "Delederray Gustave",
+      "Delederray Louis",
+      "Hählen Jules",
+      "Hählen Marcel",
+      "Jayet frères",
+      "Laurent Emile",
+      "Mouquin Henri",
+      "Pache Rob. T.",
+      "Portier William",
+      "Vougaz hoirie"
+    ],
+    "Apiculteurs": [
+      "Bommottet Maurice",
+      "Charlet Henri"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraites",
+      "Chappuis André"
+    ],
+    "Café": [
+      "Mercier Constant"
+    ],
+    "Cercueils": [
+      "Bastian Maurice",
+      "Baatard Albert"
+    ],
+    "Couturière": [
+      "Charlet-Crottaz Juliette"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Mercier Constant",
+      "Pache Robert"
+    ],
+    "Machine à battre": [
+      "La Commune"
+    ],
+    "Orphelinat (pour jeunes filles)": [
+      "Paquier Ulrich"
+    ],
+    "Pêcheurs": [
+      "Portier Eugène",
+      "Zandonai Lucien"
+    ],
+    "Rentier": [
+      "Marti Ferdinand"
+    ],
+    "Sociétés": [
+      "Caisse de Crédit mutuel",
+      "Paquier Ulrich",
+      "Chorale des campagnes Penthaz-Penthalaz",
+      "Sté de fromagerie",
+      "Sté de tir aux armes de guerre"
+    ]
+  },
+  "PENTHEREAZ": {
+    "Syndic": [
+      "Mayor Jules"
+    ],
+    "Secrétaire": [
+      "Millioud Roger"
+    ],
+    "Boursier": [
+      "Collet Ulysse"
+    ],
+    "Huissier": [
+      "Collet-Guex Louis"
+    ],
+    "Municipaux": [
+      "Bovay Henri",
+      "Collet Aloïs",
+      "Dupuis Gustave",
+      "Mercier Alfred",
+      "Mercier Henri",
+      "Millioud René"
+    ],
+    "Cantonnier": [
+      "Favez William"
+    ],
+    "Commandant du feu": [
+      "Mercier Henri"
+    ],
+    "Commission scolaire": [
+      "Collet Ulysse"
+    ],
+    "Garde-forestier": [
+      "Collet Ulysse"
+    ],
+    "Inspecteurs du bétail": [
+      "Millioud Edward",
+      "Péclard Fernand"
+    ],
+    "Instituteurs": [
+      "Meystre Jeanne",
+      "Mermoud Robert"
+    ],
+    "Assesseur": [
+      "Mercier Emile"
+    ],
+    "Officier d'état civil": [
+      "Mayor Jules"
+    ],
+    "Police (agent de)": [
+      "Collet-Guex Ls."
+    ],
+    "Poste et télégraphe": [
+      "Emery Ch."
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Dutoit Edouard",
+      "Station publique à la poste"
+    ],
+    "Agriculteurs": [
+      "Autier Edouard",
+      "Bovay Lucien",
+      "Borgeaud frères",
+      "Caillachon Louis",
+      "Collet Auguste",
+      "Collet Alois",
+      "Collet Louis",
+      "Collet René",
+      "Dupuis Gust.",
+      "Dupuis André",
+      "Flaction Jules",
+      "Jaccoud Alexis",
+      "Jaunin Henri",
+      "Mayor Charles",
+      "Mayor Jules",
+      "Mercier Elie T.",
+      "Mercier Hri. T.",
+      "Mercier Denis. T.",
+      "Mercier Emile et Alfred",
+      "Mercier Gustave",
+      "Mercier Emile f. Aug.",
+      "Mercier Alexis",
+      "Mercier Jules",
+      "Mercier André",
+      "Meystre Robert",
+      "Millioud Fernand",
+      "Millioud René. T.",
+      "Millioud Eugène",
+      "Millioud Jules",
+      "Millioud William et Paul",
+      "Millioud Roger et Maurice",
+      "Péclard Fern.",
+      "Potterat Henri",
+      "Simond Auguste"
+    ],
+    "Apiculteurs": [
+      "Dupuis André",
+      "Emery Marc",
+      "Mercier Robert",
+      "Millioud René",
+      "Millioud Roger",
+      "Péclard Fernand"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité de retraite",
+      "Mermoud Robert"
+    ],
+    "Bétail (comm. de)": [
+      "Mercier Elie. T."
+    ],
+    "Boulanger": [
+      "Dutoit Edouard"
+    ],
+    "Café": [
+      "Meystre Robert"
+    ],
+    "Charcutier": [
+      "Millioud Maurice"
+    ],
+    "Epicerie-mercerie": [
+      "Dutoit Edouard"
+    ],
+    "Laitier": [
+      "Gurtner Charles"
+    ],
+    "Maréchal": [
+      "Schmid Samuel"
+    ],
+    "Sociétés": [
+      "Caisse de Crédit mutuel",
+      "Chœur d'hommes",
+      "Société de couture",
+      "Société de fromagerie et de laiterie de Penthereaz",
+      "Société de fromagerie et de laiterie dite du Champ de Vaud (hameau)",
+      "Société de tir aux armes de guerre"
+    ],
+    "Divers": [
+      "Berney Elisa",
+      "Bovat J.",
+      "Rentsch Eugène",
+      "Rochat, Vve, de Jules"
+    ]
+  },
+  "PERROY": {
+    "Syndic": [
+      "Gaillard And."
+    ],
+    "Secrétaire": [
+      "Martin Pierre"
+    ],
+    "Boursier": [
+      "Martin Victor"
+    ],
+    "Huissier": [
+      "Jaquillard Félix"
+    ],
+    "Municipaux": [
+      "Jotterand Louis",
+      "Martin Edouard",
+      "Metzner Frédéric",
+      "Revilliod Jacques"
+    ],
+    "Chef de gare": [
+      "Bessaud Robert"
+    ],
+    "Commandant du feu": [
+      "Metzner Fréd."
+    ],
+    "Commission scolaire": [
+      "Gaillard André"
+    ],
+    "Inspecteur du bétail": [
+      "Dutruit Benj."
+    ],
+    "Instituteurs": [
+      "Buess Violette",
+      "Chenuz Albert"
+    ],
+    "Pasteur": [
+      "Breitenstein Ernest"
+    ],
+    "Police (agent de)": [
+      "Jaquillard Félix"
+    ],
+    "Poste et télégraphe": [
+      "Zimmermann Constant"
+    ],
+    "Téléphone": [
+      "Station communale",
+      "Auberge communale",
+      "Station publique à la poste"
+    ],
+    "Agence agricole": [
+      "Dutruit Edmond"
+    ],
+    "Agriculteurs": [
+      "Blanc Julien",
+      "Blanchard Henri",
+      "Gaillard Auguste",
+      "Gaillard Edouard",
+      "Gaillard Arthur",
+      "Girard François",
+      "Jotterand Auguste",
+      "Jotterand Louis",
+      "Jotterand Robert",
+      "Roch Jean"
+    ],
+    "Apiculteur": [
+      "Chenuz Albert"
+    ],
+    "Artiste-peintre": [
+      "Martin René"
+    ],
+    "Assurance vieillesse": [
+      "Associations mutualistes de retraite",
+      "Chenuz A."
+    ],
+    "Autos-garage-répar": [
+      "Blanchard Jacques",
+      "Martin Henri"
+    ],
+    "Biscuits (fabr. de)": [
+      "Diserens A."
+    ],
+    "Blanchisseuses": [
+      "Blanc Mme",
+      "Kursner Alice"
+    ],
+    "Boulangers": [
+      "Diserens A.",
+      "Grosjean Ami"
+    ],
+    "Cafés": [
+      "Häusermann Walter",
+      "Jotterand Robert",
+      "Auberge de Commune",
+      "Miville Louisa"
+    ],
+    "Charpentier": [
+      "Kursner Frédéric"
+    ],
+    "Charron": [
+      "Testaz Henri"
+    ],
+    "Cordonnier": [
+      "Griottier Henri"
+    ],
+    "Couturières": [
+      "Blanchard Marg.",
+      "Chollet Marie",
+      "Mottaz Médéa",
+      "Vanni Blanche"
+    ],
+    "Distillerie": [
+      "Soc. de distill. de Perroy"
+    ],
+    "Entrepreneur": [
+      "Morandi Charles"
+    ],
+    "Epiceries": [
+      "Buess Walther",
+      "Gaillard Albert",
+      "Maurer P."
+    ],
+    "Gypserie et peinture": [
+      "Grosjean Gast."
+    ],
+    "Ingénieurs": [
+      "Choffat Philippe",
+      "Morandi Berto"
+    ],
+    "Jardiniers": [
+      "Bugnon Ch.",
+      "Eperon Henri",
+      "Meyer Walther",
+      "Thut Ch."
+    ],
+    "Laitier": [
+      "Weber Charles"
+    ],
+    "Maraîcher": [
+      "Rawyler Mme"
+    ],
+    "Maréchal": [
+      "Testaz Henri"
+    ],
+    "Mécaniciens": [
+      "Blanchard Jacques",
+      "Martin Henri"
+    ],
+    "Pêcheurs": [
+      "Anthonnet Charles",
+      "Chevalier Eugène père",
+      "Chevalier Eugène fils",
+      "Fillettaz Frédéric",
+      "Jaeger Giulio",
+      "Prod'hom Alexis"
+    ],
+    "Pépiniéristes": [
+      "Gaillard André",
+      "Grosjean Arthur"
+    ],
+    "Sables et graviers": [
+      "Revilliod Jacq."
+    ],
+    "Sociétés": [
+      "Sté de distillerie",
+      "Sté de fromagerie",
+      "Sté immobilière vinicole de Perroy S. A."
+    ],
+    "Soudure": [
+      "Martin H."
+    ],
+    "Serrurier": [
+      "Aguet Emile"
+    ],
+    "Tonnelier": [
+      "Baer Franz"
+    ],
+    "Vélos": [
+      "Blanchard Jacques"
+    ],
+    "Vignerons": [
+      "Barraud Vve",
+      "Bataillard Henri",
+      "Blanchard François",
+      "Bovard, Veuve de Ch.",
+      "Caillat Henri",
+      "Charbonnier, Vve",
+      "Devantay Edmond",
+      "Devantay Lucien",
+      "Kursner Charles",
+      "Kursner Louis",
+      "Jotterand Robert",
+      "Magnenat Hri",
+      "Martin Lucien",
+      "Metzner Emile",
+      "Rochat Henri",
+      "Rosset Charles",
+      "Schenk Alexis"
+    ],
+    "Vins (comm. de)": [
+      "Société vinicole de Perroy S. A."
+    ],
+    "Viticulteurs": [
+      "Aguet Emile",
+      "Blanc Julien",
+      "Blanchard Vve d'Emile",
+      "Blanchard François",
+      "Blanchard Hri",
+      "Blanchard René",
+      "Borel Horace",
+      "Chatelanat, hoirie",
+      "Corthay Julien",
+      "Croci Ferdinand",
+      "Dutruit Edmond",
+      "Dutruit Benjamin",
+      "Dutruit Robert",
+      "Eperon, Vve d'Henri",
+      "Eperon Lévi",
+      "Favre Ls",
+      "Fillettaz Hri",
+      "Gaillard Alb.",
+      "Gaillard Arthur",
+      "Gaillard André",
+      "Gaillard Aug.",
+      "Gaillard Edouard",
+      "Girard Adèle",
+      "Girard François"
+    ]
+  }
+}

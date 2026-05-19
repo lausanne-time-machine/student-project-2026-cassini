@@ -1,0 +1,70 @@
+{
+  "GENÈVE": {
+    "BRIS DE GLACES ET VITRAGES": [
+      "Winterthur-Accidents",
+      "Winterthur-Accidents",
+      "Zurich (La)",
+      "Caisse communale",
+      "Caisse paritaire de l'association des industries vaudoises",
+      "Fédération des ouvriers sur métaux et horlogers",
+      "Fédération des ouvriers du bois et du bâtiment",
+      "Fédération des travailleurs du commerce, des transports et de l'alimentation"
+    ],
+    "BRIS DE MACHINES ET EN CAS D'EMEUTES": [
+      "Cie d'Assurances Nationale Suisse"
+    ],
+    "ASSURANCES CONTRE TOUS DOMMAGES MATERIELS": [
+      "Alpina S. A.",
+      "Assurance mutuelle cantonale contre l'incendie",
+      "Baloise-Incendie (La)",
+      "Cie d'Assurances Nationale Suisse",
+      "Fédérale (La)",
+      "France (La)",
+      "Galland & Cie, The Northern",
+      "Générale (La)",
+      "Grivat",
+      "Helvétia-Accidents",
+      "Helvétia-Incendie",
+      "La Suisse",
+      "Neuchâteloise (La)",
+      "Société Suisse pour l'Assurance du Mobilier",
+      "The Northern, Galland & Cie",
+      "Union (L')",
+      "Union Suisse (L')"
+    ],
+    "CONTRE LES DOMMAGES CAUSES PAR LES INSTALLATIONS D'EAU": [
+      "Alpina S. A.",
+      "Cie d'Assurances Nationale Suisse",
+      "Echenard René",
+      "Générale (La)",
+      "Helvétia-Incendie St-Gall",
+      "Société suisse pour l'assurance du mobilier",
+      "The Northern, Galland & Cie"
+    ],
+    "CONTRE TOUS RISQUES CHEF DE FAMILLE": [
+      "Echenard René",
+      "Galland & Cie, The Northern",
+      "Geiser E.",
+      "Grivat Charles"
+    ],
+    "CHOMAGE ENSUITE D'INCENDIE": [
+      "Bâloise-Incendie",
+      "Cie d'Assurances Nationale Suisse",
+      "Helvétia-Incendie St-Gall",
+      "La Suisse"
+    ],
+    "GRELE": [
+      "Assurance grêle cantonale",
+      "Concordia (Stampfli)"
+    ],
+    "INCENDIE": [
+      "Cie d'Assurances Nationale Suisse",
+      "Providence-Incendie (La)",
+      "Société suisse pour l'assurance du mobilier",
+      "The Northern, Galland & Cie"
+    ],
+    "MALADIE": [
+      "Caisse cantonale d'assurance infantile"
+    ]
+  }
+}

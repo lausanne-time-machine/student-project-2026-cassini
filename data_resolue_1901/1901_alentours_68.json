@@ -1,0 +1,247 @@
+{
+  "NOVALLES": {
+    "Municipaux": [
+      "Périllard, Armand",
+      "Taillefert, Léon",
+      "Simon, Eugène",
+      "Perriraz, Armand",
+      "Ehinger, Paul"
+    ],
+    "Chef de section": [
+      "Mayor, Arnold"
+    ],
+    "Commission scolaire": [
+      "Subilia, M.",
+      "Taillefert, Samuel",
+      "Cherbulliez, François"
+    ],
+    "Epicerie": [
+      "Perdrisat, Marie"
+    ],
+    "Fourches (fabr.)": [
+      "Grasset, Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Taillefert, Léon"
+    ],
+    "Instituteur": [
+      "Ehinger, Paul"
+    ],
+    "Laitier": [
+      "Martin, Jean"
+    ],
+    "Meunier": [
+      "Schenkel, Victor. R."
+    ],
+    "Pierristes": [
+      "Junod, James",
+      "Triebold, Walter"
+    ],
+    "Divers": [
+      "Apothéloz-Cochet, Jules",
+      "Bolle, Louis",
+      "Dagon, Rod.",
+      "Dagon-Rognon",
+      "Favre, Henri",
+      "Filleux, Louis",
+      "Gaille, Henri",
+      "Malherbes, sœurs",
+      "Niffenegger, Edouard",
+      "Paris, Charles",
+      "Perdrisat, Fritz",
+      "Pfister, Fritz"
+    ]
+  },
+  "ONNENS": {
+    "Autorités communales": [
+      "Dagon, Rod.-F."
+    ],
+    "Municipaux": [
+      "Dagon, Paul",
+      "Dagon, Constant",
+      "Dagon, Henri-Ad",
+      "Dagon, Charles-Jules",
+      "Dagon, Alfred-Michel",
+      "Mayor, Denis",
+      "Dagon, Charles-Louis",
+      "Dagon, Henri-Daniel",
+      "Filleux, Henri"
+    ],
+    "Auberges et cafés": [
+      "Dagon, François",
+      "Favre, Louis"
+    ],
+    "Charpentier": [
+      "Dagon, Louis"
+    ],
+    "Charron": [
+      "Maag, Gaspard"
+    ],
+    "Coiffeur": [
+      "Schwab, Fritz"
+    ],
+    "Cordonniers": [
+      "Perdrisat, Louis",
+      "Rogivue, Louis"
+    ],
+    "Epicerie, mercerie": [
+      "Dagon, Jenny. R",
+      "Guignard-Rognon, Louise-Agathe. R",
+      "Liechti, Christian"
+    ],
+    "Ferblantier": [
+      "Fauniat, Rémy"
+    ],
+    "Inspecteur du bétail": [
+      "Perdrisat, Alphonse"
+    ],
+    "Instituteurs": [
+      "Jaccard, Hermann",
+      "Thévenaz, Rosa"
+    ],
+    "Lingères": [
+      "Bontems, Clara",
+      "Dagon, Elise",
+      "Dagon-Miéville, dame"
+    ],
+    "Maçon": [
+      "Bezia, Angel"
+    ],
+    "Menuisier-charpentier": [
+      "Schneeberg, Fritz"
+    ],
+    "Pêcheurs": [
+      "Filleux, Henri-Louis",
+      "Maag, Edouard",
+      "Séchaud, Jules"
+    ],
+    "Pensionnat de demoiselles": [
+      "Rey-Bugnon, François"
+    ],
+    "Poste": [
+      "Dagon, Louis, fils"
+    ],
+    "Serrurier": [
+      "Paris, Charles"
+    ],
+    "Sociétés": [
+      "Société de fromagerie. R",
+      "Société du poids public. R"
+    ],
+    "Tailleur": [
+      "Bontems, Armand"
+    ],
+    "Tailleuse": [
+      "Dagon, Lucie"
+    ],
+    "Vins (march.)": [
+      "Gander, Charles",
+      "Perdrisat, Humbert"
+    ],
+    "Voiturier": [
+      "Maag, Gaspard, fils"
+    ]
+  },
+  "PROVENCE": {
+    "Autorités communales": [
+      "Favre, Jules",
+      "Vuillermet, Albert"
+    ],
+    "Syndic": [
+      "Gattollliat, Frédéric"
+    ],
+    "Municipaux": [
+      "Fardel, Henri",
+      "Delay, Alexandre",
+      "Jeanmonod-Bolens, Louis",
+      "Bolens, Louis",
+      "Favre-Fardel, Louis",
+      "Allisson, Frédéric",
+      "Favre, Eugène",
+      "Delay, Alfred"
+    ],
+    "Auberges et cafés": [
+      "Bolens-Gaille, Henri",
+      "Guillaume frères",
+      "Simon, Eugène"
+    ],
+    "Bois (march.)": [
+      "Gaille-Jeanmonod, Louis",
+      "Raymondaz, Auguste"
+    ],
+    "Boisselier": [
+      "Favre, Eugène",
+      "Frète, Aug."
+    ],
+    "Boulangers": [
+      "Delay, Louis-Alfred. R",
+      "Brunner, Gabriel"
+    ],
+    "Chapellerie": [
+      "Jeanmonod, Emma"
+    ],
+    "Charcutier": [
+      "Delay, Louis-Alfred. R"
+    ],
+    "Charpentier": [
+      "Delay. Louis"
+    ],
+    "Charron": [
+      "Delay, Louis"
+    ],
+    "Chef de section": [
+      "Favre-Guillod, Alfred"
+    ],
+    "Commission scolaire": [
+      "Perrochon, Jean",
+      "Bolens, Henri",
+      "Favre, Jules",
+      "Gaille",
+      "Favre-Fardel, Louis"
+    ],
+    "Cordonniers": [
+      "Delay, Henri",
+      "Favre, Fritz"
+    ],
+    "Couvreurs": [
+      "Favre, Fritz",
+      "Gattollliat, Auguste",
+      "Jeanmonod, Charles"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Bolens, Louis. R",
+      "Delay, Louis-Alfred",
+      "Delay-Marillier, Louise. R",
+      "Jeanmonod, Gustave. R",
+      "Jeanmonod-Gacond, Lucie"
+    ],
+    "Etoffes": [
+      "Bolens, Louis. R",
+      "Delay-Marillier, Louise. R",
+      "Jeanmonod, Gust. R"
+    ],
+    "Hôtel-pension": [
+      "Hôtel-pension du Ravin",
+      "Burnand, Adélaïde"
+    ],
+    "Horlogers": [
+      "Gacond-Pfister, Louis",
+      "Favre-Martin, Henri"
+    ],
+    "Inspecteurs du bétail": [
+      "Colomb, Gustave",
+      "Jeanmonod, Gust."
+    ],
+    "Instituteurs": [
+      "Meylan, Albert",
+      "Schulé, Louis",
+      "Combremont, Jeanne",
+      "Favre, Amanda",
+      "Favre-Guillod, Julia",
+      "Penseyres, Adèle"
+    ],
+    "Laitier": [
+      "Baillod, Louis"
+    ]
+  }
+}
