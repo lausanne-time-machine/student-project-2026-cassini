@@ -1,238 +1,232 @@
 {
-  "ROMAINMÔTIER": {
-    "Tailleur": [
-      "Kohler Charles"
-    ],
-    "Teintureries": [
-      "Léonard Gustave",
-      "Wehrly Rose"
-    ],
-    "Téléphone public": [
-      "Ciana Antoine"
-    ],
-    "Temple (concierges du)": [
-      "Bonard Lina",
-      "Bonard Ulysse"
-    ],
-    "Tissus": [
-      "Léonard Gustave",
-      "Poschung Bertha"
-    ],
-    "Vétérinaire": [
-      "Vacat"
-    ],
-    "Voituriers": [
-      "Besson Aloïs",
-      "Guignard Edmond"
-    ]
-  },
-  "SERGEY": {
-    "Président du Conseil général": [
-      "Gaillard Marcel"
-    ],
-    "Secrétaire": [
-      "Deriaz Maurice",
-      "Michoud Paul"
-    ],
-    "Syndic": [
-      "Gaillard David"
-    ],
-    "Municipaux": [
-      "Buffat André",
-      "Gaillard Paul",
-      "Gaillard Louis d'Henri",
-      "Gaillard Arnold"
-    ],
-    "Boursier": [
-      "Pache Alfred"
-    ],
-    "Agriculteurs": [
-      "Buffat André",
-      "Deriaz Maurice",
-      "Gaillard Agénor",
-      "Gaillard hoirs d'Alex.",
-      "Gaillard David",
-      "Gaillard Emile",
-      "Gaillard Gustave d'Adrien",
-      "Gaillard Henri de Louis",
-      "Gaillard François",
-      "Gaillard Marcel",
-      "Gaillard Numa",
-      "Gaillard Paul",
-      "Gaillard Lucien",
-      "Gaillard Jules",
-      "Zoëll Ch."
-    ],
-    "Aubergiste": [
-      "Gaillard Jenny"
-    ],
-    "Commission scolaire": [
-      "Gaillard Bernard",
-      "Gaillard Gustave",
-      "Gaillard Jules"
-    ],
-    "Epicerie": [
-      "Campiche Gustave"
-    ],
-    "Inspecteur du bétail": [
-      "Deriaz Maurice"
-    ],
-    "Instituteur": [
-      "Michoud Paul"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "Battoir à grains"
-    ],
-    "Téléphoniste": [
-      "Gaillard Ida"
-    ]
-  },
-  "VALEYRES-SOUS-RANCES": {
-    "Président du Conseil général": [
-      "Fiaux Agénor"
-    ],
-    "Secrétaire": [
-      "Besson Paul",
-      "Widmer Ami"
-    ],
-    "Syndic": [
-      "Widmer Edouard"
-    ],
-    "Municipaux": [
-      "Fiaux Gustave",
-      "Turin-Lehmann François",
-      "Thonney Aug.",
-      "Weidmann Henri",
-      "Ravey Gustave",
-      "Lambercy Armand"
-    ],
-    "Boursier": [
-      "Fiaux Emile"
-    ],
-    "Huissier": [
-      "Bornand Jules"
-    ],
-    "Agriculteurs": [
-      "Chevalier J. d'Isaac",
-      "Conrad Em.",
-      "Corset Edmond",
-      "Duc Robert",
-      "Favre-Bourquin",
-      "Fiaux Gustave et Lucien",
-      "Lambercy Marcel",
-      "Lambercy Armand",
-      "Lambercy Alfred",
-      "Lambercy Emile",
-      "Lambercy-Turin Emile",
-      "Randin Albert",
-      "Auberson Lucien",
-      "Ravey Félix",
-      "Ravey Gustave",
-      "Thuillard Louis",
-      "Turin-Lehmann François",
-      "Turin Camille",
-      "Weidmann David",
-      "Weidmann François",
-      "Widmer Ami",
-      "Widmer Alfred",
-      "Widmer François",
-      "Widmer",
-      "hoirie de Gustave",
-      "Widmer-Monnier Louis",
-      "Widmer Agénor",
-      "Widmer Paul",
-      "Widmer-Wildi Ed."
-    ],
-    "Amodiateurs": [
-      "Weidmann frères"
-    ],
+  "LEYSIN": {
     "Associations mutualistes de retraite": [
-      "Cornaz E."
-    ],
-    "Aubergistes": [
-      "Randin Ami",
-      "Weidmann Lucien"
-    ],
-    "Bibliothèque": [
-      "Bibliothèque Boissier et de Gasparin",
-      "Besson Paul",
-      "Bignens Rose"
-    ],
-    "Bois": [
-      "Pisler-Cottens Maurice"
+      "Guex Eugène"
     ],
     "Boulanger": [
-      "Baudet Alfred"
-    ],
-    "Charpentier-menuisier": [
-      "Pisler Maurice"
-    ],
-    "Charron": [
-      "Widmer Edouard"
+      "Chaubert Robert"
     ],
     "Commission scolaire": [
-      "Lambercy Armand",
-      "Besson Paul",
-      "Widmer Ray"
-    ],
-    "Cordonniers": [
-      "Blanchard Henri",
-      "Cailliachon Ami",
-      "Kessler Rodolphe"
-    ],
-    "Couturières": [
-      "Bignens Rose",
-      "Cuche Julie",
-      "Laffely Aline",
-      "Péclard Rose",
-      "Widmer Rose"
+      "Colomb Gustave",
+      "Cotty Fernand",
+      "Perey Victor"
     ],
     "Epicerie": [
-      "Bignens Elise",
-      "Widmer Ray Louis"
+      "Chaubert Robert"
     ],
-    "Forestier": [
-      "Favre Gustave"
-    ],
-    "Huilerie": [
-      "Conrad Emile"
-    ],
-    "Inspecteur des boucheries": [
-      "Corset Louis"
+    "Fermier": [
+      "Pelichet Elisée"
     ],
     "Inspecteur du bétail": [
-      "Widmer Ami"
+      "Gillabert Jn"
     ],
-    "Instituteurs": [
-      "Cornaz Ernest",
-      "Fontannaz Henriette",
-      "Clerc Elisabeth",
-      "Fontannaz Henriette"
-    ],
-    "Jardiniers": [
-      "Besson Paul",
-      "Jaquier Auguste",
-      "Noverraz Osc.",
-      "Widmer Francis"
-    ],
-    "Maréchal": [
-      "Margairaz Constant"
-    ],
-    "Meunier": [
-      "Moulin agricole"
+    "Instituteur": [
+      "Guex Eugène"
     ],
     "Poste": [
-      "Lambercy Alfred"
+      "Sauty Nancy"
     ],
-    "Rentiers": [
-      "Barbey Camille",
-      "Barbey Maurice",
-      "de Bonstetten Arthur",
-      "Lombard Albert"
+    "Rentier": [
+      "de Buren Alfred"
+    ],
+    "Société": [
+      "de fromagerie"
+    ],
+    "Téléphoniste": [
+      "Chaubert Robert"
+    ]
+  },
+  "DENGES": {
+    "Autorités communales": [
+      "Rossier Auguste",
+      "Rossier Edmond",
+      "Paquier Jules",
+      "Paquier Juste",
+      "Velti Albert",
+      "Blanc Louis",
+      "Rossier Jules",
+      "Borel Fernand",
+      "Gilliéron Alfred",
+      "Paquier Maurice",
+      "Rossier Théophile"
+    ],
+    "Agriculteurs": [
+      "Blanc Louis",
+      "Blanc Alb.",
+      "Borboën François",
+      "Bovay Charles",
+      "Clerc Jules",
+      "Gilliéron Alf.",
+      "Grosso Jos.",
+      "Merminod Ls",
+      "Paquier César",
+      "Paquier Emile",
+      "Paquier Hri",
+      "Paquier Jules",
+      "Paquier Juste",
+      "Paquier Louis",
+      "Paquier Maurice",
+      "Paquier Robert",
+      "Paquier Victor",
+      "Ramelet Jules",
+      "Rochat Maurice",
+      "Rossier Aug. et Paul",
+      "Rossier Edmond",
+      "Rossier Théophile",
+      "Schmid Ch.",
+      "Velti Albert"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Borel F."
+    ],
+    "Bétail (Commerce de)": [
+      "Chappuis Louis"
+    ],
+    "Café": [
+      "Paquier Js"
+    ],
+    "Charpentiers": [
+      "Reymond Charles",
+      "Reymond Henri",
+      "Reymond Victor",
+      "Reymond René"
+    ],
+    "Commission scolaire": [
+      "Rossier Th.",
+      "Milliet",
+      "Paquier Jules"
+    ],
+    "Distillateurs": [
+      "Paquier frères"
+    ],
+    "Epicerie": [
+      "Paquier Emile"
+    ],
+    "Inspecteur du bétail": [
+      "Borboën Frs"
+    ],
+    "Instituteur": [
+      "Borel Fernand"
+    ],
+    "Laitier": [
+      "Laiterie agricole",
+      "Paquier Jules"
+    ],
+    "Sociétés": [
+      "Abbaye des fusiliers",
+      "Société immobilière du battoir",
+      "Club des Amis"
+    ],
+    "Téléphoniste": [
+      "Paquier Jules"
+    ],
+    "Vignerons": [
+      "Schmid Henri",
+      "Schmid Louis"
+    ],
+    "Divers": [
+      "Genoud Oscar",
+      "Michon David",
+      "Reymond Jules",
+      "Rossier Henri",
+      "Zuber Théodore"
+    ]
+  },
+  "ECHANDENS": {
+    "Autorités communales": [
+      "Martin Emile",
+      "Grunenwald E.",
+      "Gorgerat Henri",
+      "Reymond Henri",
+      "Dufour Chs",
+      "Tanniger Edouard",
+      "Pache Robert",
+      "Decrausaz Louis",
+      "Gavillet John"
+    ],
+    "Agriculteurs": [
+      "Bohner Fritz",
+      "Clément Aug.",
+      "Cretegny frères",
+      "Dufour frères",
+      "Gorgerat Hri",
+      "Martin Gustave",
+      "Moinat Ernest",
+      "Pache Eugène",
+      "Perret Louis",
+      "Peytrequin Aimé",
+      "Pointet Charles",
+      "Pointet Edouard",
+      "Pointet Eug.",
+      "Richard César",
+      "Saugy Franç.",
+      "Tschalär Benjamin"
+    ],
+    "Appareilleurs": [
+      "Reymond Hri",
+      "Schmidt Roger"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Viret Edmond"
+    ],
+    "Boulanger": [
+      "Villard Oscar"
+    ],
+    "Cafés": [
+      "Détraz Aloïs",
+      "Rieben Daniel"
+    ],
+    "Charron": [
+      "Mottaz Edouard"
+    ],
+    "Commission scolaire": [
+      "Gorgerat Hri",
+      "Pointet Eug.",
+      "Martin Emile"
+    ],
+    "Couturières": [
+      "Mottaz Berthe",
+      "Pointet Yvonne"
+    ],
+    "Entrepreneur": [
+      "Pointet Henri"
+    ],
+    "Epicerie": [
+      "Jurt Hélène",
+      "Villard Oscar"
+    ],
+    "Ferblantier-couvreur": [
+      "Schmidt Roger"
+    ],
+    "Imprimerie N. P. C. K.": [
+      "Viret Charles"
+    ],
+    "Inspecteur du bétail": [
+      "Perret Louis"
+    ],
+    "Instituteurs": [
+      "Viret Edmond",
+      "Pilloud Hélène"
+    ],
+    "Juge de paix": [
+      "Martin François"
+    ],
+    "Maréchal": [
+      "Reymond Henri"
+    ],
+    "Poste": [
+      "Tanniger E."
     ],
     "Sage-femme": [
-      "Widmer-Gloor"
+      "Martin-Collet Cécile"
+    ],
+    "Sociétés": [
+      "de laiterie",
+      "Abbaye des agriculteurs",
+      "de chant du battoir Echandens-Denges"
+    ],
+    "Tailleur": [
+      "Cavin John"
     ]
   }
 }

@@ -1,251 +1,101 @@
 {
-  "COMBREMONT-LE-GRAND": {
-    "Mutualité scolaire de retraite": [
-      "Dutoit Charles"
+  "NYON": {
+    "Agents d'affaires patentés": [
+      "Genton Eugène"
     ],
-    "Bétail (march. de)": [
-      "Favre Edmond",
-      "Favre William",
-      "Monney Fernand"
-    ],
-    "Blanchisseuse": [
-      "Viquerat Francine"
-    ],
-    "Boulanger": [
-      "Rollinet Alfred"
-    ],
-    "Cafés": [
-      "Gilliand Emile",
-      "Gaille Gustave",
-      "Pugin Jean"
-    ],
-    "Carriers": [
-      "Bovay Aimé",
-      "Penseyres Edouard"
-    ],
-    "Charpentiers": [
-      "Pidoux frères"
-    ],
-    "Charron": [
-      "Pidoux Julien"
-    ],
-    "Chef de section": [
-      "Favre Paul"
-    ],
-    "Commission scolaire": [
-      "Meige Ed.",
-      "Viquerat Georges"
-    ],
-    "Cordonnier": [
-      "Pidoux Paul"
-    ],
-    "Entrepreneurs": [
-      "Pessina frères"
-    ],
-    "Epicerie-Mercerie": [
-      "Bovey Art.",
-      "Passello & Del Pedro"
-    ],
-    "Horloger": [
-      "Bovey A. T."
-    ],
-    "Inspecteur du bétail": [
-      "Bettex Julien"
-    ],
-    "Instituteurs": [
-      "Dutoit Charles",
-      "Bovay Rose"
-    ],
-    "Justice de paix (section de Combremont)": [
-      "Bettex-Détraz Henri",
-      "Bettex Edouard",
-      "Chevalley-Burnand Edm.",
-      "Gilliand-Badoux C.",
-      "Correvon Aimé"
-    ],
-    "Greffier": [
-      "Mermoud Henri"
-    ],
-    "Laitier": [
-      "Neuschwander"
-    ],
-    "Lingère": [
-      "Pidoux Nancy"
-    ],
-    "Maçons": [
-      "Pessina frères",
-      "Rebaud Clément"
-    ],
-    "Maréchaux": [
-      "Gilliand Oscar",
-      "Mahon Marcel"
-    ],
-    "Matériaux de construction": [
-      "Pessina frères"
-    ],
-    "Médecin": [
-      "Bryois Ernest"
-    ],
-    "Officier d'état civil": [
-      "Gilliand Henri"
-    ],
-    "Poste": [
-      "Pidoux Louis"
-    ],
-    "Rentiers": [
-      "Aguet Jules",
-      "Détraz Julien"
-    ],
-    "Repasseuse": [
-      "Viquerat Francine"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "Syndicat d'élevage",
-      "Société d'agriculture",
-      "Crédit mutuel",
-      "Section de la Croix-Bleue"
-    ],
-    "Téléphoniste": [
-      "Gaille Gustave"
-    ]
-  },
-  "COMBREMONT-LE-PETIT": {
-    "Autorités communales": [
-      "Blanchoud Hri",
-      "Bettex Lucien"
-    ],
-    "Syndic": [
-      "Crisinel Ulysse"
-    ],
-    "Municipaux": [
-      "Bettex Ulysse",
-      "Bettex-Nicaty Aloïs",
-      "Bettex Numa",
-      "Bettex Paul",
-      "Duvillard Constant",
-      "Bettex Henri"
-    ],
-    "Secrétaire": [
-      "Burnand Edouard"
-    ],
-    "Boursier": [
-      "Bettex Arthur"
+    "Agence immobilière": [
+      "\"LA RUCHE\" Mérinat & Dutoit"
     ],
     "Agriculteurs": [
-      "Balsiger Gottfried",
-      "Bettex Aloïs d'Eugène",
-      "Bettex Edouard, de Jacques-Daniel",
-      "Bettex Emile",
-      "Bettex Henri, de François-Daniel",
-      "Bettex Jules, de Frédéric",
-      "Bettex Numa",
-      "Bettex Marius",
-      "Burnand frères",
-      "Chevalley Henri",
-      "Chevalley William",
-      "Chambaz Aloïs",
-      "Crausaz Aimé",
-      "Crisinel Ulysse",
-      "Duvillard Jean",
-      "Gaberel J.-Sam.",
-      "Gaberel Jean-Pierre",
-      "Nicaty Henri",
-      "Nicaty Ls-Samuel",
-      "Nicaty Ulysse",
-      "Richardet Alb.",
-      "Richardet Henri",
-      "Richardet Ulysse",
-      "Roulet Victor",
-      "Roux Fernand",
-      "Vioget Julien",
-      "Vioget Ul."
+      "Ammann Adolphe",
+      "Baumgartner Johann",
+      "Billard Ernest",
+      "Bourgeois Louis",
+      "Cérésole Adrien",
+      "Chopard Jean-Alexandre",
+      "Delacrétaz E.",
+      "Destraz Henri",
+      "Félix Henri",
+      "Gallay Auguste",
+      "Girardet Jules fils",
+      "Girardet William",
+      "Graf Johann",
+      "Juvet Georges",
+      "Lude Marc",
+      "Lude Frédéric",
+      "Olivet Alphonse",
+      "Pasche Julien",
+      "Thévoz Ernest"
     ],
-    "Auberges et cafés": [
-      "Bettex Emma",
-      "Charbon Marie",
-      "Thurner-Crausaz Jean"
+    "Allumettes (fab. d')": [
+      "Société de la Fabrique d'allumettes Diamond"
     ],
-    "Battoir à blé": [
-      "Commune"
+    "Ameublements-tissus": [
+      "Graber Robert",
+      "Müller Ed.",
+      "Noguet Louis",
+      "Roux frères",
+      "Völter Wilhelm"
     ],
-    "Boulanger": [
-      "Bettex Henri"
+    "Antiquaire": [
+      "Cristin Georges"
     ],
-    "Bétail (marchands de)": [
-      "Bettex Louis",
-      "Martin Ch."
+    "Apiculture (articles pour)": [
+      "Durand Antoine"
     ],
-    "Bureau de poste": [
-      "Clerget Lucie"
+    "Appareils sanitaires pour chambres de bains et W.-C.": [
+      "Tavelli & Bruno. S. A."
     ],
-    "Blanchisseuse": [
-      "Ochsenbein Germaine"
+    "Appareilleurs": [
+      "Batisse Aug.",
+      "Baudet Fernand",
+      "Commune de Nyon (Service des eaux et du gaz)",
+      "Durand-Kocher Edouard",
+      "Favre A.",
+      "Gamberoni Angel",
+      "Huber Albert",
+      "Longchamp Aloïs",
+      "Paillex Ernest",
+      "Rossi Fernand"
     ],
-    "Charpentiers": [
-      "Bettex Jules",
-      "Bettex Victor"
+    "Architectes": [
+      "Dorier Louis & Fils",
+      "Falconnier Jean",
+      "Genoud Louis",
+      "Hessenmuller Louis",
+      "Säuberlin Ernest"
     ],
-    "Commission scolaire": [
-      "Hollenweger Oscar",
-      "Burnand Ed."
+    "Armes (fabr. d')": [
+      "Rochat A."
     ],
-    "Commission de la classe primaire supérieure": [
-      "Bettex-Détraz",
-      "Crisinel Ulysse"
+    "Asile de jeunes filles": [
+      "Aigroz Joséphine",
+      "Badan Esther"
     ],
-    "Cordonniers": [
-      "Aigroz Louis",
-      "Thierrin Emile"
+    "Assurances (agents)": [
+      "La Suisse",
+      "Assurance mutuelle cantonale",
+      "Fontolliet Louis",
+      "Bâloise (la)",
+      "Gonet & Cie",
+      "Le Genevoise-Vie",
+      "Guignard Julien",
+      "Helvétia (accidents, vol, etc.)",
+      "Rochat Charles",
+      "Société suisse d'assurances générales (vie)",
+      "Société de Banque suisse",
+      "Société suisse de secours mutuels Helvétia",
+      "Huber A.",
+      "Union (vie)",
+      "Cujean Félix",
+      "Winterthour (La)",
+      "Roy François",
+      "Zurich (la)",
+      "Rindlisbacher Charles"
     ],
-    "Entrepreneur": [
-      "Antoniazzi Jacques"
-    ],
-    "Epicerie, mercerie, tabacs": [
-      "Hollenweger & Gentil",
-      "Thuner J."
-    ],
-    "Garde de triage": [
-      "Bettex-Pidoux Henri"
-    ],
-    "Inspecteur du bétail": [
-      "Richardet Hri."
-    ],
-    "Instituteurs": [
-      "Rouilly René (sup.)",
-      "Cuany Madeleine",
-      "Gillabert Ls."
-    ],
-    "Laitier": [
-      "Winz Adolphe"
-    ],
-    "Lingère": [
-      "Duvillard Lina"
-    ],
-    "Maréchal": [
-      "Blanchoud Henri"
-    ],
-    "Machines agricoles": [
-      "Blanchoud Hri."
-    ],
-    "Menuisier": [
-      "Clerget Jules"
-    ],
-    "Modiste": [
-      "Bettex Bertha"
-    ],
-    "Scieurs": [
-      "Bettex Jules",
-      "Vioget Ul."
-    ],
-    "Sellier": [
-      "Bettex Adolphe"
-    ],
-    "Sociétés": [
-      "du poids public",
-      "de fromagerie de la Crausaz",
-      "Syndicat agricole",
-      "du battoir à trèfle de Combremont et environs"
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Duruz P."
     ]
   }
 }

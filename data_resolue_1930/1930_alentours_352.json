@@ -1,60 +1,109 @@
 {
-  "YVONAND": {
-    "Pêcheurs": [
-      "Buhlmann Jules",
-      "Gilliéron Alfred",
-      "Goncerut Charles",
-      "Goncerut Jules",
-      "Nicolier Emile",
-      "Pahud-Dubois Alfred",
-      "Roth Alphonse",
-      "Vuagniaux Ulysse"
+  "Montreux": {
+    "Agriculteurs-Vignerons.": [
+      "Vincent Emile",
+      "Vuichoud Louis",
+      "Vuichoud Vincent",
+      "Vuichoud Marc",
+      "Vuichoud frères",
+      "Wieland Vincent"
     ],
-    "Pens.-famille": [
-      "Vuillermier Gust."
+    "Antiquités.": [
+      "Bessard Ed.",
+      "Dufaux A.",
+      "Guhl Ernest",
+      "Henry Ami",
+      "Mercédès"
     ],
-    "Poste": [
-      "Säuberli Jean",
-      "Ray John",
-      "Versel Auguste"
+    "Appareilleurs.": [
+      "Aeschlimann W.",
+      "Bagnaschi Joseph",
+      "Berthet Ernest",
+      "Billeter Marc",
+      "Ghilardini Ch.",
+      "Giovanna H.",
+      "Gorini Louis",
+      "Grognuz Marius",
+      "Jonneret Amédée",
+      "Linsig G.",
+      "Loosli J.",
+      "Macchi J.",
+      "Nicoulaz A.",
+      "Peters Frédéric",
+      "Schmied & Kundert",
+      "Schnetzler W.",
+      "Société veveysanne du Gaz",
+      "Tozzo Jules",
+      "Weber Emile"
     ],
-    "Rentiers": [
-      "de Buren A.",
-      "Payot Ed."
+    "Architectes.": [
+      "Bauer David",
+      "Chaudet H.",
+      "van Dorsser & Buisson",
+      "Dumas Louis",
+      "Gribi E.",
+      "Rambert Victor",
+      "Reybaz-Perret",
+      "Rochat Paul",
+      "Schmid Otto",
+      "Schorp Alph.",
+      "Villard Louis & fils"
     ],
-    "Sage-femme": [
-      "Porchet-Marendaz Clémence"
+    "Argenture, dorure, galvanoplastie.": [
+      "Béard Henri",
+      "« Argentor »"
     ],
-    "Scierie, bois": [
-      "Chevalley Adolphe",
-      "Roulier-Bovay Emile"
+    "Armurier.": [
+      "Mayor Marius"
     ],
-    "Selliers-tapissiers": [
-      "Jaunin Albert",
-      "Mayor Auguste"
+    "Articles de bureau.": [
+      "Zeltner"
     ],
-    "Sociétés": [
-      "de fromagerie et laiterie d'Yvonand",
-      "de La Mauguettaz",
-      "de Niédens",
-      "Tir",
-      "Musique",
-      "Moulin agricole",
-      "Syndicat agricole",
-      "Section de la Croix-Bleue",
-      "Chant",
-      "des eaux d'Yvonand",
-      "Crédit rural d'Yvonand (caisse Raiffeisen)",
-      "du battoir à blé"
+    "Articles de ménage.": [
+      "Miauton E. & Cie",
+      "Rochat Aug."
     ],
-    "Télégraphiste": [
-      "Säuberli Jean"
+    "Articles de luxe.": [
+      "Ferrario",
+      "Mayor-Toillé Marg."
     ],
-    "Téléphone": [
-      "Maison de Ville"
+    "Articles de pêche.": [
+      "Mayor Marius"
     ],
-    "Tuilerie": [
-      "Tuileries et briqueteries d'Yvonand, Dutoit & Cie"
+    "Articles de religion.": [
+      "Librairie paroissiale cath."
+    ],
+    "Articles de voyages et sports.": [
+      "Berger A.",
+      "Burt M.",
+      "Bornand Ernest",
+      "Ingold Jean",
+      "Lang-Geismar R.",
+      "Lefort Guillaume",
+      "Margot C.",
+      "Och frères",
+      "Rutishauser & Kupfer"
+    ],
+    "Association vinicole.": [
+      "Collet Mce."
+    ],
+    "Ascenseurs.": [
+      "Homberger A.",
+      "« Otis »",
+      "Schindler & Cie"
+    ],
+    "Asiles.": [
+      "Asile des Amies de la jeune fille",
+      "Asile de nuit",
+      "Asile des Vieillards",
+      "Home catholique"
+    ],
+    "Assortiments (maison d').": [
+      "A la Rouvenaz (S.A.)"
+    ],
+    "Assurances.": [
+      "La Suisse",
+      "Bâloise (la)"
     ]
   }
 }

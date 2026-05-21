@@ -1,115 +1,120 @@
 {
-  "VUCHERENS": {
-    "Pensions d'été": [
-      "Jaton-Cherpillod Marie",
-      "Vuagniaux Louis"
+  "SAINTE-CROIX": {
+    "Sociétés.": [
+      "Fiorentinella.",
+      "Chant chœur mixte.",
+      "La Lyre, orchestre."
     ],
-    "Photographes": [
-      "Rod Eugène",
-      "Vuagniaux Victor"
+    "Tailleurs.": [
+      "Bonnet Alfred et Emile",
+      "Colombo Angel",
+      "Hellmüller-Monti A.",
+      "Thomann Frédéric"
     ],
-    "Poste": [
-      "Vuagniaux Alois"
+    "Tapissiers.": [
+      "Jaccard Marcel",
+      "Lassueur Ernest",
+      "Urech Rodolphe"
     ],
-    "Pots à fleurs en bois": [
-      "Pahud Ulysse"
+    "Teinturerie (dépôts).": [
+      "Bahon Oscar",
+      "Bonnet Alfr.et Emile",
+      "Jaques-Margot E.",
+      "Mutrux A."
     ],
-    "Radio": [
-      "Trolliet Hermann"
+    "Tonnelier-Boisselier.": [
+      "Bourgeois Alfred"
     ],
-    "Râteaux (fab. de)": [
-      "Cherpillod Germain"
+    "Vélos.": [
+      "Jaccard-Mutrux Louis",
+      "Joseph Eug., Vve",
+      "Martin Albert",
+      "Rochat Clément"
     ],
-    "Scieur": [
-      "Besson Maurice"
+    "Vins.": [
+      "Addor René",
+      "Bornand Maurice",
+      "Huguenin-Tharin",
+      "Jaccard Oscar",
+      "Jaccard Arnold",
+      "Junod César-Eugène",
+      "Junod-Gaillard César",
+      "Margot Louis (gros)",
+      "Martin-Jaccard David",
+      "Thorens Henri"
     ],
-    "Sellier": [
-      "Rod Eugène"
+    "Vis pour métaux.": [
+      "Bornand Emile",
+      "Lador Adrien",
+      "Margot A. & E."
     ],
-    "Sociétés": [
-      "d'assurance du bétail",
-      "du four du bas de Vucherens",
-      "du four de La Rappaz",
-      "du four du Closy",
-      "de fromagerie",
-      "Société de machine à battre, concassage et scierie",
-      "Fanfare de Vucherens"
+    "Vitrerie.": [
+      "De Nicolas Louis"
     ],
-    "Taille d'arbres d'ornements": [
-      "Jaquier Jules"
+    "Voituriers.": [
+      "Addor Louis",
+      "Besse Widmer",
+      "Bezençon A.",
+      "Bornand-Margot Georges",
+      "Campiche Gustave",
+      "Cherpillod Alfred",
+      "Crausaz Robert",
+      "Cruchaud Georges",
+      "Cruchaud Jules",
+      "Jaccard A.",
+      "Jaccard Auguste",
+      "Jaccard Benjamin",
+      "Jaccard-Perrier Ami",
+      "Jaques François",
+      "Junod Albert",
+      "Mermod-Gaillard Arthur"
     ],
-    "Téléphone": [
-      "Bureau des postes",
-      "Jaton-Cherpillod Marie",
-      "Lorini Vital"
+    "Boîtes (fabricants de).": [
+      "Jaccard Alexis",
+      "Lador Adrien",
+      "Lassueur Ed.",
+      "Mutrux Emile",
+      "Reuge Al. & Cie.",
+      "Thorens Hermann, S. A."
     ],
-    "Voiturier, commerce de bois": [
-      "Estoppey Marius"
-    ]
-  },
-  "DISTRICT DE NYON": {
-    "Préfet": [
-      "Chaponnier Auguste"
+    "Blancs (fabricants de).": [
+      "Jaccard John",
+      "Jaccard Robert"
     ],
-    "Substitut": [
-      "Guibert Emile"
+    "Claviers.": [
+      "Bornand-Cherpillod Jules",
+      "Junod-Jaccard Ami"
     ],
-    "Receveur": [
-      "Gervaix Alb."
+    "Ebauches.": [
+      "Jaccard John"
     ],
-    "Conservateur du registre foncier": [
-      "Tecon Julien"
+    "Ebénisterie pour boîtes à musique. et machines parlantes": [
+      "Besté B.",
+      "Jaccard, fils de Gustave",
+      "Jaccard Georges",
+      "Jaccard Robert",
+      "Jaques Arthur",
+      "Karrer Maurice",
+      "Sueur Bertha; Vve",
+      "Sueur Numa",
+      "Thorens Hermann, S. A."
     ],
-    "Voyer du IIIe arrondissement": [
-      "Dorier Lucien"
+    "Fondeurs.": [
+      "Jaccard frères L. et F."
     ],
-    "Tribunal de district": [
-      "Pilet Ed.",
-      "Genevay Julien",
-      "Pécoud Adolphe",
-      "Mugnier Louis",
-      "Gauthier Louis",
-      "Fillietaz Emile",
-      "Reymond Const."
+    "Fabriques de machines parlantes.": [
+      "Breitler R. P.",
+      "Chanteclair S. A.",
+      "Gramotechnique, S. A.",
+      "Jaccard Alexis",
+      "Jaccard John",
+      "Jurassia (S. A.) Käferstein A.",
+      "Lassueur Ed.",
+      "Paillard E. & Cie (S. A.)",
+      "Thorens Hermann, S. A."
     ],
-    "Poursuites et faillites": [
-      "Wenger Jean"
-    ]
-  },
-  "VILLE DE NYON": {
-    "Président du Conseil communal": [
-      "Graber Robert"
-    ],
-    "Secrétaire": [
-      "Robellaz Alcide",
-      "Favre Fernand"
-    ],
-    "Syndic": [
-      "Bonnard Louis"
-    ],
-    "Municipaux": [
-      "de Luc Armand",
-      "Tecon Louis",
-      "Bonzon Ernest",
-      "Cherpillod Ls."
-    ],
-    "Boursier": [
-      "Rossier Charles"
-    ],
-    "Huissier": [
-      "Pagésy Eugène"
-    ],
-    "Bureau du contrôle des habitants": [
-      "Favre Fernand"
-    ],
-    "Affichage": [
-      "Soc. générale d'affichage"
-    ],
-    "Agence immobilière": [
-      "Sautter & Cie"
-    ],
-    "Agents d'affaires patentés": [
-      "Sommer Jean"
+    "Métronomes (fab. de).": [
+      "Paillard E. & Cie (S. A.)"
     ]
   }
 }

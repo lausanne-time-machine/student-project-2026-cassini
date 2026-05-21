@@ -1,112 +1,108 @@
 {
-  "Montreux": {
-    "Couturières.": [
-      "Monge M.-J.",
-      "Monnier, dame.",
-      "Nicati Germaine",
-      "Omodei-Sotton F.",
-      "Parisod Mathilde",
-      "Parlier, Mme",
-      "Pasetti Mercédès",
-      "Passarini",
-      "Rambert Marie",
-      "Ramseyer Marguerite",
-      "Renkewitz-Colin Berthe",
-      "Roselyne (Maison)",
-      "Rouiller Marie",
-      "Ruschetta Louise",
-      "Schneider Bertha",
-      "Schlumpf A.",
-      "Siebenthal, Mlle",
-      "Sprintz sœurs",
-      "Theintz Mme",
-      "Stebler Elise",
-      "Tortochaut M.",
-      "van der Welden-Genton",
-      "Verdan Mérv.",
-      "Waterschott & Cie",
-      "Weber-Meyer, Mme",
-      "Wichoud Hélène",
-      "Wittwer Jeanne"
+  "VILLE DE ROLLE": {
+    "Assurances": [
+      "Société suisse de secours mutuels Helvétia",
+      "Zurich (la)"
     ],
-    "Couvreurs": [
-      "Aguettaz Joseph",
-      "Cherix Félix",
-      "Giovanna H.",
-      "Heymoz",
-      "Linsig",
-      "Jonneret Amédée",
-      "Paillex Isaïe",
-      "Schmied Fritz",
-      "Tozzo Jules"
+    "Assurance-vieillesse.": [
+      "Associations mutualistes de retraite"
     ],
-    "Crèmeries": [
-      "Benoit Claudius",
-      "Bertholet & Morier, Mlles",
-      "Cottier-Bardet A.",
-      "Desarzens H.",
-      "Gangwisch Gustave",
-      "Hofer sœurs",
-      "Le Perroquet Montreux S. A.",
-      "Masson-Wahlen L.",
-      "Zurbrugg, Mlle."
+    "Ateliers de construction.": [
+      "Armand Pahud & Cie"
     ],
-    "Cuirs": [
-      "Régis Ernest"
+    "Automobiles. garages.": [
+      "Fleury Albert",
+      "Gauthey Edmond",
+      "Rosset Albert",
+      "Rusillon Georges",
+      "Sirca, S. A.",
+      "Ulliel G."
     ],
-    "Curés": [
-      "Juillard Ernest",
-      "Bord Irénée",
-      "Corpataux Joseph",
-      "Pahud Auguste",
-      "Porchel François",
-      "Schmidt",
-      "Seydoux Louis"
+    "Banques.": [
+      "Banque cantonale vaudoise",
+      "Société de Banque Suisse",
+      "Gonet & Cie",
+      "Union vaudoise du crédit"
     ],
-    "Danse (prof. de)": [
-      "Christin G.",
-      "Courant W.",
-      "Gmehlin H.",
-      "Rouilly E."
+    "Bateaux (constructeurs de).": [
+      "Goël Louis",
+      "Oester Jean"
     ],
-    "Dentelles": [
-      "Amez-Droz G.",
-      "Bühler-Küng",
-      "Hunziker Julien",
-      "Laplace-Delapraz Adèle",
-      "Stebler Elise"
+    "Bazar.": [
+      "Josi Fritz"
     ],
-    "Dentistes": [
-      "Desbaillets L.",
-      "Galbreath Donald",
-      "Kammacher, Mlles",
-      "Kurt M.",
-      "Laurent Ad.",
-      "Matthey, Dr.",
-      "Perret Francis",
-      "Méroz R.-L.",
-      "Slisonsky André",
-      "Wellauer Herm."
+    "Bière (dépôt de).": [
+      "Held-Perreten Ch."
     ],
-    "Désinfection": [
-      "Néroform"
+    "Bijoutiers.": [
+      "Droz-Georget G.",
+      "Hurter Jacob"
     ],
-    "Distillateurs-liquoristes": [
-      "Bols Ervin Lucas, Oehninger, S. A.",
-      "Blanchod C.. Hoirs",
-      "Demarchi Pierre",
-      "Fiorini A.",
-      "Jeanneret & Cie, S. A.",
-      "Messager G."
+    "Blanchisseuses.": [
+      "Burdet E.",
+      "Crausaz Hélène",
+      "Pichard Maria",
+      "Prenleloup Elise",
+      "Zumstein-Mottaz E."
     ],
-    "Doreurs-encadreurs": [
-      "Beck & Guggisberg",
-      "Ducommun P.",
-      "Mottier-Guignet",
-      "Moraz Jules"
+    "Boissellerie.": [
+      "Dorsier Louis",
+      "Monnard-Margot H."
     ],
-    "Douane": [
-      "Bureau aux Eaux alcalines"
+    "Bonneterie.": [
+      "Au Louvre",
+      "Richard Ida",
+      "Yersin-Rochat B.",
+      "Divorne Esther"
+    ],
+    "Bouchers.": [
+      "Imhof Fréd.",
+      "Sauterel Justine",
+      "Tissot Jules"
+    ],
+    "Boulangers.": [
+      "Beck Marc",
+      "Bolliger O.",
+      "Castella Maxime",
+      "Grosjean Robert",
+      "Remund Edmond",
+      "Rochat Eugène"
+    ],
+    "Cafés.": [
+      "Arbel Arsène",
+      "Bonjean-Rolaz Victor",
+      "Bracher Alfred",
+      "Caillachon Arthur",
+      "Cercle de la Côte",
+      "Gugger Jean",
+      "Larpin Marcel",
+      "Larpin Charles Vve",
+      "Larpin Ferdinand",
+      "Manigley Marcel",
+      "Mauron Emile",
+      "Miéville Fern.",
+      "Roth Louis, fils"
+    ],
+    "Café-chocolat.": [
+      "Girard Elisabeth",
+      "Grosjean Auguste"
+    ],
+    "Caisses (fab. de).": [
+      "Arbel Arsène, hoirie",
+      "Haldy Albert",
+      "Usine d'imprégnation"
+    ],
+    "Canneur de chaises.": [
+      "Case J.",
+      "Replica J."
+    ],
+    "Cercueils.": [
+      "Pfund Silas"
+    ],
+    "Chapelleries.": [
+      "Divorne Esther",
+      "Au Louvre",
+      "Yersin-Rochat B."
     ]
   }
 }

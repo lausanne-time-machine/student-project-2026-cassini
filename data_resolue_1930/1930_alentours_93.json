@@ -1,219 +1,241 @@
 {
-  "CHAPELLE": {
-    "Charpentiers": [
-      "Dizerens Eugène",
-      "Mingard Arthur"
-    ],
-    "Charrons": [
-      "Dufour Jules-Henri",
-      "Martin Héli"
-    ],
-    "Chef de section": [
-      "Besson Jules"
-    ],
-    "Commission scolaire": [
-      "Besson Ed.",
-      "Guignard Paul",
-      "Guex Alph.",
-      "Mingard Ami",
-      "Mingard Edmond"
-    ],
-    "Cordonniers": [
-      "Dubois Jules",
-      "Guignard Jules"
-    ],
-    "Couturière": [
-      "Martin Marie"
-    ],
-    "Ecole ménagère et pensionnat": [
-      "Mme Vve J. Pache-Cornaz"
-    ],
-    "Entrepreneur": [
-      "Delgrande Salvat"
-    ],
-    "Epicerie, mercerie": [
-      "Delgrande A.",
-      "Jaton Alfred"
-    ],
-    "Fourches (fab. de)": [
-      "Mingard Ami et Oscar",
-      "Veyre J."
-    ],
-    "Garde-forestier": [
-      "Cordey Auguste"
-    ],
-    "Gravière": [
-      "Laurent Emile",
-      "Favre Emile",
-      "Cazzaniga Pierre"
-    ],
-    "Inspecteur du bétail": [
-      "Mingard Em."
-    ],
-    "Instituteurs": [
-      "Dupuis Marguerite",
-      "Lagnel Frédéric"
-    ],
-    "Lingère": [
-      "Jayet Hélène"
-    ],
-    "Machines agricoles": [
-      "Kaesermann Rodolphe"
-    ],
-    "Maréchaux": [
-      "Jaton Louis",
-      "Kaesermann Rodolphe"
-    ],
-    "Scieurs": [
-      "Cordey Ulysse",
-      "Duthon Jules"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "Poids public",
-      "Machine à battre et scierie",
-      "Caisse d'assurance du bétail",
-      "Amélioration du bétail",
-      "L'Aurore",
-      "Abbaye de Chapelle",
-      "Société de tir aux armes de guerre"
-    ]
-  },
-  "CHAVANNES-SUR-MOUDON": {
-    "Autorités communales": [
-      "Dutoit Robert",
-      "Crausaz Victor",
-      "Duc-Crausaz Julien",
-      "Pidoux Alphonse",
-      "Crausaz William",
-      "Duc Louis",
-      "Crausaz Moïse",
-      "Dutoit Alexandre",
-      "Duc Numa"
-    ],
+  "CONCISE": {
     "Agriculteurs": [
-      "Augsburger Paul",
-      "Héritier Jean",
-      "Crausaz William",
-      "Crausaz Albert",
-      "Crausaz Ferdinand",
-      "Crausaz John",
-      "Crausaz Ulysse",
-      "Dévaud Eugène",
-      "Duc Ami",
-      "Duc Louis d'Abram",
-      "Duc, hoirie de Charles",
-      "Duc, hoirie d'Edouard",
-      "Duc Louis",
-      "Duc Julien et Marcel",
-      "Duc Jules",
-      "Duc Julien",
-      "Dutoit, hoirie d'Aloïs",
-      "Dutoit André",
-      "Dutoit Daniel",
-      "Dutoit Gustave",
-      "Dutoit hoirie d'Emile",
-      "Dutoit Jean-Louis",
-      "Dutoit Paul",
-      "Dutoit Robert",
-      "Gavin Louis",
-      "Pidoux Alphonse",
-      "Pidoux Eugène",
-      "Pidoux Oscar",
-      "Porchet Marcel",
-      "Spahni frères",
-      "Veyre frères"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Raccoursier O."
-    ],
-    "Société mutualiste de retraite": [
-      "Duc Numa"
+      "Banderet Alfred",
+      "Banderet Charles",
+      "Banderet Eugène",
+      "Banderet Léon",
+      "Banderet Paul",
+      "Duvoisin Edouard",
+      "Gasser Alfred",
+      "Guilloud Charles",
+      "Guilloud Jules",
+      "Guilloud Paul",
+      "Lanz Fritz",
+      "Perdrix Charles",
+      "Ray Hri.",
+      "Tharin André",
+      "Tharin Edouard",
+      "Althaus Ernest",
+      "Althaus François",
+      "Dyens Albert",
+      "Dyens Clément",
+      "Dyens François",
+      "Jaquet André",
+      "Meyland Aloïs",
+      "Paris Jules",
+      "Sandoz Henri",
+      "Thibaud Fritz",
+      "Thibaud Gustave",
+      "Thibaud Maurice"
     ],
     "Apiculteurs": [
-      "Crausaz Benjamin",
-      "Crausaz Ferdinand",
-      "Duc Ami",
-      "Duc Charles",
-      "Duc Marcel",
-      "Duc Numa",
-      "Dutoit Alexandre",
-      "Dutoit Louis",
-      "Gavin frères",
-      "Raccoursier Oscar",
-      "Spahni frères",
-      "Veyre Marcel"
+      "Débétaz Jules",
+      "Duvoisin Charles",
+      "Giroud Alfred",
+      "Patthey Ernest"
     ],
-    "Café": [
-      "Devaud Eug."
+    "Assesseur": [
+      "Banderet Charles"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Manigley C.",
+      "Fallet E."
+    ],
+    "Société mutualiste de retraite": [
+      "Duvoisin Ch."
+    ],
+    "Blanchisseuse": [
+      "Perret-Tharin Marie"
+    ],
+    "Bois (march. de)": [
+      "Banderet Hri.",
+      "Cuendet & Martin",
+      "Dyens Samuel"
+    ],
+    "Boulangers": [
+      "Marxgut-Tharin Armand",
+      "Sandoz-Nicoud Michel",
+      "Boudry Alfred",
+      "Brünner Th."
+    ],
+    "Cafés": [
+      "Cercle de Champagne",
+      "Miserez Paul",
+      "Diserens Flora",
+      "Gaille Fritz",
+      "Maire Th.",
+      "Oppliger Emile",
+      "Wirth Jules"
+    ],
+    "Charcutier": [
+      "Bovard Héli"
     ],
     "Charpentier": [
-      "Emery Paul"
+      "Aigroz Ernest"
+    ],
+    "Charron": [
+      "Perdrix Charles"
     ],
     "Commission scolaire": [
-      "Crausaz Ferdinand",
-      "Duc Julien",
-      "Gavin Louis"
+      "Rusterholz William",
+      "Tharin Jean",
+      "Tharin Louis"
     ],
-    "Couturières": [
-      "Crausaz Adèle",
-      "Duc Lydie"
+    "Cordonniers": [
+      "Montangero Baptiste",
+      "Patthey Jules"
     ],
-    "Epicerie, mercerie": [
-      "Dutoit Ulysse"
+    "Cycles": [
+      "Randin Jules"
+    ],
+    "Entrepreneurs": [
+      "Bessero frères"
+    ],
+    "Epiceries": [
+      "Coopérative du cercle de Champagne",
+      "Buhlmann Alph.",
+      "Rothlisberger Julie",
+      "Tharin-Weber Léon"
+    ],
+    "Horlogerie (fab. d')": [
+      "La Nationale",
+      "Bourquin Ls"
+    ],
+    "Horticulteur-grainier": [
+      "Jaccard G."
     ],
     "Inspecteur du bétail": [
-      "Dutoit Robert"
+      "Morier Aug."
     ],
     "Instituteurs": [
-      "Bettens Henri",
-      "Rochat Hélène"
+      "Manigley Constant",
+      "Debonneville Maria",
+      "Forestier Marie",
+      "Perdrix Louise"
     ],
-    "Menuisier-ébéniste": [
-      "Emery Louis"
+    "Institut": [
+      "Jaccard frères",
+      "Institut Mt Fleuri"
+    ],
+    "Laitier": [
+      "de Siebenthal"
+    ],
+    "Lingères": [
+      "Millet Louise",
+      "Perret Marie"
+    ],
+    "Maréchal": [
+      "Guillet Emile"
+    ],
+    "Menuisier": [
+      "Hofmann Emile"
+    ],
+    "Officier d'état-civil": [
+      "Banderet Léon"
+    ],
+    "Pasteur": [
+      "Rusterholz William"
+    ],
+    "Pêcheurs": [
+      "Eggimann Félix",
+      "Miserez Paul",
+      "Thiébaud frères"
+    ],
+    "Pépiniéristes": [
+      "Giroud Alfred",
+      "Guilloud Jules"
+    ],
+    "Planelles et tuyaux en ciment (fab. de)": [
+      "Bessero Primo"
+    ],
+    "Poste": [
+      "Robellaz Charles"
+    ],
+    "Scierie": [
+      "Banderet Henri"
     ],
     "Sociétés": [
-      "Société d'assurance contre les pertes du bétail",
-      "Fromagerie",
-      "Tir",
-      "Jeunesse",
-      "Bibliothèque",
-      "Chant"
+      "Coopérat. de laiterie",
+      "L'Avenir",
+      "de l'Abbaye des Mousquetaires",
+      "de l'usine à battre",
+      "Syndicat agricole"
     ],
-    "Téléphoniste": [
-      "Duc Marie"
-    ]
-  },
-  "CHESALLES-SUR-MOUDON": {
+    "Tailleuses": [
+      "Banderet Alice",
+      "Duvoisin Elisa",
+      "Forestier Rose",
+      "Patthey Yvonne",
+      "Vautravers Rosa"
+    ],
+    "Téléphone": [
+      "Miserez Paul"
+    ],
+    "Vins (march. de)": [
+      "Banderet Eugène",
+      "Banderet Léon",
+      "Guilloud Jules",
+      "Jaccard frères",
+      "Ray frères"
+    ],
     "Autorités communales": [
-      "Gavin Octave",
-      "Besson Ernest",
-      "Oulevey Paul",
-      "Oulevay Louis",
-      "Dutoit Arnold",
-      "Dutoit Constant",
-      "Dutoit Arn."
+      "Roulet Victor",
+      "Fallet E.",
+      "Meyland Aloïs",
+      "Bétrix Alf.",
+      "Paris Jules",
+      "Du Pasquier René",
+      "Boudry Ed.",
+      "Dyens Samuel",
+      "Boudry Alfred",
+      "Baudat Jules",
+      "Dyens Albert"
     ],
-    "Agriculteurs": [
-      "Besson Jules",
-      "Chevalley Robert",
-      "Durussel Gustave",
-      "Dutoit Arnold",
-      "Dutoit Const.",
-      "Gavin Octave",
-      "Oulevey Louis",
-      "Oulevey Paul",
-      "Pidoux Alcide",
-      "Pidoux Alph.",
-      "Pidoux Eug.",
-      "Pidoux frères",
-      "Vernez Constant"
+    "Ameublements": [
+      "Pavot Sam."
     ],
-    "Associations mutualistes de retraite": [
-      "Chevalley C. Mme"
+    "Amodiateurs": [
+      "Du Pasquier René",
+      "Gaille Fritz"
     ],
-    "Cantonnier": [
-      "Durussel Henri"
+    "Antiquaire": [
+      "Thibaud François"
+    ],
+    "Bétail (comm. de)": [
+      "Oppliger Emile"
+    ],
+    "Blanchisseuses-repasseuses": [
+      "Boudry Sophie",
+      "Duvoisin, Mme"
+    ],
+    "Boucherie-Charcuterie": [
+      "Kaufmann Fritz",
+      "Perrin Auguste"
+    ],
+    "Chapellerie": [
+      "Jeanmonod Marie"
+    ],
+    "Charpentiers": [
+      "Guyaz Gustave",
+      "Moulin Louis"
+    ],
+    "Charretiers": [
+      "Bize Emile",
+      "Gaille Fritz"
+    ],
+    "Charrons": [
+      "Jaggi Léon",
+      "Wiesner Charles"
+    ],
+    "Chaussures (gros)": [
+      "Plüss Fritz"
+    ],
+    "Chaux (fab. de)": [
+      "Gaille Fritz fils"
+    ],
+    "Chef de gare": [
+      "Guinchard Charles"
     ]
   }
 }

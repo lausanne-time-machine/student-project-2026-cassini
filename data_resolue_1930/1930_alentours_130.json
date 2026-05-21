@@ -1,248 +1,232 @@
 {
-  "EYSINS": {
-    "Syndic": [
-      "Haldimann Julien"
+  "CHEXBRES": {
+    "Coiffeurs": [
+      "Conne François",
+      "Murisier Henri"
     ],
-    "Municipaux": [
-      "Granger Julien",
-      "Pasche Emile",
-      "Chenaux Fernand",
-      "Martignier Paul"
+    "Coiffeuses pour dames": [
+      "Conne, dame",
+      "Depallens, Mlle",
+      "Kolitzus Marie"
     ],
-    "Secrétaire": [
-      "Baudraz Alfred"
-    ],
-    "Boursier": [
-      "Olivier Louis"
-    ],
-    "Agriculteurs": [
-      "André Ami",
-      "Bachelard Louis. T.",
-      "Bader Veuve",
-      "Bolay Aloïs. T.",
-      "Brélaz Alfred",
-      "Chenaux Fernand",
-      "Demont Eugène",
-      "Dupontet Marc",
-      "Ebinger Albert",
-      "Gigy Charles",
-      "Granger Julien",
-      "Haldimann Albert",
-      "Haldimann Julien",
-      "Hautier Ami",
-      "Jordan Paul",
-      "Liechti Alfred",
-      "Martignier Paul",
-      "Olivier Alphonse",
-      "Pasche frères",
-      "Perret James",
-      "Rochat Gustave",
-      "Spöri Jacob",
-      "Staeblé Hans",
-      "Stüki Fritz",
-      "Tappaz Georges. T.",
-      "Turrian Auguste"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Baudin. G."
-    ],
-    "Aubergistes": [
-      "Olivier Louis"
-    ],
-    "Battoir à blé et huilerie": [
-      "Olivier Alphonse"
-    ],
-    "Charcutier": [
-      "Olivier Louis"
-    ],
-    "Charpente et menuiserie": [
-      "Chabloz père et fils"
-    ],
-    "Charron": [
-      "Fuhrer Gaspard"
-    ],
-    "Chef de station": [
-      "Baudraz Alfred"
-    ],
-    "Commandant corps des pompiers": [
-      "Dupontet Marc"
+    "Combustibles": [
+      "Delay John",
+      "Chaubert Louis"
     ],
     "Commission scolaire": [
-      "Larpin Alfr.",
-      "Wyrsch Arnold",
-      "Granger Julien"
+      "Bidlingmeyer Ami"
     ],
-    "Entrepreneur": [
-      "Paltani Joseph"
+    "Confections pour hommes": [
+      "Borgeaud A. & Cie",
+      "Dénéréaz Eug.",
+      "Gilliéron Gustave"
     ],
-    "Epicerie, mercerie": [
-      "Olivier-Pinguely L. RT."
+    "Cordonniers": [
+      "Blanc J.",
+      "Burnand Gustave",
+      "Chevalley Louis",
+      "Fontannaz Joseph",
+      "Muller Edouard"
+    ],
+    "Couturières": [
+      "Blanc Yvonne, Mlle",
+      "Légeret Julie",
+      "Pittet, dame"
+    ],
+    "Dentiste": [
+      "Steininger F."
+    ],
+    "Ebénistes": [
+      "Légeret Jules et fils"
+    ],
+    "Electriciens": [
+      "Bersier Reymond",
+      "Entreprises électriques fribourgeoises",
+      "Fiette Louis",
+      "Rey Edouard"
+    ],
+    "Entrepreneurs": [
+      "Garzoni frères",
+      "Mordasini frères",
+      "Rogivue Alf.",
+      "Tettoni frères"
+    ],
+    "Engrais": [
+      "Gilliéron Gustave"
+    ],
+    "Epicerie, mercerie, poterie": [
+      "Bidlingmeyer Ami",
+      "Borgeaud A. & Cie",
+      "Chaubert Aimé",
+      "Dénéréaz E.",
+      "Gilliéron Gustave",
+      "Morel-Gilliéron Aloïs",
+      "Naegele L.",
+      "Renfer, Mme."
+    ],
+    "Facteurs": [
+      "Cherpillod Louis",
+      "Cossy Pierre",
+      "Forestier Marcel"
+    ],
+    "Ferblantiers-appareilleurs": [
+      "Albanesi Antoine",
+      "Rastoldo Charles"
+    ],
+    "Fers et métaux": [
+      "Dénéréaz Eugène",
+      "Gilliéron Gustave"
+    ],
+    "Fourrages": [
+      "Grandchamp F."
+    ],
+    "Fromages": [
+      "Renfer Jean"
+    ],
+    "Géomètre officiel": [
+      "Conne Félix"
+    ],
+    "Gérant d'immeubles": [
+      "Peyrollaz Ls."
+    ],
+    "Glaces et encadrements": [
+      "Barbey Julien"
+    ],
+    "Greffier de paix": [
+      "Gilliéron Gustave"
+    ],
+    "Gypsiers": [
+      "Terribilini Gildo",
+      "Zoppi Angelo"
+    ],
+    "Horloger": [
+      "Wutrich Fritz"
+    ],
+    "Hôtels-pensions": [
+      "Hôtel Bellevue",
+      "Butticaz Jean",
+      "Hôtel-Pension La Charmille",
+      "Depeursinge Ed.",
+      "Hôtel du Nord",
+      "Hochuli Hri.",
+      "Hôtel du Signal",
+      "von Gunten Hermann",
+      "Hôtel-Pension Victoria",
+      "Demole R..",
+      "Hôtel du Lion d'Or",
+      "Wursten-Séchaud Jules",
+      "Hôtel Cécil",
+      "Regamey-Favre"
     ],
     "Inspecteur du bétail": [
-      "Olivier Alph."
+      "Gilliéron Oct."
+    ],
+    "Inspecteur des viandes": [
+      "Grandchamp Samuel"
+    ],
+    "Institut": [
+      "Institut préalpin pour jeunes filles"
     ],
     "Instituteurs": [
-      "Baudin Gustave",
-      "Miauton-Chappuis Renée"
-    ],
-    "Laitier": [
-      "Schnebeli Emile fils. R."
-    ],
-    "Poste": [
-      "Baudraz Alfred"
-    ],
-    "Société": [
-      "de Laiterie d'Eysins",
-      "Bolay Aloïs"
-    ],
-    "Télégraphe et téléphone": [
-      "Olivier Ls."
-    ],
-    "Divers": [
-      "André A."
-    ]
-  },
-  "FOUNEX": {
-    "Ecole nouvelle « La Châtaigneraie »": [
-      "Schwartz-Buys"
-    ],
-    "Autorités communales": [
-      "Polencent Hri",
-      "Guichoud René"
-    ],
-    "Syndic": [
-      "Deblüe Charles"
-    ],
-    "Municipaux": [
-      "Vulliez Paul",
-      "Henchoz Charles",
-      "Nerfin Const.",
-      "Dejoux Charles"
-    ],
-    "Secrétaire": [
-      "Guichoud Georges"
-    ],
-    "Boursier": [
-      "Guignard Julien"
-    ],
-    "Agriculteurs": [
-      "Balmer Charles et Fritz",
-      "Bezuchet Maurice",
-      "Carrard Henri",
-      "Cavin Marcel",
-      "Deblüe Alfred",
-      "Deblüe Charles",
-      "Deblüe Emile",
-      "Deblüe Ern.",
-      "Deblüe Marc",
-      "Dejoux Const.",
-      "Favre Jules",
-      "Guichoud Georges",
-      "Hédiguer Ed.",
-      "Henchoz Charles",
-      "Hertig Gottlieb",
-      "Kilchherr Hans",
-      "Kuonen Romain",
-      "Mandry Paul",
-      "Nerfin Constant",
-      "Nerfin Octave",
-      "Polencent Henri",
-      "Quiblier César",
-      "Rossier Auguste",
-      "Rossier Henri",
-      "Singy Fernand",
-      "Veluz Paul",
-      "Vulliez Paul. T."
-    ],
-    "Apiculteurs": [
-      "Quiblier César"
-    ],
-    "Assurance": [
-      "La Générale (accidents)",
-      "Nerfin Marcel"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Ferrari Lucien"
-    ],
-    "Société mutualiste de retraite « Le Laurier »": [
-      "Béboux Marguerite"
-    ],
-    "Aubergiste": [
-      "Joos Paul"
-    ],
-    "Bétail (march. de)": [
-      "Mandry Paul. R."
-    ],
-    "Charcutier": [
-      "Helfer Frédéric"
-    ],
-    "Chef de section": [
-      "Guichoud Edouard"
-    ],
-    "Commission scolaire": [
-      "Guichoud Edouard",
-      "Henchoz Charles",
-      "Deblüe Emile"
-    ],
-    "Curé": [
-      "Piotton Pierre-Joseph-Jaques"
-    ],
-    "Ecole ménagère": [
-      "« La Roseraie »",
-      "Rittmeyer, Mme, Dr"
-    ],
-    "Epicerie, mercerie": [
-      "Guignard Julien"
-    ],
-    "Inspecteurs du bétail": [
-      "Nerfin Constant",
-      "Deblüe Alfred"
-    ],
-    "Instituteurs": [
-      "Ferrari Lucien",
-      "Béboux Marguerite"
+      "Chollet Paul",
+      "Echenard Robert",
+      "Bugnon Hélène",
+      "Roux Thérèse"
     ],
     "Jardiniers": [
-      "Giron François",
-      "Mistéli Joseph",
-      "Pilloud Emile"
+      "Beausire Eugène",
+      "Chappuis Constant"
     ],
-    "Laitier": [
-      "Schneebeli Albert"
+    "Laine de bois (fab. de)": [
+      "USINE DE LA VULPILLIÈRE",
+      "BISSEGGER & Cie"
     ],
-    "Maréchal": [
-      "Vullioud Ernest"
+    "Laitiers": [
+      "Jacquemettaz H.",
+      "Société de laiterie"
     ],
-    "Pensions": [
-      "Carrard Henri",
-      "Fiandra Edouard. T."
+    "Maisons de Repos": [
+      "Chappuis Rose",
+      "Christin Berthe, Dlle",
+      "Depeursinge Ed.",
+      "Herdegen Ch."
     ],
-    "Pépiniéristes": [
-      "Dutruy Gustave. T.",
-      "Guichoud Georges"
+    "Maréchaux": [
+      "Bovard Louis",
+      "Naegele Albert"
     ],
-    "Poste": [
-      "Guichoud Georges"
+    "Mécaniciens": [
+      "Lebet Marcel",
+      "Chaubert Louis, fils"
     ],
-    "Rentiers": [
-      "Brandt R.",
-      "De Pulido Maie",
-      "Caillat, Vve",
-      "Deblüe Alfred",
-      "Duvillard G.",
-      "Forget Albert",
-      "Moppert Gustave",
-      "Nerfin Marc",
-      "Notz, Vve d'Albert. T.",
-      "Picot Albert"
+    "Médecins": [
+      "Frossard Julien",
+      "Lanz W."
+    ],
+    "Menuisiers": [
+      "Eich & fils",
+      "Légeret & fils"
+    ],
+    "Meunier": [
+      "Conne-Gilliéron Emile"
+    ],
+    "Modes": [
+      "Jaccard Marie et Augusta"
+    ],
+    "Notaires": [
+      "Buche Paul",
+      "Conne Maurice"
+    ],
+    "Officier d'état civil": [
+      "Bidlingmeyer Ami",
+      "Dénéréaz Eugène"
+    ],
+    "Pasteur": [
+      "Savary Gérard"
+    ],
+    "Pensions-famille": [
+      "Depeursinge Ed.",
+      "Décosterd Ls.",
+      "Demole R.",
+      "Ruchonnet, dames"
+    ],
+    "Pharmacie": [
+      "Bertrand Jules"
+    ],
+    "Poste, télégraphe et téléphone": [
+      "Meyer Emile",
+      "Ischer Aug.",
+      "Chamot Rob."
+    ],
+    "Quincaillerie": [
+      "Dénéréaz E.",
+      "Gilliéron Gustave"
+    ],
+    "Restaurant Tea-room": [
+      "Décosterd Louis"
+    ],
+    "Sages-femmes": [
+      "Cherpillod Hélène",
+      "Delacasa E."
+    ],
+    "Scieur": [
+      "Cossy Henri"
+    ],
+    "Selliers-tapissiers": [
+      "Butticaz Maurice",
+      "Chevalley Benjamin",
+      "Grunder Auguste"
+    ],
+    "Serruriers": [
+      "Bovard Louis",
+      "Naegele Albert"
     ],
     "Sociétés": [
-      "de fromagerie. R.",
-      "de St-Robert. R."
-    ],
-    "Téléphones": [
-      "Auberge communale",
-      "Deblüe Marc"
+      "de développement de Chexbres et environs",
+      "de gymnastique « La jeune Suisse »",
+      "de chant « l'Echo du Forestay »",
+      "de laiterie",
+      "Section de la Croix-Rouge"
     ]
   }
 }

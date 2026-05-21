@@ -1,207 +1,108 @@
 {
-  "LA SARRAZ": {
-    "Blanchisseuses": [
-      "Kägi Frida",
-      "Velay Marie"
+  "MONTREUX": {
+    "Médecins": [
+      "Amiet C.",
+      "Bosset Iwan",
+      "Bost René",
+      "Carrard Robert",
+      "Chessex D.-G.",
+      "Christin E.",
+      "de Martines C.",
+      "Duboux E.",
+      "Dufour Othmar",
+      "Exchaquet Emile",
+      "Finsterwald H.",
+      "Frey Georges",
+      "Fügli Gaspard",
+      "Granger-Evans, Dr.",
+      "Hämmerli-Schindler",
+      "Hämmerli-Steiner",
+      "Helg L.",
+      "Herzog M.",
+      "Jacot Marc",
+      "Kocks Martha",
+      "Lestchinski Alex.",
+      "Mac Donald",
+      "Mack J.",
+      "Martines (de) Ch.",
+      "Mercanton Félix",
+      "Métraux, Dr.",
+      "Minnich W.",
+      "Monnet Eric",
+      "Niehans Paul",
+      "Perret Ch.-A.",
+      "Robert A.",
+      "Schulthess (de) Paul",
+      "Trutmann",
+      "Turin",
+      "Vogelsang A.",
+      "Vuichoud R.",
+      "Vuilleumier Paul",
+      "Wagner Richard",
+      "Widmer Aug."
     ],
-    "Bois (march. de)": [
-      "Isely André"
+    "Menuisiers-ébénistes": [
+      "Anchisi Joseph",
+      "Arnet A.",
+      "Baud Jules",
+      "Béguin Maurice",
+      "Berdoz Louis",
+      "Buzzi Ch.",
+      "Cosandier R.",
+      "Dunckel Eugène",
+      "Eller Joseph",
+      "Emery Jean",
+      "Flückiger Charles",
+      "Gros Adolphe",
+      "Grossenbacher S.",
+      "Held Albert & Cie",
+      "Mailler Henri",
+      "Martin Georges & fils",
+      "Martin Ls & fils",
+      "Menevéri & Besenval",
+      "Monaco Edward",
+      "Monnier Ernest",
+      "Moraz C. & O. frères",
+      "Mottier Henri",
+      "Mottier Adèle",
+      "Muller Edouard",
+      "Parnetti L.",
+      "Perret-Gentil",
+      "Perroud",
+      "Pittet Eugène",
+      "Puenzieux frères",
+      "Trachsel E.",
+      "Trombetta Gaetano",
+      "Vurlod Henri",
+      "Weber Paul"
     ],
-    "Boucher": [
-      "Develey Samuel"
+    "Menuisier en voitures": [
+      "Gaschen"
     ],
-    "Boulangers": [
-      "Decoppet Paul",
-      "Grandchamp A.",
-      "Thévenaz J."
-    ],
-    "Brevets d'invention": [
-      "Flesch L.",
-      "Pahud J.-D."
-    ],
-    "Cafetiers": [
-      "Besson Henri",
-      "Cuhat-Steiner Rosa",
-      "Jaccard Jules",
-      "Martin Ulysse",
-      "Stebler Henri",
-      "Jaquier H."
-    ],
-    "Camionnage": [
-      "Knebel Jean"
-    ],
-    "Chapelleries": [
-      "Knebel Ch.",
-      "Meyer Jean",
-      "Velay Amélie"
-    ],
-    "Charbon": [
-      "Knebel Jean"
-    ],
-    "Charcutiers": [
-      "Develey Samuel",
-      "Moinat Henri",
-      "Steiner Jean fils"
-    ],
-    "Charpentier": [
-      "Isely Andr."
-    ],
-    "Charron": [
-      "Monnier A."
-    ],
-    "Chaussures": [
-      "Hirzer, Veuve",
-      "Knebel Henri",
-      "Knebel Louis",
-      "Krieg Alfred"
-    ],
-    "Chef de section": [
-      "Decoppet Paul"
-    ],
-    "Chef de station": [
-      "Dormond"
-    ],
-    "Chiffons": [
-      "Débiton, Vve",
-      "Mayet Henri"
-    ],
-    "Coiffeur": [
-      "Klopfenstein Emile"
-    ],
-    "Commandant des pompiers": [
-      "Bignens Ernest"
-    ],
-    "Commission scolaire primaire": [
-      "Vannod Emile",
-      "Michaud Alfred"
-    ],
-    "Commission scolaire primaire supérieure": [
-      "Pavillard Alexis",
-      "Cuhat Henri"
-    ],
-    "Confections": [
-      "Meyer Jean"
-    ],
-    "Cordonniers": [
-      "Bordin E.",
-      "Krieg Alfr.",
-      "Moschini Alexis"
-    ],
-    "Couvertures (fab. de)": [
-      "Girardet E. & Cie (S. A.)"
-    ],
-    "Electricité": [
-      "Société des Forces de Joux et de l'Orbe",
-      "Lavanchy Eugène"
-    ],
-    "Entrepreneur": [
-      "Zali Louis"
-    ],
-    "Epicerie, mercerie": [
-      "Aigroz Rob.",
-      "Cuhat-Pingoud Henri",
-      "Dind-Regamey Ami",
-      "Hirzer, Vve",
-      "Knebel Ch.",
-      "Petitpierre S. A.",
-      "Rossi Victor",
-      "Société coopérative"
-    ],
-    "Fabrique de soudure à l'étain": [
-      "Huguenin L., fils"
-    ],
-    "Ferblantiers-couvreurs": [
-      "Borel Ulysse",
-      "Guignard Jean, fils",
-      "Guignard-Bory Julien"
-    ],
-    "Fers et métaux": [
-      "Cuhat Henri"
-    ],
-    "Fonderie de cloches": [
-      "Obertino & Cie."
-    ],
-    "Forestier": [
-      "Monachon François"
-    ],
-    "Fromages": [
-      "Kaufmann Arnold",
-      "Schüler & Cie",
-      "Steiner Alf.",
-      "Société de fromagerie"
-    ],
-    "Garde-malades": [
-      "Agassiz Jeanne"
-    ],
-    "Gérances": [
-      "Fontannaz Jules"
-    ],
-    "Gypsiers": [
-      "Zali Louis",
-      "Zoni Jean"
-    ],
-    "Hôtels": [
-      "Besson Henri",
-      "Stebler Henri",
-      "Jaquier H."
-    ],
-    "Horlogers": [
-      "Goy Jean",
-      "Müller Th."
-    ],
-    "Horticulteur": [
-      "Pittet Auguste"
-    ],
-    "Ingénieur": [
-      "Huguenin Louis"
-    ],
-    "Inspecteur du bétail": [
-      "Vannod Em."
-    ],
-    "Inspecteur des viandes": [
-      "Besson Hri."
-    ],
-    "Instituteurs": [
-      "Bignens Ernest",
-      "Zwahlen René",
-      "Berguerand Blanche",
-      "Meyer Erica",
-      "Prévost Sarah"
-    ],
-    "Justice de paix": [
-      "Michaud Félicien",
-      "Knebel Jean",
-      "Mermoud Henri",
-      "Cuhat Henri",
-      "Cugny Charles",
-      "Delacuisine Ed.",
-      "Meyer P."
-    ],
-    "Laitiers": [
-      "Kaufmann Arnold",
-      "Schüler & Cie",
-      "Société de fromagerie de La Sarraz",
-      "Vannod Emile",
-      "Steiner Jean fils",
-      "Wanner Fritz"
-    ],
-    "Lingères": [
-      "Dind, Mme",
-      "Kägi Frida",
-      "Velay-Favrichon"
-    ],
-    "Machines (fab. de)": [
-      "Huguenin Ls. fils"
-    ],
-    "Maréchal": [
-      "Bron Hermann"
-    ],
-    "Matériaux de construction": [
-      "Zali Louis"
-    ],
-    "Mécanicien": [
-      "Huguenin Louis, fils",
-      "Michaud Armand"
+    "Mercerie": [
+      "Amez-Droz",
+      "Blanc Lily",
+      "Breuer & Cie",
+      "Buser, Kaiser & Cie",
+      "Bussien Ernestine",
+      "Chevalley & Joly",
+      "Croset Julie",
+      "Ducret Louise",
+      "Dubler Jean",
+      "Duflon Marie",
+      "Emery sœurs",
+      "Erranti Ruggero",
+      "Fama Eugénie",
+      "Fritsch-Koch",
+      "Graf-Jacot & Cie",
+      "Hermann-Furrer Emma",
+      "Hermann-Zandt E.",
+      "Hofer J.",
+      "Hostettler-Jan Adèle",
+      "Iseli Blanche",
+      "Jolliet-Ducret Marie",
+      "Kauert Emma",
+      "Lang-Geismar R."
     ]
   }
 }

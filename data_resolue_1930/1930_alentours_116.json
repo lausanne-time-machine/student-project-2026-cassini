@@ -1,124 +1,178 @@
 {
-  "Ville de Nyon": {
-    "Institutrices secondaires. (Collège et Ecole supérieure.)": [
-      "Diserens Nelly",
-      "Pasche Olga",
-      "Piguet Nelly"
+  "ROMANEL": {
+    "Sociétés": [
+      "de laiterie",
+      "Société vaudoise d'agriculture et viticulture, section de Romanel et les Vernands",
+      "Section Croix-Bleue",
+      "Soc. de chant",
+      "Union chrétienne de jeunes gens"
     ],
-    "Jardiniers-maraîchers.": [
-      "Charbonnier Paul",
-      "Chevillard Edward",
-      "Contat Ernest",
-      "Dumuid Félix",
-      "Marendaz Marcel",
-      "Mouthon Edouard",
-      "Ploujoux Charles"
+    "Téléphoniste": [
+      "Burdet Ulysse"
     ],
-    "Journaux.": [
-      "Courrier de la Côte et Feuille d'Avis de Nyon et des districts de La Côte",
-      "Oderbolz L.",
-      "Journal de Nyon et Feuille d'Avis de Coppet",
-      "Cherix, Vve d'Ed."
+    "Tissus": [
+      "Borgeaud Veuve"
+    ]
+  },
+  "DISTRICT DE LA VALLÉE": {
+    "Préfet": [
+      "Golay Marc"
     ],
-    "Justice de paix.": [
-      "Yersin Jean",
-      "Rapp William",
-      "Böhy Charles",
-      "Ruey Daniel",
-      "Cuénod Théophile",
-      "Dupraz Adolphe"
+    "Substitut": [
+      "Meylan Octave"
     ],
-    "Laitiers.": [
-      "Chevalier François",
-      "Genevay Henri",
-      "Kopf Emile",
-      "Perreten André",
-      "Schneebeli Emile",
-      "Simon Armand",
-      "Steiner Jules"
+    "Receveur": [
+      "Reymond Albert"
     ],
-    "Légumes, primeurs.": [
-      "Bovy Edouard",
-      "Dumuid Félix",
-      "Golay Paul",
-      "Habegger Marie",
-      "Lude-Fardel",
-      "Meschia Antonio",
-      "Schopfer Victor"
+    "Conservateur du registre foncier": [
+      "Baud Albert"
     ],
-    "Librairies.": [
-      "Aubert-Kallenberg Eugène",
-      "Aubert Suzanne",
-      "Chapallaz Henri",
-      "Froidevaux Armand"
+    "Voyer du IVe arrondissement": [
+      "Capt Léon"
     ],
-    "Limes.": [
-      "Fabrique de vis, S. A. (mécanique fine)"
+    "Tribunal de district": [
+      "Dériaz Juste",
+      "Meylan-Capt Emile",
+      "Golay Jean",
+      "Rochat Jules",
+      "Meylan Marius"
     ],
-    "Lingerie, articles blancs.": [
-      "Baumann Marguerite",
-      "Brunner Martha",
-      "Le Louvre",
-      "Martin & Co.",
-      "Reymond Hélène"
+    "Poursuites et faillites": [
+      "Muller Otto"
+    ]
+  },
+  "L'ABBAYE": {
+    "Président du Conseil communal": [
+      "Rochat-Golay Henri"
     ],
-    "Lingères.": [
-      "Blanc-Rossier, dame",
-      "Zwahlen-Dessiex Alice",
-      "Zbinden, Vve"
+    "Secrét.": [
+      "Rochat Adolphe"
     ],
-    "Liquoristes.": [
-      "Bossotto Jean",
-      "Distillerie du Léman S. A.",
-      "Zwahlen Marie, Vve"
+    "Syndic": [
+      "Berney L.-Fr."
     ],
-    "Lunettes.": [
-      "Jaques Edmond",
-      "Meyer-Ruschetta Henri",
-      "Perrelet James"
+    "Municipaux": [
+      "Clerget Henri",
+      "Rochat Alfred",
+      "Rochat Adrien",
+      "Cart Auguste",
+      "Grandjean Ls"
     ],
-    "Machines à coudre.": [
-      "Compagnie Singer",
-      "Schertlin, Mlle"
+    "Secrétaire": [
+      "Piguet Maurice",
+      "Berney Henri",
+      "Clerget Henri"
     ],
-    "Machines agricoles.": [
-      "Comptoir agricole S. A.",
-      "Forestier Albert"
+    "Boursier": [
+      "Guignard Oscar"
     ],
-    "Maison de repos.": [
-      "Capt Louis"
+    "Huisiser": [
+      "Rochat Luc"
     ],
-    "Maison de santé.": [
-      "La Métairie, maison de santé privée"
+    "Président du Conseil général du village": [
+      "Truan Albert"
     ],
-    "Marbriers et monuments funéraires.": [
-      "Mouthon Edouard",
-      "Rossier Charles",
-      "Magnin Robert"
+    "Président du Conseil administratif": [
+      "Piguet Maurice"
     ],
-    "Maréchaux.": [
-      "Forestier Albert",
-      "Weder Gustave"
+    "Membres": [
+      "Rochat Léop.",
+      "Aubert Marcel",
+      "Dunand Hri",
+      "Cart Auguste"
     ],
-    "Maroquinerie.": [
-      "Le Louvre",
-      "Maire Paul"
+    "Agriculteurs": [
+      "Berney-Clerget Ami",
+      "Clerget Henri",
+      "Golay Alfred",
+      "Guignard Oscar",
+      "Guignard Paul-André",
+      "Guignard-Simond Paul",
+      "Rochat César",
+      "Rochat Jules",
+      "Rochat Léopold",
+      "Rochat Luc",
+      "Rochat Paul"
     ],
-    "Masseurs.": [
-      "Borgognon Ed.",
-      "Demont Paul",
-      "Reymond-Boss C."
+    "Mutualité scolaire de retraite": [
+      "Piguet Maurice"
     ],
-    "Matelassiers.": [
-      "Müller Gottfried",
-      "Noguet Louis"
+    "Aubergiste": [
+      "Guignard Eug."
     ],
-    "Matériaux de construction.": [
-      "Berlie Frédéric",
-      "Teysseire & Cie"
+    "Blantier": [
+      "Rochat Luc"
     ],
-    "Mécaniciens.": [
-      "Atlas-Nyon, Manufacture suisse de méc. fine (S.A.)"
+    "Bois (marchands de)": [
+      "Berney Louis Ami S. A.",
+      "Berney Henri",
+      "Guignard Pl.",
+      "Rochat Alfred"
+    ],
+    "Boulanger": [
+      "Truan John"
+    ],
+    "Commission scolaire": [
+      "Rochat Albert",
+      "Cart Auguste",
+      "Robert Adolphe"
+    ],
+    "Contre-pivots": [
+      "Cart Jules"
+    ],
+    "Entrepreneurs": [
+      "Sasso & fils"
+    ],
+    "Epicerie, mercerie": [
+      "Clerget E.",
+      "Guignard-Rochat Nelly",
+      "Truan John"
+    ],
+    "Garde-forestier": [
+      "Rochat César"
+    ],
+    "Inspecteur du bétail": [
+      "Guignard O."
+    ],
+    "Instituteurs": [
+      "Addor Louis",
+      "Guignard Julie",
+      "Piguet Jeanne"
+    ],
+    "Laitier": [
+      "Rochat Léopold"
+    ],
+    "Limes": [
+      "Société Anonyme Union"
+    ],
+    "Médecin": [
+      "Rochat James"
+    ],
+    "Menuisier": [
+      "Lauffenburger William"
+    ],
+    "Officier d'état-civil": [
+      "Guignard Léon"
+    ],
+    "Pasteur": [
+      "Robert Adolphe"
+    ],
+    "Pension-Tea-Room": [
+      "Cornu, Vve."
+    ],
+    "Pierriste": [
+      "Reymond Samuel"
+    ],
+    "Poste": [
+      "Clerget Elise, Vve."
+    ],
+    "Repasseuse": [
+      "Rochat Bertha"
+    ],
+    "Scieurs": [
+      "Aubert Francis",
+      "Berney Louis-Ami (S.A.)",
+      "Guignard Paul-A. & fils"
     ]
   }
 }

@@ -1,222 +1,264 @@
 {
-  "CHEVILLY": {
-    "Amodiateurs": [
-      "Braissant Félicien. T.",
-      "Roch René."
+  "BIÈRE": {
+    "Coiffeurs": [
+      "Allamand J.",
+      "Benoit Jules",
+      "Gerber E.",
+      "Jotterand Jules",
+      "Kaufmann Walter",
+      "Olivary Eugène"
     ],
-    "Mutualité scolaire de retraite": [
-      "Jeanprêtre A."
+    "Commission scolaire": [
+      "Jotterand-Bellon Edouard",
+      "Jotterand Robert",
+      "Pittet Ed.",
+      "Jotterand Paul",
+      "Mange Octave",
+      "Courvoisier",
+      "Mme Jules Bugnoux",
+      "Burnier-Rossi"
     ],
-    "Bétail (march. de)": [
-      "Roch René. T."
+    "Cordonniers": [
+      "Allamand Paul",
+      "Cogniasse Charles",
+      "Vienny Alexis"
     ],
-    "Bois (march. de)": [
-      "Braissant Félicien. T.",
-      "Renaud Edouard"
+    "Crédit mutuel": [
+      "Meynet R."
     ],
-    "Buraliste postal": [
-      "Gleyre Eugène."
+    "Dentistes": [
+      "Huber Paul",
+      "Strudel"
     ],
-    "Cordonnier": [
-      "Braissant Samuel."
+    "Droguerie": [
+      "Gilliéron Adrien"
     ],
-    "Epicerie, mercerie, tabacs": [
-      "Braissant François",
-      "Lugeon Victor."
+    "Eaux gazeuses": [
+      "Jaquemard Ch."
     ],
-    "Inspecteur du bétail": [
-      "Lugeon Louis"
+    "Entrepreneurs": [
+      "Gaggio Pierre",
+      "Pasche-Piguet Hip."
     ],
-    "Instituteur": [
-      "Jeanprêtre Adolphe."
+    "Epiceries": [
+      "Dufour-Maret Joseph",
+      "Gilliéron Adrien",
+      "Magnenat Ch.",
+      "Monnier Henri",
+      "Simond frères",
+      "Société coopérative"
     ],
-    "Institutrice": [
-      "Braissant-Lugeon Lse."
+    "Ferblantiers": [
+      "Dell’Ava Joseph",
+      "Jotterand Maurice"
     ],
-    "Maréchal": [
-      "Lugeon Jules."
+    "Fourches et rateaux": [
+      "Autier John"
     ],
-    "Meunier": [
-      "Braissant Félicien. T."
+    "Garage, taxis": [
+      "Sulliger Félix"
     ],
-    "Rentiers": [
-      "Braissant-Mingard",
-      "Gaudin Julien",
-      "Gaudin Samuel",
-      "Landfried Marc. T.",
-      "Lugeon-Chanson."
+    "Gardes-forestiers": [
+      "Bugnoux Jules",
+      "Croisier Eugène"
+    ],
+    "Géomètre breveté": [
+      "Jotterand Aloïs"
+    ],
+    "Gypsiers": [
+      "Estoppey Marius",
+      "Rochat Charles"
+    ],
+    "Horlogers-rhabilleurs": [
+      "Dübuis A.",
+      "Simond F."
+    ],
+    "Hôtels": [
+      "Golaz Jean",
+      "Pittet Maurice"
+    ],
+    "Insp. du bétail": [
+      "Burnier-Rossy Const."
+    ],
+    "Instituteurs": [
+      "Piot Paul",
+      "Meynet Robert",
+      "Stauffer Charles",
+      "Charlet Irène",
+      "Stauffer Alice",
+      "Dutoit Juliette"
+    ],
+    "Instructeurs": [
+      "Gonard",
+      "Hasler Jean",
+      "Hildbrand Wilhelm",
+      "Weidmann Jean"
+    ],
+    "Intendant des casernes": [
+      "Monthoux Henri"
+    ],
+    "Intendant fédéral de l’arsenal": [
+      "Jotterand Aloïs"
+    ],
+    "Jardinier-horticulteur": [
+      "Burnier Auguste"
+    ],
+    "Journaux": [
+      "Feuille d'Avis de Bière"
+    ],
+    "Laitier": [
+      "Soc. de fromagerie"
+    ],
+    "Lingères": [
+      "Jotterand Elise",
+      "Loretti Madeleine"
+    ],
+    "Machines agricoles": [
+      "Rochat frères"
+    ],
+    "Maréchaux": [
+      "Jotterand Albert",
+      "Matter Jacob",
+      "Monthoux John",
+      "Pittet François",
+      "Rochat frères"
+    ],
+    "Mécaniciens": [
+      "Meier Paul",
+      "Sulliger Félix"
+    ],
+    "Médecin": [
+      "Sallin Norbert"
+    ],
+    "Menuisiers": [
+      "Corthésy Paul",
+      "Jotterand Ls",
+      "Pasche Hippolyte"
+    ],
+    "Mercerie": [
+      "Dufour-Maret Joseph",
+      "Gilliéron Adrien",
+      "Monnier Henri",
+      "Simon frères",
+      "Société coopérative"
+    ],
+    "Meuniers": [
+      "Brönimann frères",
+      "Gusthiot Armand"
+    ],
+    "Notaire": [
+      "Croisier Louis"
+    ],
+    "Officier d’état-civil": [
+      "Croisier Louis"
+    ],
+    "Pasteur": [
+      "Courvoisier Jacques"
+    ],
+    "Pharmacien": [
+      "Perret Georges"
+    ],
+    "Photographie": [
+      "Jotterand Arth."
+    ],
+    "Poëlier-fumiste": [
+      "Estoppey Marius"
+    ],
+    "Porcs, (comm. de)": [
+      "Goy frères"
+    ],
+    "Quincaillerie et marchand de fer": [
+      "Gilliéron Adrien"
+    ],
+    "Relieur": [
+      "Monthoux Emile"
+    ],
+    "Repasseuses": [
+      "Corthésy M.",
+      "Dessauges Julie",
+      "Desiebenthal Olga",
+      "Matter M.",
+      "Messiaux Alice",
+      "Sulliger Marguerite"
+    ],
+    "Sages-femmes": [
+      "Besson Louise",
+      "Bonzon Fanny"
+    ],
+    "Scieries": [
+      "Autier John",
+      "Meldem Aloïs",
+      "Meldem Edouard",
+      "Pasche Hippolyte"
+    ],
+    "Sel (débit de)": [
+      "Société coopérative"
+    ],
+    "Selliers": [
+      "Ciana Jean",
+      "Corthésy John",
+      "Jotterand Gédéon",
+      "Monthoux Frédéric",
+      "Monthoux G."
+    ],
+    "Semoirs pour trèfle, luzerne, etc (construct. de)": [
+      "Monthoux-Clere Robert"
+    ],
+    "Serruriers": [
+      "Pittet François",
+      "Rochat frères"
     ],
     "Sociétés": [
-      "de fromagerie. R.",
-      "d'alpage. R.",
-      "d'élevage R.",
-      "du battoir à grains. R."
+      "d’artillerie du Pied du Jura",
+      "de développement",
+      "de fromagerie",
+      "du Battoir à grains",
+      "Syndicat agricole d’alpage",
+      "Syndicat d'élevage et d'amélioration de la race porcine",
+      "de tir, Avant-Garde",
+      "de tir, Pistolet et revolver",
+      "de chant",
+      "de gymnastique",
+      "de musique La Lyre",
+      "Société d’apiculture"
+    ],
+    "Tailleur": [
+      "Métrailler V."
+    ],
+    "Tailleur de pierre": [
+      "Besson Jules"
     ],
     "Tailleuses": [
-      "Lugeon Adrienne et Yvette, Dlles."
+      "Brocard Edith",
+      "Burnier Berthe",
+      "Corthésy M.",
+      "Dessauges A.",
+      "Jotterand Jenny",
+      "Hasler M.",
+      "Meylan Marie",
+      "Zimmermann Susanne"
     ],
-    "Téléphone": [
-      "La Commune."
-    ]
-  },
-  "COTTENS": {
-    "Autorités communales": [
-      "Rayroux Aug.",
-      "Bolay Francis.",
-      "Paquier Charles. T.",
-      "Rayroux Paul",
-      "Berney Albert",
-      "Schopfer Gges",
-      "Barbay Juste",
-      "Monnet Jacques",
-      "Schopfer Charles."
+    "Tapissier": [
+      "Viennet Jules"
     ],
-    "Agriculteurs": [
-      "Berney Alb.",
-      "Bolay Frs",
-      "Bussy frères",
-      "Bussy Hri. T.",
-      "Henry Elie",
-      "Métraux Jules",
-      "Monnet Marius",
-      "Piguet Jacques",
-      "Pinguely Julia",
-      "Pittet Charles. T.",
-      "Rayroux Auguste",
-      "Rochat Constant",
-      "Schopfer Albert",
-      "Schopfer Jules",
-      "Tschanz Alfred."
+    "Télégraphiste et téléphoniste": [
+      "Renaud Jules"
     ],
-    "Aubergiste": [
-      "Nicollier Georges"
+    "Vélocipèdes": [
+      "Meyer Paul",
+      "Sulliger Félix"
     ],
-    "Cantonnier": [
-      "Schopfer Edmond."
+    "Vétérinaires": [
+      "Ansermet Emile",
+      "Eienberger Antoine"
     ],
-    "Commission scolaire": [
-      "Berney Alb.",
-      "Paquier René."
+    "Vins (représ. de)": [
+      "Jotterand Jules",
+      "Monthoux-Clerc Rob."
     ],
-    "Epicerie": [
-      "Desponds Constant. RT."
-    ],
-    "Huilerie": [
-      "Monnet Marius."
-    ],
-    "Inspecteur du bétail": [
-      "Mayor Const."
-    ],
-    "Instituteur": [
-      "Jacot Henri."
-    ],
-    "Maréchal-ferrant": [
-      "Truan Jules."
-    ],
-    "Menuisier-ébéniste": [
-      "Barbay Juste. T."
-    ],
-    "Meunier": [
-      "Monnet Marius."
-    ],
-    "Pension": [
-      "Pittet Charles."
-    ],
-    "Poste": [
-      "Paquier René."
-    ],
-    "Rentier": [
-      "Moinat Auguste. T."
-    ],
-    "Sociétés": [
-      "de fromagerie. R.",
-      "du battoir à grains. R.",
-      "de laiterie."
-    ]
-  },
-  "CUARNENS": {
-    "Autorités communales": [
-      "Chappuis Rob.",
-      "Clément Maurice.",
-      "Pittet Fernand. T.",
-      "Chappuis Henri",
-      "Clément Marius-Ernest",
-      "Dumauthioz Maurice",
-      "Clément Ch.",
-      "Chappuis-Bovey William",
-      "Bovey Edouard",
-      "Chappuis Paul",
-      "Guyaz Louis."
-    ],
-    "Agriculteurs": [
-      "Bovey Armand",
-      "Bovey François",
-      "Bovey frères",
-      "Chappuis Paul",
-      "Chappuis Antoine",
-      "Chappuis Louis d'Edouard",
-      "Chappuis Ernest",
-      "Chappuis Fernand",
-      "Chappuis Robert",
-      "Chappuis frères",
-      "Chappuis frères",
-      "Chappuis-Baudin",
-      "Chappuis-Gaillard Samuel",
-      "Clément hoirs d'Alfred",
-      "Clément frères",
-      "Clément Marius",
-      "Delacrétaz Auguste",
-      "Delacrétaz Ulysse",
-      "Gaillard Julien",
-      "Mingard Henri",
-      "Piguet Henri",
-      "Pittet Auguste",
-      "Pittet Fernand",
-      "Pouly Emile."
-    ],
-    "Amodiateurs": [
-      "Chappuis frères"
-    ],
-    "Aubergistes": [
-      "Numa Simon",
-      "Rochat Lucie, Vve"
-    ],
-    "Assurance": [
-      "La Genevoise",
-      "Delacrétaz Albert"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Michel Robert"
-    ],
-    "Bétail (march. de)": [
-      "Kull Robert",
-      "Numa Simon",
-      "Pittet Const."
-    ],
-    "Blanchisseuses-repasseuses": [
-      "Baud Elisa",
-      "Chappuis Marie, Vve",
-      "Dumauthioz Louise",
-      "Merminod Hortense."
-    ],
-    "Bois (march. de)": [
-      "Chappuis Marcel. RT.",
-      "Clément Arthur."
-    ],
-    "Boulanger": [
-      "Crottaz Gustave. RT."
-    ],
-    "Charpentier": [
-      "Dumauthioz Armand."
-    ],
-    "Commission scolaire": [
-      "Chappuis Fernand",
-      "Chappuis Frank",
-      "Chappuis Ch."
-    ],
-    "Cordonnier": [
-      "Bonzon A.",
-      "Daepen Jules."
+    "Voituriers": [
+      "Jotterand Robert",
+      "Jotterand Vincent"
     ]
   }
 }

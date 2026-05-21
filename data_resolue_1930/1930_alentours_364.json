@@ -1,249 +1,112 @@
 {
-  "VALLAMAND-DESSUS": {
-    "Secrétaire": [
-      "Matthey Henri"
+  "Montreux": {
+    "Couturières.": [
+      "Monge M.-J.",
+      "Monnier, dame.",
+      "Nicati Germaine",
+      "Omodei-Sotton F.",
+      "Parisod Mathilde",
+      "Parlier, Mme",
+      "Pasetti Mercédès",
+      "Passarini",
+      "Rambert Marie",
+      "Ramseyer Marguerite",
+      "Renkewitz-Colin Berthe",
+      "Roselyne (Maison)",
+      "Rouiller Marie",
+      "Ruschetta Louise",
+      "Schneider Bertha",
+      "Schlumpf A.",
+      "Siebenthal, Mlle",
+      "Sprintz sœurs",
+      "Theintz Mme",
+      "Stebler Elise",
+      "Tortochaut M.",
+      "van der Welden-Genton",
+      "Verdan Mérv.",
+      "Waterschott & Cie",
+      "Weber-Meyer, Mme",
+      "Wichoud Hélène",
+      "Wittwer Jeanne"
     ],
-    "Huissier": [
-      "Hirschi Charles"
+    "Couvreurs": [
+      "Aguettaz Joseph",
+      "Cherix Félix",
+      "Giovanna H.",
+      "Heymoz",
+      "Linsig",
+      "Jonneret Amédée",
+      "Paillex Isaïe",
+      "Schmied Fritz",
+      "Tozzo Jules"
     ],
-    "Agriculteurs": [
-      "Delorme Jean-Fréd.",
-      "Failloubaz H.",
-      "Failloubaz Samuel",
-      "Gutknecht Fritz",
-      "Gutknecht Paul",
-      "Hirschi Ed.",
-      "Kolber Ernest",
-      "Loup Max",
-      "Matthey Henri",
-      "Tricot Jean",
-      "Tricot Louis",
-      "Tricot Paul",
-      "Vincent Aloïs",
-      "Vincent Jules",
-      "Vincent-Milliet J.",
-      "Vincent-Rentsch",
-      "Wyss Alfred"
+    "Crèmeries": [
+      "Benoit Claudius",
+      "Bertholet & Morier, Mlles",
+      "Cottier-Bardet A.",
+      "Desarzens H.",
+      "Gangwisch Gustave",
+      "Hofer sœurs",
+      "Le Perroquet Montreux S. A.",
+      "Masson-Wahlen L.",
+      "Zurbrugg, Mlle."
     ],
-    "Apiculteurs": [
-      "Meyer Ernest",
-      "Jan du Chêne Auguste",
-      "Matthey Ls"
+    "Cuirs": [
+      "Régis Ernest"
     ],
-    "Bétail et porcs": [
-      "Vincent Paul"
+    "Curés": [
+      "Juillard Ernest",
+      "Bord Irénée",
+      "Corpataux Joseph",
+      "Pahud Auguste",
+      "Porchel François",
+      "Schmidt",
+      "Seydoux Louis"
     ],
-    "Boulanger": [
-      "Lehmann Fritz"
+    "Danse (prof. de)": [
+      "Christin G.",
+      "Courant W.",
+      "Gmehlin H.",
+      "Rouilly E."
     ],
-    "Café": [
-      "Leibundgut Ernest"
+    "Dentelles": [
+      "Amez-Droz G.",
+      "Bühler-Küng",
+      "Hunziker Julien",
+      "Laplace-Delapraz Adèle",
+      "Stebler Elise"
     ],
-    "Charcuterie": [
-      "Matthey Louis"
+    "Dentistes": [
+      "Desbaillets L.",
+      "Galbreath Donald",
+      "Kammacher, Mlles",
+      "Kurt M.",
+      "Laurent Ad.",
+      "Matthey, Dr.",
+      "Perret Francis",
+      "Méroz R.-L.",
+      "Slisonsky André",
+      "Wellauer Herm."
     ],
-    "Commission scolaire": [
-      "Basset Emmanuel",
-      "Failloubaz Samuel",
-      "Matthey Louis"
+    "Désinfection": [
+      "Néroform"
     ],
-    "Cordonnier": [
-      "Nikles Fritz"
+    "Distillateurs-liquoristes": [
+      "Bols Ervin Lucas, Oehninger, S. A.",
+      "Blanchod C.. Hoirs",
+      "Demarchi Pierre",
+      "Fiorini A.",
+      "Jeanneret & Cie, S. A.",
+      "Messager G."
     ],
-    "Couturières": [
-      "Gutknecht Marguerite",
-      "Rentsch-Vincent E."
+    "Doreurs-encadreurs": [
+      "Beck & Guggisberg",
+      "Ducommun P.",
+      "Mottier-Guignet",
+      "Moraz Jules"
     ],
-    "Couvreur": [
-      "Hugli Arnold"
-    ],
-    "Epicerie": [
-      "Bessat-Chenevard Alf.",
-      "Eichenberger Gottlieb",
-      "Mury-Wuillemin, Vve"
-    ],
-    "Inspecteur du bétail": [
-      "Tricot Jean"
-    ],
-    "Instituteurs": [
-      "Renaud Charles",
-      "Bussy Eugénie",
-      "Courvoisier-Dessous-l'Eglise Ad."
-    ],
-    "Laitier": [
-      "Leibundgut Ernest"
-    ],
-    "Maçon": [
-      "Frigeri Jean"
-    ],
-    "Mercerie": [
-      "Eichenberger Lydia"
-    ],
-    "Représentant": [
-      "Delorme Paul"
-    ],
-    "Sage-femme": [
-      "Dard Ida"
-    ],
-    "Scierie": [
-      "Meyer Ernest"
-    ],
-    "Sociétés": [
-      "du battoir à grains",
-      "de laiterie",
-      "du four",
-      "de jeunesse",
-      "de tir"
-    ],
-    "Tonnelier": [
-      "Matthey Louis"
-    ],
-    "Vins (march. de)": [
-      "Delorme Jean-Frédéric",
-      "Matthey Ls.",
-      "Loup Max",
-      "Tricot Louis"
-    ]
-  },
-  "VILLARS-LE-GRAND": {
-    "Président du Conseil général": [
-      "Bardet-Jaunin Louis-David"
-    ],
-    "Secrétaire": [
-      "Bardet Henri",
-      "Monney Henri"
-    ],
-    "Syndic": [
-      "Jaunin Paul"
-    ],
-    "Municipaux": [
-      "Spahr Jules",
-      "Bardet Constant-Victor",
-      "Christinat Auguste",
-      "Monney Robert"
-    ],
-    "Boursier": [
-      "Christinat Auguste"
-    ],
-    "Agriculteurs": [
-      "Bardet André",
-      "Bardet Auguste",
-      "Bardet Georges",
-      "Bardet Mce",
-      "Bardet Sel",
-      "Bardet-Braucoup Ls",
-      "Bardet-Jaunin Ls",
-      "Bardet-Laurent Alfred",
-      "Bardet frères",
-      "Bovet Edouard",
-      "Braucoup David",
-      "Braucoup Henri",
-      "Christinat Aug.",
-      "Eberhardt Alfr.",
-      "Etter Fritz",
-      "Etter Jacob",
-      "Jaunin David",
-      "Jaunin Ernest",
-      "Jaunin Gaston",
-      "Jaunin Ls",
-      "Jaunin Paul",
-      "Jaunin frères",
-      "Monney Alb.",
-      "Monney Alfred",
-      "Monney Daniel",
-      "Monney Ernest",
-      "Monney Gérard",
-      "Monney Gust.",
-      "Monney Louis-Ch.",
-      "Monney Numa",
-      "Pulver Rodolphe",
-      "Rollier Louis",
-      "Schneider Fritz",
-      "Spahr Jules",
-      "Stucki Fritz"
-    ],
-    "Assurance-vieillesse Associations mutualistes de retraite": [
-      "Ducommun Aimé"
-    ],
-    "Boulangers": [
-      "Eberhardt Alfred",
-      "Monney Gustave"
-    ],
-    "Cafés": [
-      "Bardet Georges",
-      "Monney Louisa"
-    ],
-    "Charron": [
-      "Christinat Emile"
-    ],
-    "Commission scolaire": [
-      "Jaunin Paul",
-      "Bardet Henri"
-    ],
-    "Cordonniers": [
-      "Cirio Pierre",
-      "Monney Jules"
-    ],
-    "Entrepreneur": [
-      "Cirio Secondo"
-    ],
-    "Epicerie": [
-      "Eberhardt Alfred",
-      "Pulver Christian"
-    ],
-    "Fromager": [
-      "Dätwyler Fritz"
-    ],
-    "Inspecteur du bétail": [
-      "Monney Louis-Charles"
-    ],
-    "Instituteurs": [
-      "Ducommun Aimé",
-      "Bardet Anna"
-    ],
-    "Maréchaux": [
-      "Bovet Paul",
-      "Bovet Aimé",
-      "Spahr Jules"
-    ],
-    "Moulin agricole": [
-      "Jaunin Gaston"
-    ],
-    "Poste de radiophonie": [
-      "de Sybourg Alexandre"
-    ],
-    "Scierie": [
-      "Jaunin Ernest"
-    ],
-    "Sellier": [
-      "Monney Henri"
-    ],
-    "Sociétés": [
-      "du Battoir",
-      "de laiterie",
-      "de tir de l'Abbaye",
-      "de chant l'Espérance",
-      "de tir aux Armes de guerre",
-      "de musique",
-      "d'estivage"
-    ],
-    "Tailleur": [
-      "Armand André"
-    ],
-    "Tailleuses": [
-      "Cirio Elisa",
-      "Cirio Hélène"
-    ],
-    "Téléphone": [
-      "Bureau des postes",
-      "Monney Gustave",
-      "Bardet Georges",
-      "de Sybourg Alexandre"
-    ],
-    "Divers": [
-      "Bardet André",
-      "Monney Charles de Ls.",
-      "Jaunin Paul"
+    "Douane": [
+      "Bureau aux Eaux alcalines"
     ]
   }
 }

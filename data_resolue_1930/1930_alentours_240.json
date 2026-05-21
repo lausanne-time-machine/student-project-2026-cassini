@@ -1,76 +1,175 @@
 {
-  "Ville de Vevey": {
-    "Cafés": [
-      "Barbey Jules",
-      "Bernhart Emma",
-      "Bettex Henri, Vve",
-      "Brenna Ulderico",
-      "Bozonnat-Dubi Jeanne",
-      "Buache J.",
-      "Buchs Ida",
-      "Cattin Henri",
-      "Chillier Colombe",
-      "Clivaz Jean-Baptiste",
-      "Dällenbach Christian",
-      "Daeppen Pierre",
-      "Decasper & Collenberg",
-      "Desarzens Emma",
-      "Détéz Jules-Joseph",
-      "Dévaud Emile",
-      "Dorthe Pierre",
-      "Filliettaz Marius",
-      "Gavillet Marie-Jeanne",
-      "Gevisier Raymond",
-      "Giacomini Michel",
-      "Giroud Paul",
-      "Godat Ch.",
-      "Grin Lina, Vve",
-      "Guinchard Julie",
-      "Hinterhauser Emile",
-      "Hochstrasser G.",
-      "Hübscher Walter",
-      "Imbert Gustave",
-      "Infanger A.",
-      "Jecker Ida, Vve",
-      "Jenft-Walser Marie",
-      "Julier J.",
-      "Klopfenstein, Vve de Sam.",
-      "Litzistorf Henri",
-      "Mäder Robert",
-      "Masuero Marguerite",
-      "Meng-Marti Alfred",
-      "Mercanton Ch.",
-      "Muller Ls-Sam.",
-      "Muller Mathias",
-      "Parlamento Octave",
-      "Pécora Amédée",
-      "Pidoux Edmond",
-      "Publioz Marie",
-      "Randin Léa",
-      "Renaud James",
-      "Rey-Vouilloz A.",
-      "Rogger Anna",
-      "Roten Albert",
-      "Rossier, Vve",
-      "Rouge Eugénie",
-      "Rytz Frédéric",
-      "Savoy-Golaz, Mme, Joséphine",
-      "Schervue Marie",
-      "Schmid Rudolf",
-      "Schneider H.",
-      "Schnell Jacques",
-      "Spalek Jean",
-      "Torchio Dominique",
-      "Truscello Francesco",
-      "Turini Edo.",
-      "Widmer R.",
-      "Zanotti H.",
-      "Zuber Hans"
+  "ORMONT-DESSOUS": {
+    "Cordonniers": [
+      "din Marcel",
+      "Ravey Gust.",
+      "Pinard Jules",
+      "Pinard Maurice",
+      "Randin Emile",
+      "Perriraz Charles"
     ],
-    "Cafés de tempérance.": [
-      "Crèmerie St-Martin, Cottier Lucien",
-      "Dorner Nancy",
-      "Dutoit"
+    "Agriculteurs": [
+      "Bavet William",
+      "Blanchard Henri",
+      "Caillachon Charles",
+      "Cand Alfred",
+      "Cand François",
+      "Cottens, hoirs d'Arnold",
+      "Cottens Henri",
+      "Fiaux Valentin",
+      "Hoirs de Guignard Eug.",
+      "Jaccard Agénor",
+      "Martin Ami",
+      "May Paul",
+      "Mayland Alfred",
+      "Paux Charles",
+      "Perriraz Charles",
+      "Pinard Jules",
+      "Pinard Julien",
+      "Pinard Paul",
+      "Pisler Marc",
+      "Pisler frères",
+      "Randin hoirs d'Alfred",
+      "Randin Charles",
+      "Randin, hoirie d'Henri",
+      "Randin-Roulet Henri",
+      "Randin Emile",
+      "Randin Jules-Fritz",
+      "Randin Julien",
+      "Randin Ulysse",
+      "Randin Victor",
+      "Ravey Gustave",
+      "Roulet Louis",
+      "Schneiter Ls",
+      "Schneiter Samuel",
+      "Simonin, hoirs de David",
+      "Simonin Auguste",
+      "Simonin Emile",
+      "Simonin Jules",
+      "Tétaz Jules",
+      "Thibaud Jules",
+      "Tréhan Louis",
+      "Tréhan frères",
+      "Vuitel-Perréaz Louis",
+      "Wagnière Julien"
+    ],
+    "Assurance-vieillesse": [
+      "Société mutualiste de retraite",
+      "Pisler"
+    ],
+    "Auberges et cafés": [
+      "Cottens Jules. feu Louis.",
+      "Jaccard Agénor",
+      "Randin Charles"
+    ],
+    "Banque": [
+      "Caisse de crédit mutuel"
+    ],
+    "Boisselier": [
+      "Caillachon Louis"
+    ],
+    "Boulangers": [
+      "Pisler Emile",
+      "Randin Ulysse"
+    ],
+    "Buraliste postal": [
+      "Simonin A. T."
+    ],
+    "Charcutier": [
+      "Caillachon J. T."
+    ],
+    "Charpentier": [
+      "Pisler Gustave"
+    ],
+    "Charron": [
+      "Cand Jules"
+    ],
+    "Chaussures": [
+      "Pisler-Bogno Louis"
+    ],
+    "Commerce de bois": [
+      "Ravey Gust."
+    ],
+    "Commission scolaire": [
+      "Ravey Gustave",
+      "Bavet William"
+    ],
+    "Cordonnier": [
+      "Richard Charles"
+    ],
+    "Entrepreneur": [
+      "Balzaretti Rémy"
+    ],
+    "Epiceries": [
+      "Correvon Louis",
+      "Pisler-Bogno Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Randin Charles"
+    ],
+    "Instituteurs": [
+      "Pinard Camille",
+      "Tréhan-Grognuz Marguerite",
+      "Vuitel Suzanne"
+    ],
+    "Jardinier": [
+      "Van Dedem Albert"
+    ],
+    "Laitiers": [
+      "Ramseier frères"
+    ],
+    "Maréchaux": [
+      "Roulet Louis",
+      "Tréhan Félix"
+    ],
+    "Mécanicien": [
+      "Randin A. T."
+    ],
+    "Menuisiers": [
+      "Bignens Agénor & fils"
+    ],
+    "Pasteur": [
+      "de Perrot Gustave"
+    ],
+    "Rentier": [
+      "Vuitel Louis"
+    ],
+    "Sellier-tapissier": [
+      "Caillachon Albert"
+    ],
+    "Sociétés": [
+      "de l'Abbaye des Laboureurs",
+      "L'Echo du Jura",
+      "de tir aux armes de guerre",
+      "Immobilière",
+      "de fromagerie",
+      "du battoir à grains",
+      "de musique",
+      "de gymnastique",
+      "Syndicat agricole et d'élevage"
+    ],
+    "Téléphone": [
+      "Bureau des postes"
+    ],
+    "Vignerons": [
+      "Aubert Louis",
+      "Blanchard Edouard",
+      "Cotten Jules",
+      "Pinard Ami"
+    ]
+  },
+  "ROMAINMOTIER": {
+    "Autorités communales": [
+      "March Harry",
+      "Besson Henri",
+      "Rochaz Eugène",
+      "Besson Aloïs",
+      "Besson Jules",
+      "Boulaz Paul",
+      "Gonin Paul",
+      "Bonard Louis",
+      "Poschung Rob.",
+      "Glayre Rodolphe"
     ]
   }
 }

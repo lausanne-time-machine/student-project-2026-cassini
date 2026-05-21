@@ -1,250 +1,91 @@
 {
-  "PENTHAZ": {
-    "Président du Conseil général": [
-      "Favey Gustave"
+  "Montreux": {
+    "Vins et liqueurs (détail).": [
+      "Blanchod Const., hoirs.",
+      "Demarchi Pierre.",
+      "Fasola-Fornara C..",
+      "Jeanneret & Cie, S. A.",
+      "Oehninger E.. S. A"
     ],
-    "Syndic": [
-      "Bonzon Ernest"
+    "Vins (gros).": [
+      "Blanc Louis.",
+      "Blanchod Const., hoirs.",
+      "Blanchod-Mamin Maurice.",
+      "Cochard Victor.",
+      "Cuénet Marcel.",
+      "Demarchi. Vve de Jean",
+      "Falquier Ed..",
+      "Fasola Gaudenzio.",
+      "Jeanneret & Cie. S. A.",
+      "Légeret (S.A.).",
+      "Masson Louis.",
+      "Mayor Ernest.",
+      "Oehninger E.. S. A.."
     ],
-    "Municipaux": [
-      "Meystre Armand",
-      "Bonzon Adrien de Julien",
-      "Bonzon François",
-      "Bonzon Lucien"
+    "Vitriers.": [
+      "Busso Jean.",
+      "Cantarini Ildo.",
+      "Ducommun P..",
+      "Hirt G..",
+      "Moraz Jules.",
+      "Mottier-Guignet.",
+      "Tornier Chs.",
+      "Waespi Albert."
     ],
-    "Secrétaire": [
-      "Favey Robert"
+    "Voituriers, voir aussi Camionneurs.": [
+      "Baumann Emile.",
+      "Bonnet & Cie, S. A..",
+      "Francey Ed.. S. A..",
+      "Coendet H. ."
     ],
-    "Boursier": [
-      "Bonzon Adrien de Julien"
-    ],
-    "Agriculteurs": [
-      "Bonzon-Cavat Félix",
-      "Bonzon-Chappuis Ernest",
-      "Bonzon frères",
-      "Bonzon-Gleyre Charles",
-      "Bonzon-Gleyre Henri",
-      "Bonzon Gustave",
-      "Bonzon Jules-Alexandre",
-      "Bonzon J.-H.",
-      "Bonzon-Gaillard Adrien",
-      "Bonzon-Picot Ls",
-      "Chantran Louis",
-      "Cuanoud Auguste",
-      "Desponds Ls",
-      "Favey-Bonzon Samuel",
-      "Favey Emile",
-      "Favey Georges",
-      "Favey Gustave",
-      "Favey Robert et Armand",
-      "Gerber Jacob",
-      "Kuffer frères",
-      "Michaud Robert",
-      "Morier Eugène"
-    ],
-    "Apiculteurs": [
-      "Delay Léon",
-      "Zurbuchen"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Gailloud John"
-    ],
-    "Aubergistes": [
-      "Bonzon Henri"
-    ],
-    "Bétail": [
-      "Chalet Eugène"
-    ],
-    "Charron": [
-      "Lavanchy Aimé"
-    ],
-    "Commission scolaire": [
-      "Bonzon-Gleyre Charles",
-      "Favey Robert"
-    ],
-    "Charpentier": [
-      "Bonzon Henri"
-    ],
-    "Epicerie, mercerie, tabacs": [
-      "Bonzon-Favey Adr.",
-      "Chanson Julien"
-    ],
-    "Hospice de Saint-Loup": [
-      "Béguin Paul",
-      "Curchod Henri"
-    ],
-    "Huilerie": [
-      "Bonzon frères"
-    ],
-    "Inspecteur du bétail": [
-      "Bonzon-Gleyre Henri"
-    ],
-    "Instituteurs": [
-      "Gailloud John",
-      "Meystre R."
-    ],
-    "Laitier": [
-      "Rapin Oscar"
-    ],
-    "Maréchal": [
-      "Meystre Armand"
-    ],
-    "Mécanicien": [
-      "Meystre A."
-    ],
-    "Meuniers": [
-      "Bonzon frères",
-      "Chabloz L. & Cie"
-    ],
-    "Poste": [
-      "Ernst Henri"
-    ],
-    "Reliure artistique": [
-      "Favey, Dlles"
-    ],
-    "Rentiers": [
-      "Favey Henri",
-      "Favey Dlle"
-    ],
-    "Serrurerie-garage": [
-      "Meystre Alfred"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "Syndicat agricole",
-      "Assurance du bétail",
-      "de chant"
-    ],
-    "Taillandier": [
-      "Meystre Armand"
-    ],
-    "Téléphoniste": [
-      "Bonzon Adèle Vve"
-    ],
-    "Vigneron": [
-      "Favey Julien"
-    ],
-    "Divers": [
-      "Duplain J."
-    ]
-  },
-  "SENARCLENS": {
-    "Président du Conseil général": [
-      "Rochat Eugène"
-    ],
-    "Secrétaire": [
-      "Brun Gustave"
-    ],
-    "Syndic": [
-      "Gleyre Ernest"
-    ],
-    "Municipaux": [
-      "Guerry Constant",
-      "Rochat Charles",
-      "Brun Maurice",
-      "Berney Jean"
-    ],
-    "Boursier": [
-      "Linder Louis"
-    ],
-    "Agriculteurs": [
-      "Berney Jean",
-      "Brun Lucien",
-      "Brun Maurice",
-      "Cevey Henri",
-      "Demont Fernand",
-      "Dumauthioz Chs",
-      "Dupuis Ami",
-      "Dupuis Frédéric",
-      "Gleyre Ch.",
-      "Gleyre Ernest",
-      "Gleyre John",
-      "Guerry Constant",
-      "Leutwyler Albert",
-      "Linder Ls.",
-      "Mange Louis, Soveillame",
-      "Potterat Ernest",
-      "Rochat frères"
-    ],
-    "Bestiaux": [
-      "Potterat E."
-    ],
-    "Café": [
-      "Yerli Marc"
-    ],
-    "Commission scolaire": [
-      "Piotet",
-      "Gleyre Chs",
-      "Linder Louis"
-    ],
-    "Couturières": [
-      "Dupuis Clara",
-      "Dupuis Suzanne"
-    ],
-    "Facteur": [
-      "Brun Lucien"
-    ],
-    "Inspecteur du bétail": [
-      "Dupuis Ern."
-    ],
-    "Instituteurs": [
-      "Dutoit André",
-      "Métraux Germaine"
-    ],
-    "Laitier": [
-      "Weinmann Charles"
-    ],
-    "Maréchal": [
-      "Guex Charles"
-    ],
-    "Société": [
-      "de fromagerie"
-    ],
-    "Téléphoniste": [
-      "Cevey Henri"
-    ]
-  },
-  "SEVERY": {
-    "Président du Conseil général": [
-      "Braissant Paul",
-      "Cart Jules"
-    ],
-    "Secrétaire": [
-      "Girard Edward",
-      "Chapuis François"
-    ],
-    "Syndic": [
-      "Lavanchy Aloïs"
-    ],
-    "Municipaux": [
-      "Rithner Aloïs",
-      "Tardy Adrien",
-      "Krieg Georges",
-      "Monnier Olivier fils"
-    ],
-    "Boursier": [
-      "Rithner Aloïs"
-    ],
-    "Agriculteurs": [
-      "Bovey Emile",
-      "Braissant Paul",
-      "Cart Jules",
-      "Dubugnon Ls",
-      "Gaudin Ern.",
-      "Gaudin frères",
-      "Girard Edouard",
-      "Girard Georges",
-      "Girard John",
-      "Henneberger Fernand",
-      "Hindermann Georges",
-      "Jaccard Eug.",
-      "Krieg Georges",
-      "Lavanchy Aloïs",
-      "Meylan-Besson, hoirie",
-      "Monnier Olivier",
-      "Oulevay Francis",
-      "Rithener Aloïs",
-      "Rithener Ernest"
+    "Divers.": [
+      "Anderegg, Mme.",
+      "Anderegg Théophile.",
+      "Baridon, Mme.",
+      "Barrelet-de Schulthess. Mme.",
+      "Beardsley V.. Mme.",
+      "Béguelin Arnold.",
+      "Benoit-Nicollet.",
+      "Birnie G. L. J..",
+      "Bolliger A..",
+      "Bonard François.",
+      "Borcard Jules.",
+      "Breuer Jacques.",
+      "Cambrier E..",
+      "Cantacuzene Prince Constantin.",
+      "Chatelanat Ch..",
+      "Chaubert. Mme.",
+      "Chatelanat-Monnerat A.. Mme.",
+      "Chessex, Dlles.",
+      "Chevalley Henri.",
+      "Cohen Franziska.",
+      "Deuss M..",
+      "Dorer Robert.",
+      "Dupasquier Louis.",
+      "Eckenstein Ed..",
+      "Ellis A..",
+      "Epplé Juliette.",
+      "Falquier Edmond.",
+      "Falquier Jules.",
+      "Fiaux Eug..",
+      "Fraser W. A..",
+      "Graf A..",
+      "Granger-Evans Jessie D.",
+      "Gibson, Mlle.",
+      "Golay Ch..",
+      "Hahn, Mlle.",
+      "Halder J., Mme.",
+      "Hirschberg de Vince. Mrs",
+      "Jeanneret Ch..",
+      "Jenkins. v.",
+      "Koog G..",
+      "Lambelet Ch.. Mme.",
+      "Laval Paul.",
+      "Lewin B..",
+      "Leyvraz H..",
+      "Liddel K. C..",
+      "Mac Cullagh.",
+      "Maillard P.."
     ]
   }
 }

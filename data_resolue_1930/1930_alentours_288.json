@@ -1,103 +1,101 @@
 {
-  "Montreux": {
-    "Cafés-restaurants.": [
-      "Piantanida Marg.",
-      "Pilloud Silvestre",
-      "Piller, Vve de Pierre",
-      "Perroud F.",
-      "Platzer-Vogt, Mme",
-      "Ponti R.",
-      "Progin Ed.",
-      "Raemy L.",
-      "Regamey, Mme",
-      "Remy Charles",
-      "Restaurant du Gr. Hôtel",
-      "Rey Gustave",
-      "Riva Attilio",
-      "Rognon Mce",
-      "Schär Alexandre",
-      "Schaller Ls",
-      "Scheidegger",
-      "Schöri J. & Cie",
-      "Thierfelder, Mlle",
-      "Thuillard Ch.",
-      "Tornay E.",
-      "Viquerat John",
-      "Wunderlich, Vve",
-      "Yersin Adr.",
-      "Zagnoli Auguste",
-      "Zagnoli J.",
-      "Zaninetta U."
+  "CHÂTEAU-D’ŒX": {
+    "Hôtels": [
+      "Hôtel de l'Ours",
+      "Gossweiler Ch.",
+      "Hôtel du Chamois",
+      "Mollien Ernest",
+      "Pension Morier",
+      "Rosat Samuel",
+      "Widmer-Creux"
     ],
-    "Cafés-Restaurants sans alcool.": [
-      "Bertholet, Mme",
-      "Hofer Sœurs",
-      "La Cloche (Hôtel-restaurant), S. A.",
-      "Meier-Monti Ch.",
-      "Masson Jean",
-      "Pernet Marc",
-      "Walther-Buxcel N."
+    "Imprimeries.": [
+      "Burri-Roch",
+      "Roch Albert"
     ],
-    "Cafés torréfiés (Voir aussi Epicerie).": [
-      "Kaiser (Sté)"
+    "Infirmerie.": [
+      "Infirmerie du district du Pays-d'Enhaut"
     ],
-    "Camionneurs et déménageurs. voir aussi Voituriers.": [
-      "Allamand J.",
-      "Baumann Emile",
-      "Bonnet & Cie, S. A.",
-      "Braita Jean & fils",
-      "Cœndet Henri",
-      "Callias A.-H., Soc. An.",
-      "Deppen David",
-      "Francey Ed., (S. A.)",
-      "Gindroz Daniel",
-      "Masson frères",
-      "Millasson Charles",
-      "Montreux-Transports, S. A.",
-      "Ramseyer G., Vve",
-      "Stein",
-      "Thévenaz G.",
-      "Wirz Alfred",
-      "Wirz Charles"
+    "Inspecteur forestier.": [
+      "Niggli Richard"
     ],
-    "Cannage de chaises.": [
-      "Aubort Henri",
-      "Costa, Vve de Noël"
+    "Inspecteur du bétail.": [
+      "Moillen Ernest",
+      "Morier-Desquartiers Victor"
     ],
-    "Canots-automobiles.": [
-      "Chevallay & Cie",
-      "Vacheron J."
+    "Institut de musique.": [
+      "Gétaz E."
     ],
-    "Caoutchouc (articles en).": [
-      "Grezet Alfred",
-      "Laval-Golay",
-      "Régis Ernest",
-      "Vogt Maurice"
+    "Instituteurs primaires.": [
+      "Cardinaux Albert",
+      "Combremont Robert",
+      "Gétaz Emile",
+      "Bordini Julie",
+      "Chapalay-Henchoz",
+      "Combremont Louise",
+      "Grandchamp Marthe",
+      "Curchod Marguerite",
+      "Favrod Ami",
+      "Isoz Maria",
+      "Rochat Susanne",
+      "Rossier Berthe",
+      "Wagnière Eugène",
+      "Yersin Jules",
+      "Henchoz-Cottier Marie"
     ],
-    "Carreaux et revêtements.": [
-      "Gétaz, Romang, Ecoffey (S. A.)"
+    "Instituteurs secondaires.": [
+      "Institut Henchoz",
+      "Grenier Paul",
+      "Gardel Marcel",
+      "Jacot Edmond",
+      "Morier-Genoud Albert",
+      "Viret Ernest",
+      "Werner Robert"
     ],
-    "Carrossiers.": [
-      "Bleul Oscar",
-      "Dumuid Roul",
-      "Emery J.",
-      "Ramseyer-Graf Jean",
-      "Saudan Léon",
-      "Talon Jules"
+    "Instruments de musique.": [
+      "Klingert A."
     ],
-    "Cartes postales (édition).": [
-      "Phototypie Co., S. A."
+    "Jardiniers.": [
+      "Bricod Paul",
+      "Lenoir J."
     ],
-    "Cercueils.": [
-      "Bonnet Ernest & Cie",
-      "Hausermann A.",
-      "Mottier Adèle",
-      "Pompes funèbres générales, S. A."
+    "Journaux.": [
+      "Journal de Château-d'Oex",
+      "Feuille d'Avis du Pays d'Enhaut",
+      "Imprimerie Burri-Roch",
+      "Progrès (Le)",
+      "Roch Albert"
     ],
-    "Chapeliers.": [
-      "A l'Innovation",
-      "Beda Pierre",
-      "Cantarini Edwige"
+    "Justice de paix.": [
+      "Gétaz Daniel",
+      "Henchoz-Pilet Louis",
+      "Chabloz-Morier Henri",
+      "Combremont Max",
+      "Desquartiers Constant",
+      "Rossier Ernest",
+      "Roch Albert",
+      "Turrian Victor"
+    ],
+    "Laiteries.": [
+      "Fédération Laitière du Léman",
+      "Mottier-Turrian L.",
+      "Mottier Samuel",
+      "Rubattel Charles"
+    ],
+    "Laiteries (articles pour).": [
+      "Morier Ed.",
+      "Dubuis-Yersin"
+    ],
+    "Légumes et fruits.": [
+      "Aviolat C.",
+      "Berdoz Emile",
+      "Bricod Paul",
+      "Cevey Justine",
+      "Lenoir Jules"
+    ],
+    "Librairies-papeteries.": [
+      "Ingold-Menthonnex L.",
+      "Martin Victor"
     ]
   }
 }

@@ -1,232 +1,204 @@
 {
-  "TOLOCHENAZ": {
+  "DOMMARTIN": {
+    "Autorités communales": [
+      "Curchod Elie",
+      "Santschy Eugène",
+      "Gindroz Aloïs",
+      "Curchod-Züllig Aloïs",
+      "Curchod-Mœsching Aloïs",
+      "Curchod Gaston",
+      "Crausaz Marius",
+      "Dufour Fernand",
+      "Clavel Alfred"
+    ],
     "Agriculteurs": [
-      "au Vallon",
-      "Mingard Maurice",
-      "Morel Marc",
-      "Panchaud Somuel, hoirie."
+      "Brun Auguste",
+      "Curchod Alfred",
+      "Curchod Elie",
+      "Curchod Fernand",
+      "Curchod frères",
+      "Curchod Gaston",
+      "Curchod Jules",
+      "Curchod Ulysse",
+      "Curchod William",
+      "Crausaz Marius",
+      "Fiaux Eugène",
+      "Gindroz Aloïs",
+      "Gindroz Jules",
+      "Jaton Emile",
+      "Mösching François"
     ],
-    "Apiculteurs.": [
-      "Borrel Alexis. T.",
-      "Morel Eugène",
-      "Vallon Ernest"
+    "Associations mutualistes de retraite": [
+      "Testaz O."
     ],
-    "Aviculture.": [
-      "Paderewska, dame."
+    "Aubergiste-Pension": [
+      "Santschy Eugène"
     ],
-    "Commission scolaire.": [
-      "Paux Robert",
-      "Panchaud Marius",
-      "Schneider Ami"
+    "Boulanger": [
+      "Desmeules Ernest"
     ],
-    "Ecole des Alpes.": [
-      "Juillerat Edouard. R."
+    "Cantonnier": [
+      "Curchod Robert"
     ],
-    "Epicerie, tabacs.": [
-      "Gruffel Htte. R."
+    "Charcutiers": [
+      "Curchod Gustave",
+      "Curchod William"
     ],
-    "Inspecteur du bétail.": [
-      "Gandillon Jn."
+    "Commission scolaire": [
+      "Curchod Elie",
+      "Jaton Emile"
     ],
-    "Instituteur.": [
-      "Vallon Ernest."
+    "Cordonnier": [
+      "Clavel Gustave"
     ],
-    "Institut de jeunes gens.": [
-      "Juillerat Louis"
+    "Echalas (fabriques d')": [
+      "Curchod Alfred et Oscar",
+      "Dufour Fernand",
+      "Gindroz Jules et Aloïs"
     ],
-    "Jardinier.": [
-      "Morel Eugène."
+    "Epicerie, mercerie, cigares et tabacs": [
+      "Curchod William",
+      "Desmeules Ernest"
     ],
-    "Maraîchers.": [
-      "Mariot",
-      "Hunziker Ls."
+    "Fabrique de ruches": [
+      "Curchod Aloïs"
     ],
-    "Pension.": [
-      "Panchaud Antoine, Vve"
+    "Forestier de triage": [
+      "Curchod Elie"
     ],
-    "Poste.": [
-      "Panchaud Emile."
+    "Instituteurs": [
+      "Testaz Octave",
+      "Jaccard Lisette"
     ],
-    "Rentiers.": [
-      "de Luze, Vve de Maurice",
-      "Lenoir-Grand Jenny",
-      "Paderewski Ignace"
+    "Menuisier": [
+      "Delessert Emile"
     ],
-    "Téléphone public.": [
-      "Gruffel, Vve."
+    "Meunier": [
+      "Dufour Jules"
     ],
-    "Vigneron.": [
-      "Mercet Louis."
+    "Pasteur": [
+      "Moreillon Richard"
     ],
-    "Viticulteur.": [
-      "Héritier Joseph."
+    "Poste": [
+      "Delessert Robert"
     ],
-    "Sociétés.": [
-      "de fromagerie. R.",
-      "Syndicat d'élevage. R."
+    "Scieur": [
+      "Dufour Fernand"
     ],
-    "Téléphone.": [
-      "Bureau des postes."
+    "Sociétés": [
+      "de fromagerie",
+      "d'assurance bétail",
+      "Assurance vieillesse",
+      "Chœur d'hommes"
+    ],
+    "Tailleuses": [
+      "Curchod Blanche",
+      "Curchod Rose",
+      "Curchod Rosine",
+      "Dufour Alice"
+    ],
+    "Téléphoniste": [
+      "Santschy Eugène"
     ]
   },
-  "VAUX": {
-    "Autorités communales.": [
-      "Schopfer Ch.",
-      "Schmidt Henri",
-      "Stoudmann Henri",
-      "Schmidt Eugène",
-      "Aigroz Paul",
-      "Panchaud Rod.",
-      "Moret Henri",
-      "Panchaud Maurice",
-      "Schopfer Charles"
+  "ECLAGNENS": {
+    "Autorités communales": [
+      "Bezençon Georges",
+      "Roulin Emile",
+      "Bezençon Benjamin",
+      "Mermoud Rob.",
+      "Bezençon Frs",
+      "Pahud Ulysse",
+      "Mermoud Robert",
+      "Bataillard Alfred"
     ],
-    "Agriculteurs.": [
-      "Aigroz Paul",
-      "Christen Vve",
-      "Gebhard Jean",
-      "Moret Emile",
-      "Panchaud Rodolphe",
-      "Paquier Henri",
-      "Schmidt Const.",
-      "Schmidt Eug.",
-      "Schmidt Henri",
-      "Schmidt-Coderey",
-      "Schmidt Valentin",
-      "Schopfer Ch.",
-      "Stoudmann Henri",
-      "Trachsel, Vve"
+    "Agriculteurs": [
+      "Bataillard Alfred",
+      "Bezençon Benjamin",
+      "Bezençon Frédéric",
+      "Bezençon François",
+      "Bezençon Georges",
+      "Bezençon Gustave",
+      "Bezençon Robert",
+      "Bezençon Vincent",
+      "Cavin Arthur",
+      "Genet frères",
+      "Laedermann Marie",
+      "Mermoud Robert",
+      "Pahud Ulysse",
+      "Roulin Emile",
+      "Roulin Henri"
     ],
-    "Blanchissage.": [
-      "Pahud B."
+    "Mutualité scolaire de retraite": [
+      "Bezençon-Bonzon E."
     ],
-    "Commission scolaire.": [
-      "Schmidt-Coderey",
-      "Pâquier Emile"
+    "Commission scolaire": [
+      "Mermoud Robert",
+      "Béranger Paul",
+      "Bezençon Benjamin"
     ],
-    "Inspecteur du bétail.": [
-      "Moret Henri."
+    "Epicerie, mercerie": [
+      "Pahud Ulysse"
     ],
-    "Instituteurs.": [
-      "Conne Gilbert",
-      "Chaudet Edmée"
+    "Inspecteur du bétail": [
+      "Pahud Ulysse"
     ],
-    "Instructeur artillerie.": [
-      "Schmidt Aloïs."
+    "Institutrice": [
+      "Bezençon-Bonzon Eva"
     ],
-    "Jardinier.": [
-      "Vidoudez Robert."
+    "Mécanicien": [
+      "Bezençon Vincent"
     ],
-    "Maréchal.": [
-      "Blanc Henri."
+    "Meunier": [
+      "Roulin Emile"
     ],
-    "Meunier.": [
-      "Bovay Samuel. RT."
+    "Pension": [
+      "Bezençon Frédéric"
     ],
-    "Rentiers.": [
-      "Forel Louis. T.",
-      "Pâquier Emile."
+    "Peseur": [
+      "Pahud Ulysse"
     ],
-    "Rentière.": [
-      "Devenoge Julie."
+    "Scierie": [
+      "Roulin Emile"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "du battoir à grain"
+    ],
+    "Tailleuse": [
+      "Bataillard Alice"
+    ],
+    "Téléphone": [
+      "Bezençon Frédéric"
     ]
   },
-  "VILLARS-SAINTE-CROIX": {
-    "Autorités communales.": [
-      "Moraz Samuel",
-      "Girardet Louis",
-      "Cuérel Robert",
-      "Dajoz Henri",
-      "Moraz Ernest",
-      "Pache Alb.",
-      "Cuérel François",
-      "Cuanillon Paul",
-      "Cuérel Edm."
+  "ESSERTINES-SUR-YVERDON": {
+    "Autorités communales": [
+      "Ducret Jean",
+      "Gonin Julien",
+      "Ducret Charles",
+      "Gonin Edmond",
+      "Perret Emile",
+      "Perret Alfred",
+      "Gonin Elie",
+      "Gonin Edouard",
+      "Auberson Marcel",
+      "Gonin Fernand",
+      "Schneider André"
     ],
-    "Agriculteurs.": [
-      "Borgeaud Maurice",
-      "Burla Adolphe",
-      "Cuérel H.-Fr.",
-      "Cuérel H.-Louis",
-      "Cuérel Henri-Jules",
-      "Cuérel, de Ferdinand",
-      "Cuérel ,hoirs de Marius",
-      "Diserens Jules",
-      "Golay Emile",
-      "Moraz Hri",
-      "Moraz Constant",
-      "Moraz Ernest",
-      "Moraz Louis",
-      "Moraz Samuel",
-      "Pache Albert"
-    ],
-    "Apiculteur.": [
-      "Moraz Samuel."
-    ],
-    "Bois (comm. de).": [
-      "Borgeaud Maurice."
-    ],
-    "Commission scolaire.": [
-      "Cuérel Hri-Louis",
-      "Moraz Samuel."
-    ],
-    "Inspecteur du bétail.": [
-      "Moraz Louis."
-    ],
-    "Instituteurs.": [
-      "Cuanillon Pauls",
-      "Montagnon Georgine"
-    ],
-    "Pasteur.": [
-      "Mayor Louis"
-    ],
-    "Société.": [
-      "de laiterie. R."
-    ],
-    "Tailleuse.": [
-      "Pache Marie."
-    ],
-    "Téléphone.": [
-      "Pache Marie."
-    ]
-  },
-  "VILLARS-SOUS-YENS": {
-    "Autorités communales.": [
-      "Lannaz Henri",
-      "Bujard Fernand",
-      "Rossier Eugène",
-      "Grand René",
-      "Favre Albert",
-      "Schmid Théophile",
-      "Grand Aloïs",
-      "Guibert Robert",
-      "Kratzer Aloïs"
-    ],
-    "Boulanger.": [
-      "Lannaz Henri. R T."
-    ],
-    "Briqueterie.": [
-      "Schmid Théophile. RT."
-    ],
-    "Bureau de poste.": [
-      "Favre C."
-    ],
-    "Cafetiers.": [
-      "Hostettler Ulrich",
-      "Dupuis Charles"
-    ],
-    "Charpentier-menuisier.": [
-      "Amaron Aloïs."
-    ],
-    "Chef de section.": [
-      "Grand René."
-    ],
-    "Commission scolaire.": [
-      "Berthet Emile",
-      "Guibert Robert."
-    ],
-    "Cordonnier.": [
-      "Laurent Henri."
+    "Agriculteurs": [
+      "Auberson Alexis",
+      "Auberson Julien et Eugène",
+      "Barraud-Degiez Auguste",
+      "Chevalley Ele",
+      "Ducret Héli",
+      "Ducret Jean",
+      "Gonin Adolp.",
+      "Gonin Auguste",
+      "Gonin Elie",
+      "Gonin Elisée",
+      "Gonin Gustave",
+      "Gonin"
     ]
   }
 }

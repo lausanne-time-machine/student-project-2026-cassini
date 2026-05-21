@@ -1,100 +1,121 @@
 {
-  "Ville de Vevey": {
-    "Combustibles": [
-      "Ducret E.",
-      "Fath W.",
-      "Jaggi Jean",
-      "Jomini André",
-      "Lambelet-Dony F.",
-      "Mages P.",
-      "Société coopérative La Ménagère",
-      "Terretaz E.",
-      "Trummer A. & Cie",
-      "Weber A., fils",
-      "Wirz Charles"
+  "VALLORBE": {
+    "Scierie": [
+      "Pisler-Cottens Maurice"
     ],
-    "Comestibles (march. de)": [
-      "Genetti L. & A.",
-      "Monnard Jeanne",
-      "Olivieri-Parachini M.",
-      "Verdan Rosine",
-      "Rinsoz Jeanne"
+    "Sociétés": [
+      "de fromagerie",
+      "de chant",
+      "de musique",
+      "de crédit mutuel",
+      "de tir aux armes de guerre",
+      "du Moulin agricole",
+      "Syndicat agricole",
+      "Section de la Croix-Bleue",
+      "Syndicat d'améliorations foncières",
+      "de gymnastique"
     ],
-    "Commissionnaires-expéditeurs": [
-      "de la Harpe E. & Cie (S. A.)",
-      "Fath W., fils",
-      "Vallotton & Cie"
+    "Téléphone": [
+      "Bureau des postes"
     ],
-    "Commissionnaires": [
-      "Bureau à la gare"
+    "Vignerons": [
+      "Besson Fritz",
+      "Bornand Ernest",
+      "Bornand Jules",
+      "Chevallier Jules. d'Isaac",
+      "Corset Louis",
+      "Dällenbach Charles",
+      "Fiaux Gustave",
+      "Ecuyer Vital",
+      "Laffely Louis",
+      "Tissot Louis",
+      "Widmer Léonie"
     ],
-    "Comptables": [
-      "Aebischer E.",
-      "Dufour Jules",
-      "Grand Paul",
-      "Montet J."
+    "Autorités communales": [
+      "Paley Adrien",
+      "Maillefer David",
+      "Jaillet-Combe Gustave",
+      "Meylan-Jaillet Elie",
+      "Dériaz Marcel",
+      "Fauconnet Jules",
+      "Juvet Hri.",
+      "Magnenat Ernest",
+      "Rochat Emile"
     ],
-    "Confections pour dames": [
-      "Beltrami, Mlles",
-      "Bischoff et Rosenberg",
-      "Brunschwig, hoirs de Samuel",
-      "Fuchs-Genton, Mme",
-      "Grognuz Charles",
-      "Kopp, dames",
-      "Meyer & Cie, A la Samaritaine",
-      "Nicollier Sœurs",
-      "Schwob Lucien",
-      "Straub Marie",
-      "Walther Henry-S. & Cie (S.A.)"
+    "Affichage": [
+      "Société générale d'affichage"
     ],
-    "Confections pour hommes": [
-      "Beetshen F.",
-      "Bischoff et Rosenberg",
-      "Brunschwig E., Au Bon Génie",
-      "Brunschwig, hoirs de Samuel",
-      "Francia Sereno",
-      "Grognuz Charles, A la Confiance",
-      "La Samaritaine, Meyer Albert & Cie",
-      "Muller Charles",
-      "Reitenspiess Ch.",
-      "Sanguini Anselmo",
-      "Schwob Lucien",
-      "Trachsel frères",
-      "Weill Marcel",
-      "Zanone A., Au Petite Poucet"
+    "Agences en douane": [
+      "Mangili Inocente",
+      "Soc. anon. Internat. de Transports Gondrand Frères",
+      "Véron J., Grauer & Cie"
     ],
-    "Confiseurs": [
-      "Amann Wilhelm",
-      "Caflisch Martin",
-      "Dardel, Vve d'Henri",
-      "Dutoit Ulysse",
-      "Graf-Gehring Auguste",
-      "Hofschneider Willy",
-      "Lambert Gustave, < Aux Pierrots >",
-      "Petter Samuel fils",
-      "Schlachter Emile et fils",
-      "Schneider Hans",
-      "Indiana Tea-Room",
-      "Wydler Rob."
+    "Agriculteurs": [
+      "Blanchong Félicien",
+      "Collet Charles",
+      "Collet Jules",
+      "Gabriel E. T.",
+      "Glardon Jules",
+      "Glardon Georges",
+      "Grobéty Rob.",
+      "Jaillet Oct.",
+      "Jaillet-Roy Ls",
+      "Jaquet-Jaillet Ls",
+      "Magnenat Simonin",
+      "Martin Ls",
+      "Matthey Albert",
+      "Matthey Emile",
+      "Matthey Jules",
+      "Matthey Robert",
+      "Merminod Louis",
+      "Panchaud François",
+      "Reymond Louis",
+      "Rochat Henri",
+      "Roy Octave",
+      "Roy Justin",
+      "Roy-Michot Alexis",
+      "Truan Fritz",
+      "Truan-Ramuz Em.",
+      "Vallotton Ls."
     ],
-    "Confitures (fab. de)": [
-      "Hammer F. & Cie"
+    "Aiguilles de montres": [
+      "Roy Gust. R."
     ],
-    "Constructeurs-mécaniciens": [
-      "Ateliers de constructions mécaniques de Vevey (S. A.)",
-      "Bourquin A.",
-      "Morel Stanislas",
-      "Naef J.",
-      "Plumettez Emile",
-      "Spälti fils & Cie"
+    "Amodiateurs": [
+      "Blanchong Félicien",
+      "Jaillet Louis",
+      "Truan Fritz"
     ],
-    "Cordiers": [
-      "Ducret E.",
-      "Kisling Christian"
+    "Ameublements": [
+      "Kohler Werner",
+      "Scheurer Alb."
     ],
-    "Cordonniers": [
-      "Bonolis Jean",
-      "Cochard A."
+    "Articles de pêche": [
+      "Glardon Robert",
+      "Engins Clément"
+    ],
+    "Assortiments (Maisons d')": [
+      "Jaquet S. & H. (S. A.)",
+      "Maus frères & Cie"
+    ],
+    "Assurances": [
+      "La Suisse",
+      "Société suisse de secours mutuels Helvétia",
+      "Falcy-Matthey Ad.",
+      "Assurance mutuelle vaudoise"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Gallay M."
+    ],
+    "Société mutualiste de retraite": [
+      "Matthey A."
+    ],
+    "Auto-transports et déménagements": [
+      "Béguin Emile",
+      "Rochbach"
+    ],
+    "Avocats": [
+      "Vallotton Paul"
     ]
   }
 }

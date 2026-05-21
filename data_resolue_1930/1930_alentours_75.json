@@ -1,240 +1,242 @@
 {
-  "SAINT-PREX": {
-    "Agriculteurs": [
-      "Francis",
-      "Coderey François",
-      "Curtet Jules",
-      "Devillard Alexis",
-      "Devillard Louis",
-      "Favre Théophile",
-      "Henry Lucien",
-      "Zeender Henri",
-      "Allamand François hoirie",
-      "Allamand Louis",
-      "Annen A.",
-      "Baudat Ele",
-      "Baudat Js. hoirie",
-      "Baudet L.",
-      "Berguer Louis",
-      "Bissat François",
-      "Bugnon Chs",
-      "Bugnon Ern.",
-      "Bugnon Edmond",
-      "Bugnon Jules",
-      "Bugnon Maurice",
-      "Cloux E.",
-      "Contet, les enfants de Jules",
-      "Cornaz Henri",
-      "Desplands Oscar",
-      "Dupuis Jules",
-      "Gilliand Louis",
-      "Gudet Arnold",
-      "Merminod Jules",
-      "Meylan Gustave",
-      "Morand Henri",
-      "Morand Louis",
-      "Moret",
-      "Mercier Laurent et Jufer",
-      "Pavillard Louis",
-      "Pellaton H.",
-      "Roy Eugène",
-      "Prodolliet Louis"
+  "VILLE D'ECHALLENS": {
+    "Sociétés.": [
+      "Section de la Croix-Bleue",
+      "Syndicat agricole",
+      "Syndicat d’élevage chevalin du Gros de Vaud",
+      "id. de battage",
+      "immobilière du Cormistaux",
+      "immobilière de Praz-Palud"
     ],
-    "Assurance-vieillesse": [
-      "Goy Ch."
+    "Tailleur": [
+      "Maccaud François"
     ],
-    "Aubergiste": [
-      "Bataillard Roger"
+    "Tailleuses": [
+      "Chamot Ida",
+      "Gariglio Adélaïde",
+      "Genton Julie",
+      "Devolz Elisa & Mathilde",
+      "Mettraux Bertha"
     ],
-    "Charron": [
-      "Burri Charles",
-      "Wegmüller Franz"
+    "Tapissiers": [
+      "Cardinaux Auguste",
+      "Chappuis Fanny"
     ],
-    "Commission scolaire": [
-      "Subilia E.",
-      "Devillard Louis",
-      "Bataillard Robert",
-      "Dr Cuénet",
-      "Colomb Fanny",
-      "Spaini Adolphe",
-      "Allamand-Colomb Louis",
-      "Meyer Frédéric",
-      "Reymond Hri"
+    "Taxis": [
+      "Jaccottet Vincent",
+      "Rochat Lucien"
     ],
-    "Epiceries": [
-      "Favre Théophile",
-      "Magnin-Bataillard dame",
-      "Blaser Ern.",
-      "Dupasquier Emile",
-      "Petitpierre Ch., S. A.",
-      "Rochat Louis",
-      "Société coopérative de consommation"
+    "Télégraphiste": [
+      "Chappuis Emile"
     ],
-    "Inspecteur du bétail": [
-      "Zeender Hri."
+    "Téléphone public": [
+      "Hôtel de Ville et Bureau des Postes"
     ],
-    "Instituteur": [
-      "Campiche Louis"
+    "Toilerie": [
+      "Allasia Alfr.",
+      "Baud & Crausaz",
+      "Rochat Emile",
+      "Wyler Salomon"
     ],
-    "Laitier": [
-      "Pidoux Francis",
-      "Desquartiers Paul"
+    "Tricoteuse": [
+      "Cardinaux Julie"
     ],
-    "Maréchal": [
-      "Rebeaud Henri",
-      "Mattenberger Jean"
+    "Vannerie": [
+      "Falcy-Fornerod",
+      "Magnenat Louis"
     ],
-    "Société": [
-      "de fromagerie"
+    "Vélocipèdes": [
+      "Bezençon & Vauthey",
+      "Falcy Ls.",
+      "Rochat Lucien"
     ],
-    "Téléphoniste": [
-      "Bataillard Roger"
+    "Vérificateur des poids et mesures": [
+      "Bovey André"
     ],
-    "Président du Conseil communal": [
-      "Jaccard Ernest"
+    "Vétérinaires": [
+      "Dasen W.",
+      "Despland G."
     ],
-    "Vice-président": [
-      "Berguer Jules"
+    "Vins (march. de)": [
+      "Mermoud Ernest",
+      "Nicod Eugène",
+      "Panchaud Léon"
     ],
-    "Secrétaire": [
-      "Bugnon Robert",
-      "Spaini Adolphe"
+    "Voituriers": [
+      "Pittet Auguste",
+      "Pollien Irénée",
+      "Rapit Louis"
+    ]
+  },
+  "ASSENS": {
+    "Autorités communales": [
+      "Brocard Jules",
+      "Chambettaz Simon"
     ],
     "Syndic": [
-      "Meyer Frédéric"
+      "Favre Joseph"
     ],
     "Municipaux": [
-      "Reymond Henri",
-      "Bugnon Edmond",
-      "Cloux Emile",
-      "Roy Eugène"
+      "Despont Robert",
+      "Mathey Henri",
+      "Martin Marc",
+      "Pelet Paul",
+      "Pollien Emile",
+      "Favre-Riton J.",
+      "Despont Edouard"
     ],
-    "Boursier": [
-      "Allamand Louis"
+    "Agriculteurs": [
+      "Barby Ls",
+      "Chambettaz Auguste",
+      "Chambettaz Alfr.",
+      "Chambettaz Edouard",
+      "Chambettaz Simon",
+      "Chambettaz Marc",
+      "Chatelan Auguste",
+      "Cherpit Marc",
+      "Despont Armand",
+      "Despont Ed.",
+      "Despont Ernest",
+      "Despont Ls",
+      "Despont Robert",
+      "Dony Louis",
+      "Favre frères",
+      "Jaccaud Eugène",
+      "Jordan Henri",
+      "Martin Marc",
+      "Mathey Elie",
+      "Mathey frères",
+      "Mathey Henri",
+      "Mermoud Vve",
+      "Pelet Alfred",
+      "Pelet frères",
+      "Pelet Paul",
+      "Pellerin Joseph",
+      "Pichonnaz Henri",
+      "Pollien Emile",
+      "Pollien",
+      "Pollien François",
+      "Thélin Auguste",
+      "Thélin Louis"
     ],
-    "Huissier": [
-      "Paux Louis"
+    "Café": [
+      "Pichonnaz Hilaire"
     ],
-    "Agent de police": [
-      "Paux Louis"
+    "Cantonnier": [
+      "Mathey Marc"
     ],
-    "Assesseur": [
-      "Rebuz Henri"
-    ],
-    "Assurance": [
-      "La Genevoise",
-      "Jaccard Ernest"
-    ],
-    "Assurance-vieillesse. — Mutualité scolaire de retraite": [
-      "Chabloz André"
-    ],
-    "Aubergistes": [
-      "Oberson Marius",
-      "Morand Henri",
-      "Gudit-Félix Emile",
-      "Cherpillod Henri"
-    ],
-    "Blanchisseuse-repasseuse": [
-      "Visinand Franceline"
-    ],
-    "Bois": [
-      "Gilliand Louis"
-    ],
-    "Bouchers": [
-      "Dumont frères",
-      "Signorelli Alexandre"
-    ],
-    "Boulangers": [
-      "Debonneville E.",
-      "Podlejska Egon"
-    ],
-    "Buraliste, postal": [
-      "Henry Albert"
-    ],
-    "Charpentiers": [
-      "Dessaux Ernest",
-      "Dupenloup François"
+    "Charcutier": [
+      "Barbey Casimir"
     ],
     "Chef de gare": [
-      "Nicoulaz Emile"
+      "Basset, Mme. T."
     ],
-    "Coiffeurs": [
-      "Anselmetti D.",
-      "Baussmann R., fils"
+    "Commission scolaire réformée": [
+      "Curchod Robert",
+      "Dony Louis",
+      "Chatelan Auguste"
     ],
-    "Cordonniers": [
-      "Giulio Amédée",
-      "Jenne Jean",
-      "Reymond Gustave",
-      "Parisod Henri",
-      "Talochino Louis"
+    "Commission scolaire catholique": [
+      "Colliard",
+      "Despont Ernest",
+      "Mathey Elie"
+    ],
+    "Cordonnier": [
+      "Trachsel Alfred"
     ],
     "Curé": [
-      "Abbé Mermet"
+      "Colliard Clément"
     ],
-    "Entrepreneurs": [
-      "Croso Amédée",
-      "Chiavazza Jean",
-      "Scaglia Joseph"
+    "Entrepreneur": [
+      "Bottini S.",
+      "Fantoli Maurice"
     ],
-    "Fabrique de biscuits « Fabis »": [
-      "Baudat & Josseron"
+    "Epicerie, étoffes, mercerie": [
+      "Favre Riton Joseph",
+      "Messerli Aimé"
     ],
-    "Ferblantier": [
-      "Kühnel Edouard"
-    ],
-    "Gypsiers-peintres": [
-      "Pache Robert",
-      "Spaini A. et fils"
-    ],
-    "Horloger": [
-      "Cuendet Elie"
-    ],
-    "Horticult.-pépiniériste": [
-      "Dupuis John"
-    ],
-    "Institut": [
-      "Walter School for Boys",
-      "Dr Hans Walter"
+    "Inspecteur du bétail": [
+      "Despont André",
+      "Pelet Charles"
     ],
     "Instituteurs": [
-      "Chabloz André",
-      "Rochat Henri",
-      "Rey Jeanne",
-      "Croso Albertine",
-      "Foretay Rose",
-      "Girardet Marie",
-      "Blanc Marie"
+      "Brocard Jules",
+      "Barbey Emile",
+      "Bugnon Alice",
+      "Fontannaz Aimée"
     ],
-    "Jardinier-pépiniériste": [
-      "Haas Sam."
+    "Maçons": [
+      "Bottini Sylvestre",
+      "Fantoli Maurice"
     ],
-    "Jardinier-maraîcher": [
-      "Dupuis John"
-    ],
-    "Lingères": [
-      "Contet Olga",
-      "Lersch, dame"
+    "Maréchal": [
+      "Olloz Henri"
     ],
     "Mécanicien": [
-      "Aubert L."
+      "Messerli Louis"
     ],
-    "Médecin": [
-      "Cuenet F. T."
+    "Menuisier": [
+      "Barby Charles"
     ],
-    "Menuisiers": [
-      "Dessaux Ernest",
-      "Dupenloup François",
-      "Labbé François"
+    "Pasteur": [
+      "Curchod Robert"
     ],
-    "Officier d'Etat-civil": [
-      "Gottraux Julien"
+    "Poste": [
+      "Pelet Ferdinand"
     ],
-    "Pêcheurs": [
-      "Bugnon Francis",
-      "Chapuisat Henri",
-      "Foretay frères",
-      "Pasquier Louis"
+    "Rentiers": [
+      "Baudère Louis",
+      "Martin Félix"
+    ],
+    "Scierie et commerce de bois": [
+      "Siegrist Hermann"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "de la machine à battre",
+      "Syndicat agricole",
+      "de tir"
+    ],
+    "Tailleuses": [
+      "Dupont sœurs",
+      "Martin sœurs",
+      "Mathey-Meyer Agathe"
+    ],
+    "Téléphoniste": [
+      "Favre J."
+    ],
+    "Tricoteuse": [
+      "Longchamp Joséphine"
+    ],
+    "Vélocipèdes": [
+      "Messerli Louis"
+    ]
+  },
+  "BIOLEY-ORJULAZ": {
+    "Autorités communales": [
+      "Porchet Eugène",
+      "Bally Georges"
+    ],
+    "Syndic": [
+      "Gachet Henri"
+    ],
+    "Municipaux": [
+      "Favre Louis",
+      "Despont Marc",
+      "Gachet Ami",
+      "Fatio Fritz",
+      "Delamadeleine Léon",
+      "Gachet Paul",
+      "Bavaud Louis"
+    ],
+    "Agriculteurs": [
+      "Dony Em.",
+      "Dony Aimé",
+      "Emery Samuel",
+      "Favre Henri",
+      "Gachet Arnold",
+      "Gachet Emile",
+      "Gachet Gustave"
     ]
   }
 }

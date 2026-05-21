@@ -1,152 +1,183 @@
 {
-  "AUBERSON": {
-    "Nickeleurs.": [
-      "Ferrari Nomine",
-      "Paillard E. & Cie (S. A.)",
-      "Thorens Hermann, S. A."
+  "BEX": {
+    "Cycles et motos": [
+      "Gillard Lucien",
+      "Zanchi & Conod"
     ],
-    "Pignons (fab. de).": [
-      "Reuge Al. & Cie.",
-      "Yancké Camille"
+    "Dentistes": [
+      "Cordey François",
+      "Pittet H.",
+      "Säuberlin Samuel et Mlle Nicole",
+      "Schwarb André"
     ],
-    "Tourneur.": [
-      "Sueur Ch."
+    "Distillateur-liquoriste": [
+      "Borel Marguerite"
     ],
-    "Vis sans fin (fab. de).": [
-      "Bornand Maurice",
-      "Paillard E. & Cie (S. A.)"
+    "Draperie, tissus, tuilerie": [
+      "Au Louvre (Nouvelles Galeries, S. A.)",
+      "Cherix Ed.",
+      "Grezzi Remi fils",
+      "Hinden-Dénéréaz Julie"
     ],
-    "Fabricants et commerce d'": [
-      "Bornand Oscar",
-      "Jaccard Alexis",
-      "Jaccard-Addor Constant",
-      "Py-Aubert C.",
-      "Reuge Al. & Cie."
+    "Ecole de commerce et d'administration": [
+      "Institut Chabloz"
     ],
-    "Fournitures.": [
-      "Sueur Marc",
-      "Leresche Eugène",
-      "Martin A.-Louis",
-      "Reuge Al. & Cie."
+    "Ecole Nouvelle": [
+      "Haemmerlin Lydia"
     ],
-    "Echappements à cylindres.": [
-      "Jaccard-Junod"
+    "Editeur": [
+      "Chollet Robert"
     ],
-    "Embottages.": [
-      "Gueissaz Jules"
+    "Eaux gazeuses": [
+      "Borel Marguerite"
     ],
-    "Monteur de boites.": [
-      "Cuendet Edouard"
+    "Electriciens": [
+      "Brède Charles",
+      "Ducret A. T.",
+      "Naegele Alfred"
     ],
-    "Petite mécanique (fab. de).": [
-      "Margot Albert et E.",
-      "Paillard E. & Cie (S. A.)",
-      "Thorens Hermann, S. A."
+    "Electrochimie": [
+      "Compagnie des produits électrochimiques"
     ],
-    "Pierristes.": [
-      "Bovay Jules",
-      "Dériaz",
-      "Frommer",
-      "Jaccard Edouard",
-      "Robellaz-Sueur Jules",
-      "Sueur Albert",
-      "Sueur Alfred"
+    "Engrais": [
+      "Jaquerod Henri, fils"
     ],
-    "Pignons, tiges, roues": [
-      "Victoria S. A."
+    "Encadrements": [
+      "Rapaz André"
     ],
-    "Rhabilleurs.": [
-      "Jaccard Jules",
-      "Jaccard-Junod Jules",
-      "Margot Jules"
+    "Entrepreneurs": [
+      "Delvecchio Charles",
+      "Dionisotti & Cie",
+      "Manni Jos.",
+      "Pittier Félix",
+      "Renaud Fernand"
     ],
-    "Ressorts (fab. de).": [
-      "Beck Léon"
+    "Epiciers": [
+      "L'Avenir, Soc. de Consommation",
+      "Baltiser Jacob",
+      "Bernet-Hefti G.",
+      "Blatti André",
+      "Chamorel E.-R.",
+      "Cherix Gabriel",
+      "Cherix Edouard",
+      "Magadini Julie",
+      "Desplands A. R.",
+      "Gschwend, Vve",
+      "Glardon Jean",
+      "Kunzi Ferdinand",
+      "May-Martin M.",
+      "Mayor Madeleine",
+      "« Mercure », S. A.",
+      "Minel Ls.",
+      "Monod Clara",
+      "Moreillon-Monod, Vve d'Eugène",
+      "Richard Hermann",
+      "Schilter Paul",
+      "Zoller, Dlle"
     ],
-    "Vis et décolletages.": [
-      "Margot Albert & E."
+    "Equarrisseur": [
+      "Jaggi Alfred"
     ],
-    "Agent d'affaires.": [
-      "Margot Louis"
+    "Ferblantiers": [
+      "Bollat Alex.",
+      "Sangrouber-Mages C.",
+      "Schleicher Gabriel",
+      "Tinturier Jules"
     ],
-    "Agriculteurs.": [
-      "Barraud Jules",
-      "Baud Ate",
-      "Besse Arthur",
-      "Blanalt Ch.",
-      "Bornand Maurice",
-      "Bornand Ami",
-      "Bornand Edouard",
-      "Bornand Etienne",
-      "Bornand René",
-      "Cuendet frères",
-      "Cuendet Héli",
-      "Cuendet Louis",
-      "Cuendet Paul-Auguste",
-      "Cuendet Philippe",
-      "Dupertuis Louis",
-      "Gonthier Paul",
-      "Gonthier Emile",
-      "Gonthier Hermann",
-      "Gueissaz André",
-      "Gueissaz Jules",
-      "Gueissaz-Margot Edouard",
-      "Guye Paul",
-      "Jaccard-Thévenaz, Vve",
-      "Jaccard Emile",
-      "Jaccard-Thuillard Ls",
-      "Jaccard Sam.",
-      "Jaccard Aug.",
-      "Jaques Const.",
-      "Jaques Félix",
-      "Jaques Gust.",
-      "Jaques Louis",
-      "Jaques Adrien",
-      "Joseph Eugène",
-      "Joseph Ls",
-      "Margot Alfred",
-      "Margot Daniel",
-      "Margot E. & Cie",
-      "Margot Philippe",
-      "Martin Albert",
-      "Martin Francis",
-      "Martin Louis",
-      "Martin Félix",
-      "Martin Albert",
-      "Paillard Charles",
-      "Paillard Justin",
-      "Paillard-Perrier Henri",
-      "Paillard-Jaccard",
-      "Recordon Daniel",
-      "Reymond Henri"
+    "Fers et métaux": [
+      "Fleuti Alfred, Société anonyme",
+      "Morier Alfred"
     ],
-    "Articles de ménage et quincaillerie.": [
-      "Martin Francis",
-      "Société de consommation",
-      "Martin-Clément Emile"
+    "Fonte": [
+      "La Fonte Electrique (S. A.)"
     ],
-    "Assurance-vieillesse": [
-      "Associations mutualistes de retraite",
-      "Jaques-Jaccard S., Mme"
+    "Fontenier": [
+      "Bollat Alex."
     ],
-    "Articles agricoles.": [
-      "Martin Frcis."
+    "Forestier d'arrondissement": [
+      "de Kalbermatten Jean"
     ],
-    "Bazar.": [
-      "Margot Et. & C."
+    "Forestier communal": [
+      "Genet Ls."
     ],
-    "Bestiaux (march. de).": [
-      "Blanalt Ch.",
-      "Guye César",
-      "Jaques Ct."
+    "Fromages": [
+      "Haller Adolphe",
+      "Blatti André",
+      "Laiterie modèle, S. A."
     ],
-    "Blanchisseuse-repasseuse.": [
-      "Pahud-Burri Louise"
+    "Fruits (march. de)": [
+      "Feller Ch.",
+      "Minel-Giovanna Ls.",
+      "Rossi-Décaillet Mme."
     ],
-    "Bois (march. de).": [
-      "Addor Charles",
-      "Bornand Edouard",
-      "Jaccard Louis"
+    "Fumistes": [
+      "Deantoni Pierre",
+      "Ghisoli Jean",
+      "Leutwyler Reinbert"
+    ],
+    "Galoches (bois de)": [
+      "Genillard & Cie"
+    ],
+    "Garde forestier": [
+      "Bonzon Henri"
+    ],
+    "Géomètre breveté": [
+      "Chauvy H."
+    ],
+    "Gérance et vente d'immeubles": [
+      "Borel E. et fils",
+      "Genet Edouard",
+      "Jacot W.",
+      "Paillard",
+      "Jaquenod"
+    ],
+    "Gypsiers et peintres en bâtiments": [
+      "Deantoni P.",
+      "Delvecchio Paula",
+      "May-Martin M.",
+      "Perracini E.",
+      "Vicario B.",
+      "Zeiter Albert"
+    ],
+    "Hongreur": [
+      "Pittier Alfred"
+    ],
+    "Horlogers": [
+      "Glanzmann Joseph",
+      "Rossel-Aguet Werner-Henri"
+    ],
+    "Horticulteurs": [
+      "Annen Jules",
+      "Du bois Chs.",
+      "Feller Ch., père et fils",
+      "Richard P."
+    ],
+    "Hôtels et pensions": [
+      "Grand-Hôtel de Bex et Etablissement Thermal (Grand-Hôtel des Bains)",
+      "Köhler Paul",
+      "Grand Hôtel des Salines et du Golf",
+      "Hôtel-de-Ville",
+      "Butzberger J. T.",
+      "Hôtel-Pension de la Villa des Bains",
+      "Le Soldat, Louise",
+      "Herren Albert",
+      "Hôtel Central-Logis",
+      "Anex Jean",
+      "Hôtel de l'Union",
+      "Kohler Jules-Henri",
+      "Hôtel des Alpes",
+      "Rickert Mathilde",
+      "Pension Deslex"
+    ],
+    "Imprimeurs": [
+      "Bach Frédéric"
+    ],
+    "Infirmerie de Bex": [
+      "Chollet Olga"
+    ],
+    "Ingénieurs": [
+      "Chevalley Emmanuel",
+      "Michaud Char"
     ]
   }
 }

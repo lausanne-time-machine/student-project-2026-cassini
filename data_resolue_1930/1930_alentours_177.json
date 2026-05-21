@@ -1,232 +1,120 @@
 {
-  "PENEY-LE-JORAT": {
-    "Agriculteurs.": [
-      "Chappuis Fernand",
-      "Chappuis frères",
-      "Chappuis Henri",
-      "Delessert John",
-      "Delessert Luc.",
-      "Gavillet Adrien",
-      "Gavillet Alfred",
-      "Gavillet César",
-      "Gavillet C.-Hri",
-      "Gavillet Eugène et René",
-      "Gavillet Henri-Emmanuel",
-      "Gavillet J.-A.",
-      "Gavillet Jean",
-      "Gavillet Louis",
-      "Gavillet Louise",
-      "Gavillet Luc",
-      "Gavillet Oscar",
-      "Gavillet Susanne",
-      "Fivaz Edouard",
-      "Gilliéron Alois",
-      "Jaton Auguste",
-      "Jaton Constant",
-      "Rod Emile",
-      "Rod Robert",
-      "Sauvageat Henri",
-      "Viret Gustave",
-      "Wermuth Fritz"
+  "Moudon": {
+    "Marbriers": [
+      "Faucherre Henri"
     ],
-    "Assurance-vieillesse.": [
-      "Société mutualiste de retraite",
-      "Germond, Louis"
+    "Maréchaux": [
+      "Golay Louis",
+      "Herzog Christian",
+      "Dutoit Ernest"
     ],
-    "Aubergiste.": [
-      "Chappuis Henri"
+    "Massages": [
+      "Pape L., dame"
     ],
-    "Chaussures (mag. de).": [
-      "Gavillet A. T."
+    "Matériaux de construction": [
+      "Dalioli Ernest",
+      "Delmatti & fils",
+      "Protti Victor"
     ],
-    "Commission scolaire.": [
-      "Viret Gustave",
-      "Jaton Roger"
+    "Mécaniciens": [
+      "Dutoit Ernest",
+      "Herzog Christian",
+      "Steck Louis"
     ],
-    "Cordonnier.": [
-      "Stoll Jean"
+    "Médecins": [
+      "Guex Louis",
+      "Mack Jean",
+      "Payot Francis"
     ],
-    "Entrepreneur.": [
-      "Pezzani Fréd."
+    "Menuisiers": [
+      "Charpilloz Albert",
+      "Eichenberger Otto",
+      "Fléchelle Henri",
+      "Ricca Elise",
+      "PARQUETERIE D'AIGLE"
     ],
-    "Epicerie, mercerie.": [
-      "Gavillet Emma"
+    "Mercerie": [
+      "Braillard Rose",
+      "Bettex-Pahud Elise",
+      "Déglon Marthe",
+      "Desmeules Alphonse",
+      "Faucherre-Domenjoz Clara",
+      "Fivaz G.",
+      "Pache Louis",
+      "Pittet Eugène"
     ],
-    "Inspecteur du bétail.": [
-      "Delessert Lucien"
+    "Meubles (march. de)": [
+      "Eichenberger Otto",
+      "Müller Jean",
+      "Pahud Armand"
     ],
-    "Instituteurs.": [
-      "Germond Louis",
-      "Riser Marie"
+    "Meuniers": [
+      "Aubert William",
+      "Baillif Jaques",
+      "Moulin agricole Moudon, S. A."
     ],
-    "Laitier.": [
-      "Jaton Auguste"
+    "Modistes": [
+      "Debétaz Jeanne",
+      "Martinetti Rose",
+      "Pape, dame"
     ],
-    "Maréchal.": [
-      "Richard Ulysse"
+    "Musique (professeur de)": [
+      "Eichenberger Elisabeth"
     ],
-    "Menuisiers.": [
-      "Viret Ernest",
-      "Viret Gustave"
+    "Notaires": [
+      "Becholey Eugène",
+      "Ducret & Vacheron",
+      "Emery Fernand"
     ],
-    "Meunier.": [
-      "Moulin agricole"
+    "Officier d'état-civil": [
+      "Grec Henri"
     ],
-    "Pasteur.": [
-      "Vittoz Jean"
+    "Opticien": [
+      "Doriot Hilaire-Ch."
     ],
-    "Sociétés.": [
-      "du battoir à blé",
-      "de fromagerie",
-      "Syndicat d'élevage de l'espèce bovine",
-      "Syndicat d'élevage de l'espèce porcine"
+    "Pasteurs": [
+      "Baroni Victor",
+      "Thilo Ernest",
+      "Burnier Jean"
     ],
-    "Téléphone.": [
-      "Gavillet Aline"
-    ]
-  },
-  "LA ROGIVUE": {
-    "Autorités communales.": [
-      "Cusin Henri",
-      "Félix-Borel Samuel"
+    "Pâtissiers": [
+      "Clot Henri",
+      "Cossy Charles",
+      "Chuat. A.",
+      "Dänzer Samuel",
+      "Luginbühl E.",
+      "Hofmann E.",
+      "Voruz Charles",
+      "Voruz, Veuve"
     ],
-    "Syndic.": [
-      "Dovat Ami"
+    "Pêcheur": [
+      "Pidoux Emile"
     ],
-    "Municipaux.": [
-      "Félix Dav.",
-      "Chollet Albert",
-      "Félix Samuel",
-      "Félix Paul"
+    "Pension alimentaire": [
+      "Guillet, dame",
+      "La Gerbe de Blé, Décosterd",
+      "Voruz Ernest"
     ],
-    "Agriculteurs.": [
-      "Chollet Albert",
-      "Cusin Henri",
-      "Dovat Ami",
-      "Félix David",
-      "Félix Henri",
-      "Félix Louis",
-      "Félix Paul",
-      "Félix Rosine",
-      "Félix Samuel",
-      "Félix Samuel",
-      "Félix Sophie",
-      "Meyer Frères"
+    "Pension de demoiselles": [
+      "Ruch Vve de Henri"
     ],
-    "Commission scolaire.": [
-      "Mounoud",
-      "Félix David"
+    "Pharmaciens": [
+      "Pharmacie Moudonnoise, S. A.",
+      "Feihl Willy"
     ],
-    "Epicerie. mercerie.": [
-      "Meyer Elise"
+    "Photographie": [
+      "Cherpillod Albert",
+      "Trolliet Ernest"
     ],
-    "Inspecteur du bétail.": [
-      "Félix David"
-    ],
-    "Institutrice.": [
-      "Bissat Clara"
-    ],
-    "Société.": [
-      "de fromagerie"
-    ],
-    "Téléphoniste.": [
-      "Meyer Elise"
-    ]
-  },
-  "ROPRAZ": {
-    "Autorités communales.": [
-      "Desmeules Jean",
-      "Rod Henri"
-    ],
-    "Syndic.": [
-      "Desmeules Emile"
-    ],
-    "Municipaux.": [
-      "Rod Henri-Alexis",
-      "Gilliéron Justin",
-      "Rod Jules",
-      "Desmeules Jules",
-      "Jaquier Henri",
-      "Gilliéron Marius"
-    ],
-    "Agriculteurs.": [
-      "Chappuis Lucien",
-      "Desmeules Henri",
-      "Desmeules Jules",
-      "Desmeules Emile",
-      "Desmeules Jean",
-      "Detrey Ami",
-      "Dubois John",
-      "Ecoffey Henri",
-      "Freymond Ernest",
-      "Gilliéron Constant",
-      "Gilliéron Edouard",
-      "Gilliéron Gustave",
-      "Gilliéron Henri",
-      "Jaunin Constant",
-      "Jaunin Ernest",
-      "Jaquier Henri",
-      "Loup Jules",
-      "Rod Henri",
-      "Rod John",
-      "Rod Henri",
-      "Rod Henri",
-      "Rod Walther",
-      "Rod Ulysse",
-      "Rod-Rouge Emile",
-      "Witz Ernest"
-    ],
-    "Assurance-vieillesse.": [
-      "Mutualité scolaire de retraite",
-      "Perroud E."
-    ],
-    "Auberges.": [
-      "Cavin Rosa",
-      "Gilliéron frères",
-      "Porchet Félix"
-    ],
-    "Bois (comm. de).": [
-      "Gabella frères"
-    ],
-    "Commission scolaire.": [
-      "Rod William.",
-      "Desmeules Robert",
-      "Rod Henri-Alexis"
-    ],
-    "Couturière.": [
-      "Porchet Aloïse"
-    ],
-    "Entreprise de drainage.": [
-      "Loup Jules"
-    ],
-    "Epicerie.": [
-      "Gilliéron Gustave"
-    ],
-    "Inspecteur du bétail.": [
-      "Gilliéron Hri"
-    ],
-    "Instituteurs.": [
-      "Perroud Edmond",
-      "Nicolas Marianne"
-    ],
-    "Laitier.": [
-      "Jaton Auguste"
-    ],
-    "Maréchaux.": [
-      "Porchet Camille",
-      "Porchet Eugène"
-    ],
-    "Meunier.": [
-      "Stücky Alfred"
-    ],
-    "Pensions-famille.": [
-      "Cavin-Gilliéron Louis",
-      "Ruchdeschel Constance"
-    ],
-    "Sociétés.": [
-      "de fromagerie",
-      "Militaire de Ropraz",
-      "de tir aux armes de guerre"
+    "Pierristes": [
+      "Briod-Thonney André",
+      "Caffi Richard",
+      "Mérina, S. A.",
+      "Pinferetti F.",
+      "Pidoux Emile",
+      "Percerie, S. A.",
+      "Righini A.",
+      "Sueur Charles"
     ]
   }
 }

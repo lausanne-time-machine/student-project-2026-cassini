@@ -1,249 +1,94 @@
 {
-  "DAILLENS": {
-    "Autorités communales": [
-      "Devenoge Frs",
-      "Berthoud Lucien"
+  "MONTREUX": {
+    "Hôtels et Pensions": [
+      "Scotch Tea Room",
+      "Sorbiers (les)",
+      "Sonloup (Hôtel de)",
+      "Splendid Hôtel",
+      "Sports (H. des)",
+      "Terrasses",
+      "Terminus, H.",
+      "Tonhalle, Hôtel-rest.",
+      "Trummer, Dlles. P.",
+      "Valmont sur Territet",
+      "Valsainte (la)",
+      "Verger (Le) P.",
+      "Vernet H.-P.",
+      "Victoria, H., Glion",
+      "Victoria, H., rue de la Gare 23",
+      "Villas Dubochet",
+      "Villa Elisabeth",
+      "Wiesli Caroline",
+      "Windsor H.-P."
     ],
-    "Syndic": [
-      "Gaudin Georges"
+    "Huilerie.": [
+      "Diserens Louis"
     ],
-    "Municipaux": [
-      "Jaquier Maurice",
-      "Neuschwander Robert",
-      "Brocard Aymon",
-      "Viret Marcel"
+    "Huilerie et graisse.": [
+      "Sterns Ltd."
     ],
-    "Boursier": [
-      "Jaquier Maurice"
+    "Importation.": [
+      "D'Oyley. Import syndicate"
     ],
-    "Secrétaire": [
-      "Ueltschi Edouard"
+    "Imprimeries.": [
+      "Cherbuin H.",
+      "Gugelmeier C.",
+      "S. A. des Arts graphiques A. Leyvraz",
+      "Imprimerie moderne, C. Henriod",
+      "Société de l'Imprimerie et Lithographie",
+      "Société de l'Imprimerie Nouvelle, Ch. Corbaz"
     ],
-    "Agriculteurs": [
-      "Brocard Aymon",
-      "Brocard-Cugny Louis",
-      "Brocard-Dupuis Louis",
-      "Brocard Jules",
-      "Brocard frères",
-      "Besson Samuel",
-      "Cugny Albert",
-      "Devenoge Alexandre",
-      "Devenoge François",
-      "Devenoge frères",
-      "Gaudin Georges",
-      "Gaudin Robert",
-      "Jaquier Maurice",
-      "Jaquier, Vve d'Emile",
-      "Neuschwander Henri",
-      "Neuschwander Robert",
-      "Ueltschi Edouard",
-      "Viret Marcel"
+    "Infirmerie.": [
+      "Hôpital de Montreux"
     ],
-    "Assurance-vieillesse": [
-      "Berthoud Lucien"
+    "Infirmiers.": [
+      "Bernard Ls",
+      "Rossi Ernest"
     ],
-    "Café": [
-      "Bohny Charles"
+    "Ingénieurs.": [
+      "Chappuis A.",
+      "Chessex A.",
+      "Du Pasquier Louis",
+      "Imobersteg Georges",
+      "Jaques, Ad.",
+      "Michaud A.",
+      "Nuhout van der Veen",
+      "Pache L.",
+      "Payot",
+      "Rolli Ch.",
+      "Schlaeppi Marc",
+      "Zehnder-Spörry R."
     ],
-    "Commission scolaire": [
-      "Devenoge François",
-      "Devenoge Alexandre",
-      "Viret Marcel"
+    "Inspecteurs du bétail.": [
+      "Cochard Louis fils",
+      "Ducret Louis",
+      "Emery Jules",
+      "Jordan Ernest",
+      "Masson Louis",
+      "Thévenaz Georges",
+      "Vuichoud Louis"
     ],
-    "Epicerie": [
-      "Viret-Besson Marie"
+    "Institut de beauté.": [
+      "Hermann Joséphine"
     ],
-    "Instituteurs": [
-      "Berthoud Lucien",
-      "Mingard Lina"
-    ],
-    "Inspecteur du bétail": [
-      "Brocard Alex"
-    ],
-    "Maréchal": [
-      "Lugeon Henri"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "Syndicat agricole"
-    ],
-    "Téléphoniste": [
-      "Brocard Aymon"
-    ]
-  },
-  "ECLEPENS": {
-    "Autorités communales": [
-      "Fontannaz Ls",
-      "Berger Marc"
-    ],
-    "Syndic": [
-      "Gex François"
-    ],
-    "Municipaux": [
-      "Berger Aimé",
-      "Monnier Charles",
-      "Rochat Charles",
-      "Ogiz Charles",
-      "Gachet Alfred"
-    ],
-    "Secrétaire": [
-      "Chevalier Gustave"
-    ],
-    "Boursier": [
-      "Rochat Constant"
-    ],
-    "Agriculteurs": [
-      "Berger Alfred",
-      "Berger Julien et Aimé",
-      "Gachet frères",
-      "Gex François",
-      "Guex Clément",
-      "Martignier Emile",
-      "Monnier Ch.",
-      "Monnier Félicien",
-      "Monnier Rosine",
-      "Ogiz frères",
-      "Ogiz Hri",
-      "Reymond frères",
-      "Rochat Constant",
-      "Rochat Paul",
-      "Segessenmann Christian",
-      "Vannod Samuel"
-    ],
-    "Amodiateurs": [
-      "Reymond frères"
-    ],
-    "Assurance-vieillesse": [
-      "Vacat"
-    ],
-    "Aubergistes": [
-      "Testori Jean",
-      "Monnier Félicien",
-      "Jaquier Henri"
-    ],
-    "Briqueterie": [
-      "Barraud & Cie"
-    ],
-    "Charron": [
-      "Besse Alphonse"
-    ],
-    "Chef de gare": [
-      "Bersier Emile"
-    ],
-    "Commission scolaire": [
-      "Monnier Ch.",
-      "Rochat Constant",
-      "Fontannaz Louis"
-    ],
-    "Epicerie": [
-      "Fontannaz Louis R.",
-      "Grandjean Henri"
-    ],
-    "Fabrique de draps et milaines": [
-      "Berger Henri"
-    ],
-    "Fours à chaux": [
-      "Barraud Maurice"
-    ],
-    "Ingénieur": [
-      "Dietrich Gustave"
-    ],
-    "Inspecteur du bétail": [
-      "Rochat Const."
-    ],
-    "Instituteurs": [
-      "Gaud Georges",
-      "Marchionini Samuel",
-      "Chave Berthe"
-    ],
-    "Laitier": [
-      "Schwab Robert"
-    ],
-    "Maréchal": [
-      "Corthésy Emile"
-    ],
-    "Moulin": [
-      "Beauverd Constant"
-    ],
-    "Poste": [
-      "Henry Louis"
-    ],
-    "Rentière": [
-      "Zourbroude Eugénie"
-    ],
-    "Scierie": [
-      "Beauverd Constant"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "Syndicat agricole",
-      "Cultures maraîchères"
-    ],
-    "Téléphoniste": [
-      "Jaquier Henri"
-    ],
-    "Vins": [
-      "Reymond frères"
-    ]
-  },
-  "FERREYRES": {
-    "Autorités communales": [
-      "Pingoud Lucien",
-      "Cugny Robert"
-    ],
-    "Syndic": [
-      "Cugny Charles"
-    ],
-    "Municipaux": [
-      "Cugny Léon d'Aug.",
-      "Chaillet Paul",
-      "Pingoud Edouard, fils",
-      "Pingoud Hri. d'Emile"
-    ],
-    "Secrétaire": [
-      "Pingoud Marcel"
-    ],
-    "Boursier": [
-      "Chaillet Paul"
-    ],
-    "Agriculteurs": [
-      "Chaillet Jules",
-      "Collet François",
-      "Cugny Adrien",
-      "Cugny Auguste",
-      "Cugny Aymon",
-      "Cugny Chs",
-      "Cugny Edouard",
-      "Cugny Henri et Ernest",
-      "Cugny Eugène",
-      "Cugny Félix",
-      "Cugny Léon",
-      "Cugny Maurice",
-      "Devenoge Jules",
-      "Lugeon Louis",
-      "Martin Henri",
-      "Pingoud Ed.",
-      "Pingoud Emile",
-      "Pingoud Gustave",
-      "Pingoud Julien",
-      "Thonney Henri"
-    ],
-    "Assurance-vieillesse": [
-      "Auberson J."
-    ],
-    "Battoirs à blé": [
-      "Michaud Charly",
-      "Société du battoir à grains"
-    ],
-    "Cafetier": [
-      "Michaud Louisa"
-    ],
-    "Commission scolaire": [
-      "Cugny Maurice",
-      "Pingoud Lucien"
-    ],
-    "Epicerie": [
-      "Michaud Louisa"
+    "Instituteurs primaires.": [
+      "Chantrens Marcel",
+      "Collet Aug.",
+      "Cuendet André",
+      "Duflon Oscar",
+      "Duruz Louis",
+      "Fankhauser Ed.",
+      "Favez Henri",
+      "Gaillard Ch.",
+      "Gmehlin Henri",
+      "Guignard Jules",
+      "Henchoz Paul",
+      "Jaton Henri",
+      "Jomini Edouard",
+      "Laeser Ernest",
+      "Leyvraz Paul",
+      "Loosli Walter",
+      "Malherbe Louis"
     ]
   }
 }

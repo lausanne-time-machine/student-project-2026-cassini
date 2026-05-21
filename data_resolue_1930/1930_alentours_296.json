@@ -1,91 +1,126 @@
 {
-  "MONTREUX": {
-    "Draperie, nouveautés, etc.": [
-      "Bergien frères",
-      "Brunschwig, Arthur",
-      "Raphaël Julien",
-      "Schmoker-Genoud",
-      "Whitley W."
+  "Ville de Rolle": {
+    "Charcuteries": [
+      "Gay Alfred",
+      "Widmer Ernest"
     ],
-    "Drogueries.": [
-      "Clément Ph.",
-      "Greiner A.",
-      "Légeret O., (S. A.)",
-      "Rumpf, Aubort & Cie",
-      "Séchaud Charles",
-      "Waldburger Ernest"
+    "Charpentiers": [
+      "Burnier Jules",
+      "Haldi A.",
+      "Pittet Paul",
+      "Vionnet Auguste"
     ],
-    "Eaux gazeuses.": [
-      "Boissons Silver-Star, S. A.",
-      "Ducret Henri & fils",
-      "Société des Eaux alcalines"
+    "Charrons": [
+      "Nidecker fils"
     ],
-    "Eaux minérales.": [
-      "Société des eaux minérales alcalines de MONTREUX",
-      "Jeanneret & Cie, S. A."
+    "Chauffage central": [
+      "Ateliers de construction Armand Pahud & Cie."
     ],
-    "Ecole de chauffeurs.": [
-      "Mosimann E."
+    "Chaussures (Magasins de)": [
+      "Burricod Henri",
+      "Gnerro Joseph",
+      "Requerbre Hri, Vve",
+      "Zaninetti-Tonione Antonio"
     ],
-    "Ecoles particulières et Internats.": [
-      "Berlitz (Ecole)",
-      "Châtelard School",
-      "Chillon-Collège",
-      "Dubochet, Mlle.",
-      "English Preparatory School",
-      "Fisher E. C., Miss.",
-      "Jardin d'Enfants, La Crèche.",
-      "Institution des Essarts",
-      "Modern School of Languages",
-      "Gétaz R.",
-      "Mattei Jeanne",
-      "Pensionnat français, Mme Waldner.",
-      "Pilet-Yaux, Le Foyer",
-      "St George's School, Miss Southwell",
-      "Villa Victoria",
-      "Virginia College"
+    "Chef de gare": [
+      "Beauverd L."
     ],
-    "Electriciens.": [
-      "Aubort Charles",
-      "Baeriswyl Paul",
-      "Borloz F. & Ganguillet",
-      "Dunkel E.",
-      "Electro-métallurgique de Montbovon S. A.",
-      "Flogerzi Ch.",
-      "Meyer Max",
-      "Société romande d'électricité",
-      "Talon Gustave",
-      "Turrian Emile",
-      "Vienny Grégoire",
-      "Zosi A."
+    "Chef de section": [
+      "Poste de gendarmerie"
     ],
-    "Engrais": [
-      "Maison Ch. Thévenaz",
-      "Deppen David"
+    "Chiffons (march. de)": [
+      "Cretenaud-Revaz",
+      "Revaz-Coquoz, Vve de F."
     ],
-    "Entrepôts.": [
-      "Francey S. A.",
-      "Allamand Jules"
+    "Cigares et tabacs": [
+      "Bourgeois Jacques",
+      "Demaurex Sam.",
+      "Gabriel Pierre",
+      "Goy Emile",
+      "Grassard",
+      "Imbert Henri",
+      "Josi Fritz",
+      "Macherich Ed.",
+      "Mennard-Margot H.",
+      "Morerod Auguste",
+      "Rochat Paul, Vve",
+      "Sauvain Georges"
     ],
-    "Entrepreneurs.": [
-      "Bonfantini J.",
-      "Chevalley E. & Schira Victor",
-      "Chollet et Staehelin",
-      "Colombo Alb.",
-      "Felli Lucien",
-      "Felli & Biasini",
-      "Giovanoni Edouard.",
-      "Guenzi & Rambert",
-      "Liebhauser Ernest",
-      "Lilla Angel",
-      "Manini Ls",
-      "Merrini & Varetta",
-      "Montet Jean & Calvi",
-      "Pizzo Jean",
-      "Rasca Aug.",
-      "Reich Adolphe",
-      "Righetti frères",
-      "Rima-Rossire L."
+    "Coiffeurs. coiffeuses.": [
+      "Bourgeois Jacques",
+      "Dumuse Charlotte",
+      "Grassard",
+      "Imbert-Vandroz Georges",
+      "Imbert Henri",
+      "Rochat, Vve de Paul"
+    ],
+    "Colonie des femmes.": [
+      "Une diaconesse"
+    ],
+    "Combustibles": [
+      "Armand Pahud & Cie",
+      "Métral Louis",
+      "Vionnet Auguste"
+    ],
+    "Commission scolaire.": [
+      "Aubert Franck.",
+      "Cerez Georges",
+      "Ceresole Gustave.",
+      "Delafoge Ami.",
+      "Gay John.",
+      "Peter William",
+      "Palud Armand.",
+      "Chêne Charles."
+    ],
+    "Confections.": [
+      "Ballif J.",
+      "Delapierre Samuel",
+      "Divorne Esther",
+      "Duret Marcel",
+      "Girardet Ernest",
+      "Patthey Edmond."
+    ],
+    "Cordonniers.": [
+      "Birrer Joseph",
+      "Briod Georges",
+      "Burricod Henri",
+      "Déruaz Jules",
+      "Gnerro Joseph",
+      "Perotti André",
+      "Roquerbre Henri.",
+      "Zaninetti-Tonione Antonio"
+    ],
+    "Courtepointière.": [
+      "Favre Henri.",
+      "Huguenin Hélène."
+    ],
+    "Courtiers en vins.": [
+      "Batzli G.",
+      "Lichtensteiger & Cie.",
+      "Schenk & Cie (S. A.)"
+    ],
+    "Couturières.": [
+      "Duret, Vve de Maurice.",
+      "Grosjean Augusta.",
+      "Maibach, dame",
+      "Rey Rose",
+      "Roch, Mlles",
+      "Trinkard Eugénie",
+      "Widmayer Marguerite."
+    ],
+    "Couveuses artificielles.": [
+      "Mottaz Julien."
+    ],
+    "Curé.": [
+      "Corminbœuf"
+    ],
+    "Dentiste.": [
+      "Corthay Léon."
+    ],
+    "Draperie.": [
+      "Delapierre Samuel",
+      "Duret Marcel",
+      "Girardet Ernest"
     ]
   }
 }

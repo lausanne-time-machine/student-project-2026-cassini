@@ -1,188 +1,260 @@
 {
-  "VILLE DE GRANDSON": {
-    "Charpentiers": [
-      "Cavin & Candaux"
+  "CHAVANNES-LE-CHÊNE": {
+    "Municipaux": [
+      "Cavin Charles",
+      "Baula Charles",
+      "Fivat Henri",
+      "Walker Albert",
+      "Breux Alfred",
+      "Michoud Ernest",
+      "Chevalley Henri"
     ],
-    "Chaudronnier": [
-      "Colomb Ami"
+    "Agriculteurs": [
+      "Baatard Louis",
+      "Breux Charles, hoirs",
+      "Breitenstein Ulysse",
+      "Chevalley Ernest",
+      "Cavin Charles",
+      "Chevalley Aloïs",
+      "Chevalley Alph.",
+      "Chevalley Henri",
+      "Crausaz Paul",
+      "Frey Jacob",
+      "Gilliand Louis",
+      "Gottraux Ernest",
+      "Gottraux Herbert",
+      "Gudit John",
+      "Kaltenried Benoît",
+      "Leubaz Louis",
+      "Mercier frères",
+      "Michoud Ele",
+      "Michoud Frédéric",
+      "Michoud, hoirie de Julien",
+      "Michoud, hoirie de Jules",
+      "Pitton Béat",
+      "Pochon Aimé",
+      "Pochon Ul.",
+      "Rebaud Ami",
+      "Saugy Emile",
+      "Schertenleib A.",
+      "Walker Albert"
     ],
-    "Chaussures (march. de)": [
-      "Ballis Ch.",
-      "Suter Emile"
+    "Assesseur": [
+      "Gottraux Herbert"
     ],
-    "Chef de gare": [
-      "Matthey Emile"
+    "Aubergistes": [
+      "Crausaz Paul",
+      "Gallandat Emma"
+    ],
+    "Bétail (march. de)": [
+      "Saugy Emile"
+    ],
+    "Boulanger": [
+      "Gottraux Marcel"
+    ],
+    "Cantonnier": [
+      "Potterat Auguste"
+    ],
+    "Charpentiers-menuisiers": [
+      "Baula Ernest",
+      "Michoud Gust.",
+      "Perrin E."
+    ],
+    "Charron": [
+      "Hostettler Antoine"
     ],
     "Chef de section": [
-      "Cand Frédéric"
-    ],
-    "Cigares et tabacs en gros": [
-      "S.A. Henri Simon fils",
-      "Schindler Werner",
-      "Walter frères S. A. (gros)"
-    ],
-    "Cigares et tabacs (fabrique de)": [
-      "S. A. Vautier frères & Cie"
-    ],
-    "Cire à cacheter (fab. de)": [
-      "Pilet & Piaget"
-    ],
-    "Coiffeurs": [
-      "Pavid-Leuenberger Marie",
-      "Sehmann Charles"
-    ],
-    "Combustibles": [
-      "Cand frères",
-      "Landi Paul"
+      "Delay Paul"
     ],
     "Commission scolaire": [
-      "Strehl Ernest",
-      "de Blonay G.",
-      "Schwaar Fernand",
-      "Ischy Emile",
-      "Crosasso Jean",
-      "Bidlingmayer Jules",
-      "Walter Eugène",
-      "Cand Frédéric"
+      "Pochon Aimé",
+      "Gottraux Herbert",
+      "Barblan",
+      "Cavin Charles",
+      "Gottraux Marcel"
     ],
-    "Confections": [
-      "Buchmann Rodolphe",
-      "Kiener Fanny"
+    "Cordonnier": [
+      "Perret Louis"
     ],
-    "Cordonniers": [
-      "Ballis Charles",
-      "Sutter Emile"
+    "Droguerie": [
+      "Gudit John"
     ],
-    "Couvreurs": [
-      "Cochand Fernand",
-      "Mermillod Laurent"
+    "Entrepreneur": [
+      "Michoud Ls"
     ],
-    "Electricité": [
-      "Société de l'usine des Clées",
-      "Mottaz Jules"
+    "Epicerie, mercerie": [
+      "Mayor Henri",
+      "Thuillard Adèle"
     ],
-    "Entrepreneurs": [
-      "Ballerini Michel et Albert fils",
-      "Cavin & Candaux",
-      "Faesch Serge",
-      "Ortelli Baptiste",
-      "Walther Fernand"
+    "Infirmière": [
+      "Perrin Louisa"
     ],
-    "Epiceries": [
-      "Capt Denis",
-      "Centlivres Ami",
-      "Colomb Fernand",
-      "Denger Gottfried",
-      "Dubois Bertha",
-      "Henrioud Emile",
-      "Cochet Louisa",
-      "Kaeser Félix",
-      "Ledermann Elise",
-      "Petitpierre Chs., S. A.",
-      "Roulet Louise",
-      "Société yverdonnoise de consommation",
-      "Wagnières Octave"
-    ],
-    "Etoffes": [
-      "Buchmann Rod.",
-      "Denger Gott.",
-      "Kiener Fanny"
-    ],
-    "Ferblantier": [
-      "Morisetti Angelo"
-    ],
-    "Fers (march. de)": [
-      "Glardon Alfred"
-    ],
-    "Fromages": [
-      "Boulaz Georges",
-      "Bulliard Raymond"
-    ],
-    "Géomètre": [
-      "Meige P."
-    ],
-    "Gérance de rentiers": [
-      "Crosasso Jean",
-      "Duvoisin Léon",
-      "Michaud François-Louis"
-    ],
-    "Graisse industrielle, poix": [
-      "Pilet & Piaget"
-    ],
-    "Gypsiers": [
-      "Ballerini Albert fils",
-      "Pozzi Baptiste",
-      "Walther Fernand"
-    ],
-    "Hongreur": [
-      "Fankhauser Jules"
-    ],
-    "Horloger-bijoutier": [
-      "Miéville Eug."
-    ],
-    "Hôtels": [
-      "Guggisberg O.",
-      "Mohler Adolphe",
-      "Wacker Ami"
-    ],
-    "Imprimeur": [
-      "Cavin & Cie"
-    ],
-    "Inspecteur des boucheries": [
-      "Charbon Hector"
-    ],
-    "Inspecteurs du bétail": [
-      "Pantet Charles",
-      "Wacker Ami"
-    ],
-    "Inspecteur forestier": [
-      "Massy C."
-    ],
-    "Institut de jeunes filles": [
-      "Schwaar Fernand"
+    "Inspecteur du bétail": [
+      "Pochon Aimé"
     ],
     "Instituteurs": [
-      "Jan Ern.",
-      "Rossier Ulysse",
-      "Sénéchaud Marcel",
-      "Giroud Valentine",
-      "Walter Marie-Louise",
-      "Berthoud Marthe",
-      "Jan Germaine"
-    ],
-    "Jardiniers": [
-      "Francfort Louis",
-      "Girod Arnold",
-      "Matthey Roger"
-    ],
-    "Justice de paix du cercle": [
-      "Mayor Arnold",
-      "Banderet Charles",
-      "Maulaz Jules",
-      "Ingilby Henri",
-      "Compondu Aimé",
-      "Crosasso Jean"
-    ],
-    "Laitier": [
-      "Boulaz Georges"
+      "Maibach Albert",
+      "Gottraux Elisabeth"
     ],
     "Lingères": [
-      "Berger-Studer Rosa",
-      "Guilloud Emma"
+      "Gatolliat L.",
+      "Tellenbach-Magnin"
     ],
-    "Machines à coudre": [
-      "Glardon Alfred"
+    "Maçon": [
+      "Guillet Gustave"
     ],
-    "Maçons": [
-      "Ballerini Michel et Alb.",
-      "Faesch Serges",
-      "Ortelli Baptiste"
+    "Maréchal": [
+      "Pitton Maurice"
     ],
-    "Maréchaux": [
-      "Borgeaud Ch."
+    "Rentiers": [
+      "Chevalley Alphonse",
+      "Curchod Emile",
+      "Pochon Constant"
     ],
-    "Matériaux de constructions": [
-      "Cavin frères"
+    "Représentant": [
+      "Gudit John"
+    ],
+    "Sociétés": [
+      "Immobilière",
+      "de fromagerie",
+      "du battoir",
+      "de chant",
+      "Section de la Croix-Bleue",
+      "de jeunesse",
+      "de tir"
+    ],
+    "Tailleuse": [
+      "Michoud Méry"
+    ],
+    "Téléphoniste": [
+      "Gallandat Emma"
+    ],
+    "Vins": [
+      "Chevalley Alphonse"
+    ]
+  },
+  "CHENE-ET-PAQUIER": {
+    "Autorités communales": [
+      "Centlivres Ed.",
+      "Bally Alfred",
+      "Guillet Ulysse",
+      "Pochon Charles",
+      "Pochon Daniel",
+      "Centlivres Lucien",
+      "Chevalley Elie",
+      "Bally Constant",
+      "Pochon Auguste"
+    ],
+    "Agriculteurs": [
+      "Annen Julien",
+      "Bally Alfred",
+      "Bally Constant",
+      "Bignens Arnold",
+      "Bourgeois Jules",
+      "Cavin Julien",
+      "Centlivres Constant",
+      "Centlivres Edouard",
+      "Centlivres Lucien",
+      "Chevalley Elie",
+      "Crausaz Emile",
+      "Fawer Alfred",
+      "Guex Olympe",
+      "Guillet Aimé",
+      "Palud Jules",
+      "Pochon Auguste",
+      "Pochon Charles",
+      "Pochon Daniel",
+      "Pochon Louis",
+      "Pochon Louise",
+      "Pochon Nancy",
+      "Weber Gottfr."
+    ],
+    "Café": [
+      "Centlivres Edouard"
+    ],
+    "Charron": [
+      "Guillet Ulysse"
+    ],
+    "Commission scolaire": [
+      "Barblan Louis",
+      "Pochon Charles",
+      "Bally Const."
+    ],
+    "Cordonnier": [
+      "Centlivres Jean"
+    ],
+    "Charpentier": [
+      "Bourgeois Samuel"
+    ],
+    "Epicerie": [
+      "Bally Ernest"
+    ],
+    "Hongreur": [
+      "Pochon Emile"
+    ],
+    "Inspect. du bétail": [
+      "Pochon Julien"
+    ],
+    "Instituteurs": [
+      "Tenthorey Gilbert",
+      "Baatard-Dallinges Jeanne"
+    ],
+    "Pasteur": [
+      "Barblan Louis"
+    ],
+    "Poste": [
+      "Centlivres Constant"
+    ],
+    "Sage-femme": [
+      "Diserens Berthe"
+    ],
+    "Scieur": [
+      "Corbaz Gustave"
+    ],
+    "Société": [
+      "de fromagerie"
+    ],
+    "Téléphoniste": [
+      "Cavin William"
+    ]
+  },
+  "CHESEAUX-NOREAZ": {
+    "Autorités communales": [
+      "Lambelet Henri",
+      "Hofer André",
+      "Gasser Jules",
+      "Collet Henri",
+      "Marendaz Georges",
+      "Perrin Louis",
+      "Auberson Henri",
+      "Marendaz Georges fils",
+      "Collet John"
+    ],
+    "Agriculteurs": [
+      "Bloesch frères",
+      "Carrard frères",
+      "Collet Henri",
+      "du Bois Maurice",
+      "Beauverd Emma",
+      "Gasser Jules",
+      "Glauser Anna",
+      "Hofer Chs",
+      "Lambelet Hri",
+      "Marendaz Georges",
+      "Matthey Frédéric",
+      "Muller Jean",
+      "Perrin Louis",
+      "Schneider frères",
+      "Schmidt Rodolphe",
+      "Staudenmann Jean"
+    ],
+    "Apiculture (articles d')": [
+      "Muller & fils"
+    ],
+    "Commission scolaire": [
+      "Droz",
+      "Marendaz Georges",
+      "Lambelet Henri"
     ]
   }
 }

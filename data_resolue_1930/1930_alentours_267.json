@@ -1,228 +1,113 @@
 {
-  "APPLES": {
-    "Divers.": [
-      "lière. R.",
-      "Musique Echo du Chêne.",
-      "Electrique d'Aubonne",
-      "Girod Olivier",
-      "Vignes d'Aubonne. R.",
-      "Section de la Croix-Bleue",
-      "Cercle de l'Amitié. R.",
-      "La Chorale",
-      "gymn. hommes et gymn. Fédérale",
-      "Chêne Foot-Ball Club",
-      "Syndicat d'élevage. R.",
-      "Bains publics. R.",
-      "Chœur de dames",
-      "Bretagne Marc-Antoine",
-      "Burnet C.",
-      "Burnet F.",
-      "Chomton Olivier",
-      "Crinsoz, Vve d'E.",
-      "de Mestral Henri",
-      "Gavre Aug.",
-      "Félix Eug.",
-      "Liardet Lina, Veuve",
-      "Magnenat Louis",
-      "Moënnat Henri",
-      "Moinat Ch.",
-      "Rochat Paul",
-      "de Tscharner Elisa",
-      "Vautier Alfred",
-      "Zimmer Emma"
+  "Ville de Payerne": {
+    "Garage": [
+      "Ischy-Savary Ls."
     ],
-    "Tabacs et cigares.": [
-      "Cruchon Alfred",
-      "Chappuis Robert. T.",
-      "Dallenbach Théophile",
-      "Frey-Grosjean Olive",
-      "Lincio Alfred. T.",
-      "Magnenat Gustave",
-      "Martin André. RT.",
-      "Mermoud Gustave. RT.",
-      "Matthey-Stuber Berthe",
-      "Pellet Judith",
-      "Perrin Charles",
-      "Tardy Marie",
-      "Uldry Ad. RT.",
-      "Waridel Pierre. RT. 61."
+    "Gaz": [
+      "Entreprises électriques fribourgeoises"
     ],
-    "Tailleurs.": [
-      "Cœndoz Louis",
-      "Delapierre Jules",
-      "Surbeck J., Vve."
+    "Géomètre": [
+      "Nicod Louis"
     ],
-    "Tapissiers.": [
-      "Caillet Jules",
-      "Hugonnet A.",
-      "Metzner-Junod. R."
+    "Graines fourragères et potagères": [
+      "Addor Frédéric",
+      "Brouty Gustave",
+      "Cuérel Auguste",
+      "Favre Jules",
+      "Fischer A.",
+      "Genier Adrien",
+      "Germond Henri",
+      "Hürst Jean",
+      "Mauron Louis",
+      "Perrin Fernand",
+      "Siegenthaler E.",
+      "Vonnez-Bieder Arnold"
     ],
-    "Télégraphiste.": [
-      "Daxelhofer Octavie. T."
+    "Gérances diverses": [
+      "Nicod Ernest",
+      "Treyvaud Marcel"
     ],
-    "Toilerie et tissus.": [
-      "Agassis-Rochat E. R.",
-      "Nerfin Paul. RT."
+    "Gypsiers": [
+      "Bertolini Jean",
+      "Buache-Jomini Alb.",
+      "Fabbroni Auguste",
+      "Frigerio Pierre",
+      "Heer Adolphe & ses fils",
+      "Marucco-Monney A.",
+      "Repetti J. & Cie",
+      "Rossi frères",
+      "Savary Alfred fils",
+      "Schneider Emile",
+      "Tettamenti Ernest"
     ],
-    "Tonneliers.": [
-      "Lædermann Alexis",
-      "Serex Louis",
-      "Winkelmann Emile."
+    "Horlogers": [
+      "Blankart Gustave",
+      "Doudin Ernest",
+      "Rapin Alfred"
     ],
-    "Vélocipèdes.": [
-      "Cuendet D. R.",
-      "Durussel Georges",
-      "Wehrly Jn. T"
+    "Horticulteurs-jardiniers": [
+      "Addor Frédéric",
+      "Hürst Johann",
+      "Mauron Louis",
+      "Vonnez Arnold"
     ],
-    "Vétérinaire.": [
-      "Trottet Etienne. T."
+    "Hôtels": [
+      "Heinemann Adolphe",
+      "Bösiger-Winkler, dame",
+      "Bourqui Joseph"
     ],
-    "Vins (nég. en).": [
-      "Association viticole",
-      "Favre Auguste. R.",
-      "Loup Ls"
+    "Huileries": [
+      "Rapin",
+      "Savary Oscar"
     ],
-    "Voituriers.": [
-      "Chevalier F. RT."
+    "Imprimeurs": [
+      "Beaufils Albert",
+      "Doudin-Bonzani Thérèse-Jeanne",
+      "Tenthorey frères"
     ],
-    "Autorités communales.": [
-      "Besson Jaques. T.",
-      "Nicod Edouard.",
-      "Decollogny-Paschoud Henri. T.",
-      "Decollogny Robert",
-      "Meldem Jules",
-      "Baud Fernand",
-      "Fazan Henri.",
-      "Pantet Alfred",
-      "Jotterand Ls"
+    "Infirmerie": [
+      "Infirmerie de la Broye"
     ],
-    "Agriculteurs.": [
-      "Baud Ch. T.",
-      "Baud Louis. T.",
-      "Besson Adrien. T.",
-      "Bourcoud Emile",
-      "Cochet Adrien",
-      "Cochet John",
-      "Champendal Hri",
-      "Decollogny Samuel",
-      "Devenoge frères",
-      "Dubois Ch.",
-      "Dubois Jules",
-      "Fazan Ed. T.",
-      "Fazan Henri",
-      "Fazan Maurice",
-      "Fazan Robert",
-      "Goy Constant",
-      "Lüthy Gottlob",
-      "Mingard Charles",
-      "Meldem frères",
-      "Oeschli Gottfried",
-      "Rochat frères."
+    "Ingénieur": [
+      "Werndli"
     ],
-    "Apiculteurs.": [
-      "Amaron Alois. T.",
-      "Baud William",
-      "Besson Adrien. T.",
-      "Besson Jacq. T.",
-      "Decollogny Henri",
-      "Delessert Ami",
-      "Henriod L. fils. T.",
-      "Zwahlen Ed."
+    "Insecticides": [
+      "Frossard J. & Co., S. A."
     ],
-    "Appareilleurs.": [
-      "Carlin Désiré. RT.",
-      "Estoppey-Marti Vict. RT.",
-      "Rochat John."
+    "Inspecteurs du bétail": [
+      "Guggi Adolphe",
+      "Jan-Ryser Gustave"
     ],
-    "Architecte.": [
-      "Hepp C. T."
+    "Inspecteur forestier": [
+      "Bornand Jules"
     ],
-    "Assurance-vieillesse Associations mutualistes de retraite.": [
-      "Nicod E."
+    "Installateur T. S. F.": [
+      "Grivaz Ed."
     ],
-    "Aubergistes.": [
-      "Cavin-Vallon Aimé. R.",
-      "Fazan-Hirschy A."
+    "Institut de jeunes gens": [
+      "Institut Jomini"
     ],
-    "Boulanger": [
-      "Delacrétaz Henri."
+    "Instituteurs primaires": [
+      "Cartier Charles",
+      "Golliez Jaques",
+      "Grobéty Henri",
+      "Jaques Camille",
+      "Kaenel Louis",
+      "Müller Henri",
+      "Loup Maurice"
     ],
-    "Buraliste postal.": [
-      "Henchoz Victor."
-    ],
-    "Cantonnier.": [
-      "Demont Marcel."
-    ],
-    "Charpentier-menuisier.": [
-      "Jotterand Louis. RT."
-    ],
-    "Charrons.": [
-      "Decollogny Alfred",
-      "Henriod Louis, fils."
-    ],
-    "Chaussures (march. de).": [
-      "Bourcoud M. T.",
-      "David Adalbert. T.",
-      "Lassueur W., Mme. RT."
-    ],
-    "Chef de gare.": [
-      "Delessert Ami."
-    ],
-    "Chef d'exploitation du B.-A.-M.": [
-      "Groux Emile. T."
-    ],
-    "Chef de section.": [
-      "Baud Charles. T."
-    ],
-    "Commission scolaire.": [
-      "Barblan",
-      "Fazan Maurice",
-      "Fazan Ed. T.",
-      "Meldem Jules",
-      "Groux Emile. T."
-    ],
-    "Cordier.": [
-      "Meldem Adrien."
-    ],
-    "Cordonnier.": [
-      "Oeschli Gottfried."
-    ],
-    "Entrepreneurs.": [
-      "Mazzone Jean. T.",
-      "Méda Clément."
-    ],
-    "Epicerie, mercerie, tabacs.": [
-      "Bourcoud Marcel. RT.",
-      "David Adalbert. RT.",
-      "Lassueur W., Mme. R."
-    ],
-    "Ferblantiers.": [
-      "Carlin Désiré. RT."
-    ],
-    "Fromages.": [
-      "Société de fromagerie d'Apples. R."
-    ],
-    "Gardes-forestiers.": [
-      "Besson Adrien. T.",
-      "Besson Jacques. T."
-    ],
-    "Gypsier.": [
-      "Gnerro Emile."
-    ],
-    "Imprimerie.": [
-      "Clerc Julie."
-    ],
-    "Inspecteur du bétail.": [
-      "Cochet John."
-    ],
-    "Instituteurs.": [
-      "Bourcoud Madame",
-      "Nicod Edouard",
-      "Nicod-Chantrens Germaine",
-      "Zwahlen Ed."
-    ],
-    "Machines à battre.": [
-      "Syndicat agricole d'Apples."
+    "Institutrices primaires": [
+      "Bardet Marguerite",
+      "ool-Perrin Emma",
+      "Bovey, dame",
+      "Brélaz-Burnod Marie",
+      "Caille Jeanne",
+      "Chapuis-Ruch Mathilde",
+      "Cornu Hélène",
+      "Fassnacht-Golaz Marie",
+      "Rollier Jeanne-Marie",
+      "Vonviller Isabelle",
+      "Walther Marie-Louise"
     ]
   }
 }

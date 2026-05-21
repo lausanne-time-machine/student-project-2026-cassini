@@ -1,122 +1,101 @@
 {
-  "VILLE D'YVERDON": {
-    "Imprimeurs": [
-      "Société du Journal d'Yverdon",
-      "Studer Ernest"
+  "Ville de Vevey": {
+    "Opticiens.": [
+      "Chaudessolle M.",
+      "Fransioli Joseph",
+      "Gascard A."
     ],
-    "Ingénieurs.": [
-      "Ellgass Georges",
-      "Guillemin Georges",
-      "Isenegger Armand",
-      "König Albert",
-      "Peter Charles",
-      "Verdan Edouard"
+    "Orfèvres.": [
+      "Dick Charles",
+      "Domenjoz François",
+      "Dubois Edmond",
+      "Gascard Arth.",
+      "Godat Charles",
+      "Guignard Henri",
+      "Matthey Ch.",
+      "Mersmann Bd.",
+      "Seiler Aug."
     ],
-    "Inspecteur du bétail.": [
-      "Peytregnet Ed."
+    "Papetiers.": [
+      "Agnetti Rosalie",
+      "Belperin Maurice",
+      "Capt Ch.",
+      "Delafontaine J.",
+      "de Weck Albert",
+      "Hurter Julie",
+      "Leuenberger Jean",
+      "Patthey John",
+      "Payot & Cie",
+      "Säuberlin & Pfeiffer (S. A.)",
+      "Société de l'imprimerie et lithographie Klausfelder"
     ],
-    "Inspecteur forestier.": [
-      "Comte Ferdinand"
+    "Papiers peints": [
+      "Légeret Charles"
     ],
-    "Instituteurs primaires.": [
-      "Bérard Henri",
-      "Bory Ernest",
-      "Chautems Marcel",
-      "Clément Numa",
-      "Delisle Adolphe",
-      "Ducommun Jean",
-      "Hartmann Ernest",
-      "Jaccard Henri",
-      "Lambercy Albert",
-      "Saugy Julien"
+    "Parapluies-ombrelles.": [
+      "Borne, Mme",
+      "Jeanrenaud, Vve",
+      "Molliat Jules",
+      "Pupikofer Bertha"
     ],
-    "Institutrices primaires.": [
-      "Bettex Alice",
-      "Briffod Hélène",
-      "Burdet Berthe",
-      "Burnand Hermance",
-      "Burnens-Rouge Louisa",
-      "Cousin Valentine",
-      "Cuendet Marthe",
-      "Dugon Ida",
-      "Gonthier Mina",
-      "Grandjean Julia",
-      "Jaccaud Marthe",
-      "Jaques Edith",
-      "Masnata Adèle",
-      "Marendaz Eugénie",
-      "Ravais Susanne",
-      "Reber Fanny",
-      "Rippert-Guyaz Blanche",
-      "Rochat Susanne",
-      "Rufener Hélène",
-      "Reymond-Walter Alice",
-      "Robert Geneviève",
-      "Rochat Alice",
-      "Sigrist Ida",
-      "Sigrist Alice",
-      "Vaucher Suzanne"
+    "Parfumerie (fab. de).": [
+      "Bott Rosa",
+      "Burkart hoirs d'Oscar"
     ],
-    "Instituteurs secondaires.": [
-      "Berthoud René",
-      "Bory Ernest",
-      "Bovay Armand",
-      "Bridel Michel",
-      "Droz Alph.",
-      "Hahn Philippe",
-      "Hænny L.",
-      "Michaud Léon",
-      "Ohry Herbert",
-      "Piguet Daniel",
-      "Renaud André"
+    "Parqueteurs.": [
+      "Mojonnier",
+      "Porchet François",
+      "Siegfried Adolphe, fils"
     ],
-    "Institutrices secondaires. (Ecole supérieure.)": [
-      "Berguer Jeanne",
-      "Perelmann Marie",
-      "Strehl Adèle"
+    "Passementerie.": [
+      "Barbey Mad., Vve",
+      "Dormond Jules",
+      "Schwob Lucien"
     ],
-    "Jouets en gros.": [
-      "Becholey Daniel"
+    "Pavage.": [
+      "Schneebeli Alb."
     ],
-    "Journaux.": [
-      "Journal d'Yverdon (Société du)",
-      "Le Nord Vaudois",
-      "Pages gaies (humoristique)"
+    "Pasteurs.": [
+      "Eglise nationale, Chuard Ernest",
+      "Franel Jules",
+      "Narbel Henri",
+      "Eglise anglaise, Carden, Rev.",
+      "Eglise méthodiste allemande, Allenbach",
+      "Eglise libre. Daulte Philippe",
+      "Porret Arnold",
+      "Eglise protestante italienne",
+      "Mugellesi Joseph",
+      "Eglise allemande, Maju F.",
+      "Eglise catholique, Kurfürst Jules-W.. curé"
     ],
-    "Justice de paix.": [
-      "Pittet Alfred",
-      "Cuérel Constant",
-      "Gasser Jules",
-      "Baatard Henri",
-      "Wasem Edouard",
-      "Decker Charles"
+    "Pédicures.": [
+      "Bucher, Mlle",
+      "Demont Emma",
+      "Demont R.",
+      "Hunziker. Mme",
+      "Mader, dame"
     ],
-    "Kiosques à journaux.": [
-      "Naville & Cie (Gare)",
-      "Mutrux, dame",
-      "Trosset Louise, Vve",
-      "Valerio Henri"
+    "Peintres-artistes.": [
+      "Bercher H.-E.",
+      "Gay Rosalie",
+      "Grand J., Mlle",
+      "Huguenin Jeanne, Mlle",
+      "Monod Bl., Mlle",
+      "Robert Paul",
+      "Schnell Andrée, Mlle",
+      "Sennewald Ch."
     ],
-    "Laineries, lingerie.": [
-      "Berney Emma",
-      "Delarze E.",
-      "Favez Flora",
-      "Landolt C.",
-      "Pahud-Richardet, Vve d'Hri.",
-      "Pfenninger Marie",
-      "Tacheron Julie"
-    ],
-    "Laiteries.": [
-      "Centrale laitière",
-      "Fromagerie d'Yverdon",
-      "Genillod Juste",
-      "Hofer Fenand",
-      "Junod-Gerber",
-      "Mollet-Moser",
-      "Quiblier Charles",
-      "Richard F.",
-      "Weber Léon",
-      "Pfister Jean"
+    "Peintres-décorateurs.": [
+      "Berney & Favre",
+      "Bisetti Joseph",
+      "Cantatore C.",
+      "Chaudet Edouard",
+      "Chiocca & Liaudet.",
+      "Guex Victor",
+      "Liaudet Louis",
+      "Martin Jacques",
+      "Quinclet Georges",
+      "Rouiller Auguste"
     ]
   }
 }

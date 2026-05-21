@@ -1,225 +1,118 @@
 {
-  "BALLAIGUES": {
-    "Sociétés": [
-      "de l'Abbaye de l'Union",
-      "de fromagerie",
-      "de l'usine à battre",
-      "Syndicat agricole"
+  "VILLE DE MORGES": {
+    "Ferblantiers-couvreurs": [
+      "Hugonnet Louis père",
+      "Richard frères",
+      "Rohr Edouard"
     ],
-    "Tailleur": [
-      "Bonzon David"
+    "Fers et métaux": [
+      "Rieben Emile",
+      "Vuffray Ernest; Mme"
     ],
-    "Téléphoniste": [
-      "Pilloud Elise"
+    "Fondeurs": [
+      "Salathé Emile"
     ],
-    "Tissus et confections": [
-      "Monnier-Morel Marguerite"
+    "Fontainiers": [
+      "Rohr Edouard"
     ],
-    "Vins": [
-      "Baudat Alfred",
-      "Bovet Frédéric",
-      "Lavenex Frédéric",
-      "Lavenex Louis, d'Abram",
-      "Monnier Georges",
-      "Monnier Jaques",
-      "Monnier Louis",
-      "Morel Louis et frères"
+    "Fourrages et paille": [
+      "Serex Charles"
     ],
-    "Autorités communales": [
-      "Leresche Samuel",
-      "Jaccard Charles",
-      "Besançon Henri",
-      "Bourgeois Albert",
-      "Laffely Samuel",
-      "Leresche Arnold",
-      "Leresche Félix",
-      "Richard Sam.",
-      "Rose Albert",
-      "Leresche Hermann",
-      "Doy-Arlettaz Jules"
+    "Fromages": [
+      "Grande Laiterie",
+      "Jacquemettaz Emile",
+      "Kernen frères",
+      "Metzker Justin"
     ],
-    "Agriculteurs": [
-      "Besançon Henri",
-      "Bourgeois Albert",
-      "Bourgeois Benjamin",
-      "Bourgeois John",
-      "Bourgeois Paul",
-      "Bourgeois frères",
-      "Campiche Ls",
-      "Conod Charles",
-      "Conod David",
-      "Desylvestri Ernest",
-      "Doy Aug.",
-      "Doy Jules",
-      "Doy-Leresche Henri",
-      "Flaction frères",
-      "Jaccard François",
-      "Laffely Jules",
-      "Leresche Gaston",
-      "Leresche Félix-Emile",
-      "Leresche Ernest",
-      "Leresche-Moser Jules",
-      "Leresche-Arlettaz Félix",
-      "Leresche Henri",
-      "Leresche-Leresche Jules",
-      "Leresche Paul",
-      "Leresche Arnold",
-      "Leresche Henri-Marcel",
-      "Maillefer Edgar",
-      "Richard Samuel",
-      "Richard Ed.",
-      "Rochat Ami",
-      "Rose Albert",
-      "Rose Auguste",
-      "Rose Alfred",
-      "Rose Emile"
+    "Garde-malades": [
+      "Brunner, Mme",
+      "Merminod E."
     ],
-    "Amodiateurs": [
-      "Campiche Louis, fils",
-      "Syndicat d'alpage"
+    "Gaz (gérant du)": [
+      "Lambert Edouard",
+      "Perusset Jules"
     ],
-    "Asile du Jura": [
-      "Agiez"
+    "Geôlier": [
+      "Pasche Louis"
     ],
-    "Mutualité scolaire de retraite": [
-      "Mayor H."
+    "Géomètres brevetés": [
+      "Bonnaz M.",
+      "Buchet Louis",
+      "Jaton Alfred & fils"
     ],
-    "Société mutualiste de retraite": [
-      "Mayor H."
+    "Gérants": [
+      "Chappuis P.",
+      "Bovard Julien",
+      "Cuénod Eugène",
+      "Jaquinet Adolphe",
+      "Kindler C.",
+      "Ratatz Ami",
+      "Reymond A."
     ],
-    "Aubergistes": [
-      "Sermoud Rodolphe",
-      "Laffely Germain",
-      "Junod Gustave",
-      "Simon Robert"
+    "Grains et farines": [
+      "Favre Albert",
+      "Jaccoud & Cie",
+      "Perrin Jules"
     ],
-    "Bazar": [
-      "Arnold Robert"
+    "Graines fourragères et potagères": [
+      "Dupraz Constant",
+      "Ravay-Favre B.",
+      "Serex Ch., fils",
+      "Société Coopérative de Consommation",
+      "Tschirren Hermann"
     ],
-    "Blanchisseuses": [
-      "Laffely-Schibel",
-      "Leresche-Goy"
+    "Graisses et huiles alimentaires et industrielles": [
+      "Von Auw & Cie",
+      "Vve Jean von Auw & fils",
+      "Redard & Cie, S. A."
     ],
-    "Bois (march. de)": [
-      "Leresche Emile",
-      "Leresche-Nicolet S.",
-      "Rose Albert"
+    "Graveur": [
+      "Martin E."
     ],
-    "Boissellerie (fab. de)": [
-      "Société des Forges du Creux"
+    "Gypsiers": [
+      "Chiocca J.",
+      "Demenga R.",
+      "Guala Albert",
+      "Laffely-Grisel",
+      "Magada Louis",
+      "Motta Pierre",
+      "Pittet Louis",
+      "Valzino Michel"
     ],
-    "Boissons sans alcool": [
-      "Le Raisin (S. A.)"
+    "Horlogers": [
+      "Golaz F.",
+      "Golaz Emile",
+      "Lecoultre H.",
+      "Margot J.",
+      "Wuilleumier Lucien"
     ],
-    "Bouchers-charcutiers": [
-      "Besançon Alfred",
-      "Doy Jules"
+    "Hôtels": [
+      "Bock-Falb Georges",
+      "Decarmine Pierre",
+      "Goumaz E.",
+      "Steffen Aloïs",
+      "Schmidt Louis"
     ],
-    "Boulangers": [
-      "Conod Alfred",
-      "Schulz P."
+    "Huilerie": [
+      "Jaccoud & fils"
     ],
-    "Chapellerie": [
-      "Arnold Robert"
+    "Huissiers": [
+      "Tappi Héli",
+      "Grossen Jean",
+      "Poyet Samuel",
+      "Pasche Louis"
     ],
-    "Charpentiers": [
-      "Maillefer Emile",
-      "Maillefer Henri"
+    "Imprimeurs": [
+      "Lavanchy Edouard",
+      "Trabaud François",
+      "Maibach Ernest"
     ],
-    "Chef de section": [
-      "Leresche Ulysse"
+    "Infirmerie": [
+      "Rue des Pâquis"
     ],
-    "Coiffeur": [
-      "Goy Marcel"
-    ],
-    "Commission scolaire": [
-      "Leresche Palmyr",
-      "Besançon André"
-    ],
-    "Cordonniers": [
-      "Brélaz Ls",
-      "Strickler Aloïs"
-    ],
-    "Dentistes (fabr. d'instruments pour)": [
-      "Maillefer, les fils d'Auguste"
-    ],
-    "Ebénistes": [
-      "Jaques Gustave",
-      "Leresche Jules"
-    ],
-    "Entrepreneurs": [
-      "Maillefer Emile",
-      "Maillefer Henri",
-      "Nibbio Franç."
-    ],
-    "Epicerie": [
-      "Arnold Robert",
-      "Leresche Bertha et Rose",
-      "Maillefer Georges",
-      "Soc. Coopérative"
-    ],
-    "Facteurs": [
-      "Leresche Jules",
-      "Rose Jules"
-    ],
-    "Faulx, ferronnerie, clouterie (fab. de)": [
-      "Société des Forges du Creux"
-    ],
-    "Fourches et râteaux (fab. de)": [
-      "Rose Robert"
-    ],
-    "Gérances et locations": [
-      "Bourgeois Daniel et l'hoirie d'Isaac Bourgeois"
-    ],
-    "Gravure sur fers et métaux": [
-      "Maillefer Albert"
-    ],
-    "Gypsier-peintre": [
-      "Zaco Fréd."
-    ],
-    "Horlogerie": [
-      "Pignons (S. A.)"
-    ],
-    "Hôtels (voir aussi Pensions)": [
-      "Bourgeois-Perrin P.",
-      "Sermoud Rodolphe",
-      "Leresche Octave",
-      "Simon Robert"
-    ],
-    "Instituteurs": [
-      "Mayor Henri",
-      "Crausaz Emile",
-      "Leresche Blanche",
-      "Martin Marguerite"
-    ],
-    "Jardinier": [
-      "Jaccard Charles"
-    ],
-    "Laitiers": [
-      "Campiche Ch.",
-      "Crausaz Edmond"
-    ],
-    "Maçon": [
-      "Nibbio François"
-    ],
-    "Maréchal": [
-      "Trottet Gédéon"
-    ],
-    "Mécaniciens": [
-      "Maillefer Albert",
-      "Maillefer, les fils d'Auguste"
-    ],
-    "Menuisiers": [
-      "Jaques Gustave",
-      "Maillefer Emile et Henri"
-    ],
-    "Mercerie": [
-      "Arnold Robert",
-      "Leresche Bertha et Rose",
-      "Maillefer Georges"
-    ],
-    "Meubles (fab. de)": [
-      "Jaques Gustave"
+    "Inspecteurs du bétail": [
+      "Dottrens Louis",
+      "Serex Ch."
     ]
   }
 }

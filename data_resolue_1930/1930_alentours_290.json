@@ -1,113 +1,125 @@
 {
-  "MONTREUX": {
-    "Cinématographe.": [
-      "Emery-Béguelin",
-      "Hermann-Fuhrer",
-      "Lang-Geismar",
-      "Petrei A.",
-      "Rambert Marie",
-      "Rusillon L.",
-      "Schüpbach Fritz",
-      "Stetter Hélène"
+  "Château-d'Oex": {
+    "Photographe.": [
+      "Neidl Georges",
+      "Renaud Ch."
     ],
-    "Charcutiers": [
-      "Ammeter Fritz et fils",
-      "Gex Émile",
-      "Monard Camille",
-      "Mury Ami",
-      "Muller Henri, fils",
-      "Recordon E.",
-      "Saladin Alfred",
-      "Sigrist Jean",
-      "Suter E. & Ch.",
-      "Wagnière François"
+    "Photographie (articles pour).": [
+      "Neidl Georges",
+      "Renaud Ch."
     ],
-    "Charpentiers": [
-      "Berdoz Louis",
-      "Crisinel Aug. et ses fils",
-      "Décosterd Jules",
-      "Devaux Ls",
-      "Martin L. & fils",
-      "Monnier Ernest",
-      "Moraz C. & O., frères",
-      "Mottier Adèle",
-      "Weber P."
+    "Pianos (vente et location).": [
+      "Juvet Charles-Emile"
     ],
-    "Charrons-carrossiers": [
-      "Genton Ch.",
-      "Saudan Léon & fils",
-      "Tallon Jules",
-      "Zbinden Christian"
+    "Poëliers.": [
+      "Gétaz Louis",
+      "Pilet John",
+      "Roch Charles"
     ],
-    "Chaudronniers": [
-      "Busso Jean",
-      "Estoppey-Cochard Jules",
-      "Muttoni Joseph",
-      "Vernetto Joseph"
+    "Poudre (dépôt de).": [
+      "Saugy Ami"
     ],
-    "Chauffage central": [
-      "Burkhalter J., hoirie",
-      "Calorie (S. A.)",
-      "Grognuz Marius",
-      "Sulzer frères S. A."
+    "Professeurs.": [
+      "Blum, Mlle",
+      "Gétaz Elisabeth"
     ],
-    "Chaussures (mag. de).": [
-      "André Louis",
-      "Baroli Jean",
-      "Besserer-Krebs",
-      "Bonjour E.",
-      "Borghese M.",
-      "Brunner A.",
-      "Buffet Ch.",
-      "Caccia Charles",
-      "Ceschini Martin",
-      "Cordonnerie coopérative La Ménagère",
-      "Cretton Hubert",
-      "Covino Ernest",
-      "Dind J., fils",
-      "Eicken-Maillard B.",
-      "English Engelberg",
-      "Freymond Louis",
-      "Frosio Jean",
-      "Gallarotti Louis",
-      "Giacoletto Martin",
-      "Guttendorfer A.",
-      "Gysler Christian",
-      "Henchoz Albert",
-      "Horwath G.",
-      "Jomini P.",
-      "Joyet E.",
-      "Jütz-Baumann",
-      "Klaus Charles",
-      "Küng Charles",
-      "Lavanchy Charles",
-      "Marchon F.",
-      "Mai W.",
-      "Montangero Constantin",
-      "Monti P., fils",
-      "Monti Jaques & fils",
-      "Monti A., Mme",
-      "Panzéri Giosué",
-      "Peppicelli Vitaliano",
-      "Ravessoud A.",
-      "S. A. des chaussures « Arola »",
-      "Schriewer Jean",
-      "Simecek Thomas",
-      "Steuer Ch.",
-      "Trog C.-A.",
-      "Valazza César"
+    "Quincaillerie.": [
+      "Bach F.",
+      "Chabloz Marcel",
+      "Dubuis-Pilet Paul",
+      "Henchoz-Yersin Elisa, Vve",
+      "Isoz-Turrian David",
+      "Pilet Louis"
     ],
-    "Chaux et ciments, gyps.": [
-      "Gétaz. Romang, Ecoffey (S. A.)"
+    "Ramoneur (maître).": [
+      "Henchoz Emile"
     ],
-    "Chefs de gare": [
-      "Aeschlimann Paul",
-      "Aubort",
-      "Bieri Jean",
-      "Borgeaud",
-      "Buloz Lucien",
-      "Latty Albert",
-      "Duperret"
+    "Représentant.": [
+      "Albertone J."
+    ],
+    "Relieur.": [
+      "White W."
+    ],
+    "Sable et graviers (exploitation de).": [
+      "Thönnen & Cie."
+    ],
+    "Sages-femmes.": [
+      "Morier Lina"
+    ],
+    "Scieurs.": [
+      "Berdoz Aimé",
+      "Henchoz Aimé",
+      "Henchoz & Pilet",
+      "Morier-Genoud G.",
+      "Soc. de construction H. Rosat"
+    ],
+    "Selliers-tapissiers.": [
+      "Berdoz-Michet Emile",
+      "Chabloz André",
+      "Durand Numa"
+    ],
+    "Serruriers-mécaniciens.": [
+      "Chabloz Ed.",
+      "Cordey Frédéric",
+      "Favre Maurice & Favre Jules",
+      "Gétaz Louis",
+      "Hadorn Frédéric",
+      "Pilet John",
+      "Roch Charles"
+    ],
+    "Sociétés.": [
+      "Ancienne Abbaye",
+      "Fromagerie de l'Etivaz",
+      "» des Moulins",
+      "» du Pont de Pierre",
+      "Château-d'Oex",
+      "Caisse d'épargne du district",
+      "Chant, Echo des Alpes",
+      "Choeur des Montagnards",
+      "Club Vanil",
+      "Club du Patinage du Buccau",
+      "Confrérie du Chemin de l'Hongrin",
+      "Confrérie des Eaux",
+      "Confrérie du Chemin des Mérils",
+      "Confrérie du Chemin du Monteiller-Devant",
+      "Confrérie du Chemin des Récardets au Paquier Gétaz",
+      "Confrérie du Chemin et des Ponts de la Vallée des Sciernes Piccaz et Verschamps",
+      "Curling-Club",
+      "Edelweiss, Société de jeunesse",
+      "Hockey-Club",
+      "Immobilière de la villa d'Oex",
+      "Football Club",
+      "Musique, La Montagnarde",
+      "Société de tir aux armes de guerre de L'Etivaz",
+      "Tir aux armes de guerre",
+      "Tir au fusil du district du Pays-d'En-haut",
+      "Laiterie du Village",
+      "Section de la Croix-Bleue",
+      "Ski-Club Alpina",
+      "Société de Consommation de Château-d'Oex",
+      "Société de développement",
+      "Société coopérative des producteurs de fromage du Pays d'Enhaut",
+      "Société des Hôteliers",
+      "Section du Pays d'Enhaut de la Société vaudoise des secours mutuels",
+      "Société des Tirs militaires",
+      "Soc. coopérative de consommation",
+      "Société des troupes de forteresse",
+      "Section fédérale de gymnastique",
+      "Société de gymnastique d'hommes",
+      "Syndicat agricole de Château-d'Oex",
+      "Syndicat agricole de l'Etivaz",
+      "Lawn-Tennis Club",
+      "Société suisse d'économie alpestre",
+      "Union chrétienne des J. G.",
+      "Union chrétienne des J. F."
+    ],
+    "Sports (articles de).": [
+      "Köfer William"
+    ],
+    "Tailleurs.": [
+      "Arnheiter L.",
+      "Muller G.",
+      "Panarèze Fr."
     ]
   }
 }

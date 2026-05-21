@@ -1,109 +1,101 @@
 {
-  "Ville d'Yverdon": {
-    "Pasteurs.": [
-      "Droz Alphonse",
-      "Freundler Charles-Alfred",
-      "Läuchli Albert",
-      "Roy-Tophel J."
+  "Ville de Vevey": {
+    "Représentants de commerce": [
+      "Audéoud Sylvain",
+      "Blanck Charles",
+      "Bollmann E.",
+      "Bosset",
+      "Bruna",
+      "Collombet & Cie",
+      "Fretz Rod.",
+      "Friedrich & Cie",
+      "Gaille Robert",
+      "Häfner-Bonjour Th.",
+      "Hosner-Marlier Octave",
+      "Jaccard E.",
+      "Jeanrenaud & Cie",
+      "Langmeier J.",
+      "Lenzo-Holl & Cie",
+      "Maillard Ch.",
+      "Margot-Courvoisier H.",
+      "Mathez A.",
+      "Messager Léon",
+      "Richon E.",
+      "Wunderlich & Hahn"
     ],
-    "Pâtes alimentaires (fab. de).": [
-      "Besson frères"
+    "Rideaux": [
+      "Margot-Courvoisier H."
     ],
-    "Paveur.": [
-      "Colombo Emile",
-      "Michaud Marc"
+    "Robinetterie": [
+      "Beyeler G.",
+      "Tapernoux Fern."
     ],
-    "Pension bourgeoise.": [
-      "Busser Marie"
+    "Sable et gravier": [
+      "Pilet & Cie"
     ],
-    "Pensions d'étrangers.": [
-      "Reinhardt-Tschantz W."
+    "Sages-femmes": [
+      "Bavaud",
+      "Brun-Légeret Lucie",
+      "Demont Emma.",
+      "Grisoni-Rimella",
+      "Hegglin Jeanne",
+      "Magnenat",
+      "Villommet Eugénie."
     ],
-    "Pensionnats de demoiselles.": [
-      "Fivaz-Rapp, dame",
-      "Gaydou-Cholly Julia",
-      "Cuche Rose",
-      "Marendaz S.",
-      "Wyss-Rapit, dame"
+    "Scieur de bois": [
+      "Petter R."
     ],
-    "Pharmaciens.": [
-      "Delay Gaston",
-      "Kasser Georges",
-      "Perret & Vuillemin",
-      "Pharmacie Centrale",
-      "Piguet V."
+    "Scierie mécanique": [
+      "Buffat Albert",
+      "de Rolle Constant"
     ],
-    "Photographes.": [
-      "Benner Th.",
-      "Perret Alf.",
-      "Rossi J. & fils",
-      "Spalinger René"
+    "Sculpteurs": [
+      "Reymond Alf.",
+      "Reymond Charles",
+      "Rossier Gustave",
+      "Urio François"
     ],
-    "Photographie (articles pour la).": [
-      "Petitat A.-G."
+    "Selliers": [
+      "Benkert Jean",
+      "Bidiville Aloïs",
+      "Fischer Emile fils",
+      "Monhart Gustave",
+      "Studer E."
     ],
-    "Pierres fines.": [
-      "Gabus A.",
-      "Michoud A.",
-      "Nicod Alfred",
-      "Portmann Alb.",
-      "Sueur Arthur"
+    "Serruriers": [
+      "Baillif A.",
+      "Chollet Alb., hoirs",
+      "Dubois Fernand",
+      "Dutour F. & Dupertuis L.",
+      "Grobet-Ruchonnet H.",
+      "Longchamp Ant."
     ],
-    "Pierres (percerie)": [
-      "Chopard G."
-    ],
-    "Pierristes (fournitures pour).": [
-      "Pasche R."
-    ],
-    "Pignons (fabr. de).": [
-      "Stark H."
-    ],
-    "Piles électriques (fab. de).": [
-      "S. A. Leclanché"
-    ],
-    "Poêliers.": [
-      "Bercher Joseph",
-      "Montandon Arm."
-    ],
-    "Porcelaines, cristaux et verrerie.": [
-      "Cochet Jules",
-      "Dubath André",
-      "Doudin Ch.",
-      "Grimaître Jeanne",
-      "Henriod-Giddey E.",
-      "Walther-Bloch"
-    ],
-    "Porcs (march. de).": [
-      "Genillod Juste",
-      "Grossenbacher Albert",
-      "Grossenbacher P."
-    ],
-    "Poteaux télégraphiques.": [
-      "Usine d'imprégnation de poteaux"
-    ],
-    "Poudres et munitions (débit patenté).": [
-      "Schneider E."
-    ],
-    "Primeurs.": [
-      "Capelli Marius fils",
-      "Colom Raymon",
-      "Galmès frères",
-      "Losio, dame",
-      "Pavid François"
-    ],
-    "Produits chimiques.": [
-      "Aegerter & Cie"
-    ],
-    "Produits alimentaires.": [
-      "Bécholey Daniel",
-      "Perroud Julien"
-    ],
-    "Produits alimentaires pour le bétail (Complément indispensable)": [
-      "Oséogène, S. A."
-    ],
-    "Publicité.": [
-      "Annonces Suisses, S. A.",
-      "Publicitas S. A."
+    "Sociétés": [
+      "Association suisse des marchands de matériaux de construction.",
+      "Association suisse des sélectionneurs.",
+      "Association vaudoises des petites familles.",
+      "Association de la Maison vaudoise d'éducation pr jeunes filles retardées.",
+      "Association des médecins de l'est du canton.",
+      "Association veveysanne des Sociétés sportives.",
+      "Association des anc. cadets de Vevey.",
+      "Association des anciens élèves du collège de Vevey.",
+      "Bourse allem. de Vevey (bienfais.).",
+      "Cercle mutuel français.",
+      "Club Alpin.",
+      "» athlétique.",
+      "» de boxe.",
+      "» des lutteurs.",
+      "» montagnard.",
+      "» des Sports.",
+      "» vélocipédique, Vélo-Club.",
+      "Colonies de vacances.",
+      "Confrérie des Vignerons.",
+      "Crèche de Vevey.",
+      "Cuisines scolaires.",
+      "Fonds de secours de la Tannerie de Vevey (S.A.).",
+      "Grütli-Verein.",
+      "Fonds Jean Vez, S. A.",
+      "Hospice du Samaritain et des Enfants malades."
     ]
   }
 }

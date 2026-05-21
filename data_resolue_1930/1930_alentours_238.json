@@ -1,114 +1,259 @@
 {
-  "Ville de Vevey": {
-    "Bas.": [
-      "Bayard S. et E., Mlles.",
-      "Doléjal Mathilde",
-      "Lux M.",
-      "Pilet Marguerite",
-      "Zanone A."
+  "JURIENS": {
+    "Cordonniers": [
+      "Curtet Henri",
+      "Curtet Jules"
     ],
-    "Bateaux (constructeurs de).": [
-      "Dénéréaz Louis"
+    "Epicerie, mercerie, tabacs": [
+      "Candaux Gustave",
+      "Grandjean Auguste"
     ],
-    "Bateaux (loueurs de).": [
-      "Oberli Ernest",
-      "Perrier-Ramelet Augusta",
-      "Dénéréaz Louis"
+    "Fourches (fab. de)": [
+      "Hautier Julien"
     ],
-    "Bazars": [
-      "Grand bazar français",
-      "Bloch Georges",
-      "Hébert, Vve",
-      "Hurter J., Mlle",
-      "Leuenberger Jean",
-      "Roussy Rosine",
-      "Walther Henry-S. & Cie (S.A.)."
+    "Graines potagères": [
+      "Hautier Alf. R."
     ],
-    "Bétail (march. de).": [
-      "Lévy-Bloch",
-      "Stuby Emile"
+    "Inspect. du bétail": [
+      "Grandjean Aug."
     ],
-    "Beurre et œufs.": [
-      "Blank Louis-Ernest",
-      "Chopard Louis-Albert",
-      "Fédération laitière du Léman",
-      "Gay Eugène",
-      "Jost Albert",
-      "Neuwerth & Villars",
-      "Rapin Marcel",
-      "Rossier E.",
-      "Sauty R.",
-      "Schneider Alfred"
+    "Instituteurs": [
+      "Michaud Louis",
+      "Güggi Bella"
     ],
-    "Bière (dépôts de).": [
-      "Friedrich & Cie",
-      "Ledermann Aug.",
-      "Rossier, Vve d'Auguste"
+    "Juge de paix": [
+      "Curtet Jules. T."
     ],
-    "Bijouterie (march. de).": [
-      "Dick Ch.",
-      "Domenjoz Fr.",
-      "Dubois Edm.",
-      "Gascard Arthur",
-      "Godat Ch.-H.",
-      "Guignard Henri fils",
-      "Juvet H. & E.. frères",
-      "Leuenberger Jean",
-      "Matthey Ch.",
-      "Mersmann B.",
-      "Seiler Aug., fils"
+    "Maréchal": [
+      "Carmentrand Emile"
     ],
-    "Biscuits, bricelets.": [
-      "Bussy-Durieux",
-      "Diserens Charles",
-      "Petter S.",
-      "Rithner, Mme",
-      "Stoller J."
+    "Parc avicole": [
+      "Ruperti Elise. T."
     ],
-    "Bitter (fabr. de).": [
-      "Bitter des Espersiers, S. A."
+    "Sociétés": [
+      "de fromagerie. R.",
+      "Syndicat agricole. R.",
+      "Grandjean Félix"
     ],
-    "Blanchisseuses-repasseuses.": [
-      "Abbé-Descaroux, dame",
-      "Blanchisserie Idéale (S.A.)",
-      "Bron-Clerc, dame",
-      "Brunisholz, Mme",
-      "Champrenaud, Vve",
-      "Cupelin. R.. Mme",
-      "Déléchat Marie",
-      "Dufour-Jaquemet, Mme",
-      "Gasser, dame",
-      "Joly, dame",
-      "Martinelli L.",
-      "Minacci, dame",
-      "Peissard, dame",
-      "Piantino M.. Dlle",
-      "Pipy-Grand, dame",
-      "Rapin M., Mme",
-      "Réguin Sœurs",
-      "Rinsoz B., Mme",
-      "Sésia, A., Mme"
+    "Téléphoniste": [
+      "Hautier Sophie"
     ],
-    "Bois (commerce de).": [
-      "Bosco Julien",
-      "Collombet & Cie",
-      "de Roll Constant",
-      "Gétaz, Romang, Ecoffey (S. A.)"
+    "Voiturier": [
+      "Roulet Henri"
+    ]
+  },
+  "LAPRAZ": {
+    "Autorités communales": [
+      "Baumgartner Aug.",
+      "Delacrétaz François"
     ],
-    "Bois de socques (fab. de).": [
-      "Joyet Ed."
+    "Syndic": [
+      "Delacrétaz Ernest"
     ],
-    "Boissellerie.": [
-      "Ducret Emile",
-      "Wunderlin A."
+    "Municipaux": [
+      "Delacrétaz Pierre",
+      "Mégevan Léon",
+      "Baumgartner Octave",
+      "Thvbaud Marcel",
+      "Baumgartner Arthur",
+      "Delacrétaz Henri",
+      "Bertholet Auguste"
     ],
-    "Bonneterie.": [
-      "A la Mercière, Dormond J.",
-      "Bayard J. & E.",
-      "Beetschen Marc",
-      "Brugger Emma",
-      "Brunschwig Adolphe",
-      "Brunschwig C."
+    "Agriculteurs": [
+      "Baumgartner Charles T.",
+      "Delacrétaz Alb.",
+      "Delacrétaz Charles",
+      "Delacrétaz Ernest",
+      "Delacrétaz Gustave",
+      "Delacrétaz Henri",
+      "Falquet Arnold",
+      "Forel Louis",
+      "Lyon Ernest",
+      "Lyon Louis",
+      "Lyon Ulysse",
+      "Megevan Alexis"
+    ],
+    "Amodiateur": [
+      "Cuvit-Lyon Eugène. T."
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Bignens E."
+    ],
+    "Bois (march. de)": [
+      "Baumgartner Charles",
+      "Lyon Ernest",
+      "Lyon Ulysse"
+    ],
+    "Café": [
+      "Falquet Arnold fils. T."
+    ],
+    "Commission scolaire": [
+      "Delacrétaz Pierre",
+      "Mégevan Léon",
+      "Baumgartner Arthur"
+    ],
+    "Dépositaire postal": [
+      "Delacrétaz Ernest"
+    ],
+    "Epicerie": [
+      "Baumgartner Cécile. T.",
+      "Delacrétaz Albert"
+    ],
+    "Inspecteur du bétail": [
+      "Lyon Ulysse"
+    ],
+    "Instituteurs": [
+      "Bignens Ern.",
+      "Delacrétaz Madelaine"
+    ],
+    "Laitier": [
+      "Gysi Fritz. T."
+    ],
+    "Pensions d'été": [
+      "Baumgartner Cécile. T.",
+      "Bardet",
+      "Rossire Alice"
+    ],
+    "Rentière": [
+      "Falquet Léonie, Vve"
+    ],
+    "Sociétés": [
+      "de fromagerie. R.",
+      "Syndicat agricole. R."
+    ],
+    "Téléphoniste": [
+      "Baumgartner Cécile"
+    ]
+  },
+  "LIGNEROLLE": {
+    "Autorités communales": [
+      "Nicod Emile",
+      "Bulle Paul"
+    ],
+    "Syndic": [
+      "Rochat Henri"
+    ],
+    "Municipaux": [
+      "Flaction Alexis",
+      "Nicolet Alfred",
+      "Pétermann Louis",
+      "Poget Jules",
+      "Wehrly Chs. T.",
+      "Wehrly Hri",
+      "Rochat Paul",
+      "Flaction Jules"
+    ],
+    "Agriculteurs": [
+      "Baudraz François",
+      "Bulle Paul",
+      "Chapuis, hoirie",
+      "Chapuis Constance",
+      "Emery Sam.",
+      "Gétaz Emile",
+      "Guignard, hoirie. T.",
+      "Maillefer Jean",
+      "Maillefer Marcel",
+      "Maillefer Blanche",
+      "Nicolet Marc",
+      "Pétermann frères. T.",
+      "Pétermann Paul. T.",
+      "Pichonnat Jules",
+      "Poget Emlie",
+      "Poget Francis",
+      "Poget Georges",
+      "Poget frères",
+      "Poncet Louis",
+      "Rochat Max",
+      "Rose Alphonse",
+      "Testuz Alfred",
+      "Wehrly Ch. T.",
+      "Wehrly Henri",
+      "Wehrly Louis"
+    ],
+    "Amodiateurs": [
+      "Nicolet Alfred",
+      "Wehrly frères"
+    ],
+    "Apiculteurs": [
+      "Gétaz Emile",
+      "Nicod Emile"
+    ],
+    "Aubergistes": [
+      "Flaction Elise",
+      "Michaud John"
+    ],
+    "Bois (march. de)": [
+      "Wehrly frères. T."
+    ],
+    "Boucher": [
+      "Emery Alexis"
+    ],
+    "Boulangerie": [
+      "Flaction Alexis"
+    ],
+    "Bûcheron": [
+      "Maillefer Paul"
+    ],
+    "Charron": [
+      "Wehrly Henri, d'Henri"
+    ],
+    "Commission scolaire": [
+      "Gétaz",
+      "Chapuis Ami",
+      "Rochat Paul"
+    ],
+    "Epicerie": [
+      "Carey hoirie. T.",
+      "L'Economie (soc. coopérative). T."
+    ],
+    "Garde-champêtre": [
+      "Chapuis Jules"
+    ],
+    "Garde-forestier": [
+      "Rochat Aug. T."
+    ],
+    "Garde-police": [
+      "Nicole Ls."
+    ],
+    "Granitier": [
+      "Cardis Chs."
+    ],
+    "Inspecteur du bétail": [
+      "Wehrly Henri"
+    ],
+    "Instituteurs": [
+      "Nicod Emile",
+      "Huguenin Bérangère"
+    ],
+    "Maréchal": [
+      "Flaction Jules"
+    ],
+    "Officier d'état-civil": [
+      "Werly André"
+    ],
+    "Pasteur": [
+      "Gétaz Emile"
+    ],
+    "Pensions d'été": [
+      "Maillefer Hoirie",
+      "La Bessonnaz L. V. T.",
+      "Sermoud. RT"
+    ],
+    "Poste et télégraphe": [
+      "Cattin-Conod Juliette"
+    ],
+    "Sel (bureau du)": [
+      "Wehrly Charles"
+    ],
+    "Scieur": [
+      "Rochat Paul. T."
+    ],
+    "Sociétés": [
+      "de fromagerie dite de la Marjolaine",
+      "de chant, Chœur mixte",
+      "de tir « Armes de guerre »",
+      "Syndicat"
     ]
   }
 }

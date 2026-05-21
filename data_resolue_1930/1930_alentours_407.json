@@ -1,239 +1,257 @@
 {
-  "BONVILLARS": {
-    "Associations mutualistes de retraite": [
-      "Duvoisin Ch."
-    ],
-    "Bétail (march. de).": [
-      "Seiler Fritz"
-    ],
-    "Boulanger.": [
-      "Bryois Adrien"
-    ],
-    "Cafés.": [
-      "Correvon Marc",
-      "Jaquier Lucie",
-      "Duvoisin Maurice"
-    ],
-    "Cordonnier.": [
-      "Homberger Jean"
-    ],
-    "Distillerie.": [
-      "Duvoisin Maurice"
-    ],
-    "Epicerie, mercerie, tabacs.": [
-      "Ayer-Sommer Elise",
-      "Duvoisin Jules",
-      "Rossat Aline"
-    ],
-    "Garde de triage.": [
-      "Milliet Henri"
-    ],
-    "Inspecteur du bétail.": [
-      "Favre Fréd."
-    ],
-    "Instituteurs.": [
-      "Duvoisin Charles",
-      "Jaquier Suzanne"
-    ],
-    "Laitier.": [
-      "Margot-Jaccard Jules",
-      "Merz Adolphe"
-    ],
-    "Maréchal.": [
-      "Hoffer Mauice"
-    ],
-    "Médecin.": [
-      "Gehrig René"
-    ],
-    "Officier d'état-civil.": [
-      "Jaquier Michel"
-    ],
-    "Sage-femme.": [
-      "Ryser-Duvoisin, Mme."
-    ],
+  "DONNELOYE": {
     "Sociétés.": [
-      "de fromagerie et laiterie",
-      "Tir aux armes de guerre",
-      "de chant",
-      "Abbaye",
-      "Syndicat agricole"
+      "Syndicat d’élevage du cheval",
+      "Caisse de Crédit mutuel",
+      "Société immobilière l’Abeille"
     ],
-    "Tailleuses.": [
-      "Malherbes Louisa",
-      "Paris Eglantine"
+    "Tailleur": [
+      "Heger J. R."
     ],
-    "Télégraphiste.": [
-      "Duvoisin Georges"
+    "Tailleuses": [
+      "Billaud Thérèse",
+      "Gilgen Rosa",
+      "Giroud Alice",
+      "Viquerat Nancy",
+      "Viquerat Yvonne"
     ],
-    "Téléphone.": [
-      "Bureau de poste"
+    "Téléphoniste": [
+      "Duc Rosa"
     ],
-    "Tonnelier.": [
-      "Duvoisin Maurice"
+    "Usine": [
+      "Golaz F."
     ],
-    "Vignerons.": [
-      "Duvoisin David",
-      "Favre Ch.",
-      "Martin Henri",
-      "Montandon Rodolphe",
-      "Ray Gustave"
-    ],
-    "Vins (march. de).": [
-      "Duvoisin Maurice",
-      "Jaquier Jacques"
+    "Vétérinaire": [
+      "Schaffter Constant"
     ]
   },
-  "BULLET": {
-    "Président du Conseil communal": [
-      "Champod Auguste"
+  "ÉPENDES": {
+    "Président du Conseil général": [
+      "Massonnet Ed."
     ],
     "Secrétaire": [
-      "Jacques André",
-      "Bonnet Auguste"
+      "Massonnet Roger",
+      "Henry Ernest"
     ],
     "Syndic": [
-      "Champod Paul"
+      "Perrin Edouard"
     ],
     "Municipaux": [
-      "Champod Louis",
-      "Gander Charles",
-      "Cruchaud Armand",
-      "Thévenaz Louis",
-      "Robellaz Auguste",
-      "Champod Jules"
+      "Henry Louis",
+      "Beausire Adolphe",
+      "Massonnet Julien",
+      "Grin John"
     ],
     "Boursier": [
-      "Champod Jules"
+      "Perrin Henri"
     ],
-    "Agriculteurs.": [
-      "Bugnon Ami",
-      "Champod Edouard",
-      "Champod Jules",
-      "Champod Jules et Alexandre",
-      "Champod Jules et Arthur",
-      "Champod Jules-Emile",
-      "Champod Louis",
-      "Cruchaud Armand",
-      "Cruchaud Louis",
-      "Cruchaud Paul",
-      "Gander Ami",
-      "Gruber Camille",
-      "Lassueur Ed.",
-      "Lassueur Louis",
-      "Lassueur frères",
-      "Paillard Alfred",
-      "Sueur Albert",
-      "Thévenaz Ami",
-      "Thévenaz A.",
-      "Thévenaz Auguste",
-      "Thévenaz Charles et Paul",
-      "Thévenaz Ed.",
-      "Thévenaz Henri",
-      "Thévenaz Paul",
-      "Thévenaz Paul et Henri"
+    "Agriculteurs": [
+      "Grin John",
+      "Massonnet Edouard",
+      "Massonnet frères",
+      "Massonnet Julien",
+      "Perrin Edouard",
+      "Staudenmann frères",
+      "Sucrerie d'Arberg"
     ],
-    "Amodiateur.": [
-      "Gander Ami"
+    "Apiculteur": [
+      "Perrin Henri"
     ],
-    "Assesseur.": [
-      "Champod Jules"
+    "Cafetiers": [
+      "Chevalier Justin",
+      "Massonnet Jean"
     ],
-    "Associations mutualistes de retraite": [
-      "Kohler Daniel"
+    "Chef de Gare": [
+      "Rochat Auguste"
     ],
-    "Blanchisseuses.": [
-      "Bonnet Marie",
-      "Simon"
+    "Commission scolaire": [
+      "Perrin Edouard",
+      "Grin John"
     ],
-    "Bois (comm. de).": [
-      "Bugnon Ami",
-      "Champod Arth.",
-      "Champod Jules",
-      "Cruchaud & Duvoisin",
-      "Gander Ami",
-      "Thévenaz Edm."
+    "Entrepreneur": [
+      "Garoni Jean"
     ],
-    "Boîtes à musique.": [
-      "Bodmer Auguste",
-      "Bonnet John",
-      "Bugnon Ami",
-      "Gaillard Hermann",
-      "Gaillard Marcel",
-      "Lassueur John",
-      "Loefli Arnold"
+    "Epiceries": [
+      "Massonnet Mathilde",
+      "Thévenaz Jules"
     ],
-    "Boulangers-pâtissiers.": [
-      "Champod Pl",
-      "Champod Marcel",
-      "Hunziker Albert",
-      "Neuhaus Joseph"
+    "Inspecteur du bétail": [
+      "Massonnet E."
     ],
-    "Bûcherons.": [
-      "Fischer Ami",
-      "Fischer Ch.",
-      "Kohler Léon",
-      "Schneider Samuel",
-      "Thévenaz Edouard"
+    "Instituteurs": [
+      "Basset John",
+      "Cornut Marguerite"
     ],
-    "Cafés.": [
-      "Jeanneret Numa",
-      "Simonin Hermann",
-      "Zwahlen Ch."
+    "Laitier": [
+      "Bill Ernest"
     ],
-    "Cantonniers.": [
-      "Bonnet Eugène",
-      "Gaillard Albert"
+    "Poste et téléphone": [
+      "Beausire Ida"
     ],
-    "Chapelleries.": [
-      "Champod Jules-Emile",
-      "Cruchaud Louis"
+    "Sociétés": [
+      "de fromagerie",
+      "de l'Abbaye d'Ependes",
+      "Machine à battre"
+    ]
+  },
+  "ESSERT-PITTET": {
+    "Président du Conseil général": [
+      "Meystre Emile"
     ],
-    "Charcutiers.": [
-      "Champod Ls",
-      "Champod Paul",
-      "Duvoisin Estelle",
-      "Thévenaz Edmond"
+    "Secrétaire": [
+      "Martignier Eugène",
+      "Burdet Eugène"
     ],
-    "Charpentiers.": [
-      "Bugnon Ls",
-      "Champod Armand et André",
-      "Champod Edouard",
-      "Champod Jules",
-      "Cruchaud & Duvoisin",
-      "Gaillard Marcel"
+    "Syndic": [
+      "Miéville Louis"
     ],
-    "Coiffeurs.": [
-      "Perret René",
-      "Thévenaz Ernest"
+    "Municipaux": [
+      "Dind Louis",
+      "Meystre Em.",
+      "Martignier Emile",
+      "Deytard Ernest"
     ],
-    "Charrons.": [
-      "Thévenaz Alfred",
-      "Thévenaz Arthur"
+    "Boursier": [
+      "Meystre Emile"
     ],
-    "Chef de section.": [
-      "Lassueur Louis"
+    "Agriculteurs": [
+      "Balsiger Jacob",
+      "Bieler frères",
+      "Burdet Eugène",
+      "Deytard Alfred",
+      "Dind Louis",
+      "Dubach Fritz",
+      "Dupuis Fritz",
+      "Küffer Ernest",
+      "Laurent Ernest",
+      "Martignier Alexandre",
+      "Meystre Emile",
+      "Miéville Louis",
+      "Schaeffer frères",
+      "Schaeffer Louis",
+      "Siegenthaler Jean"
     ],
-    "Claviers (fab. de).": [
-      "Gaillard Clément",
-      "Junod Auguste"
+    "Café": [
+      "Thibaud Charles"
     ],
-    "Commandant du feu.": [
-      "Champod Auguste"
+    "Charron": [
+      "Martin Adrien"
     ],
-    "Commerce de farines, etc.": [
-      "Champod Marcel"
+    "Commission scolaire": [
+      "Meystre Ele",
+      "Miéville Louis",
+      "Dind Louis"
     ],
-    "Commission scolaire.": [
-      "Lassueur Ls",
-      "Champod Jules",
-      "Champod Paul",
-      "Champod Jules-Emile"
+    "Cordonnier": [
+      "Miéville Constant"
     ],
-    "Cordonniers.": [
-      "Bipard A.",
-      "Bonnet Albert",
-      "Champod Ami",
-      "Thévenaz Paul"
+    "Epicerie, mercerie": [
+      "Martignier Fd"
+    ],
+    "Institutrice": [
+      "Roulet Berthe"
+    ],
+    "Poste": [
+      "Miéville Paul"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "du battoir à grain"
+    ],
+    "Téléphoniste": [
+      "Thibaud Charles"
+    ]
+  },
+  "ESSERT-SOUS-CHAMPVENT": {
+    "Président du Conseil général": [
+      "Agassis Alfred"
+    ],
+    "Syndic": [
+      "Corset Edouard"
+    ],
+    "Municipaux": [
+      "Roulet Robert",
+      "Agassis Armand"
+    ],
+    "Secrétaire": [
+      "Corset Eug."
+    ],
+    "Boursier": [
+      "Agassis Jean"
+    ],
+    "Accordéons (fab. d')": [
+      "Mercier Eug."
+    ],
+    "Agriculteurs": [
+      "Agassis Jean",
+      "Burkhardt Jean",
+      "Clerc Maurice",
+      "Crausaz Emile",
+      "Gilliard Gust.",
+      "Leuenberger Jean",
+      "Perrin Paul",
+      "Roulet Jules",
+      "Roulet Louis",
+      "Schenk Jean"
+    ],
+    "Cafetier": [
+      "Corset Edouard"
+    ],
+    "Inspecteur du bétail": [
+      "Corset Eug."
+    ],
+    "Sociétés": [
+      "de laiterie",
+      "du battoir"
+    ]
+  },
+  "GOSSENS": {
+    "Président du Conseil général": [
+      "Gottraux Paul"
+    ],
+    "Secrétaire": [
+      "Perrin Charles",
+      "Monge Henri",
+      "Jaccaud Henri"
+    ],
+    "Syndic": [
+      "Troillet Robert"
+    ],
+    "Municipaux": [
+      "Perrin Charles",
+      "Willener Alfred"
+    ],
+    "Agriculteurs": [
+      "Bovay Jules et Henri",
+      "Chaillet Louis",
+      "Charbon Aimé",
+      "Gasser Aimé",
+      "Gottraux Paul",
+      "Jaccaud Henri",
+      "Martin E.",
+      "Monge Henri",
+      "Perrin Ch.",
+      "Perrin G.",
+      "Trolliet Félicien",
+      "Viquerat Félix",
+      "Willener Alfred"
+    ],
+    "Charpentier": [
+      "Cruchon Ernest"
+    ],
+    "Commission scolaire": [
+      "Cruchon Ernest",
+      "Gottraux Paul",
+      "Jaccaud Henri"
+    ],
+    "Entrepreneur": [
+      "Erisman Gottfried"
+    ],
+    "Inspecteur du bétail": [
+      "Charbon Aimé"
+    ],
+    "Institutrice": [
+      "Erb Cécile"
     ]
   }
 }

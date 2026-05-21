@@ -1,99 +1,210 @@
 {
-  "MONTREUX": {
-    "Gypsiers-peintres": [
-      "Beck P.",
-      "Bernasconi",
-      "Bonfantini J.",
-      "Buzzini Robert",
-      "Capra E.",
-      "Chabloz & Boretti",
-      "Chevalley & V. Schira",
-      "Corte Marius",
-      "Frosio H.",
-      "Gnerro P.",
-      "Jaccoud Edouard",
-      "Lenoir Chs",
-      "Montangero & Chiocchetti",
-      "Montet & Calvi",
-      "Munier Louis",
-      "Nicoulaz Fr.",
-      "Pilloud Emile",
-      "Righetti & Cie",
-      "Rima-Rossiro Ludovic",
-      "Robbiani & Meyer",
-      "Schumacher Charles",
-      "Schweizer Alfred",
-      "Terribilini Georges",
-      "Terribilini Maxime",
-      "Terribilini Victor",
-      "Traversini Paul",
-      "Zarri Giacomino"
+  "ALLAMAN": {
+    "Autorités communales.": [
+      "Cauderay Alph.",
+      "Cauderay Isaac"
     ],
-    "Homes": [
-      "Home des Amies de la Jeune fille",
-      "Home catholique",
-      "Home d'enfants"
+    "Syndic": [
+      "Demont Alfred"
     ],
-    "Horlogers": [
-      "Allemann Walther",
-      "Bassia Stergio",
-      "Baud F.",
-      "Benoît-Nicolet A.",
-      "Bonelli P.",
-      "Bornand Ed. & Cie",
-      "Burger S.",
-      "Chevalley G.",
-      "Dubach A.",
-      "Dubois Ami",
-      "Engel Ami",
-      "Flury-Lutwyler",
-      "Gastin",
-      "Girod Marcel",
-      "Gorgé O.",
-      "Hasler Robert",
-      "Harnisch B.",
-      "Kirschmann Ernest",
-      "Margot Frédéric",
-      "Mayer Roman",
-      "Mersmann B.",
-      "Plojoux M. & Cie",
-      "Reymond M.",
-      "Schnitzler Jacob",
-      "Vuille Alfred",
-      "Vuilleumier Paul"
+    "Municipaux": [
+      "Cauderay",
+      "Berger Aug.",
+      "Cauderay-Gallay Aug.",
+      "Ethenoz Henri",
+      "Paquier Emile"
     ],
-    "Horticulteurs-fleuristes": [
-      "Berger Auguste",
-      "Beyer-Kurt",
-      "Blondel",
-      "Chaubert Louis",
-      "de Ribaupierre E.",
-      "Dubois Jean",
-      "Dubois Charles",
-      "George Ernest",
-      "Haag",
-      "Junod J.-A.",
-      "Kiener",
-      "Lorenz Alfred",
-      "Maeder E.",
-      "Morand L.",
-      "Rouiller",
-      "Schlageter Edmond-Octave",
-      "Zeh Ch."
+    "Secrétaire": [
+      "Paux François"
     ],
-    "Hôtels et Pensions": [
-      "Alexandra-Pension",
-      "Alpes vaudoises",
-      "Alpina",
-      "Angleterre",
-      "Ritschard M.",
-      "Beaulieu",
-      "Beau Rivage",
-      "Beau Site",
-      "Bon Accueil",
-      "Bonivard H.",
-      "Bristol",
-      "Buffet de la Gare"
+    "Boursier communal": [
+      "Cauderay Alois"
+    ],
+    "Employé communal": [
+      "Hugonet H."
+    ],
+    "Agriculteurs (voir aussi Vignerons).": [
+      "Cauderay-Ponnaz A.",
+      "Cornaz Léon. T.",
+      "Haemmerli"
+    ],
+    "Apiculteurs.": [
+      "Cornaz Léon. T.",
+      "Paux François",
+      "Rochat Jules",
+      "Trottet M."
+    ],
+    "Assesseur.": [
+      "Cauderay Louis"
+    ],
+    "Associations mutualistes de retraite.": [
+      "Paux F."
+    ],
+    "Aubergistes.": [
+      "Demont Emile",
+      "Paquier Emile"
+    ],
+    "Auto-transports.": [
+      "Demont A."
+    ],
+    "Boulangerie-pâtisserie communale.": [
+      "Jaquerod A."
+    ],
+    "Buraliste postal.": [
+      "Pasche Lucien"
+    ],
+    "Café de tempérance.": [
+      "Pittet Jean"
+    ],
+    "Charcutier.": [
+      "Grandchamp"
+    ],
+    "Cantonnier.": [
+      "Cauderay Albert"
+    ],
+    "Charpentier.": [
+      "Pittet Jean"
+    ],
+    "Chef de gare.": [
+      "Crelier Paul"
+    ],
+    "Sous-chef": [
+      "Sonnard"
+    ],
+    "Charretier.": [
+      "Paquier Lucien"
+    ],
+    "Coiffeuse.": [
+      "Caillat Hélène"
+    ],
+    "Combustibles.": [
+      "Demont A."
+    ],
+    "Commission scolaire.": [
+      "Breitenstein E.",
+      "Maurice P",
+      "Cauderay Charles",
+      "Cauderay Alphonse",
+      "Cornaz Henri"
+    ],
+    "Cordonnier.": [
+      "Jaquillard Albert"
+    ],
+    "Couturières.": [
+      "Paquier Louise",
+      "Thélin"
+    ],
+    "Epicerie, mercerie.": [
+      "Cauderay-Canazin. R.",
+      "Geneyne Hélène"
+    ],
+    "Fromages.": [
+      "Freitag Fritz"
+    ],
+    "Gypsiers-peintres.": [
+      "Cauderay-Berger Aug."
+    ],
+    "Inspecteur du bétail.": [
+      "Cauderay Isaac"
+    ],
+    "Instituteurs.": [
+      "Paux François",
+      "André Olive"
+    ],
+    "Jardiniers.": [
+      "Marmet Eugène",
+      "Pion Samuel",
+      "Robert A.",
+      "Sauty François"
+    ],
+    "Laitier.": [
+      "Société de Laiterie"
+    ],
+    "Maçon.": [
+      "Burger Charles"
+    ],
+    "Maréchal.": [
+      "Weber Jacob"
+    ],
+    "Pêcheurs.": [
+      "Anthonet Emile. T.",
+      "Clerc Frédéric",
+      "Pittet Jean"
+    ],
+    "Rentiers, propriétaires.": [
+      "Maurice, hoirs de F.",
+      "Rochat Emile",
+      "Goudet-Revillod H.",
+      "Maurice Pierre",
+      "Revillod André",
+      "Revillod Jacques"
+    ],
+    "Sables et graviers (exploitation de)": [
+      "Paschoud G. T."
+    ],
+    "Sociétés.": [
+      "de laiterie. R.",
+      "de musique",
+      "Jeunesse",
+      "de tir",
+      "Soc. an. des sables et graviers de l'Aubonne"
+    ],
+    "Téléphone.": [
+      "Bureau de poste"
+    ],
+    "T. S. F. (articles de).": [
+      "Demont A."
+    ],
+    "Tuyaux en ciment, briques, planelles (fab. de).": [
+      "Cornaz L. & fils"
+    ],
+    "Viticulteurs et vignerons.": [
+      "Anthonet Hri",
+      "Blanchard L.",
+      "Cauderay Ch.",
+      "Cauderay Alph.",
+      "Cauderay Isaac",
+      "Cauderay Ls de Jules",
+      "Cauderay L.-Frs",
+      "Chanson Emile",
+      "Clerc Jean",
+      "Dirac Joseph",
+      "Eperon Alexandre",
+      "Hugonet Jules",
+      "Lagnel François",
+      "Marmet Eugène",
+      "Paquier Aloys",
+      "Paquier Hri",
+      "Paquier Lucien",
+      "Ribaux Georges",
+      "Rochat Jules",
+      "de Siebenthal Albert",
+      "Pion Ch.",
+      "Thélin Robert",
+      "Villard Louis"
+    ],
+    "Voiturier communal.": [
+      "Paquier Lucien"
+    ]
+  },
+  "BURSINEL": {
+    "Autorités communales.": [
+      "George Julien",
+      "Bolomey Georges"
+    ],
+    "Syndic": [
+      "Monod Jean"
+    ],
+    "Municipaux": [
+      "Blanchard Vincent",
+      "Larpin Gustave",
+      "Widmer Gustave"
+    ],
+    "Secrétaire": [
+      "Béday Adalbert"
+    ],
+    "Boursier": [
+      "Ramel Louis"
     ]
   }
 }

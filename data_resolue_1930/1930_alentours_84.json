@@ -1,135 +1,231 @@
 {
-  "VILLE DE MOUDON": {
-    "Boulangers": [
-      "Chuat Fd.",
-      "Clot Henri.",
-      "Cossy Charles.",
-      "Dänzer Samuel.",
-      "Hofmann E.",
-      "Voruz, Vve d'Edmond.",
-      "Voruz Charles"
+  "PENTHEREAZ": {
+    "Battoir à grains": [
+      "La Commune"
     ],
-    "Brasseurs.": [
-      "Brasserie Beauregard"
+    "Bétail (comm. de)": [
+      "Mercier Elie et Denis. R.",
+      "Mercier Fidély. RT."
     ],
-    "Brosserie.": [
-      "Trolliet Ernest.",
-      "Cherpillod Albert."
+    "Boulanger": [
+      "Caillachon Henri. T."
     ],
-    "Cafés.": [
-      "Baudet John",
-      "Binggeli William",
-      "Canals E. & J.",
-      "Chalet Julien",
-      "Chassot Emile",
-      "Dubois Emile",
-      "Durussel Véréna",
-      "Flückiger Robert",
-      "Grassi B.",
-      "Guex Constant",
-      "Jacot-Forestier L.",
-      "Jotterand",
-      "Mischler Jean",
-      "Martin Camille",
-      "Monachon Henri",
-      "Panchaud Jules",
-      "Pidoux Aline, Vve",
-      "Pillionnel U.",
-      "Porchet Jules",
-      "Roulier John",
-      "Thonney Ernest",
-      "Thonney Ulysse",
-      "Voruz Ern."
+    "Café": [
+      "Meystre Robert"
     ],
-    "Café-restaurant sans alcool.": [
-      "La Gerbe de Blé"
+    "Cantonnier": [
+      "Favez William"
     ],
-    "Cafés torréfiés et chocolats.": [
-      "Société Kaiser"
+    "Commission scolaire": [
+      "Béranger",
+      "Collet Ulysse",
+      "Mercier Elie",
+      "Millioud René",
+      "Mercier Gustave"
     ],
-    "Cercueils.": [
-      "Charpilloz Albert.",
-      "Faucherre Henri.",
-      "Dépositaire des Pompes funèbres générales, S. A..",
-      "Ricca Louis."
+    "Epicerie, mercerie": [
+      "Caillachon Hri. T."
     ],
-    "Chapelier.": [
-      "Liaudet François."
+    "Garde-forestier": [
+      "Collet Ulysse"
     ],
-    "Charcutiers.": [
-      "Fenjallaz Adrien.",
-      "Freymond-Ammann Ed.",
-      "Mayor-Viret Louis.",
-      "Sandoz A. & fils"
+    "Inspecteurs du bétail": [
+      "Millioud Edward",
+      "Flaction Jules"
     ],
-    "Charpentiers.": [
-      "Desmeules Alfred.",
-      "Ducret Jules.",
-      "Noble J."
+    "Instituteurs": [
+      "Alisson Henri",
+      "Collet Rose"
     ],
-    "Charrons.": [
-      "Jayet-Rod Jules.",
-      "Senn Eugène.",
-      "Trolliet Emile."
+    "Laitiers": [
+      "Huguenin & Cie. T."
     ],
-    "Chasseur.": [
-      "Pidoux Emile"
+    "Maréchal": [
+      "Schmid S."
     ],
-    "Chaussures (mag. de).": [
-      "Dubrit, Veuve, de Jules.",
-      "Pittet Eug.",
-      "Thonney frères.",
-      "Wenger Henri, S. A.",
-      "Wohlmeyer Joseph."
+    "Officier d'état civil": [
+      "Mayor Jules"
     ],
-    "Chef de gare.": [
-      "Cuénoud Louis."
+    "Poste": [
+      "Emery Charles"
     ],
-    "Chef de section.": [
-      "Fivaz Armand."
+    "Sociétés": [
+      "de fromagerie et de laiterie de Penthéréaz. R.",
+      "de fromagerie et de laiterie dite du Champ de Vaud (hameau). R.",
+      "Tir aux armes de guerre"
     ],
-    "Chiffons.": [
-      "Chelles Alexis"
+    "Tailleur": [
+      "Buffat Alfred"
     ],
-    "Ciment (travaux en).": [
-      "Dalioli Ernest",
-      "Delmatti & fils",
-      "Protti Victor"
+    "Tailleuses": [
+      "Favez Emma",
+      "Viret Elise"
     ],
-    "Coiffeurs.": [
-      "Bischoff Jean.",
-      "Cibis-Muller Franz.",
-      "Gilliéron Louis.",
-      "Pape Louisa",
-      "Porchet Alfred.",
-      "Steck Blanche"
+    "Téléphoniste": [
+      "Caillachon Aimée"
+    ]
+  },
+  "POLIEZ-LE-GRAND": {
+    "Autorités communales": [
+      "Panchaud Jules-Alexis",
+      "Mermoud Alfred"
     ],
-    "Combustibles.": [
-      "Besson Gustave.",
-      "Soc. coopérat. de Consommation."
+    "Syndic": [
+      "Mermoud-Menétrey Ernest"
     ],
-    "Commission scolaire.": [
-      "Vacheron Jean",
-      "Vuichoud Alfred"
+    "Municipaux": [
+      "Panchaud Adolphe",
+      "Panchaud Victor",
+      "Mermoud Sam.",
+      "Mermoud Louis",
+      "Mermoud Fréd.",
+      "Thibaud Octave",
+      "Mermoud Robert",
+      "Mermoud William",
+      "Mermoud Fernand"
     ],
-    "Confections.": [
-      "Bladt Paul",
-      "Faucherre-Domenjoz Clara.",
-      "Galbiatti-Durussel G.",
-      "Pittet Eug.",
-      "Velati-Pavarin & Cie."
+    "Agriculteurs": [
+      "Augsburger Maurice",
+      "Jaton frères",
+      "Jaunin Ulysse",
+      "Menétrey Daniel",
+      "Menétrey Emmanuel",
+      "Menétrey François",
+      "Mermoud, hoirs d’Auguste",
+      "Mermoud Samuel",
+      "Mermoud Ulysse",
+      "Mermoud Ern.",
+      "Mermoud Emile",
+      "Meylan Gustave",
+      "Michon Constant",
+      "Panchaud Adolphe",
+      "Panchaud Alfred",
+      "Panchaud Emilien",
+      "Panchaud Fritz",
+      "Panchaud Henri",
+      "Panchaud Jules-Alexis",
+      "Panchaud, les fils de Dominique",
+      "Thibaud Gustave"
     ],
-    "Cordier.": [
-      "Pache Henri."
+    "Apiculteurs": [
+      "Bouquet Charles",
+      "Diserens Ernest",
+      "Jaton Ulysse",
+      "Mayor Charlotte",
+      "Menétrey Charles",
+      "Menétrey Fritz",
+      "Mermoud Robert",
+      "Meystre Julien",
+      "Panchaud Emilien"
     ],
-    "Cordonniers.": [
-      "Dubrit, Veuve de Jules.",
-      "Girard Charles.",
-      "Gris Alexis.",
-      "Rittener Louis.",
-      "Thonney frères.",
-      "Wenger Henri.",
-      "Wohlmeyer Joseph."
+    "Aubergistes": [
+      "Diserens Ernest",
+      "Mermoud Ulysse"
+    ],
+    "Blanchisseuse": [
+      "Bouquet Marguerite"
+    ],
+    "Commission scolaire": [
+      "Mermoud Louis",
+      "Redard",
+      "Bouquet Gustave"
+    ],
+    "Cordonnier": [
+      "Allaz Joseph"
+    ],
+    "Couturières": [
+      "Joly, Mme",
+      "Menétrey Odette",
+      "Menétrey Rose",
+      "Mermoud Isabelle"
+    ],
+    "Encadrements, vitrerie": [
+      "Panchaud Victor"
+    ],
+    "Epicerie, mercerie": [
+      "Bouquet Aug. R.",
+      "Panchaud Hélène. R."
+    ],
+    "Inspecteur du bétail": [
+      "Panchaud Victor"
+    ],
+    "Instituteurs": [
+      "Mermoud Clément",
+      "Golay Clara"
+    ],
+    "Maréchal": [
+      "Bouquet Gustave"
+    ],
+    "Menuisier": [
+      "Joly Léon"
+    ],
+    "Officier d’état-civil": [
+      "Mermoud Alfr."
+    ],
+    "Pasteur": [
+      "Redard Maurice"
+    ],
+    "Pierriste": [
+      "Meystre Julien"
+    ],
+    "Poste": [
+      "Panchaud Charles"
+    ],
+    "Sellier": [
+      "Gindroz Aloïs"
+    ],
+    "Sociétés": [
+      "Machine à battre. R.",
+      "de fromagerie. R.",
+      "Syndicat agricole. R.",
+      "Nouvelle Laiterie. R."
+    ],
+    "Téléphoniste": [
+      "Diserens Ernest"
+    ],
+    "Tricotage": [
+      "Mayor Lucie. T."
+    ]
+  },
+  "POLIEZ-PITTET": {
+    "Autorités communales": [
+      "Gindroz Aimé",
+      "Pahud Emilien"
+    ],
+    "Syndic": [
+      "Pahud Robert"
+    ],
+    "Municipaux": [
+      "Grognuz Louis",
+      "Carrard Armand",
+      "Delamadeleine Léon",
+      "Carrard Alfred",
+      "Mivelaz Marcel",
+      "Grognuz Dominique",
+      "Gindroz Daniel"
+    ],
+    "Agriculteurs": [
+      "Carrard Alb.",
+      "Carrard Ami",
+      "Carrard Constant",
+      "Carrard Henri",
+      "Delamadeleine Fr.",
+      "Gindroz Aimé",
+      "Gindroz Daniel",
+      "Gindroz Ern.",
+      "Gindroz Hermann",
+      "Gindroz Jules et Oscar",
+      "Grognuz Jules",
+      "Grognuz Gustave",
+      "Mivelaz Albert",
+      "Mivelaz Auguste",
+      "Mivelaz Constant",
+      "Mivelaz Marc",
+      "Mivelaz Placide",
+      "Morand Marc",
+      "Pahud Jules",
+      "Pahud Robert",
+      "Raymond-Morand"
     ]
   }
 }

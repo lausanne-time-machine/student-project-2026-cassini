@@ -1,251 +1,87 @@
 {
-  "SAINT-GEORGE": {
-    "Epicerie, mercerie, cigares, tabacs.": [
-      "André Vallon Henri",
-      "Terry-Rochat"
+  "Montreux": {
+    "Avocats — Juristes.": [
+      "Pilivet Jules",
+      "Vollenweider J."
     ],
-    "Garde-forestier.": [
-      "Terry Arthur"
+    "Bactériologiste": [
+      "de Stoutz William"
     ],
-    "Inspecteur du bétail.": [
-      "Terry Arthur"
+    "Bains": [
+      "Bains du Lac",
+      "Bains publics de l'Hôtel Splendid",
+      "David A.",
+      "Grands Bains",
+      "Montreux-Plage"
     ],
-    "Instituteurs.": [
-      "Burnet Paul",
-      "Pidoux Germaine"
+    "Bandagistes-orthopédistes": [
+      "Laval-Golay",
+      "Vogt Maurice"
     ],
-    "Laitier.": [
-      "Allemann Ernest"
+    "Banques": [
+      "Banque Populaire Suisse",
+      "Banque cantonale vaudoise",
+      "Banque de Montreux",
+      "Comptoir d'Escompte de Genève",
+      "Collet Maurice",
+      "Union de Banques Suisses"
     ],
-    "Maréchal.": [
-      "Dufour G."
+    "Bars": [
+      "Pavillon des Sports",
+      "Au Perroquet",
+      "Kursaal de Montreux"
     ],
-    "Menuisier.": [
-      "Berseth Ferdinand"
+    "Bas": [
+      "Zurcher-Heimgartner E.",
+      "Hoffmann C."
     ],
-    "Pensions d'étrangers.": [
-      "Cazin Jean",
-      "Pension Beau-Séjour",
-      "Hôtel-pension Bellevue",
-      "Saugy David",
-      "Germain-Gudet"
+    "Bateaux (constructeurs de)": [
+      "Chevalley Marc"
     ],
-    "Poste.": [
-      "Aubert Jeanne"
+    "Bateaux automobiles (loueurs de)": [
+      "Baatard & Perruchoud",
+      "Cochard Ch.",
+      "Roth A.",
+      "Vacheron J."
     ],
-    "Sage-femme.": [
-      "Renaud Frida"
+    "Bazars": [
+      "Anderegg Th.",
+      "Bazar Anglais",
+      "Bodenmann",
+      "Breuer & Cie",
+      "Cermesoni",
+      "Cottier-Bardet A.",
+      "Cuénoud & Cie",
+      "Clastres Pierre",
+      "Erranti R.",
+      "Ferrario Alfred",
+      "Gautschy Frédéric",
+      "Gloor-Tissot Clara",
+      "Lecoultre-Seitz J.-H.",
+      "Lilla Ch.-J.",
+      "Meyer César",
+      "Muller Paul",
+      "Peretti A.",
+      "Dreyfuss Blanche",
+      "Reiss & Cie",
+      "Ritschard Marguerite",
+      "Salvador Pierre"
     ],
-    "Scieur.": [
-      "Renaud Ernest"
+    "Bétail (comm. de)": [
+      "Pastore Louis",
+      "Oesch Fritz"
     ],
-    "Société.": [
-      "de laiterie et fromagerie",
-      "Société de chant",
-      "Syndicat d'alpage",
-      "Syndicat agricole"
-    ],
-    "Tailleuses.": [
-      "Berseth Louise",
-      "Fillettaz Amélie"
-    ],
-    "Téléphone et télégraphe.": [
-      "Hôtel de Commune"
-    ]
-  },
-  "SAINT-LIVRES": {
-    "Autorités communales.": [
-      "Pellet Auguste",
-      "Pellet Alfred",
-      "Pellet Adolphin",
-      "Jotterand Eugène",
-      "Grivel Aloïs",
-      "Roy Louis",
-      "Pellet Jules de Marc",
-      "Pellet Edouard",
-      "Jotterand Gustave"
-    ],
-    "Agriculteurs": [
-      "Burnier Henri",
-      "Cathélaz fils",
-      "Durand Louis",
-      "Eperon François",
-      "Gibaud Emile",
-      "Grivel Elie",
-      "Grivel Jules",
-      "Guignet Emile",
-      "Guignet Jules",
-      "Jotterand Emile",
-      "Jotterand Eug.",
-      "Jotterand Henri",
-      "Jotterand Louis, Vve",
-      "Pellet Adolphe",
-      "Pellet Edouard",
-      "Pellet Elie",
-      "Pellet Laurent",
-      "Pellet Louis",
-      "Rinnaz Alfred",
-      "Tripod Frédéric",
-      "Tripod Manex",
-      "Zbinden Otto"
-    ],
-    "Apiculteurs.": [
-      "Anken Charles",
-      "Corbaz Emile",
-      "Jotterand Gustave"
-    ],
-    "Aubergistes.": [
-      "Pellet Henri",
-      "F.peron Albert"
-    ],
-    "Boulanger.": [
-      "Oguey Isidore"
-    ],
-    "Buraliste postal.": [
-      "Tripod Marc"
-    ],
-    "Charpentier.": [
-      "Jotterand William"
-    ],
-    "Charron.": [
-      "Berthet Jules"
-    ],
-    "Commission scolaire.": [
-      "Marion E.",
-      "Gibaud Em."
-    ],
-    "Cordonnier.": [
-      "Muller Charles"
-    ],
-    "Entrepreneur.": [
-      "Zbinden Otto"
-    ],
-    "Epicerie, mercerie.": [
-      "Oguez Isidore",
-      "Vaucher César"
-    ],
-    "Garde de triage.": [
-      "Pellet François"
-    ],
-    "Inspecteurs du bétail.": [
-      "Pelle Auguste",
-      "Jotterand Emile, fils"
-    ],
-    "Instituteurs.": [
-      "Dind Emile",
-      "Curchod Marguerite",
-      "Masson-Hédiguer Marguerite"
-    ],
-    "Laitier.": [
-      "Delacrétaz André"
-    ],
-    "Maréchal.": [
-      "Fleurdelys Charles"
-    ],
-    "Pasteur.": [
-      "Marion Emile"
-    ],
-    "Paveur.": [
-      "Christiano Joseph"
-    ],
-    "Pépiniéristes.": [
-      "Finnaz Louis",
-      "Pellet Jules et fils"
-    ],
-    "Sociétés.": [
-      "de fromagerie",
-      "du battoir à grains",
-      "Syndicat agricole et d'élevage"
-    ],
-    "Tailleuses.": [
-      "Muller Alice",
-      "Sergy Henriette",
-      "Tripod Augusta"
-    ],
-    "Téléphone public.": [
-      "Auberge communale"
-    ]
-  },
-  "SAINT-OYENS": {
-    "Autorités communales.": [
-      "Grosjean Jules",
-      "Grosjean John-Alex.",
-      "Grosjean Edmond",
-      "Stalder Louis",
-      "Larpin Eugène",
-      "Haldi Alexis",
-      "Rochat Alfred",
-      "Pernet Roger",
-      "Grosjean Léopold"
-    ],
-    "Agriculteurs.": [
-      "Crottaz Hri",
-      "Grosjean Edmond",
-      "Grosjean Ferdin.",
-      "Grosjean John",
-      "Grosjean Jules",
-      "Grosjean Louis",
-      "Haldi Alexis",
-      "Haldi Aloïs",
-      "Meyer John",
-      "Rochat Ls",
-      "Stalder Louis"
-    ],
-    "Apiculteurs.": [
-      "Crottaz Henri",
-      "Grosjean Jules",
-      "Pernet Jules"
-    ],
-    "Aubergiste.": [
-      "Grosjean John d'Ais."
-    ],
-    "Bois (comm. de).": [
-      "Grosjean Edmond",
-      "Haldi Alexis",
-      "Larpin Eugène"
-    ],
-    "Commerce de bétail.": [
-      "Haldi Aloïs"
-    ],
-    "Commerce de porcs.": [
-      "Nydegger Em."
-    ],
-    "Commission scolaire.": [
-      "Grosjean Jules",
-      "Roth Jean",
-      "Stalder Louis"
-    ],
-    "Entrepreneur en maçonnerie.": [
-      "Baula Henri"
-    ],
-    "Epicerie, mercerie.": [
-      "Liardon Ch"
-    ],
-    "Horloger.": [
-      "Pernet Jules"
-    ],
-    "Inspecteur du bétail.": [
-      "Stalder Louis",
-      "Grosjean John"
-    ],
-    "Instituteurs.": [
-      "Cornuz Georges",
-      "Grosjean Eléonore"
-    ],
-    "Laitier.": [
-      "Nydegger Emile"
-    ],
-    "Machine à battre (roulante).": [
-      "Grosjean Léopold"
-    ],
-    "Poste.": [
-      "Pernet Aline"
-    ],
-    "Société.": [
-      "fromagerie"
-    ],
-    "Téléphoniste.": [
-      "Grosjean John d'Alexis"
+    "Bibliothèques": [
+      "Bibliothèque de la Société industrielle et commerciale",
+      "Bibliothèque du Musée",
+      "Bibliothèque de l'Union chrétienne",
+      "Bibliothèque Anglaise",
+      "Bibliothèque Française",
+      "Faist C.-B.",
+      "Heinisch",
+      "Librairie Payot & Cie",
+      "Rapaz",
+      "Salle des réunions"
     ]
   }
 }

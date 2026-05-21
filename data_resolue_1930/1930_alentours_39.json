@@ -1,178 +1,100 @@
 {
-  "EPESSES": {
-    "Vignerons-propriétaires": [
-      "laz Ernest",
-      "Fonjallaz Ls",
-      "Mercanton Charles",
-      "Möri Emile",
-      "Ponnaz Constant",
-      "Ponnaz Paul",
-      "Potterat Jean",
-      "Pouly Ulysse",
-      "Weber Henri"
+  "VILLE D'YVERDON": {
+    "Bureau commercial et technique.": [
+      "Renevey Eloi"
     ],
-    "Vins (march. de).": [
-      "Bovard Louis",
-      "Bron Victor",
-      "Contesse Henri",
-      "Held & Cie.",
-      "Strauss Albert",
-      "Testuz Jules"
+    "Cafés-restaurants-brasseries.": [
+      "Agassiz Henri",
+      "Auberson Numa",
+      "Banderet H.",
+      "Bandi H.",
+      "Baud Louis",
+      "Bœhle Emile",
+      "Brawand Pierre",
+      "Cruchet Gustave",
+      "Débaz Elise",
+      "Dutoit Eug.",
+      "Devallonné Ernest",
+      "Dupuis Louis",
+      "Fallet, Vve de Julien",
+      "Fuchs R. et famille",
+      "Garameter Alb.",
+      "Gendre V.",
+      "Girardet Armand",
+      "Glardon Jules",
+      "Hochuli Jean",
+      "Joyet Flora, Vve d'Aimé",
+      "Lettry-Martin Cyrille",
+      "Lüidi F.",
+      "Malnati Angelo",
+      "Marbett Valentine",
+      "Martin Edouard",
+      "Matthey Lucien",
+      "Messerli Chs",
+      "Meylan Robert",
+      "Moser Auguste",
+      "Moullet E.",
+      "Muhlematter Elisa",
+      "Mutrux Robert",
+      "Pellaux Ernest",
+      "Perriraz Jules",
+      "Progin Louis",
+      "Reubi Emile",
+      "Reubi Fritz",
+      "Ribeaud Alfred",
+      "Soder, Vve de Siegfried",
+      "Spaeth Ch.",
+      "Spæth Jeanne",
+      "Zbinden-Wermeille Achille"
     ],
-    "Divers.": [
-      "Fauquex-Mercanton, dame",
-      "Forsthoff-Fonjallaz Otto"
+    "Cafés-restaurants sans alcool.": [
+      "Briod Marcel",
+      "Michoud A.",
+      "Natural Lina, Vve"
     ],
-    "Voiturier.": [
-      "Pellet Auguste"
+    "Camionneurs.": [
+      "Barbezat Armand",
+      "Delmarco frères",
+      "Girardet Armand",
+      "Grandguillaume Henri",
+      "Petitpierre Fritz",
+      "Reichler Henri",
+      "Robellaz L.",
+      "Uebersax Rod.",
+      "Zavallone A."
     ],
-    "Autorités communales.": [
-      "Massy Albert",
-      "Fonjallaz Sam"
+    "Carrelages (fabr. de).": [
+      "Monti Aug., fils",
+      "Montorfano Angel"
     ],
-    "Syndic:": [
-      "Corboz Samuel"
+    "Cercles.": [
+      "Cercle d'Yverdon",
+      "Cercle Ouvrier"
     ],
-    "Municipaux:": [
-      "Duboux Léon",
-      "Fonjallaz Louis",
-      "Fonjallaz Paul",
-      "Fonjallaz Frédéric",
-      "Rouge Philippe",
-      "Duboux Eug.",
-      "Paley Emile"
+    "Cercueils.": [
+      "Geneux-Marendaz, Vve",
+      "Wuille L."
     ],
-    "Agent de police.": [
-      "Paley Emile"
+    "Chapeliers.": [
+      "Golay Paul",
+      "Goutte François",
+      "Petitmaitre-Fischer Emilie"
     ],
-    "Agriculteurs.": [
-      "Barraud Alb.",
-      "Bovard Louis"
-    ],
-    "Artiste peintre.": [
-      "Muret Albert"
-    ],
-    "Boulanger.": [
-      "Société coopérative"
-    ],
-    "Buraliste postal.": [
-      "Chambaz Louise"
-    ],
-    "Café.": [
-      "Cercle d'Epesses",
-      "Laurent Emile"
-    ],
-    "Charcutier.": [
-      "Paschoud Emile"
-    ],
-    "Commission scolaire.": [
-      "Fonjallaz Ls",
-      "Fonjallaz-Liardet, Mme",
-      "Meystre"
-    ],
-    "Cordonnier.": [
-      "Massarotti Charles"
-    ],
-    "Couturières.": [
-      "Gaillard Suzanne, Mme",
-      "Paley-Capt Elise",
-      "Kaisermann Marthe"
-    ],
-    "Epicerie, mercerie.": [
-      "Bezençon-Delessert",
-      "Fonjallaz Victor",
-      "Paley Robert"
-    ],
-    "Gypsiers.": [
-      "Ambrosino Joseph",
-      "Paltenghi Jean"
-    ],
-    "Inspecteurs du bétail.": [
-      "Parisod Aloïs",
-      "Bovard Paul"
-    ],
-    "Instituteurs.": [
-      "Paquier Gustave-Louis",
-      "Fonjallaz-Fonjallaz Elisa"
-    ],
-    "Laitier.": [
-      "Hegg Henri fils"
-    ],
-    "Lingère.": [
-      "Fonjallaz Anna"
-    ],
-    "Pépiniériste autorisé.": [
-      "Fonjallaz Pl."
-    ],
-    "Poudre d'os (engrais) (Fabr. de).": [
-      "Gfeller Otto"
-    ],
-    "Rentière.": [
-      "Sénard Marcelle"
-    ],
-    "Repasseuses.": [
-      "Dutruz Julia, dame",
-      "Genton Marguerite"
-    ],
-    "Sellier-tapissier.": [
-      "Gaillard Oswald"
-    ],
-    "Sociétés.": [
-      "Coopérative de consommation",
-      "Fonjallaz Hermann",
-      "Rouge Philippe"
-    ],
-    "Téléphone communal.": [
-      "Paley-Capt Elise, Mme"
-    ],
-    "Vignerons.": [
-      "Delessert Aloïs",
-      "Fonjallaz Victor",
-      "Genton Ed.",
-      "Grand Georges",
-      "Légeret Victor",
-      "Mounoud Jean-Louis",
-      "Rey Joseph",
-      "Rohrbach, Vve et fils",
-      "Wälchli Jean",
-      "Wannaz Louis"
-    ],
-    "Vins.": [
-      "Fonjallaz-Fonjallaz Frédéric",
-      "Fonjallaz Gustave & Cie., A. Massy, succ.",
-      "Massy Albert, succ. de Gust Fonjallaz & Cie."
-    ],
-    "Vignerons-propriétaires.": [
-      "Blanc François",
-      "Bovard Aimé",
-      "Bovard Eugie",
-      "Bovard Ls",
-      "Butticaz Alfred",
-      "Butticaz Gust., fils",
-      "Chappuis Henri",
-      "Chappuis Charles",
-      "Chappuis Oscar",
-      "Corboz Samuel",
-      "Cossy Aimé",
-      "Delessert Aloïs",
-      "Duboux-Bovard Eug.",
-      "Duboux Ern.",
-      "Duboux Léon",
-      "Fauquex Eugène",
-      "Fonjallaz Marie",
-      "Fonjallaz-Fonjallaz Frédéric",
-      "Fonjallaz Georges de Fritz",
-      "Fonjallaz Pl-Emmanuel",
-      "Fonjallaz, hoirie d'Eugène",
-      "Fonjallaz Benjamin",
-      "Fonjallaz Herm.",
-      "Fonjallaz Julien",
-      "Fonjallaz Ulysse",
-      "Fonjallaz, hoirie de Const.",
-      "Gay, hoirie de feu J.-Daniel",
-      "Lambelet Florian",
-      "Massy Albert",
-      "Mégroz Auguste"
+    "Charcutiers.": [
+      "Aeschlimann A.",
+      "Bonnevaux Louis",
+      "Buhler Gustave",
+      "Buhler Gaston",
+      "Cherpillod Ls",
+      "Cochand Otto",
+      "Forestier Rob.",
+      "Gaillard Edmond",
+      "Grossenbacher Albert",
+      "Dupuis Ls-Eug.",
+      "Marion-Monti",
+      "Marendaz Ch.",
+      "Schütz A.",
+      "Thévenaz Victor"
     ]
   }
 }

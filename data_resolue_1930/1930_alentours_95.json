@@ -1,218 +1,209 @@
 {
-  "CURTILLES": {
-    "Meuniers": [
-      "Association du Moulin agricole. R.",
-      "May E."
-    ],
-    "Pierriste": [
-      "Gachet Gustave"
-    ],
-    "Scieur": [
-      "Dutoit Aloïs"
-    ],
-    "Sociétés": [
-      "de fromagerie. R.",
-      "d'assurance du bétail bovin",
-      "de la fromagerie. R.",
-      "d'assurance du bétail bovin",
-      "du Moulin agricole. R.",
-      "de tir",
-      "Syndicat d'élevage de bétail bovin. R.",
-      "Syndicat de drainage",
-      "Coopérative du battoir. R."
-    ],
-    "Tailleuses": [
-      "Clot Louise",
-      "Pahud Lucie",
-      "Clot Bertha"
-    ],
-    "Scierie": [
-      "Deppierraz Aloïs"
-    ],
-    "Tailleur": [
-      "Durussel Adolphe"
-    ],
-    "Téléphoniste": [
-      "Durussel René"
-    ],
-    "Buraliste postal": [
-      "Durussel René"
-    ]
-  },
-  "DENEZY": {
-    "Autorités communales": [
-      "Deppierraz Ls",
-      "Durussel René",
-      "Chambaz Ls",
-      "Chambaz Louis",
-      "Chevalley Henri",
-      "Crisinel Emile",
-      "Chevalley Armand",
-      "Deppierraz Lucien d'Ami",
-      "Chevalley Jules d'Emile",
-      "Crisinel Aug.",
-      "Deppierraz Louis",
-      "Durussel René"
-    ],
+  "FIEZ": {
     "Agriculteurs": [
-      "Chambaz Emile",
-      "Chambaz Louis",
-      "Chevolier Armand",
-      "Chevalley Alexis",
-      "Chevalley Jules",
-      "Chevalley Aloïs",
-      "Chevalley Armand",
-      "Chevalley Charles",
-      "Chevalley Emile",
-      "Chevalley Henri",
-      "Crisinel Jean",
-      "Crisinel Jules",
-      "Deppierraz Alb.",
-      "Deppierraz Aloïs",
-      "Deppierraz Ami",
-      "Deppierraz Charles, de Constant",
-      "Deppierraz Charles, de Lucien",
-      "Deppierraz Rob.",
-      "Deppierraz Louis",
-      "de Siebenthal Benoît",
-      "Girard Louis",
-      "Gilliand Fernand",
-      "Pochon Louis",
-      "Schenk Jean"
+      "Bulloz Alexis",
+      "Détraz Alf.",
+      "Fardel Aline, Vve d'Ern.",
+      "Gaille William",
+      "Jeannin Henri",
+      "Lin Emile",
+      "Maire Albert",
+      "Maire Charles",
+      "Maygeoz Alphonse",
+      "Patthey Alfr.",
+      "Patthey Alexis",
+      "Patthey François",
+      "Patthey Maurice",
+      "Quinche Jeanne, Vve d'Alfred",
+      "Quinche Gustave",
+      "Robellaz Louis",
+      "Taillefert Albert"
     ],
     "Mutualité scolaire de retraite": [
-      "Vernez E."
+      "Besson M.",
+      "Besson Mme"
     ],
-    "Société mutualiste de retraite": [
-      "Pochon C."
+    "Aubergiste": [
+      "Buhler Edouard"
     ],
-    "Cafetier": [
-      "Crisinel Clément"
+    "Bois (march. de)": [
+      "Allisson Edouard",
+      "Quinche Gust."
     ],
-    "Commission scolaire": [
-      "Rapin Ed.",
-      "Chambaz Louis"
+    "Boucher": [
+      "Bulloz Alexis"
     ],
-    "Epicerie": [
-      "Fackler Jean"
+    "Boulanger": [
+      "Baud Henri"
     ],
-    "Inspecteur du bétail": [
-      "Deppierraz Ch.-Louis"
+    "Cantonnier": [
+      "Amiet Jean"
     ],
-    "Instituteurs": [
-      "Vernez Edmond",
-      "Anex Edith"
+    "Charpentier-menuisier": [
+      "Fleury Joseph"
     ],
-    "Laitier": [
-      "Stucki Gottfried"
-    ],
-    "Meunier": [
-      "Moulin agricole",
-      "Fivaz"
-    ],
-    "Officier de l'état civil": [
-      "Pochon Hri"
-    ],
-    "Pasteur": [
-      "Rapin Ed."
-    ]
-  },
-  "DOMPIERRE": {
-    "Autorités communales": [
-      "Besson Héli",
-      "Tenthorey Auguste",
-      "Duc Félix",
-      "Besson Marcel",
-      "Besson Emile",
-      "Vauthey Edouard",
-      "Tenthorey Ernest",
-      "Besson Georges",
-      "Corthésy William",
-      "Corthésy Constant",
-      "Besson Edmond"
-    ],
-    "Agriculteurs": [
-      "Besson Emile",
-      "Besson Ernest",
-      "Besson Héli",
-      "Blaser David",
-      "Corthésy Adolphe",
-      "Corthésy Ernest-Ulysse",
-      "Corthésy Lucien",
-      "Corthésy Robert",
-      "Corthésy William",
-      "Corthésy-Guex Alfred",
-      "Deppierraz Ernest",
-      "Deppierraz J.",
-      "Diserens Paul",
-      "Druey Robert",
-      "Duc Constant",
-      "Duc Félix",
-      "Hauser Ch.",
-      "Oulevey Eugène",
-      "Paccaud Aloïs",
-      "Paccaud Octave",
-      "Schwab Jacob",
-      "Tenthorey frères",
-      "Vauthey Ed."
-    ],
-    "Bois": [
-      "Diserens Paul"
-    ],
-    "Boulangerie": [
-      "Lambelet"
-    ],
-    "Café": [
-      "Diserens Héli"
-    ],
-    "Charpentier": [
-      "Diserens Paul"
+    "Charron": [
+      "Hodel E."
     ],
     "Commission scolaire": [
-      "Duc Constant",
-      "Corthésy William",
-      "Tenthorey Auguste"
+      "Ray Edmond",
+      "Durussel Aloïs",
+      "Taillefert Jules"
     ],
     "Cordonnier": [
-      "Jaccottet Emile"
+      "Patthey Aloïs"
     ],
-    "Epicerie, mercerie, tabacs": [
-      "Lambelet Louis",
-      "Schneider Gustave"
+    "Entrepreneur": [
+      "Bühler Louis"
+    ],
+    "Epicerie, mercerie": [
+      "Fluckiger Marcel",
+      "Gaillard Henriette"
+    ],
+    "Huilerie": [
+      "Quinche Gustave"
     ],
     "Inspecteur du bétail": [
-      "Besson Emile"
+      "Patthey Alfred"
     ],
     "Instituteurs": [
-      "Ogay Werner",
-      "Besson Blanche"
+      "Besson Ernest",
+      "Besson Marie"
+    ],
+    "Jardinier": [
+      "Garin Auguste"
+    ],
+    "Laitier": [
+      "Henry Oscar"
     ],
     "Lingère": [
-      "Vernez Alice"
+      "Patthey Juliette"
     ],
     "Maréchal": [
-      "Besson Marcel"
+      "Jaccard Arthur"
     ],
-    "Menuisier": [
-      "Diserens Paul"
+    "Motocyclettes": [
+      "Fluckiger Marcel"
+    ],
+    "Officier d'état-civil": [
+      "Baud Henri"
     ],
     "Pasteur": [
-      "Audemars Joseph"
+      "Cousin Eugène"
     ],
-    "Scieurs": [
-      "Diserens Paul",
-      "Gilliéron Jules"
+    "Pensionnat de demoiselles": [
+      "Ray-Haldimand"
+    ],
+    "Pierriste": [
+      "Gaillard Eugène"
+    ],
+    "Poste": [
+      "Maire David"
+    ],
+    "Rentiers": [
+      "Freymond Rose",
+      "Gilliard Edmond",
+      "Gilliard Elisa",
+      "Gilliard John",
+      "Patthey Caroline",
+      "Patthey Louise",
+      "Patthey Maurice",
+      "Quinche Louis",
+      "Ray Edmond"
+    ],
+    "Repasseuse": [
+      "Gerbex-Patthey E."
+    ],
+    "Scieur": [
+      "Allisson Edouard",
+      "Quinche Gustave"
     ],
     "Sociétés": [
-      "du battoir à blé. R.",
-      "de fromagerie. R.",
-      "de scierie à vapeur",
-      "de la fromagerie des Granges. R.",
-      "Syndicat agricole. R."
+      "de fromagerie",
+      "de tir",
+      "d'agriculture",
+      "du poids public"
+    ],
+    "Tailleur": [
+      "Durussel-Quinche Aloïs"
+    ],
+    "Tailleuses": [
+      "Dijamatovics Elisa",
+      "Kiener Lydie",
+      "Maire-Patthey Augusta"
     ],
     "Téléphone": [
-      "Schneider G.",
-      "Café Vaudois"
+      "La Commune"
+    ],
+    "Vins (march. de)": [
+      "Taillefert J."
+    ],
+    "Vignerons": [
+      "Boulaz Jules",
+      "Carrard Louis",
+      "Détraz Alfred",
+      "Duvoisin Ernest",
+      "Maire Albert",
+      "Musy Edouard"
+    ]
+  },
+  "FONTAINES": {
+    "Agriculteurs": [
+      "Auberson Eugène",
+      "Boulaz Em.",
+      "Boulaz Sylv.",
+      "Charlet Alf.",
+      "Chevalier Aloïs",
+      "Chevalier Jules",
+      "Chevalier Ls",
+      "Chevalier Fçois",
+      "Cruchaud Jonas",
+      "Cruchaux Mce.",
+      "Duvoisin Félix",
+      "Giroud L.",
+      "Guillet Adr.",
+      "Lang Jules",
+      "Roulet Alexis",
+      "Roulet Ed.",
+      "Roulet Félix",
+      "Roulet Louis",
+      "Roulet Georges"
+    ],
+    "Amédiateurs": [
+      "Cruchaud Maurice",
+      "Guillet Adrien"
+    ],
+    "Cafés": [
+      "Payot François",
+      "Giroud Louis"
+    ],
+    "Charpentiers-menuisiers": [
+      "Roulet Gaston",
+      "Roulet Marcel"
+    ],
+    "Coiffeur": [
+      "Obrecht Gabriel"
+    ],
+    "Commission scolaire": [
+      "Cruchaud Maurice",
+      "Roulet Ed.",
+      "Roulet Louis, fils"
+    ],
+    "Epicerie": [
+      "Société coopérative de consommation"
+    ],
+    "Inspecteur du bétail": [
+      "Roulet Georges"
+    ],
+    "Instituteurs": [
+      "Noverraz Oscar",
+      "Champod-End Marie"
+    ],
+    "Laitier": [
+      "Muller Emile"
+    ],
+    "Maréchal": [
+      "Banderet Maurice"
     ]
   }
 }

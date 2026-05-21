@@ -1,168 +1,231 @@
 {
-  "DISTRICT DE LAVAUX": {
-    "Préfet": [
-      "Foscale Antoine"
-    ],
-    "Substitut": [
-      "Duboux Eugène"
-    ],
-    "Receveur": [
-      "Gay Marc"
-    ],
-    "Conservateur du registre foncier": [
-      "Parisod Henri"
-    ],
-    "Tribunal de district": [
-      "Petitmermet Robert",
-      "Palaz Gustave",
-      "Chaudet Emile",
-      "Baatard Charles",
-      "Fonjallaz-Décoppet Henri",
-      "Dupertuis Antoine"
-    ],
-    "Poursuites et faillites": [
-      "Marendaz Alfred"
-    ]
-  },
-  "CHEXBRES": {
+  "BLONAY": {
     "Autorités communales": [
-      "Frossard Julien",
-      "Butticaz Maurice",
-      "Paley André"
-    ],
-    "Syndic": [
-      "Dénéréaz Eugène"
+      "Mamin Rodolphe",
+      "Jaccaud Ern.",
+      "Pilliod Robert"
     ],
     "Municipaux": [
-      "Bovy Hri",
-      "Meyer Emile",
-      "Chappuis Henri",
-      "Conne Ls",
-      "Gilliéron Gustave",
-      "Echenard Robert"
+      "Bonjour Alexis",
+      "Dupraz Aug.",
+      "Dupraz Ulysse",
+      "Cardinaux André"
+    ],
+    "Secrét. percepteur": [
+      "Magnin César"
     ],
     "Agent de police": [
-      "Zimmermann Octve"
+      "Ducret François"
     ],
-    "Agriculteurs — vignerons": [
-      "Amstein Henri",
-      "Barbey Em.",
-      "Barbey Léon",
-      "Bovy Hri. T.",
-      "Chappuis Vincent, Henri et Louis",
-      "Chaubert Louis",
-      "Chevalley François",
-      "Chevalley Théodore",
-      "Conne Alb.",
-      "Conne Ami",
-      "Conne John",
-      "Conne Ls",
-      "Fonjallaz Adr.",
-      "Grandchamp, les fils d'Aimé",
-      "Grandchamp Ls",
-      "Jaunin, hoirs de Robert",
-      "Jomini, hoirie d'Aimé",
-      "Jacquemettaz Joseph",
-      "Kaeser Adrien",
-      "Légeret Oscar",
-      "Leyvraz Alfred",
-      "Leyvraz John",
-      "Murisier Emile",
-      "Paley André",
-      "Paley Emile",
-      "Rogivue A."
+    "Agriculteurs": [
+      "Bonjour Alfred",
+      "Bonjour-Regamey",
+      "Bonjour Emile",
+      "Bonjour Louis",
+      "Bonjour Alexis",
+      "Bonjour Albert",
+      "Bonjour Eug.",
+      "Boraley-Bornet François",
+      "Cardinaux Jules",
+      "Cardinaux André",
+      "Les Serrettes",
+      "Dupraz Auguste",
+      "Dupraz Gustave",
+      "Dupraz-Taverney L.",
+      "Guex-Bonjour L.",
+      "Lenoir Charles",
+      "Mamin Rodolphe",
+      "Pilliod Robert",
+      "Rossier frères",
+      "Saugy Emile",
+      "Schneiter Ed.",
+      "Vincent Victor",
+      "Vuadens Charles"
     ],
     "Apiculteurs": [
-      "Chaubert Louis",
-      "Tonduz François"
+      "Budry Marc et Jean"
     ],
-    "Architecte": [
-      "Dorier Charles"
+    "Appareilleur": [
+      "Weber Emile"
     ],
-    "Asile pour enfants": [
-      "La Nichée"
+    "Associations mutualistes de retraite": [
+      "Jaccaud E."
     ],
-    "Assesseur": [
-      "Chappuis Henri"
+    "Bains": [
+      "Cochard Louis"
     ],
-    "Automobiles (courses)": [
-      "Lebet Marcel",
-      "Meylan Edouard"
+    "Bois": [
+      "Papilloud et Roh"
     ],
-    "Auto-Transport": [
-      "Delay John"
-    ],
-    "Assurance-vieillesse": [
-      "Mutualité scolaire de retraite",
-      "Echenard R."
-    ],
-    "Auberges et cafés": [
-      "Chaubert Louis",
-      "Gilliéron Constant",
-      "Carestia Elisa",
-      "Hochuli Henri",
-      "Légeret Paul",
-      "Würsten-Séchaud Jules",
-      "Lavanchy Aloïs"
-    ],
-    "Avocat": [
-      "Dr Paschoud André"
-    ],
-    "Banque": [
-      "Crédit foncier et Caisse d'Epargne cantonale",
-      "Gilliéron G.",
-      "B. C. V."
-    ],
-    "Blanchisseuses et repasseuses": [
-      "Delay, dame",
-      "Goumoëns Sophie",
-      "Paccaud, dame",
-      "Wütrich, dame"
-    ],
-    "Bois de chauffage": [
-      "Delay John"
-    ],
-    "Bouchers": [
-      "Gilliéron Paul",
-      "Ochsner Jacques"
+    "Boucheries-charcuteries": [
+      "Bovay Ls",
+      "Dovat Adrien"
     ],
     "Boulangers": [
-      "Bidlingmeyer Ami",
-      "Chaubert Aimé",
-      "Naegele Louis"
+      "Hofer Alexandre",
+      "Henry Constant",
+      "Mayor-Dufaux Louis",
+      "Regamey Adolphe"
     ],
-    "Café sans alcool": [
-      "Le Foyer pour Tous",
-      "Décosterd Louis"
+    "Cafetiers": [
+      "Sieber Pierre",
+      "Cochard Louis",
+      "Genevay Gustave",
+      "Grandchamp D.",
+      "Guex Louis",
+      "Vuadens Emile",
+      "Haller Albert"
     ],
-    "Cantonniers": [
-      "Deladœy Rob.",
-      "Légeret Emile",
-      "Leyvraz Félix"
-    ],
-    "Chapeliers": [
-      "Borgeaud A. & Cie.",
-      "Jaccard Marie et Augusta"
+    "Camionneur": [
+      "Bonjour Rodolphe"
     ],
     "Charpentiers": [
-      "Eich et fils",
-      "Tonduz François"
+      "Felley H.",
+      "Paplloud et Roh",
+      "Vauthey A. et E."
     ],
-    "Charretiers": [
-      "Barbey Léon",
-      "Chaubert Louis",
-      "Meylan Elie"
+    "Charpentier-menuisier": [
+      "Dupraz Rob."
     ],
     "Charron": [
-      "Grandchamp Aimé"
+      "Margot Alexis"
     ],
-    "Chaussures": [
-      "Dénéréaz Eug.",
-      "Gilliéron Gust."
+    "Chef de gare": [
+      "Dupraz Henri"
     ],
-    "Chefs de gares": [
-      "Mivellaz",
-      "Gerbex Jules"
+    "Coiffeur": [
+      "Moret Henri"
+    ],
+    "Combustibles": [
+      "Bonjour Rod."
+    ],
+    "Commission scolaire": [
+      "Dr E. Roud",
+      "Dénéréaz Louis",
+      "Mamin Rodolphe",
+      "Guex-Bonjour Elise",
+      "Mlle Dupraz Marie"
+    ],
+    "Cordonniers": [
+      "Dupuis Fernand",
+      "Schütz-Dupraz",
+      "Pasquero"
+    ],
+    "Couturières": [
+      "Bonjour-Henchoz Frida",
+      "Bonjour-Musy",
+      "Diserens Lydia",
+      "Mamin-Oesch"
+    ],
+    "Crémeries": [
+      "Weber-Walter E.",
+      "Bonjour Bertha",
+      "Troillet Eugénie"
+    ],
+    "Ecole particulière": [
+      "Brun Mathilde",
+      "Nussbaum R."
+    ],
+    "Entrepreneur": [
+      "Vuadens-Boraley Hri"
+    ],
+    "Epicerie, mercerie": [
+      "Chabloz Louis",
+      "Henry Constant",
+      "Hofer Alexandre",
+      "Mayor-Dufaux Louis",
+      "Regamey Adolphe"
+    ],
+    "Ferblantier-couvreur": [
+      "Schmied Jean"
+    ],
+    "Forestier": [
+      "Montet Alexandre"
+    ],
+    "Gypsier-peintre": [
+      "Crosa Jean fils"
+    ],
+    "Hôtels-Pensions": [
+      "Bonjour Eugène",
+      "Bonjour Louisa",
+      "Bonjour Adolphe",
+      "Cochard Louis",
+      "Delafontaine",
+      "Moser Jn",
+      "Nussbaum Stéphanie",
+      "Association Viticole",
+      "Hôtel de Bahyse",
+      "Haller Albert",
+      "Weber E."
+    ],
+    "Ingénieur": [
+      "Dénéréaz Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Morier Louis",
+      "Ducret Franç."
+    ],
+    "Instituteurs": [
+      "Cornaz Samuel",
+      "Jaccaud Ernest",
+      "Herminjard Alice",
+      "Bron Nelly",
+      "Cornaz-Rochat Eugénie"
+    ],
+    "Jardiniers": [
+      "Dupraz Ulysse",
+      "Hück C.",
+      "Hück W."
+    ],
+    "Lingères": [
+      "Margairaz Lucie",
+      "Pilet Léa"
+    ],
+    "Maréchal": [
+      "Morier Louis"
+    ],
+    "Médecin": [
+      "Roud Eugène"
+    ],
+    "Menuisiers": [
+      "Beguin Aug.-Alfred",
+      "Bohren Auguste",
+      "Felley Hri."
+    ],
+    "Meuniers": [
+      "Dizerens Louis"
+    ],
+    "Mercerie": [
+      "Regamey Adolphe"
+    ],
+    "Officier d'Etat civil": [
+      "Magnin César"
+    ],
+    "Pasteur": [
+      "Subilia Fern."
+    ],
+    "Pensions pr enfants": [
+      "Hofer Alexandre",
+      "Nussbaum Robert"
+    ],
+    "Poste et télégraphe": [
+      "Pilet Emile"
+    ],
+    "Rentiers": [
+      "Bosworth-Smith",
+      "de Lacroix",
+      "de Neufville Ed.",
+      "de Palézieux Mina",
+      "Ryff Jean-Otto",
+      "Russak R. Jaques",
+      "Stewart C.-B.",
+      "Ulrich Théodore",
+      "Weber-Walter E.",
+      "Wenger Eugène"
+    ],
+    "Scieries": [
+      "Papilloud et Roh",
+      "Vauthey A. & E."
     ]
   }
 }

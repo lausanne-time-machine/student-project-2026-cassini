@@ -1,234 +1,110 @@
 {
-  "BOURNENS": {
-    "Inspecteur du bétail": [
-      "Piot Georges",
-      "Pache Emile"
+  "Montreux": {
+    "Fruits, primeurs, fleurs.": [
+      "Gonthier Emile",
+      "Grognuz Ed.",
+      "Guntlisberger Gottfried",
+      "Juillard-Humberset Mathilde",
+      "Jaccard Ch.",
+      "Levinsky Jakes",
+      "Luthy",
+      "Meier Paul",
+      "Mottier M.",
+      "Nançoz Albert",
+      "Noll-Mury",
+      "Palestra & Cie",
+      "Pasteur-Wicht",
+      "Pezzochio François",
+      "Peyrollaz Hri.",
+      "Pitteloud-Gabioud J.",
+      "Ponzini Angela",
+      "Prina S.",
+      "Purro Albine",
+      "Roulier S.",
+      "Schlageter Arnold",
+      "Stoppa",
+      "Steffen Berthe",
+      "Steffen Robert",
+      "Tettamanti Carlo",
+      "Trullas & Cie",
+      "Turin Henri",
+      "Wagnière François",
+      "Zanazzo-Balestra",
+      "Zuber Emile",
+      "Zurbrugg C."
     ],
-    "Instituteur": [
-      "Destraz Henri"
+    "Gardes-malades": [
+      "Bureau de l'association",
+      "Bureau de garde-malades diplômées",
+      "Aubert Léa",
+      "Badan",
+      "Bellenot",
+      "Berdoz",
+      "Böttcher",
+      "David-Mayor",
+      "Dufour Andrée",
+      "Fonjallaz",
+      "Francey",
+      "Hausmann B.",
+      "Home catholique international et garde-malades",
+      "Légeret Marg.",
+      "Martin",
+      "Malherbe C.",
+      "Mallet",
+      "Messmer L.",
+      "Rau",
+      "Rochat",
+      "Rouge Adèle",
+      "Sieber-Francey"
     ],
-    "Laitier": [
-      "Buffat Maurice"
+    "Garde-meubles": [
+      "Allamand Jules",
+      "Millasson Chs"
     ],
-    "Lingère": [
-      "Curchod-Rossier Elise"
+    "Gaz": [
+      "Société veveysanne du gaz Vevey-Montreux"
     ],
-    "Poste": [
-      "Bocion Louis"
+    "Géomètres officiels": [
+      "Jaquet Edmond",
+      "Maron Robert",
+      "Thibaud Paul"
     ],
-    "Société": [
-      "de fromagerie",
-      "du battoir à grains",
-      "Syndicat pour l'amélioration de la race porcine"
+    "Gérants": [
+      "Brémond (de)",
+      "Furer Pierre",
+      "Herminjard Ls",
+      "Légeret Ch.",
+      "Maron Em. et Robert",
+      "Morier O.",
+      "Mottier Js",
+      "Puenzieux Albert",
+      "Raccoursier Eugène",
+      "Veillard H."
     ],
-    "Téléphoniste": [
-      "Bocion Victor"
+    "Glace": [
+      "Fabrique de glace hygiénique"
     ],
-    "Tricotage": [
-      "Favre-Schlaeppi, Mme"
-    ]
-  },
-  "BOUSSENS": {
-    "Président du Conseil général": [
-      "Gaudard-Bocion Emile"
+    "Grains et farines": [
+      "Budry Jean"
     ],
-    "Secrétaire": [
-      "Bally Maurice"
+    "Graines (march. de)": [
+      "Dubois Charles-Eugène",
+      "Dubois-Fasnacht J.",
+      "Jeanrenaud Ed. & Cie",
+      "Junod J.-A."
     ],
-    "Syndic": [
-      "Girardet Constant"
+    "Graveurs": [
+      "Brand H.",
+      "Harnisch B.",
+      "Lecoultre-Seitz J."
     ],
-    "Municipaux": [
-      "Chatelan Auguste",
-      "Gaudard Paul",
-      "Gaudard Ernest",
-      "Gaudard Maurice",
-      "Degallier Marcel"
-    ],
-    "Boursier": [
-      "Chatelan Auguste"
-    ],
-    "Agriculteurs": [
-      "Bally Louise",
-      "Bally Charles",
-      "Bally Const.",
-      "Chatelan Auguste",
-      "Dubauloz François",
-      "Dubrit Constant",
-      "Gachet Alfred",
-      "Gaudard Charles-Henri",
-      "Gaudard Lina",
-      "Gaudard Paul",
-      "Gaudard-Bocion Emile",
-      "Gaudard-Bally Emile",
-      "Gaudard-Bourgeois Emile",
-      "Gaudard Ami",
-      "Gaudard Eugène",
-      "Gaudard Maurice",
-      "Gaudard Ch.",
-      "Gaudard Jules",
-      "Girardet Constant",
-      "Henny William",
-      "Vanev Louis"
-    ],
-    "Apiculteur": [
-      "Cornaz Félix"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Degallier M."
-    ],
-    "Cafetier": [
-      "Girardet Constant"
-    ],
-    "Commission scolaire": [
-      "Gaudard-Bocion Emile",
-      "Girardet Octave",
-      "Gaudard Maurice"
-    ],
-    "Epicerie, mercerie, tabacs": [
-      "Bally Louisa"
-    ],
-    "Facteur": [
-      "Gaudard-Chatelan Auguste"
-    ],
-    "Inspecteur du bétail": [
-      "Bally Ch."
-    ],
-    "Instituteurs": [
-      "Degallier Marcel",
-      "Clavel Rosa"
-    ],
-    "Sociétés": [
-      "de laiterie",
-      "Syndicat agricole",
-      "Société de tir",
-      "Assurance contre la mortalité des chevaux",
-      "Assurance bovine"
-    ],
-    "Téléphoniste": [
-      "Girardet Constant"
-    ]
-  },
-  "CHAVANNES-LE-VEYRON": {
-    "Dépôt de poste et téléphone": [
-      "Autobus S. A. P. I. V."
-    ],
-    "Président du Conseil général": [
-      "Rochat Louis"
-    ],
-    "Secrétaire": [
-      "Bettens Jean",
-      "Bettens Adrien"
-    ],
-    "Syndic": [
-      "Bettens William"
-    ],
-    "Municipaux": [
-      "David Ed.",
-      "Bettens Emile",
-      "Nyffenegger Pierre",
-      "Zimmermann Marcel"
-    ],
-    "Boursier": [
-      "Bettens Jean"
-    ],
-    "Agriculteurs": [
-      "Bettens Albert",
-      "Bettens William",
-      "Bolay Julien",
-      "Braissant Emile",
-      "Braissant Germain",
-      "Clément Constant",
-      "David John",
-      "Favre Alfred",
-      "Favre William",
-      "Fuchs Henri",
-      "Kuffer Emile",
-      "Nyffenegger Pierre",
-      "Pavillard François",
-      "Rochat Louis",
-      "Zimmermann Georges"
-    ],
-    "Amodiateurs": [
-      "Nyffenegger Pierre",
-      "Rochat Louis"
-    ],
-    "Apiculteurs (fab. de ruches)": [
-      "Cochet Léon",
-      "Kuffer Emile",
-      "Longchamp Edouard",
-      "Schiesser Albert"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Cochet L."
-    ],
-    "Charpentier": [
-      "Zbinden Louis"
-    ],
-    "Commission scolaire": [
-      "Bettens Albert",
-      "Bettens Charles"
-    ],
-    "Dépositaire postal": [
-      "Bettens Alb."
-    ],
-    "Epicerie": [
-      "Braissant Emile",
-      "Longchamp Edouard"
-    ],
-    "Inspecteur du bétail": [
-      "David Ed."
-    ],
-    "Instituteurs": [
-      "Cochet Léon",
-      "Favre Jenny"
-    ],
-    "Laitier": [
-      "Rochat Gustave"
-    ],
-    "Meunier": [
-      "Boven Charles"
-    ],
-    "Scierie et forge": [
-      "Prévost Léopold"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "Gustave Rochat",
-      "du battoir à grains"
-    ],
-    "Téléphoniste": [
-      "Bettens Hortense"
-    ]
-  },
-  "CHEVILLY": {
-    "Président du Conseil général": [
-      "Gleyre Arnold"
-    ],
-    "Secrétaire": [
-      "Lugeon Robert",
-      "Gaudin Charles"
-    ],
-    "Syndic": [
-      "Gleyre Maurice"
-    ],
-    "Municipaux": [
-      "Lugeon-Bonzon",
-      "Lugeon-Chanson",
-      "Lugeon-Gex",
-      "Lugeon-Burnier"
-    ],
-    "Agriculteurs": [
-      "Braissant Adolphe",
-      "Braissant Marc",
-      "Bredaz Henri",
-      "Cornaz Charles",
-      "Gaudin René",
-      "Gleyre Fernand",
-      "Lugeon Maurice",
-      "Lugeon Louis",
-      "Mingard Louis",
-      "Walter-Braissant"
+    "Gymnastique médicale et suédoise": [
+      "Christin G.",
+      "Courant Charles",
+      "Funkquist G.-D.",
+      "Gmehlin H.",
+      "Rouilly Em.",
+      "Widell Vincent"
     ]
   }
 }

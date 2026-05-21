@@ -1,117 +1,183 @@
 {
-  "VILLE DE NYON": {
-    "Professeurs de musique.": [
-      "Dupraz G.",
-      "Golay Adrienne",
-      "Huber, dame",
-      "Richli-Bidal, dame"
+  "LE CHENIT": {
+    "Justice de paix": [
+      "Alfred-Moïse",
+      "Berney Alb.",
+      "Depraz William",
+      "Rochat Marcel",
+      "Greffier",
+      "Rochat Adolphe"
     ],
-    "Quincaillerie.": [
-      "Boldrini & Cie",
-      "Durand Antoine",
-      "Veuillet, Vve de Franç."
+    "Laitier.": [
+      "Rochat Albert. T."
     ],
-    "Radeleur.": [
-      "Dotte Henri"
+    "Mécanicien.": [
+      "Hæfliger Charles."
     ],
-    "Ramoneur.": [
-      "Paillex Ernest"
+    "Machines à coudre.": [
+      "Locatelli Ant. T."
     ],
-    "Régisseurs d'immeubles.": [
-      "Bonnard Louis",
-      "Burnier André",
-      "Champrenaud, Vve de Louis",
-      "Dupraz & Perrier",
-      "Genton Eugène",
-      "Mayor & Bonzon",
-      "Sautter & Cie"
+    "Maréchaux.": [
+      "Rochat Ami T.",
+      "Rochat Edmond fils."
     ],
-    "Relieurs.": [
-      "Aubert-Kallenberg Eugène",
-      "Badel Louis",
-      "Chaillet Edouard",
-      "Chapallaz Henri",
-      "Peter Charles"
+    "Médecin.": [
+      "Rochat James."
     ],
-    "Rémouleurs (aiguiseurs).": [
-      "Besson Simon",
-      "Schertlin, Mlle"
+    "Menuisiers.": [
+      "Bolomey Em.",
+      "Laufenbourg fils",
+      "Rochat Féréol."
     ],
-    "Renseignements commerciaux.": [
-      "Genton Eug.",
-      "Sommer Jean"
+    "Photographe.": [
+      "Locatelli Jos. T."
     ],
-    "Représentants de commerce.": [
-      "Capt Louis",
-      "Plantaz",
-      "Jaton-Jaquinet",
-      "Robert Ernest",
-      "Schwab Robert"
+    "Représentant.": [
+      "Muller Gott."
     ],
-    "Restaurants.": [
-      "Bonnin Marguerite",
-      "Gerber Emile",
-      "Guignard Louis",
-      "Husson Henri",
-      "Méroth Emma",
-      "Roschi Victor",
-      "Röthlisberger Gottfried",
-      "Visio Ange"
+    "Sellier-tapissier.": [
+      "Walther Rob. RT."
     ],
-    "Sages-femmes.": [
-      "Bochaton-Hugli Jeanne",
-      "Dufour-Bovay, dame",
-      "Lambossy-Francelet Mte",
-      "Schläppi-Arnaud Emma"
-    ],
-    "Scieries.": [
-      "Chaudet Louis",
-      "Rousselet frères"
-    ],
-    "Selliers.": [
-      "Barbey frères",
-      "Golay Ernest",
-      "Muller Gottfried"
-    ],
-    "Sépultures.": [
-      "Borgognon Edouard"
-    ],
-    "Serruriers.": [
-      "Batisse Auguste",
-      "Dégallier frères",
-      "Durand-Kocher Edouard",
-      "Gamberoni Ang.",
-      "Huber Alb.",
-      "Longchamp Aloïs",
-      "Zaffinetti Hercule et fils"
-    ],
-    "Services industriels": [
-      "de la Commune de Nyon",
-      "Rindlisbacher Edmond",
-      "Butticaz Emmanuel"
+    "Skis et luges.": [
+      "Walther Robert."
     ],
     "Sociétés.": [
-      "Association forestière vaudoise",
-      "Caisse d'épargne",
-      "Cercle des Nageurs",
-      "Chœur de dames",
-      "Club L'Aviron",
-      "Compagnie du Chemin de fer Nyon-Morez",
-      "Union instrumentale de Nyon",
-      "Orchestre de Nyon",
-      "Hygiène sociale et morale",
-      "Financim, S. A.",
-      "Société des pêcheurs amateurs",
-      "Société des bains, buanderie et blanchisserie",
-      "Société française de Nyon",
-      "» de l'Union syndicale ouvrière de Nyon",
-      "» de la fabrique d'allumettes Diamond",
-      "» électrique de la Côte",
-      "» de la laiterie mutuelle",
-      "» pour le développement",
-      "» anonyme de la Métairie",
-      "» de l'asile de jeunes filles",
-      "» de sauvetage du lac Léman"
+      "Fédération des fabricants de contre-pivots et sertisseurs. R.",
+      "R. pour l'exploitat. de la glacière.",
+      "« La Jeune Suisse ». R.",
+      "R. de développement",
+      "Sporting-Club. R.",
+      "Laiterie du Pont. R."
+    ],
+    "Sports (art. de).": [
+      "Rochat Sam. RT.",
+      "Rochat-Piguet",
+      "Walther Rob."
+    ],
+    "Tailleuses.": [
+      "Rochat Cécile",
+      "Rochat Elise."
+    ],
+    "Vacherins.": [
+      "Rochat Albert",
+      "Rochat-Golay Henri RT.",
+      "Rochat F."
+    ],
+    "Vélos.": [
+      "Locatelli Ant. RT."
+    ],
+    "Voituriers.": [
+      "Laffely-Mouquin",
+      "Rochat Ami",
+      "Rochat Gustave"
+    ],
+    "Divers.": [
+      "Bunau-Varilla."
+    ],
+    "Autorités communales.": [
+      "Baud Albert.",
+      "Capt Adrien.",
+      "Audemars Paul",
+      "Aubert Léon",
+      "Capt Ernest",
+      "Golay Hri",
+      "Aubert-Piguet Mcel.",
+      "Reymond Hector",
+      "Audemars H.",
+      "Rochat-Meier Paul",
+      "Golay Isaac"
+    ],
+    "Bureau des étrangers et police locale.": [
+      "Alfred Golay",
+      "Guignard Ed."
+    ],
+    "Commission scolaire.": [
+      "Mevlan Marius",
+      "Piguet Marius",
+      "Baud Albert.",
+      "Guignard Marc",
+      "Reymond Arthur",
+      "Aubert Ch.",
+      "Leresche Maurice",
+      "Piguet Théodore"
+    ]
+  },
+  "LE BRASSUS": {
+    "Président du Conseil administratif :": [
+      "Piguet Henri-Louis",
+      "Rochat Hri, père",
+      "Rochat-Meier Paul",
+      "Capt Louis",
+      "Meylan Paul"
+    ],
+    "Agriculteurs.": [
+      "Aubert Eug.",
+      "Aubert Aug.",
+      "Tribillet. Hoirie. T.",
+      "Audemars Hri, fils",
+      "Audemars Louis",
+      "Audemars Albert",
+      "Dupuis Ls",
+      "Guignard Albert",
+      "Lecoultre-Vautier H.",
+      "Lecoultre Alexandre",
+      "Meylan David-Paul",
+      "Meylan Hri",
+      "Meylan Hri-Sam.",
+      "Meylan Jacques-Hri",
+      "Meylan Hri-Franc.",
+      "Meylan Wil.",
+      "Pache Edouard",
+      "Piguet Ern.",
+      "Piguet Albert",
+      "Reymond Henri",
+      "Reymond Jules",
+      "Reymond Etienne",
+      "Rochat Ch.",
+      "Rochat Henri, père et fils. T."
+    ],
+    "Amodiateurs de montagnes.": [
+      "Aubert Hoirie d'Aug.. Tribillet",
+      "Aubert Eugène",
+      "Audemars Louis",
+      "Pesenti Roger",
+      "Reymond Eugène",
+      "Rochat Hri"
+    ],
+    "Assurances.": [
+      "La Genevoise, Vie.",
+      "Meylan Ernest",
+      "Soc. gén. d'assurances sur la vie humaine, Zurich et Helvetia-Accidents, Zurich",
+      "Rochat-Meier P. T."
+    ],
+    "Assurance-vieillesse.": [
+      "Associations mutualistes de retraite.",
+      "Berney J."
+    ],
+    "Aubergistes.": [
+      "Dalloz Eugène",
+      "Demiéville",
+      "Guignard Louis",
+      "Jaquenoud Laurent",
+      "Jotterand Ulrich",
+      "Brahier E.",
+      "Reymond A."
+    ],
+    "Banque.": [
+      "Caisse d'Epargne et de Crédit mutuel. R."
+    ],
+    "Bijouterie-horlogerie et optique (mag. de).": [
+      "Piguet Emile. G. RT."
+    ],
+    "Blanchisseuses-repasseuses.": [
+      "Dupuis Amélie",
+      "Lecoultre Constance",
+      "Meylan",
+      "Mme Monnier",
+      "Nicole Louise",
+      "Piguet Nancy",
+      "Reymond Donalie",
+      "Saugy, dame."
     ]
   }
 }

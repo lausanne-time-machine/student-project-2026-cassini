@@ -1,107 +1,216 @@
 {
-  "Ville de Nyon": {
-    "Horlogerie.": [
-      "Fabrique de cadrans métalliques Le Léman, S. A."
+  "Le Mont": {
+    "Sociétés": [
+      "la Croix-Bleue",
+      "de développement",
+      "Militaire des agriculteurs",
+      "des Amis du Progrès",
+      "de chant : Aurore",
+      "Assurance chevaline"
     ],
-    "Horlogers.": [
-      "Guignard Hector",
-      "Froidevaux Armand",
-      "Jaques Edmond",
-      "Meyer-Ruschetta Henri",
-      "Perrelet J.-F."
+    "Tailleur.": [
+      "Depierraz Constant",
+      "Coppoz"
     ],
-    "Horticulteurs-fleuristes.": [
-      "Chanson Ch.",
-      "Charbonnier Paul",
-      "Chevillard Edward",
-      "Contat E.",
-      "Ch. Collins",
-      "Dumuid Félix",
-      "Fornerod Gilbert",
-      "Marendaz Marcel",
-      "Magnin Robert"
+    "Tailleuses.": [
+      "Amaudruz Germaine",
+      "Belet Jeanne",
+      "Borgeaud Rosa",
+      "Cuénoud Nelly",
+      "Corbaz Aline",
+      "Duperret Violette"
     ],
-    "Hôtels.": [
-      "Hôtel des Alpes",
-      "Röthlisberger Gottfried",
-      "Hôtel de la Croix Verte",
-      "Méroth-Isch Emma",
-      "Hôtel National et Beau-Rivage",
-      "Maire Georges-Arthur",
-      "Hôtel de la Gare et du Jura",
-      "Husson Henri",
-      "Hôtel du Lac",
-      "Guignard-Cart Louis",
-      "Hôtel de Nyon",
-      "Visio Ange"
+    "Téléphones publics:": [
+      "Bonnet Louise",
+      "Piot Emile"
     ],
-    "Huiles et benzine.": [
-      "Ruey Daniel",
-      "Wuhrmann Henri"
+    "Thés.": [
+      "Fehr Charles"
     ],
-    "Huissiers.": [
-      "Borgognon Edouard",
-      "Reymond-Boss Constant",
-      "Pagésy Eugène"
+    "Divers.": [
+      "Bornand, Mme",
+      "Fornerod A."
+    ]
+  },
+  "PAUDEX": {
+    "Autorités communales.": [
+      "Hertig Henri",
+      "Staub Henri",
+      "Séchaud Julien",
+      "Martin Eugène",
+      "Serru Etienne",
+      "Bataillard Armand",
+      "Staub Henri"
     ],
-    "Imprimeurs-éditeurs.": [
-      "Aubert-Kallenberg Eugène",
-      "Oderbolz, hoirie de Ls.",
-      "Cherix, Vve d'Edouard"
+    "Architecte.": [
+      "Baud Albert"
     ],
-    "Ingénieurs.": [
-      "Bidal Charles",
-      "de Blonay Maurice",
-      "Vautier Henri"
+    "Blanchisseries-repassage.": [
+      "Guex Louise",
+      "Tschantz dame"
     ],
-    "Infirmerie. T.": [
-      "Directrice",
-      "Econome",
-      "Fontolliet Louis",
-      "Caissiers",
-      "Gonet & Cie."
+    "Cafés-restaurants.": [
+      "Jacquenoud Em.",
+      "Krending Fritz"
     ],
-    "Inspecteur forestier.": [
-      "Francey Jean"
+    "Couturières.": [
+      "Amiet, dame",
+      "Trolliet Suzanne"
     ],
-    "Inspecteur des viandes.": [
-      "Cottier Auguste"
+    "Electricien.": [
+      "Jacques Emile"
+    ],
+    "Entrepreneur.": [
+      "Giazzi Sanator"
+    ],
+    "Epicerie.": [
+      "Diserens Henri",
+      "Krending Fritz"
+    ],
+    "Garage d'automobiles.": [
+      "Bolomey Maurice"
+    ],
+    "Horticulteurs.": [
+      "Gorjat L.",
+      "Lavanchy Henri",
+      "Raymond William"
     ],
     "Inspecteur du bétail.": [
-      "Crochat-Hédiguer Ch."
+      "Lavanchy Ls."
     ],
-    "Instituteurs primaires.": [
-      "Baumgartner Robert",
-      "Burnod Félix",
-      "Collins Charles",
-      "Duruz Paul",
-      "Pavillon Alfred"
+    "Instituteurs.": [
+      "Bataillard Armand",
+      "Desoche, Mlle"
     ],
-    "Institutrices primaires.": [
-      "Berlie-Bieler Rachel",
-      "Bovay Antoinette",
-      "Campiche-Badel Méta",
-      "Favre Sophie",
-      "Fazan Eva",
-      "Gauthey Germaine",
-      "Heimlicher Elisabeth",
-      "Massonnet Flora",
-      "Pasche Olga",
-      "Randin Lisette",
-      "Terribilini Marthe"
+    "Laitier.": [
+      "Diserens Henri"
     ],
-    "Instituteurs secondaires. (Collège et Ecole supérieure).": [
-      "Collins Charles",
-      "Cuendet Georges",
-      "Fritsch Samuel",
-      "Jaques François",
-      "Press Maurice",
-      "Meylan René",
-      "Montandon Albert"
+    "Lingère.": [
+      "Burnier-Pittet, dame"
     ],
-    "Institutrices secondaires. (Collège et Ecole supérieure.)": [
-      "Baumann Jeanne",
-      "Berlie-Bieler Rachel"
+    "Mécanicien.": [
+      "Bolomey Maurice"
+    ],
+    "Rosieriste.": [
+      "Bovay Ch."
+    ],
+    "Serruriers.": [
+      "Lesquereux & Berthoud"
+    ],
+    "Société.": [
+      "de laiterie"
+    ],
+    "Vignerons.": [
+      "Cordey Elie",
+      "Crousaz Louis",
+      "Chollet François",
+      "Gorjat Louis",
+      "Séchaud Julien, fils"
+    ],
+    "Vins (nég. en).": [
+      "Séchaud Julien"
+    ],
+    "Voituriers.": [
+      "Giobellina et Fils"
+    ]
+  },
+  "ROMANEL": {
+    "Autorités communales.": [
+      "Baudet Alexis",
+      "Bovey Ernest",
+      "Bovey David",
+      "Peitrequin Alfred",
+      "Peitrequin Benjamin",
+      "Bourgeois Rob.",
+      "Chapuis Ms",
+      "Goy Charles",
+      "Baudet René",
+      "Bovey Louis"
+    ],
+    "Agriculteurs.": [
+      "Amy Eugène",
+      "Amy Jules",
+      "Baudet Alexis",
+      "Baudet Emile",
+      "Blanc David",
+      "Bourgeois Louis",
+      "Bovey Jules",
+      "Bovey-Jaquier Louis",
+      "Corbaz Alexis",
+      "Fleury William",
+      "Peitrequin Henri"
+    ],
+    "Associations mutualistes de retraite.": [
+      "Goy C."
+    ],
+    "Aubergiste.": [
+      "Burdet Ulysse"
+    ],
+    "Boulanger-confiseur.": [
+      "Pilet Alfr."
+    ],
+    "Charcutiers.": [
+      "Barraud Charles",
+      "Chapuis Marius"
+    ],
+    "Charron.": [
+      "Bovey Eugène"
+    ],
+    "Charpentier.": [
+      "Lagnaz Ulysse"
+    ],
+    "Commission scolaire.": [
+      "Bovey Ernest",
+      "Bovey Louis",
+      "Muller",
+      "Chapuis Marius",
+      "Pache Henri"
+    ],
+    "Cordonnier.": [
+      "Chatton Auguste"
+    ],
+    "Eaux minérales.": [
+      "Eaux minérales alcalines Romanel Source Providence, S. A."
+    ],
+    "Entrepreneurs.": [
+      "Borgnana frères"
+    ],
+    "Epicerie, mercerie.": [
+      "Borgeaud Vve",
+      "Pilet Alfred"
+    ],
+    "Gypsier-peintre.": [
+      "Borgnana Louis"
+    ],
+    "Inspecteur du bétail.": [
+      "Peitrequin Fernand"
+    ],
+    "Instituteurs.": [
+      "Goy Charles",
+      "Borgnana-Besson Ida"
+    ],
+    "Justice de paix du cercle.": [
+      "Rouffy Léon",
+      "Bussy Henri",
+      "Baudet Alexis",
+      "Besson Julien",
+      "Joyet-Braissant Ami",
+      "Blondel Robert"
+    ],
+    "Maréchal.": [
+      "Chamot Edouard"
+    ],
+    "Mécanicien-électr.": [
+      "Strübin Ch."
+    ],
+    "Menuisier.": [
+      "Borgnana Adrien"
+    ],
+    "Poste.": [
+      "Bovey Edouard"
+    ],
+    "Sellier-tapissier.": [
+      "Beausire Gust."
     ]
   }
 }

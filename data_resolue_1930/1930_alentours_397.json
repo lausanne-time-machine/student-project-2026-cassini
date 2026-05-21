@@ -1,218 +1,109 @@
 {
-  "MALAPALUD": {
-    "Autorités communales": [
-      "Borgeaud Emile-Lucien",
-      "Dony Georges",
-      "Janin Frédéric",
-      "Janin Aimé",
-      "Borgeaud Emile",
-      "Chamot Eugène",
-      "Chamot Louis",
-      "Borgeaud Auguste",
-      "Chevalley Lucien",
-      "Borgeaud Robert",
-      "Janin Henri"
+  "Ville d'Yverdon": {
+    "Pasteurs.": [
+      "Droz Alphonse",
+      "Freundler Charles-Alfred",
+      "Läuchli Albert",
+      "Roy-Tophel J."
     ],
-    "Agriculteurs": [
-      "Borgeaud Auguste",
-      "Borgeaud Ernest et Fernand",
-      "Borgeaud Ls",
-      "Chamot Ami",
-      "Chamot Auguste",
-      "Chamot Jules",
-      "Chamot Louis",
-      "Janin Aimé",
-      "Janin Emile",
-      "Kopp Fred."
+    "Pâtes alimentaires (fab. de).": [
+      "Besson frères"
     ],
-    "Mutualité scolaire de retraite": [
-      "Dony G."
+    "Paveur.": [
+      "Colombo Emile",
+      "Michaud Marc"
     ],
-    "Café": [
-      "Cordey Armand"
+    "Pension bourgeoise.": [
+      "Busser Marie"
     ],
-    "Charpentier": [
-      "Borgeaud Emile"
+    "Pensions d'étrangers.": [
+      "Reinhardt-Tschantz W."
     ],
-    "Commission scolaire": [
-      "Perret",
-      "Borgeaud Auguste",
-      "Janin Frédéric",
-      "Favre Jules",
-      "Janin Emile"
+    "Pensionnats de demoiselles.": [
+      "Fivaz-Rapp, dame",
+      "Gaydou-Cholly Julia",
+      "Cuche Rose",
+      "Marendaz S.",
+      "Wyss-Rapit, dame"
     ],
-    "Dépositaire postal": [
-      "Borgeaud Louis"
+    "Pharmaciens.": [
+      "Delay Gaston",
+      "Kasser Georges",
+      "Perret & Vuillemin",
+      "Pharmacie Centrale",
+      "Piguet V."
     ],
-    "Entrepreneur": [
-      "Favre Jules"
+    "Photographes.": [
+      "Benner Th.",
+      "Perret Alf.",
+      "Rossi J. & fils",
+      "Spalinger René"
     ],
-    "Epicerie, mercerie, tabacs": [
-      "Borgeaud Gustave",
-      "Borgeaud Marie"
+    "Photographie (articles pour la).": [
+      "Petitat A.-G."
     ],
-    "Inspecteur du bétail": [
-      "Chamot Ernest"
+    "Pierres fines.": [
+      "Gabus A.",
+      "Michoud A.",
+      "Nicod Alfred",
+      "Portmann Alb.",
+      "Sueur Arthur"
     ],
-    "Instituteurs": [
-      "Dony Georges",
-      "Vallotton Clara"
+    "Pierres (percerie)": [
+      "Chopard G."
     ],
-    "Maréchal": [
-      "Borgeaud Alfred"
+    "Pierristes (fournitures pour).": [
+      "Pasche R."
     ],
-    "Mécanicien": [
-      "Favre Henri"
+    "Pignons (fabr. de).": [
+      "Stark H."
     ],
-    "Pasteur": [
-      "Perret Jules"
+    "Piles électriques (fab. de).": [
+      "S. A. Leclanché"
     ],
-    "Sociétés": [
-      "de fromagerie. R.",
-      "d'assurance du bétail",
-      "du battoir. R."
+    "Poêliers.": [
+      "Bercher Joseph",
+      "Montandon Arm."
     ],
-    "Tailleuses": [
-      "Bovey R.",
-      "Chamot Lina"
+    "Porcelaines, cristaux et verrerie.": [
+      "Cochet Jules",
+      "Dubath André",
+      "Doudin Ch.",
+      "Grimaître Jeanne",
+      "Henriod-Giddey E.",
+      "Walther-Bloch"
     ],
-    "Téléphoniste": [
-      "Cordey Armand"
-    ]
-  },
-  "NAZ": {
-    "Autorités communales": [
-      "Stoudmann Eugène",
-      "Dutoit Ulysse",
-      "Porchet Ernest"
+    "Porcs (march. de).": [
+      "Genillod Juste",
+      "Grossenbacher Albert",
+      "Grossenbacher P."
     ],
-    "Agriculteurs": [
-      "Chalet Emile",
-      "Curchod Alexis",
-      "Dessauges Edouard",
-      "Dessauges Héli",
-      "Porchet, les hoirs d'Héli",
-      "Porchet Jules",
-      "Stoudmann Ed.",
-      "Stoudmann Eugène",
-      "Stoudmann les hoirs d'Ulysse",
-      "Stoudmann frères"
+    "Poteaux télégraphiques.": [
+      "Usine d'imprégnation de poteaux"
     ],
-    "Cordonnier": [
-      "Perrin René"
+    "Poudres et munitions (débit patenté).": [
+      "Schneider E."
     ],
-    "Couturière": [
-      "Dessauges Berthe"
+    "Primeurs.": [
+      "Capelli Marius fils",
+      "Colom Raymon",
+      "Galmès frères",
+      "Losio, dame",
+      "Pavid François"
     ],
-    "Inspecteur du bétail": [
-      "Dessauges Héli"
+    "Produits chimiques.": [
+      "Aegerter & Cie"
     ],
-    "Laitier": [
-      "Laiterie Agricole"
+    "Produits alimentaires.": [
+      "Bécholey Daniel",
+      "Perroud Julien"
     ],
-    "Poste": [
-      "Porchet Blanche"
+    "Produits alimentaires pour le bétail (Complément indispensable)": [
+      "Oséogène, S. A."
     ],
-    "Société": [
-      "de fromagerie. R."
-    ],
-    "Téléphoniste": [
-      "Stoudmann Jlie"
-    ],
-    "Tonnelier": [
-      "Stoudmann Alexis"
-    ]
-  },
-  "OULENS": {
-    "Autorités communales": [
-      "Clavel Edouard",
-      "Clavel Gaston",
-      "Vulliamy Louis",
-      "Bezençon Pl",
-      "Clavel Henri",
-      "Clavel Edmond",
-      "Chapuis Louis",
-      "Burnens Paul",
-      "Vulliamy Albert",
-      "Bezençon François",
-      "Bezençon Albert",
-      "Jaquier Julien"
-    ],
-    "Agriculteurs": [
-      "Bezençon Elie",
-      "Bezençon François",
-      "Bezençon Louise",
-      "Bezençon Vincent",
-      "Bigler Ls",
-      "Brandt Charles",
-      "Brun Hri",
-      "Brun Julie",
-      "Burnens Auguste",
-      "Burnens Henri",
-      "Burnens Marie",
-      "Cavin Alfred",
-      "Chapuis Jules",
-      "Chapuis Louis",
-      "Chapuis Paul",
-      "Charlet Louis",
-      "Clavel-Brandt Auguste",
-      "Clavel Edmond",
-      "Clavel Edouard",
-      "Clavel Fernand",
-      "Clavel Frédéric",
-      "Clavel Henri",
-      "Clavel-Mayor",
-      "Clavel Samuel",
-      "Demarquis Pierre",
-      "Fontannaz Alfred",
-      "Gachet Paul",
-      "Gobalet frères",
-      "Jaquier Julien",
-      "Mayor François",
-      "Peguiron Alfred",
-      "Pidoux Louis",
-      "Pidoux Marius",
-      "Rochat Louis",
-      "Schmidt Charles",
-      "Vulliamy Albert",
-      "Vulliamy Aug.",
-      "Vulliamy Ernest",
-      "Vulliamy Félix",
-      "Vulliamy Georges",
-      "Vulliamy Louis",
-      "Wagnière Alfred"
-    ],
-    "Associations mutualistes de retraite": [
-      "Dupuis Ed."
-    ],
-    "Aubergistes": [
-      "Vulliamy Albert",
-      "Germond Emma"
-    ],
-    "Bétail (md de)": [
-      "Brun Henri",
-      "Clavel Gustave",
-      "Gobalet Louis"
-    ],
-    "Boulanger": [
-      "Pidoux Marius"
-    ],
-    "Buraliste postal et facteur": [
-      "Vulliamy Louis"
-    ],
-    "Charpentiers": [
-      "Clavel Charles et André"
-    ],
-    "Charron": [
-      "Clavel François"
-    ],
-    "Commission scolaire": [
-      "Dessemontet C.",
-      "Charly-Brand",
-      "Clavel Henri"
-    ],
-    "Entrepreneur": [
-      "Perazzi Pierre"
+    "Publicité.": [
+      "Annonces Suisses, S. A.",
+      "Publicitas S. A."
     ]
   }
 }

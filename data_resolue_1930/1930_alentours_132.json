@@ -1,222 +1,202 @@
 {
-  "GINGINS": {
-    "Laitier": [
-      "Goy Ernest"
+  "CULLY": {
+    "Hôtel": [
+      "Kuhn J."
     ],
-    "Machines agricoles": [
-      "Bignens Henri"
+    "Imprimerie": [
+      "Durussel Gustave"
     ],
-    "Maréchaux et machines": [
-      "Tecon frères"
+    "Journal": [
+      "Chronique de Lavaux",
+      "Durussel Gustave"
     ],
-    "Menuisier": [
-      "Schmid Emile"
+    "Inspecteurs du bétail": [
+      "Manigley Constant",
+      "Paschoud Alexis"
     ],
-    "Notaire": [
-      "Sahy Louis"
+    "Inspecteur forestier": [
+      "Veillon Mce"
     ],
-    "Officier d'état-civil": [
-      "Sahy Louis"
+    "Instituteurs primaires": [
+      "Jaquet Ch.",
+      "Simon Emile",
+      "Rochat Albert",
+      "Duboux Elise",
+      "Mellet Anna, Mlle",
+      "Paul Marthe"
     ],
-    "Pasteur": [
-      "Masson Charles"
+    "Instituteurs secondaires": [
+      "Regamey Gustave",
+      "Caillet Marguerite"
     ],
-    "Pension pour enfants": [
-      "Reichenbach Alfred"
+    "Jardiniers": [
+      "Cuénoud Victor; de François",
+      "Cuénoud Victor d'Henri",
+      "Girardet Henri"
     ],
-    "Pensions d'étrangers": [
-      "Bær Caroline",
-      "Martin François"
+    "Justice de paix du cercle": [
+      "Potterat-Bidaux Jean",
+      "Fonjallaz Ernest",
+      "Rouge François",
+      "Chappuis Aimé",
+      "Corboz Samuel",
+      "Reymond Marcel",
+      "Blondel Emile"
     ],
-    "Rentiers": [
-      "Berthoud Amélie",
-      "de Watteville Béatrice",
-      "Paccard D.",
-      "Reichenbach L."
+    "Laitiers": [
+      "Braissant Alexandre",
+      "Durig Fritz"
+    ],
+    "Lingères": [
+      "Cuénoud sœurs"
+    ],
+    "Matériaux de construction": [
+      "Pellet Auguste"
+    ],
+    "Machines à coudre. Mécanicien-électricien": [
+      "Capt Victor"
+    ],
+    "Mécaniciens": [
+      "Borgeaud François",
+      "Capt Victor",
+      "Pellet Isaac"
+    ],
+    "Médecin": [
+      "Nagel P. T."
+    ],
+    "Menuisiers": [
+      "Cordey Edmond",
+      "Valet Julien"
+    ],
+    "Mercerie": [
+      "Voir Epicerie"
+    ],
+    "Modiste": [
+      "Destraz-Pasche Aimée"
+    ],
+    "Notaires": [
+      "Dupertuis Antoine",
+      "Jaton Fernand",
+      "Noverraz Ch."
+    ],
+    "Officier d'état civil": [
+      "Dagon Armand",
+      "Dupertuis Antoine"
+    ],
+    "Papeteries": [
+      "Durussel Gustave",
+      "Rapin-Duboux Gaston"
+    ],
+    "Pasteurs": [
+      "Laufer Henri",
+      "Meystre Pierre"
+    ],
+    "Pécheurs": [
+      "Brunner Ed. T.",
+      "Moser Ch.",
+      "Rouge Henri"
+    ],
+    "Peintres en bâtiment": [
+      "Ambrosino Joseph",
+      "Ambrosino Pierre",
+      "Durussel Robert"
+    ],
+    "Pépiniéristes": [
+      "Blanche Henri",
+      "Carroz Emile",
+      "Cuénoud Victor, fils d'Henri"
+    ],
+    "Photographe": [
+      "Piguet Charles"
+    ],
+    "Poste": [
+      "Möri Silas"
+    ],
+    "Propriétaires de vignobles": [
+      "de Roguin",
+      "de Buren",
+      "de Weck",
+      "Commune de Cully",
+      "Duboux Marcel",
+      "Hoirie Dumur",
+      "Fonjallaz Henri",
+      "Mercanton Ch.",
+      "Potterat-Bideau"
+    ],
+    "Quincaillerie": [
+      "Cuénoud François",
+      "Rapin-Duboux Gaston"
+    ],
+    "Radeleur": [
+      "Brunner Edouard"
+    ],
+    "Repasseuses": [
+      "Béboux-Daccord Mme",
+      "Vallon-Béboux Valentine"
     ],
     "Sage-femme": [
-      "Deluche Emma"
+      "Paschoud, dame"
+    ],
+    "Serruriers": [
+      "Girardet Paul",
+      "Guignet Ernest",
+      "Von Arx Paul"
     ],
     "Sociétés": [
-      "de laiterie",
-      "de chant",
-      "de tir",
-      "de musique",
-      "Section de la Croix Bleue",
-      "Syndicat agricole"
+      "Immobilière de l'église libre",
+      "Laiterie de Chenaux",
+      "Militaire de l'anc. comm. de Villette",
+      "de développement",
+      "Tir aux armes de guerre",
+      "vaudoise d'agriculture et de viticulture",
+      "de gymnastique",
+      "La Lyre",
+      "Orchestre de Lavaux",
+      "Chœur d'hommes de Lavaux",
+      "Chœur de dames",
+      "Section de la Croix-Bleue",
+      "Sauvetage du Léman",
+      "Eclaireurs"
     ],
-    "Tailleuse": [
-      "Bricolons Marguerite"
+    "Tabacs et cigares": [
+      "Voir Epicerie"
     ],
-    "Téléphone": [
-      "Auberge communale"
+    "Tailleurs": [
+      "Antonioli G.",
+      "Gavaggio C. R."
     ],
-    "Usiniers": [
-      "Mestral Constant",
-      "Société du Moulin agricole"
+    "Tailleuses": [
+      "Davel Louise",
+      "Durussel Inès, dame",
+      "Lavanchy Emma"
     ],
-    "Vélos (vente et réparations)": [
-      "Tecon John"
+    "Tartre": [
+      "Cuénoud François"
     ],
-    "Vitrier-encadreur": [
-      "Amiguet Franc"
+    "Télégraphe et téléph.": [
+      "Möri Silas"
     ],
-    "Voituriers": [
-      "Baër C.",
-      "Barrilliet Julien",
-      "Divorne Edmond",
-      "Mestral frères"
+    "Téléphone communal": [
+      "Hôtel de Ville"
     ],
-    "Chef de gare": [
-      "Wuischpard Ami"
+    "Tonnelier": [
+      "Marti Rodolphe"
     ],
-    "Commission scolaire": [
-      "Wuischpard Edmond",
-      "Lequint Juste"
+    "Tricotage à la machine": [
+      "Masson, Mlle"
     ],
-    "Entrepreneurs": [
-      "Saléro Pierre. R.",
-      "Simon Paul. R."
+    "Vélos": [
+      "Borgeaud François",
+      "Capt Victor",
+      "Pellet Isaac"
     ],
-    "Epicerie, mercerie, tabacs": [
-      "Miéville sœurs",
-      "Perret Julien"
-    ],
-    "Inspecteur du bétail": [
-      "Wuischpard Edmond"
-    ],
-    "Instituteurs": [
-      "Rochat Louis",
-      "Lequint Sophie"
-    ],
-    "Poste (dépôt de)": [
-      "Bory Jaques"
-    ],
-    "Société": [
-      "de fromagerie"
-    ],
-    "Télégraphe et téléphone": [
-      "Wuischpard Augusta"
-    ]
-  },
-  "GIVRINS": {
-    "Autorités communales": [
-      "Bory Jacques",
-      "Lambossy Eugène",
-      "Wuischpard John",
-      "Bory Ernest",
-      "Prélaz Henri",
-      "Lequint Juste",
-      "Wuischpard Ami",
-      "Bory Adolphe",
-      "Bezinge Gust.",
-      "Lambossy Eugène",
-      "Bory Jaques",
-      "Bory Ami"
-    ],
-    "Agriculteurs": [
-      "Bory Alfred",
-      "Bory Iuhe",
-      "Bory Ernest",
-      "Bory frères",
-      "Jaccaud Jules",
-      "Lequint John",
-      "Lequint Juste",
-      "Lequint Louis",
-      "Lequint Maurice",
-      "Neyroud frères",
-      "Prélaz Henri",
-      "Prélaz Paul",
-      "Porchat Adrien",
-      "Wuischpard frères"
-    ],
-    "Amodiateur": [
-      "Prélaz Henri"
-    ],
-    "Associations mutualistes de retraite": [
-      "Rochat L."
-    ],
-    "Aubergiste": [
-      "Desvignes Adrien"
-    ],
-    "Boisselier": [
-      "Petitpierre Charles"
-    ],
-    "Boulanger": [
-      "Perret Julien"
-    ],
-    "Charpentiers-menuisiers": [
-      "Bovet-David",
-      "Lambossy Eugène"
-    ]
-  },
-  "GLAND": {
-    "Autorités communales": [
-      "Turrian Samuel",
-      "Bovy Aloïs",
-      "Caboussat Ami",
-      "Schneiter Paul",
-      "Favre David",
-      "Maire Louis",
-      "Jonzier Charles",
-      "Charrière Néhémie",
-      "Bovy Aloïs"
-    ],
-    "Agriculteurs": [
-      "Aubert Hri",
-      "Baumgartner frères",
-      "Brandenberg",
-      "Bruch Alph.",
-      "Burgin Guillaume",
-      "Busset Frédéric",
-      "Caboussat Ami",
-      "Caboussat, hoirs d'Alfred",
-      "Caboussat Julien",
-      "Caboussat Ls d'Henri",
-      "Chollet François",
-      "Christin Jules-Samuel",
-      "Christin Ls-Samuel",
-      "Christin Marc",
-      "Dubois, Vve de Charles",
-      "Jonzier Ami",
-      "Jonzier Auguste",
-      "Jonzier Louis",
-      "Pasche Jean",
-      "Pasche Hri",
-      "Pittet Ernest",
-      "Prélaz Charles",
-      "Sanatorium du Léman",
-      "Schneiter Louis",
-      "Schneiter Paul",
-      "Spahni Christian",
-      "Yersin Jean"
-    ],
-    "Agence immobilière et commerciale": [
-      "Langer P. T."
-    ],
-    "Appareilleurs": [
-      "Favre David",
-      "Bottin Maurice"
-    ],
-    "Aubergistes": [
-      "Destraz, Vve de Ch.",
-      "Pasche David",
-      "Coullet"
-    ],
-    "Bestiaux (march. de)": [
-      "Cristin Jules-Samuel",
-      "Cristin Louis-Sam.",
-      "Simond J. T."
-    ],
-    "Biscuits": [
-      "Charrière Néhémie"
-    ],
-    "Blanchisseuse": [
-      "Marguerat Jeanne"
-    ],
-    "Boulangers": [
-      "Charrière Paul",
-      "Zimmermann Georges"
+    "Vignerons-propriétaires": [
+      "Borgognon Charles",
+      "Bovard Louis",
+      "Bron Victor",
+      "Crot Henri",
+      "Duboux Eug.",
+      "Fonjal-"
     ]
   }
 }

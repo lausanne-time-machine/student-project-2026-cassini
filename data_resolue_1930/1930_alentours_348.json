@@ -1,245 +1,62 @@
 {
-  "ORZENS": {
-    "Aubergiste": [
-      "Burla Maurice"
-    ],
-    "Charpentier": [
-      "Burkhardt Ernest"
-    ],
-    "Cantonnier": [
-      "Burdet Ami"
-    ],
-    "Couturières": [
-      "Guichard Anita",
-      "Perey Elisa",
-      "Wagnière Thérèse"
-    ],
-    "Commission scolaire": [
-      "Burla Maurice",
-      "Wagnière Aloïs"
-    ],
-    "Cordonnier": [
-      "Heim William"
-    ],
-    "Epicerie": [
-      "Vulliamoz Justine",
-      "Wagnière, Vve d'Edouard"
-    ],
-    "Inspecteur du bétail": [
-      "Perey Louis"
-    ],
-    "Instituteurs": [
-      "Bolomey Ls",
-      "Pahud Frida",
-      "Pitton Alfred",
-      "Pahud Lina"
-    ],
-    "Laitier": [
-      "Hoffmann Fritz"
-    ],
-    "Lingerie": [
-      "Roulier Lucie"
-    ],
-    "Machine à battre": [
-      "Richardet Gustave",
-      "Soc. du battoir à grains. R.",
-      "Battoir roulant. R."
-    ],
-    "Maçons": [
-      "Schaffner Otto",
-      "Tardy Charles",
-      "Perdrisat Auguste"
-    ],
-    "Maréchal": [
-      "Pellaux François"
-    ],
-    "Mécan.-forgeron": [
-      "Lavanchy Paul"
-    ],
-    "Menuisiers": [
-      "Centlivres Justin",
-      "Rosé Eugène",
-      "Vulliemin Edouard"
-    ],
-    "Pasteur": [
-      "Visinand Alexandre"
-    ],
-    "Poste T": [
-      "Chevalley-Bovayt Ls"
-    ],
-    "Rentiers": [
-      "Burdet Alfred",
-      "Cuche Constant"
-    ],
-    "Sociétés": [
-      "de fromagerie. R.",
-      "de la machine à battre le grain. R.",
-      "Syndicat d'élevage. R.",
-      "Battoir roulant. R.",
-      "de fromagerie. R.",
-      "Syndicat agricole. R."
-    ],
-    "Tailleuse": [
-      "Gaillard Marie"
-    ],
-    "Téléphone public": [
-      "Burla Maurice"
-    ],
-    "Téléphone": [
-      "Richardet Lina"
-    ]
-  },
-  "POMY": {
-    "Autorités communales": [
-      "Richardet Gust.",
-      "Miéville Henri"
-    ],
-    "Syndic": [
-      "Pellaux Armand"
-    ],
-    "Municipaux": [
-      "Vulliemin John",
-      "Miéville Constant",
-      "Miéville Jean",
-      "Duvoisin William",
-      "Vulliamoz Maurice",
-      "Pellaux Jean",
-      "Miéville Alfred",
-      "Magnenat François"
-    ],
-    "Agriculteurs": [
-      "Bettex-Richardet Victor",
-      "Chevalley Edouard",
-      "Chevalley Julien",
-      "Chevalley Louis",
-      "Courvoisier Auguste",
-      "Cruchet frères",
-      "Cruchet Jean",
-      "Cuche John",
-      "Duvoisin William",
-      "Henry frères",
-      "Magnenaz frères",
-      "Miéville Hri et Maurice",
-      "Miéville frères",
-      "Miéville Aimé",
-      "Miéville, hoirs d'Aug.",
-      "Miéville John",
-      "Pellaux Armand",
-      "Pellaux Auguste",
-      "Pellaux Ls",
-      "Richardet frères",
-      "Vulliemin Maurice",
-      "Vulliemin Eugène",
-      "Vulliemin François",
-      "Vulliemin John",
-      "Vulliemin frères",
-      "Vulliemin Robert"
-    ],
-    "Aubergistes": [
-      "Cuche John",
-      "Jaquier Edouard"
-    ],
-    "Charpentier": [
-      "Roulier Jules et fils"
-    ],
-    "Charron": [
-      "Vittoz Henri"
-    ],
-    "Commission scolaire": [
-      "Richardet Gustave",
-      "Vernez Louis",
-      "Miéville Alfred",
-      "Miéville John"
-    ],
-    "Cordonnier": [
-      "Despland Léon"
-    ],
-    "Epiceries": [
-      "Ottonin Henri. R.",
-      "Vulliamy-Laurent, Mme."
-    ],
-    "Inspecteur du bétail": [
-      "Miéville Hri"
-    ]
-  },
-  "PRAHINS": {
-    "Autorités communales": [
-      "Jaquier Léon",
-      "Waridel Jules.."
-    ],
-    "Syndic": [
-      "Jaquiéry Aimé"
-    ],
-    "Municipaux": [
-      "Bovay Armand",
-      "Pittet Charles",
-      "Waridel Robert",
-      "Héritier Ernest",
-      "Peytrignet Aimé",
-      "Héritier Georges"
-    ],
-    "Agriculteurs": [
-      "Bovay Armand et Ulysse",
-      "Courvoisier William",
-      "Freymond Victor",
-      "Cosandey Ami",
-      "Héritier frères",
-      "Jaggi Fritz",
-      "Jaquier Léon",
-      "Jaquier Robert",
-      "Jaquiéry Louis",
-      "Pittet Louis",
-      "Waridel Jules",
-      "Waridel Lucien",
-      "Waridel Robert"
-    ],
-    "Aubergiste": [
-      "Mercier Lucien"
-    ],
-    "Cantonnier": [
-      "Peytrignet Aimé"
-    ],
-    "Coiffeur": [
-      "Pittet Charles"
-    ],
-    "Commission scolaire": [
-      "Waridel Lucien",
-      "Jaquiéry Aimé",
-      "Pittet Albert"
-    ],
-    "Epicerie": [
-      "Jaquiéry Renée, Mme. R."
-    ],
-    "Fromage (march. de)": [
-      "Jaquier Edouard"
-    ],
-    "Inspecteur du bétail": [
-      "Waridel Lucien"
-    ],
-    "Instituteur": [
-      "Buxcel Charles"
-    ],
-    "Maréchal": [
-      "Berchier"
-    ],
-    "Poste": [
-      "Pittet Albert"
-    ],
-    "Rentier": [
-      "Jaquier Ulysse"
-    ],
-    "Sociétés": [
-      "Boucherie sociale",
-      "de laiterie. R.",
-      "du poids public. R.",
-      "du Battoir. R.",
-      "Synd. agricole. R."
-    ],
-    "Tailleuse": [
-      "Jaquiéry Elise"
-    ],
-    "Téléphoniste": [
-      "Mercier Lucien"
+  "Montreux": {
+    "Divers.": [
+      "Miremont",
+      "Keller A.",
+      "Kohler J.-J.",
+      "Lavanchy M.",
+      "Léchaire A.",
+      "Lenoir Marcel",
+      "Maier Paul",
+      "Maillefer Adrienne, Mlle",
+      "Mamin Elise",
+      "Matthey, Vve d'Arthur",
+      "Mack R.",
+      "Mackenzie Th., Dr.",
+      "Meystre Emile",
+      "Montet Jean",
+      "Montet H.",
+      "Muller Ed.",
+      "Nippell G.",
+      "Noguet J.",
+      "Panchaud Ch.",
+      "Parry, Mme",
+      "Pfeifer Georges",
+      "Quinclet James",
+      "Renaud Suzanne",
+      "Reymond G.",
+      "Reymond Max",
+      "Rieder Gabr.",
+      "Rieder, Mme, Veuve",
+      "de Ribeaupierre François",
+      "Richon Ls.",
+      "de Roll Ct.",
+      "Romang Emile",
+      "Roussy Gaston",
+      "Schatzmann Charles",
+      "Scherer Ch.",
+      "Senn C.-H.",
+      "Vve Schlinger",
+      "Sillig Ed.",
+      "Sillig Max",
+      "Vve Schweisguth Ernest",
+      "Stibbs W. E., Dr.",
+      "Jaquet Anna, Vve",
+      "Turin Anna",
+      "Turin Paul",
+      "Veyrassat Adr.",
+      "Comte Vion de Gaillon",
+      "Vulliémoz Louis",
+      "Jayet Ernest",
+      "Genillard Félix",
+      "Ketterer Paul",
+      "Golay Henri",
+      "Mamin Jules",
+      "Reitzel Aug.",
+      "Wagner-Cannegieter",
+      "Walther H.-S.",
+      "Walther-Steuri E., Mme",
+      "Weber-Zuretti A."
     ]
   }
 }

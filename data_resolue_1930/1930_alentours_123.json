@@ -1,266 +1,206 @@
 {
-  "BEGNINS": {
+  "Le Sentier": {
+    "Voituriers": [
+      "Bassin Maurice",
+      "Capt Jules-Ami",
+      "Capt Léon",
+      "Lugrin Paul"
+    ],
+    "Cadraturiers": [
+      "Caillet Louis",
+      "Golay Lucien",
+      "Rochat Auguste"
+    ],
+    "Contre-pivots et sertissages": [
+      "Massy F. & fils",
+      "Meylan Hermann",
+      "Meylan Jacques",
+      "Meylan Paul"
+    ],
+    "Chronographes (fab. de)": [
+      "Capt Ulysse",
+      "Meylan-Piguet Ami",
+      "Piguet Ernest-Auguste"
+    ],
+    "Contournages et fraisages": [
+      "Meylan-Capt Ele.",
+      "Meylan-Piguet Ami"
+    ],
+    "Echappements": [
+      "Echappements S. A.",
+      "Reymond Arthur-Emile"
+    ],
+    "Fournitures": [
+      "Société anonyme Valdar"
+    ],
+    "Horlogerie (fab. d')": [
+      "Fabr. d'horlogerie Lémania Watch (S. A.)",
+      "Piguet Charles"
+    ],
+    "Pendulier": [
+      "Capt Ernest"
+    ],
+    "Pierres fines": [
+      "Massy Francis et fils"
+    ],
+    "Pivoteurs": [
+      "Capt Emile",
+      "Capt Hector",
+      "Guignard Marc"
+    ],
+    "Remonteur": [
+      "Wolf Jules"
+    ],
+    "Roues (tailleur de)": [
+      "Capt Constant"
+    ],
+    "Autos, motos et cycles": [
+      "Locatelli & fils",
+      "Lalle Vincent"
+    ],
+    "Président du Conseil administratif": [
+      "Aubert L."
+    ],
+    "Secrétaire": [
+      "Meylan André"
+    ],
+    "Boursier": [
+      "Lecoultre Frédéric"
+    ],
+    "Agent de police": [
+      "Golay Alfred"
+    ],
     "Agriculteurs": [
-      "Amm Jos.",
-      "Bozonnet Alfr.",
-      "Bozonnet Ch.",
-      "Brandt Paul",
-      "Blazer Jules",
-      "Cavin Ch.",
-      "Cavin Edouard",
-      "Stubi J.",
-      "Grange-Grèche",
-      "Charbonnier Amédée",
-      "Charbonnier Amédée fils",
-      "Christinet Anette",
-      "Champ-Renaud Paul",
-      "Dessiex Hri",
-      "Dumas Olivier",
-      "Gay Louis",
-      "Gervaix Fernand",
-      "Gervaix Louis-Et.",
-      "Gægel Charles",
-      "Grand Charles",
-      "Grand Paul",
-      "Hügli frères",
-      "Perriraz Louis",
-      "Rubli Ernest",
-      "Tallant Ch.",
-      "Tallant Julien",
-      "Wursten Charles"
+      "Golay David",
+      "Meylan frères",
+      "Meylan Francis",
+      "Piguet-Golaz Albert",
+      "Piguet Ch.",
+      "Piguet John",
+      "Piguet Jules-Isaac",
+      "Reymond Jules",
+      "Reymond Henri",
+      "Rochat Elie",
+      "Simond Emile père",
+      "Vionnet Jules"
     ],
-    "Apiculteur": [
-      "Charlet Daniel"
+    "Ameublements": [
+      "Meylan Paul-Robert",
+      "Simond John"
     ],
-    "Articles agricoles": [
-      "Michaud & Goy"
+    "Appareilleur": [
+      "Meylan-Joly François"
     ],
-    "Artiste peintre": [
-      "Stoucky Alfred"
+    "Articles de pêche": [
+      "Piguet-Capt"
     ],
-    "Asiles": [
-      "Asile des Vieillards",
-      "Michot Henri",
-      "Foyer Arménien"
+    "Assesseur": [
+      "Golay Henri-Vincent"
+    ],
+    "Assurances": [
+      "La Suisse",
+      "Assurances cantonales",
+      "Baud Alb.",
+      "Union suisse",
+      "Dufaux Constant",
+      "Helvétia (accidents)",
+      "Rochat-Meier Paul",
+      "Société suisse d'assurance générale sur la vie humaine",
+      "Rochat-Meier Paul",
+      "La Genevoise (vie)",
+      "Meylan Marcel"
     ],
     "Assurance-vieillesse": [
       "Mutualité scolaire de retraite",
-      "Jaton M."
+      "Maire Louis",
+      "Société mutualiste de retraite",
+      "Aubert Constant",
+      "Société mutualiste de retraite de la section fédérale de gymnastique",
+      "Aubert M.",
+      "Société mutualiste de retraite « L'Avenir »",
+      "Nicole Albert",
+      "Société mutualiste de retraite « Le Sapin »",
+      "Maire Louis"
     ],
-    "Auberges et cafés": [
-      "Ogguey Louis",
-      "Ecu de Genève",
-      "Gervaix-Bex Pl.",
-      "Ecu Vaudois",
-      "Bassin F."
+    "Banques": [
+      "Banque cantonale vaudoise",
+      "Meylan Marius",
+      "Crédit Mutuel de la Vallée",
+      "Lecoultre Charles"
     ],
-    "Aviculture": [
-      "Kunzler F."
+    "Bazars": [
+      "Bazar de la Vallée",
+      "Meylan-Marschall Aug.",
+      "Meylan Berthe"
     ],
-    "Bétail (march. de)": [
-      "Gægel Ch."
+    "Bijouterie": [
+      "Baud-Reymond",
+      "Vve d'Henri"
     ],
     "Blanchisseuses": [
-      "Cavin Louise",
-      "Magnenat Félicie"
+      "Besson",
+      "Veuve de Benjamin",
+      "Meylan Alfred"
     ],
     "Bois (march. de)": [
-      "Schacher Ls."
+      "Aubert-Piguet Marcel",
+      "Heuby frères"
     ],
     "Bouchers": [
-      "Bertschy Jules",
-      "Monnet J."
+      "Reymond Henri",
+      "Rochat Roland"
     ],
-    "Boulangers": [
-      "Isely Ernest",
-      "Lecoultre Henri"
+    "Boulangers-pâtissiers": [
+      "Golay Charles-Alfred",
+      "Rochat Onésime",
+      "Rochat Rob."
     ],
-    "Charcutier": [
-      "Loup Louis"
+    "Brevets d'invention": [
+      "Flesch L.",
+      "Pahud J.-D."
+    ],
+    "Cafés": [
+      "Baud Alexandre",
+      "Baud William",
+      "Kuhn Ed.",
+      "Mermoud A.",
+      "Meylan frères"
+    ],
+    "Café sans alcool": [
+      "Meylan Alfred"
+    ],
+    "Caisses d'emballages (fab. de)": [
+      "Heuby frères"
+    ],
+    "Caisse d'épargne cantonale vaudoise": [
+      "Reymond Albert"
+    ],
+    "Cercueils": [
+      "Golay A."
+    ],
+    "Chapeliers": [
+      "Au Progrès",
+      "Châtelain & Cie",
+      "Golay Aug. fils"
     ],
     "Charpentiers": [
-      "Cujean U.",
-      "Fayet Jules"
+      "Audemars Charles-Henri",
+      "Jutzeler Jean",
+      "Meylan Ls"
     ],
-    "Charron": [
-      "Morin Joseph"
+    "Charrons": [
+      "Morier Henri & fils"
     ],
-    "Chaussures": [
-      "Gonet Emile",
-      "Michaud & Goy"
+    "Chaussures (march. de)": [
+      "Golay Aug. fils",
+      "Nicole Victor",
+      "Coopérative"
     ],
-    "Coiffeurs": [
-      "Bassin Ernest",
-      "Mosetti Alexandre"
+    "Chemin de fer Pont-Brassus": [
+      "Dufaux Ct."
     ],
-    "Combustibles": [
-      "Challandes Marius"
-    ],
-    "Commission scolaire": [
-      "Rouzeau Jos.",
-      "Dessiex Henri",
-      "Gervaix Fernand",
-      "Mmes Francken",
-      "Dr et Ch. Grand"
-    ],
-    "Confections": [
-      "Michaud & Goy"
-    ],
-    "Cordonniers": [
-      "Dick Frédéric",
-      "Gaggione Jaques",
-      "Janin Emile"
-    ],
-    "Dentiste": [
-      "Riesen M."
-    ],
-    "Entrepreneurs": [
-      "Nicola Ls.",
-      "Salero Pierre"
-    ],
-    "Epiceries": [
-      "Cornaz Léon",
-      "Gonet Emile",
-      "Johner J.-Edmond",
-      "Michod & Goy",
-      "Mosetti H."
-    ],
-    "Ferblantier": [
-      "Matthey Fs."
-    ],
-    "Fers et métaux": [
-      "Michaud & Goy"
-    ],
-    "Gypsiers-peintres": [
-      "Mosetti Louis",
-      "Novarina Pierre"
-    ],
-    "Graines fourragères et potagères": [
-      "Diserens Ch.",
-      "Michaud & Goy"
-    ],
-    "Hôtels": [
-      "Ecu de Genève",
-      "Oguey",
-      "Ecu Vaudois",
-      "Gervais-Bex Paul"
-    ],
-    "Inspecteur du bétail": [
-      "Henriod Ls."
-    ],
-    "Instituteurs": [
-      "Jaton Marc",
-      "Corboz Clara",
-      "Henriod Louise",
-      "Monnet Hélène"
-    ],
-    "Jardinier": [
-      "Brauch"
-    ],
-    "Justice de paix": [
-      "Brandt Hri",
-      "Blazer Ele",
-      "Caboussat Ami",
-      "Pécoud Jules-Charles",
-      "Prod'hom Albert",
-      "Genevay Edm.",
-      "Henriod Louis"
-    ],
-    "Laitier": [
-      "Laiteries Réunies",
-      "Hornung"
-    ],
-    "Machines agricoles": [
-      "Michaud & Goy"
-    ],
-    "Maréchal": [
-      "Guyoz Jules"
-    ],
-    "Mécanicien": [
-      "Christinet Emile"
-    ],
-    "Médecin": [
-      "Francken William"
-    ],
-    "Menuisiers": [
-      "Bovy Fernand",
-      "Fayet Jules"
-    ],
-    "Meuniers": [
-      "Berger J.",
-      "Cornaz Armand"
-    ],
-    "Modiste": [
-      "Giovanna-Stoucky Marg."
-    ],
-    "Officier d'état civil": [
-      "Dessiex Henri"
-    ],
-    "Outils": [
-      "Michaud & Goy",
-      "Johner Edm."
-    ],
-    "Pasteurs": [
-      "Rouzeau Joseph",
-      "Bron Frédéric"
-    ],
-    "Pharmacien": [
-      "Aubert Aug."
-    ],
-    "Porcs (élevage de)": [
-      "Station Prés de Vaux"
-    ],
-    "Poste": [
-      "Gauthey Carol",
-      "Gaudin Julien",
-      "Sallaz Jules"
-    ],
-    "Primeurs": [
-      "Loup Louis"
-    ],
-    "Professeur de musique": [
-      "Charlet D."
-    ],
-    "Rentières": [
-      "Laurent Elisa",
-      "Rochaix Sophie"
-    ],
-    "Scierie": [
-      "Schacher Louis"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "Suisse d'immigration et de patronage d'orphelins arméniens",
-      "Immobilière de la Croix en Liettaz",
-      "Immobilière de l'église libre",
-      "de tir aux armes de guerre",
-      "de chant Chœur d'hommes",
-      "Littéraire L'Avenir",
-      "Section de la Croix-Bleue",
-      "Syndicat agricole et viticole",
-      "De gymnastique",
-      "Vélo-Club"
-    ],
-    "Tailleur": [
-      "Hugonnet Louis"
-    ],
-    "Tailleuses": [
-      "Christinet Annette",
-      "Dessiex Louise",
-      "Salero Marie"
-    ],
-    "Télégraphiste et téléphoniste": [
-      "Brandt Berthe"
-    ],
-    "Tonnelier": [
-      "Ridweg Charles"
-    ],
-    "Vannerie": [
-      "Michaud & Goy"
-    ],
-    "Vétérinaires": [
-      "Champ-Renaud Pl.",
-      "Perrin E."
+    "Chef de gare": [
+      "Roy Henri"
     ]
   }
 }

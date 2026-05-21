@@ -1,116 +1,259 @@
 {
-  "Ville de Morges": {
-    "Avocats.": [
-      "Morax André",
-      "Simon Eugène",
-      "Vallotton-Warnery Henry"
+  "MONTMAGNY": {
+    "Syndic": [
+      "Loup René"
     ],
-    "Bains.": [
-      "Dulon-Zulauf",
-      "Société des Bains du Lac"
+    "Municipaux": [
+      "Loup Emile",
+      "Loup Jules",
+      "Loup Jean",
+      "Wuillemin Emile"
     ],
-    "Banques.": [
-      "Banque Cantonale Vaudoise",
-      "Société de Banque suisse",
-      "Union Vaudoise du Crédit"
+    "Secrétaire": [
+      "Piguet Frs"
     ],
-    "Bateaux (fab. de).": [
-      "Cuendet Maurice"
+    "Boursier": [
+      "Gentizon Ulysse"
     ],
-    "Bazars.": [
-      "Bloch-Weil, les fils",
-      "Emery Alexandre",
-      "Meyer Sylvain",
-      "Staub Edouard"
+    "Agriculteurs": [
+      "Loup Adolphe",
+      "Loup André",
+      "Loup Daniel",
+      "Loup Léon",
+      "Loup Jules",
+      "Loup-Gentizon Henri",
+      "Loup Arnold",
+      "Loup Jules de Féd.",
+      "Magnin Constant",
+      "Magnin Emma, Vve",
+      "Magnin Gustave",
+      "Magnin Henri",
+      "Rapin Const.",
+      "Wuillemin Alph."
     ],
-    "Benzine.": [
-      "S. A. Redard & Cie",
-      "Socal S. A."
+    "Café": [
+      "Verdon Jules"
     ],
-    "Bestiaux et chevaux (march. de).": [
-      "Geissmann frères",
-      "Jotterand Paul",
-      "Lévy Roger",
-      "Perrin Robert",
-      "Reymond Henri",
-      "Weil Lucien"
+    "Charron": [
+      "Piguet François"
     ],
-    "Bijoutiers.": [
-      "Golaz Franz",
-      "Golaz Emile",
-      "Lecoultre H.",
-      "Margot J.",
-      "Wuilleumier Lucien"
+    "Commission scolaire": [
+      "Loup Georges",
+      "Loup Daniel",
+      "Hug H."
     ],
-    "Biscuits (fab. de).": [
-      "Oulevay Alfred",
-      "Widmann W. & Cie"
+    "Couvreur": [
+      "Gentizon Ulysse"
     ],
-    "Blanchisseuses.": [
-      "Blanc-Pilser, dame",
-      "Christin Lucie",
-      "Grivel Elisa",
-      "Grivet, dames",
-      "Guala-Pilet Marie",
-      "Magada Pauline",
-      "Rey-Chauvet Jenny",
-      "Reymond Marguerite",
-      "Rosset-Villinger, dame",
-      "Wilhelm Louise",
-      "Zingre Elisa"
+    "Epiceries": [
+      "Chanson Constance",
+      "Loup Henri"
     ],
-    "Bois de chauffage (comm. de).": [
-      "Grobéty-Magnin Ls",
-      "Jaccoud & fils",
-      "Oppliger François",
-      "Thury F."
+    "Ferblantier": [
+      "Schneider Maurice"
     ],
-    "Boissellerie.": [
-      "Chatenoud Edouard",
-      "Jayet Charles"
+    "Garde-forestier cantonal": [
+      "Loup R."
     ],
-    "Bonneterie.": [
-      "Chabloz Henri",
-      "Martin Blanche",
-      "Savary & Brunner",
-      "Seewer Marguerite",
-      "Vernet-Bernard Clémence"
+    "Inspecteur du bétail": [
+      "Loup Henri-Constant",
+      "Loup Arnold"
     ],
-    "Bouchers.": [
-      "Balimann Franz",
-      "Gehri René",
-      "Jotterand Paul",
-      "Perrin R.",
-      "Reymond Georges"
+    "Instituteurs": [
+      "Cherix Adien",
+      "Loup Hermine"
     ],
-    "Boulangers-pâtissiers.": [
-      "Bertholet Albert",
-      "Bezençon Edmond",
-      "Charlet Marcel",
-      "Clément Emile",
-      "Favre Albert",
-      "Martinelli Charles",
-      "Perdrix Jean",
-      "Perrin Jules",
-      "Petter Paul",
-      "Simon Louis",
-      "Walser Auguste"
+    "Menuisier": [
+      "Loup Charles"
     ],
-    "Brevets d'invention.": [
-      "Flesch L.",
-      "Pahud J.-D."
+    "Poste": [
+      "Loup Georges"
     ],
-    "Broderies.": [
-      "Baum Louise",
-      "Stucky Charlotte"
+    "Sociétés": [
+      "du battoir à grain. R.",
+      "de laiterie. R."
     ],
-    "Brosserie.": [
-      "Ethenoz William",
-      "Gachet Jules",
-      "Jayet Charles",
-      "Rieben Emile",
-      "Vve Jean von Auw & fils",
-      "Vuffray Ernest"
+    "Téléphoniste": [
+      "Loup Henri"
+    ]
+  },
+  "MUR": {
+    "Autorités communales": [
+      "Amiet Jules",
+      "Noyer Jean"
+    ],
+    "Syndic": [
+      "Besse Emile"
+    ],
+    "Municipaux": [
+      "Amiet Eug.",
+      "Cornuz Jn",
+      "Amiet Louis",
+      "Javet Jles"
+    ],
+    "Secrétaire": [
+      "Amiet Jules d'Eug."
+    ],
+    "Boursier": [
+      "Amiet Jules"
+    ],
+    "Agriculteurs": [
+      "Amiet Emile",
+      "Amiet Eugène",
+      "Amiet Fritz",
+      "Amiet-Gringet Emile",
+      "Amiet Hri",
+      "Amiet Louis",
+      "Besse Emile-Arm.",
+      "Besse Emile",
+      "Besse Maurice",
+      "Besse William",
+      "Cornuz Jean",
+      "Cornuz Paul",
+      "Delorme Paul",
+      "Javet Jules",
+      "Kramer Emile",
+      "Noyer J.",
+      "Petter Henri",
+      "Pouly Henri",
+      "Rivier Théodore et Henri",
+      "Tharin Emile",
+      "Vacheron Camille",
+      "Vacheron Jules"
+    ],
+    "Commission scolaire": [
+      "Besse E.",
+      "Basset",
+      "Amiet Henri"
+    ],
+    "Cordonnier": [
+      "Peter Auguste"
+    ],
+    "Epicerie": [
+      "Peter Auguste"
+    ],
+    "Inspecteur du bétail": [
+      "Cornuz Paul"
+    ],
+    "Instituteur": [
+      "Crisinel Ernest"
+    ],
+    "Sociétés": [
+      "de laiterie de Mur. R."
+    ]
+  },
+  "OLEYRES": {
+    "Autorités communales": [
+      "Miauton Jules-Louis",
+      "Miauton Paul"
+    ],
+    "Syndic": [
+      "Nicolier Fritz"
+    ],
+    "Municipaux": [
+      "Nicolier Alexis",
+      "Neuenschwander Auguste",
+      "Miauton Armand",
+      "Nicolier Charles"
+    ],
+    "Secrétaire": [
+      "Miauton Auguste"
+    ],
+    "Boursier": [
+      "Nicolier Alfred"
+    ],
+    "Huissier": [
+      "Miauton Albert"
+    ],
+    "Agriculteurs": [
+      "Charmey Auguste",
+      "Charmey Emile",
+      "Doleyres Jules",
+      "Krenger Fritz",
+      "Martin Alfred",
+      "Miauton Albert",
+      "Miauton Charles-Daniel",
+      "Nicolier Charles",
+      "Nicolier Fritz",
+      "Nicolier Jean-Jules",
+      "Nicolier Robert",
+      "Simonet Arnold"
+    ],
+    "Assesseur": [
+      "Miauton Jules-Louis",
+      "Nicolier Friz"
+    ],
+    "Bureau des postes": [
+      "Miauton Charles"
+    ],
+    "Café": [
+      "Piccand Jules"
+    ],
+    "Charron": [
+      "Gonin J."
+    ],
+    "Commission scolaire": [
+      "Miauton Armand",
+      "Miauton Auguste",
+      "Nicolier Gustave"
+    ],
+    "Coopérative de consommation": [
+      "Miauton Rosa"
+    ],
+    "Cordonnier": [
+      "Buri Adolphe fils"
+    ],
+    "Epicerie": [
+      "Nicolier Elvina"
+    ],
+    "Hongreur": [
+      "Mayor L."
+    ],
+    "Inspecteur du bétail": [
+      "Miauton J.-Ls."
+    ],
+    "Instituteur": [
+      "Nicolier Ernest"
+    ],
+    "Lamineur": [
+      "Guermann Henri"
+    ],
+    "Maréchal": [
+      "Gonin René"
+    ],
+    "Menuisier": [
+      "Ruérat Emile"
+    ],
+    "Meunier": [
+      "Buri Adolphe"
+    ],
+    "Sociétés": [
+      "de laiterie. R.",
+      "agricole. R."
+    ],
+    "Socques (fab. de bois de)": [
+      "Buri Adolphe"
+    ],
+    "Téléphone communal": [
+      "Piccand Jules"
+    ]
+  },
+  "VALLAMAND-DESSUS": {
+    "Autorités communales": [
+      "Delorme Paul",
+      "Renaud Charles"
+    ],
+    "Syndic": [
+      "Vincent-Milliet Jules"
+    ],
+    "Municipaux": [
+      "Frigeri Jean",
+      "Matthey Louis",
+      "Failloubaz Henri",
+      "Gutknecht Paul"
+    ],
+    "Secrétaire": [
+      "Jan du Chêne Auguste"
     ]
   }
 }

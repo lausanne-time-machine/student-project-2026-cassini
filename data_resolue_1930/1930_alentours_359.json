@@ -1,233 +1,227 @@
 {
-  "Salavaux": {
-    "Bureau postal et télégraphiste": [
-      "Wullième Bertha"
+  "Montreux": {
+    "Amodiateurs.": [
+      "Besson Chs",
+      "Besson Justin",
+      "Besson frères",
+      "Besson Ls",
+      "Burnet Albert et Paul"
     ],
-    "Coiffeur": [
-      "Forster Ernest"
+    "Associations mutualistes de retraite.": [
+      "Teuscher G."
     ],
-    "Distillerie": [
-      "Société de distillerie du Vully"
+    "Aubergiste.": [
+      "Goy Henri"
     ],
-    "Entrepreneurs": [
-      "Baitotti Jacques",
-      "Ramella & Cie"
+    "Blanchisseuse-repasseuse.": [
+      "Meylan Désirée"
     ],
-    "Epicerie, mercerie": [
-      "Blaser Jean",
-      "Gentinetta Hercule",
-      "Loup-Jordan, hoirs"
+    "Bois (march. de).": [
+      "Fleury-Dauphin"
     ],
-    "Facteur": [
-      "Wullième Edmond"
+    "Charpentier.": [
+      "Reymond Ulysse"
     ],
-    "Farines": [
-      "Grandjean Olivier"
+    "Commission scolaire.": [
+      "Dauphin Gustave",
+      "Besson Alfred",
+      "Burnet Paul"
     ],
-    "Fers et quincaillerie": [
-      "Loup-Jordan hoirs d'A."
+    "Cordonnier.": [
+      "Fleury Marius"
     ],
-    "Maréchal": [
-      "Barraud Louis"
+    "Epicerie.": [
+      "Monnard Alice"
     ],
-    "Médecin": [
-      "Graf H.-W."
+    "Honoraires.": [
+      "Fleury Isaac",
+      "Fleury Marcel"
     ],
-    "Meunerie": [
-      "Usine agricole"
+    "Infirmier-masseur.": [
+      "Groux Jean"
     ],
-    "Notaires": [
-      "Guex Henri",
-      "Porchet",
-      "Gobat Georges"
+    "Inspecteur du bétail.": [
+      "Besson Justin"
     ],
-    "Sellier": [
-      "Zoss Benoit"
+    "Instituteurs.": [
+      "Teuscher Gaston",
+      "Goy Hulda Mme"
     ],
-    "Sociétés": [
-      "Battoir électrique Bellerive",
-      "d'agriculture La Vulleraine",
-      "des Transports du Vully",
-      "Bessard Marc"
+    "Laitier.": [
+      "Charotton"
     ],
-    "Teinturerie": [
-      "Loup-Bessard, dépôt"
+    "Poste.": [
+      "Dauphin Emile"
     ],
-    "Téléphone": [
-      "Vincent Paul"
+    "Rentiers.": [
+      "Doudin Emile",
+      "Muller Octave"
     ],
-    "Vélos": [
-      "Magnin G."
+    "Sociétés.": [
+      "de fromagerie. R.",
+      "Syndicat agricole d'élevage et d'alpage. R."
     ],
-    "Viticulteurs": [
-      "Bessard Marc",
-      "Grandjean Léon",
-      "Tombez Jean"
+    "Tailleuse.": [
+      "Goy Hulda"
     ],
-    "Voiturier": [
-      "Vullième Gabriel"
+    "Téléphone communal.": [
+      "Goy Henri"
     ]
   },
-  "Vallamand-Dessous": {
-    "Agriculteur": [
-      "Bessard Alexandre"
-    ],
-    "Café": [
-      "Grandjean Marius"
-    ],
-    "Entrepreneur": [
-      "Bianchi S."
-    ],
-    "Horloger": [
-      "Rossel Valentin"
-    ],
-    "Pêcheurs": [
-      "Binder Oscar",
-      "Gailloz Marcel",
-      "Treyvaud Jules",
-      "Treyvaud Paul"
-    ]
-  },
-  "CHABREY": {
-    "Autorités communales": [
-      "Vessaz Henri",
-      "Christinat Paul"
-    ],
-    "Syndic": [
-      "Vessaz Alfred"
-    ],
-    "Municipaux": [
-      "Chuard-Jaunin Alb.",
-      "Christinat Ern.",
-      "Christinat Hri Ls",
-      "Jaunin Maurice",
-      "Christinat Henri-Fréd."
-    ],
-    "Boursier": [
-      "Christinat Alfred"
-    ],
-    "Huissier": [
-      "Christinat Emile-Henri"
+  "BIÈRE": {
+    "Autorités communales.": [
+      "Jotterand Aloïs",
+      "Brocard Ulysse",
+      "Jotterand Paul",
+      "Jotterand Robert",
+      "Mange Octave",
+      "Meldem Edouard",
+      "Pittet Edouard fils",
+      "Monthoux Robert",
+      "Rochat John",
+      "Burnier Edouard",
+      "Brocard Jules",
+      "Theintz Julien"
     ],
     "Agriculteurs": [
-      "Beutler Emile",
-      "Blaser Fritz",
-      "Christinat Albert",
-      "Christinat Alexis",
-      "Christinat Emile",
-      "Christinat Ernest",
-      "Christinat François",
-      "Chuard Albert",
-      "Häni Jean",
-      "Loup Marcel",
-      "Schick Samuel",
-      "Vessaz Alfred",
-      "Vessaz Auguste-Henri",
-      "Vessaz Constant",
-      "Vessaz Emile",
-      "Vessaz Samuel"
+      "Annen Ele",
+      "Autier Ed.",
+      "Autier Js",
+      "Bellon Ed.",
+      "Bellon Gustave",
+      "Bellon Henri",
+      "Brocard Auguste",
+      "Brocard Jules",
+      "Bugnoux Ed.",
+      "Bugnoux Henri",
+      "Burnier Alfred",
+      "Burnier Auguste",
+      "Burnier Constant",
+      "Burnier Edouard",
+      "Burnier Gustave",
+      "Burnier John",
+      "Burnier Octave",
+      "Burri Charles",
+      "Chenevard Ed.",
+      "Cloux-Bugnoux Jules",
+      "Cloux Benjamin",
+      "Cloux Marcel",
+      "Cloux William",
+      "Ethenoz Jean",
+      "Ethenoz Julien",
+      "Jotterand Ed.",
+      "Jotterand Paul",
+      "Mange Octave",
+      "Mange Osc.",
+      "Mange Alb.",
+      "Meldem Aloïs",
+      "Meldem Edouard",
+      "Messiaux Alf.",
+      "Monthoux Jules",
+      "Monthoux Léonard",
+      "Monthoux-Clerc Rob.",
+      "Pittet Auguste",
+      "Pittet-Borel",
+      "Pittet Edouard",
+      "Pittet Franz",
+      "Pittet Julien",
+      "Rochat Edouard",
+      "Rochat John",
+      "Rochat-Meylan Constant"
     ],
-    "Mutualité scolaire de retraite": [
-      "Duperret Emile"
+    "Amodiateurs.": [
+      "Bellon Edouard",
+      "Syndicat agricole et d'alpage"
     ],
-    "Aubergiste": [
-      "Schneuwely Hermann"
+    "Associations mutualistes de retraite.": [
+      "Stauffer Ch."
     ],
-    "Charron": [
-      "Weber Frédéric"
+    "Bière (dépôts de).": [
+      "Jaquemard Chs"
     ],
-    "Commission scolaire": [
-      "Hug Heinrich",
-      "Jaunin Maurice",
-      "Vessaz Emile"
+    "Blanchisseuses.": [
+      "Bangueret Célina",
+      "Chenevard Jenny",
+      "Croisier-Mattille Marguerite",
+      "Duperret Eugénie",
+      "Matter M.",
+      "Sulliger Marguerite"
     ],
-    "Entrepreneurs": [
-      "Blanc & Cie"
+    "Bois (march. de).": [
+      "Brocard Auguste",
+      "Brocard Jules",
+      "Jotterand Paul et Croisier Jules",
+      "Meldem Edouard",
+      "Pittet Edouard"
     ],
-    "Epicerie, mercerie, tabacs": [
-      "Christinat Auguste",
-      "Vessaz Cécile"
+    "Boucher.": [
+      "Ledermann Georges"
     ],
-    "Instituteur": [
-      "Duperret Emile"
+    "Boulangers.": [
+      "Gindroz Paul",
+      "Janzi Fernand",
+      "Magnenat Ch."
     ],
-    "Inspecteur du bétail": [
-      "Christinat J.-Frédéric"
+    "Buraliste postal.": [
+      "Renaud Jules",
+      "Ducret François",
+      "Ethenoz Alexis",
+      "Jotterand Arthur",
+      "Messiaux Louis",
+      "Monthoux Auguste"
     ],
-    "Poste": [
-      "Christinat Auguste"
+    "Cafés.": [
+      "Allaman Paul",
+      "Burnier Max",
+      "Golaz Jean",
+      "Jotterand Jules fils",
+      "Olivary Léon",
+      "Piguet Aug.",
+      "Pittet Maurice",
+      "Schmidt Paul",
+      "Sudan Alfred"
     ],
-    "Sociétés": [
-      "de laiterie",
-      "du batroir"
+    "Café de tempérance.": [
+      "La Violette de Bière"
     ],
-    "Tailleuses": [
-      "Delley Reine",
-      "Marti Anna"
+    "Carrier.": [
+      "Besson Jules"
     ],
-    "Téléphoniste": [
-      "Christinat Auguste"
-    ]
-  },
-  "CHAMPMARTIN": {
-    "Autorités communales": [
-      "Beck Eugène",
-      "Küng Maurice"
+    "Charcutiers.": [
+      "Buchs Gottfried R.",
+      "Jotterand Robert",
+      "Ledermann Georges",
+      "Piguet Auguste"
     ],
-    "Syndic": [
-      "Milliet Henri"
+    "Charpentiers.": [
+      "Pache Hippolyte",
+      "Pittet Alphonse",
+      "Vienet Jules"
     ],
-    "Municipaux": [
-      "Beck Henri",
-      "Küng Franz",
-      "Beck Eugène"
+    "Charron.": [
+      "Stauffenegger Rob."
     ],
-    "Boursier": [
-      "Beck Paul"
+    "Chaussures (march. de).": [
+      "Gilliéron Adrien"
     ],
-    "Agriculteurs": [
-      "Beck Eugène",
-      "Beck Henri",
-      "Chuard Ida, veuve de Robert",
-      "Milliet Henri",
-      "Zosso Christian"
+    "Chef de gare.": [
+      "Cuagnier Henri"
     ],
-    "Inspecteur du bétail": [
-      "Beck Henri"
-    ]
-  },
-  "CONSTANTINE": {
-    "Autorités communales": [
-      "Bessat Jules",
-      "Margot Edouard"
+    "Chef de section.": [
+      "Pittet Edouard"
     ],
-    "Syndic": [
-      "Loup Louis"
+    "Cigares et tabacs.": [
+      "Gilliéron Adrien",
+      "Gindroz Paul",
+      "Jotterand Jules",
+      "Magnenat Ch.",
+      "Monnier Henri",
+      "Olivary Eugène",
+      "Olivary Léon",
+      "Société coopérative"
     ],
-    "Municipaux": [
-      "Cuanillon Alfred",
-      "Parisod Léon",
-      "Loup-Bessard Léon",
-      "Gentizon-Bessard Henri",
-      "Gentizon Emile"
-    ],
-    "Boursier": [
-      "Gentizon Louis"
-    ],
-    "Huissier": [
-      "Monney Alexis"
-    ],
-    "Agriculteurs": [
-      "Bessat Eug.",
-      "Bessat Jules",
-      "Cauderay Emile",
-      "Coinchon Edouard",
-      "Cuanillon Alfr.",
-      "Gentizon-Bessard Henri",
-      "Gentizon, hoirs de Jacques",
-      "Gentizon-Rapin Louis",
-      "Gentizon, hoirs de Jean-Daniel",
-      "Gentizon Emile, d'Alfred"
+    "Cinématographe.": [
+      "Jotterand Art."
     ]
   }
 }

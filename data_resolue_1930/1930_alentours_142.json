@@ -1,120 +1,143 @@
 {
-  "VILLE D'ORBE": {
-    "Distilleries": [
-      "Erni Adolphe",
-      "Krebs Emile"
+  "VILLETTE": {
+    "Téléphonistes": [
+      "Farner Alfred",
+      "Dufour Vincent",
+      "Piccard Julia",
+      "Moille Margot"
     ],
-    "Draperies-Nouveautés": [
-      "Bloch Edmond",
-      "Gilliéron Louis",
-      "Nicolin Jules",
-      "Ramelet Emile"
+    "Président du Conseil général": [
+      "Parisod Henri"
     ],
-    "Eaux gazeuses et minérales": [
-      "Bousson & Bezençon",
-      "Suri Auguste"
+    "Secrétaire": [
+      "Forney Lucien",
+      "Giroud Jean-Louis"
     ],
-    "Engrais chimiques": [
-      "Beauverd Emile",
-      "Bezençon Hri & Bousson Louis"
+    "Syndic": [
+      "Testuz Henri"
     ],
-    "Entrepreneurs": [
-      "Addor Jules & Jaquier",
-      "Castelli Louis",
-      "Castelli J. & Ferrario P.",
-      "Zeni Félix"
+    "Municipaux": [
+      "Parisod Ernest",
+      "Dance Adolphe",
+      "Giroud Henri",
+      "Cuénoud Robert"
     ],
-    "Epicerie, mercerie": [
-      "Berthoud Louis",
-      "Bonozn Louis",
-      "Conod Albert",
-      "Demont-Gindroz Olive",
-      "Dietrich B.",
-      "Dissard Pierre",
-      "Dupuis Fernand",
-      "Gianoli-Devenoge Mathilde",
-      "Golay-Dällenbach Louisa",
-      "Mercier Lina, Vve.",
-      "Muller Isidore",
-      "Petitpierre Ch., S. A.",
-      "Rosset Eugène",
-      "Roth R.",
-      "Société coopérative de consommation L'Economie",
-      "Sonnay Louis",
-      "Suri Simond-Aug."
+    "Boursier": [
+      "Giroud Henri"
     ],
-    "Eternit — Explosifs": [
-      "Beauverd Em."
+    "Mutualité scolaire de retraite": [
+      "Jaques G."
     ],
-    "Ferblantiers-couvreurs": [
-      "Alvazzi Auguste",
-      "Cossetto M.",
-      "Layaz Oscar",
-      "Rogivue Léon",
-      "Troyon Emile",
-      "Vallotton Lucien"
+    "Bricelets (fabr. de)": [
+      "Widmer Jean"
     ],
-    "Fers et métaux": [
-      "Ramuz-Bonzon Paul",
-      "Reymond Gustave"
+    "Cafés": [
+      "Chollet Ernest",
+      "Hegg Henri"
     ],
-    "Forestier de la ville": [
-      "Barbey Auguste"
+    "Charron": [
+      "Cuénoud Ernest"
     ],
-    "Fromages (march. de)": [
-      "Conod Eugène",
-      "Nerny Louis",
-      "Roth Rodolphe"
+    "Commission scolaire": [
+      "Desfayes Hri",
+      "Dance Adolphe",
+      "Dovat Ernest"
     ],
-    "Géomètres officiels": [
-      "Jomini Paul",
-      "Thomas H."
+    "Conservateur du R. F.": [
+      "Parisod H."
     ],
-    "Grains et farines en gros": [
-      "Moulins Rod. (S. A.)",
-      "Bousson & Bezençon"
+    "Cordonnier": [
+      "Gillard Oscar"
     ],
-    "Graines fourragères": [
-      "Beauverd Emile",
-      "Bezençon Hri & Bousson Louis",
-      "Rosset Eugène"
-    ],
-    "Gypsiers": [
-      "Antonietti Alfred",
-      "Antonietti Léon",
-      "Gagliardini E. & Dalberto Jean",
-      "Jaques Ernest",
-      "Jaques Maurice",
-      "Perolini frères"
-    ],
-    "Hongreur": [
-      "Cochet Jules"
-    ],
-    "Horlogers": [
-      "Béguelin Marcel",
-      "Brosolasco Louis",
-      "Guignard Francis",
-      "Magnin Luc"
-    ],
-    "Hôtels": [
-      "Collet Hri",
-      "Matthey Léon"
-    ],
-    "Huissiers": [
-      "Dupuis Edouard",
-      "Combe Gustave",
-      "Combe Charles"
-    ],
-    "Imprimeries": [
-      "Jaques Eugène",
-      "Ed. Velay Fils"
-    ],
-    "Infirmerie": [
-      "Infirmerie"
+    "Epiceries, boulangeries": [
+      "Bovard Antoinette",
+      "Henchoz Alexis",
+      "Porta Charles"
     ],
     "Inspecteur du bétail": [
-      "Dupuis Fritz",
-      "Troyon Alfred"
+      "Cuénoud Robert"
+    ],
+    "Instituteur": [
+      "Jaques Gustave"
+    ],
+    "Lingère": [
+      "Amaudruz Louise"
+    ],
+    "Maraîcher": [
+      "Pavillard Louis"
+    ],
+    "Menuisier": [
+      "Bastian Alfred"
+    ],
+    "Pêcheur": [
+      "Parisod Henri"
+    ],
+    "Sociétés": [
+      "Fromagerie « Espérance »",
+      "Chœur mixte",
+      "de jeunesse"
+    ],
+    "Téléphone": [
+      "Chollet Ernest",
+      "Hegg Henri"
+    ],
+    "Vignerons": [
+      "Brossy",
+      "Béboux Aug.",
+      "Cardinaux Vincent",
+      "Chollet Auguste",
+      "Dance Adolphe",
+      "Dance Constant",
+      "Desfayes Henri",
+      "Desfayes Vincent",
+      "Détraz Constant",
+      "Forney Louis",
+      "Gorjat Henri",
+      "Grandjean François",
+      "Joly Aimé",
+      "Margairaz Marcel",
+      "Noverraz, Vve de Const.",
+      "Noverraz Henri",
+      "Parisod Ernest",
+      "Parisod Ch.",
+      "Piccard Emile",
+      "Piccard Aloïs",
+      "Porta Bernard",
+      "Porta Louis",
+      "Riccard Louis",
+      "Testuz Ch.",
+      "Testuz Paul"
+    ],
+    "Vins (et bouteilles)": [
+      "Desfayes Vincent"
+    ]
+  },
+  "DISTRICT DE MORGES": {
+    "Préfet": [
+      "Cuérel Alfred"
+    ],
+    "Substitut": [
+      "Serex Charles"
+    ],
+    "Receveur": [
+      "Cuénod Aloïs"
+    ],
+    "Conservateur du registre foncier": [
+      "Piguet Marius"
+    ],
+    "Voyer du IIe arrondissement": [
+      "Burnier Paul"
+    ],
+    "Tribunal de district": [
+      "Pilet Ed.",
+      "Allamand-Colomb Louis",
+      "Bonzon Louis",
+      "Buenzod Benjamin",
+      "Magnollay Auguste",
+      "Gonvers Ernest"
+    ],
+    "Poursuites et faillites": [
+      "Druey Edouard"
     ]
   }
 }

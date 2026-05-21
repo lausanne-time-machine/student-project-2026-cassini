@@ -1,108 +1,221 @@
 {
-  "MONTREUX": {
-    "Journaux (marchands de).": [
-      "Gautschy F.",
-      "Guenin",
-      "De Bois, Mme.",
-      "Henchoz Jeanne",
-      "Kiosque de la Rouvenaz",
-      "Kiosque de Bon-Port",
-      "Kiosque Gonthier",
-      "Kiosque Maffei",
-      "Kiosque Schmidt",
-      "Kiosque de Clarens",
-      "Lecoultre",
-      "Lehmann E.",
-      "Muller Paul",
-      "Stapfer Ch.",
-      "Zahler",
-      "Jomini César",
-      "Kunz Jacob",
-      "Leuenberger Lina",
-      "Mottaz Adèle",
-      "Piot Aimé",
-      "Pittet Clémence",
-      "Rochat Chs",
-      "Rusca Louis",
-      "Sarbach hoirs",
-      "Schillbach-Paris A.",
-      "Schüler & Cie"
+  "GILLY": {
+    "Tonneliers.": [
+      "Bielser frères. T."
     ],
-    "Laboratoire d'analyses médicales.": [
-      "de Stoutz W.",
-      "Munier M."
+    "Vignerons.": [
+      "Chardon Eugène",
+      "Francfort Julien",
+      "Jorand Adr.",
+      "Masson Louis",
+      "Michon Henri",
+      "Ostermann L.",
+      "Pasche Eugène",
+      "Pasche Robert",
+      "Quiblier Frs",
+      "Rosset Edouard",
+      "Suardet Jules"
     ],
-    "Lainerie.": [
-      "Buser, Kaiser & Cie",
-      "Chevalley & Joly",
-      "Emery sœurs",
-      "Jan A. & J.",
-      "Moser Marguerite",
-      "Petit Louvre (Au)"
+    "Divers.": [
+      "Cartier-Perrod Sylvie, Vve. T."
+    ]
+  },
+  "LUINS": {
+    "Autorités communales.": [
+      "Dutruy Alb.",
+      "Pfeifflé Gustave",
+      "Dutruy Ernest",
+      "Sordet Aug.",
+      "Ducraux Frs",
+      "Sordet Paul",
+      "Walther Eugène",
+      "Pernoud Joseph",
+      "Dupraz René"
     ],
-    "Laitiers.": [
-      "Bonjour Robert",
-      "Bonzon, père",
-      "Besserer Hort.",
-      "Bossert Charles",
-      "Braita H.",
-      "Cochard Ulysse",
-      "Corbaz Aloïs",
-      "Duclos Marc",
-      "Ducret L.",
-      "Dufaux Gustave",
-      "Gedet Emile",
-      "Geiser Emile",
-      "Gentil Francis.",
-      "Genton Léon",
-      "Glauser Jacques",
-      "Golay Arnold",
-      "Greiner Louis",
-      "Groux Albert",
-      "Kleinert Werner"
+    "Agriculteurs.": [
+      "Bubloz Constant",
+      "Cornaz Fritz",
+      "Dutruy Albert",
+      "Dutruy Ernest",
+      "Dutruy Julien",
+      "Parmelin Frs",
+      "Pernoud Jean",
+      "Sordet Alfred",
+      "Sordet Paul",
+      "Varidel Aimé",
+      "Walther Ernest"
     ],
-    "Lapidaires.": [
-      "Allemann & Cie",
-      "Flury-Leutwyler M.",
-      "Kirschmann Ern."
+    "Café.": [
+      "Pahud Paul"
     ],
-    "Librairies.": [
-      "Descombes & Tissot",
-      "Faist Benj.",
-      "Jaccoud Louis",
-      "Kiosques de la Rouvenaz, de Bon Port et de la Grand'Rue",
-      "Lecoultre-Seitz",
-      "Librairie paroissiale",
-      "Muller Ed.",
-      "Payot & Cie",
-      "Rapaz Marguerite",
-      "Talon Charles",
-      "Wega, S. A.",
-      "Weilbach Auguste"
+    "Commission scolaire intercommunale Luins-Vinzel.": [
+      "Walther Ernest",
+      "Bubloz Robert",
+      "Tachet Edm.",
+      "Rossier Alexis",
+      "Cordey Alice"
     ],
-    "Lingerie.": [
-      "A la Renaissance",
-      "Albini Mme",
-      "Bergien frères",
-      "Botschko Rafischel",
-      "Buhler-Küng",
-      "Buser Kaiser & Cie",
-      "Bussien Ernestine",
-      "Clastres Pierre",
-      "Croset J. & E.",
-      "Desplanques Htte",
-      "Dost Mme",
-      "Dubler-Herzog",
-      "Duflon M., Mme",
-      "Fritsche-Koch J.",
-      "Geismar Bertha",
-      "Gilliéron Marthe",
-      "Graf-Jacot & Cie",
-      "Au Bas d'or",
-      "Hermann-Fuhrer, Mme",
-      "Hermann-Zahnd Edm.",
-      "Hofer, dame",
-      "Hofmann C."
+    "Dépositaire postal.": [
+      "Bubloz Marie"
+    ],
+    "Epicerie.": [
+      "Walther Fanny"
+    ],
+    "Inspecteur du bétail.": [
+      "Dutruy Alb."
+    ],
+    "Instituteurs.": [
+      "Durgnat Emile",
+      "Favre Aimée"
+    ],
+    "Meunier.": [
+      "Moulin L., Benggli."
+    ],
+    "Rentière.": [
+      "Sachot. Vve."
+    ],
+    "Représentant.": [
+      "Perrenoud L."
+    ],
+    "Sociétés.": [
+      "de fromagerie. R."
+    ],
+    "Téléphoniste.": [
+      "Pahud Paul"
+    ],
+    "Vignerons.": [
+      "Delessert Léon",
+      "Dupraz",
+      "Druey Ernest",
+      "Marguerat Emile",
+      "Rebet Bernard",
+      "Rochat Ls",
+      "Polencent Juls",
+      "Vauthey S."
+    ]
+  },
+  "MONT-LE-GRAND": {
+    "Assesseur.": [
+      "Gallay Jules"
+    ],
+    "Agriculteurs.": [
+      "Maring Fritz",
+      "Monnard François T.",
+      "Pache Auguste",
+      "Ramel Félix",
+      "Rochat Louis. T.",
+      "Schmidt Gustave",
+      "Schmidt Ulysse"
+    ],
+    "Associations mutualistes de retraite.": [
+      "Badan L."
+    ],
+    "Assurances.": [
+      "Gallay Fritz"
+    ],
+    "Aubergistes.": [
+      "Reguin",
+      "Recordon"
+    ],
+    "Boulangers.": [
+      "Berthoud, Vve d'Alf. T.",
+      "Boulangerie sociale",
+      "Diserens Arthur"
+    ],
+    "Commission scolaire.": [
+      "Richard Louis",
+      "Lavenex André",
+      "Jorand E.",
+      "Grosjean Ls",
+      "Gallay Jules"
+    ],
+    "Epicerie, mercerie, tabacs et cigares.": [
+      "Ansermet Louis. R.",
+      "Bataillard Ami. T.",
+      "Diserens Arthur. RT."
+    ],
+    "Entreprise de transport.": [
+      "Guignet Henri. T."
+    ],
+    "Inspecteur du bétail.": [
+      "Monnard Em."
+    ],
+    "Inspecteur des boucheries.": [
+      "Gallay Marcel"
+    ],
+    "Instituteurs.": [
+      "Badan Louis",
+      "Ballif-Cevey Marthe",
+      "Caillat Alice",
+      "Curchod Rose",
+      "Cauderay-Curchod Rose"
+    ],
+    "Menuisier-charpentier.": [
+      "Caillat Adr."
+    ],
+    "Poste.": [
+      "Muller Charles"
+    ],
+    "Sage-femme.": [
+      "Dufour L. T."
+    ],
+    "Sociétés.": [
+      "de fromagerie. R.",
+      "de distillerie. R.",
+      "de boulangerie. R.",
+      "de gymnastique",
+      "Fanfare municipale",
+      "Société de chant"
+    ],
+    "Tonnelier.": [
+      "Wyss Arnold, fils. T."
+    ],
+    "Vétérinaire.": [
+      "Ansermet Ele."
+    ],
+    "Vignerons.": [
+      "Ansermet hoirs de Jles",
+      "Ansermet Alfred",
+      "Ansermet Maurice. T.",
+      "Baud Aug. T.",
+      "Baud Louis",
+      "Blondel Fernand",
+      "Blondel Alex.",
+      "Chanson John",
+      "Chanson Emile",
+      "Chardon Aug.",
+      "Dufour Sam. T.",
+      "Dufour",
+      "Faillettaz Henri",
+      "Gallay Eug.",
+      "Gallay Jules",
+      "Jorand Ernest",
+      "Monnard Fr.",
+      "Monnard John",
+      "Monnard, hoirie de Louis",
+      "Monnard V",
+      "Monnard Ulrich",
+      "Richard, Vve",
+      "de Senarclens",
+      "Renevier, hoirie de Jules",
+      "Rosset Constant"
+    ],
+    "Autorités communales.": [
+      "Chardon Aug.",
+      "Ansermet Maurice",
+      "Jorand Ernest",
+      "Chanson John",
+      "Ansermet Louis. T.",
+      "Dufour Emile",
+      "Gallay Marcel",
+      "Gallay Fritz",
+      "Richard Ls"
+    ]
+  },
+  "PERROY": {
+    "Autorités communales.": [
+      "Martin Auguste",
+      "Varidel Gustave"
     ]
   }
 }

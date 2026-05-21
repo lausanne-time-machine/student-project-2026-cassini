@@ -1,227 +1,224 @@
 {
-  "CHAVANNES près RENENS": {
-    "Municipaux": [
-      "Ravessoud Jules",
-      "Barraud Henri",
-      "Pouly Lucien",
-      "Gueissaz Henri",
-      "Schneider",
-      "Ruedi Alb."
+  "MOIRY": {
+    "Agriculteurs.": [
+      "Decollogny, hoirie",
+      "Dizerens Ls",
+      "Jousson Armand",
+      "Monnier Ele",
+      "Pittet Charles",
+      "Pittet René",
+      "Prenleloup Ed."
     ],
-    "Greffe municipal": [
-      "Schneider Frédéric"
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Chave Francis"
     ],
-    "Agriculteurs": [
-      "Barraud -Moret Hri",
-      "Bovard Fritz",
-      "Comte Jules",
-      "Emery E.",
-      "d'Epagnier Henri",
-      "Francfort Ph.",
-      "Herren Nicolas",
-      "Job Louis",
-      "Joyet Alexis"
+    "Aubergiste.": [
+      "Berger Alb."
     ],
-    "Mutualité scolaire de retraite": [
-      "Schneider E."
+    "Bois (march. de).": [
+      "Chanson Louis-Constant"
     ],
-    "Blanchisseuses": [
-      "Barraud-Valet",
-      "Ducret-Romang Jeanne"
+    "Boulangerie.": [
+      "Cornu Robert"
     ],
-    "Boucher": [
-      "Ruf Georges"
+    "Charron.": [
+      "Chappuis Armand"
     ],
-    "Boulangers": [
-      "Hiltbrand Otto",
-      "Pouly Lucien"
+    "Commission scolaire.": [
+      "Leuba P.",
+      "Grandjean Robert",
+      "Jousson Armand"
     ],
-    "Cafés": [
-      "Crottaz L.",
-      "Maget Edouard",
-      "Porchet Julia"
+    "Epicerie, mercerie.": [
+      "Chanson Jeanne R.",
+      "Magnenat Constance, Vve. R."
     ],
-    "Charcutier": [
-      "Griva Jakob"
+    "Fourrages.": [
+      "Pittet René"
     ],
-    "Charron": [
-      "Divorne Edmond"
+    "Inspecteur du bétail.": [
+      "Chanson Eug."
     ],
-    "Chaussures": [
-      "Aellen"
+    "Instituteurs.": [
+      "Chave Francis",
+      "Richard Hélène"
     ],
-    "Chocolats": [
-      "Produits Perrier S.A."
+    "Mécanicien.": [
+      "Chanson G."
     ],
-    "Coiffeur": [
-      "Scheuch Adolphe"
+    "Mécanicien-balancier.": [
+      "Schenkel-Saugy Ed."
     ],
-    "Commission scolaire": [
-      "Barraud-Moret Henri",
-      "Layat Emile",
-      "Hirsch Paul",
-      "Mani Maurice",
-      "Diserens Jules"
+    "Menuisier - Charpentier.": [
+      "Zbinden Emile"
     ],
-    "Combustibles et matériaux de construction": [
-      "Briffaut, Layat & Cie"
+    "Meuniers.": [
+      "Chanson Louis-Constant",
+      "Crisinel Louis"
     ],
-    "Comptable-expert": [
-      "Wolfensberger S."
+    "Pèse-lait (fabr. de).": [
+      "Schenkel-Saugy T."
     ],
-    "Comptoir Vinicole de Renens-Gare, S. A.": [
-      "Comptoir Vinicole de Renens-Gare, S. A."
+    "Porcheries.": [
+      "Clerc Henri",
+      "Grandjean Robert"
     ],
-    "Cordonniers": [
-      "Barraud-Valet Henri",
-      "Dizerens Emile",
-      "Garin Paul"
+    "Poste (bureau de).": [
+      "Chanson G."
     ],
-    "Dentiste": [
-      "Haenni Roger"
+    "Sociétés.": [
+      "de fromagerie. R.",
+      "Syndicat agricole. R."
     ],
-    "Distillateur": [
-      "Blanc François"
+    "Tailleuses.": [
+      "Berger Rose",
+      "Chanson Marie"
     ],
-    "Ebéniste": [
-      "Armando Archangeli"
-    ],
-    "Ecole de céramique": [
-      "Becker Ernest",
-      "Lorenz Jean",
-      "Gerber Paul"
-    ],
-    "Electricien": [
-      "Dusserre Armand"
-    ],
-    "Entrepreneurs": [
-      "Dätwyler Jean"
-    ],
-    "Epicerie": [
-      "Bex Arm.",
-      "Drescher Henri",
-      "Kohler Adolphe",
-      "Piquerez Henri",
-      "Porchat Gaston",
-      "Pouly Lucien",
-      "Radice Louise"
-    ],
-    "Fabrique de brosses": [
-      "Fabrosal S. A.",
-      "Colelough A."
-    ],
-    "Ferblantiers-appareilleurs": [
-      "Pittet Paul",
-      "Redondi Antoine"
-    ],
-    "Gypsiers-peintres": [
-      "Ascheri Pierre",
-      "Casellini Delfo"
-    ],
-    "Horloger": [
-      "Cavin Fritz"
-    ],
-    "Inspecteur du bétail": [
-      "Bovard Fritz"
-    ],
-    "Instituteurs": [
-      "Schulé Adrien",
-      "Lassueur Paul",
-      "Curchod Suzanne",
-      "Ehle Alice"
-    ],
-    "Jardiniers-maraîchers": [
-      "Dusserre Rosine",
-      "Delessert Henri",
-      "Cottier",
-      "Grandchamp Ed.",
-      "Herren Nicolas",
-      "Jaquenoud Hri",
-      "Meyer Tobias",
-      "Ravessoud Jre",
-      "Ray Jules",
-      "Schneider Frederich",
-      "Vernez Adr.",
-      "Zurlinden Henri"
-    ],
-    "Laitiers": [
-      "Dallenbach Otto",
-      "Grivaz Jakob"
-    ],
-    "Machines-outils": [
-      "Grimbühler J."
-    ],
-    "Médecin": [
-      "Benoit Charles"
-    ],
-    "Menuiserie mécanique": [
-      "Cellier A."
-    ],
-    "Notaire": [
-      "Ruedi Albert"
-    ],
-    "Pasteur": [
-      "Perriraz Louis"
-    ],
-    "Pépiniéristes": [
-      "Gvsler L.",
-      "Herren Nicolas",
-      "Kläfiger Gottlieb",
-      "Mathie Charles",
-      "Pidoux Adolphe"
-    ],
-    "Poterie (fab. de)": [
-      "Poterie moderne"
-    ],
-    "Scierie": [
-      "Menétrey Ami"
-    ],
-    "Serrurier": [
-      "Schadewitz Hermann"
-    ],
-    "Sociétés": [
-      "Laiterie de Chavannes par Renens"
-    ],
-    "Télégraphiste-téléphoniste": [
-      "Porchet"
-    ],
-    "Tourneur": [
-      "Divorne J. & fils"
-    ],
-    "Vignerons": [
-      "Allamand Charles",
-      "Francfort Edouard"
+    "Téléphoniste.": [
+      "Chaillet Marguerite"
     ]
   },
-  "CHIGNY": {
-    "Autorités communales": [
-      "de Luze Jean-Jacques",
-      "Zurcher Henri"
+  "MONT-LA-VILLE": {
+    "Autorités communales.": [
+      "Martinet Louis-David",
+      "Bélaz Valentin",
+      "Cardinaux Louis",
+      "Genevaz John",
+      "Lyon Louis",
+      "Martinet Charles",
+      "Martinet Paul",
+      "Martinet Arthur",
+      "Roux Auguste",
+      "Bélaz Gustave"
     ],
-    "Syndic": [
-      "André Justin"
+    "Agriculteurs.": [
+      "Bélaz Ami",
+      "Bélaz Gustave",
+      "Charoton Adrien",
+      "Charoton Emile",
+      "Charoton John",
+      "Chevalley Hoirie",
+      "Delacrétaz frères",
+      "Genevaz John",
+      "Guetty Henri",
+      "Lyon Emile",
+      "Lyon Louis",
+      "Martinet Alfred",
+      "Martinet Arthur et William",
+      "Martinet Eugène",
+      "Martinet Ferdinand",
+      "Martinet Jules",
+      "Martinet Louis",
+      "Martinet Louis, de M.-F.",
+      "Nicole Alexis",
+      "Prodoillet Jules",
+      "Rochat-Billard",
+      "Rochat David-Henri",
+      "Rochat Ferdinand"
     ],
-    "Municipaux": [
-      "Rayroux François",
-      "Jaquet Robert",
-      "Burnens Eugène",
-      "Jotterand Louis"
+    "Amodiateurs.": [
+      "Lyon Emile",
+      "Prodolliet Jules",
+      "Rochat Alexis",
+      "Rochat Julien"
     ],
-    "Agriculteurs": [
-      "André Justin",
-      "Burnens Eugène",
-      "Galay Louis",
-      "Imhof Gottfried",
-      "Jaquet Robert",
-      "Jotterand Ls",
-      "Rayroux François",
-      "Rayroux Jules"
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Bornand O."
     ],
-    "Agence immobilière": [
-      "de Luze J.-Jaques"
+    "Aubergistes.": [
+      "Simond Georges",
+      "Asile de Mollendruz",
+      "Charoton Germain",
+      "Lion d'Or. R.",
+      "Martinet Arthur"
     ],
-    "Equarrisseur": [
-      "Chauvy Jules"
+    "Bestiaux (march. de).": [
+      "Charoton Adrien",
+      "Charoton Germain",
+      "Rochat Alexis"
+    ],
+    "Bois (march. de).": [
+      "Bélaz Gustave",
+      "Charoton John",
+      "Martinet Arthur",
+      "Martinet Louis-David",
+      "Nicole Alexis",
+      "Rochat Alexis",
+      "Rochat Fritz",
+      "Rochat Julien"
+    ],
+    "Boulanger.": [
+      "Bélaz Emma, Vve"
+    ],
+    "Charcuterie.": [
+      "Rochat-Martinet Constant. R."
+    ],
+    "Charpentiers.": [
+      "Cuvit O.",
+      "Durussel Georges"
+    ],
+    "Charron.": [
+      "Meyer Alfred"
+    ],
+    "Commission scolaire.": [
+      "Cuvit Octave",
+      "Martinet Louis-David",
+      "Lyon Louis"
+    ],
+    "Contre-pivots.": [
+      "Rochat César"
+    ],
+    "Entrepreneur.": [
+      "Bertoni Pierre"
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Bélaz Gustave. R.",
+      "Chaillet René. R.",
+      "Martinet-Bornand Vve. R.",
+      "Rochat Constant"
+    ],
+    "Horlogerie (fournitures pour).": [
+      "Rochat-Genevaz César",
+      "Martinet Charles"
+    ],
+    "Inspecteur du bétail.": [
+      "Martinet Louis-David",
+      "Charoton Auguste"
+    ],
+    "Instituteurs.": [
+      "Bornand Oscar",
+      "Martinet-Roulin Elisa",
+      "Rochat Madeleine",
+      "Goy Emilie"
+    ],
+    "Machine à battre.": [
+      "La commune"
+    ],
+    "Maréchal.": [
+      "Rochat Auguste"
+    ],
+    "Menuisier.": [
+      "Cuvit Octave. R."
+    ],
+    "Modiste.": [
+      "Martinet Julie"
+    ],
+    "Pensions.": [
+      "Rochat-Bélaz Hélène",
+      "Rochat Henri"
+    ],
+    "Pierristes.": [
+      "Cardinaux Louis",
+      "Dumoulin Louis",
+      "Martinet Louis"
+    ],
+    "Poste.": [
+      "Martinet Jean"
+    ],
+    "Sage-femme.": [
+      "Nicole-Panchaud Mte."
     ]
   }
 }

@@ -1,238 +1,106 @@
 {
-  "GRANCY": {
-    "Instituteurs": [
-      "Rochat Edmond",
-      "Magnin Germaine"
+  "Montreux": {
+    "Lingerie.": [
+      "Kauert Emma",
+      "Kung, dame",
+      "Laplace-Delapraz Adèle",
+      "Maggi Joseph",
+      "Margot A. & C.",
+      "Marguet Marie",
+      "Monge",
+      "Moos Jeanne",
+      "Rambert Marie",
+      "Rehbock & Stünzi, dames",
+      "Schira Emma",
+      "Schupbach Fritz",
+      "Tallon M.",
+      "Thévoz Marie",
+      "Tuscher Ernest",
+      "Weber Marie",
+      "Whitley William",
+      "Wyss, dame"
     ],
-    "Maçon": [
-      "Lodari Mansuette"
+    "Lustrerie — Appareils électriques": [
+      "Baeriswyl A.",
+      "Meyer Max",
+      "Société Romande d'Electricité",
+      "Flogerzi Charles"
     ],
-    "Maréchal": [
-      "Maillet"
+    "Machines à coudre.": [
+      "Eichenberger H.",
+      "Périllard G.",
+      "Turrian E.",
+      "Tüscher-Bonvin E.",
+      "Vuilleumier Paul"
     ],
-    "Meunier": [
-      "Boven Charles"
+    "Machines à écrire.": [
+      "Blanc-Curtin Violette",
+      "Crin",
+      "Gardel Alfred",
+      "Kramer-Baumann",
+      "Streit Ed."
     ],
-    "Officier d'état-civil": [
-      "Panchaud John"
+    "Manège.": [
+      "Manège montreusien"
     ],
-    "Pasteur": [
-      "Paccaud Octave"
+    "Marbriers-sculpteurs.": [
+      "Borlat C.",
+      "Ducret P."
     ],
-    "Poste": [
-      "Gyger Marcel"
+    "Maréchaux.": [
+      "Dumuid Raoul",
+      "Emery Jules",
+      "Flückiger Louis",
+      "Jordan Ami",
+      "Jung Christian",
+      "Martin Henri",
+      "Ramseyer Jean",
+      "Vallino Angèle"
     ],
-    "Rentier": [
-      "Bourgeois Auguste"
+    "Maroquinerie.": [
+      "Ingold Jean",
+      "Rutishauser & Kupfer",
+      "Reiss & Cie",
+      "Salvador Pierre",
+      "Vogt H."
     ],
-    "Sociétés": [
-      "de fromagerie",
-      "de tir",
-      "du poids public",
-      "de jeunesse",
-      "Syndicat d'élevage",
-      "du battoir à grains",
-      "Société d'alpage",
-      "de chant"
+    "Masseurs. Masseuses (cuir chevelu).": [
+      "Bernard Louis",
+      "David-Mayor A.",
+      "Dupraz A., Mlle",
+      "Francey-Wydler, dame",
+      "Funkquist B.",
+      "Hermann J., Mlle",
+      "Jordan Claire",
+      "Leu F.",
+      "Olchansky R., Mme",
+      "Pittet Louise",
+      "Sieber-Francey, Mme",
+      "Taillens Charles",
+      "Villiger H.",
+      "Widell Vinc."
     ],
-    "Téléphone": [
-      "Guigger Ida"
-    ]
-  },
-  "LA CHAUX": {
-    "Autorités communales": [
-      "Guex Daniel",
-      "Schneider Charles"
+    "Matériaux de construction.": [
+      "Gétaz, Romang, Ecoffey (S. A.)",
+      "Reich Adolphe",
+      "Margairaz Henri"
     ],
-    "Syndic": [
-      "Bredaz Robert"
+    "Mécaniciens.": [
+      "Beihl J.-A.",
+      "Broyon P.",
+      "Eichenberger W.",
+      "Haas Alphonse",
+      "Homberger A.",
+      "Kunz-Logoz A.",
+      "Pellet Max",
+      "Rochat & Reutter",
+      "Strimer Robert",
+      "Taroni Antoine"
     ],
-    "Municipaux": [
-      "Rosset Louis",
-      "Mingard Alexandre",
-      "Thormeyer Henri",
-      "Tachet Emile",
-      "Golay Oscar",
-      "Rossy Jean"
-    ],
-    "Agriculteurs": [
-      "Berger frères",
-      "Bredaz Louis",
-      "Chanson Auguste",
-      "Dupuis Ernest",
-      "Dupuis Henri",
-      "Gaudin Albert",
-      "Guex Armand",
-      "Guex Edm.",
-      "Guex Eug.",
-      "Guex Hri",
-      "Guex Jules",
-      "Guex Lucien",
-      "Guex Marcel",
-      "Guex Maurice",
-      "Rosset Henri",
-      "Rossy Charles",
-      "Rossy Henri",
-      "Thormeyer Henri",
-      "Voland Eugène",
-      "Voland Henri",
-      "Wuichet Emile"
-    ],
-    "Amodiateurs": [
-      "Guex Adolphe",
-      "Guex Marc."
-    ],
-    "Assurance.": [
-      "La Genevoise",
-      "Golay Osc. fils"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Besson Marcel"
-    ],
-    "Aubergistes": [
-      "Bonard Marie",
-      "Rosset Victor"
-    ],
-    "Boulanger": [
-      "Pidoux Emile"
-    ],
-    "Charron": [
-      "Jaccaud Eugène"
-    ],
-    "Commission scolaire": [
-      "Rossy Henri",
-      "Mingard Alexandre"
-    ],
-    "Cordonnier": [
-      "Voland Louis"
-    ],
-    "Epicerie, mercerie, tabacs.": [
-      "Mingard Jules",
-      "Rosset Louis"
-    ],
-    "Ferblantier": [
-      "Burnens Henri"
-    ],
-    "Inspecteur du bétail": [
-      "Guex Jules"
-    ],
-    "Instituteurs": [
-      "Besson Marcel",
-      "Golay-Thormeyer Louise"
-    ],
-    "Laitier": [
-      "Oehrli-Steiner Jean"
-    ],
-    "Maréchaux": [
-      "David Edouard",
-      "Magnin Armand"
-    ],
-    "Poste": [
-      "Rossy Jean"
-    ],
-    "Poterie, quincaillerie": [
-      "Mingard Jles"
-    ],
-    "Sabotiers": [
-      "Chamot Edmond",
-      "Vuichet Louis"
-    ],
-    "Sage-femme": [
-      "Binggeli Anaïs"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "Syndicat agricole de La Chaux",
-      "Société agricole et industrielle"
-    ],
-    "Tailleuses": [
-      "Chamot Régina",
-      "Dupuis Lina"
-    ],
-    "Téléphone public": [
-      "Hôtel communal"
-    ]
-  },
-  "LA SARRAZ": {
-    "Autorités communales": [
-      "Cubat Henri",
-      "Besson Henri"
-    ],
-    "Syndic": [
-      "Huguenin Louis"
-    ],
-    "Municipaux": [
-      "Vannod Henri",
-      "Kervand Alfred",
-      "Knebel Jean",
-      "Hofer Emile",
-      "Guignard Jean",
-      "Meyer Ph.",
-      "Tissot Louis"
-    ],
-    "Agence agricole": [
-      "Cuhat Henri"
-    ],
-    "Agriculteurs": [
-      "Broccard Gustave",
-      "Chenaux Constant",
-      "Cugny Arthur hoirs",
-      "Cuhat Georges",
-      "Cuhat Lucien",
-      "Develey Jean",
-      "Ernst Jules",
-      "Hofer Gustave",
-      "Hofer Roland",
-      "Imhof J.",
-      "Michaud Charles",
-      "Michaud Frédéric",
-      "Michaud Louis",
-      "Rochat Jules",
-      "Rochat Samuel",
-      "Rollier Henri",
-      "Schopfer Henri",
-      "Stebler Henri",
-      "Tissot Henri",
-      "Vannaz Charles",
-      "Vannaz Henri",
-      "Vannaz Robert",
-      "Vannod Emile",
-      "Vannod Henri",
-      "Zoël"
-    ],
-    "Amodiateur": [
-      "Schopfer Henri"
-    ],
-    "Apiculteur": [
-      "Fontannaz Jules"
-    ],
-    "Architecte": [
-      "Guignard Jean"
-    ],
-    "Associations mutualistes de retraite": [
-      "Bignens E."
-    ],
-    "Assurances": [
-      "Guignard Jean",
-      "Wintherthour",
-      "Delacuisine Ed.",
-      "La Zurich"
-    ],
-    "Automobiles et auto-taxis": [
-      "Baudraz Paul",
-      "Jaccard Jules",
-      "Michaud Armand"
-    ],
-    "Banques": [
-      "Union vaudoise du Crédit",
-      "Delacuisine Ed.",
-      "Crédit foncier vaudois et Caisse d'Epargne cantonale",
-      "Bignens E.",
-      "Crédit mutuel du Cercle",
-      "Guignard Jean"
-    ],
-    "Bestiaux (march. de)": [
-      "Michaud Louis et Frédéric"
+    "Mécaniciens-dentistes.": [
+      "Muller G.",
+      "Paillard Jules",
+      "Vogel"
     ]
   }
 }

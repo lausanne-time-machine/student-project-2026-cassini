@@ -1,206 +1,186 @@
 {
-  "Bex": {
-    "Notaires": [
-      "Genet Edouard & fils",
-      "Paillard",
-      "Jaquenod"
+  "RANCES": {
+    "Voituriers": [
+      "Bonzon Gustave",
+      "Besson Adr.",
+      "Callias A. H. (S. A.)",
+      "Dormond Albert",
+      "Suter Fritz"
+    ]
+  },
+  "ORMONT-DESSOUS": {
+    "Autorités communales": [
+      "Morex Alfred",
+      "Pernolet Paul",
+      "Chablaix Paul",
+      "Tenthorey Henri",
+      "Oguey Aloïs",
+      "Mermod Félix",
+      "Vurlod Jules",
+      "Monod Alfr.",
+      "Pernollet François",
+      "Mermod Henri"
     ],
-    "Officier d'état-civil": [
-      "Gillard François",
-      "Jaquenod F."
+    "Auto-taxis": [
+      "Müller Jean",
+      "Tauxe Constant"
     ],
-    "Opticien": [
-      "Glanzmann Joseph"
+    "Agents d'affaires patentés": [
+      "Chabloz Ch.",
+      "Viquerat A."
     ],
-    "Organiste": [
-      "Chevalley Marguerite"
+    "Agriculteurs": [
+      "Borlat Adrien",
+      "Borloz-Dupertuis Emile",
+      "Borloz Ferdinand",
+      "Borloz frères",
+      "Chablaix-Mermod Adrien",
+      "Chablaix Arthur",
+      "Dupertuis Ami",
+      "Dupertuis Emile",
+      "Durgniat Louis",
+      "Durgniat Lydie, Vve",
+      "Durgniat Olivier",
+      "Echenard Maurice",
+      "Hubert Alfred",
+      "Hubert Alexis",
+      "Morier Arthur",
+      "Morier Victor",
+      "Mottier Gustave",
+      "Mottier-Girod Adolphe",
+      "Oguey Aloïs",
+      "Oguey David",
+      "Pernet Eugène",
+      "Perrod Adrien",
+      "Perrod frères",
+      "Tauxe frères",
+      "Tille Adrien",
+      "Tille Eugène",
+      "Vurlod-Bonzon Al."
     ],
-    "Papetiers": [
-      "Meister Edouard",
-      "Rochat Philippe"
+    "Armurier": [
+      "Ginier"
     ],
-    "Papiers peints": [
-      "Deantoni Pierre et fils",
-      "Devecchio Ch.",
-      "Perracini Théodule",
-      "Vicario Baptisto"
+    "Assurance Mutuelle Vaudoise": [
+      "Chenaux Henri"
     ],
-    "Parapluies": [
-      "Rapaz Paul"
+    "Associations mutualistes de retraite": [
+      "Berthoud A.",
+      "Jomini André",
+      "Lambercy Eug."
     ],
-    "Pasteurs": [
-      "Avondet Agénor",
-      "Strehler Hermann",
-      "Chenaux Alfred",
-      "Vacat",
-      "Tamini Jean-Emile"
+    "Mutualité scolaire de retraite": [
+      "Dupraz"
     ],
-    "Pédicure": [
-      "Guiger B., Dlle"
+    "Banque": [
+      "Crédit Foncier Vaudois",
+      "Pernollet François, fils",
+      "Caisse du Crédit mutuel",
+      "Tenthorey Henri"
     ],
-    "Peintre (artiste)": [
-      "Nicollerat Aimé"
+    "Bétail (comm. de)": [
+      "Aviolat Auguste",
+      "Dupertuis Victor",
+      "Tavernie Henri",
+      "Vurlod Ami"
     ],
-    "Pensions-familles": [
-      "Le Châtel",
-      "Deslex J.",
-      "Les Narcisses",
-      "Brède, Mme"
+    "Bois (march. de)": [
+      "Bonzon Jules",
+      "Durgniat frères",
+      "Durgniat Marcel"
     ],
-    "Pensionnats": [
-      "Institut Chabloz",
-      "Aescher Th."
+    "Boucher": [
+      "Pernet Léonore"
     ],
-    "Pépiniériste": [
-      "Marlétaz W."
+    "Boulangers": [
+      "Bonzon Charles",
+      "Dupertuis Const.",
+      "Dupertuis Js-Edouard",
+      "Monod Jules"
     ],
-    "Pharmaciens": [
-      "Exhenry Armand",
-      "Rosselet Jean"
+    "Cafetiers": [
+      "Chenaux Henri",
+      "Muller Jean",
+      "Hubert Vve",
+      "Schneider Jean",
+      "Genton Henri",
+      "Tenthorey Henri",
+      "Venturino Em.",
+      "Soc. de jeunesse"
     ],
-    "Photographes": [
-      "Delachaux P.",
-      "Desarsens C.",
-      "Meister Ed."
+    "Chalets (location de)": [
+      "Aviolat Alf.",
+      "Borlat Adrien",
+      "Borlat-Morex, Veuve",
+      "Borloz-Dupertuis Emile",
+      "Borloz-Hubert Félicie, Veuve",
+      "Bonzon Lina",
+      "Chamorel Sylvie",
+      "Dufresne Jules",
+      "Dupertuis Ami",
+      "Durgniat-Tauxe Lydie",
+      "Durgniat Olivier",
+      "Ginier Elisa",
+      "Hubert Alexis",
+      "Hubert Paul",
+      "Hubert-Tavernier Aug.",
+      "Hubert-Ziegler",
+      "Massard Jules",
+      "Massard Paul",
+      "Mermod Ernest",
+      "Monod frères",
+      "Morier Arthur",
+      "Morier Victor",
+      "Mottier Emile",
+      "Mottier Constant",
+      "Oguey-Borloz Bertha",
+      "Société de développement Villars-Chesières-Arveyes",
+      "Tauxe-Borloz Aug.",
+      "Tauxe François",
+      "Tille Adrien",
+      "Vaudroz Emile",
+      "Vurlod Constant"
     ],
-    "Planches de roseaux (fab. de)": [
-      "Gips-Union (S. A.)"
+    "Charpentiers": [
+      "Monod Olivier",
+      "Mottier Vincent",
+      "Oguey Gust.",
+      "Tauxe frères",
+      "Tille Adrien"
     ],
-    "Plâtre (fabr. de)": [
-      "Gips-Union S. A."
+    "Charrons": [
+      "Bonzon-Tille Jules",
+      "Jacot Charles"
     ],
-    "Produits chimiques": [
-      "Comp. des Produits électro-chimiques (S.A.)"
+    "Chef de gare": [
+      "Perrod"
     ],
-    "Quincaillerie": [
-      "Fleuti Alfred (S.A.)",
-      "Morier Alfred",
-      "Richard Paul"
+    "Chef de section": [
+      "Monod Alfred"
     ],
-    "Ramoneur": [
-      "Bernasconi Fern."
+    "Cigares et tabacs": [
+      "Bonzon Charles",
+      "Ginier sœurs",
+      "Hubert-Ziegler, Vve",
+      "Hubert Auguste",
+      "Société coopérative",
+      "Pernollet Frs fils",
+      "Pernollet Pl."
     ],
-    "Relieur": [
-      "Meister Ed."
+    "Cliniques-Pensions": [
+      "Les Noisetiers",
+      "L'Etoile",
+      "Teherdyazeff-Violat Sylvie"
     ],
-    "Sages-femmes": [
-      "Allamand-Pittier Emma",
-      "Putallaz Julie"
+    "Coiffeur": [
+      "Bignens Gust"
     ],
-    "Salines": [
-      "Chevalley E.",
-      "Jaquerod H."
+    "Commission scolaire": [
+      "Mermod Félix"
     ],
-    "Savons au sable (fabr. de)": [
-      "Wiederhirn Henri"
-    ],
-    "Scieurs": [
-      "Collombet & Cie",
-      "Genillard & Cie",
-      "Cherix frères",
-      "Santagiuliana Ls",
-      "Welten & Cie"
-    ],
-    "Serruriers": [
-      "Dreyer Emile",
-      "Fontannaz H.",
-      "Leutwyler Reinbert"
-    ],
-    "Sociétés": [
-      "Soc. vaud. des mines et salines",
-      "Stand",
-      "Immobilière de Bex",
-      "Fédérale de gymnastique d'hommes",
-      "Fédérale des sous-officiers",
-      "Immobilière de Nagelin",
-      "Agricole et viticole",
-      "Immobilière de Laiterie",
-      "de tempérance de la Croix-Bleue",
-      "Laiterie Centrale",
-      "Laiterie Modèle",
-      "Coopérative de consommation l'Avenir",
-      "Cordon Bleu",
-      "Cordon Rose et Bleu",
-      "Forces motrices de l'Avançon",
-      "Développement",
-      "Représentants de Tell, Posses",
-      "Harmonie municipale",
-      "Orchestre",
-      "Fédérale des pontonniers",
-      "Club Alpin, sous-section Argentine",
-      "Foot-ball Club",
-      "Club de culture physique",
-      "Tir des mineurs",
-      "Industrielle et commerciale",
-      "Union chrétienne",
-      "Vélo-Club",
-      "Pédale du Rhône",
-      "Battoir",
-      "Coopérative « Fesa »",
-      "de chant Edelweiss",
-      "de chant La Soldanelle"
-    ],
-    "Tabacs et cigares": [
-      "Baltisser Jacob",
-      "Chamorel Eug.",
-      "Cretton-Helbling",
-      "Délémont Marguerite, Mlle",
-      "Genova, Mme, Vve",
-      "Mayor Madelaine",
-      "Ruchet-Richard Jeanne"
-    ],
-    "Tailleurs": [
-      "Annen Samuel-Frédéric",
-      "Gerer Robert",
-      "Seewer Eugène"
-    ],
-    "Tapissiers": [
-      "Affolter Henri",
-      "Guignet Const.",
-      "Mayor Ernest",
-      "Thomas Jean-Louis",
-      "Wutrich-Seiler Frédéric"
-    ],
-    "Télégraphiste et téléphoniste": [
-      "Wuhrmann Jeanne"
-    ],
-    "Thés, cafés, chocolats (spécialités en)": [
-      "« Mercure » S.A.",
-      "Zoller, Dlle"
-    ],
-    "Tonneliers": [
-      "Dettwyler Jacob",
-      "Hefti G.",
-      "Isoz Gust."
-    ],
-    "Tourneurs": [
-      "Allamand Philippe",
-      "Rapaz Paul et André"
-    ],
-    "Tournage sur métaux": [
-      "Rapaz André"
-    ],
-    "Usine à gaz": [
-      "Société du Gaz de la Plaine du Rhône"
-    ],
-    "Vannerie": [
-      "Ostertag Christian"
-    ],
-    "Vélocipèdes": [
-      "Gillard Lucien",
-      "Viscardi Achille",
-      "Zanchi & Conod"
-    ],
-    "Vétérinaire": [
-      "Freiburghaus J."
-    ],
-    "Verrerie": [
-      "Fleuti Alfred, S. A.",
-      "May-Martin Max",
-      "Richard Paul"
-    ],
-    "Vignes américaines": [
-      "Martin César"
+    "Cordonniers": [
+      "Longet Jules",
+      "Tauxe"
     ]
   }
 }

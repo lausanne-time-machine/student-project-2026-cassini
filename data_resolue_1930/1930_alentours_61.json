@@ -1,94 +1,238 @@
 {
-  "VILLE DE MORGES": {
-    "Sociétés.": [
-      "Foot-Ball Club.",
-      "Forward F.-C.",
-      "La Concorde.",
-      "Caisse de secours de l'Union ouvr.",
-      "Club athlétique.",
-      "Club Nautique Morgien.",
-      "Fonds du bataillon des Sapeurs-pompiers.",
-      "Orchestre l'«Harmonie».",
-      "Ligue suisse pour le travail.",
-      "Sim (S. A.).",
-      "Soc. d'agriculture",
-      "Soc. coopér. de consommation.",
-      "Soc. de la Gde Laiterie de Morges.",
-      "Société immobilière de Morges.",
-      "Société industrielle et commerciale.",
-      "Société de secours mutuels des ouvriers de Morges.",
-      "Société française de secours mutuels.",
-      "Société des bains du lac.",
-      "Société de l'Ecole supérieure.",
-      "Société de l'Ecole professionnelle.",
-      "Société du local pour le culte évangélique allemand.",
-      "Société de chant «Jeune Helvétie».",
-      "Société des usiniers du Curbit",
-      "Société des usines de la Morges.",
-      "Société hippique du Léman.",
-      "Société fédérale de gymnastique.",
-      "Société de gymnastique des hommes.",
-      "Société fédérale des sous-officiers.",
-      "Société des officiers.",
-      "Société des patrons maréchaux Aubonne, Morges et environs.",
-      "Société de développement.",
-      "Société des Jeunes Patriotes.",
-      "Société de la Croix-Bleue.",
-      "Société du Vieux Morges.",
-      "Syndicat agricole.",
-      "Union chrétienne de Jeunes Gens.",
-      "Union Instrumentale.",
-      "Vélo-Club."
+  "GRANCY": {
+    "Instituteurs": [
+      "Rochat Edmond",
+      "Magnin Germaine"
     ],
-    "Tailleurs de pierres.": [
-      "André H. et A.",
-      "Plantaz Louis"
+    "Maçon": [
+      "Lodari Mansuette"
     ],
-    "Tailleurs.": [
-      "Bossler Ph.",
-      "Dieterle Auguste",
-      "Gräser Frédéric",
-      "Ilten H.",
-      "Meyer frères",
-      "Nicolaï Henri",
-      "Picard Ernest"
+    "Maréchal": [
+      "Maillet"
     ],
-    "Tanneurs.": [
-      "Tannerie de Morges S. A."
+    "Meunier": [
+      "Boven Charles"
     ],
-    "Tapissiers.": [
-      "Engler, Vve de Ch.",
-      "Gay Auguste",
-      "Leder A.",
-      "Linder F.",
-      "Moyard Henri",
-      "Perréaz Fréd.",
-      "Vioget Fernand"
+    "Officier d'état-civil": [
+      "Panchaud John"
     ],
-    "Taxis": [
-      "Lœrtscher Marcel"
+    "Pasteur": [
+      "Paccaud Octave"
     ],
-    "Teinturiers.": [
-      "Dieterle Auguste",
-      "Maurer M. et Dlles",
-      "Rolaz-Reymond Marguerite",
-      "Schaefer Fr."
+    "Poste": [
+      "Gyger Marcel"
     ],
-    "Thés.": [
-      "André Emilie"
+    "Rentier": [
+      "Bourgeois Auguste"
     ],
-    "Tissus divers.": [
-      "Chabloz Henri",
-      "Jaccard-Michel A., hoirs",
-      "Meyer frères",
-      "Meyer Sylvain",
-      "Picard Ernest",
-      "Schmoll Alfred",
-      "Vernet-Bernard Clémence, Vve."
+    "Sociétés": [
+      "de fromagerie",
+      "de tir",
+      "du poids public",
+      "de jeunesse",
+      "Syndicat d'élevage",
+      "du battoir à grains",
+      "Société d'alpage",
+      "de chant"
     ],
-    "Tonneliers.": [
-      "Friederich, les fils de B.",
-      "Reithaar Robert"
+    "Téléphone": [
+      "Guigger Ida"
+    ]
+  },
+  "LA CHAUX": {
+    "Autorités communales": [
+      "Guex Daniel",
+      "Schneider Charles"
+    ],
+    "Syndic": [
+      "Bredaz Robert"
+    ],
+    "Municipaux": [
+      "Rosset Louis",
+      "Mingard Alexandre",
+      "Thormeyer Henri",
+      "Tachet Emile",
+      "Golay Oscar",
+      "Rossy Jean"
+    ],
+    "Agriculteurs": [
+      "Berger frères",
+      "Bredaz Louis",
+      "Chanson Auguste",
+      "Dupuis Ernest",
+      "Dupuis Henri",
+      "Gaudin Albert",
+      "Guex Armand",
+      "Guex Edm.",
+      "Guex Eug.",
+      "Guex Hri",
+      "Guex Jules",
+      "Guex Lucien",
+      "Guex Marcel",
+      "Guex Maurice",
+      "Rosset Henri",
+      "Rossy Charles",
+      "Rossy Henri",
+      "Thormeyer Henri",
+      "Voland Eugène",
+      "Voland Henri",
+      "Wuichet Emile"
+    ],
+    "Amodiateurs": [
+      "Guex Adolphe",
+      "Guex Marc."
+    ],
+    "Assurance.": [
+      "La Genevoise",
+      "Golay Osc. fils"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Besson Marcel"
+    ],
+    "Aubergistes": [
+      "Bonard Marie",
+      "Rosset Victor"
+    ],
+    "Boulanger": [
+      "Pidoux Emile"
+    ],
+    "Charron": [
+      "Jaccaud Eugène"
+    ],
+    "Commission scolaire": [
+      "Rossy Henri",
+      "Mingard Alexandre"
+    ],
+    "Cordonnier": [
+      "Voland Louis"
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Mingard Jules",
+      "Rosset Louis"
+    ],
+    "Ferblantier": [
+      "Burnens Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Guex Jules"
+    ],
+    "Instituteurs": [
+      "Besson Marcel",
+      "Golay-Thormeyer Louise"
+    ],
+    "Laitier": [
+      "Oehrli-Steiner Jean"
+    ],
+    "Maréchaux": [
+      "David Edouard",
+      "Magnin Armand"
+    ],
+    "Poste": [
+      "Rossy Jean"
+    ],
+    "Poterie, quincaillerie": [
+      "Mingard Jles"
+    ],
+    "Sabotiers": [
+      "Chamot Edmond",
+      "Vuichet Louis"
+    ],
+    "Sage-femme": [
+      "Binggeli Anaïs"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "Syndicat agricole de La Chaux",
+      "Société agricole et industrielle"
+    ],
+    "Tailleuses": [
+      "Chamot Régina",
+      "Dupuis Lina"
+    ],
+    "Téléphone public": [
+      "Hôtel communal"
+    ]
+  },
+  "LA SARRAZ": {
+    "Autorités communales": [
+      "Cubat Henri",
+      "Besson Henri"
+    ],
+    "Syndic": [
+      "Huguenin Louis"
+    ],
+    "Municipaux": [
+      "Vannod Henri",
+      "Kervand Alfred",
+      "Knebel Jean",
+      "Hofer Emile",
+      "Guignard Jean",
+      "Meyer Ph.",
+      "Tissot Louis"
+    ],
+    "Agence agricole": [
+      "Cuhat Henri"
+    ],
+    "Agriculteurs": [
+      "Broccard Gustave",
+      "Chenaux Constant",
+      "Cugny Arthur hoirs",
+      "Cuhat Georges",
+      "Cuhat Lucien",
+      "Develey Jean",
+      "Ernst Jules",
+      "Hofer Gustave",
+      "Hofer Roland",
+      "Imhof J.",
+      "Michaud Charles",
+      "Michaud Frédéric",
+      "Michaud Louis",
+      "Rochat Jules",
+      "Rochat Samuel",
+      "Rollier Henri",
+      "Schopfer Henri",
+      "Stebler Henri",
+      "Tissot Henri",
+      "Vannaz Charles",
+      "Vannaz Henri",
+      "Vannaz Robert",
+      "Vannod Emile",
+      "Vannod Henri",
+      "Zoël"
+    ],
+    "Amodiateur": [
+      "Schopfer Henri"
+    ],
+    "Apiculteur": [
+      "Fontannaz Jules"
+    ],
+    "Architecte": [
+      "Guignard Jean"
+    ],
+    "Associations mutualistes de retraite": [
+      "Bignens E."
+    ],
+    "Assurances": [
+      "Guignard Jean",
+      "Wintherthour",
+      "Delacuisine Ed.",
+      "La Zurich"
+    ],
+    "Automobiles et auto-taxis": [
+      "Baudraz Paul",
+      "Jaccard Jules",
+      "Michaud Armand"
+    ],
+    "Banques": [
+      "Union vaudoise du Crédit",
+      "Delacuisine Ed.",
+      "Crédit foncier vaudois et Caisse d'Epargne cantonale",
+      "Bignens E.",
+      "Crédit mutuel du Cercle",
+      "Guignard Jean"
+    ],
+    "Bestiaux (march. de)": [
+      "Michaud Louis et Frédéric"
     ]
   }
 }

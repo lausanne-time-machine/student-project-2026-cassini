@@ -1,199 +1,244 @@
 {
-  "Vallorbe": {
-    "Electricité": [
-      "Compagnie vaudoise des forces de Joux et de l'Orbe",
-      "Société électrique du Châtelard"
+  "ETOY": {
+    "Téléphone public.": [
+      "Hôtel de l'Industrie"
     ],
-    "Electricité (Isolants pour)": [
-      "Société suisse de Clématéite"
+    "Transport.": [
+      "Giriens Lucien"
     ],
-    "Electrochimie": [
-      "Usine au Day"
+    "Vélos, motos et autos.": [
+      "Corthay Gaston"
     ],
-    "Entrepreneurs": [
-      "Girardin Henri",
-      "Martin frères",
-      "Pizzagrani A. et fils"
+    "Matières pour imprégner le bois.": [
+      "Magnollay Ernest"
     ],
-    "Epiceries": [
-      "Apothéloz Marius",
-      "Cerf Alphonse",
-      "Roth",
-      "Jaques-Accard Charles",
-      "Michot-Viret Jules",
-      "Musitelli Maria",
-      "Petitpierre Ch. S.A.",
-      "Planche-Chevalier Jean",
-      "Roux Marie",
-      "Roy Gustave",
-      "Société coopérative de consommation",
-      "Henry J.",
-      "Vallotton Eugène",
-      "Vallotton-Weigel André",
-      "Wegmuller Rodolphe"
+    "Divers.": [
+      "Giriens Henri",
+      "Villa Clos du Bois",
+      "M. Guy de Pourtalès"
+    ]
+  },
+  "LAVIGNY": {
+    "Autorités communales.": [
+      "Guignard Arthur",
+      "Zeender Emile"
     ],
-    "Ferblantiers": [
-      "Costa J.",
-      "Faes Arn.",
-      "Roy Daniel"
+    "Syndic:": [
+      "de Tscharner Ed."
     ],
-    "Fers et métaux": [
-      "Jaquet S. & H. (S. A.)",
-      "Glardon Robert"
+    "Municipaux:": [
+      "Chapuis Eugène",
+      "Corday Robert",
+      "Rossier Edm.",
+      "Krebs Edm."
     ],
-    "Forges": [
-      "Leresche & Cie."
+    "Secrétaire:": [
+      "Moynat Eugène"
     ],
-    "Fourneaux (fab. de)": [
-      "Jaquet Louis, fils",
-      "Viotti Jules"
+    "Boursier:": [
+      "Moynat Ch."
     ],
-    "Fromages": [
-      "Rochat-Meylan Henri",
-      "Schlœppi J.",
-      "Truan Fz."
+    "Apiculteurs.": [
+      "Bovay Oscar",
+      "Merminod W",
+      "Puel Auguste",
+      "Rochat Ernest"
     ],
-    "Fruits, fleurs et légumes": [
-      "Cerf Alphonse",
-      "Gonin Jean",
-      "Lany-Fauconnet",
-      "Musitelli Maria",
-      "Pittet Auguste"
+    "Assurance-vieillesse.": [
+      "Mutualité scolaire de retraite",
+      "Zeender E."
     ],
-    "Géomètre": [
-      "Faillettaz E."
+    "Aubergiste.": [
+      "Moret Marie"
     ],
-    "Grains et farines": [
-      "Grobéty Rob."
+    "Commission scolaire.": [
+      "Rossier Ernest",
+      "Serex Auguste"
     ],
-    "Gypsiers-peintres-décorateurs": [
-      "Girardin Henri",
-      "Jallut Roger",
-      "Martin Albert",
-      "Martin frères"
-    ],
-    "Horlogerie": [
-      "Girardet Paul",
-      "Goy Frédéric"
-    ],
-    "Horlogerie (fournitures pour)": [
-      "Guignard-Polens Marcel",
-      "Roy Gust."
-    ],
-    "Hôtels": [
-      "Albicker Christian",
-      "Sala Lina"
-    ],
-    "Imprimeur": [
-      "Page Jules"
-    ],
-    "Ingénieurs": [
-      "Glardon Alf. T.",
-      "Grobet André",
-      "Huguenin Fréd.",
-      "Humbert-Droz A.",
-      "Leresche Oct."
-    ],
-    "Isolants pour l'industrie électrique.": [
-      "Société suisse de Clématéite"
+    "Epicerie.": [
+      "Bovay Samuel",
+      "Perrod Alexis",
+      "Rossier-Pellet P."
     ],
     "Inspecteur du bétail.": [
-      "Glardon Em."
+      "Perrod A."
     ],
-    "Inspecteur des boucheries.": [
-      "Jeanneret Max"
+    "Instituteurs.": [
+      "Zeender Emile",
+      "Rochat Ida"
     ],
-    "Inspecteur des montagnes.": [
-      "Matthey-Pelet Auguste"
+    "Laitier.": [
+      "Sahli Ernest"
     ],
-    "Instituteurs": [
-      "Jaton Hri",
-      "Glardon Louis",
-      "Maillefer David",
-      "Matthey Alexis",
-      "Bertholet Maurice",
-      "Aubert Ch.",
-      "Gallay Marc",
-      "Pavillard Henri"
+    "Maréchal.": [
+      "Grin Louis"
     ],
-    "Institutrices": [
-      "Bignens Marguerite",
-      "Krauer Marie-Louise",
-      "Gouginsperg Andrée",
-      "Le Day",
-      "Kramer Irène",
-      "Mégroz Berthe",
-      "Maire Bertha",
-      "Schwar Laure",
-      "Petitmaitre J.",
-      "Rouiller Marguerite",
-      "Vallotton-Golaz",
-      "Vonwiller Mathilde",
-      "Carrard Yvonne",
-      "Favez Hélène"
+    "Meunier.": [
+      "Muller Emile"
     ],
-    "Instituteurs secondaires": [
-      "Cornuz Benjamin",
-      "Champendal Edmond",
-      "Lipp Robert",
-      "Dentan Jean",
-      "Cornu Ls",
-      "Quillet Edith"
+    "Pasteurs.": [
+      "Borle Maurice",
+      "Rosset Daniel"
     ],
-    "Journal": [
-      "Feuille d'Avis et Journal deVallorbe-Ballaigues-Vaulion (S.A.)"
+    "Poste.": [
+      "Moynat Eugène"
     ],
-    "Justice de paix": [
-      "Meylan Jean",
-      "Besançon Hri",
-      "Grobet Adrien",
-      "Guignard Olivier",
-      "Matthey Robert",
-      "Matthey-Vallotton Aug.",
-      "Roy-Chanson Alfred"
+    "Sociétés.": [
+      "de fromagerie",
+      "du battoir à grains"
     ],
-    "Laitiers": [
-      "Produits laitiers (S. A.)",
-      "Rochat-Meylan Henri",
-      "Schlaeppi Jean",
-      "Truan Fritz"
+    "Téléphone.": [
+      "Auberge communale"
     ],
-    "Librairies": [
-      "Friedrich Henri",
-      "Kohler-Scheurer E."
+    "Rentiers.": [
+      "Moynat Auguste",
+      "Moynat Charles",
+      "Moynat Julie",
+      "Stamm Emile",
+      "de Tscharner Ed.",
+      "Zimmer Louis"
+    ]
+  },
+  "LONAY": {
+    "Autorités communales.": [
+      "Grand Charles",
+      "Détraz Eugène"
     ],
-    "Limes": [
-      "Société des usines métall. de Vallorbe"
+    "Syndic :": [
+      "Panchaud Alfred"
     ],
-    "Machines à coudre": [
-      "Roy Jules"
+    "Municipaux:": [
+      "Brocard Ed.",
+      "Guillemin René",
+      "Notz Jules",
+      "Villard Henri fils"
     ],
-    "Matériel et outillage pour entreprises de travaux publics": [
-      "Jaquet S. & H. (S.A.)"
+    "Secrétaire :": [
+      "Bovay Emile"
     ],
-    "Maréchal": [
-      "Estoppey Paul"
+    "Boursier :": [
+      "Pête Emile"
     ],
-    "Mécanicien": [
-      "Béguin Emile"
+    "Agriculteurs.": [
+      "Bernard Félix",
+      "Borboën François",
+      "Borboëns Jules",
+      "Brocard Adolphe",
+      "Brocard Arnold fils d'Alex.",
+      "Brocard Ed.",
+      "Brocard Julien",
+      "Brocard Louis",
+      "Courtat Jules",
+      "Cruchon Henri",
+      "Détraz Alfred",
+      "Falconnier Maurice",
+      "Grand Charles",
+      "Guillemin René",
+      "Notz Jules",
+      "Nicole frères",
+      "Pache François",
+      "Villard Henri"
     ],
-    "Médecins": [
-      "Annen Eugène",
-      "Eperon Alfred",
-      "Kampmann André",
-      "Rey Philippe"
+    "Assurance-vieillesse.": [
+      "Associations mutualistes de retraite",
+      "Guldenschu H."
     ],
-    "Menuisiers-ébénistes": [
-      "Perstinari",
-      "Reymond Auguste",
-      "Parqueterie d'Aigle",
-      "Salvi Angelo"
+    "Aviculteurs.": [
+      "Berthoud frères"
     ],
-    "Mercerie": [
-      "Estoppey-Truan",
-      "Matthey Léa",
-      "Roy Emile",
-      "Société coopérative de consommation"
+    "Bétail.": [
+      "Métraux frères"
+    ],
+    "Blanchisseuse.": [
+      "Rempp Louisa"
+    ],
+    "Bouchers.": [
+      "Borboën Jules",
+      "Villard Henri"
+    ],
+    "Buraliste postal.": [
+      "Rosset Edouard"
+    ],
+    "Cafés.": [
+      "Monod Pierre",
+      "Reymond-Burdet Armand"
+    ],
+    "Charron.": [
+      "Mounoud Auguste"
+    ],
+    "Commission scolaire.": [
+      "Milliet Louis",
+      "Cruchon Henri"
+    ],
+    "Cordonnier.": [
+      "Rosset Aloïs"
+    ],
+    "Couturières.": [
+      "Borboën Odette",
+      "Détraz Elvine",
+      "Panchaud Simone",
+      "Paquier-Lehmann",
+      "Wanner Louise"
+    ],
+    "Distillerie.": [
+      "Reymond Armand"
+    ],
+    "Entreprise de transport.": [
+      "Muller-Tripod A."
+    ],
+    "Epicerie, mercerie.": [
+      "Borboëns Sœurs",
+      "Monod Pierre"
+    ],
+    "Greffier de la Justice de Paix du cercle d'Ecublens.": [
+      "Pête François"
+    ],
+    "Hongreur.": [
+      "Paquier Florian"
+    ],
+    "Inspecteur du bétail.": [
+      "Brocard Louis"
+    ],
+    "Instituteurs.": [
+      "Guldenschu Henri",
+      "Martin-Nicod Marie"
+    ],
+    "Jardinier.": [
+      "Charrière Léon"
+    ],
+    "Maréchal.": [
+      "Tétuz Aimé"
+    ],
+    "Officier de l'état-civil.": [
+      "Guldenschu Henri"
+    ],
+    "Pasteur.": [
+      "Milliet Louis"
+    ],
+    "Pépiniéristes.": [
+      "Borboën-Cruchon J.",
+      "Cruchon frères"
+    ],
+    "Rentiers.": [
+      "de Goumoëns, Vve de Georges",
+      "Guebhard Marie, Vve",
+      "Pache Louis",
+      "Régis Benjamin",
+      "de Goumoëns Edouard",
+      "Monay Léon"
+    ],
+    "Société.": [
+      "de fromagerie"
+    ],
+    "Téléphone et télégraphe.": [
+      "Café du Mont-Blanc"
+    ],
+    "Vignerons.": [
+      "Baudin Henri",
+      "Duperrut Gustave",
+      "Reymond Armand",
+      "Reymond Gustave",
+      "Reymond Henri"
     ]
   }
 }

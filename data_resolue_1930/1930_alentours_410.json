@@ -1,244 +1,231 @@
 {
-  "CORCELLES-SUR-CONCISE": {
-    "Combustibles": [
-      "Cuendet & Martin"
-    ],
-    "Commissaire de police": [
-      "Maurer Adr."
-    ],
-    "Commission scolaire": [
-      "Thibaud F.",
-      "Du Pasquier René",
-      "Dyens Samuel",
-      "Décurey Marcel",
-      "Paris Jules"
-    ],
-    "Cordonniers": [
-      "Maurer Adrien",
-      "Paratte René"
-    ],
-    "Droguerie": [
-      "Grandjean fils"
-    ],
-    "Entrepreneurs": [
-      "Crola frères & Poli",
-      "Fantoli Rigoli",
-      "Lietta Fortuné"
-    ],
-    "Electricité": [
-      "Forces de Joux",
-      "Thibaud François"
-    ],
-    "Epicerie, mercerie": [
-      "Brünner Théophile",
-      "Cesch Adèle-Marianne",
-      "Payot Samuel"
-    ],
-    "Ferblantier": [
-      "Boudry Paul"
-    ],
-    "Inspecteur du bétail": [
-      "Thibaud Maurice"
-    ],
-    "Instituteurs": [
-      "Fallet Emile",
-      "Roulet Lucie",
-      "Gueissaz Cécile"
-    ],
-    "Jardiniers": [
-      "Dyens Henri",
-      "Nicollier Léon"
-    ],
-    "Justice de paix": [
-      "Thibaud Fritz",
-      "Dagon-Grobet Jules",
-      "Favre Eug.",
-      "Jaquier Frédéric",
-      "Pointet Eug.",
-      "Payot Louis-François"
-    ],
-    "Laitier": [
-      "Marcuard Edouard"
-    ],
-    "Lingères": [
-      "Bétrix Caroline",
-      "Cousin Isabelle",
-      "Dyens Alice"
-    ],
-    "Maréchaux": [
-      "Ecuyer Ls",
-      "Wiesner Alfred"
-    ],
-    "Menuisiers": [
-      "Guyaz Gustave",
-      "Moulin Louis"
-    ],
-    "Modiste": [
-      "Jeanmonod Marie"
-    ],
-    "Officier d'état-civil": [
-      "Baudat Jules"
-    ],
+  "MONTAGNY": {
     "Pasteur": [
-      "Décurey Marcel"
+      "Marguerat Charles"
     ],
-    "Poste et télégraphe": [
-      "Schorpp Henri"
+    "Porcs (comm. de)": [
+      "Besson Emile",
+      "Grossenbacher Adolphe",
+      "Junod Henri"
     ],
-    "Poterie (mag. de)": [
-      "Brünner Th."
+    "Rentiers": [
+      "Buttin Henri",
+      "Buttin, Mlle",
+      "Cruchet Emilie, Mlle",
+      "Cruchet Julie, Mlle",
+      "Cruchet Marie, Mlle",
+      "Hermin Alexis",
+      "Mayor Fanny, Mlle"
     ],
-    "Pierriste": [
-      "Rieser E."
-    ],
-    "Scieurs": [
-      "Dyens Samuel",
-      "Parret Paul"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "du poids public",
-      "Coopérative agricole et viticole",
-      "Immobilière de la Croix-Bleue",
-      "Syndicat agricole",
-      "Abbaye des carabiniers",
-      "de tir aux armes de guerre"
-    ],
-    "Tailleuses": [
-      "Curit Ernestine",
-      "Genier Berthe",
-      "Rigoli Clara"
-    ],
-    "Teinturerie (dépôt)": [
-      "Jeanmonod",
-      "Oesch"
-    ],
-    "Tissus": [
-      "Brünner Théophile",
-      "Oesch Adèle-Marianne",
-      "Roulet V."
+    "Société": [
+      "de laiterie"
     ],
     "Vignerons": [
-      "Betrix Alfred",
-      "Devenoges Alphonse",
-      "Emery Henri",
-      "Evard Lucien",
-      "Gilliéron Arth.",
-      "Jossevel Fritz",
-      "Lambelet Samuel",
-      "Perrin Alfred",
-      "Perrin Fritz",
-      "Perrin Louis",
-      "Schwitzguébel Ferdinand",
-      "Thibaud Ernest",
-      "Vienet François",
-      "Vienet Louis",
-      "Vuillermet Fritz"
-    ],
-    "Divers": [
-      "Du Pasquier Ernest",
-      "Du Pasquier",
-      "Jaquerod L.",
-      "Jequier Hughes"
+      "Cochet Louis",
+      "Christin Frs. fils",
+      "Cornu Henri",
+      "Grandjean Jules",
+      "Knopf Daniel",
+      "Lacroix William",
+      "Shaffert Jules"
     ]
   },
-  "CORCELLES PRÈS CONCISE": {
+  "OPPENS": {
     "Autorités communales": [
-      "Gaulaz Gustave",
-      "Humbert Fréd.",
-      "Pointet Eugène",
-      "Payot Louis-Alb.",
-      "Pointet Gustave",
-      "Humbert Gustave",
-      "Payot Ern.",
-      "Humbert Paul",
-      "Berner Jacques",
-      "Pointet Robert",
-      "Payot Jean-Samuel"
+      "Pitton Hri.",
+      "Pitton John",
+      "Pitton Hector",
+      "Pitton Frédéric",
+      "Pitton Jules",
+      "Dubrit Alfred",
+      "Meystre Maurice",
+      "Barraud Emile",
+      "Pitton Octave",
+      "Carrard A.",
+      "Meystre Alfred",
+      "Stoudmann Alfred"
     ],
     "Agriculteurs": [
-      "Baridon Ls",
-      "Dyens Fritz",
-      "Gaulaz Gustave",
-      "Gaulaz Hri",
-      "Humbert Paul",
-      "Humbert Alph.",
-      "Humbert Ern.",
-      "Humbert Jules",
-      "Jacot Ali",
-      "Payot Alph.",
-      "Payot Henri",
-      "Payot, hoirs de Jean-Charles",
-      "Payot Jean",
-      "Payot Louis-Albert",
-      "Perrinjuquet Phil.",
-      "Pierrehumbert Paul",
-      "Pointet Robert",
-      "Pointet Eugène",
-      "Pointet Gustave",
-      "Pointet Jean-Louis",
-      "Rolli Christian"
+      "Barraud frères",
+      "Besson Robert",
+      "Dutoit Constant",
+      "Dutoit Emile",
+      "Dutoit Eugène",
+      "Pitton Alfred",
+      "Pitton Hector",
+      "Pitton John",
+      "Pitton Jules",
+      "Pitton Louis",
+      "Pitton Constant",
+      "Pitton Aimé",
+      "Pitton Denis",
+      "Pitton Marcel",
+      "Pitton-Gonet Hector",
+      "Stoudmann Denis",
+      "Stoudmann Héli"
     ],
-    "Apiculteurs": [
-      "Humbert Alphonse",
-      "Humbert Paul",
-      "Payot Louis-François"
+    "Bois": [
+      "Pache Eugène"
     ],
-    "Mutualité scolaire de retraite": [
-      "Ducraux E."
-    ],
-    "Société mutualiste de retraite": [
-      "Humbert"
-    ],
-    "Assurances": [
-      "Payot Ernest"
-    ],
-    "Cafés": [
-      "Chatelanat Emile",
-      "Rothen Alfred"
+    "Cafetiers": [
+      "Buttet Alfred",
+      "Rey"
     ],
     "Commission scolaire": [
-      "Humbert Ernest",
-      "M. Décurey",
-      "Pointet Eug."
+      "Pitton Henri",
+      "Carrard Armand",
+      "Pitton Frédéric"
     ],
     "Cordonnier": [
-      "Rothen Alfred"
+      "Meystre Alfred"
     ],
-    "Epicerie, mercerie": [
-      "Renck-Payot Berthe"
+    "Couturière": [
+      "Genier A."
     ],
-    "Graisse (fab. de)": [
-      "Beyeler Ern."
+    "Garde-forestier": [
+      "Jaccoud Edouard"
+    ],
+    "Poste": [
+      "Pitton Adrien"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Gilgen Ernest",
+      "Guex-Pitton. Vv."
     ],
     "Inspecteur du bétail": [
-      "Humbert Ern."
+      "Pitton Alfred"
     ],
-    "Instituteur": [
-      "Ducraux Ern."
+    "Instituteurs": [
+      "Mayor André",
+      "Billaud-Pahud Louise"
     ],
-    "Laitier": [
-      "Tschudi Hermann"
+    "Maréchal": [
+      "Chevalley Albert"
     ],
-    "Menuisier": [
-      "Payot Maurice"
-    ],
-    "Peintres": [
-      "Du Pasquier Gustave",
-      "Leuenberger Charles"
+    "Scieur": [
+      "Pache Constant"
     ],
     "Sociétés": [
-      "de fromagerie",
-      "du battoir",
-      "de l'Abbaye",
-      "Syndicat agricole"
+      "Jeunesse",
+      "Tir",
+      "Assurance du bétail",
+      "Laiterie",
+      "Syndicat agricole d'élevage"
     ],
     "Téléphoniste": [
-      "Rothen Alfred"
+      "Pitton Adrien"
+    ]
+  },
+  "ORGES": {
+    "Autorités communales": [
+      "Perrier Frédéric",
+      "Poyet Justin",
+      "Pavillard Henri",
+      "Wenger Albert",
+      "Amiet Alfred",
+      "Perrier Georges",
+      "Chareyrat Adolphe",
+      "Kohler Jules"
     ],
-    "Vins (march. de)": [
-      "Payot-Perrin Henri",
-      "Rothen Alfred"
+    "Agriculteurs": [
+      "Charevrat Adolphe",
+      "Duvoisin Jules",
+      "Kohler Jules",
+      "Mayor Hri",
+      "Notz Ed.",
+      "Pavillard frères",
+      "Perrier Ed.",
+      "Perrier Georges",
+      "Perrier Gust.",
+      "Poyet Jules",
+      "Poyet Justin",
+      "Poyet Léon",
+      "Poyet Ls",
+      "Schneiter Alb.",
+      "Stähli Ch.",
+      "Tschannen Rud.",
+      "Wenger Albert"
+    ],
+    "Café": [
+      "Nicolet Henri"
+    ],
+    "Charpentier": [
+      "Duvoisin Ernest"
+    ],
+    "Charron": [
+      "Forestier Samuel"
+    ],
+    "Commission scolaire": [
+      "Amiet Alfr.",
+      "Marguerat Charles",
+      "Perrier Gustave"
+    ],
+    "Epicerie": [
+      "Bleuler Emile"
+    ],
+    "Inspecteur du bétail": [
+      "Duvoisin Jles."
+    ],
+    "Instituteur": [
+      "Zoell Louis"
+    ],
+    "Maréchal": [
+      "Robellaz Henri"
+    ],
+    "Poste et télégraphe": [
+      "Poyet Justin"
+    ],
+    "Sociétés": [
+      "d'agriculture Orges-Montagny",
+      "de fromagerie",
+      "d'Abbaye militaire",
+      "Syndicat agricole",
+      "Syndicat des améliorations foncières"
+    ],
+    "Divers": [
+      "Asile des vieillards",
+      "Wenger Albert"
+    ]
+  },
+  "ORZENS": {
+    "Autorités communales": [
+      "Bolomey Louis",
+      "Burckhardt Ernest",
+      "Chevalley Albert",
+      "Wagniere William",
+      "Wagnière Albert de Const.",
+      "Piot Jules",
+      "Vulliamoz Gustave",
+      "Burla Agénor",
+      "Perey René",
+      "Wagnière Aloïs",
+      "Vulliamoz Albert"
+    ],
+    "Agriculteurs": [
+      "Ammon Hermann",
+      "Bettex frères",
+      "Bettex Ulysse",
+      "Billaud William",
+      "Burdet Julien",
+      "Carrard Eug.",
+      "Chevalley Alfr.",
+      "Chevalley frères",
+      "Chevalley Rob.",
+      "Flaction Ls",
+      "Guichard Alb.",
+      "Guichard Em.",
+      "Guichard frères",
+      "Guichard Hri",
+      "Perey Julien",
+      "Perev Ls",
+      "Vulliamoz Alb.",
+      "Vulliamoz Ed.",
+      "Wagnière Aloïs",
+      "Wagnière Gustave",
+      "Wagnière Ls",
+      "ffeu Hri",
+      "Wagnière, frères",
+      "Wagnière Octave"
     ]
   }
 }

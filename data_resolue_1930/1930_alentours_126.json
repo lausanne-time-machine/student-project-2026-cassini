@@ -1,248 +1,222 @@
 {
-  "CHAVANNES-DES-BOIS": {
-    "Président du conseil général": [
-      "Simon Samuel"
+  "Le Sentier": {
+    "Repassages": [
+      "Golay Marcel",
+      "Lecoultre Henri-Frédéric",
+      "Piguet-Berney Louis"
     ],
-    "Secrétaire": [
-      "Coindet Marc",
-      "Simon André"
+    "Ressorts, timbres (fab. de.)": [
+      "Aubert Julien et Constant"
     ],
-    "Syndic": [
-      "Coindet Jules"
+    "Sertisseurs": [
+      "Nicole Arnold",
+      "Piguet Auguste",
+      "S. A. Aubert & Cie"
     ],
-    "Municipaux": [
-      "Decré Félix",
-      "Simon André"
-    ],
-    "Boursier": [
-      "Coindet Ami"
-    ],
+    "Tailleur de roues et découpages": [
+      "Lecoultre Marcel"
+    ]
+  },
+  "Le Solliat": {
     "Agriculteurs": [
-      "Boy Félix",
-      "Coindet Ami",
-      "Coindet Jules",
-      "Decré Félix",
-      "Paroisse Louis",
-      "Richard Alfred",
-      "Heiniger Fritz",
-      "Simon Henri",
-      "Simon Samuel",
-      "Spring Jean-Rodolphe",
-      "Thomas, hoirie"
+      "Capt Ami-Constant",
+      "Capt Ferdinand",
+      "Piguet Albert",
+      "Piguet Ferdinand",
+      "Reymond Jean"
     ],
-    "Bois (march. de)": [
-      "Coindet Jules"
+    "Assurance-vieillesse": [
+      "Nicole Henri"
+    ],
+    "Boissellerie": [
+      "Dépraz César"
+    ],
+    "Buraliste postal": [
+      "Capt William"
     ],
     "Café": [
-      "Coindet Ami"
+      "Vve Guignard-Piguet Henri"
     ],
-    "Cantonnier": [
-      "Dietrich Frédéric"
-    ],
-    "Commission scolaire": [
-      "Coindet Ami",
-      "Coindet Jules"
-    ],
-    "Cordonnier": [
-      "Gay Paul"
-    ],
-    "Inspecteur du bétail": [
-      "Thomas Eug."
-    ],
-    "Institutrice": [
-      "Coindet Marguerite"
-    ],
-    "Menuisier": [
-      "Spring Jean-Rodolphe"
-    ],
-    "Téléphone": [
-      "Station communale"
-    ]
-  },
-  "CHESEREX": {
-    "Président du Conseil général": [
-      "Berlie John"
-    ],
-    "Secrétaire": [
-      "Guibert Jules",
-      "Sumi Frédéric"
-    ],
-    "Syndic": [
-      "Guibert Emile"
-    ],
-    "Municipaux": [
-      "Ansermet Albert",
-      "Ansermet John",
-      "Perrier Charles",
-      "Perrier Jules"
-    ],
-    "Boursier": [
-      "Chambrier Paul"
-    ],
-    "Agriculteurs": [
-      "Ansermet Ernest",
-      "Ansermet, hoirie de Louis",
-      "Bally Ch.",
-      "Baudraz Jules",
-      "Dugranpraz Jules",
-      "Gonthier Julien",
-      "Guibert Ele",
-      "Hauser F.",
-      "Jeanmonod Numa",
-      "Jakob Hans",
-      "Kernen Fréd.",
-      "Loup Ls",
-      "Luthi Ernest",
-      "Miaz Fernand",
-      "Pariat Louis",
-      "Perrier-Dugranpraz Henri"
-    ],
-    "Amodiateurs": [
-      "Baudraz Jules",
-      "Perrier Henri"
-    ],
-    "Cafetiers": [
-      "Genoux Vve",
-      "Mange Alfred"
-    ],
-    "Bétail (commerce de)": [
-      "Mange Alfr."
-    ],
-    "Bois (comm. de)": [
-      "Gonthier Julien",
-      "Kuffer Alfred"
-    ],
-    "Commission scolaire": [
-      "Berlie John",
-      "Ansermet Ern.",
-      "Masson Charles"
-    ],
-    "Entrepreneur en constructions": [
-      "« La Maison moderne », S. A."
-    ],
-    "Entreprise de drainage": [
-      "Michet A."
+    "Chef de section": [
+      "Capt Elie"
     ],
     "Epicerie, mercerie, tabacs": [
-      "Chambrier Paul",
-      "Guichard Jules"
+      "Reymond H. fils"
     ],
-    "Forestier cantonal": [
-      "Rochat Armand",
-      "Sumi Frédéric"
-    ],
-    "Forgeron": [
-      "Guibert Jules"
-    ],
-    "Fromager": [
-      "Baudraz Jules"
+    "Garde-forestier": [
+      "Capt Eugène"
     ],
     "Inspecteur du bétail": [
-      "Guichard J."
+      "Capt Henri"
     ],
-    "Instituteurs": [
-      "Curtet Fernand",
-      "Favre Aimée"
+    "Institutrice": [
+      "Capt Lucie"
     ],
-    "Jardinier": [
-      "Berlie Albert"
-    ],
-    "Lingère-blanchisseuse": [
-      "Guichard Louise"
-    ],
-    "Médecin": [
-      "Schrantz Alfred"
-    ],
-    "Poste": [
-      "Chambrier Paul"
-    ],
-    "Rentiers": [
-      "Baylon, dame",
-      "Grandjean frères",
-      "de Riaz Henri",
-      "Mme Vve Ernest Sautter-de Budé"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "Machine à battre le blé"
-    ],
-    "Tapissier": [
-      "Gilliéron Gustave"
-    ],
-    "Téléphone": [
-      "Auberge communale"
-    ],
-    "Usine (scie, pressoir, meunerie)": [
-      "Pariat Louis"
-    ]
-  },
-  "COINSINS": {
-    "Président du conseil général": [
-      "Reyrenn Albert"
-    ],
-    "Secrétaire": [
-      "Zimmermann Edmond",
-      "Sublet Aloïs"
-    ],
-    "Syndic": [
-      "Corbaz Edouard"
-    ],
-    "Municipaux": [
-      "Vuagniaux John",
-      "Jaggi Jean",
-      "Guex Alfred",
-      "Brauch Marius"
-    ],
-    "Boursier": [
-      "Reyrenn Albert"
-    ],
-    "Agriculteurs": [
-      "Brauch frères",
-      "Christinet Lucien",
-      "Corbaz Edouard",
-      "Golay Gust.",
-      "Guex frères",
-      "Jaggi Henri",
-      "Mettraux Gustave",
-      "Muller Jean",
-      "Reyrenn Alexandre",
-      "Sublet Aloïs",
-      "Vuagniaux John"
-    ],
-    "Amodiateur": [
-      "Muller Jean"
-    ],
-    "Aubergiste": [
-      "Magnin Charles"
-    ],
-    "Bouchers": [
-      "Brauch Marius",
-      "Brauch Philippe"
-    ],
-    "Charron-Charpentier": [
-      "Bron Franç."
-    ],
-    "Commission scolaire": [
-      "Vuagniaux John"
-    ],
-    "Epicerie": [
-      "Baumann Gottfried"
-    ],
-    "Inspecteur du bétail": [
-      "Reyrenn Albert"
-    ],
-    "Instituteur": [
-      "Zimmermann Edmond"
-    ],
-    "Jardinier": [
-      "Lambelin Jules"
+    "Juge au tribunal": [
+      "Meylan-Capt Elc."
     ],
     "Laitier": [
-      "Laiteries réunies"
+      "Binggeli Ph."
     ],
-    "Pépiniéristes": [
-      "Jaques frères",
-      "Magnin Henri"
+    "Professeur": [
+      "Aubert Samuel"
+    ],
+    "Rentiers": [
+      "Aubert William",
+      "Reymond François",
+      "Reymond Paul"
+    ],
+    "Sociétés": [
+      "de la Fontaine",
+      "de la Fontaine",
+      "immobilière",
+      "des eaux Golisse-Solliat",
+      "de l'intérêt public",
+      "de fromagerie",
+      "Syndicat agricole Solliat-Sentier"
+    ],
+    "Vétérinaire": [
+      "Meylan Paul"
+    ],
+    "Vins (march. de)": [
+      "Meylan Ed."
+    ],
+    "Divers": [
+      "Reymond Hector"
+    ]
+  },
+  "LE LIEU": {
+    "Autorités communales": [
+      "Meylan Jean",
+      "Rochat Marcel"
+    ],
+    "Syndic": [
+      "Aubert Edouard"
+    ],
+    "Municipaux": [
+      "Aubert Jean",
+      "Rochat Jules",
+      "Rochat Jules-Jérémie",
+      "Piguet Alf.",
+      "Dépraz Elie",
+      "Rochat Alphonse"
+    ],
+    "Secrétaire": [
+      "Buffat Albert"
+    ],
+    "Boursier": [
+      "Dépraz William"
+    ],
+    "Agriculteurs": [
+      "Aubert Henri",
+      "Cart Eugène",
+      "Cart Emile",
+      "Dépraz César",
+      "Dépraz Charles",
+      "Dépraz Elie",
+      "Dépraz Emile",
+      "Dépraz Henri",
+      "Rochat Emile",
+      "Guignard John",
+      "Guignard Jules",
+      "Guignard Siméon",
+      "Lecoultre Ch.",
+      "Longchamp Alexis",
+      "Lugrin Elie",
+      "Meylan Albert",
+      "Meylan Emile",
+      "Meylan Jean",
+      "Meylan Robert",
+      "Nicole Henri",
+      "Piguet Alfred",
+      "Reymond Elie"
+    ],
+    "Amodiateurs": [
+      "Dépraz Charles",
+      "Dépraz Emile",
+      "Reverchon Marie"
+    ],
+    "Assurance": [
+      "Rochat Alphonse"
+    ],
+    "Assurance-vieillesse": [
+      "Rochat Alph."
+    ],
+    "Bois (march. de)": [
+      "Aubert Henri"
+    ],
+    "Boisseliers": [
+      "Dépraz Robert",
+      "Guignard Jules-Barthélemy",
+      "Guignard Alix"
+    ],
+    "Boulangers": [
+      "Bielser",
+      "Rochat Charles"
+    ],
+    "Cafés": [
+      "Dépraz César",
+      "Jetzer",
+      "Rochat Louis"
+    ],
+    "Chapellerie": [
+      "Guignard, Mlle"
+    ],
+    "Charbons": [
+      "Meylan Jean"
+    ],
+    "Charbons et bois de chauffage": [
+      "Aubert Henri"
+    ],
+    "Charcutier": [
+      "Nicole Adrien"
+    ],
+    "Charpentiers": [
+      "Longchamp Alexis",
+      "Pithon Albert"
+    ],
+    "Chef de gare": [
+      "Jaques Numa"
+    ],
+    "Chef de section": [
+      "Aubert Jean"
+    ],
+    "Commission scolaire": [
+      "Rochat Ch.-Ls."
+    ],
+    "Draperies": [
+      "Guignard-Jordan John",
+      "Guignard Marguerite",
+      "Piguet & Cie"
+    ],
+    "Entrepreneurs-maçons": [
+      "Papa P.",
+      "Zappelloni & Zenoni"
+    ],
+    "Epicerie. mercerie": [
+      "Dépraz Paul",
+      "Guignard-Jordan John",
+      "Guignard Marguerite",
+      "Piguet & Cie",
+      "Rochat Charles"
+    ],
+    "Fabrique": [
+      "Le Vieux Moutier S.A."
+    ],
+    "Ferronnerie": [
+      "Guignard-Jordan John",
+      "Piguet & Cie"
+    ],
+    "Forestiers communaux": [
+      "Rochat James",
+      "Meylan Henri",
+      "Reymond Elie"
+    ],
+    "Hôtel": [
+      "Jetzer"
+    ],
+    "Inspecteur du bétail": [
+      "Meylan Wilfred"
     ]
   }
 }

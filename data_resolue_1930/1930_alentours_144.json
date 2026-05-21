@@ -1,116 +1,116 @@
 {
-  "Ville d'Orbe": {
-    "Papeteries": [
-      "Jaques Eugène",
-      "Gudit Julia",
-      "Velay Edouard fils"
+  "Ville de Morges": {
+    "Avocats.": [
+      "Morax André",
+      "Simon Eugène",
+      "Vallotton-Warnery Henry"
     ],
-    "Pasteurs": [
-      "Demierre André",
-      "Tuscher Julien",
-      "Barbier Jean"
+    "Bains.": [
+      "Dulon-Zulauf",
+      "Société des Bains du Lac"
     ],
-    "Peintre en voitures": [
-      "Rauchle Charles"
+    "Banques.": [
+      "Banque Cantonale Vaudoise",
+      "Société de Banque suisse",
+      "Union Vaudoise du Crédit"
     ],
-    "Pensions": [
-      "Combe Louis",
-      "Gudit J.",
-      "Millioud, dame",
-      "Trohler, dame"
+    "Bateaux (fab. de).": [
+      "Cuendet Maurice"
     ],
-    "Pharmaciens": [
-      "Couchepin Philippe",
-      "Gindrat Ed."
+    "Bazars.": [
+      "Bloch-Weil, les fils",
+      "Emery Alexandre",
+      "Meyer Sylvain",
+      "Staub Edouard"
     ],
-    "Piano (maitresses de)": [
-      "Combe Marie",
-      "Lambert Mlle",
-      "Martin Hélène",
-      "Richard Lse"
+    "Benzine.": [
+      "S. A. Redard & Cie",
+      "Socal S. A."
     ],
-    "Poêliers": [
-      "Perolini frères",
-      "Reguin Fred.",
-      "Reymond Gustave",
-      "Urfer Louis"
+    "Bestiaux et chevaux (march. de).": [
+      "Geissmann frères",
+      "Jotterand Paul",
+      "Lévy Roger",
+      "Perrin Robert",
+      "Reymond Henri",
+      "Weil Lucien"
     ],
-    "Poste": [
-      "Ravussin Charles"
+    "Bijoutiers.": [
+      "Golaz Franz",
+      "Golaz Emile",
+      "Lecoultre H.",
+      "Margot J.",
+      "Wuilleumier Lucien"
     ],
-    "Poterie, verrerie": [
-      "Conod A.",
-      "Marti-Demusy, Vve.",
-      "Mercier, Vve."
+    "Biscuits (fab. de).": [
+      "Oulevay Alfred",
+      "Widmann W. & Cie"
     ],
-    "Primeurs": [
-      "Berthoud Louis",
-      "Bonzon Louis",
-      "Demont-Bolliet Fernand",
-      "Dissard Pierre",
-      "Sonnay Louis"
+    "Blanchisseuses.": [
+      "Blanc-Pilser, dame",
+      "Christin Lucie",
+      "Grivel Elisa",
+      "Grivet, dames",
+      "Guala-Pilet Marie",
+      "Magada Pauline",
+      "Rey-Chauvet Jenny",
+      "Reymond Marguerite",
+      "Rosset-Villinger, dame",
+      "Wilhelm Louise",
+      "Zingre Elisa"
     ],
-    "Prison centrale": [
-      "Colonie de l'Orbe"
+    "Bois de chauffage (comm. de).": [
+      "Grobéty-Magnin Ls",
+      "Jaccoud & fils",
+      "Oppliger François",
+      "Thury F."
     ],
-    "Prisons de district": [
-      "Cruchet J."
+    "Boissellerie.": [
+      "Chatenoud Edouard",
+      "Jayet Charles"
     ],
-    "Produits et appareils pour combattre les maladies de la vigne": [
-      "Beauverd Emile"
+    "Bonneterie.": [
+      "Chabloz Henri",
+      "Martin Blanche",
+      "Savary & Brunner",
+      "Seewer Marguerite",
+      "Vernet-Bernard Clémence"
     ],
-    "Professeur de langues": [
-      "Develey-Isoz C., dame"
+    "Bouchers.": [
+      "Balimann Franz",
+      "Gehri René",
+      "Jotterand Paul",
+      "Perrin R.",
+      "Reymond Georges"
     ],
-    "Quincaillerie": [
-      "Ramuz-Bonzon Paul",
-      "Gonseth R. & Cie.",
-      "Reymond G.",
-      "Rogivue Léon"
+    "Boulangers-pâtissiers.": [
+      "Bertholet Albert",
+      "Bezençon Edmond",
+      "Charlet Marcel",
+      "Clément Emile",
+      "Favre Albert",
+      "Martinelli Charles",
+      "Perdrix Jean",
+      "Perrin Jules",
+      "Petter Paul",
+      "Simon Louis",
+      "Walser Auguste"
     ],
-    "Ramoneur": [
-      "Zbinden Henri"
+    "Brevets d'invention.": [
+      "Flesch L.",
+      "Pahud J.-D."
     ],
-    "Relieur-encadreur": [
-      "Combe Gustave",
-      "Descombes Louis",
-      "Tallichet René"
+    "Broderies.": [
+      "Baum Louise",
+      "Stucky Charlotte"
     ],
-    "Sages-femmes": [
-      "Rauchle Marguerite",
-      "Stelz Marguerite"
-    ],
-    "Scierie": [
-      "Addor & Jaquier"
-    ],
-    "Selliers": [
-      "Duvoisin Charles",
-      "Gourbach Charles"
-    ],
-    "Serruriers": [
-      "Combe Emile",
-      "Combe Georges",
-      "Cochard Auguste",
-      "Reguin Frédéric"
-    ],
-    "Sociétés": [
-      "Association du Vieil Orbe <Pro Urba>",
-      "Ligue des Femmes abstinentes",
-      "Section de la Fraternité",
-      "Société de la Crèche",
-      "» des catholiques d'Orbe et environs",
-      "» du Casino",
-      "» de développement d'Orbe et environs",
-      "» de la < Feuille d'Avis >",
-      "» de tir aux armes de guerre",
-      "» la Sainte-Cécile, harmonie",
-      "» Chorale, chant",
-      "» l'Abbaye d'Orbe",
-      "» de l'Orchestre",
-      "» des Usines de l'Orbe (chemin de fer électrique)",
-      "» du battoir à grains",
-      "» des Carabiniers d'Orbe",
-      "» fédérale de gymnastique <Ancienne>, section d'Orbe. triotes »"
+    "Brosserie.": [
+      "Ethenoz William",
+      "Gachet Jules",
+      "Jayet Charles",
+      "Rieben Emile",
+      "Vve Jean von Auw & fils",
+      "Vuffray Ernest"
     ]
   }
 }

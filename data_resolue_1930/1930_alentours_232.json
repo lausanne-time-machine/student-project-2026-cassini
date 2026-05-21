@@ -1,78 +1,224 @@
 {
-  "VINZEL": {
-    "Aubergiste": [
-      "Straub Edouard"
+  "BAULMES": {
+    "Meunier": [
+      "Doy Henri"
     ],
-    "Briqueterie": [
-      "Keusen Edouard"
+    "Moutarde (fab. de)": [
+      "Bourgeois frères & Cie, S. A."
+    ],
+    "Officier d'état-civil": [
+      "Conod Charles"
+    ],
+    "Pasteurs": [
+      "Bauler",
+      "Augsbourger Michel"
+    ],
+    "Pension-famille": [
+      "La Rosière",
+      "Jaques Gustave"
+    ],
+    "Pension pour jeunes filles": [
+      "Subilia"
+    ],
+    "Pension pour enfants": [
+      "Clot"
+    ],
+    "Poste": [
+      "Leresche Abel"
+    ],
+    "Quincaillerie": [
+      "Arnold Robert"
+    ],
+    "Rapes (fab. de)": [
+      "Desilvestri-Conod C."
+    ],
+    "Sage-femme": [
+      "Neuschwander Bertha"
+    ],
+    "Sellier-tapissier": [
+      "Stoucky Christian"
+    ],
+    "Sociétés": [
+      "du poids public",
+      "d'agriculture",
+      "de fromagerie No 1 et No 2",
+      "des Forges du Creux",
+      "du chœur d'hommes",
+      "du chœur mixte",
+      "Caisse de crédit mutuel",
+      "Société des Autos-Transports",
+      "Syndicat d'élevage",
+      "La Lyre"
+    ],
+    "Tailleur": [
+      "Bourgeois Emile"
+    ],
+    "Tailleuses": [
+      "Besançon Renée",
+      "Clot Marthe",
+      "Leresche Alice",
+      "Nibio Angèle",
+      "Reuge Louise"
+    ],
+    "Tailleuses pour hommes": [
+      "Besançon Rose-Jeanne",
+      "Leresche Alice de Paul"
+    ],
+    "Télégraphiste": [
+      "Jaccard Elise"
+    ],
+    "Usine du Creux": [
+      "Leresche Palmyr"
+    ],
+    "Villas meublées à louer": [
+      "Desylvestris César"
+    ],
+    "Vinaigre, vins, moutarde Mont-d'Or": [
+      "Bourgeois frères & Cie, S. A."
+    ],
+    "Vins sans alcool": [
+      "Le Raisin. S. A."
+    ],
+    "Voiturier": [
+      "Conod Charles"
+    ],
+    "Autorités communales": [
+      "Deriaz Albert",
+      "Eternod Roger",
+      "Deriaz Charles-Joseph",
+      "Collet Maurice",
+      "Pillevuit Ami",
+      "Pillevuit François-Louis",
+      "Cachemaille Alfred",
+      "Deriaz Ulysse",
+      "Collet Ami"
+    ],
+    "Agriculteurs": [
+      "Cachemaille Clément",
+      "Cachemaille Ernest",
+      "Cachemaille-Dériaz Alfr.",
+      "Cachemaille Georges",
+      "Collet Alb.",
+      "Deriaz Charles-Ernest",
+      "Deriaz Charles-Joseph",
+      "Deriaz Charles de Louis-Félix",
+      "Deriaz Henri",
+      "Deriaz Juste d'Ernest",
+      "Deriaz Lucien",
+      "Deriaz Roland",
+      "Deriaz-Bovet Albert",
+      "Deriaz-Giroud Henri",
+      "Deriaz Rob.",
+      "Reriaz-Russelet Emile",
+      "Deriaz-Dick Ls",
+      "Deriaz-Walther Charles",
+      "Eternod Auguste",
+      "Gebhardt Ernest",
+      "Huguenin Elie",
+      "Jacot Henri",
+      "Mabille Olivier",
+      "Montandon Charles",
+      "Pérusset Camille",
+      "Pérusset Emile",
+      "Pérusset Louis",
+      "Pillevuit Emile",
+      "Ravussin Louis"
+    ],
+    "Amodiateurs": [
+      "Deriaz Lucien"
+    ],
+    "Apiculteur": [
+      "Cuendet Ant."
+    ],
+    "Assurances": [
+      "La Genevoise",
+      "Pillevuit Louis-François",
+      "La Winterthour",
+      "Cachemaille-Deriaz Alfred"
+    ],
+    "Associations mutualistes de retraite": [
+      "Ravussin E."
+    ],
+    "Aubergistes": [
+      "Buhlmann Bertha",
+      "Chappuis L.",
+      "Collet Ch.",
+      "Cercle du Jura",
+      "Collet Emma",
+      "Cuvit Jenny",
+      "Mabille Louis",
+      "Gaillard Emile"
+    ],
+    "Automobiles": [
+      "Ravussin Gustave",
+      "Isler-Collet Otto"
+    ],
+    "Banque": [
+      "Crédit foncier vaudois",
+      "Caisse d'épargne",
+      "Deriaz Henri"
+    ],
+    "Bétail (march. de)": [
+      "Pérusset Ls"
+    ],
+    "Bois (march. de)": [
+      "Berger Frédéric",
+      "Deriaz Charles-Jos.",
+      "Deriaz Rob.",
+      "Pillevuit Louis-François",
+      "Ravussin Maurice"
+    ],
+    "Boucher": [
+      "Deriaz-Schwab Arthur"
+    ],
+    "Boulangers": [
+      "Fischer Willy",
+      "Herzig Paul",
+      "Menétrey Augusta",
+      "Soc. coop. de consommation"
+    ],
+    "Buraliste postal": [
+      "Deriaz Léon"
+    ],
+    "Charcutier": [
+      "Deriaz Arthur"
+    ],
+    "Charpentiers": [
+      "Ravussin Maur.",
+      "Rossier Léon"
+    ],
+    "Chaux et ciments": [
+      "Société des chaux et ciments de Baulmes"
+    ],
+    "Chef de gare": [
+      "Degiez Arthur"
+    ],
+    "Chef de section": [
+      "Gris Adolphe"
+    ],
+    "Coiffeur": [
+      "Golaz"
+    ],
+    "Comestibles, primeurs": [
+      "Founet E.",
+      "Tosetti Joseph"
     ],
     "Commission scolaire": [
-      "Rossier Alexis",
-      "Cordey Alice"
+      "Deriaz Charles-Joseph",
+      "Dériaz Hri"
     ],
-    "Epicerie; mercerie": [
-      "Rossier Marc"
+    "Confections-mercerie": [
+      "Dupasquier Marie"
     ],
-    "Instituteur": [
-      "Durgnat Emile"
+    "Cordonniers": [
+      "Gilland Hri",
+      "Moënnoz Ed."
     ],
-    "Menuisier": [
-      "Cordey François"
+    "Distillateur": [
+      "Collet"
     ],
-    "Pépiniériste": [
-      "Rosset Henri"
-    ],
-    "Propriétaire-rentier": [
-      "de Reding Adélaïde",
-      "de Reding Henri"
-    ],
-    "Poste et téléphone": [
-      "Rossier Marc"
-    ],
-    "Tonnelier": [
-      "Straub Hans"
-    ],
-    "Vignes américaines": [
-      "Rosset H. fils"
-    ],
-    "Vignerons": [
-      "André Louis",
-      "Billard Ed.",
-      "Cherpillod Ernest",
-      "Dupraz Edouard",
-      "Dupraz Ernest",
-      "Marguerat Ami"
-    ],
-    "Vins": [
-      "Straub Edouard, fils"
-    ]
-  },
-  "DISTRICT DE VEVEY": {
-    "Préfet": [
-      "Blanc Henri"
-    ],
-    "Substitut": [
-      "Mayor-Delapraz Jules"
-    ],
-    "Receveur": [
-      "Mercier Fernand"
-    ],
-    "Voyer": [
-      "Ledermann Samuel"
-    ],
-    "Conservateur du registre foncier": [
-      "Blanc Louis"
-    ],
-    "Tribunal de district": [
-      "Petitmermet Robert",
-      "Pilliod Constant",
-      "de Gautard René",
-      "Maron Emile",
-      "Dénéréaz Gustave",
-      "Vulliémoz Louis"
-    ],
-    "Poursuites et faillites": [
-      "Ledermann Ch."
+    "Electricité": [
+      "Société électrique des Clées"
     ]
   }
 }

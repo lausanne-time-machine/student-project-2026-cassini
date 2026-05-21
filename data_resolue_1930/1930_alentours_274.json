@@ -1,160 +1,251 @@
 {
-  "TOUR-DE-PEILZ": {
-    "Agence immobilière": [
-      "Deladœy Louis",
-      "Favre Louis",
-      "Mamin-Matthey Chs."
+  "COMBREMONT-LE-GRAND": {
+    "Mutualité scolaire de retraite": [
+      "Dutoit Charles"
     ],
-    "Agriculteurs": [
-      "Bonjour Aloys",
-      "Chabloz Albert",
-      "Chappuis, Veuve de Gustave et fils",
-      "Chervet Aug.",
-      "Délessert Lucien",
-      "Dragaz Jules",
-      "Dubochet Charles",
-      "Gavin Aloys",
-      "Gavin Emile",
-      "Grognuz fils",
-      "Henry Auguste",
-      "Herzog Jean",
-      "Curchod Charles",
-      "Monod Charles",
-      "Saugy Gustave et fils",
-      "Vodoz Charles",
-      "Vodoz Jaques",
-      "Wahlen Ernest",
-      "Wahlen Rodolphe",
-      "Niklaus Eug.",
-      "Cossy Edouard"
+    "Bétail (march. de)": [
+      "Favre Edmond",
+      "Favre William",
+      "Monney Fernand"
     ],
-    "Appareilleurs": [
-      "Hilfiker E.",
-      "Montet Fernand",
-      "Pernet Gustave",
-      "Vuadens Arnold",
-      "Winiger Ernest"
+    "Blanchisseuse": [
+      "Viquerat Francine"
     ],
-    "Architectes": [
-      "Bauer D. & Chappuis A.",
-      "Girardet Gustave",
-      "Kurz Fernand",
-      "Recordon-Morel B."
+    "Boulanger": [
+      "Rollinet Alfred"
     ],
-    "Articles de blanc": [
-      "Bott Ernest"
+    "Cafés": [
+      "Gilliand Emile",
+      "Gaille Gustave",
+      "Pugin Jean"
     ],
-    "Assurances": [
-      "Union Suisse",
-      "Mamin",
-      "Desarzens"
+    "Carriers": [
+      "Bovay Aimé",
+      "Penseyres Edouard"
     ],
-    "Associations mutualistes de retraite": [
-      "Forel Auguste"
+    "Charpentiers": [
+      "Pidoux frères"
     ],
-    "Auto-taxis": [
-      "Caillet A.",
-      "Gilliand Eug.",
-      "Nicolas Philippe"
+    "Charron": [
+      "Pidoux Julien"
     ],
-    "Bazar": [
-      "Montet Ph."
-    ],
-    "Blanchisseuses": [
-      "Berney Berthe, Mme",
-      "Deladœy Cécile",
-      "Tornier Charles, Mme",
-      "Légeret, dame",
-      "Mamin Julie, Mlle",
-      "Maudry Valentine",
-      "Maridor, dame",
-      "Martin Elise",
-      "Michaud sœurs",
-      "Morier Suzanne"
-    ],
-    "Bouchers": [
-      "Dénéréaz Samuel",
-      "Perroud Paul"
-    ],
-    "Boulangers": [
-      "Baumgartner Arthur",
-      "Delapraz Aloïs",
-      "Hepp-Delapraz Georges",
-      "La Ménagère",
-      "Scheidegger F."
-    ],
-    "Cafetiers": [
-      "Association Viticole de la Tour, au Raisin",
-      "Perritaz Joseph",
-      "Küser-Urfer",
-      "Thiévent Jules"
-    ],
-    "Camionneurs": [
-      "Chevalley Aloïs",
-      "Dovat Alfred",
-      "Stein E."
-    ],
-    "Carrelages et revêtements": [
-      "Castioni Arnold",
-      "Castioni-Baud Adolphe"
-    ],
-    "Charcutiers": [
-      "Dénéréaz Samuel",
-      "Monnier Henri",
-      "Perroud Paul"
-    ],
-    "Charpentier": [
-      "Murbach Emile"
-    ],
-    "Chef de station": [
-      "Séchaud Charles",
-      "Malherbe Fernand"
-    ],
-    "Cliniques": [
-      "Pachoud",
-      "L'Ermitage, société",
-      "Drs Guisan P.",
-      "Ivanoff Georges"
-    ],
-    "Coiffeurs": [
-      "Beldi Fritz",
-      "Burger Albert",
-      "Neyroud Auguste"
-    ],
-    "Chocolats": [
-      "Nestlé and Anglo-Swiss Condensed Milk Co.",
-      "Cailler",
-      "Kohler"
-    ],
-    "Combustibles": [
-      "Moret Emile",
-      "Stein"
+    "Chef de section": [
+      "Favre Paul"
     ],
     "Commission scolaire": [
-      "de Schoulepnikow Nicolas",
-      "Baudraz Henri",
-      "Monnier Louis"
+      "Meige Ed.",
+      "Viquerat Georges"
+    ],
+    "Cordonnier": [
+      "Pidoux Paul"
+    ],
+    "Entrepreneurs": [
+      "Pessina frères"
+    ],
+    "Epicerie-Mercerie": [
+      "Bovey Art.",
+      "Passello & Del Pedro"
+    ],
+    "Horloger": [
+      "Bovey A. T."
+    ],
+    "Inspecteur du bétail": [
+      "Bettex Julien"
+    ],
+    "Instituteurs": [
+      "Dutoit Charles",
+      "Bovay Rose"
+    ],
+    "Justice de paix (section de Combremont)": [
+      "Bettex-Détraz Henri",
+      "Bettex Edouard",
+      "Chevalley-Burnand Edm.",
+      "Gilliand-Badoux C.",
+      "Correvon Aimé"
+    ],
+    "Greffier": [
+      "Mermoud Henri"
+    ],
+    "Laitier": [
+      "Neuschwander"
+    ],
+    "Lingère": [
+      "Pidoux Nancy"
+    ],
+    "Maçons": [
+      "Pessina frères",
+      "Rebaud Clément"
+    ],
+    "Maréchaux": [
+      "Gilliand Oscar",
+      "Mahon Marcel"
+    ],
+    "Matériaux de construction": [
+      "Pessina frères"
+    ],
+    "Médecin": [
+      "Bryois Ernest"
+    ],
+    "Officier d'état civil": [
+      "Gilliand Henri"
+    ],
+    "Poste": [
+      "Pidoux Louis"
+    ],
+    "Rentiers": [
+      "Aguet Jules",
+      "Détraz Julien"
+    ],
+    "Repasseuse": [
+      "Viquerat Francine"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "Syndicat d'élevage",
+      "Société d'agriculture",
+      "Crédit mutuel",
+      "Section de la Croix-Bleue"
+    ],
+    "Téléphoniste": [
+      "Gaille Gustave"
+    ]
+  },
+  "COMBREMONT-LE-PETIT": {
+    "Autorités communales": [
+      "Blanchoud Hri",
+      "Bettex Lucien"
+    ],
+    "Syndic": [
+      "Crisinel Ulysse"
+    ],
+    "Municipaux": [
+      "Bettex Ulysse",
+      "Bettex-Nicaty Aloïs",
+      "Bettex Numa",
+      "Bettex Paul",
+      "Duvillard Constant",
+      "Bettex Henri"
+    ],
+    "Secrétaire": [
+      "Burnand Edouard"
+    ],
+    "Boursier": [
+      "Bettex Arthur"
+    ],
+    "Agriculteurs": [
+      "Balsiger Gottfried",
+      "Bettex Aloïs d'Eugène",
+      "Bettex Edouard, de Jacques-Daniel",
+      "Bettex Emile",
+      "Bettex Henri, de François-Daniel",
+      "Bettex Jules, de Frédéric",
+      "Bettex Numa",
+      "Bettex Marius",
+      "Burnand frères",
+      "Chevalley Henri",
+      "Chevalley William",
+      "Chambaz Aloïs",
+      "Crausaz Aimé",
+      "Crisinel Ulysse",
+      "Duvillard Jean",
+      "Gaberel J.-Sam.",
+      "Gaberel Jean-Pierre",
+      "Nicaty Henri",
+      "Nicaty Ls-Samuel",
+      "Nicaty Ulysse",
+      "Richardet Alb.",
+      "Richardet Henri",
+      "Richardet Ulysse",
+      "Roulet Victor",
+      "Roux Fernand",
+      "Vioget Julien",
+      "Vioget Ul."
+    ],
+    "Auberges et cafés": [
+      "Bettex Emma",
+      "Charbon Marie",
+      "Thurner-Crausaz Jean"
+    ],
+    "Battoir à blé": [
+      "Commune"
+    ],
+    "Boulanger": [
+      "Bettex Henri"
+    ],
+    "Bétail (marchands de)": [
+      "Bettex Louis",
+      "Martin Ch."
+    ],
+    "Bureau de poste": [
+      "Clerget Lucie"
+    ],
+    "Blanchisseuse": [
+      "Ochsenbein Germaine"
+    ],
+    "Charpentiers": [
+      "Bettex Jules",
+      "Bettex Victor"
+    ],
+    "Commission scolaire": [
+      "Hollenweger Oscar",
+      "Burnand Ed."
+    ],
+    "Commission de la classe primaire supérieure": [
+      "Bettex-Détraz",
+      "Crisinel Ulysse"
     ],
     "Cordonniers": [
-      "Glaus Jean",
-      "Gysler Alfred",
-      "Ravida François",
-      "Tschumi Gottfried",
-      "Weber Jean"
+      "Aigroz Louis",
+      "Thierrin Emile"
     ],
-    "Couturières": [
-      "Borel Jenny, Mlle",
-      "Byrde Emilie",
-      "Felli Isaline et Stella",
-      "Desgraz Mme",
-      "Girardet Marguerite"
+    "Entrepreneur": [
+      "Antoniazzi Jacques"
     ],
-    "Crèmerie Tea-Room": [
-      "Pinchard Alice"
+    "Epicerie, mercerie, tabacs": [
+      "Hollenweger & Gentil",
+      "Thuner J."
     ],
-    "Dentiste": [
-      "Golaz Paul",
-      "Quillet A."
+    "Garde de triage": [
+      "Bettex-Pidoux Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Richardet Hri."
+    ],
+    "Instituteurs": [
+      "Rouilly René (sup.)",
+      "Cuany Madeleine",
+      "Gillabert Ls."
+    ],
+    "Laitier": [
+      "Winz Adolphe"
+    ],
+    "Lingère": [
+      "Duvillard Lina"
+    ],
+    "Maréchal": [
+      "Blanchoud Henri"
+    ],
+    "Machines agricoles": [
+      "Blanchoud Hri."
+    ],
+    "Menuisier": [
+      "Clerget Jules"
+    ],
+    "Modiste": [
+      "Bettex Bertha"
+    ],
+    "Scieurs": [
+      "Bettex Jules",
+      "Vioget Ul."
+    ],
+    "Sellier": [
+      "Bettex Adolphe"
+    ],
+    "Sociétés": [
+      "du poids public",
+      "de fromagerie de la Crausaz",
+      "Syndicat agricole",
+      "du battoir à trèfle de Combremont et environs"
     ]
   }
 }

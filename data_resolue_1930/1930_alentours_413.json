@@ -1,216 +1,218 @@
 {
-  "GRANDEVENT": {
-    "Auberge communale": [
-      "Giroud Jules"
-    ],
-    "Bûcherons": [
-      "Ray Jules",
-      "Ray Robert",
-      "Roulet Henri",
-      "Roulet Victor"
-    ],
-    "Commission scolaire": [
-      "Cousin Eugène",
-      "Giroud Jules",
-      "Tissot Ernest"
-    ],
-    "Inspecteur du bétail": [
-      "Gerbex Gust."
-    ],
-    "Institutrice": [
-      "Ray Odette"
-    ],
-    "Laitier": [
-      "Duvoisin Robert"
-    ],
-    "Menuisiers-charpentiers": [
-      "Bornoz Henri",
-      "Bornoz Louis",
-      "Roulet Marcel"
-    ],
-    "Société": [
-      "de fromagerie"
-    ],
-    "Téléphone": [
-      "Auberge communale",
-      "Duvoisin Robert",
-      "Riem Alfred"
-    ]
-  },
-  "MAUBORGET": {
+  "TREYCOVAGNES": {
     "Autorités communales": [
-      "Roulet Oscar",
-      "Petitpierre Maurice",
-      "Guillaume Alphonse",
-      "Perret Oscar",
-      "Duvoisin Ernest",
-      "Simon Charles",
-      "Perret Edouard",
-      "Gottraux Charles"
+      "Comte Louis fils",
+      "Bovay Charles",
+      "Moser Ernest",
+      "König Werner",
+      "Balzli Edouard fils",
+      "Baudat Dav.",
+      "Bovay Jules",
+      "Moser Ernest",
+      "Aegler Adolphe",
+      "Bovay Jules"
     ],
     "Agriculteurs": [
-      "Duvoisin Ernest",
-      "Guillaume Alph.",
-      "Petitpierre Alex.",
-      "Petitpierre Arthur",
-      "Petitpierre Maurice",
-      "Petitpierre Willy",
-      "Perret Edouard",
-      "Perret Oscar",
-      "Roulet Oscar",
-      "Simon Alexis",
-      "Simon Ch."
+      "Aegler Adolphe",
+      "Balzli Charles",
+      "Balzli Edouard, père",
+      "Baudat frères",
+      "Berney Maurice",
+      "Bovay Jules",
+      "Comte Alfred",
+      "Comte Ls",
+      "Comte Maurice",
+      "Cordey Hri",
+      "Groux Frédéric",
+      "Jeanneret Constant",
+      "Moser Gottlieb",
+      "Petitpierre Jules",
+      "Pillonel John",
+      "Truan Emile"
     ],
-    "Amodiateur": [
-      "Basset Aimé"
-    ],
-    "Boisseliers": [
-      "Duvoisin Louis",
-      "Guillaume Alphonse",
-      "Perret Oscar",
-      "Simon Olivier"
-    ],
-    "Boulangerie": [
-      "Guillaume Alphonse"
-    ],
-    "Buraliste postal": [
-      "Perret Marcel"
-    ],
-    "Cafés": [
-      "Duvoisin Ernest",
-      "Gottraux Lucie"
-    ],
-    "Commission scolaire": [
-      "Perret Ed.",
-      "Duvoisin Ernest"
-    ],
-    "Epicerie": [
-      "Guillaume Alph."
-    ],
-    "Hôtel-Pension": [
-      "Hôtel Bellevue",
-      "Hôtel Croix Fédérale",
-      "Duvoisin Ernest"
-    ],
-    "Inspecteur du bétail": [
-      "Petitpierre Alexis"
-    ],
-    "Institutrice": [
-      "Duvoisin Jeanne"
-    ],
-    "Laitier": [
-      "Duvoisin Robert"
-    ],
-    "Téléphone public": [
-      "Gottraux Lucie"
-    ]
-  },
-  "MUTRUX": {
-    "Autorités communales": [
-      "Banderet Maurice",
-      "Kormann Adolphe",
-      "Gaille Gustave",
-      "Banderet Benjamin",
-      "Fardel Charles",
-      "Neuenschwander Alphonse",
-      "Fardel Henri",
-      "Reymondaz Daniel",
-      "Kormann Adolphe"
-    ],
-    "Agriculteurs": [
-      "Banderet Benjamin",
-      "Banderet Alb.",
-      "Fardel Arn.",
-      "Fardel Ch.",
-      "Fardel frères",
-      "Fardel Gust.",
-      "Gaille Alb.",
-      "Gaille Gustave",
-      "Junod Henri",
-      "Neuenschwander Alph.",
-      "Reymondaz Louis"
-    ],
-    "Amodiateur": [
-      "Fardel Arnold"
-    ],
-    "Assurance-vieillesse": [
-      "Nicoud S."
+    "Mutualité scolaire de retraite": [
+      "Favre J."
     ],
     "Aubergiste": [
-      "Saugy Charles"
+      "Balzli Edouard fils"
     ],
-    "Blanchisseuse": [
-      "Fardel Albertine"
-    ],
-    "Bois (march. de)": [
-      "Banderet Benjamin",
-      "Gaille Gustave"
-    ],
-    "Bûcherons": [
-      "Boillet Edouard",
-      "Fardel Henri",
-      "Fardel Louis",
-      "Lombardot Augustin",
-      "Neuenschwander Henri",
-      "Neuenschwander Alphonse"
+    "Buraliste postal": [
+      "Berney Louis"
     ],
     "Carrier": [
-      "Lombardot Augustin"
-    ],
-    "Charretier": [
-      "Fardel Charles"
+      "Petitpierre Jules"
     ],
     "Commission scolaire": [
-      "Banderet B."
+      "Bovay Jules",
+      "Berney Maurice",
+      "Comte Maurice"
     ],
-    "Epicerie, mercerie": [
-      "Delay Edmond",
-      "Saugy Chs."
+    "Entrepreneurs": [
+      "Ferrini Emile",
+      "Petitpierre Jules"
     ],
-    "Garde-forestier": [
-      "Thibaud Ernest"
+    "Epicerie, tabacs": [
+      "Zwahlen Jean"
     ],
     "Inspecteur du bétail": [
-      "Banderet Hri"
+      "Comte Maurice"
     ],
-    "Instituteurs": [
-      "Nicoud Samuel",
-      "Fardel Albertine"
+    "Instituteur": [
+      "Favre Jules"
     ],
     "Laitier": [
-      "Fardel Georges"
+      "Zwahlen Otto"
     ],
-    "Menuisier": [
-      "Raymondoz Timothée"
+    "Maréchal-forgeron": [
+      "Berney Henri"
     ],
-    "Poste": [
-      "Allisson Bertha"
+    "Pain (dépôt de)": [
+      "Zwahlen Jean"
+    ],
+    "Pépiniériste et apiculteur": [
+      "Comte Henri"
+    ],
+    "Rentier": [
+      "Baatard Pierre"
     ],
     "Société": [
-      "Section de la Croix-Bleue"
+      "de laiterie"
     ],
-    "Tailleuse": [
-      "Neuenschwander Hélène"
+    "Sucrerie d'Aarberg": [
+      "König Werner"
     ],
-    "Téléphone": [
-      "Bureau des postes",
-      "auberge communale"
+    "Téléphone, station communale": [
+      "Moser Ernest"
     ]
   },
-  "NOVALLES": {
+  "URSINS": {
     "Autorités communales": [
-      "Taillefert Reynold",
-      "Mayor Arnold",
-      "Pahud Gustave",
-      "Recordon Emile",
-      "Mermod Georges",
-      "Viguet Louis",
-      "Pahud Claude"
+      "Bovay Albert",
+      "Tacheron Albert",
+      "Tacheron Constant",
+      "Burdet Auguste",
+      "Bovay Armand",
+      "Bettex Armand",
+      "Baudin François",
+      "Bovay Edouard",
+      "Brechon Const.",
+      "Bovay Maurice",
+      "Burdet Aug."
     ],
     "Agriculteurs": [
-      "Feissli Jacob",
-      "Frutig Jean",
-      "Kobi Alexandre"
+      "Baudin François",
+      "Bettex Armand",
+      "Bovay Albert",
+      "Bovay Armand",
+      "Bovay Denis",
+      "Bovay Edouard",
+      "Bovay Victor",
+      "Bovay Ulysse",
+      "Brechon Const.",
+      "Burdet Aug.",
+      "Burdet Const.",
+      "Burdet Eug.",
+      "Burdet Ewald",
+      "Burdet Octave",
+      "Burdet Victor",
+      "Christin Gustave",
+      "Frauche Constant",
+      "Tacheron Constant",
+      "Tacheron David",
+      "Wagnière Constant"
+    ],
+    "Aubergiste": [
+      "Burdet Octave"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Gaillard R."
+    ],
+    "Commission scolaire": [
+      "Tacheron Albert",
+      "Bovay Maurice",
+      "Bovay Armand"
+    ],
+    "Epicerie": [
+      "Baudin Alice",
+      "Bovay Alice"
+    ],
+    "Fruits et légumes": [
+      "Sarbach Jean. T."
+    ],
+    "Inspecteur du bétail": [
+      "Burdet Const."
+    ],
+    "Instituteurs": [
+      "Gaillard René",
+      "Kasser Isabelle"
+    ],
+    "Laitier": [
+      "Richard Fritz"
+    ],
+    "Maçon": [
+      "Cerutti fils"
+    ],
+    "Machine à battre": [
+      "Société du battoir à grains"
+    ],
+    "Maréchal": [
+      "Waridel Jaques"
+    ],
+    "Officier d'état-civil": [
+      "Guichard Marcel"
+    ],
+    "Pierriste": [
+      "Carrard Henri"
+    ],
+    "Pionnier": [
+      "Pellaux François-Albert"
+    ],
+    "Poste": [
+      "Regnin Aline"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "d'agriculture",
+      "Bibliothèque",
+      "de jeunesse"
+    ],
+    "Téléphoniste": [
+      "Burdet Eugénie"
+    ]
+  },
+  "VALEYRES-SOUS-MONTAGNY": {
+    "Autorités communales": [
+      "Simon Alfred",
+      "Michoud Jean",
+      "Margot Louis",
+      "Pilliard Alfred",
+      "Crot Louis",
+      "Jaggi Maurice",
+      "Pilliard Jules",
+      "Jaggi Maurice"
+    ],
+    "Agriculteurs": [
+      "Chevalley Louis",
+      "Correvon Lucien",
+      "Hänni Fritz",
+      "Martin Constant",
+      "Martin Emmanuel",
+      "Martin Em.",
+      "Michoud Jean",
+      "Pilliard Alfr.",
+      "Pilliard Eugène",
+      "Pilliard François",
+      "Pilliard Hri",
+      "Porraz François",
+      "Porraz Hri",
+      "Schneider Fritz",
+      "Simon Alfred"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Burdet J."
+    ],
+    "Aubergiste": [
+      "Boillet Emma, Vve."
     ]
   }
 }

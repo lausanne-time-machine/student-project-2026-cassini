@@ -1,126 +1,95 @@
 {
-  "Ville d’Yverdon": {
-    "Confections.": [
-      "Monnin Agnès",
-      "Lorenzelli Victor",
-      "Martin & Cie, S. A.",
-      "Pahud-Richardet",
-      "Piolino Marie",
-      "Ulmo E.",
-      "Weill Emile",
-      "Weill Henri"
+  "Ville de Vevey": {
+    "Justice de paix.": [
+      "Chappuis Ls.",
+      "Margot Aug.",
+      "Monod Eug.",
+      "Narbel Charles",
+      "Vuadens Ed.",
+      "Dubuis Gérard",
+      "Hegglin Georges"
     ],
-    "Confiseurs": [
-      "Bæhler Chs.",
-      "Bollmann-Martin",
-      "Buache R.",
-      "Dubath Ch.",
-      "Gehry Fritz",
-      "Gov Jules",
-      "Henrioud F.",
-      "Henrioud Louis",
-      "Jaquet E."
+    "Laineries.": [
+      "Bayard, Mlles",
+      "Frey-Wicki Jeanne",
+      "Dæppen, hoirs de Frédéric",
+      "Dormond Jules",
+      "Meyer Frieda",
+      "Pilet Marguerite Mlle",
+      "Recordon Mathilde",
+      "Zanone A."
     ],
-    "Confiserie (fab.. de)": [
-      "Annen Alfred"
+    "Lait condensé (fab. de).": [
+      "Nestlé & Anglo-Swiss Condensed Milk Co"
     ],
-    "Constructeurs-mécaniciens": [
-      "Ateliers des C. F. F.",
-      "Ateliers du chemin de fer Yverdon-Sainte-Croix",
-      "Auberson J.",
-      "Bécholey Daniel",
-      "Ecole professionnelle",
-      "Paillard Charles",
-      "E. Paillard & Cie, S. A.",
-      "Tschumy Albert",
-      "Widmer Alphonse"
+    "Laiterie (articles pour).": [
+      "Margot Aug."
     ],
-    "Cordier": [
-      "Robellaz-Chevalier J."
+    "Laiteries.": [
+      "Bertholet Emile",
+      "Bornand Albert",
+      "Chopard-Keusen Louis",
+      "Daunis Marie",
+      "Davet Isidore",
+      "Dubath Ilma",
+      "Fédération laitière du Léman",
+      "Ginier Auguste",
+      "Grosjean Alfred",
+      "Martin Charles",
+      "Moser Ernest",
+      "Neuverth & Villard",
+      "Rapin Marcel",
+      "Rapin Emile",
+      "Rochat Henri",
+      "Rossier Emma",
+      "Schmid Alfred",
+      "Schumacher Jean",
+      "Tachet Henri"
     ],
-    "Cordonniers": [
-      "Cagna Louis",
-      "Cagna Eugène",
-      "Cochard D.",
-      "Cornu Charles",
-      "Crot Constant",
-      "Dubois Robert",
-      "Estoppey Ch.",
-      "Gatolliaț Albert",
-      "Girardin Georges-Henri",
-      "Henchoz Jules",
-      "Heuby Ernest",
-      "Hirt Fernand",
-      "Marbott O.",
-      "Martin Ami",
-      "Martinenghi Chs",
-      "Pantet Emile",
-      "Perrenoud A.",
-      "Perotti Octave",
-      "Pittet Auguste",
-      "Sonntag F.",
-      "Weber Hermann"
+    "Librairies.": [
+      "Belperrin Maurice",
+      "Capt Ch..",
+      "Delafontaine J.",
+      "Payot & Cie",
+      "Säuberlin & Pfeiffer",
+      "Société de l'imprimerie et lithographie Klausfelder"
     ],
-    "Corsets": [
-      "Dolder-Valotton D.",
-      "Graa S."
+    "Lingerie.": [
+      "Dormond J.",
+      "Bayard J. & E.",
+      "Beetschen Marc",
+      "Bono Célestin",
+      "Brunschwig Clément",
+      "Currat Brigitte",
+      "Frey-Wicki A.",
+      "Leresche René",
+      "Lux Maximilien",
+      "Margot-Courvoisier Madeleine",
+      "Pilet Marguerite",
+      "Schwob Lucien",
+      "Zbinden Aline"
     ],
-    "Couronnes mortuaires artificielles": [
-      "Wuille L."
+    "Lingères.": [
+      "Flouck Emma",
+      "Friedrich Lydia",
+      "Grand Marie",
+      "Schaerer, Mlle",
+      "de Siebenthal Marie, Mlle",
+      "Schenkel, Mlle",
+      "Tschan Marguerite",
+      "Wyler M.. Mlle"
     ],
-    "Couteliers": [
-      "Porta Eugène",
-      "Superchi F."
+    "Linoléums.": [
+      "Légeret Charles"
     ],
-    "Couvreurs": [
-      "Barmaverain Innocent",
-      "Maspéro Jean",
-      "Milliery Albert"
+    "Liqueurs.": [
+      "Bitter des Espersiers (S.A.)",
+      "Claivaz François-Louis. Veuve",
+      "Rossier Marthe"
     ],
-    "Crèmerie": [
-      "Cauderay R. & C.",
-      "Henrioud Louis"
-    ],
-    "Crieur public": [
-      "Cherix François"
-    ],
-    "Cuirs et peaux": [
-      "Grezet-Ambuhl Ls",
-      "Jutzeler Alfred"
-    ],
-    "Culture physique": [
-      "Bory Et."
-    ],
-    "Curé": [
-      "Gottofrey Jean-Baptiste",
-      "Schwaller Maurice"
-    ],
-    "Dactylo-sténographie": [
-      "Cand",
-      "Delorme J."
-    ],
-    "Denrées coloniales": [
-      "Anygal Georgette",
-      "Bettex Emile",
-      "Chevalley Jenny",
-      "Coloniales, S. A.",
-      "Cuérel Const.",
-      "Hinderer frères",
-      "Hirzel Louise",
-      "Marion-Monti",
-      "Péclard & Guignard",
-      "Petitpierre Ch., S. A.",
-      "Porchet Henri",
-      "Progin Louis",
-      "Société coopérative de consommation",
-      "Steuri Henri",
-      "Thiébaud F.",
-      "Verdan Charles-Ernest"
-    ],
-    "Dentistes": [
-      "Cuendet Henri",
-      "Grüter Oscar",
-      "Perret P.-C."
+    "Lithographes.": [
+      "Säuberlin & Pfeiffer (S. A.)",
+      "Société de l'imprimerie et lithographie Klausfelder"
     ]
   }
 }

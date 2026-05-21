@@ -1,255 +1,168 @@
 {
-  "CRANS": {
-    "Epiceries": [
-      "Gisler Hri",
-      "Hauselmann Louis"
+  "DISTRICT DE LAVAUX": {
+    "Préfet": [
+      "Foscale Antoine"
     ],
-    "Fermier": [
-      "Cretegny Louis"
+    "Substitut": [
+      "Duboux Eugène"
     ],
-    "Inspecteur du bétail": [
-      "Sinner Ch."
+    "Receveur": [
+      "Gay Marc"
     ],
-    "Instituteurs": [
-      "Brocard Alfred",
-      "Guignard Marthe"
+    "Conservateur du registre foncier": [
+      "Parisod Henri"
     ],
-    "Jardiniers": [
-      "Bertholet Ami",
-      "Maréchaux Ferdinand"
+    "Tribunal de district": [
+      "Petitmermet Robert",
+      "Palaz Gustave",
+      "Chaudet Emile",
+      "Baatard Charles",
+      "Fonjallaz-Décoppet Henri",
+      "Dupertuis Antoine"
     ],
-    "Laitier": [
-      "Laiteries Réunies"
-    ],
-    "Maréchal": [
-      "Herren Gottfried"
-    ],
-    "Menuisier": [
-      "Kislig Louis"
-    ],
-    "Officier d'état-civil": [
-      "Lecoultre Juste"
-    ],
-    "Pasteur": [
-      "Wachsmuth Jean. T."
-    ],
-    "Pépiniéristes": [
-      "Chappuis Hri. T.",
-      "Guillet Henri",
-      "Mange Ernest"
-    ],
-    "Régisseur": [
-      "Guillet Henri"
-    ],
-    "Rentiers": [
-      "van Berchem, MM."
-    ],
-    "Sociétés": [
-      "de fromagerie. R.",
-      "des Eaux de Crans, Céligny, Borex, Arnex (siège Crans). R."
-    ],
-    "Téléphoniste": [
-      "Gagnaux Charles"
-    ],
-    "Vignerons": [
-      "Gaudin & Hämmerli"
+    "Poursuites et faillites": [
+      "Marendaz Alfred"
     ]
   },
-  "CRASSIER": {
+  "CHEXBRES": {
     "Autorités communales": [
-      "Rossier Auguste",
-      "Gubler E.",
-      "Berlie Henri",
-      "Rossier Alexandre",
-      "Livet Aloïs",
-      "Chouet Paul",
-      "Paréaz Marius",
-      "Gribi Charles. T."
+      "Frossard Julien",
+      "Butticaz Maurice",
+      "Paley André"
     ],
-    "Agriculteurs": [
-      "Berlie Henri",
-      "Livet Aloïs",
-      "Hermann Gottfried",
-      "Romand Louis",
-      "Rossier Auguste",
-      "Siméon Joseph",
-      "Thomas Ami"
+    "Syndic": [
+      "Dénéréaz Eugène"
     ],
-    "Amodiateur": [
-      "Berlie Henri"
+    "Municipaux": [
+      "Bovy Hri",
+      "Meyer Emile",
+      "Chappuis Henri",
+      "Conne Ls",
+      "Gilliéron Gustave",
+      "Echenard Robert"
     ],
-    "Aubergistes": [
-      "Bonjour, Vve",
-      "Druey P. H."
+    "Agent de police": [
+      "Zimmermann Octve"
     ],
-    "Bois (march. de)": [
-      "Bornet Samuel et Ernest. R.",
-      "Chouet & Cie. RT"
+    "Agriculteurs — vignerons": [
+      "Amstein Henri",
+      "Barbey Em.",
+      "Barbey Léon",
+      "Bovy Hri. T.",
+      "Chappuis Vincent, Henri et Louis",
+      "Chaubert Louis",
+      "Chevalley François",
+      "Chevalley Théodore",
+      "Conne Alb.",
+      "Conne Ami",
+      "Conne John",
+      "Conne Ls",
+      "Fonjallaz Adr.",
+      "Grandchamp, les fils d'Aimé",
+      "Grandchamp Ls",
+      "Jaunin, hoirs de Robert",
+      "Jomini, hoirie d'Aimé",
+      "Jacquemettaz Joseph",
+      "Kaeser Adrien",
+      "Légeret Oscar",
+      "Leyvraz Alfred",
+      "Leyvraz John",
+      "Murisier Emile",
+      "Paley André",
+      "Paley Emile",
+      "Rogivue A."
     ],
-    "Boulanger": [
-      "Wagnière Octave"
+    "Apiculteurs": [
+      "Chaubert Louis",
+      "Tonduz François"
+    ],
+    "Architecte": [
+      "Dorier Charles"
+    ],
+    "Asile pour enfants": [
+      "La Nichée"
+    ],
+    "Assesseur": [
+      "Chappuis Henri"
+    ],
+    "Automobiles (courses)": [
+      "Lebet Marcel",
+      "Meylan Edouard"
+    ],
+    "Auto-Transport": [
+      "Delay John"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Echenard R."
+    ],
+    "Auberges et cafés": [
+      "Chaubert Louis",
+      "Gilliéron Constant",
+      "Carestia Elisa",
+      "Hochuli Henri",
+      "Légeret Paul",
+      "Würsten-Séchaud Jules",
+      "Lavanchy Aloïs"
+    ],
+    "Avocat": [
+      "Dr Paschoud André"
+    ],
+    "Banque": [
+      "Crédit foncier et Caisse d'Epargne cantonale",
+      "Gilliéron G.",
+      "B. C. V."
+    ],
+    "Blanchisseuses et repasseuses": [
+      "Delay, dame",
+      "Goumoëns Sophie",
+      "Paccaud, dame",
+      "Wütrich, dame"
+    ],
+    "Bois de chauffage": [
+      "Delay John"
+    ],
+    "Bouchers": [
+      "Gilliéron Paul",
+      "Ochsner Jacques"
+    ],
+    "Boulangers": [
+      "Bidlingmeyer Ami",
+      "Chaubert Aimé",
+      "Naegele Louis"
+    ],
+    "Café sans alcool": [
+      "Le Foyer pour Tous",
+      "Décosterd Louis"
+    ],
+    "Cantonniers": [
+      "Deladœy Rob.",
+      "Légeret Emile",
+      "Leyvraz Félix"
+    ],
+    "Chapeliers": [
+      "Borgeaud A. & Cie.",
+      "Jaccard Marie et Augusta"
+    ],
+    "Charpentiers": [
+      "Eich et fils",
+      "Tonduz François"
+    ],
+    "Charretiers": [
+      "Barbey Léon",
+      "Chaubert Louis",
+      "Meylan Elie"
     ],
     "Charron": [
-      "Steffen Gustave"
+      "Grandchamp Aimé"
     ],
-    "Chef de station": [
-      "Poget"
+    "Chaussures": [
+      "Dénéréaz Eug.",
+      "Gilliéron Gust."
     ],
-    "Entrepreneurs": [
-      "Chouet & Cie. RT",
-      "Paréaz frères. T."
-    ],
-    "Epicerie": [
-      "Berlie Elisa. R.",
-      "Durgnat sœurs. R."
-    ],
-    "Garage": [
-      "Gribi Ch. T."
-    ],
-    "Gypsier": [
-      "Gianina fils"
-    ],
-    "Inspecteur du bétail": [
-      "Steffen Gustave"
-    ],
-    "Instituteur": [
-      "Jacot Marcel"
-    ],
-    "Laitier": [
-      "Urfer Samuel"
-    ],
-    "Maçon": [
-      "Paltani Louis"
-    ],
-    "Maréchal": [
-      "Tardy Arthur"
-    ],
-    "Mécanicien": [
-      "Gribi Charles. T."
-    ],
-    "Menuisiers": [
-      "Chouet & Cie. RT",
-      "Paréaz frères. R."
-    ],
-    "Meuniers": [
-      "Bornet Samuel et Ernest"
-    ],
-    "Pasteur": [
-      "Wachsmuth Jean. T."
-    ],
-    "Rentière": [
-      "Aubert Mme"
-    ],
-    "Scieries": [
-      "Chouet & Cie. RT",
-      "Scierie de Crassier (S. A.). RT"
-    ],
-    "Serrurier": [
-      "Tardy Arthur"
-    ],
-    "Société": [
-      "de fromagerie. R."
-    ],
-    "Vétérinaire": [
-      "Wampfler David. T."
-    ],
-    "Voiturier": [
-      "Thomas Ami"
-    ]
-  },
-  "DUILLIER": {
-    "Autorités communales": [
-      "Noblet Louis",
-      "Sautier Jules",
-      "Sinner Henri",
-      "Vernet Alb.",
-      "Langenstein Armand",
-      "Lude Charles",
-      "Humbert Maurice",
-      "Du Pontet René",
-      "Noblet Louis"
-    ],
-    "Agriculteurs": [
-      "Artique Auguste",
-      "Annen frères",
-      "Annen Alfred",
-      "Bex Charles",
-      "Bregand Adrien",
-      "Dunoyer John",
-      "Francelet André",
-      "Humbert Mce. T.",
-      "Jaton John",
-      "Chambaz Hector",
-      "Cuvit Gust.",
-      "Knöri Hri",
-      "Langenstein Armand",
-      "Lude Ch.",
-      "Lude Henri",
-      "Noblet Louis. T.",
-      "Rieben Jean",
-      "Sautier Aug.",
-      "Sinner Alf.",
-      "Sinner Henri",
-      "Villard Gustave",
-      "Welti Rodolphe"
-    ],
-    "Auberge": [
-      "Olivier Julien"
-    ],
-    "Bétail": [
-      "Francelet André"
-    ],
-    "Commission scolaire": [
-      "Vernet Albert",
-      "Du Pontet René",
-      "Simon Georges"
-    ],
-    "Couturière": [
-      "Knöri Marguerite"
-    ],
-    "Distillateur": [
-      "Noblet Jaques. T."
-    ],
-    "Epicerie": [
-      "Rochat Louise. R."
-    ],
-    "Inspect. du bétail": [
-      "Dunoyer John"
-    ],
-    "Instituteurs": [
-      "Coulon Louis",
-      "Favre Aimée"
-    ],
-    "Laiterie": [
-      "Société Les Réunies"
-    ],
-    "Maréchal": [
-      "Vullioud Ami"
-    ],
-    "Médecin": [
-      "Vernet Albert"
-    ],
-    "Pension": [
-      "Bovy Eug."
-    ],
-    "Poste": [
-      "Dufour Charles"
-    ],
-    "Société": [
-      "de fromagerie. R."
-    ],
-    "Vignerons": [
-      "Blondel Adolphe",
-      "Brolliet Jules",
-      "Dunoyer Ch.",
-      "Hermenjat Louis",
-      "Sachot Ernest"
-    ]
-  },
-  "EYSINS": {
-    "Autorités communales": [
-      "Larpin Alfred",
-      "Baudin Gustave"
+    "Chefs de gares": [
+      "Mivellaz",
+      "Gerbex Jules"
     ]
   }
 }

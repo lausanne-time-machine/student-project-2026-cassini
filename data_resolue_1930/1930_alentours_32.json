@@ -1,228 +1,103 @@
 {
-  "LES CHARBONNIÈRES": {
-    "Instituteurs": [
-      "Rochat Alphonse",
-      "Berney Jane"
+  "Ville de Vevey": {
+    "Cuirs (comm. de).": [
+      "Gauverit Joseph",
+      "Halle aux cuirs",
+      "Tannerie de Vevey",
+      "Trinkard Jean et Marius"
     ],
-    "Juge de paix": [
-      "Meylan Jean"
+    "Déménageurs.": [
+      "Cornaz Jean",
+      "Pouly Henri"
     ],
-    "Laitier": [
-      "Aubert Jean"
+    "Denrées coloniales.": [
+      "Beer F.",
+      "Hammer F. & Cie",
+      "Lenzo-Holl & Cie",
+      "Von Auw Albert",
+      "Schmidt & Cie (S.A.)",
+      "Vuilleumier Marcel",
+      "Wiedmer Ernest"
     ],
-    "Menuisiers": [
-      "Longchamp Alexis",
-      "Pithon Alb."
+    "Dentelles.": [
+      "Bayard J. et E.",
+      "Herzog Rosalie",
+      "Leresche René",
+      "Zbinden Aline"
     ],
-    "Modiste": [
-      "Guignard Marguerite"
+    "Dentistes.": [
+      "Aguet H.",
+      "Baridon Rob.",
+      "Boitel Paul",
+      "Ferrier Edm.",
+      "Huguenin Paul et Eugène",
+      "Johnson G.",
+      "Kohli Ernest",
+      "Monnier Georges",
+      "Rieder Gab.",
+      "Tavernier P."
     ],
-    "Officier d'état civil": [
-      "Piguet Alfred"
+    "Directeur des écoles primaires.": [
+      "Vauthey Ed."
     ],
-    "Pasteur": [
-      "Payot Ed."
+    "Directeur du Collège.": [
+      "Recordon Ed."
     ],
-    "Pêcheur": [
-      "Rochat Louis (Caba)"
+    "Distillateurs-liquoristes.": [
+      "Déglise Cyprien",
+      "Ellenberger Frédéric",
+      "Mayor Henri",
+      "Rossier Marthe, Vve"
     ],
-    "Pension": [
-      "Cart Emile"
+    "Distributeurs.": [
+      "Golliez Anna"
     ],
-    "Poste": [
-      "Aubert César"
+    "Doreurs-encadreurs.": [
+      "Dubochet Ch.",
+      "Fonjallaz Marius",
+      "Gatti Jean",
+      "Pilloud Léon",
+      "Sangrouber A.",
+      "Tissot frères"
     ],
-    "Professeur de piano": [
-      "Guignard J. Mme"
+    "Draperies, nouveautés, tissus divers.": [
+      "Beetschen Marc",
+      "Bischoff et Rosenberg",
+      "Bono Célestin",
+      "Brunschwig E.",
+      "Brunschwig Clément",
+      "Brunschwig Adolphe",
+      "Burri Henri",
+      "Daurer-Pluss",
+      "Frey-Wicki A.",
+      "Gerber John",
+      "Grognuz Ch.",
+      "Loude & Cie",
+      "Lux Maximilien",
+      "Magro G.",
+      "Margot-Courvoisier H.",
+      "Meyer Albert & Cie",
+      "Muller Charles",
+      "Schwob Lucien",
+      "Walther Henry-S. & Cie (S.A.)",
+      "Weill Marcel",
+      "Zanone A."
     ],
-    "Quincaillerie": [
-      "Guignard John",
-      "Piguet & Cie."
+    "Drogueries.": [
+      "von Auw Albert",
+      "Berner A.",
+      "Dériaz Emmanuel",
+      "Dumoulin P.-A.",
+      "Gamboni Emmanuel",
+      "Hammer F. & Cie",
+      "Krähenbühl A.",
+      "Laurent Gustave",
+      "Regamey Albert",
+      "Vuilleumier Marcel",
+      "Wiedmer Ernest"
     ],
-    "Scierie": [
-      "Comptoir de bois, S. A."
-    ],
-    "Sociétés": [
-      "de laiterie",
-      "Syndicat agricole",
-      "de gymnastique",
-      "Chorale",
-      "Instrumentale, La Persévérante",
-      "Croix-Bleue",
-      "de tir"
-    ],
-    "Tabacs": [
-      "Cart Emile"
-    ],
-    "Tailleuse": [
-      "Humbert Louisa"
-    ],
-    "Vacherins (march. de)": [
-      "Aubert Jean",
-      "Cart Eug."
-    ],
-    "Voituriers": [
-      "Dépraz Louis",
-      "Guignard John",
-      "Guignard Pierre"
-    ],
-    "Chronographes (fab. de)": [
-      "Dépraz Marcel"
-    ],
-    "Fournitures": [
-      "Aubert E. & Cie.",
-      "Dépraz & Guignard",
-      "Fabrique du Vieux Moutier, S. A.",
-      "Reymond frères & Lamon"
-    ],
-    "Pierreries (fabr. de contre-pivots, écuelles, tenons, sertissages)": [
-      "Fabrique du Vieux Moutier S. A.",
-      "Reymond frères et Lamon"
-    ],
-    "Pierriste": [
-      "Meylan Francis"
-    ],
-    "Pivoteurs": [
-      "Guignard Aloïs",
-      "Meylan Paul"
-    ],
-    "Autorités": [
-      "Rochat Fritz-Louis",
-      "Rochat Marcel",
-      "Rochat Albert-Hector",
-      "Rochat Marcel"
-    ],
-    "Agent de police": [
-      "Rochat François"
-    ],
-    "Agriculteurs": [
-      "Candaux Paul",
-      "Golay Alfred",
-      "Golay Albert",
-      "Golay-Dépraz Ls",
-      "Rochat, hoirs d'Alb.",
-      "Rochat Charles-Elie",
-      "Rochat-Girod Fernand",
-      "Rochat, hoirs d'Aug.",
-      "Rochat Marcel",
-      "Rochat Jérémie",
-      "Rochat-Brunner Elie",
-      "Rochat Elie",
-      "Rochat Fern.",
-      "Rochat Jules",
-      "Rochat Camille",
-      "Rochat Marius",
-      "Rochat Samuel et Louis",
-      "Rochat Samuel",
-      "Rochat Samuel",
-      "Rochat Wilfrid"
-    ],
-    "Amodiateurs de montagnes": [
-      "Rochat hoirs d'Aug.",
-      "Rochat Elie",
-      "Rochat Fritz",
-      "Rochat Robert",
-      "Rochat Samuel",
-      "Syndicat d'alpage des Charbonnières"
-    ],
-    "Apiculteurs": [
-      "Rochat Adrien",
-      "Rochat Constant",
-      "Rochat Fritz"
-    ],
-    "Appartements meublés pour étrangers": [
-      "Rochat Camille",
-      "Rochat Robert"
-    ],
-    "Assurances": [
-      "Rochat-Marro Camille",
-      "Société d'assurance des chevaux et du bétail à Berne",
-      "Rochat Marcel"
-    ],
-    "Assurance-vieillesse": [
-      "Mutualité scolaire de retraite",
-      "Guignard V.",
-      "Société mutualiste de retraite",
-      "Rochat Jérémie"
-    ],
-    "Bateaux (fabr. de)": [
-      "Rochat Louis",
-      "Rochat Jules-Louis"
-    ],
-    "Bois (march. de)": [
-      "Rochat Samuel",
-      "Simond Jules"
-    ],
-    "Boîtes à vacherins (fabr. de)": [
-      "Humbert Fritz",
-      "Périllard Louis",
-      "Rochat-Brunner",
-      "Rochat Fritz",
-      "Rochat Jules-Louis",
-      "Rochat Ls de Léon",
-      "Rochat Robert-Arthur"
-    ],
-    "Boucheries-charcuteries": [
-      "Rochat Numa",
-      "Rochat Roland"
-    ],
-    "Boulangeries-pâtisseries": [
-      "Bielser Ele.",
-      "Boulangerie des Charbonnières"
-    ],
-    "Bûcherons": [
-      "Golay Fréd.",
-      "Humbertset Charles",
-      "Rochat Arthur"
-    ],
-    "Buraliste postal": [
-      "Schneider Jean",
-      "Rochat Albert"
-    ],
-    "Cafés": [
-      "Page André",
-      "Rochat Numa"
-    ],
-    "Cantonnier": [
-      "Golay Louis-Benjamin"
-    ],
-    "Charpentiers": [
-      "Périllard Alf. et Ls",
-      "Fahler Charles"
-    ],
-    "Chapelier": [
-      "Rochat-Balissat Louis"
-    ],
-    "Cordonnier": [
-      "Sbarra Salvatore"
-    ],
-    "Couturière": [
-      "Rochat-Francfort"
-    ],
-    "Entrepreneurs": [
-      "Fantoli Jacques",
-      "Paltani Jean"
-    ],
-    "Escargots (comm. d')": [
-      "Rochat Albin"
-    ],
-    "Epicerie, mercerie, cigares et tabacs": [
-      "Bélaz-Rochat M T.",
-      "Bielser Emile",
-      "Humbert Camille",
-      "Rochat Fritz",
-      "Rochat Fritz-Louis",
-      "Rochat Robert"
-    ],
-    "Ferblantier": [
-      "Albertano Etienne"
-    ],
-    "Fromages, vacherins, tommes (gros)": [
-      "Candaux Golay",
-      "Golay John",
-      "Rochat, les fils de Jules-M.",
-      "Rochat-Morro Camille",
-      "Rochat Wilfrid fils"
+    "Eaux gazeuses.": [
+      "Rossier Marthe, Vve"
     ]
   }
 }

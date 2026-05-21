@@ -1,219 +1,105 @@
 {
-  "LES CHARBONNIÈRES": {
-    "Gare (chef de halte)": [
-      "Rochat Justin"
-    ],
-    "Garde-forestier": [
-      "Rochat James"
-    ],
-    "Gypsier-peintre": [
-      "Paltani Jean"
-    ],
-    "Hôtels": [
-      "Page André",
-      "Rochat Numa"
-    ],
-    "Inspecteur des montagnes": [
-      "Rochat Jules-Jérémie"
-    ],
-    "Instituteurs": [
-      "Guignard Victor",
-      "Piguet Henriette"
-    ],
-    "Laitiers": [
-      "Rochat Jules",
-      "Société de laiterie"
-    ],
-    "Maréchal": [
-      "Meyer Walther"
-    ],
-    "Menuisiers": [
-      "Fahler Charles",
-      "Périllard Alfred et Louis"
-    ],
-    "Pêcheurs": [
-      "Rochat Adrien",
-      "Rochat Charles",
-      "Rochat Emile",
-      "Rochat Eugène",
-      "Rochat Jules-Isaac",
-      "Rochat Louis de Léon",
-      "Rochat Valéry"
-    ],
-    "Pension": [
-      "Golay John"
-    ],
-    "Sage-femme": [
-      "Rochat-Roulet Augustine"
-    ],
+  "VILLE DE VEVEY": {
     "Sociétés": [
-      "de laiterie. R.",
-      "Tir aux armes de guerre. R.",
-      "Chorales < Les Amis du Cercle du Pont > et < l'Echo du Risoud >",
-      "de gymnastique",
-      "Syndicat agricole. R.",
-      "Rochat James",
-      "Rochat Ch.-Ls"
+      "Schmitz frères",
+      "Thorens Gustave père",
+      "Thorens G., fils",
+      "Turini & Cantoni"
     ],
-    "Tailleuse": [
-      "Golay Hortense"
+    "Peintres en voitures et enseignes.": [
+      "Schmitz frères"
     ],
-    "Téléphoniste": [
-      "Rochat, Vve de Samuel"
+    "Pelleteries et fourrures.": [
+      "« Au Tigre Royal », Maison Schlinger",
+      "Fritsché, Ch.",
+      "Gaudard M. et fils",
+      "Glatz-Huber M."
     ],
-    "Vacherins (march. de)": [
-      "Candaux-Golay",
-      "Golay John & Cie",
-      "Rochat-Morro Camille",
-      "Rochat, les fils de Jules-M.",
-      "Rochat Wilfrid. fils",
-      "Rochat Jules"
+    "Pensions alimentaires.": [
+      "Bachmann Louise",
+      "Coste, Vve, Mme",
+      "Cottier Henri",
+      "Détez Jules-Joseph",
+      "Dorner Nancy",
+      "Genoud François",
+      "Henchoz, Mme",
+      "Jordan Eugène",
+      "Maillard, dame",
+      "Morel, Vve",
+      "Morvant René",
+      "Overnay François",
+      "Piretti Victor",
+      "Terretaz Ephise",
+      "Vernaz Rosa",
+      "Wexler Joseph-Xavier",
+      "Zaugg Rosa"
     ],
-    "Vins (march. de)": [
-      "Golay John",
-      "Rochat Alphonse fils"
+    "Pensionnats de demoiselles.": [
+      "Chamorel Eugénie",
+      "Fox, miss",
+      "Guillermet, dame, & Chart, miss",
+      "Rossier, Mmes",
+      "Schindler, Mlle"
     ],
-    "Voituriers": [
-      "Golay Albert",
-      "Rochat Charles",
-      "Rochat Jules-Louis",
-      "Rochat Robert",
-      "Rochat Marius"
+    "Pensionnats de jeunes gens.": [
+      "Corthésy Eug.",
+      "Sillig Max"
     ],
-    "Volailles, poissons et primeurs": [
-      "Rochat-Perret Eugène",
-      "Ziörjen Frédéric"
+    "Pensions-familles.": [
+      "Bähler, Mlle",
+      "Beausire-Cornu, Mme",
+      "Germond. dame",
+      "Lambert M.. Mlle",
+      "Mettauer Marie-Anna. Mme",
+      "Nicole Anna. Mme",
+      "Revillard Cl. (messieurs)",
+      "Rochat E.",
+      "Ryffel, dame"
     ],
-    "Contre-pivots": [
-      "Golay Alfr.",
-      "Lugrin-Rochat Léon & fils",
-      "Rochat Albin",
-      "Rochat Ch.-Ls fils",
-      "Rochat frères",
-      "Rochat Victor"
+    "Perles fines (imitation).": [
+      "Zintgraff Ernest"
     ],
-    "Découpages": [
-      "Rochat Albin",
-      "Rochat Wilfrid"
+    "Pharmaciens.": [
+      "Bloch Jean-Jacques",
+      "Breuer-Lentès",
+      "Dessemontet Louis",
+      "Germond Pierre",
+      "Hansen N.",
+      "Morel Alice, Dlle, Pharmacie anglaise British and American Pharmacy",
+      "Vitek Jos."
     ],
-    "Ecuelles et tenons": [
-      "Golay Alfred",
-      "Rochat Charles-Louis, fils"
+    "Photographes.": [
+      "Cornaro Mad., Vve",
+      "Oberlin Lucien",
+      "Marolf Alf.",
+      "Thalmann Jacques",
+      "Rieder E."
     ],
-    "Fournitures": [
-      "Golay-Rochat Alfred",
-      "Lugrin-Rochat Léon & fils",
-      "Rochat Ch.-Louis, fils"
+    "Photographies (fournitures pour).": [
+      "Fransioli Joseph",
+      "Oberlin Lucien",
+      "Recordon Paul",
+      "Rieder E."
     ],
-    "Pierriste": [
-      "Humberset C."
+    "Pianos (march. et facteurs de).": [
+      "Demierre François",
+      "Fœtisch frères (S.A.)",
+      "Kerkow Waliska"
     ],
-    "Scierie": [
-      "Rochat Jules-Louis"
+    "Pierres fines.": [
+      "Fell Louis",
+      "Steffen Jean"
     ],
-    "Sertissages": [
-      "Golay Alfred",
-      "Lugrin-Rochat Léon & fils",
-      "Rochat frères",
-      "Rochat Ch.-Louis, fils",
-      "Rochat Albin",
-      "Rochat Camille",
-      "Rochat Hector-Albert",
-      "Rochat Jules-Isaac"
-    ]
-  },
-  "Le Séchey": {
-    "Président du Conseil général": [
-      "Dépraz William"
+    "Poêliers.": [
+      "Brunet François",
+      "S. A. Emile Pastore",
+      "Visconti Henri"
     ],
-    "Secrétaire": [
-      "Buffat Alb.",
-      "Villard Fernand"
+    "Poids et mesures.": [
+      "Ormond L."
     ],
-    "Président du hameau": [
-      "Meylan Henri"
-    ],
-    "Boursier": [
-      "Nicole Alfred"
-    ],
-    "Agriculteurs": [
-      "Dépraz Emile",
-      "Dépraz Elie",
-      "Dépraz Henri",
-      "Dépraz William",
-      "Golay Irmin",
-      "Lugrin frères",
-      "Meylan Eugène",
-      "Meylan Henri",
-      "Nicole Marcel",
-      "Villard Arthur"
-    ],
-    "Amodiateurs": [
-      "Dépraz William",
-      "Lugrin frères",
-      "Nicole Marcel"
-    ],
-    "Associations mutualistes de retraite": [
-      "Capt D."
-    ],
-    "Buraliste postal et facteur": [
-      "Nicole Alfred"
-    ],
-    "Cafetier": [
-      "Viquerat Germain"
-    ],
-    "Chef de gare": [
-      "Golay Laurent"
-    ],
-    "Combustibles": [
-      "Meylan Jean"
-    ],
-    "Commission scolaire": [
-      "Meylan Henri"
-    ],
-    "Epicerie, mercerie, tabacs": [
-      "Dépraz Elie",
-      "Meylan Camille"
-    ],
-    "Forestiers": [
-      "Meylan Eugène",
-      "Meylan Henri"
-    ],
-    "Fromageurs": [
-      "Dépraz Valéry",
-      "Golay Arnold",
-      "Meylan Albert"
-    ],
-    "Garde-police": [
-      "Grandchamp François"
-    ],
-    "Horlogerie": [
-      "Meylan Jean"
-    ],
-    "Inspecteur du bétail": [
-      "Dépraz William"
-    ],
-    "Instituteurs": [
-      "Capt Daniel",
-      "Buffat Elise"
-    ],
-    "Miel": [
-      "Dépraz-Rochat Emile"
-    ],
-    "Téléphoniste": [
-      "Viquerat Germain"
-    ],
-    "Vacherins": [
-      "Dépraz Valéry",
-      "Dépraz William",
-      "Lugrin-Cart, hoirie",
-      "Lugrin Hermann"
-    ],
-    "Vins (md de)": [
-      "Lugrin-Cart, Vve"
-    ],
-    "Divers": [
-      "Aubert Ed. & Cie"
+    "Pompes funèbres (directeur des).": [
+      "Burki Charles fils"
     ]
   }
 }

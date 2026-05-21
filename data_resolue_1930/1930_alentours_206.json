@@ -1,123 +1,114 @@
 {
-  "DISTRICT DU PAYS-D'ENHAUT": {
-    "Préfet": [
-      "Dubuis Alphonse"
+  "VILLE DE NYON": {
+    "Sociétés.": [
+      "Grandjean, Mme",
+      "Herbez-Schur Rosa",
+      "Jaquinet Marthe, Mlle",
+      "Jaton-Jaquinet, dame",
+      "Maréchaux Sophie",
+      "Wehrli A., dame",
+      "» de tir de Nyon.",
+      "» » Le Drapeau fédéral.",
+      "Stade nyonnais Foot-ball club.",
+      "espérantiste Nyona Grupo.",
+      "anonyme de la fabrique de vis.",
+      "anonyme Th. Mühlethaler (parfums).",
+      "» philanthropique française.",
+      "» des anciens Zofingiens.",
+      "» italienne de secours mutuels.",
+      "» d'aviculture.",
+      "» d'horticulture de La Côte.",
+      "Section de la Croix-Bleue",
+      "Syndicat agricole",
+      "Syndicat des ouvriers métallurgistes",
+      "» chevalin de Nyon",
+      "Union chrétienne de jeunes gens"
     ],
-    "Substitut": [
-      "Bovay Ls",
-      "Chabloz Ami"
+    "Tabacs et cigares.": [
+      "Berger Edouard",
+      "Froidevaux Armand",
+      "Golay Louis",
+      "Granger Marc (gros)",
+      "Morel Adèle",
+      "Naville et Cie",
+      "Pinget François",
+      "Piguet Auguste",
+      "Portay Antoinette",
+      "Ziörjen Sidonie"
     ],
-    "Receveur": [
-      "Henchoz Ele"
+    "Tailleurs.": [
+      "Balik Antoine",
+      "Bestrzynski (dames)",
+      "Bleuer Jean",
+      "Décosterd Ed.",
+      "Heim Alexandre",
+      "Richli Jean",
+      "Steiner Henri"
     ],
-    "Conservateur du registre foncier": [
-      "Dubuis-Martin J."
+    "Tailleuses.": [
+      "Aebi-Olivier, dame",
+      "Batisse, dame",
+      "Bertholet Caroline",
+      "Bertholet-Bezinge Germaine-Olga",
+      "Bestrzynski L.",
+      "Croisier-Jaquinet Alice",
+      "Declerck Anne",
+      "Dorier Henri, dame",
+      "Golay, dame"
     ],
-    "Voyer du XIIIe arrondissement": [
-      "Ganty-Berney Louis"
+    "Tanneurs.": [
+      "Richard Julien & Cie"
     ],
-    "Tribunal de district": [
-      "Barraud Hermann",
-      "Paschoud Eugène",
-      "Baux Louis",
-      "Rayroud Alexis",
-      "Marmillod-Henchoz Ami",
-      "Turrian Victor",
-      "Simon Alfred"
+    "Tapissiers.": [
+      "Curchod Henri",
+      "Graber Robert",
+      "Muller Gottfried",
+      "Muller Edouard",
+      "Noguet Louis",
+      "Vœlter Wilhelm"
     ],
-    "Poursuites et faillites": [
-      "Bigler Marcel"
-    ]
-  },
-  "CHATEAU-D'OEX": {
-    "Président du Conseil communal": [
-      "Morier-Genoud Gabriel"
+    "Teinturerie.": [
+      "Baechler F. & E. frères",
+      "Manz Eugène",
+      "Maurer A."
     ],
-    "Secrétaire": [
-      "Lavanchy Charles",
-      "Morier-Genoud Philippe"
+    "Télégraphe et téléphone.": [
+      "Gamboni Louis, chef"
     ],
-    "Syndic": [
-      "Favrod-Coune Ch. fils"
+    "Tonneliers.": [
+      "Dupontet Alphonse",
+      "Schneider Joseph"
     ],
-    "Municipaux": [
-      "Isoz Henri",
-      "Chabloz-Scherer Ami",
-      "Gétaz-Ramel Louis",
-      "Henchoz Isaac",
-      "Chapalay Elisée",
-      "Pilet-Bertholet Alfred"
+    "Tourneurs sur bois.": [
+      "Bertinotti Constant",
+      "Lauber Antoine"
     ],
-    "Boursier": [
-      "Roch Charles"
+    "Tripier.": [
+      "Pfenniger Arnold"
     ],
-    "Agent de police": [
-      "Turrian D."
+    "Verrerie (vente de).": [
+      "Bélaz Ami",
+      "Gamboni V. & sœur",
+      "Frutiger Fritz",
+      "Kæppeli Hermann",
+      "Veuillet, Vve de Franç."
     ],
-    "Affichage": [
-      "Société générale d'affichage"
+    "Vétérinaires.": [
+      "Borel Henri",
+      "Longet William"
     ],
-    "Agent d'affaires patenté": [
-      "Chabloz Ch."
+    "Vins (march. de).": [
+      "Bardet Charles",
+      "Dupontet Alphonse",
+      "Golay Paul",
+      "Rigoni Charles",
+      "Rosset-Jan, Vve d'Henri",
+      "Schneider Jos.",
+      "Weder Gustave",
+      "Zwahlen, Vve de F."
     ],
-    "Agriculteurs": [
-      "Allamand-Lenoir Louis",
-      "Auberson John",
-      "Baux-Desquartiers L.",
-      "Berthod Ernest",
-      "Blum Emile",
-      "Bornet Paul",
-      "Bricod Aloïs",
-      "Chapalay David",
-      "Chapalay Samuel",
-      "Chapalay Henri",
-      "Dæntzer Fritz",
-      "Descoulaves Pierre",
-      "Desquartiers Constant",
-      "Favre-Joliquin John",
-      "Gétaz-Ramel",
-      "Henchoz Isaac",
-      "Henchoz John",
-      "Henchoz-Isoz Henri",
-      "Henchoz-Roch Benjamin",
-      "Henchoz-Rosat Edouard",
-      "Henchoz-Pilet Clément",
-      "Henchoz-Yersin L.",
-      "Isoz David",
-      "Isoz-Bertholet Alfred",
-      "Karlen-Turrian S.",
-      "Kiener Emile, père et fils",
-      "Lenoir Joël et David",
-      "Lenoir Samuel, fils",
-      "Linder-Rosat Samuel",
-      "Morier-Lenoir Aloïs",
-      "Morier-Karlen Henri",
-      "Mottier-Gétaz Isaac",
-      "Mottier-Roch Odoni",
-      "Mottier Samuel",
-      "Mottier Alfred",
-      "Mottier-Cottier Aloïs",
-      "Mottier David",
-      "Mottier Oscar",
-      "Mottier, hoirs.",
-      "Mottier-Lempen E.",
-      "Müller Pierre",
-      "Pilet Eugène",
-      "Ramel Auguste",
-      "Ramel Edouard",
-      "Raynaud Emile",
-      "Roch-Henchoz Emile",
-      "Roch-Lenoir Emile",
-      "Roch-Leu Louis",
-      "Roch-Roch Alfred",
-      "Rosat-Chabloz Victor",
-      "Rosat Henri",
-      "Rosat-Mottier, hoirie d'Ami.",
-      "Rossier Paul",
-      "Schenk Gottfried",
-      "Tille Auguste",
-      "Zulauff-Henchoz Louis",
-      "Zulauff Ami"
+    "Vis (fab. de).": [
+      "Fabrique de vis de Nyon (S.A.)"
     ]
   }
 }

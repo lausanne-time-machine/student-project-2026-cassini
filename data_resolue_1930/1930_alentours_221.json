@@ -1,127 +1,212 @@
 {
-  "Ville de Rolle": {
-    "Inspecteur forestier.": [
-      "Aubert-Bugnot Frank. T."
+  "SAINT-CERGUE": {
+    "Télégraphiste et téléphoniste": [
+      "Jaquenoud Alfred"
     ],
-    "Installations sanitaires.": [
-      "Armand Pahud & Cie"
+    "Voituriers": [
+      "André Louis-Abram",
+      "André Ch.",
+      "André, hoirie",
+      "Gonin Louis",
+      "Mayet John",
+      "Monnard Alfred",
+      "Tissot Marcel"
     ],
-    "Instituteurs primaires.": [
-      "Reymond Emmanuel",
-      "Yersin Henri",
-      "Bally Marie",
-      "Clerc Madeleine",
-      "Golay Violette",
-      "Widmayer, Dlle"
+    "Divers": [
+      "Burhop E.",
+      "Denis F.",
+      "Eindiguer Eug.",
+      "Poujoulat P."
+    ]
+  },
+  "LA CURE": {
+    "Aubergistes": [
+      "Arbez Jules",
+      "Paget-Blanc Clarisse, Vve de Paul",
+      "Tissot Marie, Vve de Raymond"
     ],
-    "Instituteurs secondaires.": [
-      "Tripod Albert",
-      "Delisle Edgar",
-      "Jéquier Walther",
-      "Stein Félix",
-      "Rusillon Marguerite"
+    "Buraliste-télégraphiste": [
+      "Junod Charles"
     ],
-    "Institutrices d'écoles particulières.": [
-      "Hurlimann, Mlle.",
-      "Yersin Emma."
+    "Epicerie, mercerie, tabacs": [
+      "Arbez Jules",
+      "Chevassus Félix",
+      "Monnier Agathe",
+      "Paget-Blanc Clarisse, Vve de Paul",
+      "Vandelle, Vve de Léon",
+      "Vandelle Prudent, fils de Gabriel",
+      "Vandelle Prud."
     ],
-    "Instituts.": [
-      "Amiguet Alf.",
-      "Le Rosey, S.A.",
-      "Dedie Charles",
-      "Institut commercial catholique",
-      "Vuadens René"
+    "Forestier": [
+      "Bovay Lucien"
     ],
-    "Instruments de précision.": [
-      "Roch P."
+    "Divers": [
+      "Vandelle Jules"
+    ]
+  },
+  "SIGNY": {
+    "Autorités communales": [
+      "Steiner Paul",
+      "Miaz Julien",
+      "Crausaz Eugène",
+      "Baumgartner Robert",
+      "Miaz Charles",
+      "Pariat Louis",
+      "Blanchard François",
+      "Miaz Julien",
+      "Pariat L."
     ],
-    "Jardiniers.": [
-      "Brossy François",
-      "Chanson Paul",
-      "Praetorius W.",
-      "Roy Paul",
-      "Sauvain"
+    "Agriculteurs": [
+      "Baumgartner Robert",
+      "Blanchard François",
+      "Crausaz Eug.",
+      "Guisan Henri",
+      "Miaz Chs",
+      "Pariat Georges",
+      "Pariat Louis",
+      "Parisod Alfred",
+      "Tecon Jules"
     ],
-    "Journaux.": [
-      "Feuille d'Avis de la Côte",
-      "Gueissaz G.",
-      "Journal de Rolle",
-      "Rod Félix",
-      "Cherix, Vve d'Ed."
+    "Aubergiste": [
+      "Glaus-Thuner G."
     ],
-    "Justice de paix.": [
-      "Cerex Georges",
-      "Cauderay-Chenevard Louis",
-      "Martin Auguste",
-      "Jaggi Henri",
-      "Gallay Jules",
-      "Burky Auguste"
+    "Bureau de poste": [
+      "Miaz Louise, Vve."
     ],
-    "Lainerie.": [
-      "Divorne Esther",
-      "Le Louvre",
-      "Richard Ida",
-      "Yersin-Rochat B."
+    "Commission scolaire": [
+      "Miaz Charles"
     ],
-    "Laiteries.": [
-      "Gervaix H.",
-      "Rochat Alfred"
+    "Epicerie": [
+      "Dubois Jeanne"
     ],
-    "Librairies-papeteries.": [
-      "Faasch, Vve de Ch.",
-      "Gueissaz Georges"
+    "Inspecteur du bétail": [
+      "Jaton Lucien"
     ],
-    "Lingères.": [
-      "Buess, Mme.",
-      "Divorne Esther",
-      "Richard Ida",
-      "Yersin-Rochat B."
+    "Instituteur": [
+      "Corbaz René"
     ],
-    "Liqueurs.": [
-      "Held-Perreten Ch."
+    "Laitier": [
+      "Baudraz François"
     ],
-    "Lunetterie.": [
-      "Droz-Georget G.",
-      "Hurter Jacob"
+    "Maréchal": [
+      "Blanchard Eugène"
     ],
-    "Machines à coudre.": [
-      "Tattet L."
+    "Société": [
+      "de fromagerie de Grens et Signy",
+      "S. A. pour entreprises agricoles et forestières"
     ],
-    "Maréchal.": [
-      "Brändli François"
+    "Téléphone": [
+      "Glaus-Thuner G."
     ],
-    "Matériaux de construction.": [
-      "Sabac, S. A."
+    "Vignerons": [
+      "Blanchard Emile",
+      "Hählen Louis",
+      "Steiner Paul"
+    ]
+  },
+  "TANNAY": {
+    "Autorités communales": [
+      "Dutoit François",
+      "Coderay Jules",
+      "Cottier Albert",
+      "Semoroz Ami",
+      "Perrottet Emile",
+      "Dutoit Louis",
+      "Baatard Ls",
+      "Baud Samuel",
+      "Semoroz César",
+      "Aubert Julien"
     ],
-    "Mécaniciens.": [
-      "Gauthey Edmond",
-      "Rosset Albert",
-      "Rusillon Georges",
-      "Ulliel Gaston"
+    "Agriculteurs": [
+      "Baud Samuel",
+      "Buffat Alphonse",
+      "Coderey Ch.",
+      "Cottier Albert",
+      "Dutoit François",
+      "Hermenjat John",
+      "Jeanloz Charles",
+      "Sauty Marcel",
+      "Semoroz Ami",
+      "Semoroz César"
     ],
-    "Médecins.": [
-      "Ceresole Gustave",
-      "Teysseire E."
+    "Aubergistes": [
+      "Guignet Emile",
+      "Perretten Louis"
     ],
-    "Menuisiers.": [
-      "Burnier Jules",
-      "Cretin-Sartoretti M.",
-      "Haldi A.",
-      "May Albert",
-      "Mottaz Julien",
-      "Pittet Paul",
-      "Roquerbre Rodolphe",
-      "Zumstein Franz",
-      "Pointet Ferdinand"
+    "Entrepreneur": [
+      "Simond Julien"
     ],
-    "Mercerie.": [
-      "Au Louvre",
-      "Maus frères & Cie.",
-      "Divorne Esther",
-      "Ducret Marcel",
-      "Richard Ida",
-      "Voiblet Berthe",
-      "Yersin-Rochat B."
+    "Epicerie": [
+      "Perrottet Emile"
+    ],
+    "Inspecteur du bétail": [
+      "Coderey Charles"
+    ],
+    "Instituteurs": [
+      "Besté Adrien",
+      "Guldenschu Marcelle"
+    ],
+    "Machines agricoles": [
+      "Hermenjat John"
+    ],
+    "Mécaniciens": [
+      "Dutoit L. & Cie"
+    ],
+    "Rentier": [
+      "Duvillard Juliette"
+    ],
+    "Divers": [
+      "Duvillard Alice",
+      "Cottier Louisa",
+      "Longchamp Berthe"
+    ]
+  },
+  "TRELEX": {
+    "Autorités communales": [
+      "Duboulet Alfred",
+      "Javet Héli",
+      "Bory Ami",
+      "Duboulet Louis",
+      "Aegerter Charles",
+      "Morax Alfred",
+      "Golaz Gustave",
+      "Eberhardt Edouard",
+      "Vanat Auguste",
+      "Galé Ch.",
+      "Amiguet Elie"
+    ],
+    "Agent de police": [
+      "Moret Alfred"
+    ],
+    "Agriculteurs": [
+      "Aebi Alb.",
+      "Aegerter Ch.",
+      "Berney Ami",
+      "Bolay William",
+      "Bory Ami",
+      "Bory John",
+      "Bossey Alph.",
+      "Bossey Charles",
+      "Chollet Louis",
+      "Desponds Charles",
+      "Duboulet Alfred",
+      "Duboulet Ami",
+      "Dumartheray Marc",
+      "Eberhardt Edouard",
+      "Galé Auguste",
+      "Galé Charles",
+      "Galé François",
+      "Galé John",
+      "Golaz Gustave",
+      "Guignet Henri",
+      "Javet Héli",
+      "Moinat frères",
+      "Morax Alfred",
+      "Morax Ls",
+      "Ravenel John",
+      "Reichenbach Ls",
+      "Urfer Jean",
+      "Zaug Alfred"
     ]
   }
 }

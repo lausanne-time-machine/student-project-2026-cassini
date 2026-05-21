@@ -1,190 +1,195 @@
 {
-  "TRELEX": {
-    "Amodiateurs": [
-      "Bory Ami",
-      "Bory John",
-      "Galé Auguste. R.",
-      "Moinat frères"
+  "Lutry": {
+    "Tailleur (marchand)": [
+      "Grote-Fischer Henri"
     ],
-    "Apiculteurs": [
-      "Courvoisier Aimé. T.",
-      "Détraz François"
+    "Tailleuses": [
+      "Bastian Emma",
+      "Détraz Elisa",
+      "Hoffmann Sophie"
     ],
-    "Associations mutualistes de retraite": [
-      "Courvoisier A."
+    "Tapissier": [
+      "Beausire René"
     ],
-    "Aubergistes": [
-      "Centlivre, Vve",
-      "Perrochon Ls"
+    "Télégraphiste": [
+      "Paschond-Viret Ch."
     ],
-    "Bétail (march. de)": [
-      "Galé Aug. R."
+    "Téléphone public": [
+      "Lavanchy A."
     ],
-    "Boulangerie": [
-      "Eberhardt Vve. R."
+    "Tonneliers": [
+      "Bucher Isidore",
+      "Hoffmann Adolphe"
     ],
-    "Buraliste postal": [
-      "Amiguet Elie"
+    "Usine à gaz": [
+      "Lohner & Cie."
     ],
-    "Chef de section": [
-      "Courvoisier Aimé"
+    "Vélos": [
+      "Barman Séraphin",
+      "Lavanchy A."
     ],
-    "Commission scolaire": [
-      "Galé John",
-      "Galé Charles",
-      "Vanat Auguste"
+    "Vétérinaire": [
+      "Bron Hector"
     ],
-    "Cordonniers": [
-      "Détraz François",
-      "Patthey Ulysse"
+    "Vins (mds de)": [
+      "Associat. viticole",
+      "Bujard L.. Vve & fils",
+      "Cuénoud frères",
+      "Mégroz René",
+      "Séchaud Julien"
     ],
-    "Couturières": [
-      "Annen Jeanne",
-      "Galé Jenny",
-      "Martin Lina",
-      "Vanat Adèle"
+    "Voituriers": [
+      "Bolomey Robert",
+      "Bolomey Louise. Vve et fils",
+      "Bolomey Oscar"
     ],
-    "Entrepreneurs": [
-      "Daglia-Saléro Ls. T.",
-      "Dumartheray Henri"
-    ],
-    "Epicerie, mercerie, tabacs": [
-      "Diserens Emile. T.",
-      "Meystre Ch.",
-      "Ravenel John. R."
-    ],
-    "Inspecteur du bétail": [
-      "Reichenbach Louis"
-    ],
-    "Instituteurs": [
-      "Dépassel Louis.",
-      "Morel Evelyne"
-    ],
-    "Jardiniers": [
-      "Budry Charles",
-      "Galé Louis"
-    ],
-    "Maçon": [
-      "Dumartheray Henri"
-    ],
-    "Maréchaux": [
-      "Tecon frères"
-    ],
-    "Menuisier": [
-      "Genoud Ernest. T."
-    ],
-    "Pasteur": [
-      "Masson Charles"
-    ],
-    "Pension": [
-      "La Coque"
-    ],
-    "Repasseuse": [
-      "Galé Herminie"
-    ],
-    "Rentiers": [
-      "Buenzod Alfred",
-      "Chollet Henri",
-      "Leydre Jenny",
-      "Pellissier Adeline. T.",
-      "Rufer sœurs"
-    ],
-    "Scieur": [
-      "Zenger Jacob"
-    ],
-    "Sellier": [
-      "Zaug Jules"
-    ],
-    "Sociétés": [
-      "de laiterie. R.",
-      "Laiterie de Trélex, soc. coop. R."
-    ],
-    "Téléphoniste": [
-      "Perrochon Ls"
-    ]
-  },
-  "VICH": {
-    "Autorités communales": [
-      "Forestier Frs",
-      "Hügly Gustave",
-      "Panchaud de Bottens Luc. T.",
-      "Rossier Albert",
-      "Tritten Oscar",
-      "Golay Fernand",
-      "Falconnier Charles",
-      "Charbonnier Auguste"
-    ],
-    "Agriculteurs": [
-      "Aubert Alfred",
-      "Caboussaz Ernest. T.",
-      "Fonjallaz Maurice",
-      "Morax Albert",
-      "Rossier Albert",
-      "Tritten Oscar. T."
-    ],
-    "Aubergiste": [
-      "Piot Marcel. T."
-    ],
-    "Bois": [
-      "Forestier François. R."
-    ],
-    "Boulanger": [
-      "Chevalley Henri"
-    ],
-    "Buraliste postal": [
-      "Remund Jules"
-    ],
-    "Commission scolaire": [
-      "Falconnier",
-      "Mlle Dumas",
-      "Mlle Franckfort",
-      "Berthet Edouard"
-    ],
-    "Cordonnier": [
-      "Bozonetti Joseph"
-    ],
-    "Epicerie": [
-      "Aubert-Croisier Charles. R.",
-      "Destraz Henri. R."
-    ],
-    "Hongreur": [
-      "Falconnier Charles. T."
-    ],
-    "Inspecteur du bétail": [
-      "Hédiger Paul"
-    ],
-    "Instituteurs": [
-      "Pahud Emile",
-      "Guex-Isoz Marcelle"
-    ],
-    "Pépiniériste-viticulteur": [
-      "Caboussaz Ernest"
-    ],
-    "Pisciculture": [
-      "Burnens Henri"
-    ],
-    "Scierie": [
-      "Forestier François. RT."
-    ],
-    "Sellier": [
-      "Favre Henri"
-    ],
-    "Société": [
-      "Société du battoir à blé. R."
-    ],
-    "Tailleuse": [
-      "Francfort Louise"
-    ],
-    "Téléphone": [
-      "Auberge communale"
-    ],
-    "Vignerons": [
-      "Hügly Gustave",
-      "Pasche Henri",
-      "Tappaz Jules"
+    "Volailles": [
+      "Testuz-Pache"
     ],
     "Divers": [
-      "Dumas M., Mlle"
+      "Brandenburg Aug.",
+      "Doret Gustave",
+      "Duvoisin Auguste",
+      "Ganty-Gozel Ch.",
+      "Fonjallaz Arthur",
+      "Gœtschmann Maurice",
+      "Lavanchy-Détraz Ch.",
+      "Marucci J.",
+      "Matti R."
+    ]
+  },
+  "PUIDOUX": {
+    "Président du Conseil communal": [
+      "Cossy Edouard"
+    ],
+    "Secrétaire": [
+      "Desgraz Georges",
+      "Chappuis Jean"
+    ],
+    "Syndic": [
+      "Chevalley Louis"
+    ],
+    "Municipaux": [
+      "Grandchamp Félix",
+      "Chevalley Victor",
+      "Longchamp-Dénéréaz Emile",
+      "Leyvraz Emile",
+      "Gilliéron Emile",
+      "Chevalley Louis"
+    ],
+    "Huissier": [
+      "Leyvraz Fr."
+    ],
+    "Boursier": [
+      "Murisier Max."
+    ],
+    "Abattoir agricole": [
+      "Maillard E. T."
+    ],
+    "Agriculteurs": [
+      "Chevalley Ami",
+      "Chevalley Paul",
+      "Muller Paul",
+      "Chappuis Aimé",
+      "Chappuis Félix",
+      "Chevalley François",
+      "Chevalley frères",
+      "Chevalley Louis",
+      "Cossy Edouard",
+      "Leyvraz B.",
+      "Leyvraz Emile",
+      "Rogivue Frs."
+    ],
+    "Société mutualiste": [
+      "Chappuis Jean"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Ducret J."
+    ],
+    "Auberges et cafés": [
+      "Duc André",
+      "Gothuez Amédée",
+      "Meyer Edouard",
+      "Palaz Alice",
+      "Fonjallaz Hélène",
+      "Hofmann E.",
+      "Robert André"
+    ],
+    "Bétail (marcht de)": [
+      "Weber Hri."
+    ],
+    "Bois (march. de)": [
+      "Dénéréaz Emile"
+    ],
+    "Cremières": [
+      "Penard Aloïs"
+    ],
+    "Boulangers": [
+      "Chaubert Hermann",
+      "Karlen Louis"
+    ],
+    "Charretiers": [
+      "Chevalley Ami",
+      "Gilliéron Emile",
+      "Lambelet Jean",
+      "Leyvraz Fritz"
+    ],
+    "Charpentier": [
+      "Lambelet Henri"
+    ],
+    "Charrons": [
+      "Dutoit C.",
+      "Sunier Gaston"
+    ],
+    "Chef de section": [
+      "Crot Edouard"
+    ],
+    "Commission scolaire": [
+      "Leyvraz Emile",
+      "Jaunin Maurice",
+      "Chappuis Emile",
+      "Chevalley Aloïs",
+      "Lambelet Vinct."
+    ],
+    "Cordonniers": [
+      "Barbey Marius",
+      "Légeret Alfred"
+    ],
+    "Crieur public": [
+      "Mosimann Th."
+    ],
+    "Epicerie. mercerie": [
+      "Chaubert Hermann",
+      "R. Décosterd",
+      "Karlen Louis",
+      "Lätt François"
+    ],
+    "Eaux de Bret": [
+      "Chevalley Gustave"
+    ],
+    "Farines (comm. de)": [
+      "Chaubert Hermann"
+    ],
+    "Graines": [
+      "Lätt François",
+      "Murisier Elvire"
+    ],
+    "Hôtels-pensions": [
+      "Von Gunten Paul",
+      "Palaz Alice"
+    ],
+    "Inspecteurs du bétail": [
+      "Chevalley Victor",
+      "Chevalley Paul",
+      "Jaunin Maurice"
+    ],
+    "Instituteurs": [
+      "Ducret John",
+      "Delessert Ed.",
+      "Simonin Arthur",
+      "Gilliard Alf.",
+      "Stehli Louisa",
+      "Viret Vivienne"
     ]
   }
 }

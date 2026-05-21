@@ -1,234 +1,100 @@
 {
-  "Ville d'Aigle": {
-    "Lustrerie (fabr. de)": [
-      "Section de la Croix-Bleue",
-      "la Persévérance, musique",
-      "Société d'auto-transports S. A."
+  "MONTREUX": {
+    "Comptables (experts)": [
+      "Chappuis Arnold",
+      "Furer Pierre",
+      "Légeret Chs.",
+      "Vogt-Stebler P."
     ],
-    "Tailleur.": [
-      "Hänni Fritz"
+    "Comptoir avicole": [
+      "de Siebenthal"
     ],
-    "Tailleuses.": [
-      "Hoffer Marie",
-      "Matthey Marie",
-      "Quartier Mahilde",
-      "von Gunten Aline"
+    "Confections (magasins)": [
+      "Aeschbacher Louisa",
+      "A la Rouvenaz, S. A.",
+      "Au Bonheur des Dames",
+      "Bergien frères",
+      "Bloch Léon",
+      "Blum Bertha, Vve",
+      "Brunschwig Arthur",
+      "Brunschwig & Cie",
+      "Collet Adélaïde",
+      "Emery-Béguelin",
+      "Felchlin Martin",
+      "Ferrero Jeanne",
+      "Genton, Mlle",
+      "Hermann-Furer Emma",
+      "A l'Innovation",
+      "Lang-Geismar",
+      "Maggi Joseph & Cie",
+      "Mancia Ubaldo",
+      "Minola Marcel",
+      "Margot Charles",
+      "Moore O.",
+      "Moos Jeanne",
+      "Omodei Louis",
+      "Petrei Antoine",
+      "Raphaël Julien",
+      "Schmoker-Genoud J.",
+      "Schüpbach Fritz",
+      "Stebler E.",
+      "Weber"
     ],
-    "Teinturerie.": [
-      "Richard Georges"
+    "Confiseurs": [
+      "Biedermann J.",
+      "Demont A.",
+      "Detrey Oscar",
+      "Dupertuis Rodolphe",
+      "Eggimann",
+      "Eichmüller Jean",
+      "Geier Edouard",
+      "Hofer Hermann",
+      "Hofer sœurs",
+      "Ingold-Spahn",
+      "Kauert Albert",
+      "Kauert Amélie",
+      "Muller-Blanc",
+      "Rickli Georges",
+      "Sehrt Henri",
+      "Schneider Elisabeth",
+      "Zurbrügg, Mlle",
+      "Zurcher Arnold"
     ],
-    "Télégraphe et téléphone.": [
-      "Desaules Ernest"
+    "Conservatoires de musique": [
+      "de Ribaupierre E.",
+      "Académie de musique",
+      "Vuille A."
     ],
-    "Toilerie, mercerie.": [
-      "Richard Georges"
+    "Consulats": [
+      "Cuénod Marcel"
     ],
-    "Tonnelier.": [
-      "Troutot Eugène"
-    ],
-    "Voituriers.": [
-      "Desaules & Vassaux",
-      "Société des Auto-Transports de Cudrefin S. A."
-    ]
-  },
-  "DONATYRE": {
-    "Syndic": [
-      "Raymond Auguste"
-    ],
-    "Municipaux": [
-      "Senaud Louis",
-      "Butikofer Jean",
-      "Maybach Osc.",
-      "Hoffer Charles"
-    ],
-    "Secrétaire": [
-      "Bigler Emile"
-    ],
-    "Boursier": [
-      "Maybach Oscar"
-    ],
-    "Agriculteurs.": [
-      "Butikofer Jean",
-      "Fluhmann Christ.",
-      "Hofer Charles",
-      "Raymond Louis",
-      "Raymond, hoirie d'Ed.",
-      "Rentsch Théod.",
-      "Seiber Gottfr.",
-      "Sterki Jean"
-    ],
-    "Bois.": [
-      "Martin Eugène"
-    ],
-    "Boulanger.": [
-      "Conus Jules-Louis"
-    ],
-    "Café.": [
-      "Guillod Eugène",
-      "café du Chasseur"
-    ],
-    "Commission scolaire.": [
-      "de Weiss Alb.",
-      "Maybach Oscar"
-    ],
-    "Epicerie, mercerie, tabacs.": [
-      "Conus Jules-Louis",
-      "Gigaud Paul"
-    ],
-    "Facteur-dépositaire.": [
-      "Gigaud Nancy"
-    ],
-    "Instituteurs.": [
-      "Marguerat Charles",
-      "Schmidt Valentine"
-    ],
-    "Inspecteur du bétail.": [
-      "Maybach Oscar"
-    ],
-    "Laitier.": [
-      "Eymann Ernest"
-    ],
-    "Société.": [
-      "de laiterie"
-    ],
-    "Tailleuses.": [
-      "Raymond-Sonnaillon Lina",
-      "Stalder Germaine"
-    ]
-  },
-  "FAOUG": {
-    "Syndic": [
-      "Cornaz Paul"
-    ],
-    "Municipaux": [
-      "Druey Jules",
-      "Spack Théophile",
-      "Cornaz Fritz",
-      "Krenger Emile"
-    ],
-    "Secrétaire": [
-      "Cornaz César"
-    ],
-    "Boursier": [
-      "Cornaz Juies"
-    ],
-    "Agriculteurs.": [
-      "Beutler Samuel",
-      "Cornaz Auguste",
-      "Desarzens Octave",
-      "Etter Jean",
-      "Hagner Paul",
-      "Kiehl Auguste",
-      "Krenger",
-      "Liniger, Etter & Geiser",
-      "Luginbühl Jacob"
-    ],
-    "Auberges et cafés.": [
-      "Hôtel du Cerf",
-      "Ghehm Emile",
-      "Buffet de la Gare",
-      "Fürst Jacob",
-      "Luginbühl"
-    ],
-    "Appareilleur.": [
-      "Christinat Aimé"
-    ],
-    "Boucher.": [
-      "Gränicher K."
-    ],
-    "Boulangers.": [
-      "Ghehm Emile",
-      "Meyer Fritz"
-    ],
-    "Blanchisseuses.": [
-      "Cornaz Anna",
-      "Cornaz Lina"
-    ],
-    "Buraliste.": [
-      "Fasnacht-Derendingen Mme"
-    ],
-    "Charpentier.": [
-      "Spach Théophile"
-    ],
-    "Charron.": [
-      "Cornaz Jules"
-    ],
-    "Chef de gare.": [
-      "Pauchard Désiré"
-    ],
-    "Chevaux.": [
-      "von Gunten & Ramuz"
-    ],
-    "Commission scolaire.": [
-      "von Gunten Oscar",
-      "Grin Paul"
-    ],
-    "Cordonnier.": [
-      "Derendinger Friedrich"
-    ],
-    "Entrepreneur.": [
-      "Gasparini Paul",
-      "Gasparini-Luginbühl Jacob"
-    ],
-    "Epicerie.": [
-      "Kiehl-Jaques Maurice",
-      "Meier-Schneider",
-      "Meyer Adolphe",
-      "Meyer, Vve de Fritz"
-    ],
-    "Ferblantier-appareilleur.": [
-      "Christinat A."
-    ],
-    "Gravière (expl. de).": [
-      "Kiehl-Jaques Mce"
-    ],
-    "Inspecteur du bétail.": [
-      "Desarzens Oc."
-    ],
-    "Instituteurs.": [
-      "Patthey Wilhelm",
-      "Desarzens-Jaton Sophie"
-    ],
-    "Laitiers.": [
-      "Rœtlisberger & Cie"
-    ],
-    "Maréchal.": [
-      "Grin Paul"
-    ],
-    "Matériaux de construction.": [
-      "Cornaz Paul"
-    ],
-    "Mercerie.": [
-      "Kiehl-Jaques Maurice"
-    ],
-    "Pasteur.": [
-      "L'Host Louis"
-    ],
-    "Pêcheur.": [
-      "Kormann Paul"
-    ],
-    "Pension-famille.": [
-      "Blank-Cornaz Lse Mme"
-    ],
-    "Scierie-bois.": [
-      "Spack Th."
-    ],
-    "Sociétés.": [
-      "Nouvelle Société de laiterie"
-    ],
-    "Tailleuse.": [
-      "Riesen Martha"
-    ],
-    "Tuyaux en ciment (fab. de).": [
-      "Cornaz Paul"
-    ]
-  },
-  "MONTMAGNY": {
-    "Président du Conseil général": [
-      "Loup Georges"
-    ],
-    "Secrétaire": [
-      "Loup Alfr"
+    "Cordonniers": [
+      "Baroli J.",
+      "Bigliotti Ernest",
+      "Blanc Ulysse",
+      "Bonjour Ed.",
+      "Borsari Louis",
+      "Borghese Jean",
+      "Bosson Emile",
+      "Brunner Albert",
+      "Caccia Charles",
+      "Calcagno G.",
+      "Caliri Antoine",
+      "Cellotti Alfred",
+      "Chaussures modernes. S. A.",
+      "Clerc Edward",
+      "Cordonnerie coopérative",
+      "Cretton Hubert",
+      "Conne Paul",
+      "Di Salvo Salvator",
+      "Erb A.",
+      "Filiti G.",
+      "Freymond Louis",
+      "Frosio Jean",
+      "Galli E.",
+      "Gallarotti Louis",
+      "Garin Lucien",
+      "Giacoletto Martino"
     ]
   }
 }

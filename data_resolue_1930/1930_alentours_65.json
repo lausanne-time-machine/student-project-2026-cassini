@@ -1,203 +1,246 @@
 {
-  "BUSSIGNY": {
-    "Horloger": [
-      "Perret René"
+  "LUSSERY": {
+    "Agriculteurs.": [
+      "Borgeaud Alexis",
+      "Collet Francis",
+      "Delessert Aimé",
+      "Delessert hoirie",
+      "Desponds Ad.",
+      "Desponds Félix",
+      "Desponds Frs",
+      "Falconnier Lina",
+      "Guerry Frs",
+      "Mermoud hoirie",
+      "Mermoud Hri",
+      "Perrette Ele",
+      "Perrette Marcel",
+      "Potterat frères",
+      "Tissot Aloys"
     ],
-    "Inspecteur du bétail": [
-      "Neyret Alf."
+    "Apiculteurs.": [
+      "Borgeaud Alexis",
+      "Cart Auguste",
+      "Delessert Louis"
     ],
-    "Instituteurs": [
-      "Favre Alexandre",
-      "Gervaix Nelly",
-      "Magnin Juliette",
-      "Magnenat Marcel",
-      "Barraud Méry"
+    "Aubergiste.": [
+      "Buri Lina"
     ],
-    "Maréchaux": [
-      "Cottier frères",
-      "Jacot Raoul"
+    "Commission scolaire.": [
+      "Desponds Félix",
+      "Mermoud Henri",
+      "Mermoud Marius"
     ],
-    "Mécaniciens": [
-      "Favre H. T.",
-      "Rochat Ph."
+    "Epicerie, mercerie.": [
+      "Pamblanc Marie"
     ],
-    "Médecin": [
-      "Charbonnier Edouard"
+    "Inspecteur du bétail.": [
+      "Mermoud Marius"
     ],
-    "Menuisiers": [
-      "Rey William",
-      "Rossier Louis",
-      "Zürcher Edmond"
+    "Instituteur.": [
+      "Cart Auguste"
     ],
-    "Officier d'état-civil": [
-      "Pittet Charles"
+    "Laitier.": [
+      "Ziorgen Arnold"
     ],
-    "Pensionnat de demoiselles": [
-      "Subilia Anna"
+    "Meunier.": [
+      "Perrette Marcel"
     ],
-    "Produits chimiques agricoles": [
-      "Société Anonyme Agricola"
+    "Poste.": [
+      "Delessert Elise"
     ],
-    "Rentiers": [
-      "Collet Samuel",
-      "Comte M.",
-      "Lipp Edouard",
-      "Tissot"
+    "Repasseuse.": [
+      "Maeder Frida"
     ],
-    "Représentants": [
-      "Benucci Camille"
+    "Sociétés.": [
+      "de fromagerie",
+      "du battoir à grains",
+      "Syndicat d'élevage"
     ],
-    "Restaurant sans alcool": [
-      "Perrin A."
-    ],
-    "Scierie mécanique": [
-      "Wyssbrod & Nicollier"
-    ],
-    "Selliers-tapissiers": [
-      "Bernard René",
-      "Eppener Henri"
-    ],
-    "Sociétés": [
-      "d'agriculture",
-      "Immobilière de la fromagerie",
-      "Immobilière du battoir à grains",
-      "Militaire",
-      "Section de la Croix-Bleue",
-      "Syndicat des Consommateurs",
-      "Syndicat d'élevage du bétail bovin",
-      "Fédérale de gymnastique",
-      "de chant l'Espérance"
-    ],
-    "Tailleur": [
-      "Aeberhard Charles"
-    ],
-    "Tailleuses": [
-      "Barraud-Dormond Marguerite",
-      "Dessoulavy Dlle",
-      "Masson Mathilde"
-    ],
-    "Téléphones publics": [
-      "Chappuis Fernand",
-      "Schaad Charles"
-    ],
-    "Divers": [
-      "Schwab Alfred"
+    "Téléphoniste.": [
+      "Buri Lina"
     ]
   },
-  "BUSSY-SUR-MORGES": {
-    "Autorités communales": [
-      "Pavillon Eug.",
-      "Guex Ernest",
-      "Jacot Henri",
-      "Rey Edouard",
-      "Jacot Arthur",
-      "Kohli Ls",
-      "Stoudmann Robert",
-      "Bianchetti Ls",
-      "Rey Alexis",
-      "Pavillon Max"
+  "MAURAZ": {
+    "Autorités communales.": [
+      "Rochat Charles",
+      "Rochat Henri"
     ],
-    "Agriculteurs": [
-      "Bianchetti Félix",
-      "Bianchetti Louis",
-      "Borel Edouard",
-      "Charrière Eug.",
-      "Corday Eug.",
-      "Cusin D.",
-      "Garin Eug.",
-      "Jacot Henri",
-      "Jacot Arthur",
-      "Jaquet François",
-      "Jaunin Jules",
-      "Kohli Louis",
-      "Pavillon Eugène",
-      "Rey Edouard",
-      "Rey Alexis",
-      "Stoudmann Robert"
+    "Syndic": [
+      "Vial Jules"
     ],
-    "Apiculteurs": [
-      "Anken Ferdinand",
-      "Kohli Ls",
-      "Stoudmann Robert"
+    "Municipaux": [
+      "Rochat Alb.",
+      "Domenighetti Georges"
     ],
-    "Associations mutualistes de retraite": [
-      "Guex E."
+    "Secrétaire": [
+      "Rochat Henri"
     ],
-    "Charron": [
-      "Fehlbaum Jean"
+    "Boursier": [
+      "Vacat"
     ],
-    "Commission scolaire": [
-      "Jacot Arthur",
-      "Bianchetti Ls"
+    "Agriculteurs.": [
+      "Amstutz Albert",
+      "Aquillon Fritz",
+      "Bovay John. T.",
+      "Favre Louis",
+      "Rochat Albert",
+      "Rochat frères",
+      "Vial Jules"
     ],
-    "Couturière": [
-      "Mingard Gabrielle"
+    "Camionneur.": [
+      "Bovay John. T."
     ],
-    "Epiceries": [
-      "Cardinaux Henri",
-      "Mingard Samuel R."
+    "Meunier.": [
+      "Bovay John"
     ],
-    "Inspecteur du bétail": [
-      "Mingard S."
+    "Scierie.": [
+      "Domenighetti Georges",
+      "Schacher Emile"
     ],
-    "Instituteur": [
-      "Guex Ernest"
-    ],
-    "Institutrice": [
-      "Kohli Marie"
-    ],
-    "Laitier": [
-      "Germann Jean R."
-    ],
-    "Mécaniciens": [
-      "Anken Ferdinand",
-      "Bianchetti Louis"
-    ],
-    "Sociétés": [
-      "de fromagerie de Bussy et Chardonney",
-      "Poids public",
-      "Société d'alpage et d'élevage",
-      "Société coopérative de la machine à battre Bussy et Chardonney"
+    "Téléphone particulier.": [
+      "Bovay John. T."
     ]
   },
-  "CHARDONNEY (Régie)": {
-    "Autorités communales": [
-      "Borel Edouard",
-      "Cavin Francis",
-      "Burckhardt Ls",
-      "Chappuis Jules",
-      "Pavillon Eugène",
-      "H. de la Harpe"
+  "MEX": {
+    "Autorités communales.": [
+      "Hugly Charles",
+      "Küffer Marcel"
     ],
-    "Agriculteurs": [
-      "Burckhardt Ls",
-      "Cavin Francis",
-      "Charrière Emile",
-      "Charrière. Vve"
+    "Syndic": [
+      "Vullioud Hippolyte"
     ],
-    "Associations mutualistes de retraite": [
-      "Guex E."
+    "Municipaux": [
+      "Jaquier Gustave",
+      "Ramuz François",
+      "Valet Ferdinand",
+      "Cuérel Edouard"
     ],
-    "Aubergiste": [
-      "Mingard Eug."
+    "Secrét.": [
+      "Coeytaux Alfred"
     ],
-    "Inspecteur du bétail": [
-      "Cavin Franç."
+    "Boursier": [
+      "Moret Ulysse"
     ],
-    "Rentiers": [
-      "Burckhardt Ls"
+    "Agriculteurs.": [
+      "Borgeaud Emile",
+      "Coeytaux A.",
+      "Cuérel Elie",
+      "Goy Charles",
+      "Hugly Charles",
+      "Imhof Adr.",
+      "Jaquier Charles",
+      "Logoz Ele",
+      "Marquard Constant",
+      "Moret Henri",
+      "Moret Ulysse",
+      "Ramuz François",
+      "Stauffer Gottlieb",
+      "Vaney Ch., fils",
+      "Valet Fernand",
+      "Valet Marguerite, Vve",
+      "Valet frères",
+      "Vullioud Hippolyte"
     ],
-    "Vignerons": [
-      "Barbey Alfred",
-      "Cavin Francis",
-      "Mingard Eugène"
+    "Aubergiste.": [
+      "Vaney Henri"
+    ],
+    "Boulangerie.": [
+      "Vaney Siegfried"
+    ],
+    "Charpentier.": [
+      "Duboux Louis"
+    ],
+    "Commission scolaire.": [
+      "Hugly Ch.",
+      "Candaux Jules",
+      "Valet Ferdinand"
+    ],
+    "Cordonnier.": [
+      "Bovay Edouard"
+    ],
+    "Epicerie, tabacs.": [
+      "Vaney Siegfr."
+    ],
+    "Garde-forestier.": [
+      "Vaney Henri"
+    ],
+    "Inspecteur du bétail.": [
+      "Ramuz Franç."
+    ],
+    "Instituteurs.": [
+      "Schneeberger Louis",
+      "Vullioud Evelyne"
+    ],
+    "Jardinier.": [
+      "Veit Frédéric"
+    ],
+    "Laitier.": [
+      "Grivaz Jacques"
+    ],
+    "Machine à battre.": [
+      "La Commune"
+    ],
+    "Maréchal.": [
+      "Cottier Alfred"
+    ],
+    "Société.": [
+      "de fromagerie"
+    ],
+    "Tailleuses.": [
+      "Marguet Hélène",
+      "Vullioud Berthe",
+      "Wermuth Adèle"
+    ],
+    "Téléphone public.": [
+      "Chollet J., Mme"
+    ],
+    "Divers.": [
+      "Charrière de Sévery Paul",
+      "Mettraux Henri",
+      "Vaney Henri"
     ]
   },
-  "CHAVANNES près RENENS": {
-    "Autorités communales": [
-      "Lavanchy Henri",
-      "Dusserre Armand",
-      "Dusserre Henri"
+  "MOIRY": {
+    "Autorités communales.": [
+      "Chanson Louis-Const.",
+      "Jousson Armand"
+    ],
+    "Syndic": [
+      "Pittet René"
+    ],
+    "Municipaux": [
+      "Monnier Emile",
+      "Chanson Charles, de Const.",
+      "Berger Louis",
+      "Prenleloup Edouard",
+      "Bonzon Ulysse",
+      "Chanson Lucien"
+    ],
+    "Secrétaire": [
+      "Chanson Robert"
+    ],
+    "Boursier": [
+      "Cugny Fernand"
+    ],
+    "Huissier": [
+      "Chanson Ferdinand"
+    ],
+    "Agriculteurs.": [
+      "Berger Jules",
+      "Berthold, hoirs de François",
+      "Bonzon John",
+      "Chaillet Julien",
+      "Chanson Charles",
+      "Chanson Eug.",
+      "Chanson Louis",
+      "Chanson Michel",
+      "Chanson Ls-Lucien",
+      "Chanson Robert",
+      "Chanson Roland",
+      "Clerc Hri",
+      "Crisinel Louis",
+      "Cugny Fernand",
+      "Cugny Louis"
     ]
   }
 }

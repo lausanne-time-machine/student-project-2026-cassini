@@ -1,103 +1,203 @@
 {
-  "Ville de Nyon": {
-    "Epicerie": [
-      "Aubert Edmond",
-      "Bélaz Adi",
-      "Berger Edouard",
-      "Charvier, Mlle",
-      "Eberhardt Alice",
-      "Favre Marcel, dame",
-      "Francelet Julie, dame",
-      "Frutiger Fritz",
-      "Furrer Emile",
-      "Gabus-Plojoux & Cie",
-      "Gamboni V. & sœur",
-      "Genevay Henri Vve",
-      "Herbez Emile",
-      "Kæppeli Hermann",
-      "« Mercure », Société anonyme",
-      "Maillard Bernardine",
-      "Noguet Jules",
-      "Pernet Charles-Edouard",
-      "Petitpierre Ch., S. A.",
-      "Quiblier Lucien",
-      "Rigoni Charles",
-      "Rosset Ami",
-      "Rosset-Jan, Vve d'Henri",
-      "Ruchat Gustave",
-      "Société coopérative de consommation",
-      "Société Kaiser (cafés)"
+  "Le Mont": {
+    "Agriculteurs.": [
+      "Viannaz",
+      "Guex Vve d'Emile",
+      "Hadorn Hri",
+      "Henneberger Aug.",
+      "Henny Eug.",
+      "Lambert",
+      "Lädermann frères",
+      "Menétrey Amédée",
+      "Menétrey Aloïs",
+      "Menétrey Hri.",
+      "Menétrey Oscar",
+      "Meylan Auguste",
+      "Meylan J.-Ernest",
+      "Meylan-Amaudruz Ls",
+      "Porchet Ern.",
+      "Porchet Aloïs",
+      "Rochat Chs",
+      "Rod Jean",
+      "Rouge Henri"
     ],
-    "Essences et parfums synthétiques": [
-      "Mühlethaler Th. (S. A.)"
+    "Asile": [
+      "« Chez nous »"
     ],
-    "Equarrisseur": [
-      "Pécoud Robert"
+    "Associations mutualistes de retraite": [
+      "Jaton A."
     ],
-    "Fers et métaux": [
-      "Boldrini & Cie",
-      "Tavelli & Bruno (S. A.)"
+    "Assesseur": [
+      "Besson Julien"
     ],
-    "Ferblantiers": [
-      "Baudet Fernand",
-      "Durand A.",
-      "Paillex Ernest",
-      "Pitto Laurent",
-      "Preti Jules",
-      "Rossi Fernand",
-      "Tschanen Walter"
+    "Auberges et cafés": [
+      "Borgeaud Maurice",
+      "Piot Emile",
+      "Gilliéron Samuel",
+      "Guex Alfred",
+      "Meylan Ernest"
     ],
-    "Fromages (march. de)": [
-      "Gervaix Clara",
-      "Chevalier François",
-      "Kopf Emile",
-      "Perreten André",
-      "Schærer Lina Veuve & fille",
-      "Schnaebeli Emile",
-      "Simon Armand"
+    "Blanchisseurs": [
+      "Anneler Isaac",
+      "Bezençon Louis",
+      "Cavin Henri",
+      "Corbaz Vve de Charles",
+      "Weinberger Clément",
+      "Wullyamoz Edouard"
     ],
-    "Gardes-malades": [
-      "Demont Paul",
-      "Reymond-Boss Constant"
+    "Bois (march. de)": [
+      "Menétrey Vincent"
     ],
-    "Garage d'automobiles": [
-      "Dufour-Félix Eug.",
-      "Eicher Hans",
-      "Sauter Ferdinand",
-      "Schenkel A.",
-      "Zwahlen Paul"
+    "Boulangers": [
+      "Cavin Elise",
+      "Ledermann Walther",
+      "Schmid-Muller A."
     ],
-    "Géomètres officiels": [
-      "Pelichet Ernest",
-      "Tecon Louis, fils"
+    "Charcutier": [
+      "Corbaz Aug."
     ],
-    "Grains et farines": [
-      "Noël Louis",
-      "Perreten Auguste",
-      "Wuhrmann Henri"
+    "Charpentiers": [
+      "Détraz Henri",
+      "Pache Ernest"
     ],
-    "Graines potagères, fourragères et fleurs": [
-      "Wuhrmann Henri",
-      "Comptoir agricole S. A."
+    "Charretiers": [
+      "Beeri Alp.",
+      "Belet Gustave"
     ],
-    "Graveurs": [
-      "Chopard F.",
-      "Jaques William"
+    "Charrons": [
+      "Nicolas Louis",
+      "Ravay Charles"
     ],
-    "Graviers, sables": [
-      "Commune de Nyon",
-      "Gravières de Colovrex et d'Oulteret",
-      "Dotte Henri",
-      "Borgognon Charles"
+    "Chef de section": [
+      "de Léon Fernand"
     ],
-    "Gypsters-peintres": [
-      "Bernasconi Etienne",
-      "Bernasconi Etienne et Jaques",
-      "Bertoncini Joseph",
-      "Démarchi Roméo",
-      "Genand Henri",
-      "Lambossy Paul",
-      "Vanni Fernand"
+    "Coiffeur": [
+      "Vetterli F."
+    ],
+    "Commission scolaire": [
+      "Menétrey Oscar",
+      "Laedermann Charles",
+      "Porchet Aloïs",
+      "Corbaz Auguste",
+      "de Léon Fernand"
+    ],
+    "Cordonnier": [
+      "Blanc Charles"
+    ],
+    "Entrepreneurs": [
+      "Barbini Gaetano",
+      "Barbini Antoine",
+      "Blanc Alexis"
+    ],
+    "Epicerie-mercerie": [
+      "Burkhalter Emile",
+      "Cavin Aloïs",
+      "Ledermann Walther",
+      "Ravessoud Emma",
+      "Schmidt-Müller A."
+    ],
+    "Ferblantier-couvreur": [
+      "Weinberger Alexis"
+    ],
+    "Gendarmerie": [
+      "Longchamp Clovis"
+    ],
+    "Ingénieur": [
+      "de Léon Fern."
+    ],
+    "Inspecteurs du bétail": [
+      "Amaudruz Gustave",
+      "Bezençon Louis",
+      "Guilland Hri"
+    ],
+    "Institut": [
+      "Institut pour enfants abandonnés « Chez Nous »"
+    ],
+    "Instituteurs": [
+      "Dupuis Eug.",
+      "Henny Marc",
+      "Jaton Aloïs",
+      "Gay Fréda",
+      "Berzin Clémence"
+    ],
+    "Jardiniers": [
+      "Curtet Alb.",
+      "Roth-Schultz A."
+    ],
+    "Laiteries": [
+      "Penau",
+      "laiterie centrale"
+    ],
+    "Machines agricoles": [
+      "Bovey Adr."
+    ],
+    "Maréchaux": [
+      "Borgeaud Louis",
+      "Bovey Adrien"
+    ],
+    "Médecins": [
+      "Olivier E.",
+      "Pache Ch."
+    ],
+    "Menuisiers-ébénistes": [
+      "Gret frères"
+    ],
+    "Notaires": [
+      "Bergier Henri",
+      "de Leon Henri",
+      "Pilet R."
+    ],
+    "Pasteur": [
+      "Bezençon Edmond"
+    ],
+    "Peintres": [
+      "Cordone Raphaël",
+      "Rovasoto S."
+    ],
+    "Pensions": [
+      "Amaudruz Elisa",
+      "Grau, Vve",
+      "Lädermann Fd",
+      "Ravey, sœurs",
+      "Schatz-Schmid Cécile"
+    ],
+    "Poste et téléphone": [
+      "Belet Edonard",
+      "Piot Emile"
+    ],
+    "Professeurs": [
+      "Biermann Ch.",
+      "de Dompierre Ernest",
+      "Fornerod A."
+    ],
+    "Rentiers": [
+      "Pache Eugénie",
+      "Poudret Eugène",
+      "Seibel Ls",
+      "Serment, Mlles."
+    ],
+    "Scieur": [
+      "Menétrey Vincent"
+    ],
+    "Selliers": [
+      "Hartmann Ls",
+      "Vetterli Fritz"
+    ],
+    "Serruriers-Appareilleurs": [
+      "Bovey Adr.",
+      "Weinberger Alexis"
+    ],
+    "Sociétés": [
+      "Centrale de la machine à battre",
+      "Chœur mixte",
+      "d’assurance de la race bovine",
+      "Centrale de laiterie",
+      "Laiterie des Planches",
+      "Laiterie des Meules",
+      "Société de laiterie de Penau",
+      "Sauvabelin",
+      "Chant « L’Echo des Bois »",
+      "Section de"
     ]
   }
 }

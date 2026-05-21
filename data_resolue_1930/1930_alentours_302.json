@@ -1,79 +1,230 @@
 {
-  "Montreux": {
-    "Hôtels et Pensions": [
-      "Caux-Palace et Régina",
-      "Cécil",
-      "Central H.",
-      "Chalet Christian",
-      "Chalet Suisse",
-      "Champ Fleuri",
-      "Château Belmont",
-      "Châtelard",
-      "Cloche (la)",
-      "Colline (la)",
-      "Continental H. (S.A.)",
-      "Couronne",
-      "Crêtes",
-      "Dent du Midi",
-      "Dufour",
-      "Eden-Hôtel",
-      "Elisabeth (Pension)",
-      "Ermitage",
-      "Europe",
-      "Excelsior et Bon Port",
-      "Gare et Buffet-Terminus",
-      "Gare et Buffet",
-      "Glion H.",
-      "Golf-Hôtel",
-      "Grammont",
-      "Grand Hôtel & Bellevue-Belvédère",
-      "Grand Hôtel de Clarens",
-      "Grand Hôtel Suisse et Majestic",
-      "Grand Hôtel de Territet et Hôtel des Alpes",
-      "Helvétie (Hôtel des Familles sans alcool)",
-      "Hertig",
-      "Instituts médicaux du Dr Widmer",
-      "Iris (Les)",
-      "Jaman",
-      "Joli Mont",
-      "Joli Site",
-      "Jundt Lina",
-      "Jura",
-      "Ketterer H.-P.",
-      "Kursaal",
-      "Lac",
-      "Léman",
-      "Liliana",
-      "Londres",
-      "Lorius H.-P.",
-      "Maria",
-      "Masson H.-P.",
-      "Métropole",
-      "Minerva",
-      "Mirabeau",
-      "Moderne et Gare",
-      "Monney et Beau-Séjour au Lac",
-      "Mont Brillant",
-      "Mont Fleuri",
-      "Montreux",
-      "Montreux Palace",
-      "National H. (S. A.)",
-      "Nouvelle Poste",
-      "Paix",
-      "Palmiers H.-P.",
-      "Parc et Lac",
-      "Park-Hôtel",
-      "Petit Clos (Pension)",
-      "Placida Hôtel",
-      "Pont",
-      "Régina-Hôtel (ancien Grand-Hôtel de Caux)",
-      "Regina Pension",
-      "Regis",
-      "Richemont et des Fougères",
-      "Richelieu",
-      "Righi Vaudois",
-      "Rochers de Naye",
-      "Savoy-Hôtel"
+  "BURSINEL": {
+    "Agriculteurs et viticulteurs": [
+      "Favre Charles",
+      "Favre P.",
+      "Henny Charles",
+      "Monod Jean",
+      "Godsol Elise",
+      "Rossier Louis",
+      "Turin Auguste",
+      "Widmer, hoirie"
+    ],
+    "Aubergiste": [
+      "Ramel"
+    ],
+    "Commission scolaire": [
+      "Dufour Fr.",
+      "Gagnière P.",
+      "Monod Jean"
+    ],
+    "Chef de gare": [
+      "Ganière Pascal"
+    ],
+    "Epicerie": [
+      "Widmer Marcel"
+    ],
+    "Inspecteur du bétail": [
+      "Turin Aug.",
+      "Treboux Ed."
+    ],
+    "Instituteur": [
+      "Béday Adalbert"
+    ],
+    "Laitier": [
+      "Gervaix Henri",
+      "Beetschen Alfred"
+    ],
+    "Meuniers": [
+      "Binggeli",
+      "Conne et fils"
+    ],
+    "Pêcheurs": [
+      "Blondel Gustave",
+      "Isely frères",
+      "Isely Marc",
+      "Jacquet Aug.",
+      "Schneiter Juste",
+      "Sturchler C."
+    ],
+    "Société": [
+      "de laiterie Bursinel-Dully"
+    ],
+    "Téléphoniste et buraliste postal": [
+      "Ledermann Emile"
+    ],
+    "Vignerons": [
+      "Anken Henri",
+      "Bourguignon Ch.",
+      "Dentz Louis",
+      "Dufour Franç.",
+      "George Julien",
+      "Pernoux Marcel"
+    ],
+    "Bouchers": [
+      "Boudry Charles",
+      "Reguin Auguste"
+    ],
+    "Boulangers": [
+      "Dupuis Henri",
+      "Meienhofer Gottlieb"
+    ],
+    "Charpentier": [
+      "Fragnière Lucien"
+    ],
+    "Chaussures": [
+      "Bozzonetti A."
+    ],
+    "Entrepreneur": [
+      "Ramozzi Hect."
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Hunziker Berthold",
+      "Monnier Thérèse",
+      "Prod'hom Armand"
+    ],
+    "Ferblantier": [
+      "Boudry Charles"
+    ],
+    "Gypsier": [
+      "Daglia Jean, fils"
+    ],
+    "Instituteurs": [
+      "Conod Jules",
+      "Ansermoz Blanche",
+      "Trolliet Marie"
+    ],
+    "Maréchal": [
+      "Hauswirth Ch."
+    ],
+    "Menuisiers": [
+      "Prod'hom frères"
+    ],
+    "Meunier": [
+      "Conne Jean-Louis"
+    ],
+    "Notaire": [
+      "Menthonnex Daniel"
+    ],
+    "Pasteur": [
+      "Roland Ernest"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "de tir",
+      "Union instrumentale"
+    ],
+    "Téléphoniste": [
+      "Senn Emile"
+    ],
+    "Voituriers": [
+      "Bückelmann R.",
+      "Jaquillard Gustave",
+      "Prahin Emile"
+    ]
+  },
+  "BURSINS": {
+    "Autorités communales": [
+      "Rossier Frédéric",
+      "Parmelin Emile",
+      "Parmelin Lucien",
+      "Dupuis Henri",
+      "Boudry Charles",
+      "Hauswirth Ernest",
+      "Treboux Edouard",
+      "Roulier Aloïs",
+      "Parmelin Emile"
+    ],
+    "Agriculteurs": [
+      "Aeberhardt Henri",
+      "Aellen Gottlieb",
+      "Beetschen Alfred",
+      "Bovy Jules",
+      "Buckelmann Rodolphe",
+      "Cugnet, hoirs de Constant",
+      "Jaquillard Gustave",
+      "Humbert Lucien",
+      "Menthonnex Charles",
+      "Menthonnex hoirs de Gustave",
+      "Menthonnex Henri",
+      "Menthonnex Julien",
+      "Meylan Ch.",
+      "Meylan, hoirs de François",
+      "Parmelin Lucien",
+      "Parmelin Emile",
+      "Parmelin Elie",
+      "Parmelin Ernest",
+      "Parmelin Frédéric",
+      "Parmelin Louis",
+      "Pellet Alfred",
+      "Prahin Emile",
+      "Prod'hom Albert",
+      "Prod'hom Armand",
+      "Prod'hom Robert",
+      "Rossier Frédéric",
+      "Tréboux Edouard"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Ansermoz, F."
+    ],
+    "Aubergistes": [
+      "Perretten Charles",
+      "Senn Emile"
+    ],
+    "Bétail (march. de)": [
+      "Perretten Ch."
+    ]
+  },
+  "BURTIGNY": {
+    "Autorités communales": [
+      "Sergy Julien",
+      "Gudet Henri",
+      "Burnet François",
+      "Dumarteray Louis",
+      "Burnet Samuel",
+      "Pilloud Louis",
+      "Pilloud Alfred",
+      "Pilloud Charles",
+      "Saugy Louis",
+      "Reymond Auguste",
+      "Feignoux Lucien",
+      "Badel Edouard"
+    ],
+    "Agriculteurs": [
+      "Bichet Alphonse",
+      "Bichet Charles",
+      "Bichet Gustave",
+      "Bichet Horace",
+      "Bichet Marg., Vve",
+      "Bovy Julien",
+      "Bruguier Jules",
+      "Burguier Louis",
+      "Burnet François",
+      "Burnet, hoirie de César",
+      "Burnet Samuel",
+      "Chambordon Lucien",
+      "Delamuraz, hoirie d'Henri",
+      "Dumarteray Louis et Hri",
+      "Emery Jules",
+      "Fahrni Ch.",
+      "Feignoux Aug.",
+      "Feignoux hoirie",
+      "Feignoux Lucien",
+      "Fontolliet Auguste",
+      "Golay Ernest",
+      "Golay Jules",
+      "Gudet frères",
+      "Gudet, hoirie de Ls",
+      "Hagi G.",
+      "Haldy Emile",
+      "Haldy Eug.",
+      "Humbert Lucien",
+      "Michod Julien",
+      "Morel Ami",
+      "Neufer Adolphe",
+      "Pilloud Alf.",
+      "Pilloud Isaline",
+      "Pilloud Julien"
     ]
   }
 }

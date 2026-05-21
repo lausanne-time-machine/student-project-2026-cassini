@@ -1,189 +1,240 @@
 {
-  "VUITEBOEUF": {
-    "Pierres fines (horlogerie)": [
-      "Liardet-Magnenat Félix",
-      "Magnenat André (Rousaz)",
-      "Michot Henri",
-      "Pollens Aimé fils"
-    ],
-    "Primeurs": [
-      "Guignard Louise"
-    ],
-    "Poste et télégraphe": [
-      "Guignard Alfred"
-    ],
-    "Sage-femme": [
-      "Morf Augustine"
-    ],
-    "Scieurs": [
-      "Maire Ami",
-      "Martignier Oscar",
-      "Bornand Jules",
-      "Wüthrich Edmond"
-    ],
-    "Sociétés": [
-      "de fromagerie du village, du Plâne, Nidau, Businaz et Villeneuve",
-      "Militaire des Amis",
-      "Syndicat agricole",
-      "Coopérative de consommation",
-      "Société des Auto-Transports du Jura (A.-T.-J.)",
-      "Crédit mutuel",
-      "Musique « Espérance »",
-      "Chant « Echo du Vallon »",
-      "de fromagerie de Vuitebœuf et Peney",
-      "Abbaye des Mousquetaires",
-      "Syndicat agric. de Vuitebœuf et Peney",
-      "Société du battoir à grains de Vuitebœuf et Peney",
-      "Chœur mixte"
-    ],
-    "Tanneurs": [
-      "Liardet frères"
-    ],
-    "Tapissieers": [
-      "Guignard Fernand",
-      "Reymond Gabriel"
-    ],
-    "Teinturerie": [
-      "Reymond Georges"
-    ],
-    "Téléphoniste": [
-      "Maire Adr."
-    ],
-    "Vacherins": [
-      "Magnenat Franç.-Louis",
-      "Magnenat, hoirs de Louis",
-      "De Siebenthal John"
-    ],
-    "Vélos": [
-      "Reymond-Zurfluch"
-    ],
-    "Vins (march. de)": [
-      "Reymond Marcel"
-    ],
-    "Voituriers": [
-      "Auto-Transports du Jura",
-      "Magnenat Auguste",
-      "Reymond E.",
-      "Reymond-Michot H."
-    ],
-    "Autorités communales": [
-      "Mermod John",
-      "Nicolet Edmond",
-      "Bornand Jules",
-      "Perrin Gustave",
-      "Karlen Ernest",
-      "Burdet Louis",
-      "Roy Auguste",
-      "Dumauthioz William",
-      "Champod Alfred"
-    ],
+  "SAINT-PREX": {
     "Agriculteurs": [
-      "Chabloz Robert",
-      "Champod John",
-      "Champod Louis",
-      "Karlen Ernest",
-      "Kiener Emile",
-      "Morel Marcel",
-      "Roy Auguste",
-      "Roy Jean",
-      "Schwab Alfred",
-      "Thévenaz Ami",
-      "Wagnière Lucien",
-      "Wüthrich Edmond",
-      "Addor Gustave",
-      "Addor Justin",
-      "Degiez Robert",
-      "Martinet Armand",
-      "Perrin Eugène",
-      "Perrin Gustave",
-      "Rod Emile",
-      "Sahli Christian"
+      "Francis",
+      "Coderey François",
+      "Curtet Jules",
+      "Devillard Alexis",
+      "Devillard Louis",
+      "Favre Théophile",
+      "Henry Lucien",
+      "Zeender Henri",
+      "Allamand François hoirie",
+      "Allamand Louis",
+      "Annen A.",
+      "Baudat Ele",
+      "Baudat Js. hoirie",
+      "Baudet L.",
+      "Berguer Louis",
+      "Bissat François",
+      "Bugnon Chs",
+      "Bugnon Ern.",
+      "Bugnon Edmond",
+      "Bugnon Jules",
+      "Bugnon Maurice",
+      "Cloux E.",
+      "Contet, les enfants de Jules",
+      "Cornaz Henri",
+      "Desplands Oscar",
+      "Dupuis Jules",
+      "Gilliand Louis",
+      "Gudet Arnold",
+      "Merminod Jules",
+      "Meylan Gustave",
+      "Morand Henri",
+      "Morand Louis",
+      "Moret",
+      "Mercier Laurent et Jufer",
+      "Pavillard Louis",
+      "Pellaton H.",
+      "Roy Eugène",
+      "Prodolliet Louis"
     ],
     "Assurance-vieillesse": [
-      "Associations mutualistes de retraite",
-      "Grin C."
+      "Goy Ch."
     ],
-    "Auberges et cafés": [
-      "Simon Georges",
-      "Roulet Alfred",
-      "Pache Constant"
-    ],
-    "Bétail (march. de)": [
-      "Champod Louis",
-      "Richard Ernest"
-    ],
-    "Bois (march. de)": [
-      "Bornand Jules",
-      "Wüthrich Edmond"
-    ],
-    "Boulangers": [
-      "Ryser Albert",
-      "Sourlier Oscar"
-    ],
-    "Buraliste postal": [
-      "Dumauthioz William"
+    "Aubergiste": [
+      "Bataillard Roger"
     ],
     "Charron": [
-      "Addor Eugène"
-    ],
-    "Chef de gare": [
-      "Giroud Marie"
+      "Burri Charles",
+      "Wegmüller Franz"
     ],
     "Commission scolaire": [
-      "Dumauthioz William",
-      "Burdet Louis",
-      "Degiez Robert",
-      "Prod'hom Roger",
-      "Champod-Zwahlen Marie"
+      "Subilia E.",
+      "Devillard Louis",
+      "Bataillard Robert",
+      "Dr Cuénet",
+      "Colomb Fanny",
+      "Spaini Adolphe",
+      "Allamand-Colomb Louis",
+      "Meyer Frédéric",
+      "Reymond Hri"
     ],
-    "Entrepreneurs": [
-      "Rigo Albert",
-      "Rigo Léon"
+    "Epiceries": [
+      "Favre Théophile",
+      "Magnin-Bataillard dame",
+      "Blaser Ern.",
+      "Dupasquier Emile",
+      "Petitpierre Ch., S. A.",
+      "Rochat Louis",
+      "Société coopérative de consommation"
     ],
-    "Epicerie, mercerie": [
-      "Castelli Clément",
-      "Bühni Louis"
+    "Inspecteur du bétail": [
+      "Zeender Hri."
     ],
-    "Inspecteurs du bétail": [
-      "Karlen Ern.",
-      "Perrin Gustave"
-    ],
-    "Instituteurs": [
-      "Grin Camille",
-      "Degiez-Ortlieb Rose"
+    "Instituteur": [
+      "Campiche Louis"
     ],
     "Laitier": [
-      "Richard Ernest"
+      "Pidoux Francis",
+      "Desquartiers Paul"
     ],
     "Maréchal": [
-      "Strahm Robert"
+      "Rebeaud Henri",
+      "Mattenberger Jean"
     ],
-    "Menuisier": [
-      "Rubin Théophile"
+    "Société": [
+      "de fromagerie"
     ],
-    "Meunier": [
-      "Ryser Albert"
+    "Téléphoniste": [
+      "Bataillard Roger"
+    ],
+    "Président du Conseil communal": [
+      "Jaccard Ernest"
+    ],
+    "Vice-président": [
+      "Berguer Jules"
+    ],
+    "Secrétaire": [
+      "Bugnon Robert",
+      "Spaini Adolphe"
+    ],
+    "Syndic": [
+      "Meyer Frédéric"
+    ],
+    "Municipaux": [
+      "Reymond Henri",
+      "Bugnon Edmond",
+      "Cloux Emile",
+      "Roy Eugène"
+    ],
+    "Boursier": [
+      "Allamand Louis"
+    ],
+    "Huissier": [
+      "Paux Louis"
+    ],
+    "Agent de police": [
+      "Paux Louis"
+    ],
+    "Assesseur": [
+      "Rebuz Henri"
+    ],
+    "Assurance": [
+      "La Genevoise",
+      "Jaccard Ernest"
+    ],
+    "Assurance-vieillesse. — Mutualité scolaire de retraite": [
+      "Chabloz André"
+    ],
+    "Aubergistes": [
+      "Oberson Marius",
+      "Morand Henri",
+      "Gudit-Félix Emile",
+      "Cherpillod Henri"
+    ],
+    "Blanchisseuse-repasseuse": [
+      "Visinand Franceline"
+    ],
+    "Bois": [
+      "Gilliand Louis"
+    ],
+    "Bouchers": [
+      "Dumont frères",
+      "Signorelli Alexandre"
+    ],
+    "Boulangers": [
+      "Debonneville E.",
+      "Podlejska Egon"
+    ],
+    "Buraliste, postal": [
+      "Henry Albert"
+    ],
+    "Charpentiers": [
+      "Dessaux Ernest",
+      "Dupenloup François"
+    ],
+    "Chef de gare": [
+      "Nicoulaz Emile"
+    ],
+    "Coiffeurs": [
+      "Anselmetti D.",
+      "Baussmann R., fils"
+    ],
+    "Cordonniers": [
+      "Giulio Amédée",
+      "Jenne Jean",
+      "Reymond Gustave",
+      "Parisod Henri",
+      "Talochino Louis"
+    ],
+    "Curé": [
+      "Abbé Mermet"
+    ],
+    "Entrepreneurs": [
+      "Croso Amédée",
+      "Chiavazza Jean",
+      "Scaglia Joseph"
+    ],
+    "Fabrique de biscuits « Fabis »": [
+      "Baudat & Josseron"
+    ],
+    "Ferblantier": [
+      "Kühnel Edouard"
+    ],
+    "Gypsiers-peintres": [
+      "Pache Robert",
+      "Spaini A. et fils"
+    ],
+    "Horloger": [
+      "Cuendet Elie"
+    ],
+    "Horticult.-pépiniériste": [
+      "Dupuis John"
+    ],
+    "Institut": [
+      "Walter School for Boys",
+      "Dr Hans Walter"
+    ],
+    "Instituteurs": [
+      "Chabloz André",
+      "Rochat Henri",
+      "Rey Jeanne",
+      "Croso Albertine",
+      "Foretay Rose",
+      "Girardet Marie",
+      "Blanc Marie"
+    ],
+    "Jardinier-pépiniériste": [
+      "Haas Sam."
+    ],
+    "Jardinier-maraîcher": [
+      "Dupuis John"
+    ],
+    "Lingères": [
+      "Contet Olga",
+      "Lersch, dame"
     ],
     "Mécanicien": [
-      "Gilgen Wilhelm"
+      "Aubert L."
     ],
-    "Pierristes": [
-      "Degiez Gustave",
-      "Nicolet Edmond fils"
+    "Médecin": [
+      "Cuenet F. T."
     ],
-    "Tailleur": [
-      "Kiener Emile"
+    "Menuisiers": [
+      "Dessaux Ernest",
+      "Dupenloup François",
+      "Labbé François"
     ],
-    "Tailleuses": [
-      "Addor Rosa",
-      "Martinet-Hiltbrunner Rosa",
-      "Strahm Louise"
+    "Officier d'Etat-civil": [
+      "Gottraux Julien"
     ],
-    "Téléphone": [
-      "La Commune"
-    ],
-    "Télégraphiste": [
-      "Dumauthioz William"
+    "Pêcheurs": [
+      "Bugnon Francis",
+      "Chapuisat Henri",
+      "Foretay frères",
+      "Pasquier Louis"
     ]
   }
 }

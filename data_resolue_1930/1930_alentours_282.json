@@ -1,109 +1,241 @@
 {
-  "Montreux": {
-    "Agriculteurs-Vignerons.": [
-      "Vincent Emile",
-      "Vuichoud Louis",
-      "Vuichoud Vincent",
-      "Vuichoud Marc",
-      "Vuichoud frères",
-      "Wieland Vincent"
+  "TREY": {
+    "Autorités communales": [
+      "Badoux Constant",
+      "Decrousaz Oscar"
     ],
-    "Antiquités.": [
-      "Bessard Ed.",
-      "Dufaux A.",
-      "Guhl Ernest",
-      "Henry Ami",
-      "Mercédès"
+    "Syndic": [
+      "Crausaz Ulysse"
     ],
-    "Appareilleurs.": [
-      "Aeschlimann W.",
-      "Bagnaschi Joseph",
-      "Berthet Ernest",
-      "Billeter Marc",
-      "Ghilardini Ch.",
-      "Giovanna H.",
-      "Gorini Louis",
-      "Grognuz Marius",
-      "Jonneret Amédée",
-      "Linsig G.",
-      "Loosli J.",
-      "Macchi J.",
-      "Nicoulaz A.",
-      "Peters Frédéric",
-      "Schmied & Kundert",
-      "Schnetzler W.",
-      "Société veveysanne du Gaz",
-      "Tozzo Jules",
-      "Weber Emile"
+    "Municipaux": [
+      "Caillet Henri",
+      "Crausaz César",
+      "Cornamusaz Marcel",
+      "Jaccottet Henri",
+      "Jaquet Adrien",
+      "Fague Gédéon",
+      "Cornamusaz Daniel",
+      "Estoppey Louis",
+      "Crausaz Ad."
     ],
-    "Architectes.": [
-      "Bauer David",
-      "Chaudet H.",
-      "van Dorsser & Buisson",
-      "Dumas Louis",
-      "Gribi E.",
-      "Rambert Victor",
-      "Reybaz-Perret",
-      "Rochat Paul",
-      "Schmid Otto",
-      "Schorp Alph.",
-      "Villard Louis & fils"
+    "Agriculteurs": [
+      "Chatelanat Aloïs",
+      "Chatelanat, Vve d'Oscar",
+      "Cornamusaz Fritz",
+      "Cornamusaz Henri",
+      "Crausaz Alph.",
+      "Crausaz frères",
+      "Crausaz Ul.",
+      "Decrousaz Aloïs",
+      "Decrousaz Oscar",
+      "Estoppey Ct",
+      "Estoppey Jean",
+      "Estoppey Maurice",
+      "Fague, fils d'Emile",
+      "Fague, fils de Louis",
+      "Fague Gédéon",
+      "Gilliand frères",
+      "Pages Const.",
+      "Pages Louis",
+      "Peytregnet Alfred",
+      "Rochat Auguste",
+      "Rossat Adolphe",
+      "Salomon Léopold",
+      "Thonney Alfred",
+      "Wyssa Emile"
     ],
-    "Argenture, dorure, galvanoplastie.": [
-      "Béard Henri",
-      "« Argentor »"
+    "Assesseur": [
+      "Pages Constant"
     ],
-    "Armurier.": [
-      "Mayor Marius"
+    "Aubergiste": [
+      "Decrousaz Henri"
     ],
-    "Articles de bureau.": [
-      "Zeltner"
+    "Bouchers": [
+      "Fague Aimé",
+      "Rochat Auguste"
     ],
-    "Articles de ménage.": [
-      "Miauton E. & Cie",
-      "Rochat Aug."
+    "Charpentiers": [
+      "Augsbourg Louis",
+      "Decrousaz Const.",
+      "Salomon Léopold"
     ],
-    "Articles de luxe.": [
-      "Ferrario",
-      "Mayor-Toillé Marg."
+    "Commission scolaire": [
+      "Cornamusaz Marcel",
+      "Gilliand Edouard",
+      "Badoux Constant",
+      "Cornamusaz Daniel",
+      "Rossat Ad."
     ],
-    "Articles de pêche.": [
-      "Mayor Marius"
+    "Cordonniers": [
+      "Cornamusaz Jules",
+      "Vuagniaux Constant"
     ],
-    "Articles de religion.": [
-      "Librairie paroissiale cath."
+    "Epicerie, mercerie": [
+      "Caillet Henri. R.",
+      "Jaquet Emma",
+      "Veber Arn."
     ],
-    "Articles de voyages et sports.": [
-      "Berger A.",
-      "Burt M.",
-      "Bornand Ernest",
-      "Ingold Jean",
-      "Lang-Geismar R.",
-      "Lefort Guillaume",
-      "Margot C.",
-      "Och frères",
-      "Rutishauser & Kupfer"
+    "Inspecteur du bétail": [
+      "Decrousaz Osc."
     ],
-    "Association vinicole.": [
-      "Collet Mce."
+    "Instituteurs": [
+      "Pellaux Emile",
+      "Gaillard Lucienne"
     ],
-    "Ascenseurs.": [
-      "Homberger A.",
-      "« Otis »",
-      "Schindler & Cie"
+    "Maçon": [
+      "Allégrini Alexandre"
     ],
-    "Asiles.": [
-      "Asile des Amies de la jeune fille",
-      "Asile de nuit",
-      "Asile des Vieillards",
-      "Home catholique"
+    "Maréchal": [
+      "Tenthorey"
     ],
-    "Assortiments (maison d').": [
-      "A la Rouvenaz (S.A.)"
+    "Officier d'état-civil": [
+      "Crausaz César"
     ],
-    "Assurances.": [
-      "La Suisse",
-      "Bâloise (la)"
+    "Pasteur": [
+      "Rod Jules"
+    ],
+    "Pêcheurs": [
+      "Estoppey Ls",
+      "Gilliand Ed."
+    ],
+    "Pensionnat": [
+      "Cornamusaz-Jaccottet T"
+    ],
+    "Poste": [
+      "Decrousaz Ch."
+    ],
+    "Professeur": [
+      "Jaccottet Henri"
+    ],
+    "Sociétés": [
+      "du battoir à blé. R.",
+      "de la laiterie et fromagerie. R.",
+      "Syndicat d'élevage. R."
+    ],
+    "Téléphones publics": [
+      "Bureau de poste",
+      "Rossat Adolphe"
+    ],
+    "Tourneur": [
+      "Caillet Henri"
+    ]
+  },
+  "TREYTORRENS": {
+    "Autorités communales": [
+      "Charbon Jules",
+      "Ogay Oscar"
+    ],
+    "Syndic": [
+      "Mermoud Henri"
+    ],
+    "Municipaux": [
+      "Correvon Aimé",
+      "Lador Edouard",
+      "Chevalley Aimé",
+      "Lador Marcel",
+      "Mermoud Auguste",
+      "Jaquier Marius"
+    ],
+    "Agriculteurs": [
+      "Bütikofer Samuel",
+      "Charbon Ami",
+      "Charbon Jules",
+      "Chevalley Aimé",
+      "Correvon frères",
+      "Correvon Aimé",
+      "Frider Julien",
+      "Gutknecht",
+      "Gilliand Félix",
+      "Göttschi",
+      "Hänggeli Jean",
+      "Jakob Fritz",
+      "Jaquier Robert",
+      "Martin César",
+      "Mermoud Hélène",
+      "Mermoud Henri. T.",
+      "Mermoud Robert"
+    ],
+    "Apiculteurs": [
+      "Charbon, hoirie",
+      "Ogay Oscar"
+    ],
+    "Assesseur": [
+      "Correvon Aimé"
+    ],
+    "Associations mutualistes de retraite": [
+      "Ogay O."
+    ],
+    "Café": [
+      "Carrel Antonin. T."
+    ],
+    "Charron": [
+      "Gürtler Isidore"
+    ],
+    "Commission scolaire": [
+      "Lador Alfred",
+      "Jaquier Marius",
+      "Lador Edouard",
+      "Chevalley Aimé",
+      "Martin Louis"
+    ],
+    "Greffier de paix": [
+      "Mermoud Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Lador Alfred"
+    ],
+    "Instituteur": [
+      "Ogay Oscar"
+    ],
+    "Machines agricoles": [
+      "Charbon Constant. T."
+    ],
+    "Mécaniciens": [
+      "Charbon Constant. T.",
+      "Rebeaud Emile. T."
+    ],
+    "Meunier": [
+      "Lador Elise"
+    ],
+    "Négociante": [
+      "Chevalley Marthe"
+    ],
+    "Poste": [
+      "Charbon-Ogay Julie"
+    ],
+    "Scierie": [
+      "Zahno Pierre"
+    ],
+    "Société": [
+      "de fromagerie. R."
+    ],
+    "Téléphone": [
+      "Charbon Lydie"
+    ]
+  },
+  "VILLARS-BRAMARD": {
+    "Autorités communales": [
+      "Oulevey Edmond",
+      "Oulevey Robert"
+    ],
+    "Syndic": [
+      "Duc Robert"
+    ],
+    "Municipaux": [
+      "Pittet Léonard",
+      "Duc André",
+      "Fattebert Henri",
+      "Duc Francis",
+      "Fattebert Alfr.",
+      "Duc Octave"
+    ],
+    "Agriculteurs": [
+      "Duc Alphonse",
+      "Duc Arthur",
+      "Duc André",
+      "Duc Emile",
+      "Duc Eugène",
+      "Duc Francis"
     ]
   }
 }

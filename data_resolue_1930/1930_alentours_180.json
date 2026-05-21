@@ -1,204 +1,251 @@
 {
-  "ORMONT-DESSUS": {
-    "Assurance.": [
-      "Marcuard M."
+  "Leysin": {
+    "Charpentier": [
+      "Favre Amida"
     ],
-    "Café.": [
-      "Rittener Eugène"
+    "Charcutiers": [
+      "Bissat Jules",
+      "Henry Constant"
     ],
-    "Commission scolaire.": [
-      "Rittener Alexis",
-      "Chevalley Charles",
-      "Rittener Eugène"
+    "Charron": [
+      "Ochsner R.",
+      "Porchet P."
     ],
-    "Echelles (march. d').": [
-      "Décosterd Ami"
+    "Chaussures": [
+      "Dutoit Denis"
     ],
-    "Epicerie, mercerie.": [
-      "Décosterd Jules"
+    "Chef de gare": [
+      "Jordan Marcel"
     ],
-    "Inspecteur du bétail.": [
-      "Rittener Eug."
+    "Chef de section": [
+      "Coquerand Louis"
     ],
-    "Instituteur.": [
-      "Marcuard Marius"
+    "Coiffeur": [
+      "Jaquier Gustave"
     ],
-    "Société.": [
-      "de fromagerie. R."
+    "Coiffeuse pour dames": [
+      "Steinmann Lina"
     ],
-    "Téléphoniste.": [
-      "Rittener Eugène"
-    ]
-  },
-  "VUIBROYE": {
-    "Autorités communales.": [
-      "Bourloud Lucien",
-      "Schmutz Arthur",
-      "George David-Frédéric",
-      "Rubattel Ernest",
-      "Rubattel Lucien",
-      "Pasche Ch.",
-      "Bourloud Ls",
-      "Gilliéron Ele",
-      "George Frédéric"
+    "Commission scolaire": [
+      "Mayor Maurice",
+      "Thomas René",
+      "Becholey Eug.",
+      "Coquerand Ulysse",
+      "Wulliamoz Albert"
     ],
-    "Agriculteurs.": [
-      "Bourloud Lucien",
-      "Favez Oscar",
-      "Favez Frédéric",
-      "George Alfred",
-      "George Frédéric",
-      "George Jules",
-      "George Paul",
-      "Gilliéron Samuel",
-      "Pasche Charles",
-      "Rubattel Aimé",
-      "Rubattel Ernest",
-      "Rubattel Luc.",
-      "Schmutz Arthur"
+    "Cordonniers": [
+      "Dutoit Denis",
+      "Vittone Jaques"
     ],
-    "Commission scolaire.": [
-      "Rubattel Lucien",
-      "Bourloud Lucien",
-      "Gilliéron Samuel"
+    "Electricité": [
+      "Cavin Arnold"
     ],
-    "Inspecteur du bétail.": [
-      "George Fréd."
+    "Entrepreneur": [
+      "Zahnd Hermann"
     ],
-    "Divers.": [
-      "Razen François"
-    ]
-  },
-  "VULLIENS": {
-    "Autorités communales.": [
-      "Cavin Eugène",
-      "Binggeli L.",
-      "Chappuis Henri",
-      "Cavin Vict",
-      "Thonney Samuel",
-      "Nicod Constant",
-      "Chappuis Jean-Louis",
-      "Cavin Gustave",
-      "Cavin Samuel",
-      "Cavin Henri",
-      "Cavin Victor"
+    "Entrepreneur auto-postal, automobiles pour voyages": [
+      "Schneider Henri",
+      "Thomas Philippe"
     ],
-    "Agriculteurs.": [
-      "Auberson",
-      "Binggeli Louis",
-      "Binggeli Lucien",
-      "Bovat Auguste",
-      "Bovat Eugène",
-      "Burnand Louis et Victor",
-      "Devaud Fernand",
-      "Cavin Elie",
-      "Cavin Eugène",
-      "Cavin Gust. et Hri",
-      "Cavin John",
-      "Cavin Js.",
-      "Cavin Js et Sam.",
-      "Cavin Vincent et Lucien",
-      "Cavin Victor",
-      "Chappuis Héli",
-      "Chappuis Henri",
-      "Chappuis Jules",
-      "Chappuis Louis",
-      "Cherpillod Adrien",
-      "Ecoffey frères",
-      "Ecoffey Gustave",
-      "Gloor Armand",
-      "Lambecy",
-      "Nicod Eugène",
-      "Nicod Louis",
-      "Nicod",
-      "Nicod Sophie",
-      "Perret Bertha",
-      "Perret",
-      "Perret Thérèse",
-      "Perret Ulysse",
-      "Rochat Fernand",
-      "Thélin Henri et fils",
-      "Thonney Auguste",
-      "Thonney Henri",
-      "Samuel",
-      "Thonney Frédéric",
-      "Thonney Max.",
-      "Thonney Robert",
-      "Verdan Edmond",
-      "Vifian Christian",
-      "Vuagniaux Alphonse"
+    "Epicerie, mercerie": [
+      "Bovay-Bettex, Vve.",
+      "Egger Jean",
+      "Pahud-Kopf Henri"
     ],
-    "Assurance-vieillesse.": [
-      "Mutualité scolaire de retraite. Pidoux Louis"
+    "Ferblantiers-couvreurs": [
+      "Schneider Henri"
     ],
-    "Café.": [
-      "Binggeli L."
+    "Fromages": [
+      "Muller Christian"
     ],
-    "Charpentiers.": [
-      "Bovat Eugène",
-      "Cavin Henri",
-      "Ecoffey Louis"
+    "Gendarmerie": [
+      "Gleyre Armand"
     ],
-    "Commission scolaire.": [
-      "Cavin Gust.",
-      "Cavin Eug.",
-      "Thonney Samuel"
+    "Inspecteur du bétail": [
+      "Bécholley Adolphe",
+      "Coquerand André"
     ],
-    "Couturière.": [
-      "Burnand-Bovat Lucie"
+    "Instituteurs": [
+      "Perrochon Louis",
+      "Groux Aline",
+      "Rod Ida"
     ],
-    "Epicerie, mercerie.": [
-      "Gilliard Aug.",
-      "Meillard Léonard",
-      "Schwab Hri."
+    "Laiterie": [
+      "Nestlé"
     ],
-    "Fourches et râteaux (fab. de).": [
-      "Burnand Victor"
+    "Levain artificiel": [
+      "Albert Maurice"
     ],
-    "Hongreurs.": [
-      "Thonney Auguste"
+    "Lingère": [
+      "Charbon, Mlles."
     ],
-    "Inspecteur du bétail.": [
-      "Burnand Ls."
+    "Maréchal": [
+      "Jaquiéry Jules"
     ],
-    "Instituteurs.": [
-      "Pidoux Louis",
-      "Ducret Germaine"
+    "Médecin": [
+      "Champod Gérard"
     ],
-    "Laiterie.": [
-      "Bärtschi Jean.",
-      "Ecoffey Louis"
+    "Menuisier": [
+      "Freymond-Dutoit Ed."
     ],
-    "Moules à beurre (fab. de).": [
-      "Ecoffey-Vuagniaux Louis"
+    "Modes et chapellerie": [
+      "Jaunin Alice"
     ],
-    "Oeufs et volailles (commerce de).": [
-      "Porchet Théophile"
+    "Notaire": [
+      "Bécholey Eugène"
     ],
-    "Pension d'été.": [
-      "Ecoffey Jenny"
+    "Pasteur": [
+      "Gilliéron René"
     ],
-    "Poste.": [
-      "Cavin Frank"
+    "Peintres": [
+      "Jaunin H."
     ],
-    "Rentiers.": [
-      "Mottaz Héli",
-      "Mottaz Eugène"
+    "Pharmacien": [
+      "Subilia Léon"
     ],
-    "Sociétés.": [
-      "Abbaye de la Paix. R.",
-      "de laiterie. R.",
-      "de la machine à battre. R.",
-      "du moulin agricole de Bressonnaz. R.",
+    "Produits alimentaires (lait condensé)": [
+      "Nestlé & Anglo Swiss Condensed Milk Co."
+    ],
+    "Sage-femme": [
+      "Dutoit A."
+    ],
+    "Sellerie": [
+      "Béguin François"
+    ],
+    "Serrurier": [
+      "Florio Benjamin"
+    ],
+    "Sociétés": [
+      "Nestlé and Anglo Swiss Condensed Milk Co.",
+      "de laiterie",
+      "Syndicat agricole",
+      "de tir aux armes de guerre",
       "de chant",
-      "Chœur de dames",
-      "Chœur d'hommes Echo du Jorat."
+      "Section de la Croix-Bleue",
+      "Caisse de Crédit Mutuel",
+      "Coquerand L.",
+      "Abbaye des Patriotes du Gros de Vaud",
+      "Section de la Fraternité",
+      "de musique"
     ],
-    "Téléphoniste.": [
-      "Ecoffey Louis"
+    "Tailleuse": [
+      "Corthésy Pauline"
     ],
-    "Tourneur.": [
-      "Ecoffey Louis"
+    "Tapissier": [
+      "Béguin François"
+    ],
+    "Teinturerie": [
+      "Bovay, dame"
+    ],
+    "Téléphone": [
+      "Clavel Alfred"
+    ],
+    "Vétérinaire": [
+      "Pochon Albert"
+    ],
+    "Vélocipèdes": [
+      "Florio Benjamin",
+      "Pahud Henri"
+    ],
+    "Voituriers et camionneurs": [
+      "Coquerand André",
+      "Gonet William"
+    ]
+  },
+  "BOULENS": {
+    "Autorités communales": [
+      "Guex Jean-Sam.",
+      "Rastorfer Robert",
+      "Guex Georges",
+      "Guex Arnold",
+      "Guex Emile",
+      "Jordan Const.",
+      "Vulliens Aimé",
+      "Dutoit Louis",
+      "Vulliens Aimé",
+      "Vulliens Béat"
+    ],
+    "Agriculteurs": [
+      "Clot Eugène",
+      "Cruchon Jules",
+      "Depierraz Constant",
+      "Dutoit Alexis",
+      "Guex Ami",
+      "Guex Armand",
+      "Guex Fernand",
+      "Guex Const.",
+      "Guex frères",
+      "Guex Eugène",
+      "Guex Jean",
+      "Guex Jules",
+      "Jordan Aug.",
+      "Jordan Constant",
+      "Jordan Maurice",
+      "Vulliens Aimé",
+      "Vulliens Béat",
+      "Vulliens frères",
+      "Vulliens Aloïs",
+      "Vulliens Héli"
+    ],
+    "Aubergiste": [
+      "Dutoit Alexis"
+    ],
+    "Charpentiers": [
+      "Deluche Alfred",
+      "Guex Constant"
+    ],
+    "Commission scolaire": [
+      "Guex Jean-Samuel",
+      "Jordan Const."
+    ],
+    "Couturières": [
+      "Guex Olive",
+      "Jordan Nelly",
+      "Vulliens-Deluche Eugénie"
+    ],
+    "Epicerie": [
+      "Guex-Meystre Emile",
+      "Guex Hortense"
+    ],
+    "Inspecteur du bétail": [
+      "Guex Eugène"
+    ],
+    "Instituteurs": [
+      "Rastorfer Robert",
+      "Küffer Emma"
+    ],
+    "Laitier": [
+      "Muller Christian"
+    ],
+    "Scierie": [
+      "Baumgartner & Sebel"
+    ],
+    "Sociétés": [
+      "du battoir à grains",
+      "de fromagerie",
+      "Helvétienne"
+    ],
+    "Téléphoniste": [
+      "Dutoit Alexis"
+    ]
+  },
+  "BRENLES": {
+    "Autorités communales": [
+      "Durussel Osc.",
+      "Blanc Georges",
+      "Cavin Paul",
+      "Corthésy Paul",
+      "Blanc Léon",
+      "Rod Ulysse",
+      "Germond Eugène",
+      "Gavin Louis",
+      "Senn Edmond"
+    ],
+    "Agriculteurs": [
+      "Blanc Adr.",
+      "Blanc Hoirie d'Adrien",
+      "Blanc Louis",
+      "Corthésy frères"
     ]
   }
 }

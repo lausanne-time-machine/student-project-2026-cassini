@@ -1,242 +1,113 @@
 {
-  "GRANDCOUR": {
-    "Justice de paix": [
-      "Blanc",
-      "Detrey-Blanc Louis"
+  "VILLE DE NYON": {
+    "Chaussures.": [
+      "Cerf Bertha",
+      "Dreyfus René",
+      "Gut Albert",
+      "Jaquinet Louis",
+      "Weill Jules"
     ],
-    "Greffier": [
-      "Mayor-Thévoz Fritz"
+    "Chaux et gypse.": [
+      "Berlie Frédéric",
+      "Teysseire & Cie"
     ],
-    "Huissier": [
-      "Marcuard Adolphe"
+    "Chef de gare.": [
+      "Leuba Louis-Emile"
     ],
-    "Laitier": [
-      "Schwarz Ulrich"
+    "Chef de section.": [
+      "Burki Henri"
     ],
-    "Lingère": [
-      "Gachet Victoire"
+    "Chiffons (march. de).": [
+      "Dalla-Zuonna Pasqua",
+      "Mazza Caroline"
     ],
-    "Maçons": [
-      "Jaunin Ls",
-      "Ruchet Jean"
+    "Cinémas.": [
+      "Brun",
+      "Lenta François",
+      "Pécaut Charles"
     ],
-    "Marchand-tailleur": [
-      "Marcuard Alfred feu Jules"
+    "Coiffeurs.": [
+      "Abrezol Henri",
+      "Borgognon Olga",
+      "Berlie Alfred",
+      "Chollet Eug.",
+      "Claudet Charles",
+      "Perron Charles",
+      "Seeger Emile",
+      "Zeender Emile"
     ],
-    "Maraîchers": [
-      "Gentil Auguste",
-      "Marcuard Octave",
-      "Ruchet-Mercet, Vve"
+    "Combustibles.": [
+      "Berlie Frédéric",
+      "Raffini frères",
+      "Teysseire & Cie",
+      "Usine à gaz"
     ],
-    "Maréchaux": [
-      "Guggisberg Hermann",
-      "Marmier Fernand",
-      "Marmier Louis"
+    "Comestibles.": [
+      "Bovy Edouard",
+      "Dotte Henri",
+      "Golay Paul",
+      "Lizon-au-Cire Herman",
+      "Meschia Antonio",
+      "Rigoni Charles",
+      "Rosset Hélène",
+      "Schöpfer Victor"
     ],
-    "Matériaux de construction": [
-      "Mayor-Combremont Auguste"
+    "Commandant du feu.": [
+      "Collins Charles"
     ],
-    "Menuisiers": [
-      "Matthey Gustave",
-      "Ruchat Paul"
+    "Comptable.": [
+      "Rindlisbacher Louis"
     ],
-    "Meunier": [
-      "Combremont E."
+    "Commission scolaire.": [
+      "Bize Louis",
+      "Schranz Alfred",
+      "Gonet Charles",
+      "Chappuis Gustave",
+      "Gervaix Albert"
     ],
-    "Officier d’état-civil": [
-      "Marion-Dudan Louis"
+    "Commissionnaire-afficheur.": [
+      "Dessiex Aug."
     ],
-    "Oeufs et volailles (comm, d')": [
-      "Gentil Aug.",
-      "Marcuard Auguste d’Adolphe"
+    "Commission de Salubrité.": [
+      "Schranz Alfred",
+      "Tecon Julien",
+      "Bohy Charles"
     ],
-    "Pasteur": [
-      "Vernet Marc"
+    "Confections.": [
+      "Au Louvre",
+      "Balik Antoine",
+      "Cerf Bertha",
+      "Dreyfus René",
+      "Francina & Co.",
+      "Lob Salomon",
+      "Martin & Cie",
+      "Weill Jules"
     ],
-    "Pierriste": [
-      "Potterat Ulysse"
+    "Confiseurs.": [
+      "Gerber Alfred",
+      "Gilliéron Paul",
+      "Jaquier Emile",
+      "Knechtli Hedwige et Alice",
+      "Knechtli Max",
+      "Moser Ernest"
     ],
-    "Poste": [
-      "Marcuard Auguste",
-      "Ménétrey Emile"
+    "Conseil de paroisse.": [
+      "Dupraz Adolphe"
     ],
-    "Rentier": [
-      "Ludi Otto"
+    "Constructions mécaniques.": [
+      "Atlas (S. A.)",
+      "Ballabey E."
     ],
-    "Sage-femme": [
-      "Combremont Olga"
-    ],
-    "Scieurs": [
-      "Combremont E.",
-      "Jenny Henri"
-    ],
-    "Sellier": [
-      "Rod Ernest"
-    ],
-    "Sociétés": [
-      "de laiterie",
-      "de tir du Cordon vert et blanc",
-      "Fanfare La Lyre, Mayor Ch.",
-      "Chœur d'hommes, Mayor Adolphe",
-      "d'agriculture, Ruchat Chs",
-      "de Tir des bourgeois",
-      "Syndicat d'améliorations foncières, Oulevey Jules",
-      "Syndicat d'élevage",
-      "Mayor-Dudan Emile",
-      "Section de la Croix-Bleue",
-      "Section de l'Espoir, Burnier Rose",
-      "Union chrétienne de jeunes gens, Gyger Robert"
-    ],
-    "Téléphoniste": [
-      "Combremont Fritz"
-    ],
-    "Vélos": [
-      "Combremont Fritz"
-    ]
-  },
-  "GRANGES": {
-    "Autorités communales": [
-      "Barbey Gustave",
-      "Jordan Henri"
-    ],
-    "Syndic": [
-      "Nicod L.-A."
-    ],
-    "Municipaux": [
-      "Nicod Albert",
-      "Clot Henri",
-      "Bidiville Henri",
-      "Mermoud Eugène",
-      "Nicod Adrien d’Elie",
-      "Barbey Eugène"
-    ],
-    "Secrétaire": [
-      "Barbey Georges"
-    ],
-    "Boursier": [
-      "Barbey Emile"
-    ],
-    "Agriculteurs": [
-      "Balsiger Otto",
-      "Barbey Ernest",
-      "Barbey Paul",
-      "Barbey Ulysse",
-      "Bidiville Hri",
-      "Blanc Charles d’Isaac",
-      "Cherbuin Robert",
-      "Clément frères",
-      "Clément Lina",
-      "Corthésy Emile",
-      "Cosenday Edouard",
-      "Dind Jules",
-      "Duc Alfred",
-      "Duc François",
-      "Duc Albert",
-      "Duc Louis",
-      "Estoppey Héli",
-      "Gander Emile",
-      "Gosteli Emile",
-      "Jöhr Robert",
-      "Jordan Henri",
-      "Mermoud Eugène",
-      "Nicod Adolphe",
-      "Nicod Adrien d’Elie",
-      "Nicod Aimé",
-      "Nicod, hoirs d’Auguste",
-      "Rossat Alphonse",
-      "Rossat Eugène",
-      "Rossat Louis",
-      "Schlosser Frédéric",
-      "Terrin Alfred",
-      "Terrin Hri",
-      "Vuagniaux Henri"
-    ],
-    "Agriculture (fournitures pour)": [
-      "Nicod Auguste"
-    ],
-    "Ameublement": [
-      "Diserens Emile"
-    ],
-    "Appareilleurs": [
-      "Resin Alfred",
-      "Weber Ami"
-    ],
-    "Assurance-vie": [
-      "La Suisse",
-      "Nicod Marcel"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Oulevey P."
-    ],
-    "Société mutualiste de retraite": [
-      "Bidiville C."
-    ],
-    "Auberges et cafés": [
-      "Corminbœuf Marc",
-      "Estoppey Stoker Anna",
-      "Mermoud, Vve de Jules",
-      "Grossrieder Othmar",
-      "Marcuard Auguste"
-    ],
-    "Banque": [
-      "Crédit Foncier Vaudois",
-      "Nicod M.",
-      "Crédit Mutuel de Granges"
-    ],
-    "Bétail, march. de": [
-      "Saugy Emile"
-    ],
-    "Blanchisseuses-repasseuses": [
-      "Chevalley Zélie",
-      "Resin-Chevalley Lsa.",
-      "Steinmann Marie"
-    ],
-    "Boisselier": [
-      "Catillaz Philippe"
-    ],
-    "Boucher": [
-      "Nydegger Rod"
-    ],
-    "Boulangers": [
-      "Cherbuin-Barbey E.",
-      "Cuany Henri",
-      "Knopfel Jean"
-    ],
-    "Chapelleries": [
-      "Gilliéron Alfred",
-      "Pavarin Antoine",
-      "Senn-Vidoudez Charles"
-    ],
-    "Charcutiers": [
-      "Barbey Constant",
-      "Barbey Gustave"
-    ],
-    "Charpentiers": [
-      "Cosanday Adrien",
-      "Cosanday Edouard"
-    ],
-    "Charrons": [
-      "Bovet Charles",
-      "Stoll Auguste"
-    ],
-    "Chauffage central": [
-      "Resin A."
-    ],
-    "Chaussures": [
-      "Chabloz V.",
-      "Gilliéron Alfred",
-      "Javet Aug.",
-      "Pavarin Antoine",
-      "Senn-Vidoudez Charles"
-    ],
-    "Chef de gare": [
-      "Berchier Louis"
-    ],
-    "Chef de section": [
-      "Bidiville Constant"
-    ],
-    "Coiffeurs": [
-      "Savary E. et dame"
+    "Cordonniers.": [
+      "Arnhold Rich.",
+      "Bachelard Paul",
+      "Bertholet Henri",
+      "Bonmottet Ernest",
+      "Bouquet Ferdinand",
+      "Cérutti Jean",
+      "Ferro Hyacinthe",
+      "Foglio Angelo",
+      "Gut Albert"
     ]
   }
 }

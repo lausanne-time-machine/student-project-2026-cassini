@@ -1,232 +1,206 @@
 {
-  "La Chaux": {
-    "Agriculteurs": [
-      "Bornand Auguste",
-      "Campiche Louis",
-      "Gueissaz Ami",
-      "Jaccard",
-      "Jaccard Eug.",
-      "Jaccard",
-      "Jaccard Henri",
-      "Jaccard",
-      "Jaccard Const.",
-      "Jaccard Jules",
-      "Jaccard-Margot Louis",
-      "Joseph Edmond",
-      "Martin Alfred",
-      "Martin Constant",
-      "Martin Pierre",
-      "Mermod Edouard",
-      "Mermod Henri",
-      "Mutrux Jules",
-      "Nicollier frères",
-      "Paillard Auguste",
-      "Paillard Albert",
-      "Paillard Edouard",
-      "Rogli William",
-      "Sottaz Fritz"
+  "Bex": {
+    "Notaires": [
+      "Genet Edouard & fils",
+      "Paillard",
+      "Jaquenod"
     ],
-    "Bois (march. de)": [
-      "Martin Constant"
+    "Officier d'état-civil": [
+      "Gillard François",
+      "Jaquenod F."
     ],
-    "Café": [
-      "Bühler Louis",
-      "Cercle Populaire"
+    "Opticien": [
+      "Glanzmann Joseph"
     ],
-    "Commission scolaire": [
-      "Campiche Jules"
+    "Organiste": [
+      "Chevalley Marguerite"
     ],
-    "Epicerie": [
-      "Société de consommation"
+    "Papetiers": [
+      "Meister Edouard",
+      "Rochat Philippe"
     ],
-    "Horlogerie": [
-      "Jaccard-Margot Louis"
+    "Papiers peints": [
+      "Deantoni Pierre et fils",
+      "Devecchio Ch.",
+      "Perracini Théodule",
+      "Vicario Baptisto"
     ],
-    "Inspecteur du bétail": [
-      "Martin Constant"
+    "Parapluies": [
+      "Rapaz Paul"
     ],
-    "Instituteurs": [
-      "Desponds Pierre",
-      "Schneider Berthe"
+    "Pasteurs": [
+      "Avondet Agénor",
+      "Strehler Hermann",
+      "Chenaux Alfred",
+      "Vacat",
+      "Tamini Jean-Emile"
     ],
-    "Laiterie": [
-      "Guye César"
+    "Pédicure": [
+      "Guiger B., Dlle"
     ],
-    "Pasteur": [
-      "Estoppey Auguste"
+    "Peintre (artiste)": [
+      "Nicollerat Aimé"
     ],
-    "Poste": [
-      "Gonthier David"
+    "Pensions-familles": [
+      "Le Châtel",
+      "Deslex J.",
+      "Les Narcisses",
+      "Brède, Mme"
     ],
-    "Téléphone": [
-      "Cercle Populaire"
+    "Pensionnats": [
+      "Institut Chabloz",
+      "Aescher Th."
     ],
-    "Voituriers": [
-      "Auto-Transports La Chaux, S. A. RT.",
-      "Martin Constant",
-      "Martin Pierre"
-    ]
-  },
-  "La Vraconnaz": {
-    "Agriculteurs": [
-      "Barth Alfred",
-      "Barth Gottfried",
-      "Bornand Louis",
-      "Graf Henri",
-      "Gueissaz Edouard",
-      "Jaccard-Graf Ami",
-      "Jaccard John",
-      "Jaccard Justin",
-      "Leuba-Gallant Albert",
-      "Nicolier Vve et fils",
-      "Péguiron Alfr.",
-      "Sueur Lsa Vve et fils",
-      "Winkler Emile",
-      "Winkler Jean"
+    "Pépiniériste": [
+      "Marlétaz W."
     ],
-    "Bois (march. de)": [
-      "Addor Jules",
-      "Jaccard Alfred"
+    "Pharmaciens": [
+      "Exhenry Armand",
+      "Rosselet Jean"
     ],
-    "Café": [
-      "Jaquier Ernest"
+    "Photographes": [
+      "Delachaux P.",
+      "Desarsens C.",
+      "Meister Ed."
     ],
-    "Cantonnier": [
-      "Belet Adrien"
+    "Planches de roseaux (fab. de)": [
+      "Gips-Union (S. A.)"
     ],
-    "Instituteur": [
-      "Reymond Paul"
+    "Plâtre (fabr. de)": [
+      "Gips-Union S. A."
     ],
-    "Laiterie": [
-      "Mevlan"
+    "Produits chimiques": [
+      "Comp. des Produits électro-chimiques (S.A.)"
     ],
-    "Pierriste": [
-      "Simonin L."
+    "Quincaillerie": [
+      "Fleuti Alfred (S.A.)",
+      "Morier Alfred",
+      "Richard Paul"
     ],
-    "Poste": [
-      "Jaccard Philippe"
+    "Ramoneur": [
+      "Bernasconi Fern."
     ],
-    "Porcs (md de)": [
-      "Mevlan"
+    "Relieur": [
+      "Meister Ed."
     ],
-    "Scierie": [
-      "Jaccard Alfred"
+    "Sages-femmes": [
+      "Allamand-Pittier Emma",
+      "Putallaz Julie"
     ],
-    "Téléphone": [
-      "Margot Georges"
-    ]
-  },
-  "VAUGONDRY": {
-    "Président du Conseil général": [
-      "Paillard Arth."
+    "Salines": [
+      "Chevalley E.",
+      "Jaquerod H."
     ],
-    "Secrétaire": [
-      "Gander Alfred",
-      "Bovay Eugène"
+    "Savons au sable (fabr. de)": [
+      "Wiederhirn Henri"
     ],
-    "Syndic": [
-      "Gander Albert"
+    "Scieurs": [
+      "Collombet & Cie",
+      "Genillard & Cie",
+      "Cherix frères",
+      "Santagiuliana Ls",
+      "Welten & Cie"
     ],
-    "Municipaux": [
-      "Paillard Ernest",
-      "Gander Alfred"
+    "Serruriers": [
+      "Dreyer Emile",
+      "Fontannaz H.",
+      "Leutwyler Reinbert"
     ],
-    "Boursier": [
-      "Favrat Emile"
+    "Sociétés": [
+      "Soc. vaud. des mines et salines",
+      "Stand",
+      "Immobilière de Bex",
+      "Fédérale de gymnastique d'hommes",
+      "Fédérale des sous-officiers",
+      "Immobilière de Nagelin",
+      "Agricole et viticole",
+      "Immobilière de Laiterie",
+      "de tempérance de la Croix-Bleue",
+      "Laiterie Centrale",
+      "Laiterie Modèle",
+      "Coopérative de consommation l'Avenir",
+      "Cordon Bleu",
+      "Cordon Rose et Bleu",
+      "Forces motrices de l'Avançon",
+      "Développement",
+      "Représentants de Tell, Posses",
+      "Harmonie municipale",
+      "Orchestre",
+      "Fédérale des pontonniers",
+      "Club Alpin, sous-section Argentine",
+      "Foot-ball Club",
+      "Club de culture physique",
+      "Tir des mineurs",
+      "Industrielle et commerciale",
+      "Union chrétienne",
+      "Vélo-Club",
+      "Pédale du Rhône",
+      "Battoir",
+      "Coopérative « Fesa »",
+      "de chant Edelweiss",
+      "de chant La Soldanelle"
     ],
-    "Agriculteurs": [
-      "Bornoz Maur.",
-      "Favrat Emile",
-      "Gander Alb.",
-      "Gander Alfred",
-      "Gander Charles",
-      "Paillard Arthur",
-      "Perret Alfred",
-      "Simon Oscar"
+    "Tabacs et cigares": [
+      "Baltisser Jacob",
+      "Chamorel Eug.",
+      "Cretton-Helbling",
+      "Délémont Marguerite, Mlle",
+      "Genova, Mme, Vve",
+      "Mayor Madelaine",
+      "Ruchet-Richard Jeanne"
     ],
-    "Amodiateur": [
-      "Gander Charles"
+    "Tailleurs": [
+      "Annen Samuel-Frédéric",
+      "Gerer Robert",
+      "Seewer Eugène"
     ],
-    "Bûcherons": [
-      "Enggist Hermann",
-      "Gaille Hubert",
-      "Périllard Louis"
+    "Tapissiers": [
+      "Affolter Henri",
+      "Guignet Const.",
+      "Mayor Ernest",
+      "Thomas Jean-Louis",
+      "Wutrich-Seiler Frédéric"
     ],
-    "Cantonnier": [
-      "Tharin Jules"
+    "Télégraphiste et téléphoniste": [
+      "Wuhrmann Jeanne"
     ],
-    "Commission scolaire": [
-      "Gander Albert",
-      "Paillard Ernest"
+    "Thés, cafés, chocolats (spécialités en)": [
+      "« Mercure » S.A.",
+      "Zoller, Dlle"
     ],
-    "Inspecteur du bétail": [
-      "Paillard Arth."
-    ]
-  },
-  "VILLARS-BURQUIN": {
-    "Président du Conseil général": [
-      "Simon Numa"
+    "Tonneliers": [
+      "Dettwyler Jacob",
+      "Hefti G.",
+      "Isoz Gust."
     ],
-    "Secrétaire": [
-      "Duvoisin Auguste"
+    "Tourneurs": [
+      "Allamand Philippe",
+      "Rapaz Paul et André"
     ],
-    "Syndic": [
-      "Duvoisin Alfred"
+    "Tournage sur métaux": [
+      "Rapaz André"
     ],
-    "Municipaux": [
-      "Simon Robert",
-      "Maulaz Jules-Aug.",
-      "Simon Louis",
-      "Ray Jules"
+    "Usine à gaz": [
+      "Société du Gaz de la Plaine du Rhône"
     ],
-    "Secrét.": [
-      "Guenot Edouard"
+    "Vannerie": [
+      "Ostertag Christian"
     ],
-    "Boursier": [
-      "Favre Ernest"
+    "Vélocipèdes": [
+      "Gillard Lucien",
+      "Viscardi Achille",
+      "Zanchi & Conod"
     ],
-    "Agriculteurs": [
-      "Duvoisin Alfred",
-      "Hausamann Alexandre",
-      "Hausamann Oscar",
-      "Maulaz Jules-Auguste",
-      "Maulaz Edmond",
-      "Maulaz Francis",
-      "Ray Aug.-Louis",
-      "Ray Ls",
-      "Ray Louis-Edouard",
-      "Ray Fernand",
-      "Ray Olivier",
-      "Ray-Baatard Auguste",
-      "Roulet Arthur",
-      "Roulet Ernest",
-      "Simon Louis",
-      "Simon Numa"
+    "Vétérinaire": [
+      "Freiburghaus J."
     ],
-    "Associations mutualistes de retraite": [
-      "Schenkel Lucien"
+    "Verrerie": [
+      "Fleuti Alfred, S. A.",
+      "May-Martin Max",
+      "Richard Paul"
     ],
-    "Assesseur": [
-      "Maulaz Jules"
-    ],
-    "Auberges": [
-      "Cercle des Amis",
-      "Duvoisin Alfred",
-      "Simon Numa"
-    ],
-    "Boisselier": [
-      "Périllard Ami"
-    ],
-    "Charron": [
-      "Guenot Eugène-Edouard"
-    ],
-    "Chef de section": [
-      "Duvoisin Auguste"
-    ],
-    "Commission scolaire": [
-      "Simon Numa",
-      "Meyer",
-      "Ray Marcel"
+    "Vignes américaines": [
+      "Martin César"
     ]
   }
 }

@@ -1,233 +1,234 @@
 {
-  "RIVAZ": {
-    "Société mutualiste de retraite « La Vigneronne ».": [
-      "Chalet Tour d'Aï",
-      "Chalet l'Oasis"
+  "Ville d'Avenches": {
+    "Couvreurs": [
+      "Barmaverain Félicien"
     ],
-    "Commission scolaire": [
-      "Dubuis Alfred",
-      "Borloz-Tauxe Emile",
-      "Vaudroz Frédéric"
+    "Dentiste": [
+      "Dorier M. T."
     ],
-    "Epicerie, tabacs": [
-      "Bertholet Félix",
-      "Borloz-Bonin J. T."
+    "Distillateur": [
+      "Gerber Fr. T."
+    ],
+    "Eaux gazeuses": [
+      "Schrecker Fred."
+    ],
+    "Ecoles secondaires": [
+      "de Weiss A.",
+      "Bourquin Jules",
+      "Gallay Aloïs"
+    ],
+    "Electricité": [
+      "Administrat. des Eaux et Forêts",
+      "Guillod Charles"
+    ],
+    "Entrepreneurs": [
+      "Comune Célestin",
+      "Righetti François",
+      "Spinedi Paul",
+      "Tosalli Julien",
+      "Violi Eugène"
+    ],
+    "Epiceries": [
+      "Besson Marcel",
+      "Consommation",
+      "Favre Louise",
+      "Berger-Gilliard Suzanne",
+      "Gigaud-Thévoz Paul",
+      "Pfeiffer Oswald",
+      "Rubattel Aline",
+      "Sonnaillon Alexis",
+      "Stettler Fritz",
+      "Zahn Emma"
+    ],
+    "Etoffes": [
+      "Monney & Magnin",
+      "Loeb Régina",
+      "Schumacher Ernest"
+    ],
+    "Ferblantiers": [
+      "Rey Arnold",
+      "Staehlin Marcel"
+    ],
+    "Fers et métaux": [
+      "Revilly Jules",
+      "Sonnaillon Alexis"
+    ],
+    "Fromages": [
+      "Caratti Marthe",
+      "Schneider Jean",
+      "Schrecker Frédéric",
+      "Stettler Fritz"
     ],
     "Fruits et légumes": [
-      "Bonin Gustave"
+      "Gatti A.",
+      "Schneider Jean"
+    ],
+    "Gérant": [
+      "Faucherre Marcel"
+    ],
+    "Gypsiers": [
+      "Elia-Tricot Victor",
+      "Violi Eugène"
+    ],
+    "Horloger": [
+      "Pfister Jean"
+    ],
+    "Horlogers (fournit. pierres fines pour)": [
+      "« Aventica » (S. A.)",
+      "Cavellini Constant",
+      "Hofer Fernand"
+    ],
+    "Hôteliers": [
+      "Andrist Oscar",
+      "Corminbœuf Robert",
+      "Bettler Johann"
+    ],
+    "Imprimeur": [
+      "Cuhat J."
     ],
     "Inspecteur du bétail": [
-      "Borloz Jules",
-      "Bournoud Alexis"
+      "Miauton Gaston",
+      "Zinder Louis",
+      "Arm Ernest"
     ],
-    "Instituteurs": [
-      "Fontannaz Elie",
-      "Walter Marguerite"
+    "Instituteurs primaires": [
+      "Bœuf Eug.",
+      "Payot Marcel",
+      "Zinder Edouard",
+      "Zinder Marguerite",
+      "Barraud Augusta",
+      "Landry Yvonne",
+      "Magnin Hélène",
+      "Noverraz Marie"
     ],
-    "Lingère": [
-      "Grosjean Fanny"
+    "Jardiniers": [
+      "Delesset Robert",
+      "Zeller Conrad"
     ],
-    "Maçon": [
-      "Leyvraz Numa"
+    "Jouets": [
+      "Pfeiffer Oswald"
+    ],
+    "Journal": [
+      "Feuille d'Avis du district d'Avenches (Cuhat J.)"
+    ],
+    "Justice de paix du cercle": [
+      "Landriset Adrien",
+      "Miauton Jules",
+      "Gottraux Emile",
+      "Delessert Robert",
+      "Kiehl Maurice",
+      "Desarzens Ch."
+    ],
+    "Laitiers-fromagers": [
+      "Schwarz Emile",
+      "Stettler Fritz"
+    ],
+    "Lingères": [
+      "Revilly Julie",
+      "Savary Susanne",
+      "Wormser Elise"
+    ],
+    "Marchand-grainier": [
+      "Delessert Robert"
+    ],
+    "Machine à battre": [
+      "Schupbach Fritz"
+    ],
+    "Maréchaux": [
+      "Gentizon Louise",
+      "Miauton Gaston"
+    ],
+    "Marqueterie": [
+      "Guisan Oscar & fils"
+    ],
+    "Mécaniciens": [
+      "Berger & Bally",
+      "Burgy Ed."
+    ],
+    "Médecins": [
+      "Barrelet Pierre",
+      "Decker W.",
+      "Ruffy Roger"
     ],
     "Menuisiers": [
-      "Zanetta Edouard",
-      "Warpelin Marc"
+      "Brog Charles",
+      "Brog Gustave",
+      "Guisan O. & fils"
     ],
-    "Pensions pour enfants": [
-      "Les Fougères",
-      "Les Pommettes"
+    "Mercerie — Consommation": [
+      "Favre Louise",
+      "Monney & Magnin",
+      "Pfeiffer Oswald",
+      "Rubattel Aline",
+      "Sonnaillon Alexis",
+      "Zahn Emma"
     ],
-    "Pensions d'étrangers": [
-      "Hôtel Bellevue",
-      "Pension Dubuis",
-      "Hôt.-Pens. Bellevue",
-      "Pension Dent du Midi",
-      "Pension Bois-Gentil",
-      "Pens. Mon Abri",
-      "Pens. Soldanelle",
-      "Pension Sauge-Tauxe",
-      "Hôtel Victoria"
+    "Meubles": [
+      "Brog Charles",
+      "Brog Gust.",
+      "Guisan Oscar"
+    ],
+    "Meunier": [
+      "Moulin agricole, S. A."
+    ],
+    "Modistes": [
+      "Gigaud & Bessat",
+      "Pradervand sœurs"
+    ],
+    "Musée": [
+      "Grau Ernest",
+      "Moccand Pl."
+    ],
+    "Notaires": [
+      "Gobat Georges",
+      "Guex Henri",
+      "Porchet Edmond-Louis"
+    ],
+    "Officier d'état-civil": [
+      "Schumacher E."
+    ],
+    "Organiste": [
+      "Hostettler Martha"
+    ],
+    "Orphelinat": [
+      "de Weiss Albert",
+      "Ogay, Mlle"
+    ],
+    "Pasteur": [
+      "de Weiss Albert"
+    ],
+    "Pâtissiers": [
+      "Roth Gustave",
+      "Lauper Ernest"
+    ],
+    "Pêcheurs": [
+      "Favre Gustave",
+      "Tricot Louis"
+    ],
+    "Pension de jeunes gens": [
+      "Grau Ern."
+    ],
+    "Pharmacien": [
+      "Chappatte P."
+    ],
+    "Pierres fines (fab. de)": [
+      "Cavellini Constant",
+      "Hofer Fernand",
+      "« Aventica », S. A."
+    ],
+    "Poêlier": [
+      "Fornerod Louis"
     ],
     "Poste": [
-      "Leyvraz Augusta"
+      "Beausire Edouard"
     ],
-    "Renseignements": [
-      "Société de développement"
+    "Quincaillerie": [
+      "Revilly Jules",
+      "Rey Arnold",
+      "Sonnaillon Alexis"
     ],
-    "Scierie": [
-      "Commune"
-    ],
-    "Sociétés": [
-      "Laiterie de Corbeyrier",
-      "Société de développement",
-      "Société des francs-tireurs",
-      "Société des tireurs de Corbeyrier",
-      "Société des Sapeurs-pompiers",
-      "Chœur d'hommes",
-      "Jeunesse «Edelweiss»",
-      "Syndicat de Luan"
-    ],
-    "Tailleuse": [
-      "Leyvraz Madeleine"
-    ],
-    "Téléphone public": [
-      "Bureau des postes"
-    ],
-    "Voituriers": [
-      "Leyvraz Jules",
-      "Leyvraz Robert"
-    ]
-  },
-  "GRYON": {
-    "Autorités communales": [
-      "Chamorel Louis",
-      "Reuteler Henri",
-      "Saussaz Philippe",
-      "Ravy François",
-      "Amiguet Aug.",
-      "Moreillon Edouard",
-      "Aulet Louis",
-      "Amiguet J. fils",
-      "Aulet François",
-      "Moreillon François"
-    ],
-    "Commission scolaire": [
-      "Anex-Rey Philippe",
-      "Amiguet Jules"
-    ],
-    "Agriculteurs": [
-      "Amiguet Auguste",
-      "Amiguet Gabriel",
-      "Amiguet Jles",
-      "Anex Cés.",
-      "Anex Hri.",
-      "Aulet François",
-      "Aulet Louis",
-      "Besse Modeste",
-      "Bocherens Ls",
-      "Bocherens Phil.",
-      "Chamorei Ls",
-      "Cottier Phil.",
-      "Delacrétaz Albert",
-      "Delacrétaz Gustave",
-      "Finger Charles",
-      "Fumeaux Lucien",
-      "Jaquerod Vinc.",
-      "Moreillon-Delacrétaz Ph.",
-      "Moreillon-Gaud François",
-      "Moreillon Félix",
-      "Moreillon Jules",
-      "Mösching A.",
-      "Nicollerat Daniel",
-      "Normand Abram",
-      "Roussi Alfred",
-      "Ruchet Jules",
-      "Vurlod Charles"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Rey Marcel"
-    ],
-    "Société mutualiste de retraite": [
-      "Jaquerod V."
-    ],
-    "Blanchisseuses": [
-      "Moreillon Elise",
-      "Moreillon Julie",
-      "Normand-Moreillon Olga",
-      "Pflug Marie"
-    ],
-    "Bois (march. de)": [
-      "Kohly Jean"
-    ],
-    "Boulangers": [
-      "Anex-Testaz",
-      "Meylan Louis"
-    ],
-    "Buraliste postal": [
-      "Henry Ernest"
-    ],
-    "Bureau des étrangers": [
-      "Amiguet Jules"
-    ],
-    "Cafés": [
-      "Delacrétaz Gust.",
-      "Refuge des Diablerets",
-      "Moreillon Paul",
-      "Buffet de la Gare",
-      "Richard-Vurlod",
-      "Tour d'Anzeindaz",
-      "Schopfer Alfred",
-      "Jaquerod Vincent",
-      "Moreillon-Delacrétaz Ph."
-    ],
-    "Charpentiers": [
-      "Jaggi Pierre",
-      "Kohly Jean"
-    ],
-    "Charretiers": [
-      "Bocherens Philippe",
-      "Kohly Albert",
-      "Testaz Henri"
-    ],
-    "Chef de section": [
-      "Amiguet Jules"
-    ],
-    "Chef de gare": [
-      "Bratschy Henri"
-    ],
-    "Confiseurs": [
-      "Anex Henri fils",
-      "Meylan Louis"
-    ],
-    "Cordonniers": [
-      "Broyon Ern.",
-      "Pfulg Albert"
-    ],
-    "Couturières": [
-      "Moreillon Elisa",
-      "Moreillon-Normand Mathilde",
-      "Ravy Marie"
-    ],
-    "Crémerie": [
-      "Saussaz Louise",
-      "Aux Pars"
-    ],
-    "Electriciens": [
-      "Saussaz Gustave"
-    ],
-    "Entrepreneur": [
-      "Marchionini Pierre"
-    ],
-    "Epicerie, mercerie, tabacs": [
-      "Amiguet J. fils",
-      "Coopérative de Consommation",
-      "Genet Robert",
-      "Thomas Pauline",
-      "Verboven Joseph"
-    ],
-    "Garde-chasse": [
-      "Herren"
-    ],
-    "Inspecteur du bétail": [
-      "Anex César"
-    ],
-    "Instituteur": [
-      "Rey Marcel"
-    ],
-    "Institutrices": [
-      "Laesser Susanne",
-      "Roch Aline",
-      "Anex Rosa"
-    ],
-    "Laitier": [
-      "Porchet Robert"
-    ],
-    "Location de chalets": [
-      "Bratschy Hri"
-    ],
-    "Maçon": [
-      "Sartoretti Pierre"
+    "Ramoneur": [
+      "Barmaverain Félicien"
     ]
   }
 }

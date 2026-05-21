@@ -1,191 +1,227 @@
 {
-  "La Tour-de-Peilz": {
-    "Ebéniste": [
-      "Muller Jakob"
+  "COMBREMONT-LE-PETIT": {
+    "Tailleuse": [
+      "Bettex Marthe"
     ],
-    "Electriciens": [
-      "Montet Marcel"
+    "Tanneurs": [
+      "Bettex frères"
     ],
-    "Entrepreneurs": [
-      "Colombo Albert",
-      "Dutoit Rodolphe",
-      "Zuretti Pierre"
+    "Téléphoniste": [
+      "Hollenweger Adolphe"
+    ]
+  },
+  "CORCELLES près PAYERNE": {
+    "Autorités communales": [
+      "Perrin-Cherbuin Ernest",
+      "Cherbuin Robert d'Henri"
     ],
-    "Epiceries": [
-      "Collioud M.",
-      "Dovat Jean",
-      "Krieger Marie-Adeline, Vve",
-      "Longchamp Charles",
-      "La Ménagère",
-      "Rumpf Aubort & Cie",
-      "Thiébaud Albert",
-      "Logoz-Sablon",
-      "Verdan Albert"
+    "Syndic": [
+      "Rapin-Rapin Ernest"
     ],
-    "Ferblantiers": [
-      "Boraley Louis",
-      "Montet Fern.",
-      "Rastoldo A.",
-      "Winiger Ern.",
-      "Vuadens Arnold"
+    "Municipaux": [
+      "Detrey Auguste",
+      "Pradervand André",
+      "Fivaz Edmond",
+      "Rapin Willy",
+      "Rapin-Perrin Ct",
+      "Pradervand Marc",
+      "Perrin Henri",
+      "Perrin-Rapin Ulysse"
     ],
-    "Fruits et légumes": [
-      "Fäs-Reymond",
-      "Krieger Adeline",
-      "Logoz-Sablon Julienne",
-      "Monney, Vve d'Etienne",
-      "Monney Joseph",
-      "Ormond Jules",
-      "Reusser Jean"
+    "Agriculteurs": [
+      "Bosset Hubert",
+      "Bossy frères",
+      "Buache-Häberli Ernest",
+      "Cherbuin Albert",
+      "Cherbuin Ami",
+      "Cherbuin Henri",
+      "Cherbuin François",
+      "Cherbuin Othmar",
+      "Chuard Emile",
+      "Cousset Henri",
+      "Delacour Oscar",
+      "Detrey Emile",
+      "Detrey Eugène",
+      "Doudin Emile",
+      "Fivaz Edmond",
+      "Jaquemet William",
+      "Jan César",
+      "Jan Const.",
+      "Jan Ulysse",
+      "Nicolier frères",
+      "Oulevey, Veuve d'Ami",
+      "Oulevey Emile",
+      "Oulevey Onésime",
+      "Oulevey Paul",
+      "Perrin Henri",
+      "Perrin Gustave",
+      "Perrin, hoirie d'Ernest",
+      "Pradervand, Veuve d'Aimé",
+      "Pradervand André",
+      "Pradervand Gervais",
+      "Rapin Henri d'Alexis",
+      "Rapin Ami",
+      "Rapin Gustave d'Armand",
+      "Rapin-Bardel Charles",
+      "Rapin Constant d'Alfred",
+      "Rapin Henri",
+      "Rapin Emile d'Alfred",
+      "Rapin-Perrin Fritz",
+      "Rapin Charles d'Armand",
+      "Rapin Gustave",
+      "Rapin Hubert",
+      "Rapin Jules, d'Alfred",
+      "Rapin Louis, d'Henri",
+      "Rapin-Perrin Constant",
+      "Rapin-Rapin Ernest",
+      "Rapin Constant feu Félix",
+      "Rapin Henri d'Emile",
+      "Rapin David, d'en bas",
+      "Rapin-Detrey Gustave",
+      "Rapin Louis d'Albert",
+      "Rapin Samuel",
+      "Savary Edouard",
+      "Schülé Constant",
+      "Thévoz Armand"
     ],
-    "Garde-malades": [
-      "Oppliger C., Mlle"
+    "Assesseur": [
+      "Rapin-Blanc Henri"
+    ],
+    "Associations mutualistes de retraite": [
+      "Gonin L."
+    ],
+    "Auberges et cafés": [
+      "Bersier Arthur",
+      "Buache Ulysse",
+      "Detrey Albert",
+      "Fischer Gustave",
+      "Cavin Henri",
+      "Morel Eugène",
+      "Perrin Ern.",
+      "Perrin Henri"
+    ],
+    "Auto-transports": [
+      "Bossy Amédée"
+    ],
+    "Betterave à sucre (culture)": [
+      "Chuard Alfred",
+      "Coucet Jaques",
+      "Jaquemet William",
+      "Oulevey Emile",
+      "Perrin-Fivaz Ernest",
+      "Rapin Chs."
+    ],
+    "Bois (march. de)": [
+      "Bossy frères"
+    ],
+    "Boulangers": [
+      "Cousin Jean",
+      "Pradervand Constant"
+    ],
+    "Briqueterie": [
+      "Morandi frères"
+    ],
+    "Camionneurs": [
+      "Bossy Amédée",
+      "Detrey Edmond"
+    ],
+    "Charcutier": [
+      "Fischer Gustave"
+    ],
+    "Charpentier": [
+      "Rüfenacht Ad."
+    ],
+    "Charrons": [
+      "Detrey Théodore",
+      "Ruchat Jules"
+    ],
+    "Chaux, ciment, houille": [
+      "Rapin Jules"
+    ],
+    "Chefs de gare": [
+      "Wenker Louis-Adr.",
+      "Jan Jaques"
+    ],
+    "Coiffeurs": [
+      "Detrey Albert",
+      "Rapin Oswald"
+    ],
+    "Commission scolaire": [
+      "Rapin-Rapin Ernest",
+      "Oulevey John"
+    ],
+    "Cordonniers": [
+      "Gyger Ernest",
+      "Jan Marcel"
+    ],
+    "Couturières": [
+      "Delacour Anette",
+      "Gorgerat Jeanne",
+      "Nicolier Alice"
+    ],
+    "Engrais chimiques": [
+      "Perrin Gustave",
+      "Rapin Constant"
+    ],
+    "Epicerie, mercerie": [
+      "Perrin Henri",
+      "Perrin-Rapin Félix",
+      "Perrin Ulysse",
+      "Chuard Emile",
+      "Rapin-Schneider César",
+      "Rapin Suzanne"
+    ],
+    "Farines (comm. de)": [
+      "Bossy frères"
+    ],
+    "Faucheuses": [
+      "Perrin",
+      "Rapin Ernest, de Félix"
+    ],
+    "Ferblantier": [
+      "Jan Aimé"
+    ],
+    "Fers": [
+      "Chuard Charles fils",
+      "Rapin Octave"
+    ],
+    "Grains (comm. de)": [
+      "Bossy & Cie",
+      "Bossy frères"
     ],
     "Gypsiers-peintres": [
-      "Felli Gustave",
-      "Felli & Malcotti",
-      "Mayor Alb.",
-      "Henrioud"
+      "Glaus & Trezzini"
     ],
-    "Horticulteurs": [
-      "Voir Jardiniers"
-    ],
-    "Hôtels-pensions": [
-      "Käser-Urfer",
-      "Comte Louis",
-      "Hôtel des Alpes",
-      "Oggier Castule",
-      "Pension Erica"
-    ],
-    "Hygiène de la chevelure": [
-      "Verdon R."
+    "Huilier": [
+      "Rapin Jean-David"
     ],
     "Inspecteur du bétail": [
-      "Dovat Jean"
+      "Fivaz Edmond",
+      "Rapin Gustave"
     ],
     "Instituteurs": [
-      "Gaulaz Maurice",
-      "Magnin Victor",
-      "Serex Charles",
-      "Calame Ch.",
-      "Forel Auguste",
-      "Buxcel Emilie",
-      "Calame-Haury Jeanne",
-      "Reusser Elisabeth",
-      "Serex-Rochat Cécile",
-      "Bron Lucette",
-      "Vuadens Marguerite",
-      "Roux Alice",
-      "Lamberey Renée"
+      "Gonin Léon",
+      "Delacuisine Mce",
+      "Massonnet Rob.",
+      "Rapin Adèle, d'Auguste",
+      "Perrin Nelly",
+      "Pradervand Berthe",
+      "Marguerat Adrienne",
+      "Perrin-jaquet Gérald"
     ],
-    "Jardiniers": [
-      "Aubert Alexis",
-      "Brunner Joseph & fils",
-      "Burri Adolphe",
-      "Chevalley Aimé",
-      "Cossy-Niklaus Ed.",
-      "Dunant Emile",
-      "Horisberger Samuel",
-      "Holtz Charles",
-      "Jaquier Frères",
-      "Byrde & Vité",
-      "Obrist Jean",
-      "Regamey J.",
-      "Plumeré Léon",
-      "Rieder Eugène",
-      "Schyrr Richard"
+    "Juge de paix": [
+      "Perrin-Jan Henri"
     ],
-    "Justice de paix": [
-      "Vuadens Otto",
-      "Bovon Gustave",
-      "Béguin-Guex Jules",
-      "Henry Constant",
-      "Gétaz Emile",
-      "Favre Louis",
-      "Longchamp Charles"
+    "Juge au tribunal": [
+      "Cherbuin Edouard"
     ],
-    "Lait": [
-      "Soc. pour l'exportation des laits Hollandia, S. A. R."
-    ],
-    "Laiterie": [
-      "Bardet Sam."
+    "Laitier": [
+      "Bärtschi Jean"
     ],
     "Lingères": [
-      "Genton Julie",
-      "Rodieux- Roussy Elisa",
-      "Tschumy Lina, Mme"
-    ],
-    "Marbrier": [
-      "Stringa Joseph"
-    ],
-    "Maréchal": [
-      "Haller Laurent"
-    ],
-    "Masseurs": [
-      "Favre-Rochex J.",
-      "Hunziker A., Mme",
-      "Nicolet Hélène, dame",
-      "Oppliger C., Mlle",
-      "Viquerat Lina"
-    ],
-    "Mécaniciens": [
-      "Chevalley",
-      "Desclouds Henri.",
-      "Erlebach Ch.",
-      "Gilliand Eug.",
-      "Nicolas Ph."
-    ],
-    "Médecins": [
-      "Bettex Marius",
-      "Bovon J.",
-      "Martin Henri",
-      "Miéville Adrien",
-      "Parlato Emile"
-    ],
-    "Menuisiers": [
-      "Guédon René fils",
-      "Guyot James",
-      "Murbach Emile",
-      "Ryf L. & fils"
-    ],
-    "Mercerie": [
-      "Montet Philippe"
-    ],
-    "Meubles": [
-      "Bruhin Max"
-    ],
-    "Modiste": [
-      "Giovannoni Louisa"
-    ],
-    "Mosaïque": [
-      "Castioni Arnold",
-      "Castioni- Baud Adolphe",
-      "Pedroli Hub.",
-      "Ducret"
-    ],
-    "Officier d'état civil": [
-      "Favre Louis"
-    ],
-    "Papeterie": [
-      "Montet Philippe"
-    ],
-    "Pédicure": [
-      "Speck-Tschumy, Mme"
-    ],
-    "Pasteurs": [
-      "Amiet Albert",
-      "Porret Arnold"
-    ],
-    "Peintre (voir aussi gypsiers)": [
-      "Koog Emile"
-    ],
-    "Pension alimentaire": [
-      "Crausaz Laure"
-    ],
-    "Pensionnats": [
-      "Mauerhofer Augusta",
-      "Schindler Marie",
-      "Sillig Max"
+      "Pidoux Berthe",
+      "Pradervand Sarah",
+      "Rapin Giselle"
     ]
   }
 }

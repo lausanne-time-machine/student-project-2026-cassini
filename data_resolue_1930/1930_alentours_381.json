@@ -1,241 +1,111 @@
 {
-  "ORNY": {
-    "Municipaux": [
-      "Michaud Henri",
-      "Pavillard Lucien",
-      "Vannod Georges",
-      "Messeiller Julien",
-      "Messeiller Henri"
+  "Montreux": {
+    "Selliers": [
+      "Pillonnel A.",
+      "Rutishauser & Kupfer",
+      "Viquerat Ami",
+      "Zaugg Jean",
+      "Zwahlen Ernest"
     ],
-    "Agriculteurs.": [
-      "Derameru Alfred",
-      "Gex Henri",
-      "Jaquinet Henri et Ch.",
-      "Juvet Alexandre",
-      "Messeiller Ele",
-      "Messeiller Hri",
-      "Michaud Alexandre",
-      "Michaud Emile",
-      "Michaud Félicien",
-      "Michaud François",
-      "Michaud Henri",
-      "Michaud Maurice",
-      "Pavillard frères",
-      "Pavillard Henri",
-      "Pavillard Justin",
-      "Pavillard Lucien, Vve",
-      "Péclard Alexandre",
-      "Tissot Alexis",
-      "Tissot Emile",
-      "Vannod Alfred",
-      "Vannod Emile",
-      "Weber frères"
+    "Serruriers.": [
+      "Aellen Samuel",
+      "Cartier G.",
+      "Ducommun L.",
+      "Eiselt Arthur",
+      "Flückiger Louis",
+      "Glauser-Jost",
+      "Güdel Rod.",
+      "Haas A.",
+      "Héritier Ele",
+      "Huber Emile",
+      "Hurni Albert",
+      "Joly Ernest",
+      "Loosli Jean",
+      "Martin Henri",
+      "Miauton E. & Cie",
+      "Mottier Marc",
+      "Nicoulaz A.",
+      "Pilloud Emile",
+      "Schneider Henri",
+      "Taroni Antoine"
     ],
-    "Amodiateurs.": [
-      "Michaud Alexandre",
-      "Michaud Henri"
-    ],
-    "Assurance-vieillesse": [
-      "Associations mutualistes de retraite"
-    ],
-    "Café.": [
-      "Michaud Maurice"
-    ],
-    "Commission scolaire.": [
-      "Messeiller Julien",
-      "Brasseler",
-      "Vannod Georges"
-    ],
-    "Epicerie-mercerie.": [
-      "Romanens William"
-    ],
-    "Fruits et légumes.": [
-      "Guignard Suzette"
-    ],
-    "Inspecteur du bétail.": [
-      "Michaud Alex"
-    ],
-    "Instituteurs.": [
-      "Borgeaud Emile",
-      "Borgeaud Berthe"
-    ],
-    "Laitier.": [
-      "Meylan Edouard"
-    ],
-    "Machine à battre.": [
-      "Société du battoir à blé"
-    ],
-    "Pension (malad. ment.).": [
-      "Michaud Henri"
+    "Service d'escompte.": [
+      "Légeret Chs"
     ],
     "Sociétés.": [
-      "de fromagerie",
-      "du battoir à blé",
-      "Syndicat agricole"
+      "Asile de vieillards du 1er arrondissement. R.",
+      "Association laitière de Chernex. R.",
+      "Chorale de Montreux.",
+      "Club International de Sports S. A.",
+      "Club nautique Clarens.",
+      "Communauté israëlite. R.",
+      "Crèche (La)",
+      "Deutscher Hilfsverein.",
+      "Etoile de Noël",
+      "Lawn-Tennis Club.",
+      "Ligue vaudoise contre la tuberculose.",
+      "Loge «Fraternité» des Bons-Templiers",
+      "Loge maçonnique.",
+      "Montreux-Club.",
+      "Montreux-Sport. R.",
+      "Nouvelle Société Helvétique.",
+      "Sauvetage de Territet.",
+      "Section de Montreux du Club Alpin Suisse. R.",
+      "Société de Développement de Montreux et environs.",
+      "» des Intérêts des Avants. R.",
+      "» Chœur d'hommes",
+      "» de chant, Le Chœur des Alpes",
+      "Service d'Escompte de Montreux, Vallée du Rhône et Pays-d'Enhaut",
+      "M. P. Kuès"
     ],
-    "Téléphoniste.": [
-      "Michaud Maurice"
-    ]
-  },
-  "PAMPIGNY": {
-    "Autorités communales.": [
-      "Freymond Armand",
-      "Bolay Ernest"
-    ],
-    "Syndic": [
-      "Bolay Fernand"
-    ],
-    "Municipaux": [
-      "Zimmermann Paul",
-      "Cailler Henri",
-      "Aubert Will.",
-      "Bataillard Henri"
-    ],
-    "Secrét.": [
-      "Zimmermann Alfred"
-    ],
-    "Boursier": [
-      "Tardy Georges"
-    ],
-    "Agriculteurs.": [
-      "Aubert Alfred",
-      "Bachelard Paul",
-      "Bolay Fernand",
-      "Bolay Jules",
-      "Bussy Ele.",
-      "Fuchs Jean",
-      "Gruaz Ed.",
-      "Lambercy Ernest",
-      "Pittet Fernand"
-    ],
-    "Amodiateurs.": [
-      "Bolay John",
-      "Bussy Adrien",
-      "Tardy frères"
-    ],
-    "Apiculteur.": [
-      "Bolay Ernest",
-      "Zimmermann frères"
-    ],
-    "Assurance-vieillesse": [
-      "Mutualité scolaire de retraite"
-    ],
-    "Aviculteur.": [
-      "Bolay Ernest"
-    ],
-    "Auberges et cafés.": [
-      "Aubert Fernand",
-      "Chappuis Emile"
-    ],
-    "Balais (fab. de).": [
-      "Zimmermann Louis"
-    ],
-    "Bestiaux (march. de).": [
-      "Bolay J."
-    ],
-    "Bois (march. de).": [
-      "Bolay John",
-      "Pittet Alfred"
-    ],
-    "Boulanger.": [
-      "Trachsel Charles"
-    ],
-    "Charpentier.": [
-      "Bonzon Louis"
-    ],
-    "Charron.": [
-      "Zimmermann Jules"
-    ],
-    "Chevaux (éleveurs de).": [
-      "Bussy Emile",
-      "Aubert Alfred"
-    ],
-    "Chaussures et chapellerie.": [
-      "Monot Eugène"
-    ],
-    "Commission scolaire.": [
-      "Tardy Georges",
-      "Tardy John"
-    ],
-    "Cordonniers.": [
-      "Cornamusaz Henri",
-      "Probst Henri"
-    ],
-    "Entrepreneur.": [
-      "Cortellini, hoirie"
-    ],
-    "Epicerie, mercerie, tabacs.": [
-      "Aubert sœurs",
-      "Monot Eugène",
-      "Pittet-Cottier Fernand",
-      "Soc. coop. de Consommation"
-    ],
-    "Fers.": [
-      "Monot Eugène"
-    ],
-    "Garde-forestier.": [
-      "Zimmermann Arthur"
-    ],
-    "Gypsier-Peintre.": [
-      "Castelli Charles"
-    ],
-    "Inspecteur du bétail.": [
-      "Tardy M."
-    ],
-    "Instituteurs.": [
-      "Bolay Ernest",
-      "Bonard Denise",
-      "Chamot Julie"
-    ],
-    "Maréchal.": [
-      "Mayor Robert"
-    ],
-    "Médecin.": [
-      "Borel Henri"
-    ],
-    "Menuisier.": [
-      "Bornoz Louis"
-    ],
-    "Officier d'état civil.": [
-      "Tardy John"
-    ],
-    "Pasteur.": [
-      "Nicolet Jean"
-    ],
-    "Pépiniériste.": [
-      "Zimmermann Arthur"
-    ],
-    "Poste.": [
-      "Gaudin Albert",
-      "Bolay Gustave"
-    ],
-    "Selliers.": [
-      "Mettler Johannes",
-      "Surber Antoine"
-    ],
-    "Sociétés.": [
-      "Caisse du Crédit mutuel",
-      "Soc. du poids public",
-      "de fromagerie l'Union",
-      "de tir",
-      "de chant",
-      "Syndicat agricole",
-      "Société du battoir à grains",
-      "Société d'alpage",
-      "Société Coopérative de consommation",
-      "Société dramatique l'Avenir"
-    ],
-    "Tailleuses.": [
-      "Aubert Lina",
-      "Aubert Fanny",
-      "Bachelard-Fuchs Louise",
-      "Pittet Louise"
-    ],
-    "Téléphoniste.": [
-      "Aubert Fernand"
-    ],
-    "Tuiliers.": [
-      "Freymond Armand, ing. & Cie"
+    "Colonies de vacances.": [
+      "Société auxiliaire de l'Ecole et de la famille",
+      "P. Henchoz",
+      "» Echo de Sonchaud",
+      "» Espérance de Clarens.",
+      "» La Chorale. R.",
+      "» de la Chapelle catholique. R.",
+      "» de la Communauté évangélique allemande. R.",
+      "» du jeu de golf. R.",
+      "» de gymnastique ancienne.",
+      "» de gymnastique",
+      "» fédérale de gymnastique.",
+      "» de gymnastique, « Helvétia »",
+      "» de gymnastique de Glion.",
+      "» d'horticulture de Montreux et des confins du Rhône.",
+      "» industr. et commerciale.",
+      "» italienne de secours mutuel. R.",
+      "» Joyeux Touristes. R.",
+      "» de laiterie de Vernex. R.",
+      "» de laiterie de Brent. R.",
+      "» de laiterie de Chailly. R.",
+      "» du four de Brent.",
+      "» des marchands de combustibles. R.",
+      "» de tambours montreusiens.",
+      "» de musique, Lyre de Montreux",
+      "» Union Instrumentale",
+      "» du Sanatorium. R.",
+      "» de sauvetage de Montreux.",
+      "» de sauvetage de Territet.",
+      "» de sauvetage de Clarens.",
+      "» vaudoise de Secours mutuels.",
+      "» de secours mutuels Helvétia.",
+      "» de tir aux armes de guerre.",
+      "» de tir Carabiniers de Montreux.",
+      "» de tir, Echarpes Blanches.",
+      "» de tir au Fusil",
+      "» des hôteliers de Montreux et environs. R.",
+      "» des salles populaires évangéliques. R.",
+      "» des sous-officiers.",
+      "» d'escrime",
+      "» de tempérance, Croix-Bleue.",
+      "» du débarcadère de Clarens. R.",
+      "» du débarcadère de Montreux. R.",
+      "» du débarcadère de Territet-Chillon",
+      "» française de secours mutuels. R.",
+      "» industrielle et commerciale",
+      "Ed. Rumpf",
+      "» Rambertia (jardin botanique de Naye). R."
     ]
   }
 }

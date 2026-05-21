@@ -1,255 +1,263 @@
 {
-  "BUCHILLON": {
-    "Président du Conseil général": [
-      "Lachat Charles"
+  "Villars-Bozon": {
+    "Bois (march. de.)": [
+      "Gruaz frères",
+      "Weber Georges, fils"
     ],
-    "Secrétaire": [
-      "Perroud Alexandre",
-      "Roulier F."
+    "Café.": [
+      "Rochat Fernand"
     ],
-    "Syndic": [
-      "de Lessert Roger"
+    "Epicerie, mercerie.": [
+      "Faillettaz Alis"
     ],
-    "Municipaux": [
-      "Genoux-Rawyler Ls",
-      "Cœndoz V.",
-      "Perroud F.",
-      "Rawyler Ph."
+    "Farines-céréales.": [
+      "Weber G., fils"
     ],
-    "Boursier": [
-      "Perroud Ch."
+    "Inspecteur du bétail.": [
+      "Panchaud Constant"
     ],
-    "Agriculteurs": [
-      "Cœndoz V.",
-      "Genoux-Rawyler Louis",
-      "Humbert Henri",
-      "Perroud Charles",
-      "Perroud Fernand",
-      "Perroud Louis"
+    "Instituteur.": [
+      "Court Louis"
     ],
-    "Cafés": [
-      "Beroud E.",
-      "Fivaz C."
+    "Laitier.": [
+      "Société de laiterie"
     ],
-    "Commission scolaire": [
-      "Perrin",
-      "Chappuis",
-      "Sonnard U."
+    "Menuisier.": [
+      "Faillettaz-Vial Alexis"
     ],
-    "Couturière": [
-      "Foretay Adèle"
+    "Poste.": [
+      "Geneyne-Chaillet Léa"
     ],
-    "Epicerie": [
-      "Genoux-Bonzon Louis"
+    "Société.": [
+      "de fromagerie de Villars-Bozon & Mauraz"
     ],
-    "Inspecteur du bétail": [
-      "Genoux-Rawyler, Louis"
-    ],
-    "Instituteurs": [
-      "Roulier Frédéric",
-      "Perroud Alice"
-    ],
-    "Jardiniers": [
-      "Corthay Ch.",
-      "Rawyler Philippe",
-      "Richard César",
-      "Trottet Edouard"
-    ],
-    "Laitier": [
-      "Diserens Armand"
-    ],
-    "Pêcheurs": [
-      "Bolomey Jules",
-      "Corthay Edouard",
-      "Corthay Emile",
-      "Lachat Charles",
-      "Lachat Jules",
-      "Rawyler Eugène"
-    ],
-    "Pensions": [
-      "Pension de la Forêt, Genoux A.",
-      "Pension des Grands Bois, Fivaz C."
-    ],
-    "Pisciculture": [
-      "Etat de Vaud"
-    ],
-    "Poste": [
-      "Corthay François"
-    ],
-    "Société": [
-      "de fromagerie R."
-    ],
-    "Téléphoniste": [
-      "Genoux-Bonzon, dame"
-    ],
-    "Vignerons": [
-      "Corthay Emile",
-      "Corthay Samuel",
-      "Jousson Louis"
-    ],
-    "Divers": [
-      "Frey. Dr",
-      "Perrin Marius",
-      "Rosset-Nyffenegger",
-      "Rochat H.",
-      "Verrey-Renevier. dame"
+    "Téléphoniste.": [
+      "Faillettaz Alexis"
     ]
   },
-  "BUSSIGNY": {
+  "L'Isle": {
+    "Agriculteurs.": [
+      "Baud hoirie",
+      "Bernard William",
+      "Bernard Marcel",
+      "Bernard Oscar",
+      "Cloux Edouard",
+      "Cloux John",
+      "Courvoisier Hri",
+      "Favre Ls-Aimé",
+      "Vulliens Jles"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Maire C."
+    ],
+    "Société mutualiste de retraite": [
+      "Cloux J."
+    ],
+    "Auberges et cafés.": [
+      "Francfort Emile",
+      "Cloux Edouard",
+      "Chaillet Jules"
+    ],
+    "Banque.": [
+      "Crédit foncier vaudois et Caisse d'Epargne cantonale",
+      "Courvoisier Gustave",
+      "Crédit mutuel",
+      "Bernard Fernand",
+      "Union vaudoise du Crédit",
+      "Delacuisine E."
+    ],
+    "Blanchisseuse-repasseuse.": [
+      "Reymond Jenny"
+    ],
+    "Bois (march. de.)": [
+      "Bernard Maurice",
+      "Bernard Louis",
+      "Faillettaz Ch.",
+      "Jeanneret-Favre Arnold",
+      "Schaer Fritz"
+    ],
+    "Boucher.": [
+      "Speidel Fritz"
+    ],
+    "Boulangers.": [
+      "Fontannaz hoirie"
+    ],
+    "Charcutiers.": [
+      "Speidel Fritz",
+      "Wulliems-Martinet J."
+    ],
+    "Charpentier.": [
+      "Jan François"
+    ],
+    "Charron.": [
+      "Gruaz Louis"
+    ],
+    "Chef de section.": [
+      "Cloux John"
+    ],
+    "Cirage-graisse.": [
+      "Dubrit Alfred"
+    ],
+    "Coiffeur": [
+      "Dubois Fritz"
+    ],
+    "Cordonniers.": [
+      "Dubrit P.",
+      "Faure D."
+    ],
+    "Couturières.": [
+      "Fuhrer Berthe",
+      "Grob, dame",
+      "Jaccard-Pittet, dame",
+      "Margot Elise",
+      "Bonjour, dame"
+    ],
+    "Dentiste.": [
+      "Schneeberger Th."
+    ],
+    "Electricien.": [
+      "Forces motrices de Joux",
+      "Bolomey Eugène"
+    ],
+    "Entrepreneur-maçon.": [
+      "Maget Paul"
+    ],
+    "Epicerie. mercerie. tabacs.": [
+      "Braissant Auguste",
+      "Hari Louis",
+      "Lambelet Emma"
+    ],
+    "Facteur.": [
+      "Schopfer Félicien"
+    ],
+    "Ferblantiers-couvreurs.": [
+      "Geneyne frères"
+    ],
+    "Géomètre.": [
+      "Mermoud John"
+    ],
+    "Gypsiers-peintres.": [
+      "Jaccard Gustave",
+      "Schopfer Louis"
+    ],
+    "Inspecteur du bétail.": [
+      "Bernard Mcel"
+    ],
+    "Instituteurs.": [
+      "Baudat Alice",
+      "Corbaz Eveline",
+      "Vacat",
+      "Maire César"
+    ],
+    "Justice de paix.": [
+      "Pittet Fernand",
+      "Cloux John",
+      "Charoton Emile",
+      "Morel Justin",
+      "Aubert Jules",
+      "Gleyre Lucien"
+    ],
+    "Laitier.": [
+      "Henrioud Léon"
+    ],
+    "Lingère.": [
+      "Margot Elise"
+    ],
+    "Matelassier.": [
+      "Bélaz Ami"
+    ],
+    "Marchand-tailleur.": [
+      "Capt Louis"
+    ],
+    "Maréchaux.": [
+      "Aeschlimann Jean",
+      "Weber Robert"
+    ],
+    "Mécaniciens.": [
+      "Bovay Edouard",
+      "Weber-Baudat Robert"
+    ],
+    "Médecin.": [
+      "Grec Eugène"
+    ],
+    "Menuisiers.": [
+      "Dähler Edouard",
+      "Jan F. et M. R.",
+      "Kirchoffer Julien",
+      "Regamey"
+    ],
+    "Meunier.": [
+      "Schaer Fritz"
+    ],
+    "Notaire.": [
+      "Gleyre Lucien"
+    ],
+    "Officier d'état-civil.": [
+      "Courvoisier Gustave"
+    ],
+    "Pasteurs.": [
+      "Gubéran Wilhelm-Georges",
+      "Margot Paul"
+    ],
+    "Poste.": [
+      "Borloz, Mme."
+    ],
+    "Quincaillerie.": [
+      "Lambelet Emma"
+    ],
+    "Sage-femme.": [
+      "Schluchter, Mlle."
+    ],
+    "Sciage à façon.": [
+      "Chaillet René"
+    ],
+    "Scieurs.": [
+      "Schaer Fritz"
+    ],
+    "Sellier.": [
+      "Bélaz Ami"
+    ],
+    "Sociétés.": [
+      "Assurance du bétail bovin",
+      "de fromagerie",
+      "Four du hameau",
+      "immobilière",
+      "d'alpage",
+      "Section de la Croix-Bleue",
+      "Syndicat agricole",
+      "Société des Autos-transports du pied du Jura Vaudois"
+    ],
+    "Télégraphiste.": [
+      "Borloz, dame"
+    ],
+    "Téléphones publics.": [
+      "Poste et Hôtel communal"
+    ],
+    "Tricoteuse.": [
+      "Waridel Sophie"
+    ],
+    "Usine d'imprégnation.": [
+      "Bernard-Rochat Maurice"
+    ],
+    "Voituriers-entrepreneurs, autobus.": [
+      "Jenneret-Favre Arnold"
+    ]
+  },
+  "LUSSERY": {
+    "Autorités communales.": [
+      "Borgeaud Alexis",
+      "Cart Auguste"
+    ],
     "Syndic": [
-      "Barraud Alex."
+      "Mermoud Henri"
     ],
     "Municipaux": [
-      "Barraud Lucien",
-      "Barraud René",
-      "Rossier Gust.",
-      "Roulet Jules"
-    ],
-    "Secrétaire": [
-      "Rossier Charles"
-    ],
-    "Boursier": [
-      "Gorgerat Constant"
-    ],
-    "Agence commerciale et immobilière": [
-      "Monthoux F."
-    ],
-    "Agriculteurs": [
-      "Barraud Alexandre",
-      "Barraud Alph.",
-      "Barraud Ed.",
-      "Barraud Alb.",
-      "Barraud-Cottier Lucien",
-      "Blanc Henri",
-      "Dutoit Constant",
-      "Burri",
-      "Groux Emile",
-      "Moret Georges",
-      "Moret Ulysse",
-      "Neyret Albert",
-      "Neyret Alfred",
-      "Pittet Gaston",
-      "Pittet Louis",
-      "Reymond Jean",
-      "Rossier Charles",
-      "Roulin Louis.",
-      "Vaney Jules",
-      "Vuerchoz Louis",
-      "Zahner Albert"
-    ],
-    "Apiculteurs": [
-      "Aeberhardt Charles",
-      "Jaquier Charles"
-    ],
-    "Assurance maladie": [
-      "Société suisse de secours mutuels Helvétia",
-      "Spähni A."
-    ],
-    "Assesseur": [
-      "Barraud Alexandre"
-    ],
-    "Auberges et cafés": [
-      "Schaad Charles",
-      "Hôtel de Ville",
-      "Piccard Henri",
-      "café de la Gare",
-      "Pernet Ernest",
-      "café du Raisin",
-      "Chappuis F. Rendez-vous des Amis",
-      "Tauxe Armand",
-      "La Terrasse"
-    ],
-    "Benzine (gros)": [
-      "Lumina S. A."
-    ],
-    "Bétail (march. de)": [
-      "Dutoit Constant"
-    ],
-    "Bois (comm. de)": [
-      "Wyssbrod & Nicollier"
-    ],
-    "Bois de socques": [
-      "Fayet Henri"
-    ],
-    "Boucher": [
-      "Enkerli Adolphe"
-    ],
-    "Boulangers": [
-      "Dussoix Denis.",
-      "Roulet J. R."
-    ],
-    "Briqueterie": [
-      "Barraud & Cie."
-    ],
-    "Buraliste postal": [
-      "Emery Marc."
-    ],
-    "Café sans alcool": [
-      "Perrin A.",
-      "Le Bluet"
-    ],
-    "Camionneurs": [
-      "Monnard François.",
-      "Rivoire D."
-    ],
-    "Charcuterie": [
-      "Decrausaz"
-    ],
-    "Charpentiers-menuisiers": [
-      "Rey Guillaume",
-      "Krayenbühl",
-      "Leyvraz-Zuber H.",
-      "Stauber Emile"
-    ],
-    "Charretiers": [
-      "Moret Auguste",
-      "Piccard Henri"
-    ],
-    "Chef de gare": [
-      "Genet Gustave."
-    ],
-    "Chef de section": [
-      "Pittet Charles"
-    ],
-    "Combustibles": [
-      "Léderrey Henri."
-    ],
-    "Commission scolaire": [
-      "Barraud Mce.",
-      "Gorgerat Constant",
-      "Pittet Charles",
-      "Barraud Albert",
-      "Mayor Henri"
-    ],
-    "Comptoir agricole": [
-      "Gaudard Osc."
-    ],
-    "Cordonniers": [
-      "Decrausaz W.",
-      "Martin Sylv."
-    ],
-    "Editeur": [
-      "Monthoux Fernand."
-    ],
-    "Entrepreneurs": [
-      "Baroni Jean.",
-      "Cerutti Ch."
-    ],
-    "Epicerie, mercerie": [
-      "Barraud Alex.",
-      "Benucci Camille.",
-      "Bessat Henri.",
-      "Gaudard Oscar.",
-      "Kolb Théophile.",
-      "Perret Henri",
-      "Pouy Henri.",
-      "Syndicat des consommateurs"
-    ],
-    "Ferblantier-couvreur": [
-      "Brüllisauer Alb."
-    ],
-    "Gypsier": [
-      "Jalut Louis."
+      "Mermoud Arthur",
+      "Jaccoud Frédéric",
+      "Desponds Adolphe",
+      "Guerry Henri",
+      "Cart Auguste",
+      "Mermoud Marius"
     ]
   }
 }

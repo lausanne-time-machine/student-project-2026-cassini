@@ -1,182 +1,227 @@
 {
-  "La Tour-de-Peilz": {
-    "Pépiniéristes.": [
-      "Borlat Robert",
-      "Grognuz Maurice & fils."
+  "GRANDCOUR": {
+    "Machine à battre": [
+      "Bossy frères",
+      "Rapin-Guillod Alfred",
+      "Société d'agriculture"
     ],
-    "Pierres fines.": [
-      "Steffen Jean"
+    "Poste": [
+      "Jaquemet Anna",
+      "Jaquemet Anna"
     ],
-    "Pharmacien.": [
-      "Bornand René"
+    "Maréchaux": [
+      "Detrey Samuel",
+      "Jan Gustave"
     ],
-    "Poids et mesures.": [
-      "Ormond L."
+    "Mécaniciens": [
+      "Jaquemet Robert",
+      "Troyon Henri"
     ],
-    "Police.": [
-      "Gerber Ami",
-      "Baux Alfred",
-      "Frautschi Hermann",
-      "Goy Henri"
+    "Menuisiers": [
+      "Jaccoud Constant",
+      "Jaquier Aloïs",
+      "Rapin Fidély"
     ],
-    "Poste.": [
-      "Jordan Gust.",
-      "Dénéréaz Edouard",
-      "Tornier Paul",
-      "Trottet Jules",
-      "Vodoz Eugène",
-      "Vodoz Jules",
-      "Vincent Edouard",
-      "Mamin Robert"
+    "Meuniers": [
+      "Bossy & Cie",
+      "Bossy frères",
+      "Rapin Jean-David"
     ],
-    "Produits agricoles.": [
-      "Marbot Alfr. R."
+    "Officier d'état-civil": [
+      "Cherbuin Oth"
     ],
-    "Professeurs de langues.": [
-      "Favez Georgette",
-      "Girard Jules"
+    "Pasteur": [
+      "Perrochon Jean"
     ],
-    "Professeurs de musique.": [
-      "Mamin-Matthey Renée",
-      "de Ribaupierre Emile"
+    "Porcs (march. de)": [
+      "Baechler-Meillard Alf",
+      "Bärtschi Jean"
     ],
-    "Ramoneur.": [
-      "Montet Frédéric"
+    "Produits agricoles": [
+      "Chuard & Perrin"
     ],
-    "Représentants.": [
-      "Bollmann E.",
-      "Dormond-Bianchi G.",
-      "Jaccard E.",
-      "Logan Robert",
-      "Mamin-Matthey Chs",
-      "Tachet-Ducret A."
+    "Rentiers": [
+      "Bossy Albert",
+      "Bossy Louise",
+      "Rapin Aimé",
+      "Rapin Gustave feu Daniel",
+      "Rapin Henri"
     ],
-    "Restaurant-pension.": [
-      "Käser-Urfer",
-      "Crausaz Laure"
+    "Selliers": [
+      "Buache Walther",
+      "Cherbuin Marc",
+      "Pradervand Albert",
+      "Rapin Edmond"
     ],
-    "Serruriers.": [
-      "Borel Jean",
-      "Gilliéron L.",
-      "Graf Jacob",
-      "Herter Eug.",
-      "Luthi Walther"
+    "Sociétés": [
+      "de laiterie",
+      "d'agriculture",
+      "Syndicat des planteurs de tabac",
+      "Syndicat pour l'amélioration de la race porcine et caprine",
+      "Syndicat d'élevage"
     ],
-    "Sociétés.": [
-      "Association Viticole",
-      "d'alpage",
-      "des Mousquetaires",
-      "de gymnastique d'hommes",
-      "fédérale de gymnastique",
-      "Armes réunies",
-      "d'assurance contre les pertes du bétail",
-      "Section de la Croix-Bleue",
-      "Perce-Neige",
-      "Union chorale",
-      "Jeune Harmonie",
-      "Musée scolaire",
-      "Club montagnard",
-      "Syndicat d'élevage",
-      "Syndicat des Pêcheurs professionnels du Léman",
-      "Tir aux armes de guerre",
-      "Club sportif",
-      "Société « Les Vaudoises »",
-      "Sauvetage du Lac",
-      "Cercle de la voile",
-      "Union chrétienne",
-      "Eclaireurs"
+    "Tabacs": [
+      "Syndicat des planteurs de tabac",
+      "Perrin-Cherbuin Ernest"
     ],
-    "Tabacs, ciaares.": [
-      "Dumont Albert",
-      "Grognuz Hri"
+    "Télégraphiste": [
+      "Jaquemet Anna"
     ],
-    "Tonnelier.": [
-      "Schwab Jean"
+    "Tourneur": [
+      "Locher Ernest"
     ],
-    "Transport de sable et gravier.": [
-      "Grangier Veuve d'Ad.",
-      "Grangier Jean",
-      "Mamin Sam."
+    "Vélos": [
+      "Chuard Charles"
     ],
-    "Vélos.": [
-      "Erlebach Ch."
+    "Autorités communales": [
+      "Mayor-Dudan Emile",
+      "Mayor-Thévoz Fritz"
     ],
-    "Vernis-couleurs.": [
-      "Bény frères L. & H."
+    "Syndic": [
+      "Ruchat Charles"
     ],
-    "Vignerons.": [
-      "Amstein Charles",
-      "Barbey-Buttel Jean",
-      "Borlat Jean",
-      "Butticaz Eugène",
-      "Chambaud Emile",
-      "Delessert Lucien",
-      "Dubochet Charles",
-      "Grognuz Maurice",
-      "Herzog Jean",
-      "Junod Charles",
-      "Léchaire Charles",
-      "Monnier Louis",
-      "Ormond Marc",
-      "Puenzieux Jules",
-      "Vodoz Alexandre",
-      "Vodoz Augustin",
-      "Vodoz Jean",
-      "Vodoz Jacques",
-      "Vodoz Jules",
-      "Vodoz Louis",
-      "Vodoz, Vve de Pierre-Louis"
+    "Municipaux": [
+      "Mayor-Detrey Charles",
+      "Marcuard Ernest",
+      "Oulevey Charles",
+      "Ney Jules",
+      "Mayor Jean-Louis",
+      "Mayor-Combremont Auguste"
     ],
-    "Vitriers.": [
-      "Busso Jaques",
-      "Nicola Charles"
+    "Agent de police": [
+      "Blanche Constant"
     ],
-    "Divers.": [
-      "Abdy Richard",
-      "Aguet H.",
-      "Alexander E.-M.",
-      "Baert Cornélius",
-      "Balbo F.",
-      "Barbier Paul",
-      "Baron Jules",
-      "Barry John-A.",
-      "Baudet Ch.",
-      "Baumann-Braendli J.",
-      "Bovon Gustave",
-      "Braillard N., Mme",
-      "Burnat A.",
-      "Cailler Alexandre",
-      "Carr Georges",
-      "Chevalley Ed.",
-      "Colomb Jules",
-      "Contesse, Vve de Fréd.",
-      "Couvreu Fréd.",
-      "Cuénod, Vve d'Albert",
-      "Cuénod Jules",
-      "Cuénod Aloys",
-      "Delapraz César",
-      "de Palézieux Elisabeth",
-      "de Palézieux Maurice",
-      "Delessert A.",
-      "de Rohden Charles",
-      "Dorer, Mme",
-      "Engelhard Sophie",
-      "Fatton J.",
-      "Félix Henri-Louis",
-      "Furrer Fritz",
-      "Gétaz Emile",
-      "Gomez-Valdes V., Mme",
-      "Goodsall David",
-      "Grand d'Hauteville Paul",
-      "Haldy C.",
-      "Heinrich G.",
-      "Hofmann R.",
-      "Hottinger Hélène, Dlle",
-      "Hugonin H., Mlle",
-      "Herter C.",
-      "Jaquet-Gonin, Vve",
-      "Johnson G.-H.",
-      "de Jousselin"
+    "Agriculteurs": [
+      "Aesbicher Charles",
+      "Blanc Jules",
+      "Combremont A.",
+      "Combremont Henri",
+      "Cusin Charles",
+      "Cusin Frédéric",
+      "Dudan-Morel Henri",
+      "Dudan Gustave",
+      "Dudan Charles",
+      "Dudan Henri et Gustave",
+      "Dudan Paul",
+      "Estoppey Ernest",
+      "Gentil Paul",
+      "Hänni frères",
+      "Kaltenrieder Fritz",
+      "Laurent Louis",
+      "Liechti Gottfried",
+      "Liechti frères",
+      "Marcuard Charles",
+      "Mayor-Combremont Ls",
+      "Mayor-Dudan F.",
+      "Mayor-Dudan, hoirie",
+      "Mayor Aug.",
+      "Mayor Emile",
+      "Mayor Fritz et Jean d'Eugène",
+      "Mayor-Mayor Louis",
+      "Mayor-Menétrey Constant",
+      "Mayor Robert",
+      "Mayor Charles d'Ernest",
+      "Mayor Fritz",
+      "Mayor Henri",
+      "Meillard frères",
+      "Nev Jules",
+      "Ney Frédéric",
+      "Oulevey Alfred",
+      "Oulevey César",
+      "Oulevey Charles",
+      "Oulevey Jules",
+      "Pradervand Jules",
+      "Rapin Marcel",
+      "Rapin Numa",
+      "Rossier, hoirie",
+      "Ruchat Charles",
+      "Ruchat Henri"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Société mutualiste de retraite"
+    ],
+    "Aubergistes": [
+      "Demierre Cyprien",
+      "Mayor-Hübler Numa"
+    ],
+    "Bouchers-charcutiers": [
+      "Combremont-Morel Auguste",
+      "Combremont Samuel",
+      "Mayor Charles",
+      "Mayor Robert",
+      "Ruchat-Marcuard Albert",
+      "Ruchat-Dudan Henri"
+    ],
+    "Boulanger": [
+      "Christinat Alfred"
+    ],
+    "Charcutiers": [
+      "Combremont Samuel",
+      "Mayor Constant",
+      "Ruchat Albert"
+    ],
+    "Charpentiers": [
+      "Buschy André",
+      "Cherbuin Constant",
+      "Demierre Cyprien",
+      "Marcuard-Zeller Jules",
+      "Mayor Gustave"
+    ],
+    "Charrons": [
+      "Combremont W.",
+      "Cuany Louis"
+    ],
+    "Chef de section": [
+      "Mayor Charles"
+    ],
+    "Cordonniers": [
+      "Favre Marcel",
+      "Zanone Aurèle"
+    ],
+    "Couturières": [
+      "Buschy Eugénie",
+      "Cherbuin Elise",
+      "Cuany Elisa",
+      "Diserens Marie",
+      "Gachet Elise",
+      "Gilomen Marie",
+      "Mayor-Thévoz Alice"
+    ],
+    "Electricien": [
+      "Hauterive",
+      "Mayor-Menétrey Constant"
+    ],
+    "Entrepreneurs": [
+      "Giacometti Pierre et fils"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Combremont Fritz",
+      "Marcuard Ernest",
+      "Mayor Const.",
+      "Menétrey Emile",
+      "Ruchat Albert",
+      "Ruchat-Coucet Anna"
+    ],
+    "Inspecteur du bétail": [
+      "Mayor Edouard"
+    ],
+    "Instituteurs": [
+      "Burnier Paul",
+      "Marcuard-Bardet Mathilde",
+      "Abetel-Héris Marie",
+      "Chauvet Lucien"
+    ],
+    "Jardiniers": [
+      "Cusin Charles",
+      "Ruchat Aug.",
+      "Schüle Jules"
+    ],
+    "Justice de paix": [
+      "Perrin-Jan Henri",
+      "Bonny-Penseyres Henri",
+      "Mayor-Combremont A.",
+      "Rapin-"
     ]
   }
 }

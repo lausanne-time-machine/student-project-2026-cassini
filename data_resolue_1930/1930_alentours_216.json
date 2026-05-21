@@ -1,175 +1,238 @@
 {
-  "ROUGEMONT": {
-    "Hôtels et pensions": [
-      "Mélèzes. T.",
-      "Saugy Alex.",
-      "Yersin Victor",
-      "Yersin"
+  "GENOLIER": {
+    "Président du Conseil général": [
+      "Bozonnet Jules"
     ],
-    "Inspecteur du bétail": [
-      "Saugy Victor"
+    "Syndic": [
+      "Duperrex Louis"
     ],
-    "Instituteurs": [
-      "Urfer Auguste",
-      "Isoz Marguerite",
-      "Rossier Hélène",
-      "Ogay Arthur"
+    "Municipaux": [
+      "Bolay Charles",
+      "Barillet Adrien",
+      "Schaeffer Georges",
+      "Desvignes Albert"
     ],
-    "Justice de paix": [
-      "Gétaz Daniel",
-      "de Siebenthal Alfred",
-      "Rossier-Dolder David",
-      "Yersin Victor",
-      "Bovay Alfred",
-      "Filliettaz Hector"
+    "Secrétaire": [
+      "Guillermin John"
     ],
-    "Laitiers": [
-      "Bovay-Mottier Louis",
-      "Turrian Emile. R."
+    "Boursier": [
+      "Leuenberger J."
     ],
-    "Maréchal": [
-      "Délessert Jules."
+    "Assesseur": [
+      "Prod'hom Albert"
     ],
-    "Matériaux de construction": [
-      "Ellena Alexandre."
+    "Agriculteurs.": [
+      "Althaus Gottfr.",
+      "Barpillier, hoirie",
+      "Bolay Alexandre",
+      "Bozonnet Jules",
+      "Bolay Auguste",
+      "Bolay Charles",
+      "Bonnet Gust.",
+      "Chessex Henri",
+      "Desvignes Alb.",
+      "Francelet Francis",
+      "Hauser Fritz",
+      "Herren Alb.",
+      "Leuenberg Jean",
+      "Neuffer Jules",
+      "Pernet Aug.",
+      "Reichenbach Marc",
+      "Schaeffer Georges",
+      "Teucher Oscar",
+      "Vallon Hubert"
     ],
-    "Mercerie-papeterie": [
-      "Saugy Sophie. R."
+    "Apiculteurs.": [
+      "Bolay Auguste",
+      "Dorier Marius"
     ],
-    "Modes": [
-      "Turrian Anna."
+    "Mutualité scolaire de retraite.": [
+      "Hussy J."
     ],
-    "Officier d'état-civil": [
-      "Oesch Ami."
+    "Aubergistes.": [
+      "Teucher Oscar",
+      "Cochet Gustave"
     ],
-    "Pasteur": [
-      "Secretan Constantin-Pierre"
+    "Bois (march. de).": [
+      "Caisserie de Genolier"
     ],
-    "Pâtisseries": [
-      "Rochat L., fils",
-      "de Siebenthal Olivier."
+    "Boulangers.": [
+      "Battaglia William",
+      "Pinel Alfred"
     ],
-    "Poste": [
-      "Saugy Gabriel."
+    "Buraliste postal.": [
+      "Eberhardt Emile"
     ],
-    "Pensionnat de jeunes filles": [
-      "Rochat-Widmer"
+    "Caisses (fab. de).": [
+      "Caisserie de Genolier"
     ],
-    "Sages-femmes": [
-      "Bovay Louise",
-      "Saugy Hélène."
+    "Charpentier.": [
+      "Chabloz Louis"
     ],
-    "Scierie-caisserie": [
-      "Rossier-Cordey David."
+    "Commission scolaire.": [
+      "Guillemin John",
+      "Genton Edouard",
+      "Bolay Chs fils"
     ],
-    "Scieurs": [
-      "Andrey Auguste",
-      "Brand Christ.",
-      "Christener Fritz",
-      "Yersin Charles."
+    "Epicerie, mercerie.": [
+      "Battaglia William",
+      "Chabloz-Dégallier Louis",
+      "Pinel Alfred"
     ],
-    "Sociétés": [
-      "de fromagerie du Village",
-      "de Flendruz",
-      "des Amis de la liberté suisse (de tir)",
-      "des eaux",
-      "de tir aux armes de guerre",
-      "des Tirs militaires",
-      "de musique militaire",
-      "de chant <Echo du Rubly>",
-      "Syndicat agricole. R.",
-      "Soc. de développement",
-      "Rossier-Cordey David",
-      "Société de pêche."
+    "Inspecteur du bétail.": [
+      "Herren Albert"
     ],
-    "Tailleuses": [
-      "Blatti Emma",
-      "Cottier Isabelle",
-      "Desplands Louise",
-      "Menoud Elise",
-      "Schwitzguébel Caroline",
-      "Schwitzguébel Marie",
-      "Saugy Clara",
-      "Saugy Hortense",
-      "Turrian Elisa."
+    "Instituteurs.": [
+      "Hussy Jean",
+      "Reber Marie"
     ],
-    "Tourneur": [
-      "Oesch-Schwitzguébel A."
+    "Jardinier.": [
+      "Chaubert H."
     ],
-    "Vins": [
-      "Filliettaz Hector",
-      "Saugy Victor."
+    "Maréchal.": [
+      "Badel Aloïs"
+    ],
+    "Menuisiers.": [
+      "Chabloz Louis",
+      "Croix Henri"
+    ],
+    "Pasteur.": [
+      "Genton Edouard"
+    ],
+    "Scieurs.": [
+      "Barillier, hoirie",
+      "Caisserie de Genolier"
+    ],
+    "Sellier.": [
+      "Gonin Ulysse"
+    ],
+    "Société.": [
+      "de fromagerie"
+    ],
+    "Téléphone et télégraphe.": [
+      "Auberge communale"
     ]
   },
-  "FLENDRUZ": {
-    "Agriculteurs-éleveurs": [
-      "Bertholet",
-      "Breton Alfred",
-      "Breton Arthur",
-      "Favre-Perrod Alfred",
-      "Huser Chs",
-      "Mottier Ls",
-      "Muller",
-      "Rayroud Edouard",
-      "Rossier Pierre-David",
-      "Rossier",
-      "Rubin-Buensoz Alfr.",
-      "Rubin Jules-Alfr.",
-      "Saugy Dav.",
-      "Saugy Emile-Gabr.",
-      "Saugy Jules-Ls",
-      "Saugy Louis-Alexandre",
-      "Saugy Chs-Alfred",
-      "Schwitzguébel",
-      "Schwitzguébel Emile",
-      "Schwitzguébel Louis",
-      "Yersin Emile",
-      "Yersin Paul",
-      "Yersin Samuel",
-      "Yersin-Bricod Louis."
+  "GINGINS": {
+    "Président du Conseil général": [
+      "Corbaz Aug."
     ],
-    "Aubergistes": [
-      "Divorne William",
-      "Jaquillard Paul",
-      "Pilet Arthur."
+    "Secrétaire": [
+      "Joly Ch.",
+      "Bally Sam."
     ],
-    "Bois (comm. de)": [
-      "Breton Ami."
+    "Syndic": [
+      "Mestral Arthur"
     ],
-    "Boulangers": [
-      "Divorne William"
+    "Municipaux": [
+      "Barrilliet Aug.",
+      "Schmid Emile",
+      "Simon Ami",
+      "Guichard Adrien",
+      "Berlie Albert"
     ],
-    "Charrron": [
-      "Rubin Alfred."
+    "Boursier": [
+      "Amiguet François"
     ],
-    "Cordonnier": [
-      "Cicognani C."
+    "Huissier": [
+      "Gentet Samuel"
     ],
-    "Epiceries": [
-      "Cottier Hélène, Vve. R.",
-      "Yersin Alexis."
+    "Agriculteurs.": [
+      "Bally Samuel",
+      "Gallay Ch.",
+      "Jaquet Etienne",
+      "Mestral Arthur",
+      "Schupbach Gottfried"
     ],
-    "Instituteurs": [
-      "Wutrich Samuel",
-      "Wutrich Marie",
-      "Rossier-Cordey Alice."
+    "Apiculteurs.": [
+      "Gianina Emile",
+      "Sütter Rodolphe"
     ],
-    "Laitier": [
-      "Yersin Adrien."
+    "Assurance.": [
+      "Assurance Mutuelle Vaudoise",
+      "Corbaz Aug."
     ],
-    "Poste": [
-      "Cottier Ami"
+    "Associations mutualistes de retraite.": [
+      "Soavi M."
     ],
-    "Scieries": [
-      "Breton Ami",
-      "Cottier Maurice."
+    "Aubergistes.": [
+      "Bær Caroline",
+      "Martin Francois"
     ],
-    "Tailleuses": [
-      "Breton Lina",
-      "Rubin Eglantine",
-      "Saugv-Mottier Marthe",
-      "Yersin Alice",
-      "Yersin Elisa."
+    "Auto-taxis.": [
+      "Baer Charles"
+    ],
+    "Blanchisseuse-repasseuse.": [
+      "Corbaz Pauline"
+    ],
+    "Bois (comm. de).": [
+      "Guichard Jean",
+      "Küffer Adrien"
+    ],
+    "Boulangers.": [
+      "Küffer Adrien",
+      "Sütter Rodolphe"
+    ],
+    "Buraliste postal.": [
+      "Deluche Alfred"
+    ],
+    "Camionneur.": [
+      "Divorne Edmond"
+    ],
+    "Charcutier.": [
+      "Berlie Maurice"
+    ],
+    "Charpentier.": [
+      "Schmid Emile, fils"
+    ],
+    "Charron.": [
+      "Charbonnier Victor"
+    ],
+    "Cigares et tabacs.": [
+      "Bær Caroline",
+      "Gentet Jean",
+      "Martin François",
+      "Sütter Rodolphe"
+    ],
+    "Commission scolaire.": [
+      "Masson Ch.",
+      "Corbaz Aug."
+    ],
+    "Entrepreneurs.": [
+      "Joly Charles",
+      "Schmid Emile",
+      "Simon Octave et fils"
+    ],
+    "Epicerie.": [
+      "Barilliet, sœurs",
+      "Gentet Jean",
+      "Küffer Adrien",
+      "Sütter Rodolphe"
+    ],
+    "Ferblantier.": [
+      "Rinaldi Louis"
+    ],
+    "Gypsier.": [
+      "Gianina Emile"
+    ],
+    "Inspecteur du bétail.": [
+      "Gentet Samuel"
+    ],
+    "Instituteurs.": [
+      "Soavi Marcel",
+      "Isoz Sophie"
+    ],
+    "Juge": [
+      "Corbaz Auguste"
+    ],
+    "Assesseurs": [
+      "Duboulet Ami",
+      "Bory Ernest",
+      "Barrilliet Auguste",
+      "Berlie John"
+    ],
+    "Greffier": [
+      "Courvoisier Aimé"
     ]
   }
 }

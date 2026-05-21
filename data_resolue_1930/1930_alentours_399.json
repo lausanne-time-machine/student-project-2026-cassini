@@ -1,231 +1,224 @@
 {
-  "PENTHEREAZ": {
-    "Battoir à grains": [
-      "La Commune"
-    ],
-    "Bétail (comm. de)": [
-      "Mercier Elie et Denis. R.",
-      "Mercier Fidély. RT."
-    ],
-    "Boulanger": [
-      "Caillachon Henri. T."
-    ],
-    "Café": [
-      "Meystre Robert"
-    ],
-    "Cantonnier": [
-      "Favez William"
-    ],
-    "Commission scolaire": [
-      "Béranger",
-      "Collet Ulysse",
-      "Mercier Elie",
-      "Millioud René",
-      "Mercier Gustave"
-    ],
-    "Epicerie, mercerie": [
-      "Caillachon Hri. T."
-    ],
-    "Garde-forestier": [
-      "Collet Ulysse"
-    ],
-    "Inspecteurs du bétail": [
-      "Millioud Edward",
-      "Flaction Jules"
-    ],
-    "Instituteurs": [
-      "Alisson Henri",
-      "Collet Rose"
-    ],
-    "Laitiers": [
-      "Huguenin & Cie. T."
-    ],
-    "Maréchal": [
-      "Schmid S."
-    ],
-    "Officier d'état civil": [
-      "Mayor Jules"
-    ],
-    "Poste": [
-      "Emery Charles"
-    ],
-    "Sociétés": [
-      "de fromagerie et de laiterie de Penthéréaz. R.",
-      "de fromagerie et de laiterie dite du Champ de Vaud (hameau). R.",
-      "Tir aux armes de guerre"
-    ],
-    "Tailleur": [
-      "Buffat Alfred"
-    ],
-    "Tailleuses": [
-      "Favez Emma",
-      "Viret Elise"
-    ],
-    "Téléphoniste": [
-      "Caillachon Aimée"
-    ]
-  },
-  "POLIEZ-LE-GRAND": {
-    "Autorités communales": [
-      "Panchaud Jules-Alexis",
-      "Mermoud Alfred"
-    ],
-    "Syndic": [
-      "Mermoud-Menétrey Ernest"
-    ],
-    "Municipaux": [
-      "Panchaud Adolphe",
-      "Panchaud Victor",
-      "Mermoud Sam.",
-      "Mermoud Louis",
-      "Mermoud Fréd.",
-      "Thibaud Octave",
-      "Mermoud Robert",
-      "Mermoud William",
-      "Mermoud Fernand"
-    ],
-    "Agriculteurs": [
-      "Augsburger Maurice",
-      "Jaton frères",
-      "Jaunin Ulysse",
-      "Menétrey Daniel",
-      "Menétrey Emmanuel",
-      "Menétrey François",
-      "Mermoud, hoirs d’Auguste",
-      "Mermoud Samuel",
-      "Mermoud Ulysse",
-      "Mermoud Ern.",
-      "Mermoud Emile",
-      "Meylan Gustave",
-      "Michon Constant",
-      "Panchaud Adolphe",
-      "Panchaud Alfred",
-      "Panchaud Emilien",
-      "Panchaud Fritz",
-      "Panchaud Henri",
-      "Panchaud Jules-Alexis",
-      "Panchaud, les fils de Dominique",
-      "Thibaud Gustave"
-    ],
-    "Apiculteurs": [
-      "Bouquet Charles",
-      "Diserens Ernest",
-      "Jaton Ulysse",
-      "Mayor Charlotte",
-      "Menétrey Charles",
-      "Menétrey Fritz",
-      "Mermoud Robert",
-      "Meystre Julien",
-      "Panchaud Emilien"
-    ],
-    "Aubergistes": [
-      "Diserens Ernest",
-      "Mermoud Ulysse"
-    ],
-    "Blanchisseuse": [
-      "Bouquet Marguerite"
-    ],
-    "Commission scolaire": [
-      "Mermoud Louis",
-      "Redard",
-      "Bouquet Gustave"
-    ],
-    "Cordonnier": [
-      "Allaz Joseph"
-    ],
-    "Couturières": [
-      "Joly, Mme",
-      "Menétrey Odette",
-      "Menétrey Rose",
-      "Mermoud Isabelle"
-    ],
-    "Encadrements, vitrerie": [
-      "Panchaud Victor"
-    ],
-    "Epicerie, mercerie": [
-      "Bouquet Aug. R.",
-      "Panchaud Hélène. R."
-    ],
+  "Ville d'Yverdon": {
     "Inspecteur du bétail": [
-      "Panchaud Victor"
+      "Debonneville Edward"
     ],
     "Instituteurs": [
-      "Mermoud Clément",
-      "Golay Clara"
+      "Dumartheray Ernest",
+      "Jaquenod Suzanne",
+      "Ethenod-Mermod Marie",
+      "Dumartheray-Meylan Alice"
     ],
-    "Maréchal": [
-      "Bouquet Gustave"
+    "Journaux": [
+      "Debonneville-Reymond"
     ],
-    "Menuisier": [
-      "Joly Léon"
+    "Justice de paix du cercle": [
+      "Pilloud Emile",
+      "Humbert-Lagnel Jules",
+      "Badel Edouard",
+      "Champion Alphonse",
+      "Wecter J.-F.",
+      "Debonneville Edmond"
     ],
-    "Officier d’état-civil": [
-      "Mermoud Alfr."
+    "Laitier": [
+      "Thuillard Paul"
+    ],
+    "Machines à battre": [
+      "Fillettaz Albert",
+      "Reymond Joseph",
+      "Société du battoir"
+    ],
+    "Maréchaux": [
+      "Auberson Emile",
+      "Bresch frères"
+    ],
+    "Matériaux de construction": [
+      "Uldry Frères",
+      "Fabrique de tuyaux en ciment"
+    ],
+    "Mécaniciens": [
+      "Ethénoz Henri",
+      "Uldry Aloys"
+    ],
+    "Médecins": [
+      "Dubugnon Charles",
+      "Muller Ch."
+    ],
+    "Menuisiers": [
+      "Bachmann Auguste",
+      "Bouchet Louis",
+      "Champion Alfred",
+      "Renaud Eugène",
+      "Haldi Albert"
+    ],
+    "Officier d'état-civil": [
+      "Debonneville Edmond"
     ],
     "Pasteur": [
-      "Redard Maurice"
+      "Roth Jean"
     ],
-    "Pierriste": [
-      "Meystre Julien"
+    "Pensions": [
+      "Bron J.",
+      "Champion A.",
+      "Perrin Ed.",
+      "Pensionnat de demoiselles",
+      "Mme Lambert"
     ],
-    "Poste": [
-      "Panchaud Charles"
+    "Quincaillerie": [
+      "Debonneville E.",
+      "Messieux Anna",
+      "Uldry frères"
     ],
-    "Sellier": [
-      "Gindroz Aloïs"
+    "Repasseuse": [
+      "Debonneville Anna",
+      "Muller Charles, Mme."
+    ],
+    "Scierie": [
+      "Fillettaz Albert"
+    ],
+    "Selliers": [
+      "Cottier Auguste",
+      "Reymondaz Samuel"
+    ],
+    "Serruriers": [
+      "Auberson Ele",
+      "Bresch frères"
+    ],
+    "Skis et articles en bois (fabr. de)": [
+      "Baudin André"
     ],
     "Sociétés": [
-      "Machine à battre. R.",
-      "de fromagerie. R.",
-      "Syndicat agricole. R.",
-      "Nouvelle Laiterie. R."
+      "Caisse de crédit mutuel",
+      "Syndicat agricole",
+      "de fromagerie",
+      "du battoir à grains",
+      "Section de la Croix-Bleue",
+      "de chant",
+      "de gymnastique",
+      "Syndicat chevalin des Montagnards Gimel-Bière",
+      "de tir aux armes de guerre"
     ],
-    "Téléphoniste": [
-      "Diserens Ernest"
+    "Tailleurs": [
+      "Jaunin Henri",
+      "Krumm Alfred"
     ],
-    "Tricotage": [
-      "Mayor Lucie. T."
+    "Tapissiers": [
+      "Cottier Auguste",
+      "Reymondaz Samuel"
+    ],
+    "Télégraphiste et téléphoniste": [
+      "Champion Nadia"
+    ],
+    "Tonnelier": [
+      "Bourgeois Auguste"
+    ],
+    "Vélos": [
+      "Ethénoz J.",
+      "Paget Maur"
+    ],
+    "Voiturier": [
+      "Germain Henri"
     ]
   },
-  "POLIEZ-PITTET": {
+  "LONGIROD": {
     "Autorités communales": [
-      "Gindroz Aimé",
-      "Pahud Emilien"
-    ],
-    "Syndic": [
-      "Pahud Robert"
+      "Bovy Emile",
+      "Pidoux Aimé",
+      "Badel Jules"
     ],
     "Municipaux": [
-      "Grognuz Louis",
-      "Carrard Armand",
-      "Delamadeleine Léon",
-      "Carrard Alfred",
-      "Mivelaz Marcel",
-      "Grognuz Dominique",
-      "Gindroz Daniel"
+      "Debonneville Edouard",
+      "Pichon Aug.",
+      "Badel Edouard",
+      "Bovy Gustave",
+      "Badel Ls",
+      "Pidoux Aimé"
     ],
     "Agriculteurs": [
-      "Carrard Alb.",
-      "Carrard Ami",
-      "Carrard Constant",
-      "Carrard Henri",
-      "Delamadeleine Fr.",
-      "Gindroz Aimé",
-      "Gindroz Daniel",
-      "Gindroz Ern.",
-      "Gindroz Hermann",
-      "Gindroz Jules et Oscar",
-      "Grognuz Jules",
-      "Grognuz Gustave",
-      "Mivelaz Albert",
-      "Mivelaz Auguste",
-      "Mivelaz Constant",
-      "Mivelaz Marc",
-      "Mivelaz Placide",
-      "Morand Marc",
-      "Pahud Jules",
-      "Pahud Robert",
-      "Raymond-Morand"
+      "Badel Julien",
+      "Baumgartner Louis",
+      "Bovy Charles",
+      "Bovy Emile",
+      "Bovy Louis",
+      "Humbert Alfred",
+      "Joly Octave",
+      "Meylan H.",
+      "Pichon Marc",
+      "Pichon Samuel",
+      "Pidoux Aimé"
+    ],
+    "Amodiateur": [
+      "Joly Octave"
+    ],
+    "Assurance-vieillesse Mutualité scolaire de retraite": [
+      "Amaudruz P."
+    ],
+    "Société mutualiste de retraite": [
+      "Mme Claire Pichon-Bovy"
+    ],
+    "Buraliste postal": [
+      "Rubin Ernest"
+    ],
+    "Café": [
+      "Schryber Léon"
+    ],
+    "Chef de section": [
+      "Badel Louis"
+    ],
+    "Commission scolaire": [
+      "Badel Jules",
+      "Badel Edouard",
+      "Bovy Gustave"
+    ],
+    "Epicerie, mercerie": [
+      "Badel-Badel Ls."
+    ],
+    "Inspecteur du bétail": [
+      "Badel John-Ls."
+    ],
+    "Instituteurs": [
+      "Amaudruz Paul",
+      "Amaudruz Nadia"
+    ],
+    "Laitier": [
+      "Schumacher Théodore"
+    ],
+    "Maréchal et serrurier": [
+      "Badel Louis, et fils"
+    ],
+    "Menuisiers": [
+      "Debonneville Edouard",
+      "Henrioud Fernand"
+    ],
+    "Officier d'état-civil": [
+      "Badel John-Ls."
+    ],
+    "Pasteur": [
+      "Truan Charles"
+    ],
+    "Syndicat d'alpage": [
+      "Bovy Charles"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "Syndicat agricole",
+      "Pichon Samuel"
+    ],
+    "Télégraphiste et téléphoniste": [
+      "Rubin Ernest"
+    ],
+    "Divers": [
+      "Badel Ulysse-Louis",
+      "Wanner Mme",
+      "Préventorium La Rochette",
+      "Nordhof F."
+    ]
+  },
+  "MARCHISSY": {
+    "Autorités communales": [
+      "Christinet Maurice",
+      "Humbert Ulysse",
+      "Humbert-Mignot Louis"
     ]
   }
 }

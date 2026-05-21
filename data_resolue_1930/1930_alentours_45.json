@@ -1,232 +1,207 @@
 {
-  "PUIDOUX": {
-    "Jardinier.": [
-      "Murisier Max. R."
-    ],
-    "Laine de bois (fabrique de).": [
-      "Bissegger & Cie"
-    ],
-    "Laitier.": [
-      "Décosterd R."
-    ],
-    "Lingère.": [
-      "Simon Julie"
-    ],
-    "Machines agricoles.": [
-      "Nægeli Emile",
-      "Sunier Jules fils."
-    ],
-    "Maçons.": [
-      "Mélina",
-      "Toso Auguste."
-    ],
-    "Maréchaux.": [
-      "Nægele Emile",
-      "Sunier Jules"
-    ],
-    "Menuisier.": [
-      "Benedetto Louis."
-    ],
-    "Meuniers.": [
-      "Conne Emile",
-      "Minoterie du Léman"
-    ],
-    "Poste (bur. de).": [
-      "Chappuis Jean."
-    ],
-    "Sellier-tapissier.": [
-      "Schefer Walter."
-    ],
-    "Sociétés": [
-      "de laiterie de l'Epesse.",
-      "de la Lôche",
-      "de Longchamp",
-      "de la Méléreaz",
-      "de Cremières et de Toloveau.",
-      "Syndicat agricole Puidoux-Chexbres.",
-      "Fédération laitière."
-    ],
-    "Tailleuses.": [
-      "Chappuis Aimée",
-      "Chollet-Pasche Julie",
-      "Gilliéron, Mlles",
-      "Lambelet Marthe",
-      "Meylan Marguerite",
-      "Parisod-Meillard Cl."
-    ],
-    "Téléphone communal.": [
-      "Bureau des postes."
-    ],
-    "Vins (march. de).": [
-      "Victor Bron",
-      "Testuz Jules"
-    ],
-    "Viticulteurs.": [
-      "Bron Victor",
-      "Butticaz Frédéric",
-      "Testuz Jules"
-    ]
-  },
-  "RIEX": {
-    "Autorités communales.": [
-      "Demierre Philippe",
-      "Cornu Constant."
-    ],
-    "Syndic": [
-      "Fauquex Frédéric."
-    ],
-    "Municipaux": [
-      "Corboz Victor",
-      "Duboux Henri",
-      "Fauquex Gustave",
-      "Delapraz Jules."
-    ],
+  "Ville d'Avenches": {
     "Secrétaire": [
-      "Grobéty Clovis."
+      "Auguste. T."
     ],
     "Boursier": [
-      "Ducros Auguste."
+      "Ryser-Grin Charles"
     ],
-    "Agriculteurs.": [
-      "Binggeli",
-      "Corboz Reinold",
-      "Cossy Louise",
-      "Mennet Jules",
-      "Missillier François",
-      "Rod Eugène."
+    "Aciers": [
+      "Lecoultre G."
     ],
-    "Artiste-peintre.": [
-      "Bosshard Théophile."
+    "Agence agricole": [
+      "Berthoud, Bally & Cie."
     ],
-    "Mutualité scolaire de retraite.": [
-      "Grobéty C."
+    "Agent d'affaires": [
+      "L. ZAHND"
     ],
-    "Boucher.": [
-      "Dovat Eugène."
+    "Agriculteurs": [
+      "Aeberhard Gottlieb",
+      "Barth Nicolas",
+      "Berger Fritz",
+      "Corminbœuf Edouard",
+      "Debossens Paul",
+      "Debossens-Schluchter Louis",
+      "Delessert Robert",
+      "Doleires-Bessat Jules",
+      "Doleires Charles",
+      "Favre Constant",
+      "Fornallaz Eugène",
+      "Fornerod Achille, fils",
+      "Fornerod Louis de Numa",
+      "Gaberel Bertha",
+      "Guisan Ernest",
+      "Hofstetter Frédéric",
+      "Hostettler Fritz",
+      "Hostettler Jean, Vve",
+      "Jaquenod Louis",
+      "Kunz Fritz, fils",
+      "Kobel Hermann",
+      "Leicht Frédéric",
+      "Maibach Jean",
+      "Michaud Eugène",
+      "Maurice",
+      "Ryser Frédéric",
+      "Ryser Jules",
+      "Schaad frères",
+      "Schupbach Albert",
+      "Schurch Joseph",
+      "Vogel Fritz",
+      "Weber Fritz",
+      "Zbinden Hans"
     ],
-    "Boulanger.": [
-      "Ducros Auguste."
+    "Appareilleur": [
+      "Rey Arnold"
     ],
-    "Cafés.": [
-      "Banderet Daniel",
-      "Ney William."
+    "Assurances": [
+      "La Suisse",
+      "Faucherre Marcel",
+      "Société suisse d'assurances générale",
+      "Pradervand Ed.",
+      "Caisse de prévoyance suisse",
+      "Assurance-grêle cantonale",
+      "Hédiguer André"
     ],
-    "Charcutiers.": [
-      "Dovat Eugène",
-      "Riccard Louis."
+    "Associations mutualistes de retraite": [
+      "Payot M."
     ],
-    "Commission scolaire.": [
-      "Delapraz Jules",
-      "Demierre Philippe."
+    "Automobiles et autos-taxis": [
+      "Berger & Bally",
+      "Kunz Arthur",
+      "Schneider Jean",
+      "Schrecker Frédéric",
+      "Schupbach Fritz"
     ],
-    "Cordonnier.": [
-      "Gillard, Vve de Daniel."
+    "Banques": [
+      "Banque Cantonale Vaudoise",
+      "Faucherre Marcel",
+      "Banque Pop. de la Broye",
+      "Ballif Jean",
+      "Union Vaudoise du Crédit",
+      "Treyvaud Gaston"
     ],
-    "Epicerie, mercerie.": [
-      "Ducros Auguste."
+    "Bazars": [
+      "Monney Augusta",
+      "Magnin Marthe, Dlles",
+      "Pfeiffer Oswald",
+      "Stettler Fritz"
     ],
-    "Gérant.": [
-      "Palaz Gve."
+    "Bestiaux (march. de)": [
+      "Bernard Marc",
+      "Bernard frères",
+      "Bloch Armand",
+      "Brasey Alb.",
+      "Corminbœuf frères",
+      "Clovis",
+      "Robert",
+      "Doleires-Bessat Jules",
+      "Hurni Arnold",
+      "Lévy M. & R.",
+      "Lévy Isaac",
+      "Wanner Ernest"
     ],
-    "Inspecteur du bétail.": [
-      "Corboz R."
+    "Blanchisseuses": [
+      "Durussel-Rouch",
+      "Fornallaz-Loup Louise",
+      "Poget-Soltermann L.",
+      "Zahn sœurs"
     ],
-    "Instituteurs.": [
-      "Grobéty Clovis",
-      "Wichoud Marguerite"
+    "Bois (march. de)": [
+      "Pradervand Ed."
     ],
-    "Laitier.": [
-      "Hegg Henri."
+    "Bouchers": [
+      "Stucky Adolphe",
+      "Wanner Ernest"
     ],
-    "Poste.": [
-      "Demierre Paul."
+    "Boulangers": [
+      "Doleires Henri",
+      "Huber Fritz",
+      "Lauper Ern.",
+      "Roth Gustave"
     ],
-    "Professeur de chant.": [
-      "Christen Julie."
+    "Brevets d'invention": [
+      "Pahud J.-D."
     ],
-    "Repasseuse.": [
-      "Morier, Vve."
+    "Cafés": [
+      "Andrist Oscar",
+      "Corminbœuf Robert",
+      "Doleires Yvonne, Vve",
+      "Girard Robert",
+      "Guillod Emilie",
+      "Mäder Rosa",
+      "Plojoux-Cimma Théodore",
+      "Bettler Johann",
+      "Roth Susanne, Veuve",
+      "Siegfried Arnold",
+      "Valentini Gianesio"
     ],
-    "Société.": [
-      "de laiterie de Riex."
+    "Cercueils": [
+      "Hessenmuller-Genton-Chevallaz, S. A.",
+      "Guisan O."
     ],
-    "Tailleuses.": [
-      "Crot Adèle",
-      "Masson Lucie",
-      "Morier Laure."
+    "Charcutiers": [
+      "Bertholet Ami",
+      "Caratti Marthe",
+      "Stucki Adolphe",
+      "Schneider Jean",
+      "Wanner Ernest",
+      "Charcuterie nouvelle S. A. R."
     ],
-    "Téléphoniste communal.": [
-      "Ducros Auguste."
+    "Charpentiers": [
+      "Perrin Paul",
+      "Spack Adolphe"
     ],
-    "Vignerons.": [
-      "Bessat Ls",
-      "Borgognon Clara",
-      "Bovard Ernest",
-      "Bujard Alice",
-      "Bujard Julie",
-      "Corboz Victor",
-      "Delapraz F.",
-      "Demierre François",
-      "Demierre Paul",
-      "Demierre Philippe",
-      "Detrey Maurice",
-      "Duboux-Duflon",
-      "Duboux Jules",
-      "Duboux, Vve de Louis.",
-      "Duboux, Vve d'Eugène",
-      "Duflon, Vve",
-      "Fauquex Fréd.",
-      "Fauquex Gustave",
-      "Fayet Constant",
-      "Grandjean Jules",
-      "Guex Henri",
-      "Lavanchy Frédéric",
-      "Lin Maurice",
-      "Lin Auguste",
-      "Lin Frédéric",
-      "Lin Jules",
-      "Loude Alfred",
-      "Manigley Aloïs",
-      "Marfigley Henri",
-      "Mauroux E.",
-      "Maury L.",
-      "Palaz Gust.",
-      "Parisod Hermann",
-      "'Riccard, Vve de Louis",
-      "Riccard Louis",
-      "Rod Emile",
-      "Stettler Jean",
-      "Vallon Alb."
+    "Chaussures": [
+      "Consommation",
+      "Fornerod Louis fils",
+      "Hug Marie",
+      "Wenger Ernest"
     ],
-    "Vins (march. de).": [
-      "Vallon Albert."
-    ]
-  },
-  "RIVAZ": {
-    "Autorités communales.": [
-      "Luginbuhl Charles",
-      "Besuchet Gustave."
+    "Chef de gare": [
+      "Gilliéron Alexis"
     ],
-    "Syndic": [
-      "Bron Oscar."
+    "Chef de section": [
+      "Gendarmerie"
     ],
-    "Municipaux": [
-      "Pinget Francis",
-      "Chappuis Gustave",
-      "Chappuis-Descombaz Vincent",
-      "Simon Emile."
+    "Chevaux (march. de)": [
+      "Bernard Me",
+      "Bernard frères",
+      "Lévy Isaac",
+      "Lévy M. & R."
     ],
-    "Secrétaire": [
-      "Chevalley Marius."
+    "Coiffeurs": [
+      "Ludy Lucien",
+      "Mischler Charles",
+      "Sieber Charles"
     ],
-    "Boursier": [
-      "Peyrollaz Louis."
+    "Coiffeuses": [
+      "Ludy-Lack, dame",
+      "Sieber, Mme."
     ],
-    "Artiste-peintre.": [
-      "Bieler E."
+    "Combustibles": [
+      "Berthoud, Bally & Cie."
     ],
-    "Société mutualiste de retraite « La Vigneronne ».": [
-      "Leyvraz Jean"
+    "Commission scolaire": [
+      "Fornerod Ls",
+      "Hédiguer Albert",
+      "Pidoux A.",
+      "Schumacher Ernest",
+      "Camenisch Christian"
+    ],
+    "Confections": [
+      "Mäder Alfred",
+      "Spinédi-Roth, dame"
+    ],
+    "Cordier": [
+      "Bally Auguste"
+    ],
+    "Cordonniers": [
+      "Beveler G.",
+      "Fornerod Ls",
+      "Loth Constant",
+      "Moret Henri",
+      "Poget Adolphe",
+      "Wenger Ernest"
     ]
   }
 }

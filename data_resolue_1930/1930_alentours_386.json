@@ -1,184 +1,105 @@
 {
-  "VILLE D'ECHALLENS": {
-    "Agriculteurs": [
-      "Benvegnin Ami",
-      "Benvegnin Ls",
-      "Benvegnin Fçois",
-      "Cuérel Edouard",
-      "Cuérel Lucien",
-      "Benvegnin Fernand",
-      "Damond Gust.",
-      "Duperrut Adolphe",
-      "Duperrut Alfred",
-      "Duperrut Julien",
-      "Duvoisin Jules",
-      "Michot Ami",
-      "Montagnon A.",
-      "Montagnon Ch.",
-      "Montagnon Emile",
-      "Moret Emile",
-      "Marguerat Louis",
-      "Meylan Henri",
-      "Roulin Louis",
-      "Vougaz Emile",
-      "Vullioud Chs",
-      "Zuber Chs"
-    ],
-    "Apiculteurs": [
-      "Benvegnin Hermann",
-      "Michaud Paul"
-    ],
-    "Amodiateur": [
-      "Damond Gustave"
-    ],
-    "Associations mutualistes de retraite": [
-      "Michaud Paul"
-    ],
-    "Bétail (march. de)": [
-      "Duperrut Julien"
-    ],
-    "Boulanger": [
-      "Damond Gustave. R."
-    ],
-    "Cafetiers": [
-      "Burnet Céline",
-      "Damond Gustave. R."
-    ],
-    "Charcutier": [
-      "Damond Gustave. R."
-    ],
-    "Charron": [
-      "Cosandey Julien"
-    ],
-    "Chef de gare": [
-      "Delacrétaz Ernest"
-    ],
-    "Commission scolaire": [
-      "Candaux Jules",
-      "Benvegnin Ami",
-      "Benvegnin Louis"
-    ],
-    "Epicerie, mercerie, tabacs": [
-      "Damond Gustave. R.",
-      "Marion Henri. R."
-    ],
-    "Inspecteur du bétail": [
-      "Montagnon Charles",
-      "Moret Emile"
-    ],
-    "Instituteurs": [
-      "Michaud Paul",
-      "Rieben Marguerite"
-    ],
-    "Maréchal": [
-      "Béguin Henri"
-    ],
-    "Moulin": [
-      "Usine agricole"
-    ],
-    "Orphelinat Desponds-Montagnon (Enfance abandonnée)": [
-      "Benvegnin Ernest"
-    ],
-    "Pasteur": [
-      "Candaux Jules"
-    ],
-    "Poste": [
-      "Wehren Charles"
-    ],
-    "Sociétés": [
-      "Fromagerie. R.",
-      "Cercle de l'Egalité",
-      "Usine agricole du Moulinet"
-    ],
-    "Téléphoniste": [
-      "Wehren Charles"
-    ],
-    "Tonnelier": [
-      "Cosandey Julien"
-    ]
-  },
-  "DISTRICT D'ÉCHALLENS": {
-    "Préfet": [
-      "Aguet Louis"
-    ],
-    "Substitut": [
-      "Laurent Eugène"
-    ],
-    "Receveur": [
-      "Clerc Sam."
-    ],
-    "Conservateur du registre foncier": [
-      "Laurent Eug."
-    ],
-    "Voyer du 1er arrondissement": [
-      "Thierry C."
-    ],
-    "Tribunal de district": [
-      "Fonjallaz B.",
-      "Châtelan David",
-      "Jaunin Gustave",
-      "Panchaud Jules-Alexis",
-      "Panchaud Léon",
-      "Laurent André"
-    ],
-    "Poursuites et faillites": [
-      "Haldy Edmond"
-    ]
-  },
-  "ECHALLENS": {
-    "Autorités communales": [
-      "Aguet Francis",
-      "Laurent André"
-    ],
-    "Syndic": [
-      "Brochon Ernest"
-    ],
-    "Municipaux": [
-      "Métraux Adolphe",
-      "Pittet Gustave",
-      "Mermoud Ernest",
-      "Panchaud Henri"
-    ],
-    "Secrétaire": [
-      "Frey William"
-    ],
-    "Boursier": [
-      "Magnenat Francis"
-    ],
+  "Ville d'Yverdon": {
     "Affichage": [
       "Société générale d'affichage"
     ],
-    "Amodiateur": [
-      "Brochon Jules"
-    ],
-    "Appareilleurs": [
-      "Bovey Alfred",
-      "Markert Jules"
-    ],
     "Agriculteurs": [
-      "Besson Charles",
-      "Borgeaud Benjamin",
-      "Curchod Gaston",
-      "Favre Auguste",
-      "Favre Etienne",
-      "Fiaux Alfred",
-      "Gachet Ernest",
-      "Gottofrey François",
-      "Jaccottet Ernest",
-      "Longchamp Léon",
-      "Maccaud Auguste",
-      "Maccaud Emile fils",
-      "Maccaud Georges",
-      "Magnenat Jules",
-      "Martinet Gabriel",
-      "Métraux Adolphe",
-      "Métraux Ernest",
-      "Neuenschwander Julien",
-      "Neuenschwander Louis",
-      "Panchaud Henri",
-      "Pittet Auguste de Casimir",
-      "Pittet Auguste de Charles",
-      "Pittet Ed."
+      "Aeschimann Henri",
+      "Bezençon Eug.",
+      "Bovay Gustave",
+      "Buhler Reinhardt",
+      "Carrard Gustave",
+      "Collet Alexis",
+      "Comtesse Albert",
+      "Cruchet Ernest",
+      "Dovat Léon",
+      "Gaberel A.",
+      "Gasser Louis",
+      "Golaz Louis-Emile",
+      "Pellaux Ernest",
+      "Perrin Alfred",
+      "Perrin Gustave",
+      "Schmidt Gustave",
+      "Staudenmann Ludwig"
+    ],
+    "Agriculture (fournitures pour l')": [
+      "Henrioud René"
+    ],
+    "Ameublements": [
+      "Combremont G.",
+      "Marendaz Constant",
+      "Monnier Emmanuel",
+      "Zeller Jules & fils"
+    ],
+    "Appareils à coller « Framo »": [
+      "Mottaz Fr."
+    ],
+    "Architectes": [
+      "Beyeler J.-L.",
+      "Decoppet Horace",
+      "Mério Antoine",
+      "Oberhänsli A.",
+      "Pilloud Robert",
+      "Ruche J."
+    ],
+    "Armurier": [
+      "Schneider E."
+    ],
+    "Articles de voyage": [
+      "Chapuis Henri",
+      "Combremont G."
+    ],
+    "Arsenal": [
+      "Collomb P."
+    ],
+    "Articles de pêche": [
+      "Bovard Henri",
+      "Leuenberger Robert"
+    ],
+    "Assainisseur": [
+      "Zimmermann Herm."
+    ],
+    "Assortiments (maison d')": [
+      "Gonset-Henrioud P. S. A.",
+      "Grands Magasins réunis, S. A.",
+      "Martin & Co., S. A.",
+      "Walther-Bloch, les fils de A."
+    ],
+    "Assurances": [
+      "Gross Oscar",
+      "La Genevoise (vie)",
+      "Mentha Fritz",
+      "Vallotton Gustave",
+      "Helvétia (Société suisse de secours mutuels)",
+      "Schrag E.",
+      "La Neuchâteloise",
+      "Wyss César",
+      "La Suisse",
+      "Mutuelle vaudoise",
+      "Haldiman Paul",
+      "Société suisse d'assurances générales sur la vie",
+      "Piguet & Cie",
+      "Vodoz Eug.",
+      "Vita (vie)",
+      "Chabloz A."
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Bettex A.",
+      "Société mutualiste de retraite",
+      "Bérard H.",
+      "Société suisse pour l'assurance du mobilier",
+      "Zurich (la)",
+      "Rohrbach Ern."
+    ],
+    "Automobiles — Garages": [
+      "Calame Ch.",
+      "Calame R.",
+      "Grand garage des Remparts S. A.",
+      "Groux Jean",
+      "Lindic-Mooser A.",
+      "Pittet Roger",
+      "Roth Jules"
     ]
   }
 }

@@ -1,109 +1,213 @@
 {
-  "Montreux": {
-    "Municipalité": [
-      "Anderegg Théophile",
-      "Bonard",
-      "Chevalley Henri"
+  "ROCHE": {
+    "Vins en gros": [
+      "Quillet David",
+      "Quillet Charles",
+      "Blanc Fernand"
     ],
-    "Conseil administratif du cercle": [
-      "Kuès Paul",
-      "Cochard Ulysse",
-      "Puenzieux Albert",
-      "Masson Charles",
-      "Maron Robert",
-      "Blanc Oscar",
-      "Chessex Henri",
-      "Puenzieux Albert",
-      "Chevalley Henri",
-      "Monnet Alex."
+    "Agriculteurs": [
+      "Bardet Ls",
+      "Blanc Charles",
+      "Blanc Henri",
+      "Blanc Robert",
+      "Blanc-Bonny Gustave",
+      "Blanc-Delacour Sophie, Veuve",
+      "Blanc Fernand",
+      "Blanc Samuel",
+      "Blanc-Pochon Jules",
+      "Christinat frères",
+      "Cottier Louis",
+      "Cottier Paul",
+      "Delacour Auguste",
+      "Détrey Albert",
+      "Détrey Louis",
+      "Fasnacht Ulysse",
+      "Indermühle Alf.",
+      "Morel Constant",
+      "Morel Alfred",
+      "Morel-Thévoz, Vve",
+      "Morel-Vacheron Louis",
+      "Péter-Morel Henri",
+      "Quillet Robert et Charles",
+      "Quillet David",
+      "Quillet Ernest",
+      "Quillet-Roulet Auguste",
+      "Roulet-Combremont Martin",
+      "Roulet Sam. T.",
+      "Roulet-Thévoz Louise, Vve",
+      "Thévoz Albert",
+      "Thévoz-Blanc Henri",
+      "Thévoz Marcel",
+      "Thévoz-Péter Constant",
+      "Thévoz-Roulet Robert",
+      "Thévoz Samuel"
     ],
-    "Bureaux officiels de renseignements de Montreux et environs": [
-      "Société de Développement"
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Chevalley H.",
+      "Société mutualiste de retraite",
+      "Détrey Charles"
     ],
-    "Bureau de renseignements": [
-      "Sprintz Henri"
+    "Aubergiste": [
+      "Blanc Auguste"
     ],
-    "Bureau d'assistance publique et Asile de nuit du cercle": [
-      "Bureau",
-      "Thévenaz Jules"
+    "Blanchisseuse": [
+      "Cosandey Valérie"
+    ],
+    "Boulanger": [
+      "Ruchat Oscar"
+    ],
+    "Charron": [
+      "Thévoz Eugène"
+    ],
+    "Coiffeur": [
+      "Dubuis Jean"
     ],
     "Commission scolaire": [
-      "Villard Louis",
-      "Rossé Emmanuel",
-      "Favre Jules",
-      "Jaquet Ed.",
-      "Burnens Alexis",
-      "Mercanton Félix",
-      "Pilivet Jules",
-      "Chessex Alexis",
-      "Tauxe-Berthex",
-      "Blanc Léon",
-      "Thibaud Paul",
-      "Fugli, Mme",
-      "Mayor, Mme."
+      "Roulet Samuel",
+      "Christinat Alfred",
+      "Vernet",
+      "Bardet Elise, Mme",
+      "Thévoz-Roulet Nancy, Mme"
     ],
-    "Directeur des Ecoles primaires": [
-      "Vullioud Jules"
+    "Couturières": [
+      "Delacour Alice, Mlle",
+      "Delacour-Cuany Eugénie",
+      "Jaunin-Blanc Marthe",
+      "Morel Emma",
+      "Morier H., Mme"
     ],
-    "Médecin scolaire": [
-      "Lestchinsky Alexandre"
+    "Epicerie": [
+      "Detrey Charles",
+      "Ducret Paul",
+      "Meyer E."
     ],
-    "Justice de paix du cercle": [
-      "Masson Eug.",
-      "Chessex Lucien",
-      "Michel Louis",
-      "Vincent Emile",
-      "Favre Jules",
-      "Cartier Henri"
+    "Fourches et râteaux": [
+      "Delacour Fréd."
     ],
-    "Feu (service du)": [
-      "Masson Eugène",
-      "Pilet Charles",
-      "Blanc Léon",
-      "Margot Charles"
+    "Inspecteur du bétail": [
+      "Detrey-Blanc Louis"
     ],
-    "Police": [
-      "Byrde David"
+    "Laitier": [
+      "Schwarz Arnold"
     ],
-    "Abattoirs": [
-      "Abattoirs du Cercle",
-      "Montandon Henri",
-      "Ravussin Henri"
+    "Instituteurs": [
+      "Baudraz John",
+      "Jaquinet Jeanne"
     ],
-    "Administration postale": [
-      "Borcard Jules",
-      "Mayor A.",
-      "Goin M.",
-      "Faucherre",
-      "Maillard E.",
-      "Bettens",
-      "Broyon L.",
-      "Burnens Alexis",
-      "Holzli Charles",
-      "Reutler J.",
-      "Spicher C.",
-      "Wulliamoz Aug."
+    "Jardinier": [
+      "Meyer Edouard"
     ],
-    "Affichage": [
-      "Société générale d'affichage"
+    "Maréchal": [
+      "Morier Paul"
     ],
-    "Agence commerciale": [
-      "Furer Pierre"
+    "Pasteurs": [
+      "Vernet Marc",
+      "Bridel Victor"
     ],
-    "Agence immobilière": [
-      "Furer Pierre"
+    "Poste": [
+      "Blanc Georges"
     ],
-    "Agence de location": [
-      "Furer Pierre",
-      "Légeret Ch.",
-      "Puenzieux Alb.",
-      "Veillard Henri"
+    "Rentiers": [
+      "Cornaz Henri",
+      "Morel Charles"
     ],
-    "Agence de publicité": [
-      "Kriz Eug.",
-      "Orell-Füssli",
-      "Publicitas S.A.",
-      "Sprintz H."
+    "Selliers-Tapissiers": [
+      "Blanc-Bardet Auguste",
+      "Thévoz-Mayor Etienne"
+    ],
+    "Sociétés": [
+      "d'agriculture",
+      "de chant",
+      "de laiterie",
+      "de musique",
+      "de tir aux armes de guerre",
+      "Tir de campagne et amis du Vully",
+      "de tir des bourgeois de Missy",
+      "du battoir à blé",
+      "Section de la Croix-Bleue",
+      "Syndicat agricole"
+    ],
+    "Téléphoniste": [
+      "Blanc Georges"
+    ],
+    "Veaux et porcs (commerce de)": [
+      "Bardet Alfred",
+      "Blanc Henri",
+      "Thévoz-Oulevey T.",
+      "Thévoz René"
+    ],
+    "Vélocipèdes": [
+      "Dubuis Jean",
+      "Cottier Paul"
+    ]
+  },
+  "ROSSENS": {
+    "Autorités communales": [
+      "Schüpbach Alfred",
+      "Gast Robert",
+      "Roux-Bersier Emile",
+      "Cachin Marius",
+      "Roux Fernand",
+      "Bartholomé Fritz"
+    ],
+    "Agriculteurs": [
+      "Bartholomé Fritz",
+      "Cachin Charles",
+      "Cachin Edouard",
+      "Morattel frères",
+      "Gast Robert",
+      "Roux Edouard",
+      "Roux Emile",
+      "Schertenleib Adolphe",
+      "Schüpbach Jean",
+      "Spielmann Alfred"
+    ],
+    "Assurance-vieillesse": [
+      "Société mutualiste de retraite",
+      "Rossier A."
+    ],
+    "Fourches (fab. de)": [
+      "Morattel frères"
+    ],
+    "Inspecteur du bétail": [
+      "Morattel J."
+    ],
+    "Scierie et battoir à blé": [
+      "Morattel frères"
+    ],
+    "Société": [
+      "de laiterie"
+    ]
+  },
+  "SASSEL": {
+    "Autorités communales": [
+      "Durussel Gilbert",
+      "Cosandey Ed.",
+      "Cosendai-Bersier Paul",
+      "Pitte Albert",
+      "Dufey Emile",
+      "Fivat César",
+      "Chevalley Alexis",
+      "Dufey Paul",
+      "Savary Jules",
+      "Fivat Albert"
+    ],
+    "Assesseur suppléant": [
+      "Cosandey Jules"
+    ],
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Berger A."
+    ],
+    "Aubergiste": [
+      "Cosandey-Henzer Lily"
+    ],
+    "Cantonnier": [
+      "Cosandey Edouard"
+    ],
+    "Charcutier": [
+      "Dufey Alida"
     ]
   }
 }

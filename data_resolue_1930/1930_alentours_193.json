@@ -1,142 +1,228 @@
 {
-  "VILLE DE PAYERNE": {
-    "Télégraphe et Téléphone.": [
-      "Poste de Police",
-      "Pinte communale",
-      "Savary-Hubler"
-    ],
-    "Tissage": [
-      "Gingins-Berger Adèle"
-    ],
-    "Tonneliers": [
-      "Danzeisen-Caille Willy",
-      "Déglise Joseph",
-      "Kocherhans Jacob"
-    ],
-    "Tricoteuse": [
-      "Langli-Bulliard"
-    ],
-    "Tuileries": [
-      "Briqueterie mécanique",
-      "Zbinden frères"
-    ],
-    "Vannerie-Brosserie": [
-      "Pfister J."
-    ],
-    "Vélocipèdes": [
-      "Devaud A.",
-      "Fontannaz Ph.",
-      "Ischy-Savary Ls",
-      "Ischy Paul",
-      "Maffiolini Jean",
-      "Magnenat-Caille Emile"
-    ],
-    "Verrerie et porcelaine": [
-      "Jomini Henri fils",
-      "Jomini-Husson Benjamin",
-      "Perrin Fernand",
-      "Comte-Rapin Constant",
-      "Zumbach-Perrin Emile"
-    ],
-    "Verre à vitre": [
-      "Favre & Cie (S.A.)",
-      "Rapin-Hubler Louis",
-      "Girardin Ernest",
-      "Rapin Octave"
-    ],
-    "Vétérinaires": [
-      "Butticaz Maurice",
-      "Guggi Adolphe",
-      "Pradervand Georges"
-    ],
-    "Vins (négociants en)": [
-      "Caves Réunies. S. A.",
-      "Curty Constant",
-      "Decorges Eugène",
-      "Francioli Rinaldo",
-      "Matter-Jomini Albert",
-      "Niggeler-Plumettaz Arnold"
-    ],
-    "Voituriers": [
-      "Krieger Louis",
-      "Krieger Lucien",
-      "Maffiolini Jean",
-      "Pahud frères"
-    ],
-    "Volaille": [
-      "Mordasini Oscar",
-      "Guichard-Savary Georges"
-    ],
-    "Divers": [
-      "Bladt Jean",
-      "Bosset-Delacour Franç.",
-      "Bloch Isaac",
-      "Chaudet Ls.",
-      "Cornaz Ferdinand",
-      "Dominen Oscar",
-      "Frossard Jämes",
-      "Hubler-Givel Jules",
-      "Ney Frédéric",
-      "Nicod Louis",
-      "Perrin Fernand",
-      "Perrin Marcel",
-      "Perrin Théophile",
-      "Perrin Ernest",
-      "Plumettaz frères",
-      "Rapin Alfred",
-      "Savary-Ammann Gustave",
-      "Schwab Jean",
-      "Sommerer, Mme",
-      "Widmer E."
-    ]
-  },
-  "CERNIAZ": {
-    "Autorités communales": [
-      "Cachin Henri",
-      "Cachin Edm.",
-      "Cachin Edouard"
-    ],
+  "VILLARS-LE-COMTE": {
     "Municipaux": [
-      "Gris Constant",
-      "Cachin Octave",
-      "Dubrit Eugène",
-      "Diserens Jules",
-      "Rebeaud H.",
-      "Charbonney Charles"
+      "Bulloz Edward",
+      "Jaquier Lucien",
+      "Bulloz Edward"
     ],
     "Agriculteurs": [
-      "Aeberhard Otto",
-      "Bovey Alcide",
-      "Cachin Edmond",
-      "Cachin Edouard",
-      "Cachin Octave",
-      "Curchod Héli",
-      "Charbonney Ch.",
-      "Dubrit Victor",
-      "Diserens Jules",
-      "Germond Henri",
-      "Gris Constant"
+      "Martin Ami",
+      "Pidoux Victor",
+      "Pidoux Jules",
+      "Pidoux Louis",
+      "Pidoux Emile",
+      "Pidoux L.-Oscar",
+      "Pidoux Henri et Ami"
     ],
-    "Apiculteurs": [
-      "Cachin Edouard",
-      "Cachin Octave",
-      "Dubrit Victor",
-      "Diserens Jules",
-      "Gris Constant"
+    "Mutualité scolaire de retraite": [
+      "Mani Ch."
     ],
-    "Café": [
-      "Stähelin, Mme"
+    "Buraliste postal": [
+      "Pidoux Emma"
+    ],
+    "Charpentier": [
+      "Pidoux Auguste"
     ],
     "Commission scolaire": [
-      "Diserens Jules",
-      "Gris Constant",
-      "Dubrit Eugène"
+      "Pidoux Ls-Oscar",
+      "Pidoux Jean",
+      "Bulloz Edward"
+    ],
+    "Epicerie, mercerie": [
+      "Troillet Louisa"
+    ],
+    "Ferblantier": [
+      "Bulloz Adolphe"
+    ],
+    "Inspecteur du bétail": [
+      "Bulloz Edward"
+    ],
+    "Instituteur": [
+      "Mani Charles"
+    ],
+    "Maréchal": [
+      "Jaquier Jules"
+    ],
+    "Société": [
+      "de fromagerie"
+    ],
+    "Téléphoniste": [
+      "Jaquier Jules"
+    ]
+  },
+  "VILLARS-MENDRAZ": {
+    "Autorités communales": [
+      "Pochon Victor",
+      "Jaton Aimé",
+      "Jaton Héli",
+      "Jaton-Cachin Louis",
+      "Jaton Jules d'Adrien",
+      "Jaton Jules",
+      "Cornu Ern.",
+      "Jaton Jules"
+    ],
+    "Agriculteurs": [
+      "Besson Louis",
+      "Braillard Jules",
+      "Chappuis Lucien",
+      "Cornu Ernest",
+      "Duperrex Louis",
+      "Dällenbach Otto",
+      "Jaton Héli",
+      "Jaton Henri",
+      "Jaton J.-Louis",
+      "Jaton Jules"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Pochon V."
+    ],
+    "Buraliste postal": [
+      "Jaton Elmire"
+    ],
+    "Café": [
+      "Buache Fréd."
+    ],
+    "Cantonnier": [
+      "Jaton Jules"
+    ],
+    "Charron": [
+      "Jaccaud Louis"
+    ],
+    "Commission scolaire": [
+      "Jaccaud William",
+      "Jaton Jules d'Adrien",
+      "Jaton Jules de Jean-Pierre"
+    ],
+    "Epicerie, mercerie": [
+      "Monod Clara"
+    ],
+    "Inspecteur du bétail": [
+      "Jaton Jean-Ls"
+    ],
+    "Instituteurs": [
+      "Pochon Victor",
+      "Pochon Marguerite"
+    ],
+    "Maçon": [
+      "Liard Félix"
+    ],
+    "Sociétés": [
+      "de laiterie",
+      "de tir Les Patriotes du Jorat",
+      "Fondation Félix Cornu"
+    ],
+    "Téléphoniste": [
+      "Buache Fréd"
+    ]
+  },
+  "VUCHERENS": {
+    "Autorités communales": [
+      "Vuagniaux Ls-Adolphe",
+      "Duc Maurice",
+      "Cherpillod Auguste",
+      "Cavin Héli de Samuel",
+      "Gavillet Adrien",
+      "Cherpillod Fern.",
+      "Cherpillod Ulysse",
+      "Porchet Elie",
+      "Vuagniaux Léon de Pierre"
+    ],
+    "Agriculteurs": [
+      "Cherpillod Fernand",
+      "Sarrandin",
+      "Cherpillod Elie",
+      "Cherpillod Ulysse",
+      "Cherpillod Alphonse",
+      "Cuénoud Louis T.",
+      "Favre Jules",
+      "Jaquier Emile",
+      "Vuagniaux Gustave",
+      "Vuagniaux L.-A.",
+      "Vuagniaux Léon",
+      "Vuagniaux Edmond"
+    ],
+    "Apiculteurs": [
+      "Besson Maurice",
+      "Cherpillod Germain",
+      "Cherpillod Lucien",
+      "Duc, hoirie",
+      "Gavillet Héli",
+      "Porchet Alfr.",
+      "Schneider Gott.",
+      "Vuagniaux Adolphe",
+      "Vuagniaux Ernest"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Tzaud L."
+    ],
+    "Boulanger": [
+      "Ansermet Louis"
+    ],
+    "Cafés": [
+      "Lorini Vital",
+      "Laurent-Cavin Jenny",
+      "Ansermet Louis"
+    ],
+    "Cantonnier": [
+      "Jaquier Henri"
+    ],
+    "Charpentier": [
+      "Vuagniaux Ernest"
+    ],
+    "Charrons": [
+      "Gavillet Adrien",
+      "Porchet Victor"
+    ],
+    "Commission scolaire": [
+      "Vuagniaux Léon",
+      "Vuagniaux Edmond",
+      "Vuagniaux Abel"
+    ],
+    "Cordonnier": [
+      "Jaquier Héli"
+    ],
+    "Couturières": [
+      "Corthésy Juliette",
+      "Vuagniaux Augustine"
+    ],
+    "Entrepreneur en bâtiments": [
+      "Lorini Vital"
     ],
     "Epicerie": [
-      "Stähelin, Mme"
+      "Cherpillod Alice Mme",
+      "Chevalley Philippe"
     ],
-    "Garde-forestier de l'Etat": [
-      "Cachin Henri"
+    "Ferblantier": [
+      "Cherpillod Ele"
+    ],
+    "Fromager": [
+      "Schneider Gottfried"
+    ],
+    "Garde-forestier": [
+      "Porchet Elie"
+    ],
+    "Inspecteur du bétail": [
+      "Vuagniaux Victor"
+    ],
+    "Instituteurs": [
+      "Buttex Clémence",
+      "Tzaud Louis"
+    ],
+    "Laitier": [
+      "Bentler Alexandre"
+    ],
+    "Marchand de bestiaux": [
+      "Cuénoud Ls"
+    ],
+    "Maréchal": [
+      "Cavin Maurice"
+    ],
+    "Menuisiers-ébénistes": [
+      "Vuagniaux L- Marius",
+      "Vuagniaux Eugène"
+    ],
+    "Oeufs (Commerce d')": [
+      "Jaton-Cherpillod Marie"
     ]
   }
 }

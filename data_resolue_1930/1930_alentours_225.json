@@ -1,121 +1,129 @@
 {
-  "Ville de Rolle": {
-    "Skis (fabr. de).": [
-      "Nidecker fils"
+  "Ville d'Orbe": {
+    "Cafés": [
+      "Testori Pierre",
+      "Troyon Alfred",
+      "Wyss Ernest"
     ],
-    "Sociétés.": [
-      "Cercle de la Côte",
-      "Fanfare rolloise",
-      "Nouvelle Société anonyme du gaz",
-      "Société coopérative de consommation",
-      "Société de chant l'Harmonie",
-      "» des Conférences publiques",
-      "» de gymnastique fédérale",
-      "» de gymnastique hommes",
-      "» Nautique",
-      "» charitable de Rolle",
-      "» de Tir des Armes Réunies de la Côte",
-      "» Chœur de Dames",
-      "» de la Prévoyance",
-      "» vaudoise de secours mutuels",
-      "» des Vétérans",
-      "» Bons Templiers",
-      "» de laiterie",
-      "» du chemin de fer électrique Rolle-Gimel",
-      "» des tonneliers de la Côte",
-      "Section de la Croix-Bleue",
-      "Vélo-Club",
-      "Société du Sauvetage",
-      "Société La Côte-Sport",
-      "Société T. S. F.",
-      "Union des Femmes",
-      "Ligue rolloise contre la tuberculose",
-      "Section de la Croix-Rouge",
-      "Section des Samaritains"
+    "Caisse d'épargne": [
+      "Société de la Caisse d'épargne d'Orbe",
+      "Pittet Francis"
     ],
-    "Tailleurs.": [
-      "Ballif J.",
-      "Fatthev Edmond"
+    "Cercueils": [
+      "Bourgeois Gustave",
+      "Rogivue L.",
+      "Sterchi Eugène"
     ],
-    "Tapissiers.": [
-      "Favre Henri",
-      "Larpin Alfred",
-      "Moinat Louis"
+    "Chapellerie": [
+      "Bloch-Lévy Edmond",
+      "Estoppey Marcel",
+      "Meyer Marx",
+      "Rapin Henri"
     ],
-    "Tartre (march. de).": [
-      "Creteenaud, Vve d'Etienne",
-      "Dissard Damien",
-      "Revaz, Vve de Franç."
+    "Charcutiers": [
+      "Berger Charles",
+      "Cerf Emile",
+      "Michaud Ernest"
     ],
-    "Teinturerie.": [
-      "Haussener E."
+    "Charpentiers": [
+      "Addor & Jaquier",
+      "Sterchi Eugène",
+      "Rogivue Louis-Florian",
+      "Troyon Emile"
     ],
-    "Tonneliers.": [
-      "Aepli Jean",
-      "Hammel Jacob",
-      "Schmid Georges",
-      "Widmayer Charles"
+    "Charrons": [
+      "Ecoffey frères",
+      "Huber Rodolphe"
     ],
-    "Treillageur.": [
-      "Cabrol Maurice"
+    "Chaussures (march. de)": [
+      "Estoppey Marcel",
+      "Ferreux Louis"
     ],
-    "Vannerie.": [
-      "Divorne Esther",
-      "Monnard-Margot H.",
-      "Yersin-Rochat B."
+    "Chef de section": [
+      "Rogivue Emile"
     ],
-    "Vélocipèdes.": [
-      "Gauthey Edmond",
-      "Rusillon Georges",
-      "Rosset Albert",
-      "Ulliel Gaston"
+    "Chiffons": [
+      "Ramelet Louis"
     ],
-    "Vignes américaines.": [
-      "Rosset Henri"
+    "Chocolat (fab. de)": [
+      "Nestlé and Anglo-Swiss Condensed Milk Company fusionné avec Peter, Cailler, Kohler, Chocolats Suisses"
     ],
-    "Vins (march. de).": [
-      "Hégi (courtier)",
-      "Held-Perreten",
-      "Lichtensteiger & Cie",
-      "Perrin Gustave",
-      "Schenk & Cie (S. A.)"
+    "Cidre (fab. de)": [
+      "Cidrerie de la Vallée de l'Orbe (S. A.)"
     ],
-    "Vitriers.": [
-      "Burnier Jules",
-      "May Alfred",
-      "Mottaz Julien",
-      "Pittet Paul",
-      "Roquerbe Rodolphe",
-      "Zumstein Franz"
+    "Ciment et chaux": [
+      "Beauverd Emile"
     ],
-    "Voituriers.": [
-      "Gozel Louis",
-      "Tissot Adrien"
+    "Coiffeurs": [
+      "Capt-Mottaz A.",
+      "Cochand A.",
+      "Cottier-Boudry Lucie",
+      "Rochat Marcel",
+      "Besson Emilienne"
     ],
-    "Divers.": [
-      "Aubert-Renaud Nancy",
-      "Barbezat Maur.",
-      "Rolaz-Jaggi Albert",
-      "Buvelot Louis",
-      "Clerc Louis",
-      "de Saugy Edouard",
-      "de Watteville, Vve de Rodolphe",
-      "du Martheray Rod.. Vve. Bugnaux",
-      "Eynard Rachel",
-      "Gygi Fritz",
-      "Gros, Vve de Louis",
-      "Guiger de Prangins Jeanne",
-      "Jaggi Henri",
-      "Jaquet E.",
-      "Kunkler Edouard",
-      "Le Fort Henri",
-      "Martin-Couvet W.",
-      "Mercier Ad.",
-      "Meylan",
-      "Monod-Van Muyden Jean",
-      "Schaer Max",
-      "Schenk-Rolaz A.",
-      "Simon-Bonnard Eugénie"
+    "Colonie": [
+      "Colonie de l'Orbe",
+      "Fontannaz M.",
+      "Guex Albert"
+    ],
+    "Combustibles": [
+      "Bezençon Hri & Bousson Louis",
+      "Société coopérative"
+    ],
+    "Commission scolaire": [
+      "Barraud Maurice",
+      "Cerf Emile"
+    ],
+    "Confections pour hommes": [
+      "Dériaz-Auberson J.",
+      "Estoppey Marcel",
+      "Meyer Marx"
+    ],
+    "Confiseurs": [
+      "Perrin Ernest",
+      "Zehnder Paul"
+    ],
+    "Conseil de paroisse": [
+      "Moreillon Maurice",
+      "Hiertzler Ch."
+    ],
+    "Cordonniers": [
+      "Clerc Robert",
+      "Denervaux L.",
+      "Ferreux Louis",
+      "Fuchs Jules",
+      "Mader David"
+    ],
+    "Corroyeur": [
+      "Schwille Rose"
+    ],
+    "Couleurs et Vernis": [
+      "Antometti Alph."
+    ],
+    "Courtepointière": [
+      "Robellaz Louise"
+    ],
+    "Couturières": [
+      "Chevalley-Duc, dame",
+      "Cochard-Goy, Henriette",
+      "Fuhrer Berthe",
+      "Gueissaz-Perriraz Blanche",
+      "Guignard L. & H., Mlles",
+      "Jaques, dame",
+      "Müller, dame",
+      "Schnœnenberger, dame"
+    ],
+    "Cuirs (march. de)": [
+      "Reymond Gustave",
+      "Schwille Rose"
+    ],
+    "Curé": [
+      "Vienne André"
+    ],
+    "Dentistes": [
+      "Bornand A.",
+      "Cuendet Henri",
+      "Huguenin Gustave"
     ]
   }
 }

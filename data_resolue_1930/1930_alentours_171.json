@@ -1,209 +1,195 @@
 {
-  "CHATILLENS": {
-    "Scierie.": [
-      "Jayet John"
+  "VULLIERENS": {
+    "Sage-femme": [
+      "Roth Julie"
     ],
-    "Société.": [
-      "de laiterie de Châtillens et Vuibroye"
+    "Sellier": [
+      "Henry Eugène"
     ],
-    "Vannerie.": [
-      "Bader Jacob"
+    "Sociétés": [
+      "de fromagerie de Gland",
+      "de fromagerie de Vullierens",
+      "Militaire Union des Amis de l'Helvétie",
+      "Syndicat d'élevage de Vullierens",
+      "Section de la Croix-Bleue",
+      "Battoir à grains et distillerie à vapeur"
+    ],
+    "Tailleuses": [
+      "Bertschiger, dame",
+      "Mercier Bertha",
+      "Rochat Germaine"
+    ],
+    "Téléphoniste": [
+      "Vionnet Paul"
+    ],
+    "Tisserand": [
+      "Bertschiger Jean"
     ]
   },
-  "CHESALLES-SUR-ORON": {
-    "Autorités communales.": [
-      "Varidel Alexis",
-      "Varidel Henri",
-      "Corboz Alexis",
-      "Cardinaux Constant",
-      "Gilliéron Victor",
-      "Etter Samuel",
-      "Pilet Louis",
-      "Maillard Ulysse",
-      "Varidel David"
+  "YENS": {
+    "Autorités communales": [
+      "André Ch.",
+      "Baumann Henri"
     ],
-    "Agriculteurs.": [
-      "Cardinaux Constant",
-      "Cardinaux Daniel",
-      "Corboz Alexis",
-      "Corboz Emile",
-      "Corboz Ernest",
-      "Corboz Louis",
-      "Etter Samuel",
-      "Gilliéron Henri",
-      "Gilliéron Victor",
-      "Jan Jules",
-      "Maillard Aimé",
-      "Maillard Armand",
-      "Maillard Emile",
-      "Maillard Ulysse",
-      "Pasche Frédéric",
-      "Stalder Jean",
-      "Terrapon Alfred",
-      "Varidel Alexis",
-      "Varidel Henri"
+    "Syndic": [
+      "Moinat Albert"
     ],
-    "Epicerie.": [
-      "Arnoldi Adèle",
-      "Maillard Emile"
+    "Municipaux": [
+      "Chauvy Albert",
+      "Bourgeois Aloïs",
+      "de la Harpe Alexis",
+      "Chauvy Ami",
+      "Reymond Charles-André"
     ],
-    "Inspecteur du bétail.": [
-      "Gilliéron Victor"
+    "Boursier": [
+      "Bourgeois Adolphe"
     ],
-    "Instituteur.": [
-      "Pilet Louis"
+    "Agriculteurs": [
+      "André Charles",
+      "André, Vve de Marc",
+      "André, Vve d'Ernest",
+      "André Valentin",
+      "Auberson Jules",
+      "Bichet frères",
+      "Bourgeois Aloïs",
+      "Bourgeois Emile",
+      "Bourgeois Henri",
+      "Bourgeois frères",
+      "Buhler Walter",
+      "Chauvy Alexis",
+      "Chauvy-André, Vve",
+      "Chauvy Ami",
+      "Chauvy-Margot Jules",
+      "Chauvy-Davoët Walther",
+      "Chauvy-Dupuis Jules",
+      "Chauvy Louis",
+      "Chauvy-Pernet Albert",
+      "Cœytuax frères",
+      "Curtet Edouard",
+      "Davoët Emile",
+      "Davoët Henri",
+      "Dupuis François et Henri",
+      "Dupuis frères",
+      "Dutoit Théodore",
+      "Genoux Alfred",
+      "Golay Edouard",
+      "Gossweiler Louis",
+      "Grand Louis",
+      "Mettral Henri",
+      "Mettral Olivier",
+      "Moinat Albert",
+      "Moret Charles",
+      "Moret Robert",
+      "Mouny Ami",
+      "Muller, Vve",
+      "Tripod-Rossier E.",
+      "Vauthey Albert",
+      "Viret Eugène",
+      "Wulschlegger Ed."
     ],
-    "Laitier.": [
-      "Bischof Adolphe"
+    "Apiculteurs": [
+      "André Charles",
+      "de la Harpe Fern."
     ],
-    "Pasteur.": [
-      "Schutz Charles"
+    "Mutualité scolaire de retraite": [
+      "Liron A."
     ],
-    "Scieur.": [
-      "Maillard Emile"
+    "Aubergistes": [
+      "Cordier Louis",
+      "Caldera C.",
+      "Mercier Edm."
     ],
-    "Sociétés.": [
-      "Caisse de Crédit mutuel de Chesalles-Oron",
-      "de laiterie",
-      "Syndicat agricole et d’élevage",
-      "Syndicat d'alpage"
+    "Blanchisseuse": [
+      "Clément, Vve."
     ],
-    "Téléphoniste.": [
-      "Maillard Emile"
-    ]
-  },
-  "CORCELLES-LE-JORAT": {
-    "Autorités communales.": [
-      "Chenevard Jules",
-      "Duperrex Arnold",
-      "Porchet Robert",
-      "Porchet Constant",
-      "Ramuz Jules",
-      "Porchet John",
-      "Porchet Jean-Louis",
-      "Porchet Henri-Louis",
-      "Burdet Alfred",
-      "Porchet Alexis"
+    "Boucher": [
+      "David Gustave"
     ],
-    "Agriculteurs.": [
-      "Cavin Lucien",
-      "Chenevard Auguste",
-      "Chenevard Emile",
-      "Chevalley frères",
-      "Diserens Constant",
-      "Freymond frères",
-      "Gavillet Ernest",
-      "Porchet Ernest",
-      "Porchet Eugène",
-      "Porchet Henri",
-      "Porchet John",
-      "Porchet Jules",
-      "Porchet Gust. T.",
-      "Porchet Léonard",
-      "Porchet Lucien",
-      "Porchet Julien",
-      "Porchet-Gessenay Louis",
-      "Ramuz Alfred",
-      "Viret Emile"
+    "Boulanger": [
+      "Janin Jules"
     ],
-    "Assurance-vieillesse.": [
-      "Associations mutualistes de retraite",
-      "Chevalley A."
+    "Charpentier": [
+      "André Charles"
     ],
-    "Aubergistes.": [
-      "Chaubert Frédéric",
-      "Gilliéron Louis",
-      "Porchet Louis"
+    "Chef de section": [
+      "Grand René"
     ],
-    "Bois (march. de).": [
-      "Porchet Félix. T.",
-      "Ramuz Jules",
-      "Ramuz Louis"
+    "Cordonnier": [
+      "Meylan Léopold"
     ],
-    "Blanchisseuse.": [
-      "Porchet Eugénie"
+    "Couturières": [
+      "André Violette",
+      "Hari Madeleine"
     ],
-    "Boulangerie.": [
-      "Chaubert Fréd."
+    "Entrepreneur": [
+      "Cortellini Jean fils"
     ],
-    "Carrier.": [
-      "Porchet Léonard"
+    "Epicerie, mercerie": [
+      "Clerc Alfred",
+      "Favre Achille",
+      "Virchaux Ernest"
     ],
-    "Charpentiers.": [
-      "Dind Th.",
-      "Martinet Alfred"
+    "Ferblantiers": [
+      "Durand Louis",
+      "Guignard Louis"
     ],
-    "Charrons.": [
-      "Cavin Aloïs",
-      "Chenevard Henri"
+    "Forestier": [
+      "Mettral Olivier"
     ],
-    "Commission scolaire.": [
-      "Burdet A.",
-      "Porchet J.-Ls."
+    "Gravières": [
+      "Auberson J.",
+      "Cœytaux frères"
     ],
-    "Couturière.": [
-      "Porchet Eugénie"
+    "Gypsiers-peint": [
+      "Buzzi père & fils"
     ],
-    "Epiceries.": [
-      "Lassueur Marie",
-      "Penseyres Jenny"
+    "Inspecteur du bétail": [
+      "de la Harpe Alexis"
     ],
-    "Fourches et râteaux.": [
-      "Bertholet Samuel"
+    "Instituteurs": [
+      "Liron Albin",
+      "de la Harpe-Pittet Louise",
+      "Bugnon Marie"
     ],
-    "Garde-forestier de triage.": [
-      "Porchet Ulysse"
+    "Laitier": [
+      "Rochat Robert"
     ],
-    "Gravière.": [
-      "Freymond Jules"
+    "Maréchal": [
+      "Bieler Ernest"
     ],
-    "Inspecteur du bétail.": [
-      "Porchet-Steiner Louis"
+    "Menuisier": [
+      "André Robert"
     ],
-    "Instituteurs.": [
-      "Chevalley Alexis",
-      "Chenevard Marguerite"
+    "Meunier": [
+      "Moret Charles"
     ],
-    "Laitier.": [
-      "Mollet Jacob"
+    "Pasteur": [
+      "Lador Hermann"
     ],
-    "Lingère.": [
-      "Penseyres Jenny"
+    "Pension d'été": [
+      "Thurin Eugénie Vve."
     ],
-    "Mécanicien.": [
-      "Chenevard Jules. T."
+    "Poterie": [
+      "Virchaux RT"
     ],
-    "Officier d'état civil.": [
-      "Chenevard Ele."
+    "Scieurs": [
+      "Martignier Henri",
+      "Moret Charles"
     ],
-    "Poste.": [
-      "Duperrex Arnold"
-    ],
-    "Rentier.": [
-      "Ramuz Héli"
-    ],
-    "Scieur.": [
-      "Société du Moulin agricole"
-    ],
-    "Sociétés.": [
+    "Sociétés": [
       "de fromagerie",
-      "de tir (Union fédérale)",
-      "du Moulin agricole",
-      "Caisse locale d'assurance du bétail"
+      "du battoir",
+      "Syndicat agricole",
+      "romande d'élevage du gibier"
     ],
-    "Téléphone.": [
-      "Auberge communale"
+    "Tailleur": [
+      "Bredaz Louis"
     ],
-    "Volailles (comm. de).": [
-      "Chenevard Elisa",
-      "Porchet Alfred",
-      "Regamey Eugénie"
-    ]
-  },
-  "CULLAYES": {
-    "Autorités communales.": [
-      "Devaud Emile",
-      "Bezençon Albert"
+    "Téléphone public": [
+      "Mercier Edmond"
+    ],
+    "Veaux (march. de)": [
+      "Golay Vict."
     ]
   }
 }

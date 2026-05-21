@@ -1,242 +1,227 @@
 {
-  "VILLE D'ECHALLENS": {
-    "Sociétés.": [
-      "Section de la Croix-Bleue",
-      "Syndicat agricole",
-      "Syndicat d’élevage chevalin du Gros de Vaud",
-      "id. de battage",
-      "immobilière du Cormistaux",
-      "immobilière de Praz-Palud"
+  "Gimel": {
+    "Bücherons": [
+      "Paccot Jules",
+      "Paccot Joseph",
+      "Panchaud Henri",
+      "Prod'hom Henri",
+      "Solliard Julien"
     ],
-    "Tailleur": [
-      "Maccaud François"
+    "Divers": [
+      "Auto-Transports de la Côte",
+      "Barbay Alfred",
+      "Brocard, Veuve",
+      "Caillat Albert",
+      "Chavannes Ernest"
     ],
-    "Tailleuses": [
-      "Chamot Ida",
-      "Gariglio Adélaïde",
-      "Genton Julie",
-      "Devolz Elisa & Mathilde",
-      "Mettraux Bertha"
-    ],
-    "Tapissiers": [
-      "Cardinaux Auguste",
-      "Chappuis Fanny"
-    ],
-    "Taxis": [
-      "Jaccottet Vincent",
-      "Rochat Lucien"
-    ],
-    "Télégraphiste": [
-      "Chappuis Emile"
-    ],
-    "Téléphone public": [
-      "Hôtel de Ville et Bureau des Postes"
-    ],
-    "Toilerie": [
-      "Allasia Alfr.",
-      "Baud & Crausaz",
-      "Rochat Emile",
-      "Wyler Salomon"
-    ],
-    "Tricoteuse": [
-      "Cardinaux Julie"
-    ],
-    "Vannerie": [
-      "Falcy-Fornerod",
-      "Magnenat Louis"
-    ],
-    "Vélocipèdes": [
-      "Bezençon & Vauthey",
-      "Falcy Ls.",
-      "Rochat Lucien"
-    ],
-    "Vérificateur des poids et mesures": [
-      "Bovey André"
-    ],
-    "Vétérinaires": [
-      "Dasen W.",
-      "Despland G."
-    ],
-    "Vins (march. de)": [
-      "Mermoud Ernest",
-      "Nicod Eugène",
-      "Panchaud Léon"
-    ],
-    "Voituriers": [
-      "Pittet Auguste",
-      "Pollien Irénée",
-      "Rapit Louis"
-    ]
-  },
-  "ASSENS": {
     "Autorités communales": [
-      "Brocard Jules",
-      "Chambettaz Simon"
-    ],
-    "Syndic": [
-      "Favre Joseph"
-    ],
-    "Municipaux": [
-      "Despont Robert",
-      "Mathey Henri",
-      "Martin Marc",
-      "Pelet Paul",
-      "Pollien Emile",
-      "Favre-Riton J.",
-      "Despont Edouard"
+      "Debonneville César",
+      "Rochat Louis",
+      "Debonneville Samuel",
+      "Reymond Joseph",
+      "Badel Emile",
+      "Fillettaz Gustave",
+      "Loriol Ernest",
+      "Debonneville Emile",
+      "Reymond Eugène",
+      "Debonneville Gaston"
     ],
     "Agriculteurs": [
-      "Barby Ls",
-      "Chambettaz Auguste",
-      "Chambettaz Alfr.",
-      "Chambettaz Edouard",
-      "Chambettaz Simon",
-      "Chambettaz Marc",
-      "Chatelan Auguste",
-      "Cherpit Marc",
-      "Despont Armand",
-      "Despont Ed.",
-      "Despont Ernest",
-      "Despont Ls",
-      "Despont Robert",
-      "Dony Louis",
-      "Favre frères",
-      "Jaccaud Eugène",
-      "Jordan Henri",
-      "Martin Marc",
-      "Mathey Elie",
-      "Mathey frères",
-      "Mathey Henri",
-      "Mermoud Vve",
-      "Pelet Alfred",
-      "Pelet frères",
-      "Pelet Paul",
-      "Pellerin Joseph",
-      "Pichonnaz Henri",
-      "Pollien Emile",
-      "Pollien",
-      "Pollien François",
-      "Thélin Auguste",
-      "Thélin Louis"
+      "Aeberhardt Jean",
+      "Badel Emile",
+      "Baudin Henri",
+      "Baudin Rob.",
+      "Baudraz Hri",
+      "Bresch Emile",
+      "Champion Jules fils",
+      "Champion Ul.",
+      "Croisier-Bouffard",
+      "Debonneville César",
+      "Debonneville Ch.",
+      "Debonneville Edm.",
+      "Debonneville Emile",
+      "Debonneville Marius",
+      "Debonneville Samuel",
+      "Etienne John",
+      "Fillettaz Ch.",
+      "Fillettaz Gustave",
+      "Lecoultre B.",
+      "Loriol César",
+      "Pasche",
+      "Perrin Edouard",
+      "Pichon, Vve",
+      "Renaud Georges",
+      "Reymond Joseph",
+      "Reymond, Vve de Jules et fils",
+      "Vez François"
     ],
-    "Café": [
-      "Pichonnaz Hilaire"
+    "Appareillage et terrassements": [
+      "Delévaux Georges"
     ],
-    "Cantonnier": [
-      "Mathey Marc"
+    "Apiculteurs": [
+      "Baumgartner Alfred",
+      "Champion Alfred",
+      "Krumm Alfred",
+      "Staudenmann G.",
+      "Walter Jacob"
     ],
-    "Charcutier": [
-      "Barbey Casimir"
+    "Asile cantonal": [
+      "La Rosière",
+      "Rod L."
     ],
-    "Chef de gare": [
-      "Basset, Mme. T."
+    "Mutualité scolaire de retraite": [
+      "Dumarthéray E."
     ],
-    "Commission scolaire réformée": [
-      "Curchod Robert",
-      "Dony Louis",
-      "Chatelan Auguste"
+    "Société mutualiste de retraite": [
+      "Bresch Mr."
     ],
-    "Commission scolaire catholique": [
-      "Colliard",
-      "Despont Ernest",
-      "Mathey Elie"
+    "Automobiles, taxis, transports": [
+      "Grassi Vincent",
+      "Pichon Armand",
+      "Uldry Aloys"
+    ],
+    "Bétail (march. de)": [
+      "Baud William",
+      "Pichon Armand"
+    ],
+    "Boisselier": [
+      "Bourgeois Auguste"
+    ],
+    "Bois": [
+      "Badel Emile",
+      "Baudin Robert",
+      "Champion Octave"
+    ],
+    "Bouchers": [
+      "Pichon Armand",
+      "Uster Hermann"
+    ],
+    "Boulangers-pâtissiers": [
+      "Delaporte John",
+      "Mojonnier John"
+    ],
+    "Bûcherons": [
+      "Badel Jules",
+      "Billard Louis",
+      "Debonneville Adrien",
+      "Debonneville Aimé",
+      "Erard Albin",
+      "Terry Francis",
+      "Thilmann Jean"
+    ],
+    "Buraliste postale": [
+      "Reymond Marie"
+    ],
+    "Cafés": [
+      "Baudraz Henri",
+      "Germain Henri",
+      "Perrin Ed."
+    ],
+    "Café de tempérance": [
+      "Champion Alf."
+    ],
+    "Chapellerie": [
+      "Messieux Anna"
+    ],
+    "Charcutiers": [
+      "Pichon Armand",
+      "Uster Hermann"
+    ],
+    "Charpentier": [
+      "Haldi Albert"
+    ],
+    "Charrons": [
+      "Chapuis Gustave",
+      "Gillard Louis"
+    ],
+    "Chaussures (march. de)": [
+      "Grassi Vincent",
+      "Hornung Charles",
+      "Messieux Anna",
+      "Uldry frères"
+    ],
+    "Chef de section": [
+      "Debonneville E."
+    ],
+    "Cigares et tabacs": [
+      "Debonneville Ele.",
+      "Messieux Anna",
+      "Uldry frères"
+    ],
+    "Ciment (march. de)": [
+      "Uldry frères"
+    ],
+    "Cimenteur": [
+      "Debonneville Lucien"
+    ],
+    "Coiffeur": [
+      "Judas Walter"
+    ],
+    "Commission scolaire": [
+      "Loriol César",
+      "Roth Jean",
+      "Debonneville Emile",
+      "Debonneville Sam.",
+      "Uldry Frank"
     ],
     "Cordonnier": [
-      "Trachsel Alfred"
+      "Grassi Vincent"
     ],
-    "Curé": [
-      "Colliard Clément"
+    "Couturières": [
+      "Baud Léa",
+      "Champion Marguerite",
+      "Chevallaz, dame",
+      "Fillettaz Alice",
+      "Henzen Emma",
+      "Pasche Robert, dame",
+      "Werren Hermann, Mme."
     ],
-    "Entrepreneur": [
-      "Bottini S.",
-      "Fantoli Maurice"
+    "Dentiste": [
+      "Peter A."
     ],
-    "Epicerie, étoffes, mercerie": [
-      "Favre Riton Joseph",
-      "Messerli Aimé"
+    "Engrais chimiques": [
+      "Dépôt de Fribourg",
+      "Debonneville Emile",
+      "Dépôt de St-Gobain",
+      "Uldry frères"
     ],
-    "Inspecteur du bétail": [
-      "Despont André",
-      "Pelet Charles"
+    "Entrepreneurs": [
+      "Debonneville frères",
+      "Delévaux Georges",
+      "Vez Maraius",
+      "Werren Hermann"
     ],
-    "Instituteurs": [
-      "Brocard Jules",
-      "Barbey Emile",
-      "Bugnon Alice",
-      "Fontannaz Aimée"
+    "Epicerie, mercerie": [
+      "Debonneville Emile",
+      "Debonneville Lucie",
+      "Hornung Charles",
+      "Messieux Anna",
+      "Uldry frères"
     ],
-    "Maçons": [
-      "Bottini Sylvestre",
-      "Fantoli Maurice"
+    "Forces de Joux": [
+      "Gaillet"
     ],
-    "Maréchal": [
-      "Olloz Henri"
+    "Ferblantier": [
+      "Paget Emile"
     ],
-    "Mécanicien": [
-      "Messerli Louis"
+    "Fers (march. de)": [
+      "Uldry frères"
     ],
-    "Menuisier": [
-      "Barby Charles"
+    "Fourches (fabr. de)": [
+      "Badel Paul"
     ],
-    "Pasteur": [
-      "Curchod Robert"
+    "Gypsiers-peintres": [
+      "Correvon Emile",
+      "Ethenoz Jules",
+      "Pasche Robert"
     ],
-    "Poste": [
-      "Pelet Ferdinand"
+    "Horticulteur": [
+      "Bron Jules"
     ],
-    "Rentiers": [
-      "Baudère Louis",
-      "Martin Félix"
-    ],
-    "Scierie et commerce de bois": [
-      "Siegrist Hermann"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "de la machine à battre",
-      "Syndicat agricole",
-      "de tir"
-    ],
-    "Tailleuses": [
-      "Dupont sœurs",
-      "Martin sœurs",
-      "Mathey-Meyer Agathe"
-    ],
-    "Téléphoniste": [
-      "Favre J."
-    ],
-    "Tricoteuse": [
-      "Longchamp Joséphine"
-    ],
-    "Vélocipèdes": [
-      "Messerli Louis"
-    ]
-  },
-  "BIOLEY-ORJULAZ": {
-    "Autorités communales": [
-      "Porchet Eugène",
-      "Bally Georges"
-    ],
-    "Syndic": [
-      "Gachet Henri"
-    ],
-    "Municipaux": [
-      "Favre Louis",
-      "Despont Marc",
-      "Gachet Ami",
-      "Fatio Fritz",
-      "Delamadeleine Léon",
-      "Gachet Paul",
-      "Bavaud Louis"
-    ],
-    "Agriculteurs": [
-      "Dony Em.",
-      "Dony Aimé",
-      "Emery Samuel",
-      "Favre Henri",
-      "Gachet Arnold",
-      "Gachet Emile",
-      "Gachet Gustave"
+    "Hôtels-pensions": [
+      "Hôtel de l'Union, Germain Henri",
+      "Hôtel de la Poste, Baudraz Henri",
+      "Hôtel du Signal, Mme Lambert"
     ]
   }
 }

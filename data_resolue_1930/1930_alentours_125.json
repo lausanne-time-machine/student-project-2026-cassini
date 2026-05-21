@@ -1,200 +1,187 @@
 {
-  "OLLON": {
-    "Vignerons.": [
-      "Bellay Louis",
-      "Bovy Rodolphe",
-      "Butty Jules",
-      "Charbonnier Benjamin fils",
-      "Hügly frères",
-      "Jaquenoud François",
-      "Jaquenoud François fils",
-      "Lecoultre Henri",
-      "Perriraz Louis",
-      "Sinner Jules"
+  "Le Sentier": {
+    "Pêcheurs": [
+      "Aubert Eugène",
+      "Meylan Ami",
+      "Piguet-Capt E."
     ],
-    "Vins (march. de).": [
-      "Gervaix-Addor Fernand"
+    "Pensions (Voir aussi Hôtels)": [
+      "Aubert-Martig, Mme.",
+      "Meylan Alfred",
+      "Aubert-Jurk Louis",
+      "Rochat César"
     ],
-    "Voiturier.": [
-      "Blazer Emile"
+    "Pharmacien": [
+      "Nicole Roland"
     ],
-    "Divers.": [
-      "Grand Henri"
-    ]
-  },
-  "BOGIS-BOSSEY": {
-    "Agriculteurs.": [
-      "Bourguignon Charles",
-      "Dancet Louis"
+    "Poste": [
+      "Aubert François"
     ],
-    "Aubergiste.": [
-      "Billard Henri"
+    "Primeurs": [
+      "Bove François",
+      "Cardinaux Alfred",
+      "Matthey Ch."
     ],
-    "Bois (march. de).": [
-      "Mugnier John"
+    "Quincaillerie": [
+      "Meylan-Marschall"
     ],
-    "Commission scolaire de Bogis-Chavannes.": [
-      "Mugnier Louis",
-      "Mugnier Auguste"
+    "Rasoirs (fabr. de)": [
+      "Lecoultre Jacques & Cie, S. A."
     ],
-    "Inspecteur du bétail.": [
-      "Mugnier Jul."
+    "Receveur de l'Etat": [
+      "Reymond Albert"
     ],
-    "Instituteur.": [
-      "Barraud Louis"
+    "Renseignements commerciaux": [
+      "Lecoultre Charles"
     ],
-    "Jardinier.": [
-      "Moser Alfred"
+    "Roulements (fab. de)": [
+      "Audemars E."
     ],
-    "Laitier.": [
-      "Laiteries Réunies de Genève"
+    "Sage-femme": [
+      "Golay Elisabeth"
     ],
-    "Pêcheur.": [
-      "Mugnier Elie"
+    "Scierie": [
+      "Heuby frères"
     ],
-    "Pisciculteur.": [
-      "Mugnier Elie"
+    "Sellier": [
+      "Simond John"
     ],
-    "Société.": [
-      "Syndicat de battage de Chavannes et Bogis"
+    "Serrurier": [
+      "Rachet S."
     ],
-    "Téléphoniste.": [
-      "Billard Henri"
-    ]
-  },
-  "BOREX": {
-    "Agriculteurs.": [
-      "André Daniel",
-      "Bertholet Marc",
-      "Corthésy Alfred",
-      "Dancet Aug.",
-      "Dancet Jules",
-      "Dupontet Aloïs",
-      "Goncerut Hri.",
-      "Guichard Etienne",
-      "Lauper Charles",
-      "Matthey Ls",
-      "Quaysin F.",
-      "Ticon Henri",
-      "Urfer J.",
-      "Varidel Gustave",
-      "Varidel Louis",
-      "Vuagniaux Paul"
+    "Sociétés": [
+      "Administration du village du Sentier",
+      "industrielle et commerciale",
+      "de tir",
+      "Coopérative des producteurs de lait",
+      "Coop. Sentier",
+      "fédérale de gymnastique du Sentier",
+      "immobilière de l'Espérance",
+      "immobilière de la Fromagerie de Derrière la Côte",
+      "Immobilière du local de gymnastique de la paroisse du Sentier",
+      "militaire des chasseurs du Chenit",
+      "de musique du Sentier",
+      "La Jurassienne",
+      "Chœur des Dames",
+      "Chorale du Sentier",
+      "d'orchestre, du Sentier",
+      "des Eaux du Sentier",
+      "Compagnie du chemin de fer Pont-Brassus",
+      "Sous-section du Club Alpin",
+      "Club Alpin féminin",
+      "Association des Usagers de la route de la Vallée de Joux",
+      "Syndicat des patrons boulangers",
+      "Union chrétienne de jeunes gens",
+      "Union chrétienne de jeunes filles",
+      "Union des femmes",
+      "Syndicat des ouvriers horlogers-métallurgistes",
+      "Section de la Croix-Bleue"
     ],
-    "Assurance-vieillesse.": [
-      "Mutualité scolaire de retraite"
+    "Syndicats d'élevage": [
+      "Syndicat du Solliat-Sentier",
+      "Syndicat de Derrière la Côte"
     ],
-    "Aubergiste.": [
-      "Quaysin Ferdinand"
+    "Tailleurs": [
+      "Genier-Noble P.",
+      "Pralong-Caloz, Mme."
     ],
-    "Boucher.": [
-      "Ticon Henri"
+    "Tapissiers": [
+      "Meylan Pl-Robert",
+      "Simond John"
     ],
-    "Buraliste postal.": [
-      "Guichard Etienne"
+    "Télégraphiste": [
+      "Golay-Benoît, dame"
     ],
-    "Charpentier-menuisier.": [
-      "Rosay L."
+    "Téléphone": [
+      "Bureau central au Sentier, Golay-Benoît, dame"
     ],
-    "Chef de gare.": [
-      "Guignet Marie"
+    "Tissus-toilerie": [
+      "Golay & Robert sœurs",
+      "Au Progrès, Chatelain & Cie."
     ],
-    "Commission scolaire.": [
-      "Parisod Henri"
+    "Tourbe": [
+      "Heuby frères"
     ],
-    "Couturière.": [
-      "Briggen Anna"
+    "Vélocipèdes": [
+      "Audemars Edouard",
+      "Martig Paul & fils"
     ],
-    "Epicerie, tabacs.": [
-      "Briggen Anna"
+    "Vins (march. de)": [
+      "Grandjean Eugène"
     ],
-    "Ferblantier-couvreur.": [
-      "Dufaux F."
-    ],
-    "Gypsier-peintre.": [
-      "Cortellini Jean"
-    ],
-    "Horticulteur.": [
-      "Parisod Henri"
-    ],
-    "Inspecteur du bétail.": [
-      "Urfer Jules"
-    ],
-    "Instituteurs.": [
-      "Jacot Marcel",
-      "Briggen Clara"
-    ],
-    "Maçon-entrepreneur.": [
-      "Paltani Jos."
-    ],
-    "Maréchal et machines agricoles.": [
-      "Gavin M."
-    ],
-    "Rentier.": [
-      "Duvoisin Arnold"
-    ],
-    "Sociétés.": [
-      "de laiterie Borex",
-      "du hangar de battage"
-    ],
-    "Téléphoniste.": [
-      "Auberge Lion d'Or"
-    ],
-    "Vignerons.": [
-      "André Daniel",
-      "Bertholet Marc",
-      "Corthésy Alfred",
-      "Dancet Aug.",
-      "Goncerut Henri",
-      "Guichard Ern.",
-      "Lauper Chs",
-      "Matthey Louis",
-      "Quaysin F.",
-      "Ticon H.",
-      "Vuagniaux Paul"
-    ]
-  },
-  "CHAVANNES-DE-BOGIS": {
-    "Agriculteurs.": [
-      "Blondel Emile",
-      "Borgeaud Lucien",
-      "Bornet Marc",
-      "Bornet Rodolphe",
-      "Bory Joseph",
-      "Bory Julien",
-      "Divorne Jules",
-      "Failletaz Emile",
-      "Glauser F.",
+    "Voituriers": [
+      "Baud Alexandre",
       "Golay Henri",
-      "Magnin Louis",
-      "Marti Henri",
-      "Monod hoirie",
-      "Rey René",
-      "Stoky Charles",
-      "Stoky Francis",
-      "Vulliez Armand"
+      "Guignard-Lerch Henri",
+      "Meylan frères",
+      "Meylan Francis",
+      "Piguet Jules-Isaac & fils",
+      "Piguet-Golaz A.",
+      "Rochat Elie"
     ],
-    "Aubergiste.": [
-      "Cathélaz Elie"
+    "Divers": [
+      "Capt, Mme.",
+      "Gallay Georges",
+      "Golay René",
+      "Lecoultre, Mme, Vve."
     ],
-    "Bois (march. de).": [
-      "Golay Henri"
+    "Assortiments": [
+      "Assortiments Gallay, S. A."
     ],
-    "Commission scolaire.": [
-      "Magnin Louis",
-      "Bornet Marc"
+    "Horlogerie, bijouterie (mag. d')": [
+      "Baud-Reymond, Vve d'Henri",
+      "Martig Paul"
     ],
-    "Epicerie.": [
-      "Rieben Louisa"
+    "Horlogerie (fab. d')": [
+      "Le Coultre & Cie, Société anonyme",
+      "Golay C.-H.",
+      "Golay Emile",
+      "Guignard & Golay",
+      "Nicole Paul",
+      "Ecole d'horlogerie",
+      "Piguet, les fils de V.",
+      "Essor, S. A.",
+      "Jaeger Ed"
     ],
-    "Instituteur.": [
-      "Barraud Louis"
+    "Balanciers (fab. de)": [
+      "Golay Jn."
     ],
-    "Téléphone.": [
-      "Cathélaz Elie"
+    "Burins (fabr de)": [
+      "Lecoultre Jaques & Cie, S. A."
     ],
-    "Voiturier.": [
-      "Isoz Auguste"
+    "Chronographes (fab. de)": [
+      "Golay Marc",
+      "Contetout Watch & Cie."
+    ],
+    "Ebauches et finissages": [
+      "Golay C.-H."
+    ],
+    "Echappements": [
+      "Assortiments Gallay, S. A.",
+      "Reymond Art."
+    ],
+    "Fournitures d'horlogerie (march. de)": [
+      "Baud-Reymond Vve d'Henri",
+      "S. A. Aubert & Cie."
+    ],
+    "Pièces détachées": [
+      "Lecoultre Marcel"
+    ],
+    "Pierres fines": [
+      "Golay-Buchel & Cie, (S. A.)",
+      "Piguet Auguste"
+    ],
+    "Pignons (fab. de)": [
+      "Lecoultre Samuel"
+    ],
+    "Plateaux (fab. de)": [
+      "Heuby W."
+    ],
+    "Remontoirs": [
+      "Aubert Emile"
+    ],
+    "Réglage": [
+      "Golay Jaques"
     ]
   }
 }

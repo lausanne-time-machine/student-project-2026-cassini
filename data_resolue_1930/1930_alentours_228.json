@@ -1,240 +1,116 @@
 {
-  "BURTIGNY": {
-    "Agriculteurs": [
-      "Pilloud Samuel",
-      "Reymond Auguste",
-      "Reymond Louis",
-      "Sergy, hoirie d'Henri",
-      "Sergy Julien, La Maison",
-      "Saugy Louis",
-      "Thonney Charles",
-      "Tallent Ernest",
-      "Wampfler Christian"
+  "Ville d'Orbe": {
+    "Papeteries": [
+      "Jaques Eugène",
+      "Gudit Julia",
+      "Velay Edouard fils"
     ],
-    "Apiculteurs": [
-      "Burnet Samuel"
+    "Pasteurs": [
+      "Demierre André",
+      "Tuscher Julien",
+      "Barbier Jean"
     ],
-    "Associations mutualistes de retraite": [
-      "Michot H."
-    ],
-    "Aubergistes": [
-      "Bichet Charles",
-      "Pilloud Charles"
-    ],
-    "Boulanger": [
-      "Cavin Charles"
-    ],
-    "Cantonnier": [
-      "Christinet Maurice"
-    ],
-    "Charcutier": [
-      "Cavin Charles"
-    ],
-    "Charretier": [
-      "Reymond Louis"
-    ],
-    "Charron": [
-      "Pilloud Charles"
-    ],
-    "Commission scolaire": [
-      "Reymond Auguste",
-      "Aubert",
-      "Pilloud Charles"
-    ],
-    "Cordonnier": [
-      "Tharguetta Antoine"
-    ],
-    "Couturières": [
-      "Pilloud. dame",
-      "Rochat Berthe"
-    ],
-    "Epicerie": [
-      "Feignoux Lucien",
-      "Christinet-Blanc",
-      "Reymond Aug."
-    ],
-    "Garde-malades": [
-      "Feignoux S., Mlle"
-    ],
-    "Garde de triage": [
-      "Bichet Charles"
-    ],
-    "Gypsier": [
-      "Pilloud Louis"
-    ],
-    "Inspecteur du bétail": [
-      "Bichet Alph"
-    ],
-    "Instituteurs": [
-      "Michot Henri",
-      "Pahud Constance"
-    ],
-    "Laitier": [
-      "Laiteries réunies, Genève"
-    ],
-    "Maréchaux": [
-      "Fontolliet Auguste",
-      "Moret Gustave"
-    ],
-    "Orphelinat": [
-      "La Maison"
-    ],
-    "Pasteur": [
-      "Aubert Emile"
+    "Peintre en voitures": [
+      "Rauchle Charles"
     ],
     "Pensions": [
-      "M. et Mme Golay Jules",
-      "Wampfler P.",
-      "Beau-Séjour"
+      "Combe Louis",
+      "Gudit J.",
+      "Millioud, dame",
+      "Trohler, dame"
+    ],
+    "Pharmaciens": [
+      "Couchepin Philippe",
+      "Gindrat Ed."
+    ],
+    "Piano (maitresses de)": [
+      "Combe Marie",
+      "Lambert Mlle",
+      "Martin Hélène",
+      "Richard Lse"
+    ],
+    "Poêliers": [
+      "Perolini frères",
+      "Reguin Fred.",
+      "Reymond Gustave",
+      "Urfer Louis"
     ],
     "Poste": [
-      "Bovy Julien"
+      "Ravussin Charles"
+    ],
+    "Poterie, verrerie": [
+      "Conod A.",
+      "Marti-Demusy, Vve.",
+      "Mercier, Vve."
+    ],
+    "Primeurs": [
+      "Berthoud Louis",
+      "Bonzon Louis",
+      "Demont-Bolliet Fernand",
+      "Dissard Pierre",
+      "Sonnay Louis"
+    ],
+    "Prison centrale": [
+      "Colonie de l'Orbe"
+    ],
+    "Prisons de district": [
+      "Cruchet J."
+    ],
+    "Produits et appareils pour combattre les maladies de la vigne": [
+      "Beauverd Emile"
+    ],
+    "Professeur de langues": [
+      "Develey-Isoz C., dame"
+    ],
+    "Quincaillerie": [
+      "Ramuz-Bonzon Paul",
+      "Gonseth R. & Cie.",
+      "Reymond G.",
+      "Rogivue Léon"
+    ],
+    "Ramoneur": [
+      "Zbinden Henri"
+    ],
+    "Relieur-encadreur": [
+      "Combe Gustave",
+      "Descombes Louis",
+      "Tallichet René"
+    ],
+    "Sages-femmes": [
+      "Rauchle Marguerite",
+      "Stelz Marguerite"
+    ],
+    "Scierie": [
+      "Addor & Jaquier"
+    ],
+    "Selliers": [
+      "Duvoisin Charles",
+      "Gourbach Charles"
+    ],
+    "Serruriers": [
+      "Combe Emile",
+      "Combe Georges",
+      "Cochard Auguste",
+      "Reguin Frédéric"
     ],
     "Sociétés": [
-      "de fromagerie. R.",
-      "du battoir à grain. R.",
-      "Syndicat agricole. R."
-    ],
-    "Téléphoniste": [
-      "Reymond Auguste"
-    ]
-  },
-  "DULLY": {
-    "Autorités communales": [
-      "Ruepp Henri",
-      "Lédermann Gérard",
-      "Ostermann Henri",
-      "Ostermann Charles",
-      "Cerf Alfred",
-      "Ruepp Louis",
-      "Debonneville Jules",
-      "Recordon Ch.",
-      "Peter."
-    ],
-    "Agriculteurs": [
-      "Cerf Alfred",
-      "Jaccard Georges",
-      "Munier Marc",
-      "Ostermann Frédéric",
-      "Ostermann Henri",
-      "Recordon Charles",
-      "Recordon Aloïs",
-      "Ruepp Louis"
-    ],
-    "Aubergiste": [
-      "Debonneville Jules"
-    ],
-    "Automobiles": [
-      "de Bavier Jean"
-    ],
-    "Commission scolaire": [
-      "Ostermann Henri",
-      "Ruepp Louis"
-    ],
-    "Epicerie": [
-      "Suardet Rose"
-    ],
-    "Inspecteur du bétail": [
-      "Ostermann Fr."
-    ],
-    "Instituteurs": [
-      "Béday Adalbert",
-      "Piguet Fernande"
-    ],
-    "Jardiniers": [
-      "Leuthard",
-      "Chevallaz Louis",
-      "Ullieul Ed."
-    ],
-    "Laitier": [
-      "Gervais Henri"
-    ],
-    "Pêcheur": [
-      "Isely Marc"
-    ],
-    "Pépiniériste": [
-      "Ruepp Henri"
-    ],
-    "Rentiers": [
-      "Davaine Alice",
-      "Kimmerling Jean",
-      "Mouton M.",
-      "Pictet Aimé.",
-      "de Bavier Ed."
-    ],
-    "Société": [
-      "de laiterie. R."
-    ],
-    "Télégraphe et téléphone": [
-      "Auberge de Commune"
-    ],
-    "Vignerons": [
-      "Barbay Charles",
-      "Gandillon Adrien",
-      "Magnin Auguste",
-      "Mani David",
-      "Munier Marc",
-      "Ostermann Fréd.",
-      "Ostermann Hri",
-      "Porchet Frs",
-      "Recordon Aloïs",
-      "Recordon Charles",
-      "Ruepp L."
-    ],
-    "Vignes américaines": [
-      "Ruepp Hri."
-    ]
-  },
-  "ESSERTINES-SUR-ROLLE": {
-    "Autorités communales": [
-      "Gander Henri",
-      "Dumartberay Octave",
-      "Merminod Auguste.",
-      "Gétaz Fernand",
-      "Clément Marius",
-      "Décurmex John",
-      "Uldry Eugène",
-      "Dumartberay Julien",
-      "Jorand Ernest"
-    ],
-    "Agriculteurs": [
-      "Badan Ed.",
-      "Bruguier Maurice",
-      "Clément Marius",
-      "Collomb Paul",
-      "Dizerens Jules",
-      "Dumartberay Julien",
-      "Dumartberay César",
-      "Huguenin Julien",
-      "Jorand Ernest",
-      "Martin Ern.",
-      "Merminod Auguste.",
-      "Meylan L.",
-      "Merminod François",
-      "Merminod Gustave",
-      "Merminod Jean",
-      "Merminod Maurice",
-      "Merminod Octave",
-      "Richard Paul.",
-      "Rochat Henri",
-      "Wyss A."
-    ],
-    "Architecte": [
-      "Bourquin André."
-    ],
-    "Apiculteur": [
-      "Chevalley Emile."
-    ],
-    "Assesseur": [
-      "Merminod Julien-Eug."
-    ],
-    "Mutualité scolaire de retraite": [
-      "Maire, F."
-    ],
-    "Aubergistes": [
-      "Merminod César",
-      "Henriond Fernand",
-      "Bettems Rod."
+      "Association du Vieil Orbe <Pro Urba>",
+      "Ligue des Femmes abstinentes",
+      "Section de la Fraternité",
+      "Société de la Crèche",
+      "» des catholiques d'Orbe et environs",
+      "» du Casino",
+      "» de développement d'Orbe et environs",
+      "» de la < Feuille d'Avis >",
+      "» de tir aux armes de guerre",
+      "» la Sainte-Cécile, harmonie",
+      "» Chorale, chant",
+      "» l'Abbaye d'Orbe",
+      "» de l'Orchestre",
+      "» des Usines de l'Orbe (chemin de fer électrique)",
+      "» du battoir à grains",
+      "» des Carabiniers d'Orbe",
+      "» fédérale de gymnastique <Ancienne>, section d'Orbe. triotes »"
     ]
   }
 }

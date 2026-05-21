@@ -1,118 +1,245 @@
 {
-  "Montreux": {
-    "Instituteurs primaires.": [
-      "Morerod René",
-      "Mottier Marc",
-      "Nicole Hector",
-      "Pfister Louis",
-      "Thomi William",
-      "Tschumi Arthur",
-      "Zbinden Emile"
+  "ESSERTINES-SUR-ROLLE": {
+    "Charpentier": [
+      "Dumartheray Charles"
     ],
-    "Institutrices primaires et écoles enfantines.": [
-      "Beyeler Lucie",
-      "Bizier",
-      "Bissat Ida",
-      "Boulenaz Alice",
-      "Chevailler Elmir.",
-      "Chevalley Elisa",
-      "Chevalley Henriette",
-      "Corboz Marthe",
-      "Dufaux-Dubuis Aline",
-      "de Siebenthal Yvonne",
-      "Estoppey Marie",
-      "Jemini-Combremont Jeanne",
-      "Jouvenat Sophie",
-      "Jorand Adèle",
-      "Magnin-Favre",
-      "Martin Marie",
-      "Matter-Estoppey Marthe",
-      "Marmillod Rose",
-      "Masson Amélie",
-      "Mayor Elisa",
-      "Michel-Zimmermann M.",
-      "Monney Yvonne",
-      "Mury Bertha",
-      "Pilet Marie",
-      "Pinnel-Vallotton Emilie",
-      "Rambert Suzanne",
-      "de Siebenthal Yvonne",
-      "Schmid Martha",
-      "Vassaux Marcelle",
-      "Wichoud Germaine"
+    "Charron": [
+      "Gétaz Fernand"
     ],
-    "Instituteurs secondaires.": [
-      "Collège et Ecole supérieure",
-      "Dudan Camille",
-      "Blanc-Curtin V.",
-      "Bourl’honne Paul",
-      "Budry Maurice",
-      "Fæs Edouard",
-      "Furer Gaston",
-      "Guerne M.",
-      "Hieroltz Rod.",
-      "Piguet Robert",
-      "Portmann A.",
-      "Revillod Isaac",
-      "Reymond Marcel",
-      "Rouilly Emile",
-      "Stubbé Louis",
-      "Waldner Paul"
+    "Commission scolaire": [
+      "Dumartheray Julien",
+      "Jorand Ernest",
+      "Clément Marius",
+      "Décuruex John"
     ],
-    "Institutrices secondaires.": [
-      "Campiche Marie",
-      "Derameru Augusta",
-      "Doleyres Pauline",
-      "Berger-Desponds Germaine",
-      "David Hélène",
-      "Mottier Lucy",
-      "Vuille Hélène"
+    "Epicerie": [
+      "Velan Blanche, Vve. R."
     ],
-    "Ivoire (articles en).": [
-      "Klein F.",
-      "Mayor-Toillé Marg.",
-      "Werner G."
+    "Inspecteurs du bétail": [
+      "Dumartheray César",
+      "Décuruex John"
     ],
-    "Jardin d'enfants.": [
-      "Tappy"
+    "Instituteurs": [
+      "Maire Félix",
+      "Clément-Richard Elisa",
+      "Blanc Georges"
     ],
-    "Jardiniers-maraîchers.": [
-      "Chambaz Aloïs",
-      "Chevallier Justin",
-      "Chevallier Juste",
-      "Dubois Jean",
-      "Dubois Charles",
-      "Filliettaz Albert",
-      "Francey",
-      "George Ernest",
-      "Jacot",
-      "Kiener Félix",
-      "Lorenz Alfred",
-      "Maeder Caroline",
-      "Morand Louis",
-      "Pfister G.",
-      "Pulfer Rodolphe",
-      "Roulier Samuel",
-      "Schlageter Edmond-Octave",
-      "Tharin Michel",
-      "Thétaz Marius",
-      "Zeh Ch."
+    "Laitier": [
+      "Uldry Eugène"
     ],
-    "Jouets, articles de fantaisie.": [
-      "Dreyfuss Blanche"
+    "Maréchal": [
+      "Bruguier Henri"
     ],
-    "Journaux.": [
-      "English Herald",
-      "Feuille d'Avis de Montreux",
-      "Liste des Etrangers",
-      "Le Messager de Montreux : Imprimerie Nouvelle, Corbaz Ch.",
-      "La Semaine de Montreux, Sprintz Henri"
+    "Menuisier": [
+      "Merminod Arthur"
     ],
-    "Journaux (marchands de).": [
-      "Bibliothèque Gare C. F. F.",
-      "Correvon Alice",
-      "Faist B.",
-      "Gasparian"
+    "Poste": [
+      "Uldry Ernest"
+    ],
+    "Sociétés": [
+      "de laiterie",
+      "Syndicat agricole",
+      "de tir"
+    ],
+    "Tailleuse": [
+      "Simond Lina"
+    ],
+    "Téléphone communal": [
+      "Clément Félix",
+      "Henriod Fernand",
+      "Merminod César"
+    ],
+    "Vignerons": [
+      "Barraud John",
+      "Bettems Jaques",
+      "Décuruex François",
+      "Dizerens Louis",
+      "Henriod Eugène",
+      "Huguet Alf.",
+      "Meyer Jean",
+      "Martin Robert",
+      "Schneider R."
+    ]
+  },
+  "GILLY": {
+    "Autorités communales": [
+      "Cartier Ami",
+      "Delapierre H."
+    ],
+    "Syndic": [
+      "Rolaz Adolphe"
+    ],
+    "Municipaux": [
+      "Guichard John",
+      "Suardet Jules",
+      "de Lessert René",
+      "Rojard Jules"
+    ],
+    "Secrétaire": [
+      "Pernet Chs"
+    ],
+    "Boursier": [
+      "Maréchal Henri"
+    ],
+    "Agriculteurs": [
+      "Bielser Walther",
+      "Bourguignon Jules",
+      "Cartier Ami",
+      "Cartier Gustave",
+      "Croisier Hri",
+      "Delafoge Emile",
+      "Delafoge Hri",
+      "Délévaux Aloïs",
+      "Gav Jules",
+      "Michon François",
+      "Guichard John",
+      "Henny Charles",
+      "Jacquier John",
+      "Michon Ch.",
+      "Monneyron L.",
+      "Pasche Eug.",
+      "Pernet Ch.",
+      "Ponnaz H.",
+      "Rojard Ch.",
+      "Rojard Frédéric",
+      "Rojard Henri",
+      "Delapierre Henri",
+      "Rolaz Edouard",
+      "Rolaz François",
+      "Rolaz Henri",
+      "Rolaz Louis",
+      "Rolaz Adolphe",
+      "Schumacher Adolphe",
+      "Schumacher Ernest",
+      "Tachet Aloïs",
+      "Zwiggart Ernest"
+    ],
+    "Apiculteurs": [
+      "Délévaux Louis",
+      "Guichard Jules",
+      "Monneyron Ls",
+      "Pernet Ch."
+    ],
+    "Mutualité scolaire de retraite": [
+      "Inglin R."
+    ],
+    "Auberges et cafés": [
+      "Fragnière Adolphe",
+      "von Gunten"
+    ],
+    "Boucher": [
+      "Bourguignon Henri"
+    ],
+    "Boulangers": [
+      "Bielser Walther",
+      "Gavillet Louis"
+    ],
+    "Buraliste postal": [
+      "Chevalier Alice"
+    ],
+    "Charron": [
+      "Badan Alfred"
+    ],
+    "Chef de section": [
+      "Mayor"
+    ],
+    "Commission scolaire": [
+      "Michon François",
+      "Pernet Henri"
+    ],
+    "Cordonniers": [
+      "Moësching Jaques",
+      "Muller Auguste"
+    ],
+    "Distillateur": [
+      "Rojard Henri"
+    ],
+    "Electriciens": [
+      "Forces de Joux et de l'Orbe"
+    ],
+    "Epicerie": [
+      "Maréchal Henri",
+      "Wetzel Ernest"
+    ],
+    "Huilerie": [
+      "Ponnaz H."
+    ],
+    "Horloger": [
+      "Jeanrenaud William"
+    ],
+    "Inspecteur du bétail": [
+      "Schumacher Adolphe"
+    ],
+    "Instituteurs": [
+      "Inglin Roland",
+      "Barraud Alice",
+      "Bielser Marguerite"
+    ],
+    "Jardiniers": [
+      "Bize Eugène",
+      "Guichard Jules"
+    ],
+    "Justice de paix": [
+      "Borgeaud Albert",
+      "Delafoge Emile",
+      "Rossier Louis",
+      "Rosset Julien",
+      "Merminod Julien",
+      "Rochat Ulysse"
+    ],
+    "Laitier": [
+      "Laiteries réunies"
+    ],
+    "Maison de convalescence": [
+      "Mme Hess"
+    ],
+    "Maréchal": [
+      "Bessat Gérard"
+    ],
+    "Maître-maçon": [
+      "Mellina S."
+    ],
+    "Officier d'état-civil": [
+      "Delapierre Hri."
+    ],
+    "Pavillon de la Côte": [
+      "Mme Amadruz",
+      "Simon Eugène",
+      "Menthonnex Dan.",
+      "Genet Alf.",
+      "Francken",
+      "Cérésole",
+      "Tesseryre"
+    ],
+    "Pépiniéristes": [
+      "Délévaux Louis",
+      "Délévaux Marius"
+    ],
+    "Produits agricoles": [
+      "Henny Ch."
+    ],
+    "Relieur-encadreur": [
+      "Chevalier Henri"
+    ],
+    "Rentiers": [
+      "de Lessert René",
+      "de Westerweller Ludwig, Vve.",
+      "Picot",
+      "Vaucher E."
+    ],
+    "Sage-femme": [
+      "Rosset Adèle"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "de la machine à battre",
+      "Syndicat d'élevage de Gilly"
+    ],
+    "Télégraphiste": [
+      "Chevalier Alice"
+    ],
+    "Téléphone": [
+      "Auberge de Commune"
     ]
   }
 }

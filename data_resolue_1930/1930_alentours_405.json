@@ -1,184 +1,220 @@
 {
-  "Bex": {
-    "Bétail (commerce de).": [
-      "Lélourdy Emile",
-      "Richard Joseph",
-      "Le Soldat Alexandre",
-      "Mösching Charles"
+  "CHESEAUX-NOREAZ": {
+    "Couturière": [
+      "Glauser-Volper C"
     ],
-    "Bijoutiers.": [
-      "Glanzmann J.",
-      "Rossel-Aguet Werner-Henri"
+    "Ebénistes": [
+      "Muller & fils"
     ],
-    "Blanchisseuses.": [
-      "Brède Emma",
-      "Byrde Joséphine-Antoinette",
-      "Deantoni-Maillard Elisa",
-      "Favre Elisa",
-      "Genet Emma"
+    "Forestier": [
+      "Marendaz Marcel"
     ],
-    "Bois (march. de).": [
-      "Genillard & Cie",
-      "Anex Henri",
-      "Collombet & Cie.",
-      "Cherix frères.",
-      "Morex Félix",
-      "Welten & Cie"
+    "Inspecteur du bétail": [
+      "Collet Henri"
     ],
-    "Boissellerie.": [
-      "May Marin Max",
-      "Richard Paul."
+    "Institutrice": [
+      "Maibach Alice"
     ],
-    "Bouchers.": [
-      "Amacher Werner",
-      "David Paul",
-      "Hesslöhl Charles",
-      "Reuter Louis",
-      "Tauxe Henri"
+    "Divers": [
+      "Du Bois de Guimps M. T."
+    ]
+  },
+  "CRONAY": {
+    "Autorités communales": [
+      "Pittet Alfred",
+      "Flaction Jules fils",
+      "Pittet Lucien",
+      "Duruz Hermann",
+      "Viquerat Léon",
+      "Guidoux Oscar",
+      "Bruand Lucien",
+      "Pilet Lucien",
+      "Flaction Jules fils",
+      "Guidoux John",
+      "Viquerat Eugène",
+      "Flaction Alfred"
     ],
-    "Boulangers.": [
-      "Bernet-Hefti G.",
-      "Hatt Alfred.",
-      "Huber Jean.",
-      "Kunzi Ferdinand",
-      "Pernet Const.",
-      "L'Avenir, Société de Consommation.",
-      "Suter Ernest."
+    "Agriculteurs": [
+      "Auberson Aimé",
+      "Besson Fr.",
+      "Besson Augustin",
+      "Blumenstein Jean",
+      "Boo W.",
+      "Bruand Luc.",
+      "Dégex Addor",
+      "Duruz Henri et neveux",
+      "Duruz, hoirs de Julien",
+      "Duruz Maur.",
+      "Flaction Emile",
+      "Flaction Jules",
+      "Guidoux Const.",
+      "Guidoux Ed.",
+      "Guidoux Oscar",
+      "Gerber Ernest",
+      "Helfer",
+      "La Rupaz",
+      "Duvoisin Ami",
+      "Lüginbühl Charles",
+      "Maccabez James",
+      "Marmier Oscar",
+      "Magnin Héli",
+      "Nobs Emile et fils",
+      "Pfander",
+      "Pidoux frères",
+      "Pidoux-Marel Ernest",
+      "Potterat André",
+      "Potterat, hoirs d'Alois",
+      "Pittet Lucien",
+      "Pittet Robert",
+      "Resin-Lagnaz Julien",
+      "Tanner Jules",
+      "Vagnières Héli",
+      "Viquerat Eugène",
+      "Viquerat Edouard",
+      "Viquerat Léon"
     ],
-    "Brasseries (dépôts de).": [
-      "Brasserie d'Aigle",
-      "Grande Brasserie et Beauregard",
-      "Jaquerod Alexandre."
+    "Aubergiste": [
+      "Perrin Ernest"
     ],
-    "Brevets d'invention.": [
-      "Flesch L."
+    "Blanchisseuse-repasseuse": [
+      "Blumenstein Rosa"
     ],
-    "Briques en plâtre (fab. de).": [
-      "Gips Union S. A."
+    "Charpentiers": [
+      "Dupuis-Guidoux",
+      "Baumann, père et fils"
     ],
-    "Brodeuses.": [
-      "Gerber Anna",
-      "Jacot Irène"
+    "Commission scolaire": [
+      "Guidoux Ed.",
+      "Viquerat Eug."
     ],
-    "Cafetiers.": [
-      "Anex Jean",
-      "Bocherens Paul",
-      "Butzberger J.",
-      "Calandra Félix",
-      "Chamorel Eugène",
-      "Husmann Franz",
-      "Uldry Pierre-Albert",
-      "Cosandey Ernest",
-      "Held Laura",
-      "Deslex H.",
-      "Luthi Marcel",
-      "Bernasconi Fernand",
-      "Herren Albert",
-      "Kohler Jules-Henri",
-      "Le Soldat Alexandre",
-      "Manni Charles",
-      "Pernet C.",
-      "Pinget Hermann",
-      "Vouilloz Albert",
-      "Vœffray Marie",
-      "Cottier Julie"
+    "Cordonniers": [
+      "Bruand Pierre",
+      "Tardy-Peytregnet E."
     ],
-    "Caisserie.": [
-      "Genillard & Cie"
+    "Epicerie, mercerie": [
+      "Schweizer-Potter",
+      "Viquerat Edouard"
     ],
-    "Charcutiers.": [
-      "Amacher Werner",
-      "David Paul",
-      "Hesslöhl Charles",
-      "Reuter Louis",
-      "Tauxe Henri"
+    "Fours et fourneaux en molasse (fabr. de)": [
+      "Tardy Alexis"
     ],
-    "Charpentiers.": [
-      "Genet-Annen",
-      "Jaquier Louis",
-      "Pittier Alb.",
-      "Pittier Henri."
+    "Inspecteur du bétail": [
+      "Viquerat Eugène"
     ],
-    "Charretiers.": [
-      "Chabloz Alexis",
-      "Croset Adolphe",
-      "Echenard Jules",
-      "Favre",
-      "Guillard-Ilg Flora",
-      "Nicollerat Paul",
-      "Rahm"
+    "Instituteurs": [
+      "Magnenat René",
+      "Magnenat-Joyet Marthe"
     ],
-    "Charrons.": [
-      "Renaud Henri",
-      "Vionnet-Pernet C."
+    "Juge de paix": [
+      "Pittet Alfred"
     ],
-    "Chaudronniers.": [
-      "Gilliéron Louis."
+    "Maçons": [
+      "Tardy Alexis",
+      "Vernez Armand"
     ],
-    "Chaussures (mag. de).": [
-      "Cherix Edouard.",
-      "Marx Paul",
-      "Montangero Michel",
-      "Schluchter Arnold et fils",
-      "Wullschleger D."
+    "Maréchaux": [
+      "Caillet Léon",
+      "Danthe Louis"
     ],
-    "Chef de gare.": [
-      "Regamey L."
+    "Poste": [
+      "Potterat Julie"
     ],
-    "Chef de section.": [
-      "La Gendarmerie."
+    "Scieur et marchand de bois": [
+      "Décorges Armand",
+      "Décorges Ulysse"
     ],
-    "Chevaux (march. de).": [
-      "Croset Adolphe."
+    "Sociétés": [
+      "de tir aux armes de guerre",
+      "de laiterie",
+      "d'agriculture",
+      "de battage",
+      "de chant",
+      "Syndicat agricole et d'élevage",
+      "Syndicats d'améliorations foncières",
+      "Pittet Lucien"
     ],
-    "Chiffons.": [
-      "Bernard-Coquoz Herminée Hess"
+    "Tailleuse": [
+      "Patthey Rosine"
     ],
-    "Clôtures et treillages.": [
-      "Cherix frères.",
-      "Pichard J.."
+    "Téléphoniste": [
+      "Resin Rosine"
     ],
-    "Coiffeurs.": [
-      "Breitenmoser Antoine",
-      "Cherix Georges.",
-      "Nicolier Blanche",
-      "Ravy-Breitenmoser Ida."
+    "Vannier et marchand de vieux fer": [
+      "Bader Robert"
+    ]
+  },
+  "CUARNY": {
+    "Autorités communales": [
+      "Gendroz Oscar",
+      "Jeanmonod Albert",
+      "Correvon Oscar",
+      "Christin Robert",
+      "Correvon Georges",
+      "Correvon René",
+      "Peguiron Justin",
+      "Gendroz Julien",
+      "Peguiron Emile",
+      "Peguiron Justin"
     ],
-    "Combustibles.": [
-      "Diserens François, S. A."
+    "Agriculteurs": [
+      "Bécherraz Franç.",
+      "Burdet Charles",
+      "Christin frères",
+      "Correvon Louis",
+      "Correvon François",
+      "Correvon Oscar",
+      "Correvon Justin",
+      "Gendroz frères",
+      "Gondoux Constant",
+      "Gondoux frères",
+      "Guerry Victor",
+      "Jeanmonod Albert",
+      "Peguiron Adrien",
+      "Peguiron frères",
+      "Peguiron Georges",
+      "Peguiron Julien",
+      "Peguiron Justin",
+      "Peguiron Sylvain",
+      "Rouillier Constant",
+      "Rouillier Jules"
     ],
-    "Commission scolaire.": [
-      "Strehler Hermann"
+    "Associations mutualistes de retraite": [
+      "Favrat J."
     ],
-    "Comptoir Agricole et Industriel.": [
-      "Girod S."
+    "Café": [
+      "Tardy Vve d'Aimé"
     ],
-    "Confiseurs.": [
-      "Hatt A.",
-      "Huber Jean",
-      "Vernet H."
+    "Commission scolaire": [
+      "Correvon Oscar",
+      "Christin Robert",
+      "Jeanmonod Albert"
     ],
-    "Constructions métalliques.": [
-      "Leutwyler R.."
+    "Distillerie": [
+      "Bécherraz François"
     ],
-    "Cordonniers.": [
-      "Anex Charles",
-      "Bütz L.",
-      "Heitz Wilhelm",
-      "Montangero Michel",
-      "Perrin Casimir",
-      "Schluchter A. et fils.",
-      "Wullschleger D."
+    "Epicerie, mercerie": [
+      "Peguiron-Rognon"
     ],
-    "Couturières.": [
-      "Bourgeois-Chesaux Louisa",
-      "Echenard-Jaquenod Madeleine",
-      "Hemmi",
-      "Parlier-Bocherens Ida",
-      "Pièce Mathilde",
-      "Sangrouber-Mages Augusta",
-      "Savio-Bioley Antonie",
-      "Stauber-Mermod"
+    "Inspecteur du bétail": [
+      "Bécherraz François"
+    ],
+    "Instituteurs": [
+      "Favrat Jules",
+      "Loude Jeanne"
+    ],
+    "Maréchal": [
+      "Tuscher Ernest"
+    ],
+    "Machine à battre": [
+      "Société du Battoir à grain"
+    ],
+    "Sociétés": [
+      "Caisse d'assurance du bétail",
+      "de laiterie",
+      "Syndicat agricole"
+    ],
+    "Téléphone": [
+      "Dépôt des postes"
     ]
   }
 }

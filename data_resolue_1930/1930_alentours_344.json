@@ -1,257 +1,244 @@
 {
-  "GOSSENS": {
-    "Municipaux": [
-      "Pilloud Emile",
-      "Pilloud Fernand",
-      "Humbert-Coindet Jules",
-      "Christinet Jacques"
+  "Saint-Légier-la Chiésaz": {
+    "Autorités communales": [
+      "Dupraz-Traversini Louis",
+      "Dupraz Eugène",
+      "Baer William",
+      "Béguin-Dufour Hri.",
+      "Regamey François",
+      "Béguin-Guex Jules",
+      "Single Henri",
+      "Taverney Aimé",
+      "Vuadens Otto",
+      "Skawronski Marius"
     ],
-    "Secrétaire": [
-      "Humbert Lucien"
+    "Service communal des eaux": [
+      "Béguin-Guex Jules"
     ],
-    "Boursier": [
-      "Humbert Aloïs"
-    ],
-    "Huissier": [
-      "Berseth Albert"
+    "Agent de police": [
+      "Recordon Fernand"
     ],
     "Agriculteurs": [
-      "Badel François",
-      "Bassin François",
-      "Christinet Fernand",
-      "Christinet Frank",
-      "Christinet Gustave",
-      "Christinet Jules",
-      "Christinet Maurice",
-      "Coindet Lucien",
-      "Francfort Ernest",
-      "Humbert Emile",
-      "Humbert Ernest",
-      "Humbert Fernand",
-      "Humbert Jean-Emile",
-      "Humbert Jules",
-      "Humbert-Coindet Jules",
-      "Humbert-Mignot Louis",
-      "Pilloud Emile",
-      "Pilloud Fernand",
-      "Pilloud Henri",
-      "Pilloud Lucien",
-      "Pilloud-Pichon Henri"
+      "Béguin François",
+      "Béguin Henri",
+      "Béguin Ls-Abram",
+      "Benninger Emile",
+      "Benninger Fritz",
+      "Borloz Philippe",
+      "Burnand Alfred",
+      "Butzer Jacob",
+      "Chabloz Eugène",
+      "Chavannes Ed.",
+      "Chollet François",
+      "Dietrich Hermann",
+      "Ducraux Edouard",
+      "Ducraux-Affolter",
+      "Dupraz Eugène",
+      "Dupraz Henri",
+      "Dupraz-Traversini Louis",
+      "Emery Charles",
+      "Flühmann Ch.",
+      "Gilliéron Albert",
+      "Glauser Gottlieb",
+      "Gygli Arm.",
+      "Guex Julie, Vve",
+      "Guex-Mamin Louis",
+      "Guex-Marti Jules",
+      "Guex-Muller Henri",
+      "Guex-Visinand Ls",
+      "Morier frères",
+      "Morier Louis",
+      "Morier-de Loës Aloïs",
+      "Regamey Philippe",
+      "Richard Philippe",
+      "Serex Eug.",
+      "Skawronski Robert",
+      "Stockly Jules",
+      "Tapernoux Jaques",
+      "Taverney Aimé",
+      "Turrian Samuel",
+      "Turrian Paul",
+      "Vuadens Otto",
+      "Vuadens Otto",
+      "Skawronski Robert"
     ],
-    "Amodiateurs": [
-      "Christinet Maur. T.",
-      "Humbert Jules",
-      "Humbert Louis et Philippe",
-      "Syndicat agricole d'élevage et d'alpage"
+    "Assurance-vieillesse. Associations mutualistes de retraite": [
+      "Skawronski M."
     ],
-    "Apiculteurs": [
-      "Bassin Emile",
-      "Bassin John",
-      "Francfort Ernest",
-      "Humbert Aloïs",
-      "Humbert Fernand",
-      "Pilloud Emile",
-      "Pilloud Fernand"
+    "Auberges et cafés": [
+      "Brulhart Elisa",
+      "Auberge communale",
+      "Delapierre Oscar",
+      "Gostelli Alfred",
+      "Guex Emile",
+      "Guex François",
+      "Nicati Aloïs"
     ],
-    "Aubergistes": [
-      "Christinet Jaques",
-      "Tissot"
-    ],
-    "Assurance": [
-      "Société générale d'assurance",
-      "Pilloud Fd"
-    ],
-    "Assurance-vieillesse Associations mutualistes de retraite": [
-      "Delacrétaz A."
-    ],
-    "Banque": [
-      "Crédit Mutuel",
-      "Badel François"
+    "Autos": [
+      "Balissat R."
     ],
     "Bétail (march. de)": [
-      "Christinet Maurice"
+      "Serex Charles",
+      "Serex Eugène"
     ],
-    "Boulanger": [
-      "Baudin Charles"
+    "Blanchisseuses": [
+      "Morier Marie",
+      "Crépon Marie",
+      "Ducraux Méry",
+      "Marchon Alice"
     ],
-    "Commerce de bois": [
-      "Christinet Jaques",
-      "Humbert Lucien",
-      "Ruch Jules"
+    "Boulangers": [
+      "Burnand Louise",
+      "Marsens Eugène"
     ],
-    "Charpentiers - menuisiers": [
-      "Coindet Aloïs et fils"
+    "Carrier": [
+      "Champier Jean"
     ],
-    "Commission scolaire": [
-      "Christinet Maurice",
-      "Christinet Gustave",
-      "Pilloud Fernand"
-    ],
-    "Entrepreneurs": [
-      "Carlin Joseph",
-      "Martegani Vincent"
-    ],
-    "Etoffes, épicerie, mercerie, tabacs": [
-      "Pilloud Louise"
-    ],
-    "Garde-forestier": [
-      "Badel François"
-    ],
-    "Inspecteur du bétail": [
-      "Coindet Luc"
-    ],
-    "Instituteurs": [
-      "Delacrétaz André",
-      "Chautems Elisabeth"
-    ],
-    "Maréchal": [
-      "Bill Ch."
-    ],
-    "Pensions d'été pour étrangers": [
-      "Robert Badel, Mme",
-      "Vve Badel Emma",
-      "Mlle Christinet Hippolyte"
-    ],
-    "Pension pour enfants": [
-      "Pilloud-Collet"
-    ],
-    "Poste": [
-      "Humbert Louise",
-      "Humbert Lucien"
-    ],
-    "Râteaux (fab. de)": [
-      "Bassin John"
-    ],
-    "Représentations": [
-      "Humbert Lucien"
-    ],
-    "Sage-femme": [
-      "Bill Elise"
-    ],
-    "Scieur": [
-      "Ruch Jules"
-    ],
-    "Serrurier": [
-      "Bill Charles"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "Syndicat agricole, d'élevage et d'alpage",
-      "Société de chant",
-      "de tir",
-      "de skieurs",
-      "du Battoir à grain",
-      "Crédit mutuel de Marchissy-Longirod",
-      "Orchestre régional"
-    ],
-    "Tailleuses": [
-      "Cuvit Marguerite",
-      "Derbigny Jenny"
-    ],
-    "Tourneur": [
-      "Bassin John"
-    ],
-    "Skis (fab. de)": [
-      "Pilloud Emile"
-    ],
-    "Vélos et autos": [
-      "Christinet Henri"
-    ]
-  },
-  "MOLLENS": {
-    "Président du Conseil général": [
-      "Baudin Louis-Victor"
-    ],
-    "Secrétaire": [
-      "Coendoz Paul"
-    ],
-    "Syndic": [
-      "Baudin-Coendoz Alexis"
-    ],
-    "Municipaux": [
-      "Baudin-Gaudard Ls",
-      "Baudin Alexis-Louis",
-      "Baudin Henri",
-      "Baudin Alfed-Louis",
-      "Cuvit Aloïs",
-      "Cuvit Edward"
-    ],
-    "Secr.": [
-      "Schneider Louis"
-    ],
-    "Boursier": [
-      "Coendoz Alexandre"
-    ],
-    "Huissier": [
-      "Baudin-Morel Octave"
-    ],
-    "Agriculteurs": [
-      "Baudin Albert",
-      "Baudin Alexis",
-      "Baudin Octave",
-      "Coendoz Henri"
-    ],
-    "Assurance-vieillesse Associations mutualistes de retraite": [
-      "Bossey P."
-    ],
-    "Aubergistes": [
-      "Bréra Jaques",
-      "Cuvit Alexis",
-      "Chaillet Henri",
-      "Hôtel communal"
-    ],
-    "Buraliste postal": [
-      "Coendoz Eugène"
+    "Charpentiers": [
+      "Béguin-Dufour Henri",
+      "Single Henri"
     ],
     "Charrons": [
-      "Baudin Eugène",
-      "Cuvit Marcel"
+      "Crépon Auguste et Arnold",
+      "Eschler Samuel"
+    ],
+    "Chef de section": [
+      "Skawronski Robert"
+    ],
+    "Coiffeur": [
+      "Stucker Emile"
     ],
     "Commission scolaire": [
-      "Vuille Paul",
-      "Baudin-Logoz",
-      "Schneider Louis",
-      "Baudin-Cuvit Alfred",
-      "Coendoz Pl."
+      "Dupraz-Traversini Louis",
+      "Dupraz Eugène",
+      "Baer William"
     ],
-    "Cordonnier": [
-      "Soutter Maurice"
+    "Cordonniers": [
+      "Kormann Rodolphe",
+      "Regamey Henri"
     ],
-    "Couturière": [
-      "Cuvit Marthe"
+    "Distillateur": [
+      "Béguin-Guex Js."
     ],
-    "Epicerie, mercerie, étoffes, tabacs": [
-      "Desplands Léonie",
-      "Lecoulte Eug."
+    "Entrepreneurs": [
+      "Mamin Henri",
+      "Mamin, Vve d'Emile"
     ],
-    "Garde-forestier": [
-      "Baudin-Logoz Ls."
+    "Epiceries": [
+      "Béguin Marie",
+      "Burnand Louise",
+      "Marsens Eugène",
+      "Führer Emile",
+      "Olivier Louis",
+      "Vuagniaux John"
     ],
-    "Gypsier-peintre": [
-      "Bréra Jaques"
+    "Ferblantier-couvreur": [
+      "Rastoldo Maurice"
     ],
-    "Inspecteur du bétail": [
-      "Baudin Henri-Julien"
+    "Gypsiers": [
+      "Crosa Jean, fils",
+      "Huser David",
+      "Rouiller Auguste"
+    ],
+    "Horloger": [
+      "Olivier Louis"
+    ],
+    "Hôtels et pensions": [
+      "Bessire, M. et Mme",
+      "Von Born-Bolomey",
+      "Bornand Ida",
+      "Ducraux Berthe",
+      "Tiemer Hildegarde"
+    ],
+    "Huiliers": [
+      "Béguin François-Louis",
+      "Béguin-Guex Jules"
+    ],
+    "Horticulteur": [
+      "Béguin Léon"
+    ],
+    "Inspecteurs du bétail": [
+      "Dupraz Eug.",
+      "Dupraz-Genton Ls."
     ],
     "Instituteurs": [
-      "Bossey Paul",
-      "Bossey-Jaccottet Lina"
+      "Bornand Charles",
+      "Thévenaz Ulrich",
+      "Borgeaud Valentine",
+      "Favre Nelly",
+      "Porchet Louise",
+      "Jaccard Yvette"
+    ],
+    "Jardiniers": [
+      "Juchli François",
+      "Trottet Wilhelm"
+    ],
+    "Lingères": [
+      "Guex Eug.",
+      "Mury Alice"
+    ],
+    "Manège": [
+      "Bloch-Lévy"
     ],
     "Maréchaux": [
-      "Desarzens Emile",
-      "Reichenbach Emmanuel"
+      "Ducraux André",
+      "Massonnet Gustave"
     ],
-    "Menuisier": [
-      "Santschy Ernest"
-    ],
-    "Officier d'état civil": [
-      "Coendoz Paul"
+    "Menuisier-ébéniste": [
+      "Crépon Eug."
     ],
     "Pasteur": [
-      "Vuille Paul"
+      "Subilia Fernand"
     ],
-    "Pension d'été": [
-      "Coendoz Paul"
+    "Peintre-artiste": [
+      "Odier Jaques-Ls."
+    ],
+    "Rentiers": [
+      "Béguin William",
+      "de Budé Léonie",
+      "Courvoisier E.",
+      "Grand d'Hauteville F.",
+      "Meier J., Vve",
+      "Reichard, Vve de Charles",
+      "Sillig Edw. T.",
+      "Weber Henri"
+    ],
+    "Sage-femme": [
+      "Guex-Traffelet Marie"
+    ],
+    "Scieries": [
+      "Béguin François",
+      "Dupraz & fils"
+    ],
+    "Sellier-tapissier": [
+      "Décosterd Henri"
+    ],
+    "Sociétés": [
+      "Chœur d'hommes",
+      "laiterie",
+      "de tir",
+      "de gymnastique",
+      "de musique",
+      "d'assurance contre les pertes du bétail",
+      "de laiterie de Gilamont"
+    ],
+    "Tailleuses": [
+      "Bolomey Hélène",
+      "Bonjour-Ducraux Adèle",
+      "Chollet Emma",
+      "Ducraux Emma",
+      "Guex Elise"
+    ],
+    "Télégraphe et téléphone": [
+      "Décosterd Adèle"
+    ],
+    "Vignerons": [
+      "Autier Jules",
+      "Balmat Baptiste",
+      "Bonjour Jaques-Louis",
+      "Chabloz Henri",
+      "Chardon Louis",
+      "Piccard Paul"
     ]
   }
 }

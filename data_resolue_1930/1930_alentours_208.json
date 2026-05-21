@@ -1,104 +1,238 @@
 {
-  "Château-d'Oex": {
-    "Coiffeurs.": [
-      "Follonier B.",
-      "Massard Henri",
-      "Muri",
-      "Röttig & Borst",
-      "Steinhauer Marie, Mlle"
+  "ARZIER ET LE MUIDS": {
+    "Boucher": [
+      "Pernoux Jules"
     ],
-    "Combustibles.": [
-      "Burnand frères",
-      "Jornayvaz Arthur",
-      "Isoz-Steiner Aloïs"
+    "Boulanger": [
+      "Vallon Robert"
     ],
-    "Commission scolaire.": [
-      "Gillard David Dr.",
-      "Henchoz Ernest",
-      "Chabloz Marcel",
-      "Henchoz Josué fils"
+    "Charpentier": [
+      "Cujean Jules"
     ],
-    "Comptable (expert).": [
-      "Dost C.-H."
+    "Chef de section": [
+      "Divorne Lucien"
     ],
-    "Confiseurs.": [
-      "Morel Henri",
-      "Pittet Marius"
+    "Entrepreneurs en maçonnerie": [
+      "Chapuis Maurice",
+      "Ferrari Dominique",
+      "Jaques Oscar"
     ],
-    "Cordonniers.": [
-      "Grassi Bart.",
-      "Henchoz Edouard",
-      "Morier-Genoud Benjamin",
-      "Pilet Ami.",
-      "Schild J.",
-      "Simon Alfred",
-      "Zulauff Alexis"
+    "Epicerie": [
+      "Chambaz Jenny",
+      "Divorne Jules",
+      "Erb Fritz",
+      "Dorier Hugon"
     ],
-    "Couturières.": [
-      "Chapalay, Mlle.",
-      "Favre Nancy.",
-      "Favre-Schmid Elise.",
-      "Fluckiger Alice",
-      "Gétaz sœurs.",
-      "Isoz Hélène",
-      "Lenoir Marguerite.",
-      "Morier Louise",
-      "Rossier, Mlle.",
-      "Schenkel-Chapuis"
+    "Forestiers": [
+      "Chambaz Auguste",
+      "Cujean Marius"
     ],
-    "Curé.": [
-      "Bullet H."
+    "Gypsier": [
+      "Chapuis Maurice"
     ],
-    "Cuirs et peaux.": [
-      "Lenoir Albert."
+    "Inspect. du bétail": [
+      "Ruffet Bertrand"
     ],
-    "Denrées coloniales.": [
-      "Société de Consommation de Château-d'Oex."
+    "Instituteurs": [
+      "Hurlimann Georges",
+      "Reymond Jules",
+      "Favre Aimée"
     ],
-    "Dentistes.": [
-      "Demierre",
-      "Viret P.-L."
+    "Maréchal": [
+      "Reymond Marcel"
     ],
-    "Disques et machines parlantes.": [
-      "Juvet Charles-Emile."
+    "Officier d'état-civil": [
+      "Divorne Lucien"
     ],
-    "Draperie, tissus.": [
-      "Arnheiter-Morier.",
-      "Chabloz-Husler Henri.",
-      "Gonset-Henrioud, S. A.",
-      "Morier Ami.",
-      "Oulevey Anna"
+    "Pasteur": [
+      "Métraux Charles"
     ],
-    "Eaux gazeuses.": [
-      "Burnand J. T.",
-      "Jornayvaz Arthur."
+    "Pensions d'étrangers": [
+      "Dorier Eug.",
+      "Dufour Heni",
+      "Humbert Mélina"
     ],
-    "Ecoles particulières.": [
-      "Giroud, Mlle",
-      "Passard Marie-Angèle",
-      "Reeve H.",
-      "Vullieumier Marie"
+    "Sage-femme": [
+      "Badan Marie"
     ],
-    "Electricité.": [
-      "Entreprises électriques fribourgeoises."
+    "Scieur": [
+      "Cujean Frank"
     ],
-    "Encadrement.": [
-      "Neidl G.",
-      "Withe Wallace.",
-      "Martin Victor"
+    "Société": [
+      "Syndicat d'alpage et d'élevage"
     ],
-    "Engrais chimiques.": [
-      "Henchoz Ernest",
-      "Jornayvaz Arthur.",
-      "Syndicat agricole de l'Etivaz.",
-      "Syndicat agricole Château-d'Oex."
+    "Téléphone": [
+      "Auberge communale",
+      "Divorne Alice"
     ],
-    "Entrepreneurs.": [
-      "Colombo Albert.",
-      "Isoz-Mottier Louis",
-      "Parachini et Franzosi et Cie.",
-      "Pilet Louis",
-      "Soc. de construction H. Rosat."
+    "Divers": [
+      "Burnier Gust.",
+      "de Loriol-de Muralt",
+      "Ruffet Jules",
+      "Vallon Robert",
+      "Badan Marie",
+      "Chambaz Auguste",
+      "Chapuis Maurice"
+    ]
+  },
+  "BASSINS": {
+    "Autorités communales": [
+      "Genevay Edm.",
+      "Velan Lucien"
+    ],
+    "Syndic": [
+      "Genevay Julien"
+    ],
+    "Municipaux": [
+      "André Jules",
+      "Velan Adrien",
+      "Velan Jules",
+      "Velan Marc",
+      "Dunand Charles",
+      "Badel William"
+    ],
+    "Secrétaire": [
+      "Treboux Louis"
+    ],
+    "Boursier": [
+      "Badel Maurice"
+    ],
+    "Huissier": [
+      "Badel Edward"
+    ],
+    "Agriculteurs": [
+      "André Jules",
+      "Badel Justin",
+      "Badel Louis",
+      "Besson William",
+      "Duboux Charles",
+      "Duboux Emile",
+      "Duboux Henri",
+      "Dunand Charles",
+      "Gallay Ernest",
+      "Genevay Abram",
+      "Genevay Alfred",
+      "Genevay Julien",
+      "Genevay Paul",
+      "Hofer Robert",
+      "Mercet Louis",
+      "Treboux Edmond",
+      "Treboux Louis",
+      "Velan Charles",
+      "Velan Maurice"
+    ],
+    "Amodiateurs": [
+      "Badel Louis",
+      "Besson William",
+      "Association du Crot"
+    ],
+    "Associations mutualistes de retraite": [
+      "Genevay E."
+    ],
+    "Auberges": [
+      "Kuntzy Louis",
+      "Badel Edmond",
+      "Cornaz Armand",
+      "Hofer Robert"
+    ],
+    "Boulanger": [
+      "Magnin Charles"
+    ],
+    "Buraliste postal": [
+      "Genevay Edmond"
+    ],
+    "Café de tempérance": [
+      "Genevay Octavie"
+    ],
+    "Charcutier": [
+      "Monachon Jules"
+    ],
+    "Charpentiers": [
+      "André John",
+      "Cujean Emile"
+    ],
+    "Chef de section": [
+      "Genevay Maurice"
+    ],
+    "Commission scolaire": [
+      "Treboux Ls.",
+      "Badel Maurice",
+      "Genevay Paul"
+    ],
+    "Cordonnier": [
+      "Apothéloz François"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Velan Alexis",
+      "Velan Lina",
+      "Velan Rosa"
+    ],
+    "Ferblantier": [
+      "Bettex Henri"
+    ],
+    "Forestiers": [
+      "Treboux Louis",
+      "Velan Alexis",
+      "Genevay Alfred",
+      "Treboux François"
+    ],
+    "Inspecteur du bétail": [
+      "Dunand Alb."
+    ],
+    "Instituteurs": [
+      "Henry Rob.",
+      "Genevay-Barth Marie"
+    ],
+    "Laitier": [
+      "Laiteries Réunies"
+    ],
+    "Maréchal": [
+      "Christinet Emile"
+    ],
+    "Meunier": [
+      "Cornaz Armand"
+    ],
+    "Pension-famille": [
+      "Velan-Velan A."
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "de Crédit mutuel de Bassins-le Vaud",
+      "de tir",
+      "de chant",
+      "de développement"
+    ],
+    "Tailleur": [
+      "Chevigny Aug."
+    ],
+    "Téléphone et télégraphe": [
+      "Kuntzy Louis"
+    ]
+  },
+  "BEGNINS": {
+    "Autorités communales": [
+      "Charlet Daniel",
+      "Gervaix François"
+    ],
+    "Syndic": [
+      "Brandt Henri"
+    ],
+    "Municipaux": [
+      "Grand Paul",
+      "Charbonnier Amédée",
+      "Gay Louis",
+      "Henriod Louis",
+      "Mosetti Louis",
+      "Gervaix Fs"
+    ],
+    "Secrétaire": [
+      "Dessiex Henri"
+    ],
+    "Boursier": [
+      "Gay Louis"
+    ],
+    "Huissier": [
+      "Jaquenoud Ch."
     ]
   }
 }

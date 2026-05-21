@@ -1,91 +1,94 @@
 {
-  "VILLE DE VEVEY": {
-    "Vitrophanies.": [
-      "Légeret Ch."
+  "VILLE DE PAYERNE": {
+    "Automobiles et Autos-garage": [
+      "Blondel Adolphe",
+      "Cachin Louis",
+      "Devaud A.",
+      "Ischy-Savary Ls",
+      "Ischy Paul",
+      "Maffiolini Jean",
+      "Perrin Frédéric"
     ],
-    "Voituriers.": [
-      "Ducret Gustave",
-      "Badel Eugène",
-      "Peuly Henri",
-      "Trummer A. & Cie",
-      "Vallotton L. & Cie",
-      "Weber A., fils",
-      "Wirz Charles"
+    "Aviculture": [
+      "Buache-Cherbuin Henri",
+      "Hubler Jules",
+      "Jaton Alexis",
+      "Vonnez Henri",
+      "Zbinden Frédéric",
+      "Guichard-Savary Georges",
+      "Mordasini Camille"
     ],
-    "Vulcanisation.": [
-      "Bettex & Salzmann"
+    "Avocat": [
+      "Chuard J.",
+      "Comte Jacques",
+      "Marquis G."
     ],
-    "Divers.": [
-      "Abt Guido",
-      "Ackermann Martin",
-      "Allaz Anna",
-      "Allenbach Jean",
-      "Aitken Ch.",
-      "Amsler Henri",
-      "Angermann Paul",
-      "Ansermet Auguste",
-      "Arragon Albert",
-      "Arragon Louis fils",
-      "de Bacheracht A., Mme",
-      "Badoux François",
-      "Bagioli Joseph",
-      "Bähler Félicie",
-      "Bakke R. O., Arnold",
-      "Bakke Arnold",
-      "Balissat R.",
-      "Barbieri E.",
-      "Bastino Emile",
-      "Baud François",
-      "Baum Rosine-Lisette",
-      "Bergoz Henri",
-      "Bergoz, Louis",
-      "Bersier Ernest",
-      "Besançon-Peter Alf.",
-      "Besson Louis",
-      "Biberstein Raoul",
-      "Bischoff Alb.",
-      "Blanc Alex.",
-      "Blanc-Säuberlin, Vve",
-      "Blanc Louis",
-      "Bloch Jules-Henri",
-      "Block J.-J., Dr.",
-      "Blotnitzki",
-      "Bocion Ad.",
-      "Bodmer-Reymond M.",
-      "Bolomey Henri",
-      "Bourgeois Willy",
-      "Boutau-Tavernev Mad.",
-      "Bovon Gustave",
-      "Brière Vve",
-      "Briod Charles",
-      "Broillet Géo-Fr.",
-      "Bron Vincent",
-      "Brunet Henri",
-      "Brunot Francis",
-      "Brunschwig Clément",
-      "Bucher Marg., Mlle",
-      "Buffat Louis",
-      "Burgi Ed.",
-      "Burnat Adolphe",
-      "Burnat Florence et Louisa, Mlles",
-      "Caillet Paul",
-      "Capt Georges",
-      "Chamorel Aimé",
-      "Chappuis Louis",
-      "Chappuis, Mlles",
-      "Chaudet-Vincent, Mme",
-      "Chaudet Gve",
-      "Chaudet Ed.",
-      "Chaulmontet Charles",
-      "Chenaux Louis",
-      "Chevalier Marie, Mlle",
-      "Clavel Antoine",
-      "Clavel Ed.",
-      "Clavel, Vve",
-      "Coigny Henri",
-      "Coigny Charles",
-      "Coigny, Mme",
-      "Colombo Cath. Vve"
+    "Bains et buanderie": [
+      "Gingins Louis"
+    ],
+    "Banques": [
+      "Banque populaire de la Broye",
+      "Bercher-Perrin Louis",
+      "Demiéville Edouard"
+    ],
+    "Bestiaux (march. de)": [
+      "Bernard Nathan",
+      "Bloch Isaac",
+      "Bruder Adolphe",
+      "Bruder Jacob",
+      "Liechti Samuel",
+      "Meylan P.",
+      "Perrin Edouard"
+    ],
+    "Bijoutiers": [
+      "Blankart Gustave",
+      "Doudin Ernest"
+    ],
+    "Bière (dépôts de)": [
+      "Caille Emile",
+      "Cornuz Emile"
+    ],
+    "Blanchisseuses": [
+      "Rapin-Lauwizer",
+      "Schär-Rosset Laure",
+      "Vallotton-Thuner"
+    ],
+    "Bois (march. de)": [
+      "Perrin Armand",
+      "Scieries réunies, Payerne — Moudon (S.A.)"
+    ],
+    "Boisselier": [
+      "Déglise Joseph",
+      "Déglise Robert"
+    ],
+    "Bonneterie-lingerie": [
+      "Aux Galeries Vaudoises, Bladt P.",
+      "Assal Louise",
+      "Rothlisberger-Indermühle Marie"
+    ],
+    "Bouchers": [
+      "Barro-Doudin A.",
+      "Boucherie du Titanic, M. Henri Paré",
+      "Bruder Arnold",
+      "Rossier Fernand",
+      "Stucki Charles"
+    ],
+    "Boulangers": [
+      "Baumgartner Fritz",
+      "Crausaz Emile",
+      "Delacombaz Nicolas",
+      "Guggi Robert",
+      "Hulliger-Rossier Ernest",
+      "Husson Henri",
+      "Jaton Oscar",
+      "Porchet Robert",
+      "Perrin Oscar",
+      "Rossier Henri, Vve",
+      "Tappy Ernest",
+      "Witwer-Schoch Emile"
+    ],
+    "Brevets d'invention": [
+      "Pahud J.-D."
     ]
   }
 }

@@ -1,224 +1,115 @@
 {
-  "BAULMES": {
-    "Meunier": [
-      "Doy Henri"
+  "Ville de Morges": {
+    "Inspecteur forestier.": [
+      "Graff Emile"
     ],
-    "Moutarde (fab. de)": [
-      "Bourgeois frères & Cie, S. A."
+    "Institut.": [
+      "Juillerat."
     ],
-    "Officier d'état-civil": [
-      "Conod Charles"
+    "Instituteurs primaires.": [
+      "Beausire-Moyard César",
+      "Charlet Lucien",
+      "Gaillard Ami",
+      "Valet Arthur"
     ],
-    "Pasteurs": [
-      "Bauler",
-      "Augsbourger Michel"
+    "Institutrices primaires.": [
+      "Charlet-Apothéloz Marguerite",
+      "Cavin-Besson, Gabrielle.",
+      "Croisier-Cruchon Lucie.",
+      "Erlacher-Lugrin Rose",
+      "Friderici Germaine (ouvrages)",
+      "Golay Alice",
+      "Petit Alice",
+      "Roulet-Reymond Lucie"
     ],
-    "Pension-famille": [
-      "La Rosière",
-      "Jaques Gustave"
+    "Jardiniers-horticulteurs.": [
+      "Birde Georges",
+      "Dupraz Constant",
+      "Giron Louis",
+      "Glayre Charles",
+      "Jotterand Lucien",
+      "Pittet Maurice",
+      "Rogivue Georges",
+      "Schreyer Alfred",
+      "Tschirren-Cartier M."
     ],
-    "Pension pour jeunes filles": [
-      "Subilia"
+    "Journaux.": [
+      "Ami de Morges (l')",
+      "Le Sous-Officier",
+      "Journal de Morges, Trabaud F.",
+      "Journal d'Aubonne, Trabaud F.",
+      "Feuille d'Avis de Bière, Trabaud F."
     ],
-    "Pension pour enfants": [
-      "Clot"
+    "Justice de paix.": [
+      "Coderey Gustave",
+      "Mayor Robert",
+      "Thury François.",
+      "Panchaud Marius",
+      "Cuénod Eugène"
     ],
-    "Poste": [
-      "Leresche Abel"
+    "Lainage.": [
+      "Chabloz Henri",
+      "Jaccard-Michel A.",
+      "Jayet Charles",
+      "Martin Blanche",
+      "Meyer Sylvain",
+      "Meyer frères",
+      "Baum Louise",
+      "Savary & Brunner, Mlles",
+      "Seewer Marguerite",
+      "Vernet-Bernard Clémence, Vve"
     ],
-    "Quincaillerie": [
-      "Arnold Robert"
+    "Laitiers.": [
+      "Reithaar M.",
+      "Société de Laiteries réunies"
     ],
-    "Rapes (fab. de)": [
-      "Desilvestri-Conod C."
+    "Légumes et primeurs.": [
+      "Brousoz Célestin",
+      "Dupraz Constant",
+      "Guignard-Capelli Marc",
+      "Jaquemettaz Emile",
+      "Moraz Charles",
+      "Pernet Laurent",
+      "Ravey-Favre Berthe",
+      "Ramuz Ch.",
+      "Schreyer Alfred",
+      "Glayre Charles",
+      "Quaglia Giorgis"
     ],
-    "Sage-femme": [
-      "Neuschwander Bertha"
+    "Lessive (fabr. de).": [
+      "S. A. Redard & Cie"
     ],
-    "Sellier-tapissier": [
-      "Stoucky Christian"
+    "Libraires.": [
+      "Dégallier Henri fils",
+      "Egli Jean",
+      "Emery Alexandre",
+      "Staub A."
     ],
-    "Sociétés": [
-      "du poids public",
-      "d'agriculture",
-      "de fromagerie No 1 et No 2",
-      "des Forges du Creux",
-      "du chœur d'hommes",
-      "du chœur mixte",
-      "Caisse de crédit mutuel",
-      "Société des Autos-Transports",
-      "Syndicat d'élevage",
-      "La Lyre"
+    "Lingerie.": [
+      "Chabloz Henri",
+      "Guala Marie",
+      "Jaccard-Michel A.",
+      "Martin Blanche",
+      "Meyer Sylvain",
+      "Meyer frères",
+      "Muston Elise",
+      "Ouvroir",
+      "Savary & Brunner",
+      "Seewer Marguerite",
+      "Vernet-Bernard Clémence, Vve"
     ],
-    "Tailleur": [
-      "Bourgeois Emile"
+    "Lingères.": [
+      "Bachmann, dame",
+      "Cojonnex Charlotte",
+      "Guala, dame",
+      "Muston Elise",
+      "Pasche Olive",
+      "Rayroud Marguerite",
+      "Savary & Brunner, Mlles"
     ],
-    "Tailleuses": [
-      "Besançon Renée",
-      "Clot Marthe",
-      "Leresche Alice",
-      "Nibio Angèle",
-      "Reuge Louise"
-    ],
-    "Tailleuses pour hommes": [
-      "Besançon Rose-Jeanne",
-      "Leresche Alice de Paul"
-    ],
-    "Télégraphiste": [
-      "Jaccard Elise"
-    ],
-    "Usine du Creux": [
-      "Leresche Palmyr"
-    ],
-    "Villas meublées à louer": [
-      "Desylvestris César"
-    ],
-    "Vinaigre, vins, moutarde Mont-d'Or": [
-      "Bourgeois frères & Cie, S. A."
-    ],
-    "Vins sans alcool": [
-      "Le Raisin. S. A."
-    ],
-    "Voiturier": [
-      "Conod Charles"
-    ],
-    "Autorités communales": [
-      "Deriaz Albert",
-      "Eternod Roger",
-      "Deriaz Charles-Joseph",
-      "Collet Maurice",
-      "Pillevuit Ami",
-      "Pillevuit François-Louis",
-      "Cachemaille Alfred",
-      "Deriaz Ulysse",
-      "Collet Ami"
-    ],
-    "Agriculteurs": [
-      "Cachemaille Clément",
-      "Cachemaille Ernest",
-      "Cachemaille-Dériaz Alfr.",
-      "Cachemaille Georges",
-      "Collet Alb.",
-      "Deriaz Charles-Ernest",
-      "Deriaz Charles-Joseph",
-      "Deriaz Charles de Louis-Félix",
-      "Deriaz Henri",
-      "Deriaz Juste d'Ernest",
-      "Deriaz Lucien",
-      "Deriaz Roland",
-      "Deriaz-Bovet Albert",
-      "Deriaz-Giroud Henri",
-      "Deriaz Rob.",
-      "Reriaz-Russelet Emile",
-      "Deriaz-Dick Ls",
-      "Deriaz-Walther Charles",
-      "Eternod Auguste",
-      "Gebhardt Ernest",
-      "Huguenin Elie",
-      "Jacot Henri",
-      "Mabille Olivier",
-      "Montandon Charles",
-      "Pérusset Camille",
-      "Pérusset Emile",
-      "Pérusset Louis",
-      "Pillevuit Emile",
-      "Ravussin Louis"
-    ],
-    "Amodiateurs": [
-      "Deriaz Lucien"
-    ],
-    "Apiculteur": [
-      "Cuendet Ant."
-    ],
-    "Assurances": [
-      "La Genevoise",
-      "Pillevuit Louis-François",
-      "La Winterthour",
-      "Cachemaille-Deriaz Alfred"
-    ],
-    "Associations mutualistes de retraite": [
-      "Ravussin E."
-    ],
-    "Aubergistes": [
-      "Buhlmann Bertha",
-      "Chappuis L.",
-      "Collet Ch.",
-      "Cercle du Jura",
-      "Collet Emma",
-      "Cuvit Jenny",
-      "Mabille Louis",
-      "Gaillard Emile"
-    ],
-    "Automobiles": [
-      "Ravussin Gustave",
-      "Isler-Collet Otto"
-    ],
-    "Banque": [
-      "Crédit foncier vaudois",
-      "Caisse d'épargne",
-      "Deriaz Henri"
-    ],
-    "Bétail (march. de)": [
-      "Pérusset Ls"
-    ],
-    "Bois (march. de)": [
-      "Berger Frédéric",
-      "Deriaz Charles-Jos.",
-      "Deriaz Rob.",
-      "Pillevuit Louis-François",
-      "Ravussin Maurice"
-    ],
-    "Boucher": [
-      "Deriaz-Schwab Arthur"
-    ],
-    "Boulangers": [
-      "Fischer Willy",
-      "Herzig Paul",
-      "Menétrey Augusta",
-      "Soc. coop. de consommation"
-    ],
-    "Buraliste postal": [
-      "Deriaz Léon"
-    ],
-    "Charcutier": [
-      "Deriaz Arthur"
-    ],
-    "Charpentiers": [
-      "Ravussin Maur.",
-      "Rossier Léon"
-    ],
-    "Chaux et ciments": [
-      "Société des chaux et ciments de Baulmes"
-    ],
-    "Chef de gare": [
-      "Degiez Arthur"
-    ],
-    "Chef de section": [
-      "Gris Adolphe"
-    ],
-    "Coiffeur": [
-      "Golaz"
-    ],
-    "Comestibles, primeurs": [
-      "Founet E.",
-      "Tosetti Joseph"
-    ],
-    "Commission scolaire": [
-      "Deriaz Charles-Joseph",
-      "Dériaz Hri"
-    ],
-    "Confections-mercerie": [
-      "Dupasquier Marie"
-    ],
-    "Cordonniers": [
-      "Gilland Hri",
-      "Moënnoz Ed."
-    ],
-    "Distillateur": [
-      "Collet"
-    ],
-    "Electricité": [
-      "Société électrique des Clées"
+    "Liquoristes.": [
+      "Produits Henri Girard S. A.",
+      "Les fils Salina-Gamboni, success. de Gamboni & Cie"
     ]
   }
 }

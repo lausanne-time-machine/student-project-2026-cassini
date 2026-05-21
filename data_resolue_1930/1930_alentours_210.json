@@ -1,101 +1,200 @@
 {
-  "CHÂTEAU-D’ŒX": {
-    "Hôtels": [
-      "Hôtel de l'Ours",
-      "Gossweiler Ch.",
-      "Hôtel du Chamois",
-      "Mollien Ernest",
-      "Pension Morier",
-      "Rosat Samuel",
-      "Widmer-Creux"
+  "OLLON": {
+    "Vignerons.": [
+      "Bellay Louis",
+      "Bovy Rodolphe",
+      "Butty Jules",
+      "Charbonnier Benjamin fils",
+      "Hügly frères",
+      "Jaquenoud François",
+      "Jaquenoud François fils",
+      "Lecoultre Henri",
+      "Perriraz Louis",
+      "Sinner Jules"
     ],
-    "Imprimeries.": [
-      "Burri-Roch",
-      "Roch Albert"
+    "Vins (march. de).": [
+      "Gervaix-Addor Fernand"
     ],
-    "Infirmerie.": [
-      "Infirmerie du district du Pays-d'Enhaut"
+    "Voiturier.": [
+      "Blazer Emile"
     ],
-    "Inspecteur forestier.": [
-      "Niggli Richard"
+    "Divers.": [
+      "Grand Henri"
+    ]
+  },
+  "BOGIS-BOSSEY": {
+    "Agriculteurs.": [
+      "Bourguignon Charles",
+      "Dancet Louis"
+    ],
+    "Aubergiste.": [
+      "Billard Henri"
+    ],
+    "Bois (march. de).": [
+      "Mugnier John"
+    ],
+    "Commission scolaire de Bogis-Chavannes.": [
+      "Mugnier Louis",
+      "Mugnier Auguste"
     ],
     "Inspecteur du bétail.": [
-      "Moillen Ernest",
-      "Morier-Desquartiers Victor"
+      "Mugnier Jul."
     ],
-    "Institut de musique.": [
-      "Gétaz E."
+    "Instituteur.": [
+      "Barraud Louis"
     ],
-    "Instituteurs primaires.": [
-      "Cardinaux Albert",
-      "Combremont Robert",
-      "Gétaz Emile",
-      "Bordini Julie",
-      "Chapalay-Henchoz",
-      "Combremont Louise",
-      "Grandchamp Marthe",
-      "Curchod Marguerite",
-      "Favrod Ami",
-      "Isoz Maria",
-      "Rochat Susanne",
-      "Rossier Berthe",
-      "Wagnière Eugène",
-      "Yersin Jules",
-      "Henchoz-Cottier Marie"
+    "Jardinier.": [
+      "Moser Alfred"
     ],
-    "Instituteurs secondaires.": [
-      "Institut Henchoz",
-      "Grenier Paul",
-      "Gardel Marcel",
-      "Jacot Edmond",
-      "Morier-Genoud Albert",
-      "Viret Ernest",
-      "Werner Robert"
+    "Laitier.": [
+      "Laiteries Réunies de Genève"
     ],
-    "Instruments de musique.": [
-      "Klingert A."
+    "Pêcheur.": [
+      "Mugnier Elie"
     ],
-    "Jardiniers.": [
-      "Bricod Paul",
-      "Lenoir J."
+    "Pisciculteur.": [
+      "Mugnier Elie"
     ],
-    "Journaux.": [
-      "Journal de Château-d'Oex",
-      "Feuille d'Avis du Pays d'Enhaut",
-      "Imprimerie Burri-Roch",
-      "Progrès (Le)",
-      "Roch Albert"
+    "Société.": [
+      "Syndicat de battage de Chavannes et Bogis"
     ],
-    "Justice de paix.": [
-      "Gétaz Daniel",
-      "Henchoz-Pilet Louis",
-      "Chabloz-Morier Henri",
-      "Combremont Max",
-      "Desquartiers Constant",
-      "Rossier Ernest",
-      "Roch Albert",
-      "Turrian Victor"
+    "Téléphoniste.": [
+      "Billard Henri"
+    ]
+  },
+  "BOREX": {
+    "Agriculteurs.": [
+      "André Daniel",
+      "Bertholet Marc",
+      "Corthésy Alfred",
+      "Dancet Aug.",
+      "Dancet Jules",
+      "Dupontet Aloïs",
+      "Goncerut Hri.",
+      "Guichard Etienne",
+      "Lauper Charles",
+      "Matthey Ls",
+      "Quaysin F.",
+      "Ticon Henri",
+      "Urfer J.",
+      "Varidel Gustave",
+      "Varidel Louis",
+      "Vuagniaux Paul"
     ],
-    "Laiteries.": [
-      "Fédération Laitière du Léman",
-      "Mottier-Turrian L.",
-      "Mottier Samuel",
-      "Rubattel Charles"
+    "Assurance-vieillesse.": [
+      "Mutualité scolaire de retraite"
     ],
-    "Laiteries (articles pour).": [
-      "Morier Ed.",
-      "Dubuis-Yersin"
+    "Aubergiste.": [
+      "Quaysin Ferdinand"
     ],
-    "Légumes et fruits.": [
-      "Aviolat C.",
-      "Berdoz Emile",
-      "Bricod Paul",
-      "Cevey Justine",
-      "Lenoir Jules"
+    "Boucher.": [
+      "Ticon Henri"
     ],
-    "Librairies-papeteries.": [
-      "Ingold-Menthonnex L.",
-      "Martin Victor"
+    "Buraliste postal.": [
+      "Guichard Etienne"
+    ],
+    "Charpentier-menuisier.": [
+      "Rosay L."
+    ],
+    "Chef de gare.": [
+      "Guignet Marie"
+    ],
+    "Commission scolaire.": [
+      "Parisod Henri"
+    ],
+    "Couturière.": [
+      "Briggen Anna"
+    ],
+    "Epicerie, tabacs.": [
+      "Briggen Anna"
+    ],
+    "Ferblantier-couvreur.": [
+      "Dufaux F."
+    ],
+    "Gypsier-peintre.": [
+      "Cortellini Jean"
+    ],
+    "Horticulteur.": [
+      "Parisod Henri"
+    ],
+    "Inspecteur du bétail.": [
+      "Urfer Jules"
+    ],
+    "Instituteurs.": [
+      "Jacot Marcel",
+      "Briggen Clara"
+    ],
+    "Maçon-entrepreneur.": [
+      "Paltani Jos."
+    ],
+    "Maréchal et machines agricoles.": [
+      "Gavin M."
+    ],
+    "Rentier.": [
+      "Duvoisin Arnold"
+    ],
+    "Sociétés.": [
+      "de laiterie Borex",
+      "du hangar de battage"
+    ],
+    "Téléphoniste.": [
+      "Auberge Lion d'Or"
+    ],
+    "Vignerons.": [
+      "André Daniel",
+      "Bertholet Marc",
+      "Corthésy Alfred",
+      "Dancet Aug.",
+      "Goncerut Henri",
+      "Guichard Ern.",
+      "Lauper Chs",
+      "Matthey Louis",
+      "Quaysin F.",
+      "Ticon H.",
+      "Vuagniaux Paul"
+    ]
+  },
+  "CHAVANNES-DE-BOGIS": {
+    "Agriculteurs.": [
+      "Blondel Emile",
+      "Borgeaud Lucien",
+      "Bornet Marc",
+      "Bornet Rodolphe",
+      "Bory Joseph",
+      "Bory Julien",
+      "Divorne Jules",
+      "Failletaz Emile",
+      "Glauser F.",
+      "Golay Henri",
+      "Magnin Louis",
+      "Marti Henri",
+      "Monod hoirie",
+      "Rey René",
+      "Stoky Charles",
+      "Stoky Francis",
+      "Vulliez Armand"
+    ],
+    "Aubergiste.": [
+      "Cathélaz Elie"
+    ],
+    "Bois (march. de).": [
+      "Golay Henri"
+    ],
+    "Commission scolaire.": [
+      "Magnin Louis",
+      "Bornet Marc"
+    ],
+    "Epicerie.": [
+      "Rieben Louisa"
+    ],
+    "Instituteur.": [
+      "Barraud Louis"
+    ],
+    "Téléphone.": [
+      "Cathélaz Elie"
+    ],
+    "Voiturier.": [
+      "Isoz Auguste"
     ]
   }
 }

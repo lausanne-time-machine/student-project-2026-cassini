@@ -1,225 +1,160 @@
 {
-  "MOLLENS": {
-    "Mécanicien": [
-      "Gottraux Paul"
-    ],
-    "Sociétés": [
-      "Charbon Aimé",
-      "Erisman Gottf.",
-      "Charbon A."
-    ],
-    "Téléphone public": [
-      "Cruchon Ernest"
-    ]
-  },
-  "GRESSY": {
-    "Autorités communales": [
-      "Gruet Adolphe",
-      "Auberson Aymon"
-    ],
-    "Syndic": [
-      "Auberson H."
-    ],
-    "Municipaux": [
-      "Gruet Otto",
-      "Perrin Eugène",
-      "Auberson Maurice",
-      "Pinard Marcel",
-      "Dessemontet Fritz",
-      "Mäder Alfred"
+  "TOUR-DE-PEILZ": {
+    "Agence immobilière": [
+      "Deladœy Louis",
+      "Favre Louis",
+      "Mamin-Matthey Chs."
     ],
     "Agriculteurs": [
-      "Auberson Maurice",
-      "Auberson frères",
-      "Baldinger César",
-      "Baumgartner",
-      "Bornoz Louisa",
-      "Bourgeois Emile",
-      "Dessemontet Fritz",
-      "Dutoit Justin",
-      "Dutoit Paul",
-      "Gonin frères",
-      "Gruet Aimé",
-      "Gruet Otto",
-      "Guédat Charles",
-      "Henrioud Marcel",
-      "Chevalley Henri",
-      "Maeder",
-      "Mutruz Const.",
-      "Perrin Eugène"
+      "Bonjour Aloys",
+      "Chabloz Albert",
+      "Chappuis, Veuve de Gustave et fils",
+      "Chervet Aug.",
+      "Délessert Lucien",
+      "Dragaz Jules",
+      "Dubochet Charles",
+      "Gavin Aloys",
+      "Gavin Emile",
+      "Grognuz fils",
+      "Henry Auguste",
+      "Herzog Jean",
+      "Curchod Charles",
+      "Monod Charles",
+      "Saugy Gustave et fils",
+      "Vodoz Charles",
+      "Vodoz Jaques",
+      "Wahlen Ernest",
+      "Wahlen Rodolphe",
+      "Niklaus Eug.",
+      "Cossy Edouard"
     ],
-    "Mutualité scolaire de retraite": [
-      "Clerc Ed."
+    "Appareilleurs": [
+      "Hilfiker E.",
+      "Montet Fernand",
+      "Pernet Gustave",
+      "Vuadens Arnold",
+      "Winiger Ernest"
+    ],
+    "Architectes": [
+      "Bauer D. & Chappuis A.",
+      "Girardet Gustave",
+      "Kurz Fernand",
+      "Recordon-Morel B."
+    ],
+    "Articles de blanc": [
+      "Bott Ernest"
+    ],
+    "Assurances": [
+      "Union Suisse",
+      "Mamin",
+      "Desarzens"
+    ],
+    "Associations mutualistes de retraite": [
+      "Forel Auguste"
+    ],
+    "Auto-taxis": [
+      "Caillet A.",
+      "Gilliand Eug.",
+      "Nicolas Philippe"
+    ],
+    "Bazar": [
+      "Montet Ph."
+    ],
+    "Blanchisseuses": [
+      "Berney Berthe, Mme",
+      "Deladœy Cécile",
+      "Tornier Charles, Mme",
+      "Légeret, dame",
+      "Mamin Julie, Mlle",
+      "Maudry Valentine",
+      "Maridor, dame",
+      "Martin Elise",
+      "Michaud sœurs",
+      "Morier Suzanne"
+    ],
+    "Bouchers": [
+      "Dénéréaz Samuel",
+      "Perroud Paul"
+    ],
+    "Boulangers": [
+      "Baumgartner Arthur",
+      "Delapraz Aloïs",
+      "Hepp-Delapraz Georges",
+      "La Ménagère",
+      "Scheidegger F."
+    ],
+    "Cafetiers": [
+      "Association Viticole de la Tour, au Raisin",
+      "Perritaz Joseph",
+      "Küser-Urfer",
+      "Thiévent Jules"
+    ],
+    "Camionneurs": [
+      "Chevalley Aloïs",
+      "Dovat Alfred",
+      "Stein E."
+    ],
+    "Carrelages et revêtements": [
+      "Castioni Arnold",
+      "Castioni-Baud Adolphe"
+    ],
+    "Charcutiers": [
+      "Dénéréaz Samuel",
+      "Monnier Henri",
+      "Perroud Paul"
+    ],
+    "Charpentier": [
+      "Murbach Emile"
+    ],
+    "Chef de station": [
+      "Séchaud Charles",
+      "Malherbe Fernand"
+    ],
+    "Cliniques": [
+      "Pachoud",
+      "L'Ermitage, société",
+      "Drs Guisan P.",
+      "Ivanoff Georges"
+    ],
+    "Coiffeurs": [
+      "Beldi Fritz",
+      "Burger Albert",
+      "Neyroud Auguste"
+    ],
+    "Chocolats": [
+      "Nestlé and Anglo-Swiss Condensed Milk Co.",
+      "Cailler",
+      "Kohler"
+    ],
+    "Combustibles": [
+      "Moret Emile",
+      "Stein"
     ],
     "Commission scolaire": [
-      "Pinard Marcel",
-      "Dutoit Justin"
+      "de Schoulepnikow Nicolas",
+      "Baudraz Henri",
+      "Monnier Louis"
+    ],
+    "Cordonniers": [
+      "Glaus Jean",
+      "Gysler Alfred",
+      "Ravida François",
+      "Tschumi Gottfried",
+      "Weber Jean"
     ],
     "Couturières": [
-      "Gonin Yvonne",
-      "Légeret Germaine",
-      "Peytegnet Georgette"
+      "Borel Jenny, Mlle",
+      "Byrde Emilie",
+      "Felli Isaline et Stella",
+      "Desgraz Mme",
+      "Girardet Marguerite"
     ],
-    "Epicerie": [
-      "Helfer Alfred"
+    "Crèmerie Tea-Room": [
+      "Pinchard Alice"
     ],
-    "Fourches (fab. de)": [
-      "Loup Justin"
-    ],
-    "Inspecteurs du bétail": [
-      "Auberson Aymon",
-      "Dutoit Justin"
-    ],
-    "Institutrice": [
-      "Vacat."
-    ],
-    "Laitier": [
-      "Roullier Julien"
-    ],
-    "Pasteur": [
-      "Monastier Albert"
-    ],
-    "Rentiers": [
-      "Dutoit Alice",
-      "Dutoit Justin",
-      "Dutoit Paul"
-    ],
-    "Société": [
-      "de laiterie. R."
-    ],
-    "Téléphoniste": [
-      "Bornoz Alfred"
-    ]
-  },
-  "MATHOD": {
-    "Autorités communales": [
-      "Besuchet Agénor",
-      "Decoppet Francis"
-    ],
-    "Syndic": [
-      "Debétaz Maurice"
-    ],
-    "Municipaux": [
-      "Marendaz Aloïs T.",
-      "Besuchet Agénor",
-      "Rochat André",
-      "Marendaz André",
-      "Marendaz Marcel. T.",
-      "Bertola Louis",
-      "Rey Fernand. T.",
-      "Bertola Ferdinand"
-    ],
-    "Agriculteurs": [
-      "Bertola Louis.",
-      "Bezuchet Agénor",
-      "Burdet Alfred",
-      "Burdet Alfr. d'Eug.",
-      "Debétaz Georges",
-      "Debétaz Ls",
-      "Debétaz Maur.",
-      "Decoppet Chs",
-      "Decoppet François",
-      "Decoppet Marc",
-      "Delacrétaz Alexis",
-      "Girard Ernest",
-      "Girard Lucien",
-      "Marendaz Alfred",
-      "Marendaz Aloïs. T.",
-      "Marendaz-Crottaz Edmond",
-      "Marendaz Ferdinand",
-      "Marendaz François",
-      "Marendaz Julien",
-      "Marendaz Ulysse",
-      "Marendaz U. de Constant",
-      "Rochat frères",
-      "Zeller Samuel"
-    ],
-    "Aubergistes": [
-      "Debétaz Maurice",
-      "Décoppet Franç."
-    ],
-    "Boulanger": [
-      "Thonney Robert"
-    ],
-    "Charpentiers": [
-      "Addor Alfred",
-      "Addor Louis"
-    ],
-    "Charron": [
-      "Maibach Ernest"
-    ],
-    "Commission scolaire": [
-      "Burdet Alfred",
-      "Marendaz Ferdinand",
-      "Marendaz Aloïs. T."
-    ],
-    "Cordonnier": [
-      "Barraud John"
-    ],
-    "Couturière": [
-      "Rey Marthe. T."
-    ],
-    "Epicerie-Mercerie": [
-      "Clavel",
-      "Marendaz-Besson F. R.",
-      "Marendaz-Magnin J. R."
-    ],
-    "Huilerie": [
-      "Gfeller & Cie."
-    ],
-    "Inspecteur du bétail": [
-      "Marendaz-Crottaz Edmond"
-    ],
-    "Instituteurs": [
-      "Ray Michel",
-      "Leresche Emilie"
-    ],
-    "Juge de paix": [
-      "Marendaz-Roulet Ed. T."
-    ],
-    "Laitier": [
-      "Hirsbrunner Fritz"
-    ],
-    "Maçons": [
-      "Bertola frères"
-    ],
-    "Maréchal": [
-      "Ducret Louis"
-    ],
-    "Menuisier": [
-      "Rey Fernand. T."
-    ],
-    "Meunier": [
-      "Gfeller & Cie."
-    ],
-    "Officier d'état-civil": [
-      "Burdet Alfred"
-    ],
-    "Rentiers": [
-      "Decoppet Georges",
-      "Marendaz-Roulet"
-    ],
-    "Scierie": [
-      "Bolle Charles"
-    ],
-    "Sociétés": [
-      "de fromagerie. R.",
-      "de tir aux armes de guerre. R.",
-      "Poids public. R.",
-      "Abbaye des laboureurs",
-      "du battoir à grains. R."
-    ],
-    "Téléphoniste": [
-      "Ducret Marie-Eug."
-    ],
-    "Tuilier": [
-      "Marendaz Marcel. T."
-    ]
-  },
-  "MÉZERY": {
-    "Autorités communales": [
-      "Henrioud Paul",
-      "Pahud Ernest"
+    "Dentiste": [
+      "Golaz Paul",
+      "Quillet A."
     ]
   }
 }

@@ -1,96 +1,232 @@
 {
-  "DISTRICT D'ORBE": {
-    "Préfet": [
-      "Jaquet-Guisan Julien"
+  "PUIDOUX": {
+    "Jardinier.": [
+      "Murisier Max. R."
     ],
-    "Substitut": [
-      "Bernard Gustave"
+    "Laine de bois (fabrique de).": [
+      "Bissegger & Cie"
     ],
-    "Receveur": [
-      "Barraud Jules"
+    "Laitier.": [
+      "Décosterd R."
     ],
-    "Conservateur du registre foncier": [
-      "Barraud M."
+    "Lingère.": [
+      "Simon Julie"
     ],
-    "Voyer du VIme arrondissement": [
-      "Magnin Georges"
+    "Machines agricoles.": [
+      "Nægeli Emile",
+      "Sunier Jules fils."
     ],
-    "Tribunal de district": [
-      "Deriaz Juste",
-      "Vacat",
-      "Deriaz Charles-Joseph",
-      "Rochaz Eugène",
-      "Martin François",
-      "Giroud Henri"
+    "Maçons.": [
+      "Mélina",
+      "Toso Auguste."
     ],
-    "Poursuites et faillites": [
-      "Pilet Ernest"
+    "Maréchaux.": [
+      "Nægele Emile",
+      "Sunier Jules"
+    ],
+    "Menuisier.": [
+      "Benedetto Louis."
+    ],
+    "Meuniers.": [
+      "Conne Emile",
+      "Minoterie du Léman"
+    ],
+    "Poste (bur. de).": [
+      "Chappuis Jean."
+    ],
+    "Sellier-tapissier.": [
+      "Schefer Walter."
+    ],
+    "Sociétés": [
+      "de laiterie de l'Epesse.",
+      "de la Lôche",
+      "de Longchamp",
+      "de la Méléreaz",
+      "de Cremières et de Toloveau.",
+      "Syndicat agricole Puidoux-Chexbres.",
+      "Fédération laitière."
+    ],
+    "Tailleuses.": [
+      "Chappuis Aimée",
+      "Chollet-Pasche Julie",
+      "Gilliéron, Mlles",
+      "Lambelet Marthe",
+      "Meylan Marguerite",
+      "Parisod-Meillard Cl."
+    ],
+    "Téléphone communal.": [
+      "Bureau des postes."
+    ],
+    "Vins (march. de).": [
+      "Victor Bron",
+      "Testuz Jules"
+    ],
+    "Viticulteurs.": [
+      "Bron Victor",
+      "Butticaz Frédéric",
+      "Testuz Jules"
     ]
   },
-  "VILLE D'ORBE": {
-    "Président du Conseil communal": [
-      "Michaud Paul"
-    ],
-    "Secrétaire": [
-      "Thomas Henri"
+  "RIEX": {
+    "Autorités communales.": [
+      "Demierre Philippe",
+      "Cornu Constant."
     ],
     "Syndic": [
-      "Bernard Gustave"
+      "Fauquex Frédéric."
     ],
     "Municipaux": [
-      "Fertig Louis",
-      "Séchaud Emile",
-      "Bezençon Alfr.",
-      "Béguelin Marcel"
+      "Corboz Victor",
+      "Duboux Henri",
+      "Fauquex Gustave",
+      "Delapraz Jules."
     ],
-    "Secrét.": [
-      "Schneiter Henri"
+    "Secrétaire": [
+      "Grobéty Clovis."
     ],
     "Boursier": [
-      "Chevallier Louis"
+      "Ducros Auguste."
     ],
-    "Agents de police": [
-      "Lombardet Marcel",
-      "Sterchi Gustave"
+    "Agriculteurs.": [
+      "Binggeli",
+      "Corboz Reinold",
+      "Cossy Louise",
+      "Mennet Jules",
+      "Missillier François",
+      "Rod Eugène."
     ],
-    "Agent d'affaires patenté": [
-      "Bernard Gustave"
+    "Artiste-peintre.": [
+      "Bosshard Théophile."
     ],
-    "Agriculteurs": [
-      "Baudat Samuel, fils",
-      "Bezençon Ernest",
-      "Bousson Jean",
-      "Clavel Albert",
-      "Conod Auguste",
-      "Conod Julien",
-      "Desponds Ed",
-      "Dupuis Albert",
-      "Dupuis Alfred",
-      "Dupuis Paul",
-      "Dupuis Fritz",
-      "Dupuis Louis",
-      "Flaction Albert",
-      "Grivat, hoirie",
-      "Magnin Emile",
-      "Michaud Gustave",
-      "Michaud Paul",
-      "Miéville Alexis",
-      "Nicole François, fils",
-      "Pache Henri",
-      "Pelet Gustave",
-      "Pelet Lucien",
-      "Porchet Louis",
-      "Potterat Paul",
-      "Tallichet Albert",
-      "Werly Louis"
+    "Mutualité scolaire de retraite.": [
+      "Grobéty C."
     ],
-    "Ameublement": [
-      "Combe-Hützner Louis",
-      "Hoffmann-Cuhat Henri",
-      "Tallichet Alfred"
+    "Boucher.": [
+      "Dovat Eugène."
     ],
-    "Apiculture": [
-      "Huber Rodolphe"
+    "Boulanger.": [
+      "Ducros Auguste."
+    ],
+    "Cafés.": [
+      "Banderet Daniel",
+      "Ney William."
+    ],
+    "Charcutiers.": [
+      "Dovat Eugène",
+      "Riccard Louis."
+    ],
+    "Commission scolaire.": [
+      "Delapraz Jules",
+      "Demierre Philippe."
+    ],
+    "Cordonnier.": [
+      "Gillard, Vve de Daniel."
+    ],
+    "Epicerie, mercerie.": [
+      "Ducros Auguste."
+    ],
+    "Gérant.": [
+      "Palaz Gve."
+    ],
+    "Inspecteur du bétail.": [
+      "Corboz R."
+    ],
+    "Instituteurs.": [
+      "Grobéty Clovis",
+      "Wichoud Marguerite"
+    ],
+    "Laitier.": [
+      "Hegg Henri."
+    ],
+    "Poste.": [
+      "Demierre Paul."
+    ],
+    "Professeur de chant.": [
+      "Christen Julie."
+    ],
+    "Repasseuse.": [
+      "Morier, Vve."
+    ],
+    "Société.": [
+      "de laiterie de Riex."
+    ],
+    "Tailleuses.": [
+      "Crot Adèle",
+      "Masson Lucie",
+      "Morier Laure."
+    ],
+    "Téléphoniste communal.": [
+      "Ducros Auguste."
+    ],
+    "Vignerons.": [
+      "Bessat Ls",
+      "Borgognon Clara",
+      "Bovard Ernest",
+      "Bujard Alice",
+      "Bujard Julie",
+      "Corboz Victor",
+      "Delapraz F.",
+      "Demierre François",
+      "Demierre Paul",
+      "Demierre Philippe",
+      "Detrey Maurice",
+      "Duboux-Duflon",
+      "Duboux Jules",
+      "Duboux, Vve de Louis.",
+      "Duboux, Vve d'Eugène",
+      "Duflon, Vve",
+      "Fauquex Fréd.",
+      "Fauquex Gustave",
+      "Fayet Constant",
+      "Grandjean Jules",
+      "Guex Henri",
+      "Lavanchy Frédéric",
+      "Lin Maurice",
+      "Lin Auguste",
+      "Lin Frédéric",
+      "Lin Jules",
+      "Loude Alfred",
+      "Manigley Aloïs",
+      "Marfigley Henri",
+      "Mauroux E.",
+      "Maury L.",
+      "Palaz Gust.",
+      "Parisod Hermann",
+      "'Riccard, Vve de Louis",
+      "Riccard Louis",
+      "Rod Emile",
+      "Stettler Jean",
+      "Vallon Alb."
+    ],
+    "Vins (march. de).": [
+      "Vallon Albert."
+    ]
+  },
+  "RIVAZ": {
+    "Autorités communales.": [
+      "Luginbuhl Charles",
+      "Besuchet Gustave."
+    ],
+    "Syndic": [
+      "Bron Oscar."
+    ],
+    "Municipaux": [
+      "Pinget Francis",
+      "Chappuis Gustave",
+      "Chappuis-Descombaz Vincent",
+      "Simon Emile."
+    ],
+    "Secrétaire": [
+      "Chevalley Marius."
+    ],
+    "Boursier": [
+      "Peyrollaz Louis."
+    ],
+    "Artiste-peintre.": [
+      "Bieler E."
+    ],
+    "Société mutualiste de retraite « La Vigneronne ».": [
+      "Leyvraz Jean"
     ]
   }
 }

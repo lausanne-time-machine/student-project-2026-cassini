@@ -1,94 +1,240 @@
 {
-  "MONTREUX": {
-    "Hôtels et Pensions": [
-      "Scotch Tea Room",
-      "Sorbiers (les)",
-      "Sonloup (Hôtel de)",
-      "Splendid Hôtel",
-      "Sports (H. des)",
-      "Terrasses",
-      "Terminus, H.",
-      "Tonhalle, Hôtel-rest.",
-      "Trummer, Dlles. P.",
-      "Valmont sur Territet",
-      "Valsainte (la)",
-      "Verger (Le) P.",
-      "Vernet H.-P.",
-      "Victoria, H., Glion",
-      "Victoria, H., rue de la Gare 23",
-      "Villas Dubochet",
-      "Villa Elisabeth",
-      "Wiesli Caroline",
-      "Windsor H.-P."
+  "BURTIGNY": {
+    "Agriculteurs": [
+      "Pilloud Samuel",
+      "Reymond Auguste",
+      "Reymond Louis",
+      "Sergy, hoirie d'Henri",
+      "Sergy Julien, La Maison",
+      "Saugy Louis",
+      "Thonney Charles",
+      "Tallent Ernest",
+      "Wampfler Christian"
     ],
-    "Huilerie.": [
-      "Diserens Louis"
+    "Apiculteurs": [
+      "Burnet Samuel"
     ],
-    "Huilerie et graisse.": [
-      "Sterns Ltd."
+    "Associations mutualistes de retraite": [
+      "Michot H."
     ],
-    "Importation.": [
-      "D'Oyley. Import syndicate"
+    "Aubergistes": [
+      "Bichet Charles",
+      "Pilloud Charles"
     ],
-    "Imprimeries.": [
-      "Cherbuin H.",
-      "Gugelmeier C.",
-      "S. A. des Arts graphiques A. Leyvraz",
-      "Imprimerie moderne, C. Henriod",
-      "Société de l'Imprimerie et Lithographie",
-      "Société de l'Imprimerie Nouvelle, Ch. Corbaz"
+    "Boulanger": [
+      "Cavin Charles"
     ],
-    "Infirmerie.": [
-      "Hôpital de Montreux"
+    "Cantonnier": [
+      "Christinet Maurice"
     ],
-    "Infirmiers.": [
-      "Bernard Ls",
-      "Rossi Ernest"
+    "Charcutier": [
+      "Cavin Charles"
     ],
-    "Ingénieurs.": [
-      "Chappuis A.",
-      "Chessex A.",
-      "Du Pasquier Louis",
-      "Imobersteg Georges",
-      "Jaques, Ad.",
-      "Michaud A.",
-      "Nuhout van der Veen",
-      "Pache L.",
-      "Payot",
-      "Rolli Ch.",
-      "Schlaeppi Marc",
-      "Zehnder-Spörry R."
+    "Charretier": [
+      "Reymond Louis"
     ],
-    "Inspecteurs du bétail.": [
-      "Cochard Louis fils",
-      "Ducret Louis",
-      "Emery Jules",
-      "Jordan Ernest",
-      "Masson Louis",
-      "Thévenaz Georges",
-      "Vuichoud Louis"
+    "Charron": [
+      "Pilloud Charles"
     ],
-    "Institut de beauté.": [
-      "Hermann Joséphine"
+    "Commission scolaire": [
+      "Reymond Auguste",
+      "Aubert",
+      "Pilloud Charles"
     ],
-    "Instituteurs primaires.": [
-      "Chantrens Marcel",
-      "Collet Aug.",
-      "Cuendet André",
-      "Duflon Oscar",
-      "Duruz Louis",
-      "Fankhauser Ed.",
-      "Favez Henri",
-      "Gaillard Ch.",
-      "Gmehlin Henri",
-      "Guignard Jules",
-      "Henchoz Paul",
-      "Jaton Henri",
-      "Jomini Edouard",
-      "Laeser Ernest",
-      "Leyvraz Paul",
-      "Loosli Walter",
-      "Malherbe Louis"
+    "Cordonnier": [
+      "Tharguetta Antoine"
+    ],
+    "Couturières": [
+      "Pilloud. dame",
+      "Rochat Berthe"
+    ],
+    "Epicerie": [
+      "Feignoux Lucien",
+      "Christinet-Blanc",
+      "Reymond Aug."
+    ],
+    "Garde-malades": [
+      "Feignoux S., Mlle"
+    ],
+    "Garde de triage": [
+      "Bichet Charles"
+    ],
+    "Gypsier": [
+      "Pilloud Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Bichet Alph"
+    ],
+    "Instituteurs": [
+      "Michot Henri",
+      "Pahud Constance"
+    ],
+    "Laitier": [
+      "Laiteries réunies, Genève"
+    ],
+    "Maréchaux": [
+      "Fontolliet Auguste",
+      "Moret Gustave"
+    ],
+    "Orphelinat": [
+      "La Maison"
+    ],
+    "Pasteur": [
+      "Aubert Emile"
+    ],
+    "Pensions": [
+      "M. et Mme Golay Jules",
+      "Wampfler P.",
+      "Beau-Séjour"
+    ],
+    "Poste": [
+      "Bovy Julien"
+    ],
+    "Sociétés": [
+      "de fromagerie. R.",
+      "du battoir à grain. R.",
+      "Syndicat agricole. R."
+    ],
+    "Téléphoniste": [
+      "Reymond Auguste"
+    ]
+  },
+  "DULLY": {
+    "Autorités communales": [
+      "Ruepp Henri",
+      "Lédermann Gérard",
+      "Ostermann Henri",
+      "Ostermann Charles",
+      "Cerf Alfred",
+      "Ruepp Louis",
+      "Debonneville Jules",
+      "Recordon Ch.",
+      "Peter."
+    ],
+    "Agriculteurs": [
+      "Cerf Alfred",
+      "Jaccard Georges",
+      "Munier Marc",
+      "Ostermann Frédéric",
+      "Ostermann Henri",
+      "Recordon Charles",
+      "Recordon Aloïs",
+      "Ruepp Louis"
+    ],
+    "Aubergiste": [
+      "Debonneville Jules"
+    ],
+    "Automobiles": [
+      "de Bavier Jean"
+    ],
+    "Commission scolaire": [
+      "Ostermann Henri",
+      "Ruepp Louis"
+    ],
+    "Epicerie": [
+      "Suardet Rose"
+    ],
+    "Inspecteur du bétail": [
+      "Ostermann Fr."
+    ],
+    "Instituteurs": [
+      "Béday Adalbert",
+      "Piguet Fernande"
+    ],
+    "Jardiniers": [
+      "Leuthard",
+      "Chevallaz Louis",
+      "Ullieul Ed."
+    ],
+    "Laitier": [
+      "Gervais Henri"
+    ],
+    "Pêcheur": [
+      "Isely Marc"
+    ],
+    "Pépiniériste": [
+      "Ruepp Henri"
+    ],
+    "Rentiers": [
+      "Davaine Alice",
+      "Kimmerling Jean",
+      "Mouton M.",
+      "Pictet Aimé.",
+      "de Bavier Ed."
+    ],
+    "Société": [
+      "de laiterie. R."
+    ],
+    "Télégraphe et téléphone": [
+      "Auberge de Commune"
+    ],
+    "Vignerons": [
+      "Barbay Charles",
+      "Gandillon Adrien",
+      "Magnin Auguste",
+      "Mani David",
+      "Munier Marc",
+      "Ostermann Fréd.",
+      "Ostermann Hri",
+      "Porchet Frs",
+      "Recordon Aloïs",
+      "Recordon Charles",
+      "Ruepp L."
+    ],
+    "Vignes américaines": [
+      "Ruepp Hri."
+    ]
+  },
+  "ESSERTINES-SUR-ROLLE": {
+    "Autorités communales": [
+      "Gander Henri",
+      "Dumartberay Octave",
+      "Merminod Auguste.",
+      "Gétaz Fernand",
+      "Clément Marius",
+      "Décurmex John",
+      "Uldry Eugène",
+      "Dumartberay Julien",
+      "Jorand Ernest"
+    ],
+    "Agriculteurs": [
+      "Badan Ed.",
+      "Bruguier Maurice",
+      "Clément Marius",
+      "Collomb Paul",
+      "Dizerens Jules",
+      "Dumartberay Julien",
+      "Dumartberay César",
+      "Huguenin Julien",
+      "Jorand Ernest",
+      "Martin Ern.",
+      "Merminod Auguste.",
+      "Meylan L.",
+      "Merminod François",
+      "Merminod Gustave",
+      "Merminod Jean",
+      "Merminod Maurice",
+      "Merminod Octave",
+      "Richard Paul.",
+      "Rochat Henri",
+      "Wyss A."
+    ],
+    "Architecte": [
+      "Bourquin André."
+    ],
+    "Apiculteur": [
+      "Chevalley Emile."
+    ],
+    "Assesseur": [
+      "Merminod Julien-Eug."
+    ],
+    "Mutualité scolaire de retraite": [
+      "Maire, F."
+    ],
+    "Aubergistes": [
+      "Merminod César",
+      "Henriond Fernand",
+      "Bettems Rod."
     ]
   }
 }

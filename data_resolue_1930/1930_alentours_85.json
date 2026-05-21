@@ -1,132 +1,231 @@
 {
-  "VILLE DE MOUDON": {
-    "Couvreurs.": [
-      "Dutoit Benjamin",
-      "Genier Emile"
+  "RUEYRES": {
+    "Assurance-vieillesse Associations mutualistes de retraite.": [
+      "Monod E."
     ],
-    "Couteliers.": [
-      "Jaggi & Rayroux sœurs",
-      "Massonnet Emile"
+    "Aubergistes.": [
+      "Pahud Alfred",
+      "Monney Marie"
     ],
-    "Cuirs.": [
-      "Trolliet Ernest",
-      "Cherpillod Albert"
+    "Bétail (march. de).": [
+      "Gindroz Jules. R."
+    ],
+    "Bois (march. de).": [
+      "Gindroz Ernest",
+      "Gindroz Daniel",
+      "Morand Marc."
+    ],
+    "Charpentier.": [
+      "Mivelaz Charles. T."
+    ],
+    "Charron.": [
+      "Grognuz Alfred."
+    ],
+    "Cigares et tabacs.": [
+      "Grognuz Joseph",
+      "Monney Marie",
+      "Pahud Alfred"
+    ],
+    "Commission scolaire catholique.": [
+      "Mivelaz Placide",
+      "Pahud Robert."
+    ],
+    "Commission scolaire protestante.": [
+      "Carrard Armand",
+      "Redard",
+      "Gindroz Daniel."
     ],
     "Curé.": [
-      "Butlinger Eugène"
+      "Mouthod Marius."
     ],
-    "Dentistes.": [
-      "Greno E.",
-      "Monneyron Maurice"
+    "Echalas.": [
+      "Carrard Jules."
     ],
-    "Distillateurs.": [
-      "Distillerie agricole"
+    "Epicerie, charcuterie, mercerie.": [
+      "Grognuz Joseph. R.",
+      "Monney Marie."
     ],
-    "Draps (fabricants de).": [
-      "Meyer frères & Cie."
+    "Inspecteur du bétail.": [
+      "Mivelaz Louis."
     ],
-    "Draperies et tissus.": [
-      "Cuany, Mme",
-      "Meyer frères & Cie.",
-      "Pittet Eug.",
-      "Velati-Pavarin & Cie."
+    "Instituteurs.": [
+      "Dutoit Alfred",
+      "Monod Emmanuel",
+      "Delamadeleine Louise."
     ],
-    "Drogueries.": [
-      "Christen Paul fils",
-      "Fivaz G. et fils",
-      "Trolliet Ernest"
+    "Poste et téléphone.": [
+      "Grognuz Joseph."
     ],
-    "Eaux gazeuses.": [
-      "Fivaz G. et fils"
+    "Sage-femme.": [
+      "Carrard Rosine."
     ],
-    "Ecole cantonale de fromagerie.": [
-      "Christinat Paul",
-      "Badoux Fernand"
+    "Sociétés.": [
+      "de laiterie et de fromagerie. R.",
+      "du battoir à grain. R."
     ],
-    "Electricité (service d').": [
-      "Entreprises électriques fribourgeoises"
+    "Tailleuse.": [
+      "Pahud Célestine."
     ],
-    "Engrais chimiques.": [
-      "Hegelbach Jules",
-      "Braillard Rose",
-      "Chelles Alexis",
-      "Fivaz Gustave",
-      "Société d'agriculture"
+    "Autorités communales.": [
+      "Recordon Julien",
+      "Bataillard Louis",
+      "Ozelley Constant",
+      "David Eugène",
+      "Buffat Edmond",
+      "Wulliamoz Constant",
+      "Viret Alexis",
+      "David Edouard",
+      "Jordan Edouard",
+      "Derendinger William",
+      "Ozelley Robert",
+      "Recordon Jules."
     ],
-    "Entrepreneurs.": [
-      "Dalioli Ernest",
-      "Delmatti & fils",
-      "Protti Victor"
+    "Agriculteurs.": [
+      "Basset Louis",
+      "Buffat Edmond",
+      "David Alfred",
+      "David Constant",
+      "David Jules",
+      "Depierraz Emile",
+      "Derendinger William",
+      "Duc Roger",
+      "Fattebert Octave",
+      "Favre Jules",
+      "Gilliard Henri",
+      "Jordan Alfred",
+      "Jordan Edouard",
+      "Jordan Jules",
+      "Jordan Lucien",
+      "Ozelley Aimé",
+      "Ozelley Constant",
+      "Recordon Auguste",
+      "Thomas Jules",
+      "Viret Ami",
+      "Viret frères",
+      "Wagnière Aimé",
+      "Wagnière Alfred",
+      "Wagnière Ernest",
+      "Wagnière frères",
+      "Wagnière Jules",
+      "Wagnière Ulysse",
+      "Wulliamoz Constant",
+      "Zahnd Arthur."
+    ]
+  },
+  "SAINT-BARTHELEMY": {
+    "Assurance-vieillesse Associations mutualistes de retraite.": [
+      "Bataillard Louis"
+    ],
+    "Café.": [
+      "Cavin Elise .R T."
+    ],
+    "Charpentier.": [
+      "Zahnd Charles. R."
+    ],
+    "Charron.": [
+      "Recordon Julien",
+      "Favre Edmond."
+    ],
+    "Commission scolaire.": [
+      "Recordon Julien",
+      "Derendinger William",
+      "David Edouard."
+    ],
+    "Couturières.": [
+      "Bataillard",
+      "David Constance",
+      "Jordan Denise",
+      "Jordan Hélène."
     ],
     "Epicerie.": [
-      "Bettex-Pahud Elise",
-      "Binggeli Edmond",
-      "Braillard Rose",
-      "Briod Henri",
-      "Christen Paul fils",
-      "Desmeules Alphonse",
-      "Fivaz G. et fils",
-      "Pache Louis",
-      "Pittet Eug..",
-      "Société de consommation",
-      "Giddey Méry"
+      "Thomas Emma."
     ],
-    "Farines et grains.": [
-      "Fivaz G. & Fils",
-      "Hegelbach Jules"
+    "Fourches et rateaux (fabr. de).": [
+      "Recordon Fernand"
     ],
-    "Ferblantiers-appareilleurs.": [
-      "Aubert Charles",
-      "Dresco J. & fils",
-      "Faucherre Louis"
+    "Gypsier-peintre.": [
+      "Laurent Maurice."
     ],
-    "Fers et métaux.": [
-      "Besson Gustave",
-      "Braillard F. & fils"
+    "Garde forestier.": [
+      "David Ed."
     ],
-    "Filature de laine.": [
-      "Meyer frères & Cie."
+    "Inspecteur du bétail.": [
+      "Wagnière Alfred",
+      "Favre Albert."
     ],
-    "Fournitures pour cordonniers.": [
-      "Trolliet Ernest",
-      "Cherpillod Albert"
+    "Instituteur.": [
+      "Bataillard Louis"
     ],
-    "Fromages (march. de).": [
-      "Beutler & Cie.",
-      "Centlivres Héli",
-      "Favre Juste",
-      "Richardet Roland"
+    "Lingère.": [
+      "Wagnière Céline."
     ],
-    "Gaz.": [
-      "Usine à gaz de Moudon"
+    "Menuisier.": [
+      "Burdet Emile. T."
     ],
-    "Géomètres.": [
-      "Pavillon Constant",
-      "Rosset L.."
+    "Scierie.": [
+      "Zahnd Charles. R."
     ],
-    "Gérants.": [
-      "Bertolini Victor",
-      "Duperrex Eugène",
-      "Mottaz Emile",
-      "Zahnd Louis"
+    "Sociétés.": [
+      "de fromagerie. R.",
+      "du battoir. R."
     ],
-    "Graines fourragères et potagères.": [
-      "Braillard Rose",
-      "Cherpillod Albert",
-      "Christen Paul fils",
-      "Desponds Louis & fils",
-      "Fivaz Gustave",
-      "Hegelbach Jules",
-      "Société coop. de consommation",
-      "Trolliet Ernest",
-      "Vourloud Georges"
+    "Téléphone.": [
+      "Cavin Elise."
     ],
-    "Gypsiers-peintres.": [
-      "Baud Charles",
-      "Baud Louis",
-      "Dalioli Ernest",
-      "Delmatti & fils",
-      "Lodari Lucien"
+    "Autorités communales.": [
+      "Favre Marc",
+      "Favre Henri",
+      "Favre Joseph",
+      "Ecoffey Joseph. T.",
+      "Favre Albert",
+      "Panchaud Auguste",
+      "Favre Marius",
+      "Favre Georges",
+      "Favre André",
+      "Favre Ulysse."
+    ],
+    "Agriculteurs.": [
+      "Ecoffey François",
+      "Favre Aimé",
+      "Favre Casimir",
+      "Favre Fernand",
+      "Favre Henri",
+      "Favre Henri",
+      "Favre Joseph",
+      "Favre Léon",
+      "Favre Marc",
+      "Félix",
+      "Limat Barthélemy",
+      "Limat Marcel",
+      "Limat Xavier",
+      "Panchaud Auguste",
+      "Panchaud Paul."
+    ],
+    "Commission scolaire catholique.": [
+      "Pittet Alph.",
+      "Favre Robert"
+    ],
+    "Constructeur.": [
+      "Favre Barthelemy."
+    ],
+    "Cordonniers.": [
+      "Favre Louis",
+      "Martin Henri."
+    ],
+    "Curé.": [
+      "Pittet Alph.-Bernard."
+    ],
+    "Etablissement avicole.": [
+      "Favre Joseph."
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Favre Marie"
+    ],
+    "Facteur.": [
+      "Basset Jacques."
+    ],
+    "Instituteurs.": [
+      "Favre Henri."
     ]
   }
 }

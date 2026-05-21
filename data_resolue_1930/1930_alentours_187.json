@@ -1,113 +1,232 @@
 {
-  "Ville de Payerne": {
-    "Garage": [
-      "Ischy-Savary Ls."
+  "LUCENS": {
+    "Gypsiers-peintres": [
+      "Home protestant de jeunes filles",
+      "Ecole ménagère"
     ],
-    "Gaz": [
-      "Entreprises électriques fribourgeoises"
+    "Horlogers, pierristes.": [
+      "Soc. An. L.-E. Junod",
+      "Lecoultre frères",
+      "Matthey Pierre",
+      "Neuenschwander F.",
+      "Ramsauer G. R.",
+      "Reymond & Cie",
+      "Schwarb Emile",
+      "Tanner Th., fils."
     ],
-    "Géomètre": [
-      "Nicod Louis"
+    "Horlogers, fourn. pour.": [
+      "Glauser O. A."
     ],
-    "Graines fourragères et potagères": [
-      "Addor Frédéric",
-      "Brouty Gustave",
-      "Cuérel Auguste",
-      "Favre Jules",
-      "Fischer A.",
-      "Genier Adrien",
-      "Germond Henri",
-      "Hürst Jean",
-      "Mauron Louis",
-      "Perrin Fernand",
-      "Siegenthaler E.",
-      "Vonnez-Bieder Arnold"
+    "Hôtels.": [
+      "Hôtel de Ville et du Soleil, Pittet-Bessat Maurice",
+      "Hôtel de la Gare, Vaney Edouard"
     ],
-    "Gérances diverses": [
-      "Nicod Ernest",
-      "Treyvaud Marcel"
+    "Huilerie.": [
+      "Trolliet Louis"
     ],
-    "Gypsiers": [
-      "Bertolini Jean",
-      "Buache-Jomini Alb.",
-      "Fabbroni Auguste",
-      "Frigerio Pierre",
-      "Heer Adolphe & ses fils",
-      "Marucco-Monney A.",
-      "Repetti J. & Cie",
-      "Rossi frères",
-      "Savary Alfred fils",
-      "Schneider Emile",
-      "Tettamenti Ernest"
+    "Imprimerie.": [
+      "Huwiler W.-Jos."
     ],
-    "Horlogers": [
-      "Blankart Gustave",
-      "Doudin Ernest",
-      "Rapin Alfred"
+    "Inspecteur du bétail.": [
+      "Tzaud Jules"
     ],
-    "Horticulteurs-jardiniers": [
-      "Addor Frédéric",
-      "Hürst Johann",
-      "Mauron Louis",
-      "Vonnez Arnold"
+    "Institutions de jeunes filles.": [
+      "Réformiertes Töchterheim ,Mercuria",
+      "Ecole ménagère"
     ],
-    "Hôtels": [
-      "Heinemann Adolphe",
-      "Bösiger-Winkler, dame",
-      "Bourqui Joseph"
+    "Instituteurs.": [
+      "Ballif Albert",
+      "Ogay Fernand",
+      "Delaporte Jules",
+      "Jaccaud Ida",
+      "Gasser-Ravussin Berthe, Mme",
+      "Ravay Suzanne",
+      "Pidoux Esther",
+      "Hoffmann Et."
     ],
-    "Huileries": [
-      "Rapin",
-      "Savary Oscar"
+    "Jardiniers-horticulteurs.": [
+      "Durussel Edouard",
+      "Geiser, hoirs d'Emmanuel"
     ],
-    "Imprimeurs": [
-      "Beaufils Albert",
-      "Doudin-Bonzani Thérèse-Jeanne",
-      "Tenthorey frères"
+    "Joaillerie.": [
+      "Junod Ls-Ed. (S.A.)",
+      "Lecoultre frères",
+      "Tanner Th. frères"
     ],
-    "Infirmerie": [
-      "Infirmerie de la Broye"
+    "Journaux.": [
+      "Feuille d'Avis"
     ],
-    "Ingénieur": [
-      "Werndli"
+    "Justice de paix.": [
+      "Bourgeois Const.",
+      "Tanner Jean",
+      "Golay Ad.",
+      "Pichonnat Fernand",
+      "Porchet Jules",
+      "Emery Fernand"
     ],
-    "Insecticides": [
-      "Frossard J. & Co., S. A."
+    "Laitiers.": [
+      "Dutoit Paul-Jean",
+      "Schupbach Jean"
     ],
-    "Inspecteurs du bétail": [
-      "Guggi Adolphe",
-      "Jan-Ryser Gustave"
+    "Machines agricoles.": [
+      "Michod Ad.",
+      "Giron Louis"
     ],
-    "Inspecteur forestier": [
-      "Bornand Jules"
+    "Maréchaux.": [
+      "Michod Adolphe",
+      "Moser Ernest"
     ],
-    "Installateur T. S. F.": [
-      "Grivaz Ed."
+    "Mécaniciens.": [
+      "Duperrez Robert",
+      "Golay Adrien",
+      "Bunter frères & Jornod fils.",
+      "Pahud Arnold",
+      "Savoye Ernest",
+      "Tanner Ch."
     ],
-    "Institut de jeunes gens": [
-      "Institut Jomini"
+    "Médecin.": [
+      "Porchet Marcel"
     ],
-    "Instituteurs primaires": [
-      "Cartier Charles",
-      "Golliez Jaques",
-      "Grobéty Henri",
-      "Jaques Camille",
-      "Kaenel Louis",
-      "Müller Henri",
-      "Loup Maurice"
+    "Menuisiers.": [
+      "Augsburger F.",
+      "Badoux Adolphe",
+      "Germond Charles",
+      "Hadorn Marcel",
+      "Leuba Georges fils"
     ],
-    "Institutrices primaires": [
-      "Bardet Marguerite",
-      "ool-Perrin Emma",
-      "Bovey, dame",
-      "Brélaz-Burnod Marie",
-      "Caille Jeanne",
-      "Chapuis-Ruch Mathilde",
-      "Cornu Hélène",
-      "Fassnacht-Golaz Marie",
-      "Rollier Jeanne-Marie",
-      "Vonviller Isabelle",
-      "Walther Marie-Louise"
+    "Mercerie.": [
+      "Coopérative de consommation",
+      "Guignard René",
+      "Lézian Jean.",
+      "Meyer Fernand",
+      "Potterat-Favre Emilie.",
+      "Thomäe-Rod Aline, Mme"
+    ],
+    "Meunier.": [
+      "Trolliet Louis"
+    ],
+    "Modes.": [
+      "Binggeli Marthe",
+      "Thomäe-Rod Aline"
+    ],
+    "Notaires.": [
+      "Emery Fernand",
+      "Vacheron Maurice"
+    ],
+    "Officier d'état-civil.": [
+      "Wenger Emile"
+    ],
+    "Opticien.": [
+      "Neuenschwander F."
+    ],
+    "Papeterie.": [
+      "Huwiler W.-Joseph"
+    ],
+    "Pasteur.": [
+      "Girardet Charles",
+      "Barth Fernand"
+    ],
+    "Pâtisseries.": [
+      "Ganty Antoine",
+      "Kung Otto",
+      "Luder-Krummen E.",
+      "Michod Edouard",
+      "Mottaz Victor"
+    ],
+    "Pépiniériste.": [
+      "Durussel Edouard"
+    ],
+    "Pension.": [
+      "Desgoumois-Favrat Lse"
+    ],
+    "Pharmacie.": [
+      "Huguenin V. Vve."
+    ],
+    "Photographe.": [
+      "Thévoz Jules"
+    ],
+    "Photographie (fournitures pour).": [
+      "Savigny Paul & Cie, S. A."
+    ],
+    "Piano (leçons de).": [
+      "Huwiler Th., Mlle"
+    ],
+    "Pierres fines.": [
+      "Charbonney Louis",
+      "Favre C.",
+      "Fahrni-Pasche Alfred",
+      "Fusey Ferdinand",
+      "Gasser-Ravussin P.",
+      "Germond Louis",
+      "Junod Louis-Edouard (S. A.)",
+      "Lecoultre frères",
+      "Reymond & Co.",
+      "Schwarb Emile",
+      "Steck Louis",
+      "Tanner frères"
+    ],
+    "Poste.": [
+      "Lagnaz Ulysse"
+    ],
+    "Poterie.": [
+      "Coopérative de consommation",
+      "Lézian Jean. R."
+    ],
+    "Primeurs.": [
+      "Buzzi Ch.",
+      "Clot-Morandi Alb.",
+      "Morel Charles",
+      "Reboani Berthe, Mme"
+    ],
+    "Poudre (dépôt de).": [
+      "Tanner Ch."
+    ],
+    "Produits alimentaires pour le bétail.": [
+      "Société d'agriculture"
+    ],
+    "Quincaillerie.": [
+      "Cavin-Savoie",
+      "Guignard René",
+      "Giron Louis",
+      "Lézian Jean",
+      "Société coopérative de consommation"
+    ],
+    "Sages-femmes.": [
+      "Cornaz Ida",
+      "Devantery Elise"
+    ],
+    "Scierie.": [
+      "Trolliet Louis"
+    ],
+    "Selliers.": [
+      "Corthésy A.",
+      "Jaquier Héli"
+    ],
+    "Serrurier.": [
+      "Lecoultre Ed."
+    ],
+    "Sociétés.": [
+      "de tir les Armes réunies",
+      "de laiterie",
+      "d'agriculture",
+      "fédérale de gymnastique",
+      "de boucherie sociale",
+      "de consommation",
+      "immobilière de la Chapelle",
+      "Crédit mutuel",
+      "de musique d'harmonie l'Abeille",
+      "de chant l'Union",
+      "Chœur mixte",
+      "de chant Männerchor",
+      "des intérêts publics",
+      "Union chrétienne de jeunes gens",
+      "Section de la Croix-Bleue",
+      "Secours mutuels du cercle de Lucens",
+      "Syndicat bovin de Lucens, Curtilles, Oulens, Cremin"
+    ],
+    "Tailleurs.": [
+      "Kocher Ernest",
+      "Weibel Louis"
     ]
   }
 }

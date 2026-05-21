@@ -1,232 +1,215 @@
 {
-  "LUCENS": {
-    "Gypsiers-peintres": [
-      "Home protestant de jeunes filles",
-      "Ecole ménagère"
+  "NOVALLES": {
+    "Agriculteurs": [
+      "der Rodolphe",
+      "Marchand Georges",
+      "Mermod Georges",
+      "Perriraz Armand",
+      "Schori Rodolphe",
+      "Simon frères",
+      "Recordon frères",
+      "Stämpfli Jacob",
+      "Taillefert Reynold"
     ],
-    "Horlogers, pierristes.": [
-      "Soc. An. L.-E. Junod",
-      "Lecoultre frères",
-      "Matthey Pierre",
-      "Neuenschwander F.",
-      "Ramsauer G. R.",
-      "Reymond & Cie",
-      "Schwarb Emile",
-      "Tanner Th., fils."
+    "Apiculteur": [
+      "Mayor Arnold"
     ],
-    "Horlogers, fourn. pour.": [
-      "Glauser O. A."
+    "Assurance-vieillesse": [
+      "Pahud M.",
+      "Pahud Mme"
     ],
-    "Hôtels.": [
-      "Hôtel de Ville et du Soleil, Pittet-Bessat Maurice",
-      "Hôtel de la Gare, Vaney Edouard"
+    "Café": [
+      "Blanc Gustave"
     ],
-    "Huilerie.": [
-      "Trolliet Louis"
+    "Commission scolaire": [
+      "Cousin Eug."
     ],
-    "Imprimerie.": [
-      "Huwiler W.-Jos."
+    "Dépositaire postal": [
+      "Viguet Lina"
     ],
-    "Inspecteur du bétail.": [
-      "Tzaud Jules"
+    "Inspecteur du bétail": [
+      "Périllard Arm."
     ],
-    "Institutions de jeunes filles.": [
-      "Réformiertes Töchterheim ,Mercuria",
-      "Ecole ménagère"
+    "Institutrice": [
+      "Pahud Marie"
+    ]
+  },
+  "ONNENS": {
+    "Autorités communales": [
+      "Pahud Gustave",
+      "Dagon Pl.",
+      "Bezençon Robert",
+      "Filleux Marcel",
+      "Dagon Jules",
+      "Paris Victor",
+      "Seiler Gustave",
+      "Dagon Willy",
+      "Homberger Paul"
     ],
-    "Instituteurs.": [
-      "Ballif Albert",
-      "Ogay Fernand",
-      "Delaporte Jules",
-      "Jaccaud Ida",
-      "Gasser-Ravussin Berthe, Mme",
-      "Ravay Suzanne",
-      "Pidoux Esther",
-      "Hoffmann Et."
+    "Agriculteurs": [
+      "Apothéloz Emile",
+      "Apothéloz Eugène",
+      "Bolle Louis",
+      "Dagon Auguste",
+      "Dagon frères",
+      "Dagon-Grobet Jules",
+      "Dagon Michel",
+      "Dagon Paul",
+      "Dagon Rod.",
+      "Filleux Emile",
+      "Filleux Marcel",
+      "Gaille Benjamin",
+      "Gaille Lucien",
+      "Jeanmonod Louis",
+      "Neuhaus Fritz",
+      "Paris Chs",
+      "Perdrisat Samuel",
+      "Robin Louis",
+      "Seiler Gustave",
+      "Wyss F."
     ],
-    "Jardiniers-horticulteurs.": [
-      "Durussel Edouard",
-      "Geiser, hoirs d'Emmanuel"
+    "Amodiateur": [
+      "Fillieux Edouard"
     ],
-    "Joaillerie.": [
-      "Junod Ls-Ed. (S.A.)",
-      "Lecoultre frères",
-      "Tanner Th. frères"
+    "Apiculteurs": [
+      "Gaille Benjamin",
+      "Gaille Lucien",
+      "Lassueur Auguste",
+      "Granges Zacharie"
     ],
-    "Journaux.": [
-      "Feuille d'Avis"
+    "Assurance": [
+      "Haldimand Paul"
     ],
-    "Justice de paix.": [
-      "Bourgeois Const.",
-      "Tanner Jean",
-      "Golay Ad.",
-      "Pichonnat Fernand",
-      "Porchet Jules",
-      "Emery Fernand"
+    "Auberges et cafés": [
+      "Bezençon Rob.",
+      "Favre Louis"
     ],
-    "Laitiers.": [
-      "Dutoit Paul-Jean",
-      "Schupbach Jean"
+    "Assurance-vieillesse": [
+      "Mayor A."
     ],
-    "Machines agricoles.": [
-      "Michod Ad.",
-      "Giron Louis"
+    "Boulanger": [
+      "Cochard Albin"
     ],
-    "Maréchaux.": [
-      "Michod Adolphe",
-      "Moser Ernest"
+    "Charpentier": [
+      "Schneeberger Léopold"
     ],
-    "Mécaniciens.": [
-      "Duperrez Robert",
-      "Golay Adrien",
-      "Bunter frères & Jornod fils.",
-      "Pahud Arnold",
-      "Savoye Ernest",
-      "Tanner Ch."
+    "Charcutier": [
+      "Pahud-Montandon G."
     ],
-    "Médecin.": [
-      "Porchet Marcel"
+    "Charron": [
+      "Reuille Paul"
     ],
-    "Menuisiers.": [
-      "Augsburger F.",
-      "Badoux Adolphe",
-      "Germond Charles",
-      "Hadorn Marcel",
-      "Leuba Georges fils"
+    "Chef de gare": [
+      "Séchaud Jules"
     ],
-    "Mercerie.": [
-      "Coopérative de consommation",
-      "Guignard René",
-      "Lézian Jean.",
-      "Meyer Fernand",
-      "Potterat-Favre Emilie.",
-      "Thomäe-Rod Aline, Mme"
+    "Coiffeur": [
+      "Schwab Fritz"
     ],
-    "Meunier.": [
-      "Trolliet Louis"
+    "Commission scolaire": [
+      "Dagon Michel",
+      "Décurey",
+      "Wäsen Ernest"
     ],
-    "Modes.": [
-      "Binggeli Marthe",
-      "Thomäe-Rod Aline"
+    "Cordonnier": [
+      "Rogivue Louis"
     ],
-    "Notaires.": [
-      "Emery Fernand",
-      "Vacheron Maurice"
+    "Couturière": [
+      "Dagon Juliette"
     ],
-    "Officier d'état-civil.": [
-      "Wenger Emile"
+    "Epicerie, mercerie": [
+      "Besia-Dagon Jenny",
+      "Cochard Albin",
+      "Filleux Charles"
     ],
-    "Opticien.": [
-      "Neuenschwander F."
+    "Inspecteur du bétail": [
+      "Dagon Jules"
     ],
-    "Papeterie.": [
-      "Huwiler W.-Joseph"
+    "Instituteurs": [
+      "Mayor Albert",
+      "Haldimann Germaine"
     ],
-    "Pasteur.": [
-      "Girardet Charles",
-      "Barth Fernand"
+    "Lingère": [
+      "Bontems Clara"
     ],
-    "Pâtisseries.": [
-      "Ganty Antoine",
-      "Kung Otto",
-      "Luder-Krummen E.",
-      "Michod Edouard",
-      "Mottaz Victor"
+    "Maçon": [
+      "Besia Angel"
     ],
-    "Pépiniériste.": [
-      "Durussel Edouard"
+    "Menuisier": [
+      "Schneeberger Léopold"
     ],
-    "Pension.": [
-      "Desgoumois-Favrat Lse"
+    "Pêcheur": [
+      "Filleux Henri-Louis"
     ],
-    "Pharmacie.": [
-      "Huguenin V. Vve."
+    "Pierristes": [
+      "Dagon Eugène",
+      "Dagon Willy",
+      "Granges Zacharie"
     ],
-    "Photographe.": [
-      "Thévoz Jules"
+    "Poste": [
+      "Apothéloz Georges"
     ],
-    "Photographie (fournitures pour).": [
-      "Savigny Paul & Cie, S. A."
+    "Représentant (assurances)": [
+      "Haldimann Paul"
     ],
-    "Piano (leçons de).": [
-      "Huwiler Th., Mlle"
+    "Sociétés": [
+      "R.",
+      "La Centenaire"
     ],
-    "Pierres fines.": [
-      "Charbonney Louis",
-      "Favre C.",
-      "Fahrni-Pasche Alfred",
-      "Fusey Ferdinand",
-      "Gasser-Ravussin P.",
-      "Germond Louis",
-      "Junod Louis-Edouard (S. A.)",
-      "Lecoultre frères",
-      "Reymond & Co.",
-      "Schwarb Emile",
-      "Steck Louis",
-      "Tanner frères"
+    "Vins (march. de)": [
+      "Dagon Rod.-F.",
+      "Filleux Charles",
+      "Seiler Gustave"
     ],
-    "Poste.": [
-      "Lagnaz Ulysse"
+    "Voituriers": [
+      "Apothéloz Emile",
+      "Dagon Auguste"
+    ]
+  },
+  "PROVENCE": {
+    "Autorités communales": [
+      "Perrin Louis",
+      "Vuillermet Albert",
+      "Favre Gustave",
+      "Gaille Félicien",
+      "Jeanmonod-Gaille Adrien",
+      "Perrin Sylvain",
+      "Favre Louis",
+      "Gaille Armand",
+      "Guillaume Maurice",
+      "Favre Eugène",
+      "Delay Jean"
     ],
-    "Poterie.": [
-      "Coopérative de consommation",
-      "Lézian Jean. R."
+    "Agriculteurs": [
+      "Allisson Auguste",
+      "Favre Eugène",
+      "Favre Louis",
+      "Favre-Gattolliat Ami",
+      "Gaille Ami",
+      "Gaille Ernest",
+      "Gaille Félicien",
+      "Gaille Henri",
+      "Gattolliat André",
+      "Jeanmonod Adrien",
+      "Loup Louis",
+      "Maire Ali",
+      "Perrin Louis",
+      "Vuillermet Alfred"
     ],
-    "Primeurs.": [
-      "Buzzi Ch.",
-      "Clot-Morandi Alb.",
-      "Morel Charles",
-      "Reboani Berthe, Mme"
+    "Amodiateur": [
+      "Guillaume Charles"
     ],
-    "Poudre (dépôt de).": [
-      "Tanner Ch."
+    "Apiculteurs": [
+      "Bolens Aug.",
+      "Glardon Jules",
+      "Jeanmonod Eug."
     ],
-    "Produits alimentaires pour le bétail.": [
-      "Société d'agriculture"
+    "Assurance-vieillesse": [
+      "Merminod W.",
+      "Perrin Eug."
     ],
-    "Quincaillerie.": [
-      "Cavin-Savoie",
-      "Guignard René",
-      "Giron Louis",
-      "Lézian Jean",
-      "Société coopérative de consommation"
-    ],
-    "Sages-femmes.": [
-      "Cornaz Ida",
-      "Devantery Elise"
-    ],
-    "Scierie.": [
-      "Trolliet Louis"
-    ],
-    "Selliers.": [
-      "Corthésy A.",
-      "Jaquier Héli"
-    ],
-    "Serrurier.": [
-      "Lecoultre Ed."
-    ],
-    "Sociétés.": [
-      "de tir les Armes réunies",
-      "de laiterie",
-      "d'agriculture",
-      "fédérale de gymnastique",
-      "de boucherie sociale",
-      "de consommation",
-      "immobilière de la Chapelle",
-      "Crédit mutuel",
-      "de musique d'harmonie l'Abeille",
-      "de chant l'Union",
-      "Chœur mixte",
-      "de chant Männerchor",
-      "des intérêts publics",
-      "Union chrétienne de jeunes gens",
-      "Section de la Croix-Bleue",
-      "Secours mutuels du cercle de Lucens",
-      "Syndicat bovin de Lucens, Curtilles, Oulens, Cremin"
-    ],
-    "Tailleurs.": [
-      "Kocher Ernest",
-      "Weibel Louis"
+    "Auberges et cafés": [
+      "Guillaume frères",
+      "Mariller André"
     ]
   }
 }

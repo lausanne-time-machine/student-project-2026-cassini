@@ -1,115 +1,207 @@
 {
-  "VILLE DE MORGES": {
-    "Tonneliers.": [
-      "Gysin Jean",
-      "Siegler Frédéric",
-      "Straub Jacob"
+  "LA SARRAZ": {
+    "Blanchisseuses": [
+      "Kägi Frida",
+      "Velay Marie"
     ],
-    "Tourneur sur bois": [
-      "Martinelli Eugène"
+    "Bois (march. de)": [
+      "Isely André"
     ],
-    "Tricotage à la machine": [
-      "Buhler E.",
-      "Chevalley-Soguel Adèle"
+    "Boucher": [
+      "Develey Samuel"
     ],
-    "Tripier": [
-      "Demierre Firmin"
+    "Boulangers": [
+      "Decoppet Paul",
+      "Grandchamp A.",
+      "Thévenaz J."
     ],
-    "Usine à gaz": [
-      "Lambert Ed."
+    "Brevets d'invention": [
+      "Flesch L.",
+      "Pahud J.-D."
     ],
-    "Vanniers": [
-      "Chatenoud Edouard",
-      "Jayet Charles"
+    "Cafetiers": [
+      "Besson Henri",
+      "Cuhat-Steiner Rosa",
+      "Jaccard Jules",
+      "Martin Ulysse",
+      "Stebler Henri",
+      "Jaquier H."
     ],
-    "Verrerie": [
-      "Demenga Arnold",
-      "Meyer S., Louvre",
-      "Moraz Charles"
+    "Camionnage": [
+      "Knebel Jean"
     ],
-    "Vélocipèdes": [
-      "Bœsiger Armand",
-      "Buchet-Ramuz",
-      "Déglon Emile",
-      "Juilland Edouard",
-      "Mottaz Victor"
+    "Chapelleries": [
+      "Knebel Ch.",
+      "Meyer Jean",
+      "Velay Amélie"
     ],
-    "Vétérinaire": [
-      "Reubi Oscar"
+    "Charbon": [
+      "Knebel Jean"
     ],
-    "Vinaigre (fab. de)": [
-      "Morax Louis"
+    "Charcutiers": [
+      "Develey Samuel",
+      "Moinat Henri",
+      "Steiner Jean fils"
     ],
-    "Vins (march. de)": [
-      "Bolle & Cie."
+    "Charpentier": [
+      "Isely Andr."
     ],
-    "Vins sans alcool (fab.)": [
-      "Vins sans alcool et Fabrique de conserves alimentaires (S. A.)"
+    "Charron": [
+      "Monnier A."
     ],
-    "Vitriers": [
-      "Demenga Arnold",
-      "Lotterio-Rebillet",
-      "Motta Pierre"
+    "Chaussures": [
+      "Hirzer, Veuve",
+      "Knebel Henri",
+      "Knebel Louis",
+      "Krieg Alfred"
     ],
-    "Voituriers": [
-      "Carrel John",
-      "Descombes Eugène",
-      "Desponds Alexis",
-      "Friderici Ch."
+    "Chef de section": [
+      "Decoppet Paul"
     ],
-    "Volaille": [
-      "Guignard - Cappeli Marc"
+    "Chef de station": [
+      "Dormond"
     ],
-    "Divers": [
-      "André, Vve d'Henri",
-      "Bonzon, Vve",
-      "Bornand Henriette",
-      "Bosshardt-Brindeau, dame",
-      "Brélaz Louis",
-      "Bolle Ernest",
-      "Bolle Louis",
-      "Brugger Louis",
-      "Chappuis Pierre",
-      "Chavan P.",
-      "Chavannes",
-      "Chevalier S.",
-      "Curchod Alfr.",
-      "de Goumoëns, Mlle",
-      "de Goumoëns Emilie, Mme",
-      "de Haller B.",
-      "Demaurex-Aubert E.",
-      "Demaurex Henri",
-      "de Beausobre Georgina",
-      "Douanes suisses",
-      "Fehlmann-von Auw E.",
-      "Fleury G.",
-      "Fleury Louis",
-      "Francillon Georges",
-      "Forel Alexis, Veuve",
-      "Gonet Louis",
-      "Grandjean Edm.",
-      "Kratzer Emile",
-      "Kurt Gottfr.",
-      "Laffely, Vve de Ls",
-      "Matthey-Demot R.",
-      "Monay Louis",
-      "Monod Constantin",
-      "Monod Henri",
-      "Monod William",
-      "Monod-Meyer Henri",
-      "Morax René",
-      "Muret, hoirs d'Eug.",
-      "Muret-Baumgartner L., Vve",
-      "Neeser André",
-      "Nicole Fernand",
-      "Nicole Jean",
-      "Oulevay Alfred",
-      "Pache-Cart, dame",
-      "Paderewsky J.",
-      "Perusset J.",
-      "Redard André",
-      "Reymond-Duflon Ch.",
-      "Rogier Victor"
+    "Chiffons": [
+      "Débiton, Vve",
+      "Mayet Henri"
+    ],
+    "Coiffeur": [
+      "Klopfenstein Emile"
+    ],
+    "Commandant des pompiers": [
+      "Bignens Ernest"
+    ],
+    "Commission scolaire primaire": [
+      "Vannod Emile",
+      "Michaud Alfred"
+    ],
+    "Commission scolaire primaire supérieure": [
+      "Pavillard Alexis",
+      "Cuhat Henri"
+    ],
+    "Confections": [
+      "Meyer Jean"
+    ],
+    "Cordonniers": [
+      "Bordin E.",
+      "Krieg Alfr.",
+      "Moschini Alexis"
+    ],
+    "Couvertures (fab. de)": [
+      "Girardet E. & Cie (S. A.)"
+    ],
+    "Electricité": [
+      "Société des Forces de Joux et de l'Orbe",
+      "Lavanchy Eugène"
+    ],
+    "Entrepreneur": [
+      "Zali Louis"
+    ],
+    "Epicerie, mercerie": [
+      "Aigroz Rob.",
+      "Cuhat-Pingoud Henri",
+      "Dind-Regamey Ami",
+      "Hirzer, Vve",
+      "Knebel Ch.",
+      "Petitpierre S. A.",
+      "Rossi Victor",
+      "Société coopérative"
+    ],
+    "Fabrique de soudure à l'étain": [
+      "Huguenin L., fils"
+    ],
+    "Ferblantiers-couvreurs": [
+      "Borel Ulysse",
+      "Guignard Jean, fils",
+      "Guignard-Bory Julien"
+    ],
+    "Fers et métaux": [
+      "Cuhat Henri"
+    ],
+    "Fonderie de cloches": [
+      "Obertino & Cie."
+    ],
+    "Forestier": [
+      "Monachon François"
+    ],
+    "Fromages": [
+      "Kaufmann Arnold",
+      "Schüler & Cie",
+      "Steiner Alf.",
+      "Société de fromagerie"
+    ],
+    "Garde-malades": [
+      "Agassiz Jeanne"
+    ],
+    "Gérances": [
+      "Fontannaz Jules"
+    ],
+    "Gypsiers": [
+      "Zali Louis",
+      "Zoni Jean"
+    ],
+    "Hôtels": [
+      "Besson Henri",
+      "Stebler Henri",
+      "Jaquier H."
+    ],
+    "Horlogers": [
+      "Goy Jean",
+      "Müller Th."
+    ],
+    "Horticulteur": [
+      "Pittet Auguste"
+    ],
+    "Ingénieur": [
+      "Huguenin Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Vannod Em."
+    ],
+    "Inspecteur des viandes": [
+      "Besson Hri."
+    ],
+    "Instituteurs": [
+      "Bignens Ernest",
+      "Zwahlen René",
+      "Berguerand Blanche",
+      "Meyer Erica",
+      "Prévost Sarah"
+    ],
+    "Justice de paix": [
+      "Michaud Félicien",
+      "Knebel Jean",
+      "Mermoud Henri",
+      "Cuhat Henri",
+      "Cugny Charles",
+      "Delacuisine Ed.",
+      "Meyer P."
+    ],
+    "Laitiers": [
+      "Kaufmann Arnold",
+      "Schüler & Cie",
+      "Société de fromagerie de La Sarraz",
+      "Vannod Emile",
+      "Steiner Jean fils",
+      "Wanner Fritz"
+    ],
+    "Lingères": [
+      "Dind, Mme",
+      "Kägi Frida",
+      "Velay-Favrichon"
+    ],
+    "Machines (fab. de)": [
+      "Huguenin Ls. fils"
+    ],
+    "Maréchal": [
+      "Bron Hermann"
+    ],
+    "Matériaux de construction": [
+      "Zali Louis"
+    ],
+    "Mécanicien": [
+      "Huguenin Louis, fils",
+      "Michaud Armand"
     ]
   }
 }

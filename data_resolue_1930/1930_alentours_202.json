@@ -1,213 +1,124 @@
 {
-  "ROCHE": {
-    "Vins en gros": [
-      "Quillet David",
-      "Quillet Charles",
-      "Blanc Fernand"
+  "Ville de Nyon": {
+    "Institutrices secondaires. (Collège et Ecole supérieure.)": [
+      "Diserens Nelly",
+      "Pasche Olga",
+      "Piguet Nelly"
     ],
-    "Agriculteurs": [
-      "Bardet Ls",
-      "Blanc Charles",
-      "Blanc Henri",
-      "Blanc Robert",
-      "Blanc-Bonny Gustave",
-      "Blanc-Delacour Sophie, Veuve",
-      "Blanc Fernand",
-      "Blanc Samuel",
-      "Blanc-Pochon Jules",
-      "Christinat frères",
-      "Cottier Louis",
-      "Cottier Paul",
-      "Delacour Auguste",
-      "Détrey Albert",
-      "Détrey Louis",
-      "Fasnacht Ulysse",
-      "Indermühle Alf.",
-      "Morel Constant",
-      "Morel Alfred",
-      "Morel-Thévoz, Vve",
-      "Morel-Vacheron Louis",
-      "Péter-Morel Henri",
-      "Quillet Robert et Charles",
-      "Quillet David",
-      "Quillet Ernest",
-      "Quillet-Roulet Auguste",
-      "Roulet-Combremont Martin",
-      "Roulet Sam. T.",
-      "Roulet-Thévoz Louise, Vve",
-      "Thévoz Albert",
-      "Thévoz-Blanc Henri",
-      "Thévoz Marcel",
-      "Thévoz-Péter Constant",
-      "Thévoz-Roulet Robert",
-      "Thévoz Samuel"
+    "Jardiniers-maraîchers.": [
+      "Charbonnier Paul",
+      "Chevillard Edward",
+      "Contat Ernest",
+      "Dumuid Félix",
+      "Marendaz Marcel",
+      "Mouthon Edouard",
+      "Ploujoux Charles"
     ],
-    "Assurance-vieillesse": [
-      "Mutualité scolaire de retraite",
-      "Chevalley H.",
-      "Société mutualiste de retraite",
-      "Détrey Charles"
+    "Journaux.": [
+      "Courrier de la Côte et Feuille d'Avis de Nyon et des districts de La Côte",
+      "Oderbolz L.",
+      "Journal de Nyon et Feuille d'Avis de Coppet",
+      "Cherix, Vve d'Ed."
     ],
-    "Aubergiste": [
-      "Blanc Auguste"
+    "Justice de paix.": [
+      "Yersin Jean",
+      "Rapp William",
+      "Böhy Charles",
+      "Ruey Daniel",
+      "Cuénod Théophile",
+      "Dupraz Adolphe"
     ],
-    "Blanchisseuse": [
-      "Cosandey Valérie"
+    "Laitiers.": [
+      "Chevalier François",
+      "Genevay Henri",
+      "Kopf Emile",
+      "Perreten André",
+      "Schneebeli Emile",
+      "Simon Armand",
+      "Steiner Jules"
     ],
-    "Boulanger": [
-      "Ruchat Oscar"
+    "Légumes, primeurs.": [
+      "Bovy Edouard",
+      "Dumuid Félix",
+      "Golay Paul",
+      "Habegger Marie",
+      "Lude-Fardel",
+      "Meschia Antonio",
+      "Schopfer Victor"
     ],
-    "Charron": [
-      "Thévoz Eugène"
+    "Librairies.": [
+      "Aubert-Kallenberg Eugène",
+      "Aubert Suzanne",
+      "Chapallaz Henri",
+      "Froidevaux Armand"
     ],
-    "Coiffeur": [
-      "Dubuis Jean"
+    "Limes.": [
+      "Fabrique de vis, S. A. (mécanique fine)"
     ],
-    "Commission scolaire": [
-      "Roulet Samuel",
-      "Christinat Alfred",
-      "Vernet",
-      "Bardet Elise, Mme",
-      "Thévoz-Roulet Nancy, Mme"
+    "Lingerie, articles blancs.": [
+      "Baumann Marguerite",
+      "Brunner Martha",
+      "Le Louvre",
+      "Martin & Co.",
+      "Reymond Hélène"
     ],
-    "Couturières": [
-      "Delacour Alice, Mlle",
-      "Delacour-Cuany Eugénie",
-      "Jaunin-Blanc Marthe",
-      "Morel Emma",
-      "Morier H., Mme"
+    "Lingères.": [
+      "Blanc-Rossier, dame",
+      "Zwahlen-Dessiex Alice",
+      "Zbinden, Vve"
     ],
-    "Epicerie": [
-      "Detrey Charles",
-      "Ducret Paul",
-      "Meyer E."
+    "Liquoristes.": [
+      "Bossotto Jean",
+      "Distillerie du Léman S. A.",
+      "Zwahlen Marie, Vve"
     ],
-    "Fourches et râteaux": [
-      "Delacour Fréd."
+    "Lunettes.": [
+      "Jaques Edmond",
+      "Meyer-Ruschetta Henri",
+      "Perrelet James"
     ],
-    "Inspecteur du bétail": [
-      "Detrey-Blanc Louis"
+    "Machines à coudre.": [
+      "Compagnie Singer",
+      "Schertlin, Mlle"
     ],
-    "Laitier": [
-      "Schwarz Arnold"
+    "Machines agricoles.": [
+      "Comptoir agricole S. A.",
+      "Forestier Albert"
     ],
-    "Instituteurs": [
-      "Baudraz John",
-      "Jaquinet Jeanne"
+    "Maison de repos.": [
+      "Capt Louis"
     ],
-    "Jardinier": [
-      "Meyer Edouard"
+    "Maison de santé.": [
+      "La Métairie, maison de santé privée"
     ],
-    "Maréchal": [
-      "Morier Paul"
+    "Marbriers et monuments funéraires.": [
+      "Mouthon Edouard",
+      "Rossier Charles",
+      "Magnin Robert"
     ],
-    "Pasteurs": [
-      "Vernet Marc",
-      "Bridel Victor"
+    "Maréchaux.": [
+      "Forestier Albert",
+      "Weder Gustave"
     ],
-    "Poste": [
-      "Blanc Georges"
+    "Maroquinerie.": [
+      "Le Louvre",
+      "Maire Paul"
     ],
-    "Rentiers": [
-      "Cornaz Henri",
-      "Morel Charles"
+    "Masseurs.": [
+      "Borgognon Ed.",
+      "Demont Paul",
+      "Reymond-Boss C."
     ],
-    "Selliers-Tapissiers": [
-      "Blanc-Bardet Auguste",
-      "Thévoz-Mayor Etienne"
+    "Matelassiers.": [
+      "Müller Gottfried",
+      "Noguet Louis"
     ],
-    "Sociétés": [
-      "d'agriculture",
-      "de chant",
-      "de laiterie",
-      "de musique",
-      "de tir aux armes de guerre",
-      "Tir de campagne et amis du Vully",
-      "de tir des bourgeois de Missy",
-      "du battoir à blé",
-      "Section de la Croix-Bleue",
-      "Syndicat agricole"
+    "Matériaux de construction.": [
+      "Berlie Frédéric",
+      "Teysseire & Cie"
     ],
-    "Téléphoniste": [
-      "Blanc Georges"
-    ],
-    "Veaux et porcs (commerce de)": [
-      "Bardet Alfred",
-      "Blanc Henri",
-      "Thévoz-Oulevey T.",
-      "Thévoz René"
-    ],
-    "Vélocipèdes": [
-      "Dubuis Jean",
-      "Cottier Paul"
-    ]
-  },
-  "ROSSENS": {
-    "Autorités communales": [
-      "Schüpbach Alfred",
-      "Gast Robert",
-      "Roux-Bersier Emile",
-      "Cachin Marius",
-      "Roux Fernand",
-      "Bartholomé Fritz"
-    ],
-    "Agriculteurs": [
-      "Bartholomé Fritz",
-      "Cachin Charles",
-      "Cachin Edouard",
-      "Morattel frères",
-      "Gast Robert",
-      "Roux Edouard",
-      "Roux Emile",
-      "Schertenleib Adolphe",
-      "Schüpbach Jean",
-      "Spielmann Alfred"
-    ],
-    "Assurance-vieillesse": [
-      "Société mutualiste de retraite",
-      "Rossier A."
-    ],
-    "Fourches (fab. de)": [
-      "Morattel frères"
-    ],
-    "Inspecteur du bétail": [
-      "Morattel J."
-    ],
-    "Scierie et battoir à blé": [
-      "Morattel frères"
-    ],
-    "Société": [
-      "de laiterie"
-    ]
-  },
-  "SASSEL": {
-    "Autorités communales": [
-      "Durussel Gilbert",
-      "Cosandey Ed.",
-      "Cosendai-Bersier Paul",
-      "Pitte Albert",
-      "Dufey Emile",
-      "Fivat César",
-      "Chevalley Alexis",
-      "Dufey Paul",
-      "Savary Jules",
-      "Fivat Albert"
-    ],
-    "Assesseur suppléant": [
-      "Cosandey Jules"
-    ],
-    "Assurance-vieillesse": [
-      "Associations mutualistes de retraite",
-      "Berger A."
-    ],
-    "Aubergiste": [
-      "Cosandey-Henzer Lily"
-    ],
-    "Cantonnier": [
-      "Cosandey Edouard"
-    ],
-    "Charcutier": [
-      "Dufey Alida"
+    "Mécaniciens.": [
+      "Atlas-Nyon, Manufacture suisse de méc. fine (S.A.)"
     ]
   }
 }

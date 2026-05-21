@@ -1,121 +1,221 @@
 {
-  "Ville de Payerne": {
-    "Chef de section.": [
-      "Poste de gendarmerie"
+  "FOREL-SUR-LUCENS": {
+    "Autorités communales": [
+      "Pidoux Jules",
+      "Tharin Robert",
+      "Pidoux Fernand",
+      "Pidoux Victor",
+      "Martin Jean",
+      "Badoux William",
+      "Briod Aloïs",
+      "Pidoux Marcel",
+      "Pidoux-Briod Jules",
+      "Briod Armand",
+      "Pidoux Louis",
+      "Jaquier Gustave"
     ],
-    "Chiffons (march. de).": [
-      "Goutte Emile"
+    "Agriculteurs": [
+      "Badoux Edmond",
+      "Briod Constant",
+      "Briod Léon",
+      "Lemat frères",
+      "Martin Jean",
+      "Pidoux Alcide",
+      "Pidoux Aloïs",
+      "Pidoux Emile",
+      "Pidoux frères",
+      "Pidoux frères",
+      "Pidoux Fernand",
+      "Pidoux Jules",
+      "Pidoux Jules",
+      "Pidoux Aimé, d'Auguste",
+      "Pidoux-Lagnaz Jean-Louis",
+      "Pidoux Elise",
+      "Rey Emile",
+      "Jaquier Gustave"
     ],
-    "Cinématographe.": [
-      "Cinéma Apollo",
-      "Cinéma Beaulieu",
-      "Rouvenaz Marie"
+    "Commission scolaire": [
+      "Rey Ernest",
+      "Briod Aloïs",
+      "Briod Armand"
     ],
-    "Clos d'équarrissage.": [
-      "Milliquet M."
+    "Cordonnier": [
+      "Pidoux William"
     ],
-    "Coiffeurs.": [
-      "Bachofen Otto.",
-      "Beaufils dame (dames)",
-      "Cosandey-Della-Chiesa, dame (dames)",
-      "Bonny Ernest",
-      "Doudin Frédéric",
-      "Savary Georges",
-      "Steinmann G. (dames)",
-      "Willommet A."
+    "Epicerie": [
+      "Pidoux Héli"
     ],
-    "Combustibles.": [
-      "Delessert Paul.",
-      "Favre & Cie (S. A.)",
-      "Goutte Emile",
-      "Martin-Pittet, Vve de Louis.",
-      "Rapin Jules"
+    "Inspecteur du bétail": [
+      "Pidoux Numa"
     ],
-    "Commissionnaire-expéditeur.": [
-      "Pahud frères."
+    "Instituteurs": [
+      "Tharin Robert",
+      "Anex Edith"
     ],
-    "Commission scolaire.": [
-      "Capt Marius",
-      "Bornand Jules",
-      "Grand Benjamin.",
-      "Jomini-Husson Benjamin.",
-      "Mayor Gustave",
-      "Perrin-Givel Numa.",
-      "Wulliémoz Ernest."
+    "Lingère": [
+      "Jaquier Berthe"
     ],
-    "Confections. Tissus.": [
-      "Aux Galeries Vaudoises",
-      "Bladt P.",
-      "Assal-Baudet L.",
-      "Brunschwig Paul",
-      "Dresco & Cie.",
-      "Gingins-Berger Adèle",
-      "Gunzberger Georges",
-      "Meyer Robert.",
-      "Rossier-Pahud Henri",
-      "Tissot Henri"
+    "Maréchal": [
+      "Pidoux Héli"
     ],
-    "Confiseurs.": [
-      "Baumgartner Fritz.",
-      "Porchet Robert.",
-      "Guggi Robert.",
-      "Husson Henri",
-      "Jaquier H.",
-      "Neuhaus E."
+    "Sociétés": [
+      "Caisse d'assurance contre les pertes du bétail",
+      "de fromagerie. R.",
+      "du battoir à grains. R.",
+      "Syndicat agricole. R."
     ],
-    "Constructeurs-mécaniciens.": [
-      "Fuchs Rob. & fils"
+    "Téléphoniste": [
+      "Pidoux Héli"
+    ]
+  },
+  "HERMENCHES": {
+    "Autorités communales": [
+      "Gavillet Eugène",
+      "Dessauges Alfred",
+      "Fiaux Henri",
+      "Fiaux Julien",
+      "Rod Emile",
+      "Fiaux Victor",
+      "Jayet Lucien",
+      "Gavillet Jean",
+      "Métraux Henri",
+      "Fiaux Lucien",
+      "Rod Auguste"
     ],
-    "Cordiers.": [
-      "Corderie de Payerne (S. A.)",
-      "Rossier Louis, père."
+    "Agriculteurs": [
+      "Augsburger Héli",
+      "Blaser Emile",
+      "Chalet Félix",
+      "Chalet John",
+      "Chalet Jules",
+      "Charmoy Emile",
+      "Corthésy Ami",
+      "Danalet Emile",
+      "Fiaux Fernand",
+      "Fiaux Constant",
+      "Fiaux Emile",
+      "Fiaux Félix",
+      "Fiaux Victor, de Louis",
+      "Grin Justin",
+      "Jayet Alexis",
+      "Javet Emile",
+      "Jayet John",
+      "Jayet Lucien",
+      "Métraux, hoirie d'Emile",
+      "Métraux, hoirie de Louis",
+      "Métraux Robert",
+      "Morel Constant",
+      "Rod Auguste",
+      "Roggeli Jean"
     ],
-    "Cordonniers.": [
-      "Andrist Charles",
-      "Bianchetto Jean",
-      "Carenini Jean",
-      "Charbonney Emile",
-      "Cherbuin Louis",
-      "Givel Marcel",
-      "Gloor Charles.",
-      "Gorgerat Virgile.",
-      "Hermann César.",
-      "Laurent Jules.",
-      "Matthys Fritz.",
-      "Morgenegg Edouard.",
-      "Perrin Eugène.",
-      "Perrin Henri",
-      "Rossier Jérôme",
-      "Siegrist-Liniger Th."
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Dessauges A."
     ],
-    "Coutellerie.": [
-      "Ischy-Savary Ls."
+    "Aubergiste": [
+      "Gribi Albert"
     ],
-    "Couvreurs.": [
-      "Ravet-Barmaverein Isidore.",
-      "Sansonnens Jules"
+    "Charpentier": [
+      "Bulloz Héli"
     ],
-    "Cuirs et Peaux (march. de).": [
-      "Serex-Jomini"
+    "Charron": [
+      "Augsburger Emile"
     ],
-    "Curé.": [
-      "Battistolo Louis."
+    "Commission scolaire": [
+      "Rod Emile"
     ],
-    "Dallage. Plafonds d'écuries sans condensations.": [
-      "Tuilerie Zbinden frères."
+    "Epicerie, mercerie": [
+      "Fiaux Victor"
     ],
-    "Denrées coloniales et benzine (en gros)": [
-      "Perrin frères"
+    "Inspecteur du bétail": [
+      "Métraux Hri."
     ],
-    "Dentistes.": [
-      "Capt Marius.",
-      "Perrin Théophile"
+    "Instituteurs": [
+      "Dessauges Alfred",
+      "Dessauges-Burnand Clara"
     ],
-    "Distilleries.": [
-      "Kocherhans Jacob.",
-      "Distillerie agricole Payerne-Corcelles",
-      "Savary Rob.",
-      "Danzeisen-Caille Willy."
+    "Maréchal": [
+      "Jayet Edouard"
+    ],
+    "Poste": [
+      "Chalet Alphonse"
+    ],
+    "Sage-femme": [
+      "Fiaux Marguerite"
+    ],
+    "Sellier": [
+      "Chanez Gustave"
+    ],
+    "Sociétés": [
+      "de fromagerie. R.",
+      "du Moulin agricole du Jorat. R."
+    ],
+    "Téléphoniste": [
+      "Fiaux Victor"
+    ]
+  },
+  "LOVATENS": {
+    "Autorités communales": [
+      "Léchaire Adrien",
+      "Léchaire Maurice",
+      "Léchaire Alfred",
+      "Giroud Eug.",
+      "Léchaire Constant",
+      "Ogay Octave",
+      "Pichonnat Edgar",
+      "Mojonnier Jules",
+      "Pichonnat Francis"
+    ],
+    "Agriculteurs": [
+      "Corthésy Héli",
+      "Germond Béat",
+      "Germond Ulysse",
+      "Giroud Jules",
+      "Léchaire Adrien",
+      "Léchaire Const.",
+      "Léchaire Aimé et Jules",
+      "Léchaire Jn",
+      "Léchaire Alfred",
+      "Léchaire Aug.",
+      "Mojonnier Henri",
+      "Mojonnier Jules",
+      "Ogay Daniel",
+      "Ogay Adrien",
+      "Ogay Justin",
+      "Ogay Octave",
+      "Ogay Ulysse",
+      "Pernet Edouard",
+      "Pichonnat Eug.",
+      "Pichonnat Fernand",
+      "Pichonnat Héli et Ernest"
+    ],
+    "Apiculteurs": [
+      "Giroud Henri",
+      "Pichonnat Héli"
+    ],
+    "Café": [
+      "Crausaz Pierre",
+      "café du Raisin"
+    ],
+    "Charron": [
+      "Piot Henri"
+    ],
+    "Commission scolaire": [
+      "Pichonnat Edgar",
+      "Giroud Eugène"
+    ],
+    "Cordonnier": [
+      "Giroud H."
+    ],
+    "Epicerie": [
+      "Maillard Jules"
+    ],
+    "Inspecteur du bétail": [
+      "Mojonnier Jules"
+    ],
+    "Instituteurs": [
+      "Badoux René",
+      "Pilloud Olga"
     ]
   }
 }

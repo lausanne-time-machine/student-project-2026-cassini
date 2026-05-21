@@ -1,105 +1,238 @@
 {
-  "VILLE DE VEVEY": {
+  "ORON-LE-CHATEL": {
+    "Commission scolaire": [
+      "Mayor Frédéric",
+      "Malherbe David"
+    ],
+    "Dépôt des postes": [
+      "Mayor Emile"
+    ],
+    "Entrepreneur de maçonnerie": [
+      "Desarzens Henri"
+    ],
+    "Epicerie": [
+      "Häfelfinger Ch."
+    ],
+    "Fers (mag. de)": [
+      "Häfelfinger Ch."
+    ],
+    "Fontainier": [
+      "Mayor Henri"
+    ],
+    "Garde-forestier cantonal": [
+      "Demiéville Gustave"
+    ],
+    "Inspecteur du bétail": [
+      "Corboz Julius"
+    ],
+    "Instituteur": [
+      "Viredaz Henri"
+    ],
+    "Machines agricoles": [
+      "Félix Ulysse",
+      "Häfelfinger Charles"
+    ],
+    "Maréchaux": [
+      "Félix Ulysse",
+      "Häfelfinger Charles"
+    ],
+    "Matériaux de construction": [
+      "Desarzens Henri"
+    ],
+    "Société": [
+      "de fromagerie"
+    ],
+    "Primeurs, vins": [
+      "Lottini Charles"
+    ]
+  },
+  "PALEZIEUX": {
+    "Président du Conseil communal": [
+      "Dovat Hri."
+    ],
+    "Syndic": [
+      "Chamot Paul"
+    ],
+    "Municipaux": [
+      "Chollet Henri",
+      "Boudry Henri",
+      "Dufey Charles",
+      "Dufey Emile"
+    ],
+    "Secrétaire": [
+      "Chollet Aimé"
+    ],
+    "Boursier": [
+      "Rossier Edouard"
+    ],
+    "Agriculteurs": [
+      "Besson Henri",
+      "Boudry Henri",
+      "Burnier Aimé",
+      "Cardinaux",
+      "Cardinaux Ulysse",
+      "Chamot Paul",
+      "Chevalley André",
+      "Chevalley François",
+      "Chevalley Robert",
+      "Chevalley Henri",
+      "Chevalley Aloïs",
+      "Chollet Alfred",
+      "Chollet Charles",
+      "Chollet Aimé",
+      "Chollet John",
+      "Chollet-Demiéville Henri",
+      "Chollet-Pasche Henri",
+      "Colonie de Serix",
+      "Demiéville Alfred",
+      "Demiéville Gustave",
+      "Dovat Henri",
+      "Dufey-Jan Emile",
+      "Dufey-Pasche Emile",
+      "Dufey Gustave",
+      "Graz Auguste",
+      "Jaunin Robert",
+      "Liaudet Ulysse",
+      "Maillard L.",
+      "Perroud Emile et Albert",
+      "Pilet Victor",
+      "Rouffy-Henchoz",
+      "Sonnay Frédéric",
+      "Volet Hermann",
+      "Zutter Fritz"
+    ],
+    "Apiculteurs": [
+      "Dovat Henri",
+      "Dufey Charles",
+      "Zutter Fritz"
+    ],
+    "Architecte": [
+      "Graz Auguste"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Porchet A."
+    ],
+    "Aubergistes": [
+      "Bängeli Jules",
+      "Chassot Jules",
+      "Weber Rosa"
+    ],
+    "Bétail (march. de)": [
+      "Chollet Jules"
+    ],
+    "Bois (march. de)": [
+      "Chollet Hri."
+    ],
+    "Boulanger": [
+      "Chaubert Léon"
+    ],
+    "Charron": [
+      "Mayor Alfred"
+    ],
+    "Chef de gare": [
+      "Brun"
+    ],
+    "Chef de halte": [
+      "Favez Paul"
+    ],
+    "Colonie agricole de Serix": [
+      "Tappy Jacques",
+      "Corthésy René",
+      "Michod Jules",
+      "Guignard"
+    ],
+    "Commission scolaire": [
+      "Mounoud Auguste",
+      "Dovat Albert",
+      "Chollet Aimé"
+    ],
+    "Cordonnier": [
+      "Dufey Charles"
+    ],
+    "Couturières": [
+      "Dufey Julie",
+      "Dufey Marguerite",
+      "Marguerat Elise"
+    ],
+    "Engrais chimiques": [
+      "Glasson E. & Cie"
+    ],
+    "Entrepreneur": [
+      "Ramoni Antoine"
+    ],
+    "Epicerie, mercerie": [
+      "Chevalley Aloïs",
+      "Comte Rosalie",
+      "Favre J.",
+      "Rossier Edouard"
+    ],
+    "Ferblantier": [
+      "Dufey Gustave"
+    ],
+    "Gypsier-peintre": [
+      "Reymond E."
+    ],
+    "Inspecteur du bétail": [
+      "Chollet Aimé"
+    ],
+    "Instituteurs": [
+      "Porchet Alfred",
+      "Dufey Eva"
+    ],
+    "Laitier": [
+      "Wegmüller E."
+    ],
+    "Matériaux de construction": [
+      "Glasson E. & Cie"
+    ],
+    "Officier d'état-civil": [
+      "Chamot Victor"
+    ],
+    "Pasteur": [
+      "Mounoud Auguste"
+    ],
+    "Poste": [
+      "Chevalley François",
+      "Favez Paul"
+    ],
+    "Scierie": [
+      "Chollet Henri"
+    ],
     "Sociétés": [
-      "Schmitz frères",
-      "Thorens Gustave père",
-      "Thorens G., fils",
-      "Turini & Cantoni"
+      "du cordon vert, rouge et blanc",
+      "de fromagerie",
+      "de laiterie de Monnéaz",
+      "de chant Echo des Campagnes",
+      "d'assurance du bétail bovin",
+      "Syndicat d'alpage et d'élevage"
     ],
-    "Peintres en voitures et enseignes.": [
-      "Schmitz frères"
+    "Téléphoniste": [
+      "Bängeli"
     ],
-    "Pelleteries et fourrures.": [
-      "« Au Tigre Royal », Maison Schlinger",
-      "Fritsché, Ch.",
-      "Gaudard M. et fils",
-      "Glatz-Huber M."
+    "Vins": [
+      "Chevalley Aloïs",
+      "Chollet Jules"
+    ]
+  },
+  "PENEY-LE-JORAT": {
+    "Président du Conseil général": [
+      "Gavillet Oscar"
     ],
-    "Pensions alimentaires.": [
-      "Bachmann Louise",
-      "Coste, Vve, Mme",
-      "Cottier Henri",
-      "Détez Jules-Joseph",
-      "Dorner Nancy",
-      "Genoud François",
-      "Henchoz, Mme",
-      "Jordan Eugène",
-      "Maillard, dame",
-      "Morel, Vve",
-      "Morvant René",
-      "Overnay François",
-      "Piretti Victor",
-      "Terretaz Ephise",
-      "Vernaz Rosa",
-      "Wexler Joseph-Xavier",
-      "Zaugg Rosa"
+    "Secrétaire": [
+      "Jaton Roger",
+      "Gavillet Jean"
     ],
-    "Pensionnats de demoiselles.": [
-      "Chamorel Eugénie",
-      "Fox, miss",
-      "Guillermet, dame, & Chart, miss",
-      "Rossier, Mmes",
-      "Schindler, Mlle"
+    "Syndic": [
+      "Jaton Constant"
     ],
-    "Pensionnats de jeunes gens.": [
-      "Corthésy Eug.",
-      "Sillig Max"
+    "Municipaux": [
+      "Chappuis Gustave",
+      "Gavillet César",
+      "Jaton Auguste",
+      "Gavillet Eugène"
     ],
-    "Pensions-familles.": [
-      "Bähler, Mlle",
-      "Beausire-Cornu, Mme",
-      "Germond. dame",
-      "Lambert M.. Mlle",
-      "Mettauer Marie-Anna. Mme",
-      "Nicole Anna. Mme",
-      "Revillard Cl. (messieurs)",
-      "Rochat E.",
-      "Ryffel, dame"
-    ],
-    "Perles fines (imitation).": [
-      "Zintgraff Ernest"
-    ],
-    "Pharmaciens.": [
-      "Bloch Jean-Jacques",
-      "Breuer-Lentès",
-      "Dessemontet Louis",
-      "Germond Pierre",
-      "Hansen N.",
-      "Morel Alice, Dlle, Pharmacie anglaise British and American Pharmacy",
-      "Vitek Jos."
-    ],
-    "Photographes.": [
-      "Cornaro Mad., Vve",
-      "Oberlin Lucien",
-      "Marolf Alf.",
-      "Thalmann Jacques",
-      "Rieder E."
-    ],
-    "Photographies (fournitures pour).": [
-      "Fransioli Joseph",
-      "Oberlin Lucien",
-      "Recordon Paul",
-      "Rieder E."
-    ],
-    "Pianos (march. et facteurs de).": [
-      "Demierre François",
-      "Fœtisch frères (S.A.)",
-      "Kerkow Waliska"
-    ],
-    "Pierres fines.": [
-      "Fell Louis",
-      "Steffen Jean"
-    ],
-    "Poêliers.": [
-      "Brunet François",
-      "S. A. Emile Pastore",
-      "Visconti Henri"
-    ],
-    "Poids et mesures.": [
-      "Ormond L."
-    ],
-    "Pompes funèbres (directeur des).": [
-      "Burki Charles fils"
+    "Boursier": [
+      "Gavillet Louis"
     ]
   }
 }

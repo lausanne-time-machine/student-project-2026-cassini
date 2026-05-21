@@ -1,120 +1,148 @@
 {
-  "VILLE DE MOUDON": {
-    "Poêliers": [
-      "Dubrit Alphonse",
-      "Jaquiéry Henri"
+  "GRANDSON": {
+    "Préfet de Ste-Croix": [
+      "Junod Albert"
     ],
-    "Police": [
-      "Corthésy Félix",
-      "Hennard Ernest"
+    "Receveur": [
+      "Guyaz Arthur"
     ],
-    "Poste": [
-      "Berdoz Alfred"
+    "Conservateur du registre foncier": [
+      "Martin Louis"
     ],
-    "Poteaux": [
-      "S. A. d'injection"
+    "Voyer du VIIe arrondissement": [
+      "Cand Frédéric"
     ],
-    "Poterie": [
-      "Blanc, Vve de Louis",
-      "Cuany, Mme",
-      "Jaggi & Rayroux sœurs",
-      "Pittet Eugène"
+    "Tribunal de district": [
+      "Fischer Ernest",
+      "Campiche Jules",
+      "Cottier Louis",
+      "Dagon-Rod François",
+      "Lassueur Auguste",
+      "Michaud François"
     ],
-    "Poudre (dépôt de)": [
-      "Bettex-Pahud Elise"
+    "Poursuites et faillites Grandson et Ste-Croix": [
+      "Chappuis Henri"
     ],
-    "Poudre d'os naturelle": [
+    "Président du Conseil communal": [
+      "Guyaz Arthur fils"
+    ],
+    "Secrétaire": [
+      "Guignet Hri",
+      "Gulloud Gustave"
+    ],
+    "Syndic": [
+      "Crosasso Jean"
+    ],
+    "Municipaux": [
+      "Zwahlen Henri",
+      "Strehl Ernest",
+      "Mermod Emile",
+      "Troxler Henri",
+      "Ischy Emile",
+      "Despland Ernest"
+    ],
+    "Boursier": [
+      "Colomb Fernand"
+    ],
+    "Huissier": [
+      "Charbon Hector"
+    ],
+    "Agriculteurs - vignerons": [
+      "Beyeler Edouard",
+      "Freymond Ernest",
+      "Gonin Chs",
+      "Genier Edouard",
+      "Mercier Augustin",
+      "Mercier William",
+      "Ray Louis",
+      "Richner Jacob",
+      "Séchaud Marc",
+      "Veyre Albert"
+    ],
+    "Antiquités": [
+      "Dubois Robert"
+    ],
+    "Apiculteurs": [
+      "Beausire Charles",
+      "Cruchet Ch.",
+      "Schnapp Florian",
+      "Simon Henri"
+    ],
+    "Appareilleur": [
+      "Morisetti Angelo"
+    ],
+    "Assurances": [
+      "La Suisse",
+      "La Zurich",
+      "Walter frères",
+      "La Genevoise",
+      "Colomb Fernand",
+      "Société suisse de Secours mutuels Helvétia",
+      "Mottaz Chs"
+    ],
+    "Association": [
+      "mutualistes de retraite",
+      "Guilloud Gustave"
+    ],
+    "Autos-Garages": [
+      "Cand frères",
+      "Robert René"
+    ],
+    "Banques": [
+      "Banque cantonale vaudoise",
       "Braillard Victor",
-      "Chelles Alexis"
+      "Crédit agricole de Grandson"
     ],
-    "Primeurs": [
-      "Bovay F. dame",
-      "Degoudron Louise",
-      "Guex-Rothen, Vve",
-      "Mayor-Viret Louis"
+    "Bétail (march. de)": [
+      "Gaillard René",
+      "Richner Jacob"
     ],
-    "Quincaillerie": [
-      "Besson Gustave",
-      "Braillard F. & fils",
-      "Cherpillod Albert",
-      "Faucherre Louis",
-      "Jaggi & Rayroux sœurs",
-      "Pittet Eugène"
+    "Blanchisseuses": [
+      "Chabloz-Guilloud",
+      "Koenig-Cottens Elise",
+      "Malherbes-Heuby Anna"
     ],
-    "Ramoneurs": [
-      "Dutoit Auguste et Maurice"
+    "Boucher": [
+      "Gasser E."
     ],
-    "Relieurs": [
-      "Faucherre Arnold",
-      "Perrier Frank"
+    "Boulangers": [
+      "Mutrux Marcel",
+      "Heuby Alfred",
+      "Jufer Fritz",
+      "Leuenberger Frédéric",
+      "Duruz Hector"
     ],
-    "Renseignements commerciaux": [
-      "Bertolini V.",
-      "Chapuis Louis",
-      "Cherpillod Emile",
-      "Déglon Ulysse",
-      "Mottaz Emile",
-      "Vuichoud Alfred",
-      "Zahnd L."
+    "Bureau de placement": [
+      "Pasche Ulysse"
     ],
-    "Sages-femmes": [
-      "Rod-Badoux Louise",
-      "Schneider Marguerite"
+    "Cafés": [
+      "Beyeler Jules",
+      "Charlet Maurice",
+      "Christin Elise",
+      "Colomb Arthur",
+      "Guggisberg Oscar",
+      "Genier",
+      "Mohler A.",
+      "Ischy Eug.",
+      "Wacker Ami"
     ],
-    "Scieries": [
-      "Scieries réunies Payerne-Moudon (S. A.)",
-      "Fischer A.",
-      "Mercanton Emile"
+    "Camionneurs-voituriers": [
+      "Cand frères",
+      "Landi Paul"
     ],
-    "Selliers": [
-      "Bertholet Ernest",
-      "Dutoit Paul",
-      "Hermann René"
+    "Cercueils": [
+      "Dubois Robert"
     ],
-    "Sépultures": [
-      "Corthésy Félix"
+    "Chapellerie": [
+      "Denger Gotthilft"
     ],
-    "Serruriers": [
-      "Dubrit Alphonse",
-      "Steck Louis",
-      "Steck Aloïs, père"
-    ],
-    "Sociétés": [
-      "Assurance mutuelle chevaline des Cercles de Moudon, Lucens et communes voisines",
-      "L'Abeille",
-      "Association du Vieux Moudon",
-      "Chambre des pauvres habitants",
-      "Coopérative de consommation",
-      "Distillerie agricole",
-      "Fédération suisse des fabricants de fromages à pâte molle",
-      "Infirmerie du district",
-      "L'Orchestre de Moudon",
-      "de laiterie",
-      "de la laiterie nouvelle",
-      "d'agriculture",
-      "des Amis du progrès agricole",
-      "des Armes Réunies",
-      "de gymnastique",
-      "de chant La Lyre",
-      "dramatique L'Arc-en-Ciel",
-      "de tir du Cordon vert et blanc",
-      "pour le développement de Moudon",
-      "des volontaires du district de Moudon (tir)",
-      "militaire (tir aux armes de guerre)",
-      "de pisciculture",
-      "d'assurance contre les pertes du bétail",
-      "des intérêts catholiques dans les districts de Moudon et d'Oron",
-      "ornithologique",
-      "du Moulin agricole",
-      "Syndicat d'élevage du bétail",
-      "Section de la Croix-Bleue",
-      "Union chrétienne de jeunes gens",
-      "Union instrumentale"
-    ],
-    "Tabacs et cigares. Voir Epicerie.": [
-      "Chapuis-Faucherre Louis",
-      "Cibis Franz",
-      "Fivaz & fils"
+    "Charcuteries": [
+      "Despland",
+      "Gaillard René",
+      "Gilgen Auguste",
+      "Guillet Constant",
+      "Ischy frères",
+      "Pache Marguerite"
     ]
   }
 }

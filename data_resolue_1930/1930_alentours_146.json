@@ -1,189 +1,125 @@
 {
-  "Ollon": {
-    "Cordonnier.": [
-      "Pension Les Bruyères",
-      "Monod-Bussard V.",
-      "Chalet des Sapins",
-      "Pension Pierrette"
+  "Ville de Morges": {
+    "Chef de gare": [
+      "Pernet Charles"
     ],
-    "Huileries": [
-      "Ambresin Ph.",
-      "Pittet Paul"
+    "Chef de section": [
+      "Scheibler Fritz"
     ],
-    "Inspecteur des montagnes": [
-      "Moret, François"
+    "Chiffons-métaux": [
+      "Maisonneuve Ls",
+      "Dupuis Héli",
+      "Ferrari Jean"
     ],
-    "Inspecteurs du bétail": [
-      "Anex Louis, dit Chenaud",
-      "Moret-Guex François",
-      "Dulex Jean",
-      "Anex",
-      "Amiguet Henri"
+    "Cigares et tabacs": [
+      "Blanc Marie, dame",
+      "Bloch, les fils",
+      "Cossard César",
+      "Favez Louis",
+      "Gerber Georges",
+      "Giroud Samuel",
+      "Golay William",
+      "Ethenoz William",
+      "Kohly Sophie",
+      "Lelourdy Emile",
+      "Linder Charles",
+      "Mottaz Victor",
+      "Mullener Charles",
+      "Piguet A.",
+      "Regamey Jules",
+      "Velan Fernand",
+      "Beyeler, Mlle"
     ],
-    "Instituteurs": [
-      "Bornand Charles",
-      "Cosandei Edmond",
-      "Meylan Charles",
-      "Delacrétaz Arnold",
-      "Jordan David",
-      "Parlier Louis",
-      "Pochon André",
-      "Rosset Alexis"
+    "Cinémas": [
+      "Cinéma S. A."
     ],
-    "Institutrices": [
-      "Isabel Charlotte",
-      "Chambovey Juliette",
-      "Greyloz Emma",
-      "Girod-Jaques Berthe",
-      "Morex Aline",
-      "Morex-Keller Justine",
-      "Corboz Marthe",
-      "Amiguet Augusta",
-      "Pradervand Mathilde",
-      "Gavillet Violette",
-      "Jaquier Berthe"
+    "Coiffeurs et coiffeuses": [
+      "Barrer Anna",
+      "Buhler Jean",
+      "Glayre H. (dame)",
+      "Gerber Georges",
+      "Grisel E., Mlle",
+      "Obrecht E.",
+      "Pache Louis",
+      "Roulet Henri"
     ],
-    "Justice de paix du cercle": [
-      "Jaquemin Ernest",
-      "Amiguet Albert",
-      "Anex-Guex Henri",
-      "Chamorel Félix",
-      "Moret H.",
-      "Girod Vincent"
+    "Commission scolaire": [
+      "Pelichet G."
     ],
-    "Laiteries": [
-      "Laiterie de Cramoisine",
-      "Laiterie Centrale",
-      "Laiterie Centrale Villars"
+    "Commissionnaire": [
+      "Savary Alexis"
     ],
-    "Librairie-papeterie": [
-      "Butner Louis",
-      "Thomas Pl."
+    "Confections": [
+      "Bloch-Weill, les fils",
+      "Chabloz Henri",
+      "Jaccard-Michel Arth., hoirs",
+      "Meyer frères & Cie",
+      "Meyer Sylvain",
+      "A la Renommée",
+      "Reymond-Duflon Charles",
+      "Savary & Brunner",
+      "Schmoll Alfred",
+      "Vernet A., Vve"
     ],
-    "Lingères": [
-      "Anex Marguerite",
-      "Buffat Elisa, Mlle",
-      "Moret-Keller Justine"
+    "Confiseries": [
+      "Charlet Marcel",
+      "Favre Albert",
+      "Hugonnet Benjamin",
+      "Krämer G., fils",
+      "Perdrix Jean",
+      "Vernet Charles",
+      "Walser Auguste",
+      "Widmann W. & Cie"
     ],
-    "Maçons": [
-      "Cantova Baptiste",
-      "Mérinat Emile"
+    "Conserves de fruits": [
+      "Vins sans alcool et fabr. de conserves (S. A.)"
     ],
-    "Maison d'enfants et institut": [
-      "Ferrier Bluette"
+    "Cordonniers": [
+      "Bettems Aloys",
+      "Chiocca Nicolas",
+      "Cochard Joseph",
+      "Christinet P.",
+      "Cuendet Joseph",
+      "Fessler E. fils & Cie",
+      "Gallina Giacomo",
+      "Perotti André",
+      "Schönholzer Ch.-Hri",
+      "Vuffray Henri fils",
+      "Zryd Charles"
     ],
-    "Maréchaux": [
-      "Amiguet Samuel",
-      "Luisier Alphonse",
-      "Mettraux",
-      "Tille Alexis"
+    "Corsets": [
+      "Chabloz Henri",
+      "Jaccard-Michel A."
     ],
-    "Médecins": [
-      "Brémond J.",
-      "Brémond Louis",
-      "Demiéville Ernest",
-      "Rossiaud"
+    "Couronnes mortuaires": [
+      "Arnold Edmond",
+      "Nicolier Jules",
+      "Reymond-Duflon"
     ],
-    "Menuisiers": [
-      "Dübi L.",
-      "Fankhauser Albert et fils",
-      "Hauenstein Gottfried"
+    "Courtier en vins": [
+      "Friederich Paul"
     ],
-    "Mercerie": [
-      "Anex Marg.",
-      "Borloz Sylvie",
-      "Jaquemin Ernest",
-      "Monod-Bussard Vincent",
-      "Moret Suzanne",
-      "Schärer Emile"
+    "Coutellerie": [
+      "Rieben Emile",
+      "Sollberger F.",
+      "Vuffray Ernest"
     ],
-    "Modes": [
-      "Michot Mlle"
-    ],
-    "Notaire": [
-      "Greyloz L.-A."
-    ],
-    "Officiers d'état civil": [
-      "Demartin P.",
-      "Anex-Guex Henri"
-    ],
-    "Pasteurs": [
-      "Fleury Jean",
-      "Dulex Philippe",
-      "Germond Henri"
-    ],
-    "Peintre (artiste)": [
-      "Rouge Frédéric"
-    ],
-    "Pensionnat": [
-      "Clerc Gaston"
-    ],
-    "Photographe": [
-      "Butner L.",
-      "Kunz"
-    ],
-    "Professeur de piano": [
-      "Vogel, Mlle"
-    ],
-    "Sages-femmes": [
-      "Durand Marie",
-      "Hauswirth Julie"
-    ],
-    "Scieries": [
-      "Ambresin Ph.",
-      "Dulex Gustave",
-      "Jaquerod",
-      "Mösching Adolphe",
-      "Pittier François"
-    ],
-    "Selliors-tapissiers": [
-      "Broyon Emile",
-      "Nabulon Jean",
-      "Pasche Louis",
-      "Treyvaud Eugène"
-    ],
-    "Serruriers": [
-      "Amiguet Samuel",
-      "Luisier A."
-    ],
-    "Sociétés": [
-      "Battoir et moulin agricole",
-      "Association viticole d'Ollon",
-      "Syndicat agricole d'Ollon",
-      "Caisse d'assurance du bétail d'Ollon (3e arrondissement d'inspection)",
-      "Caisse d'assurance du bétail de Chesières-Villars-Arveyes (1er arr.)",
-      "Laiterie d'Ollon",
-      "Laiterie de St-Triphon",
-      "Laiterie de Cramoisines",
-      "Laiteries de Huémoz, de Panex et d'Antagnes",
-      "Laiterie de Villy",
-      "S. A. du Petit Clos",
-      "Soc. des Amis de la Liberté",
-      "Société de l'Union de Huémoz",
-      "Société des Hôtels de Villars",
-      "Société des carrières de St-Triphon et Collombey",
-      "Section de la Croix-Bleue",
-      "Soc. immob. de Chesières",
-      "Crédit mutuel d'Ollon",
-      "Syndicat agr. de Panex-Plambuit",
-      "Société de laiterie de Villars, Chesières et Arveyes",
-      "Société « Les Chavonnes »",
-      "Société immobilière d'Arveyees"
-    ],
-    "Télégraphistes": [
-      "Amiguet Henri"
-    ],
-    "Téléphone": [
-      "Station publique à Ollon",
-      "Maison de Ville"
-    ],
-    "Tuilerie": [
-      "Croptier Henri"
-    ],
-    "Vins": [
-      "Association viticole",
-      "Demartin C.",
-      "Greyloz"
+    "Couturières": [
+      "Affolter Louise-Emma",
+      "Ancel Marie",
+      "Béguin-Matile Célestine",
+      "Benay Suzanne",
+      "Berney sœurs",
+      "Braun-Regamey, dame.",
+      "Buffe Louise",
+      "Charrière-Rochat Fréda",
+      "Francfort Angèle",
+      "Freiburghaus-Inat, dame",
+      "Gandillon E.",
+      "Gay-Daucher, dame",
+      "Jordan-Bourl'honno F.",
+      "Jayet A.",
+      "Kohly Sophie"
     ]
   }
 }

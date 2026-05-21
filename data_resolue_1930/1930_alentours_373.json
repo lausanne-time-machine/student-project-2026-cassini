@@ -1,236 +1,108 @@
 {
-  "FERREYRES": {
-    "Inspecteur du bétail": [
-      "Pingoud Lucien"
+  "MONTREUX": {
+    "Journaux (marchands de).": [
+      "Gautschy F.",
+      "Guenin",
+      "De Bois, Mme.",
+      "Henchoz Jeanne",
+      "Kiosque de la Rouvenaz",
+      "Kiosque de Bon-Port",
+      "Kiosque Gonthier",
+      "Kiosque Maffei",
+      "Kiosque Schmidt",
+      "Kiosque de Clarens",
+      "Lecoultre",
+      "Lehmann E.",
+      "Muller Paul",
+      "Stapfer Ch.",
+      "Zahler",
+      "Jomini César",
+      "Kunz Jacob",
+      "Leuenberger Lina",
+      "Mottaz Adèle",
+      "Piot Aimé",
+      "Pittet Clémence",
+      "Rochat Chs",
+      "Rusca Louis",
+      "Sarbach hoirs",
+      "Schillbach-Paris A.",
+      "Schüler & Cie"
     ],
-    "Instituteur": [
-      "Auberson Jules"
+    "Laboratoire d'analyses médicales.": [
+      "de Stoutz W.",
+      "Munier M."
     ],
-    "Laitier": [
-      "Benz Samuel"
+    "Lainerie.": [
+      "Buser, Kaiser & Cie",
+      "Chevalley & Joly",
+      "Emery sœurs",
+      "Jan A. & J.",
+      "Moser Marguerite",
+      "Petit Louvre (Au)"
     ],
-    "Menuisiers": [
-      "Chauvet Ern. et Ele."
+    "Laitiers.": [
+      "Bonjour Robert",
+      "Bonzon, père",
+      "Besserer Hort.",
+      "Bossert Charles",
+      "Braita H.",
+      "Cochard Ulysse",
+      "Corbaz Aloïs",
+      "Duclos Marc",
+      "Ducret L.",
+      "Dufaux Gustave",
+      "Gedet Emile",
+      "Geiser Emile",
+      "Gentil Francis.",
+      "Genton Léon",
+      "Glauser Jacques",
+      "Golay Arnold",
+      "Greiner Louis",
+      "Groux Albert",
+      "Kleinert Werner"
     ],
-    "Rentiers": [
-      "Burdet Fanny",
-      "Michaud Alfred",
-      "Michaud Fanny"
+    "Lapidaires.": [
+      "Allemann & Cie",
+      "Flury-Leutwyler M.",
+      "Kirschmann Ern."
     ],
-    "Sociétés": [
-      "de fromagerie",
-      "Battoir à grains",
-      "Syndicat agricole"
-    ]
-  },
-  "GOLLION": {
-    "Autorités communales": [
-      "Chanel John"
+    "Librairies.": [
+      "Descombes & Tissot",
+      "Faist Benj.",
+      "Jaccoud Louis",
+      "Kiosques de la Rouvenaz, de Bon Port et de la Grand'Rue",
+      "Lecoultre-Seitz",
+      "Librairie paroissiale",
+      "Muller Ed.",
+      "Payot & Cie",
+      "Rapaz Marguerite",
+      "Talon Charles",
+      "Wega, S. A.",
+      "Weilbach Auguste"
     ],
-    "Syndic": [
-      "Viret William"
-    ],
-    "Municipaux": [
-      "Mange Daniel",
-      "Berney Henri",
-      "Viret Ami",
-      "Chanel Lucien",
-      "Pelichet Alphonse",
-      "Viret Elie"
-    ],
-    "Agriculteurs": [
-      "Barillier Alfred et fils",
-      "Barillier Louis",
-      "Baudet William",
-      "Berney Henri",
-      "Chabanel John",
-      "Chabanel Jules",
-      "Chabanel W.",
-      "Chanel John",
-      "Chenaux Auguste",
-      "Chenaux Louis fils",
-      "Chenaux Maurice",
-      "Curchod Edouard",
-      "Gremay frères",
-      "Mange Daniel",
-      "Mange, hoirs de Louis",
-      "Maulaz François",
-      "Maulaz Laurent",
-      "Monachon, hoirs de Constant",
-      "Monachon Henri",
-      "Pelichet Armand",
-      "Pelichet Alphonse",
-      "Viret Alexis",
-      "Viret Ami",
-      "Viret Elie",
-      "Viret Emile",
-      "Viret William"
-    ],
-    "Apiculteurs": [
-      "Chenaux Fernand",
-      "Chenaux Maurice",
-      "Decrausaz Alfred",
-      "Savoie Casimir",
-      "Viret William"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Rochat J."
-    ],
-    "Aubergistes": [
-      "Dubois Henri",
-      "Viret Elie"
-    ],
-    "Boissellerie": [
-      "Gauthey Henri"
-    ],
-    "Boucher": [
-      "Curchod Jules"
-    ],
-    "Boulanger": [
-      "Borgeaud Ami"
-    ],
-    "Cantonniers": [
-      "Curchod Edouard",
-      "Curchod Jules"
-    ],
-    "Commission scolaire": [
-      "Chenaux Maurice",
-      "Pelichet Maurice",
-      "Viret Ami. fils"
-    ],
-    "Couturières": [
-      "Meystre Léa",
-      "Millioud Blanche",
-      "Séchaud Charlotte"
-    ],
-    "Entrepreneur": [
-      "Martinelli Jaques"
-    ],
-    "Epicerie, mercerie, tabacs": [
-      "Borgeaud Ami",
-      "Paquier Alfred"
-    ],
-    "Fourches et rateaux (fab. de)": [
-      "Jaquier Louis"
-    ],
-    "Inspecteur du bétail": [
-      "Viret Ami fils"
-    ],
-    "Instituteurs": [
-      "Rochat Justin",
-      "Muller Emilie"
-    ],
-    "Laitiers": [
-      "Fiechter Fritz",
-      "Simond Léon"
-    ],
-    "Maréchal": [
-      "Morier Albert"
-    ],
-    "Meunier": [
-      "Usine agricole du Moulinet",
-      "Savoie Casimir"
-    ],
-    "Parc avicole": [
-      "Höhn Auguste-Louis"
-    ],
-    "Poste": [
-      "Paquier Louis"
-    ],
-    "Sage-femme": [
-      "Chenaux Adèle"
-    ],
-    "Sellier": [
-      "Mauerhofer Charles"
-    ],
-    "Sociétés": [
-      "de fromagerie de Gollion",
-      "de fromagerie de Mussel",
-      "du battoir",
-      "Syndicat agricole",
-      "Armes de guerre",
-      "de chant",
-      "de gym.",
-      "Crédit mutuel Raiffeisen"
-    ],
-    "Téléphoniste": [
-      "Viret Elie"
-    ],
-    "Vignerons": [
-      "Chanel Charles",
-      "Chenaux Oscar",
-      "Curchod Jules",
-      "Curchod Ed",
-      "Decrausaz-Curchod Benjamin",
-      "Vallotton Jules"
-    ]
-  },
-  "GRANCY": {
-    "Autorités communales": [
-      "Devantay Armand",
-      "Rochat Edmond"
-    ],
-    "Syndic": [
-      "Devantay Rodolphe"
-    ],
-    "Municipaux": [
-      "Monnet Adr. fils",
-      "Monnet François",
-      "Demont Marius",
-      "David Arnold",
-      "Lavenex Emile",
-      "Clerc Marius"
-    ],
-    "Agriculteurs": [
-      "Bally Emile",
-      "Chauvy Charles",
-      "Clerc, hoirie",
-      "Clerc Henri",
-      "Clerc Ch.",
-      "Devantay Marius",
-      "Devantay Paul",
-      "Devantay Rod.",
-      "Lavenex Alfred",
-      "Moinat Alfred",
-      "Moinat Jean",
-      "Monnet François",
-      "Nicollier",
-      "Tissot frères",
-      "Tissot-Guex"
-    ],
-    "Amodiateurs": [
-      "Moinat Jean",
-      "Devantay Rod."
-    ],
-    "Boulanger": [
-      "Peter Robert"
-    ],
-    "Cafetiers": [
-      "Jaton, Veuve",
-      "Schenkel Arthur"
-    ],
-    "Charpentiers": [
-      "Gachet Emile",
-      "Roulet William"
-    ],
-    "Charron": [
-      "Panchaud John"
-    ],
-    "Commission scolaire": [
-      "Devantay Armand",
-      "Tissot Robert"
-    ],
-    "Couturière": [
-      "Devantay Alice"
-    ],
-    "Distillateur": [
-      "Moret Charles"
-    ],
-    "Epicerie, mercerie": [
-      "Guigger, Vve."
-    ],
-    "Inspecteur du bétail": [
-      "Devantay Camille"
+    "Lingerie.": [
+      "A la Renaissance",
+      "Albini Mme",
+      "Bergien frères",
+      "Botschko Rafischel",
+      "Buhler-Küng",
+      "Buser Kaiser & Cie",
+      "Bussien Ernestine",
+      "Clastres Pierre",
+      "Croset J. & E.",
+      "Desplanques Htte",
+      "Dost Mme",
+      "Dubler-Herzog",
+      "Duflon M., Mme",
+      "Fritsche-Koch J.",
+      "Geismar Bertha",
+      "Gilliéron Marthe",
+      "Graf-Jacot & Cie",
+      "Au Bas d'or",
+      "Hermann-Fuhrer, Mme",
+      "Hermann-Zahnd Edm.",
+      "Hofer, dame",
+      "Hofmann C."
     ]
   }
 }

@@ -1,196 +1,117 @@
 {
-  "EPESSES": {
-    "Vignerons-propriétaires.": [
-      "Mégroz Frédéric",
-      "Paley Emile",
-      "Paschoud Emile",
-      "Rod, hoirs d'Henri",
-      "Rouge, hoirs de Franç. T.",
-      "Wannaz Constant"
-    ]
-  },
-  "FOREL": {
-    "Autorités communales": [
-      "Delessert-Lavanchy Henri",
-      "Regamey Albert"
+  "Ville d'Yverdon": {
+    "Sociétés.": [
+      "Société de laiterie d'Yverdon",
+      "> de gymnastique « Ancienne »",
+      "> des Amis Gymnastes",
+      "> de gymnastique d'hommes",
+      "> immobilière de la Plaine",
+      "> coopérative immobilière des employés CFF",
+      "> coopérat. de consommation",
+      "> immobilière l'Etoile",
+      "> immobilière des Cygnes",
+      "> de secours mutuels en faveur des ouvriers malades résidant à Yverdon",
+      "> du Cercle d'Yverdon",
+      "> du Cercle ouvrier d'Yverdon",
+      "> La Fraternité, sect. d'Yverdon",
+      "> de bienfaisance",
+      "Loge maçonnique",
+      "Club des Echecs",
+      "Société de tempérance, Croix-Bleue",
+      "> de tempérance l'Avenir",
+      "> de tempérance l'Etoile",
+      "> la Pédale yverdonnoise",
+      "> Cyclo-club « Aurore »",
+      "> du Cycle-Club Excelsior",
+      "> Guidon des 4 Marronniers",
+      "> Velo-Club Stella",
+      "> de la fabrique de vis et boulons",
+      "> de foot-ball Concordia",
+      "> de foot-ball (Yverdon F.-C.)",
+      "> White-Star F.-C.",
+      "> du Moulin agricole",
+      "> de la distillerie agricole",
+      "> des bains d'Yverdon",
+      "> du Musée",
+      "> des Samaritains",
+      "> yverdonnoise de l'Ouvroir",
+      "> anonyme de l'usine électrique des Clées",
+      "> de musique, Chœur mixte",
+      "> de chant, La Récréation",
+      "> La Musette (féminine)",
+      "> La Lyre yverdonnoise",
+      "> l'Harmonie",
+      "> Echo du Nord (chorale du cercle ouvrier)",
+      "> des patrons maréchaux Yverdon, Grandson et env.",
+      "> des maitres charpentiers, menuisiers et ébénistes",
+      "> pour l'utilisation des fruits",
+      "> yverdonnoise d'alpage",
+      "> de tir",
+      "> Grutli romand, tir militaire",
+      "> des officiers",
+      "> fédérale des sous-officiers",
+      "> du Grutli romand et allemand",
+      "> agricole et viticole",
+      "> suisse des Voyageurs de commerce",
+      "Socal, S. A.",
+      "Syndicat agricole",
+      "Syndicat d'élevage",
+      "Syndicat des Marchands de bétail du canton de Vaud",
+      "Stade municipal",
+      "Union chrétienne de jeunes gens",
+      "Union de la paroisse allemande",
+      "Union nautique",
+      "Union suisse des propriétaires de chevaux de courses"
     ],
-    "Syndic": [
-      "Regamey Charles"
+    "Sténographie (prof. de).": [
+      "Delorme J., Dlle",
+      "Ecole Duployé",
+      "Mutrux René"
     ],
-    "Municipaux": [
-      "Dumard Alexandre",
-      "Conne Adrien",
-      "Grognuz Gustave",
-      "Gilliéron Jules",
-      "Cordey Vincent",
-      "Parisod Gustave"
+    "Spécialités pharmaceutiques.": [
+      "« Cepha », A. G. Petitat, S. A."
     ],
-    "Secrétaire": [
-      "Richard Constant"
+    "Tabacs et cigares (fab. de).": [
+      "Hermann Ed.",
+      "S. A. Vautier frères & Cie"
     ],
-    "Boursier": [
-      "Paschoud Alfred"
+    "Tabacs et cigares": [
+      "Baehler M.",
+      "Bovard-Collet H.",
+      "Cochet Jules",
+      "Hiertzeler, dame",
+      "Chevalley Irma",
+      "Cuérel C.",
+      "Decoppet-Piguet M.",
+      "Henriod Emile",
+      "Leuenberger Robert",
+      "Pellaux Caroline",
+      "Perrin",
+      "Petitpierre Ch.",
+      "Robellaz-Chevallier Jn-Ls",
+      "Société coopérative de consommation"
     ],
-    "Agriculteurs": [
-      "Bastian Hri. d'Aug.",
-      "Biedermann Ele",
-      "Bovet Frédéric",
-      "Bovet Henri",
-      "Chappuis frères",
-      "Chevalley Sœurs",
-      "Colomb frères",
-      "Cordey Samuel",
-      "Cordey Emile",
-      "Cordey Hri",
-      "Cordey Henri",
-      "Cordey Vincent et François",
-      "Cossy Aloïs et Alfr.",
-      "Delessert Frédéric",
-      "Ducros Alb.",
-      "Dumard Constant",
-      "Dumard Fréd.",
-      "Dumard-Bossy Alexre",
-      "Emery François",
-      "Gavin Emile",
-      "Gavin François-Ls",
-      "Lambelet Henri",
-      "Lavanchy François-Louis",
-      "Lavanchy frères",
-      "Mercanton Jules",
-      "Palaz Aloys",
-      "Paschoud Aimé",
-      "Paschoud Henri",
-      "Parisod Gustave",
-      "Parisod Hoirie",
-      "Pochon Louis",
-      "Porchet Hri fils",
-      "Regamey Charles-Frédéric",
-      "Reymond Emile",
-      "Reymond Frédéric",
-      "Richard",
-      "Richard Gustave",
-      "Richard Veuve",
-      "Rouge Louis",
-      "Rouge François",
-      "Regamev Albert",
-      "Reymond Vincent"
+    "Tailleurs.": [
+      "Bachelin Eug.",
+      "Bauer Charles",
+      "Bernasconi J.",
+      "Dick F.",
+      "Hämmerli Fritz",
+      "Karpf André",
+      "Sewer Aloïs",
+      "Roth Frantz",
+      "Schær Ernest",
+      "Stepaneck Frantz"
     ],
-    "Assesseur": [
-      "Rouge François"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Bühlmann L. inst."
-    ],
-    "Société mutualiste de retraite": [
-      "Chappuis A."
-    ],
-    "Auberges et cafés": [
-      "Borgeaud",
-      "Cordey Franç.",
-      "Chevalley Victor",
-      "Destraz-Lambelet T.",
-      "Duboux Léa",
-      "Pochon Louis",
-      "Richard Elise, Vve"
-    ],
-    "Bouchers": [
-      "Rouge Emile",
-      "Richard Auguste"
-    ],
-    "Boulangers": [
-      "Chevalley Victor",
-      "Cordey François"
-    ],
-    "Charpentiers": [
-      "Bastian Frédéric",
-      "Gilliéron-Richard O. T.",
-      "Légeret Frédéric"
-    ],
-    "Charrons": [
-      "Dumard Frédéric",
-      "Noverraz Oscar"
-    ],
-    "Chef de section": [
-      "Dumard Alexand."
-    ],
-    "Commission scolaire": [
-      "Richard Constant",
-      "Pasche Armand"
-    ],
-    "Cordonnier": [
-      "Margairaz U."
-    ],
-    "Epicerie, mercerie": [
-      "Chevalley Victor",
-      "Cordey François",
-      "Duboux, Vve",
-      "Gilliéron Florian"
-    ],
-    "Facteurs": [
-      "Bastian",
-      "Richard Constant"
-    ],
-    "Inspecteurs du bétail": [
-      "Bastian Eugène",
-      "Bovet Henri",
-      "Cordey Franç.-Frédér.",
-      "Dumard Frédéric"
-    ],
-    "Instituteurs": [
-      "Bühlmann Ls",
-      "Marmier Richard",
-      "Pulfer André",
-      "Cavin Charles",
-      "Rouge Charlotte"
-    ],
-    "Maréchaux": [
-      "Laurent",
-      "Troyon"
-    ],
-    "Mécanicien - électricien": [
-      "Chappuis Emilie",
-      "Grognuz Yvonne"
-    ],
-    "Menuisiers": [
-      "Bastian Alexis",
-      "Noverraz François & fils"
-    ],
-    "Meunier": [
-      "Usine agricole"
-    ],
-    "Officier d'état-civil": [
-      "Rouge Franç."
-    ],
-    "Pensions": [
-      "Chollet-Cossy",
-      "Pochon Alf."
-    ],
-    "Poste": [
-      "Bastian Louise"
-    ],
-    "Scieur": [
-      "Usine agricole"
-    ],
-    "Sociétés": [
-      "militaire",
-      "Tir aux armes de guerre",
-      "de laiterie des Cornes de Cerf",
-      "de laiterie du Pigeon",
-      "de chant l'Avenir",
-      "du battoir à grain",
-      "Section de la Croix-Bleue",
-      "Union instrumentale",
-      "Caisse de Crédit mutuel du Pigeon"
-    ],
-    "Tailleuses": [
-      "Bovet Emma",
-      "Cordey Emilie"
-    ],
-    "Téléphone communal": [
-      "Cordey François"
-    ],
-    "Vélos": [
-      "Chappuis Emile"
+    "Tailleuses.": [
+      "Bernasconi-Béati J.",
+      "Cagna, Dlle",
+      "Collomb Alice",
+      "Delvecchio Rose",
+      "Desponds, dame",
+      "Duruz-Thür E., dame",
+      "Gerber E.",
+      "Graa Hélène"
     ]
   }
 }

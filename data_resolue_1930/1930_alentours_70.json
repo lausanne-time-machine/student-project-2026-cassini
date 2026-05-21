@@ -1,216 +1,250 @@
 {
-  "ECHANDENS": {
-    "Téléphone": [
-      "Auberge de Commune",
-      "Rieben Daniel",
-      "Commune",
-      "Marendaz Henri"
-    ],
-    "Vignerons": [
-      "Cachin Henri",
-      "Cevey frères",
-      "Gremion Victor",
-      "Lattion F.",
-      "Poraz Alois"
-    ],
-    "Divers": [
-      "Gueydan de Roussel",
-      "Mackay, Vve",
-      "Nussli Julie",
-      "Paley Emile",
-      "Redard Jeanne",
-      "Rivie J.",
-      "Viret Charles",
-      "Daccord Ls."
-    ],
-    "Rentiers": [
-      "de Mandrot Adrien",
-      "Monod René",
-      "Robert Paul",
-      "Oulevay Alf."
-    ],
-    "Société": [
-      "de laiterie"
-    ]
-  },
-  "ECHICHENS": {
+  "PENTHAZ": {
     "Président du Conseil général": [
-      "Daccord Louis"
-    ],
-    "Secrétaire": [
-      "Ménétrey Théodore",
-      "Perey Constant"
+      "Favey Gustave"
     ],
     "Syndic": [
-      "Mermoud Alexis"
+      "Bonzon Ernest"
     ],
     "Municipaux": [
-      "de Mandrot Adrien",
-      "Décombaz Jules",
-      "Kirschmann Maurice",
-      "Schmidely Ernest"
+      "Meystre Armand",
+      "Bonzon Adrien de Julien",
+      "Bonzon François",
+      "Bonzon Lucien"
+    ],
+    "Secrétaire": [
+      "Favey Robert"
     ],
     "Boursier": [
-      "de Mandrot Adrien"
-    ],
-    "Huissier": [
-      "Pause Alfred"
+      "Bonzon Adrien de Julien"
     ],
     "Agriculteurs": [
-      "Blanchoud Louis",
-      "Bourloud Jules",
-      "Croisier Alfred",
-      "Favre Jules",
-      "Gros François",
-      "Mermoud",
-      "Roulet Victor",
-      "Tissot Jules"
+      "Bonzon-Cavat Félix",
+      "Bonzon-Chappuis Ernest",
+      "Bonzon frères",
+      "Bonzon-Gleyre Charles",
+      "Bonzon-Gleyre Henri",
+      "Bonzon Gustave",
+      "Bonzon Jules-Alexandre",
+      "Bonzon J.-H.",
+      "Bonzon-Gaillard Adrien",
+      "Bonzon-Picot Ls",
+      "Chantran Louis",
+      "Cuanoud Auguste",
+      "Desponds Ls",
+      "Favey-Bonzon Samuel",
+      "Favey Emile",
+      "Favey Georges",
+      "Favey Gustave",
+      "Favey Robert et Armand",
+      "Gerber Jacob",
+      "Kuffer frères",
+      "Michaud Robert",
+      "Morier Eugène"
     ],
-    "Asile rural vaudois": [
-      "Chamot Marius"
+    "Apiculteurs": [
+      "Delay Léon",
+      "Zurbuchen"
     ],
     "Mutualité scolaire de retraite": [
-      "Ménétrey Th."
+      "Gailloud John"
     ],
-    "Mutualité scolaire de retraite de l'Asile rural": [
-      "M. Daccord"
+    "Aubergistes": [
+      "Bonzon Henri"
     ],
-    "Café": [
-      "Marendaz Henri"
-    ],
-    "Clinique": [
-      "Mieg-Périllard Rose-Hélène"
-    ],
-    "Commission scolaire": [
-      "Schmidely Gustave",
-      "de Mandrot Adr.",
-      "Mermoud Alexis",
-      "Daccord Ls."
-    ],
-    "Cordonnerie": [
-      "Wuarchoz André"
-    ],
-    "Entreprise de maçonnerie": [
-      "Thélin Oscar"
-    ],
-    "Epiceries": [
-      "Corbaz Emile",
-      "Croisier-Pilet P."
-    ],
-    "Gypsier-peintre": [
-      "Adamina Albert"
-    ],
-    "Inspecteur du bétail": [
-      "Widmer Ls."
-    ],
-    "Instituteurs": [
-      "Ménétrey Théodore",
-      "Crot Julia"
-    ],
-    "Pépiniériste": [
-      "Baudet A."
-    ],
-    "Poids public": [
-      "Favre M."
-    ],
-    "Poste": [
-      "Wuarchoz André"
-    ]
-  },
-  "ECUBLENS": {
-    "Président du Conseil communal": [
-      "Ducret François"
-    ],
-    "Secrétaire": [
-      "Masson Ami",
-      "Masson Ch."
-    ],
-    "Syndic": [
-      "Ducret Elie"
-    ],
-    "Municipaux": [
-      "Jaquenoud Aloïs",
-      "Roulier Paul",
-      "Masson Eugène",
-      "Masson François"
-    ],
-    "Boursier": [
-      "Glardon Antoine"
-    ],
-    "Associations mutualistes de retraite": [
-      "Martin R."
-    ],
-    "Auberges": [
-      "Mingard Octave",
-      "Masson François",
-      "Masson Louis",
-      "Masson Jeanne"
-    ],
-    "Battoir à blé": [
-      "Société coopérative"
-    ],
-    "Bois (march. de)": [
-      "Rouge Henri"
-    ],
-    "Boucher": [
-      "Masson Auguste"
-    ],
-    "Boulanger": [
-      "Parisod Ele"
+    "Bétail": [
+      "Chalet Eugène"
     ],
     "Charron": [
-      "Masson Ch."
-    ],
-    "Charcuterie": [
-      "Masson A."
-    ],
-    "Chef de section": [
-      "Ducret François"
-    ],
-    "Chiens, élevage": [
-      "de Tavel, Mlle"
+      "Lavanchy Aimé"
     ],
     "Commission scolaire": [
-      "Favre Henri",
-      "Jaquenoud Aloïs",
-      "Glardon Antoine"
+      "Bonzon-Gleyre Charles",
+      "Favey Robert"
     ],
-    "Comité de couture": [
-      "Bonzon L.",
-      "Masson Jeanne",
-      "Fivaz"
+    "Charpentier": [
+      "Bonzon Henri"
     ],
-    "Distillateur": [
-      "Masson Henri"
+    "Epicerie, mercerie, tabacs": [
+      "Bonzon-Favey Adr.",
+      "Chanson Julien"
     ],
-    "Electricien": [
-      "Bourgoz Adrien"
+    "Hospice de Saint-Loup": [
+      "Béguin Paul",
+      "Curchod Henri"
     ],
-    "Epiceries": [
-      "Gonthier Louis",
-      "Musy Emile",
-      "Parisod Emile",
-      "Viret Alice"
-    ],
-    "Gypsier": [
-      "Masson Gustave d'Ami"
+    "Huilerie": [
+      "Bonzon frères"
     ],
     "Inspecteur du bétail": [
-      "Masson Ernest"
+      "Bonzon-Gleyre Henri"
     ],
     "Instituteurs": [
-      "Girardet Lucien",
-      "Grasset Robert",
-      "Cuanillon Estelle",
-      "Martin Robert",
-      "Rossier Augusta"
+      "Gailloud John",
+      "Meystre R."
     ],
-    "Jardinier": [
-      "Masson Aloïs"
+    "Laitier": [
+      "Rapin Oscar"
     ],
-    "Justice de paix": [
-      "Martin Fr.",
-      "Musy E."
+    "Maréchal": [
+      "Meystre Armand"
+    ],
+    "Mécanicien": [
+      "Meystre A."
+    ],
+    "Meuniers": [
+      "Bonzon frères",
+      "Chabloz L. & Cie"
+    ],
+    "Poste": [
+      "Ernst Henri"
+    ],
+    "Reliure artistique": [
+      "Favey, Dlles"
+    ],
+    "Rentiers": [
+      "Favey Henri",
+      "Favey Dlle"
+    ],
+    "Serrurerie-garage": [
+      "Meystre Alfred"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "Syndicat agricole",
+      "Assurance du bétail",
+      "de chant"
+    ],
+    "Taillandier": [
+      "Meystre Armand"
+    ],
+    "Téléphoniste": [
+      "Bonzon Adèle Vve"
+    ],
+    "Vigneron": [
+      "Favey Julien"
+    ],
+    "Divers": [
+      "Duplain J."
+    ]
+  },
+  "SENARCLENS": {
+    "Président du Conseil général": [
+      "Rochat Eugène"
+    ],
+    "Secrétaire": [
+      "Brun Gustave"
+    ],
+    "Syndic": [
+      "Gleyre Ernest"
+    ],
+    "Municipaux": [
+      "Guerry Constant",
+      "Rochat Charles",
+      "Brun Maurice",
+      "Berney Jean"
+    ],
+    "Boursier": [
+      "Linder Louis"
+    ],
+    "Agriculteurs": [
+      "Berney Jean",
+      "Brun Lucien",
+      "Brun Maurice",
+      "Cevey Henri",
+      "Demont Fernand",
+      "Dumauthioz Chs",
+      "Dupuis Ami",
+      "Dupuis Frédéric",
+      "Gleyre Ch.",
+      "Gleyre Ernest",
+      "Gleyre John",
+      "Guerry Constant",
+      "Leutwyler Albert",
+      "Linder Ls.",
+      "Mange Louis, Soveillame",
+      "Potterat Ernest",
+      "Rochat frères"
+    ],
+    "Bestiaux": [
+      "Potterat E."
+    ],
+    "Café": [
+      "Yerli Marc"
+    ],
+    "Commission scolaire": [
+      "Piotet",
+      "Gleyre Chs",
+      "Linder Louis"
+    ],
+    "Couturières": [
+      "Dupuis Clara",
+      "Dupuis Suzanne"
+    ],
+    "Facteur": [
+      "Brun Lucien"
+    ],
+    "Inspecteur du bétail": [
+      "Dupuis Ern."
+    ],
+    "Instituteurs": [
+      "Dutoit André",
+      "Métraux Germaine"
+    ],
+    "Laitier": [
+      "Weinmann Charles"
+    ],
+    "Maréchal": [
+      "Guex Charles"
+    ],
+    "Société": [
+      "de fromagerie"
+    ],
+    "Téléphoniste": [
+      "Cevey Henri"
+    ]
+  },
+  "SEVERY": {
+    "Président du Conseil général": [
+      "Braissant Paul",
+      "Cart Jules"
+    ],
+    "Secrétaire": [
+      "Girard Edward",
+      "Chapuis François"
+    ],
+    "Syndic": [
+      "Lavanchy Aloïs"
+    ],
+    "Municipaux": [
+      "Rithner Aloïs",
+      "Tardy Adrien",
+      "Krieg Georges",
+      "Monnier Olivier fils"
+    ],
+    "Boursier": [
+      "Rithner Aloïs"
+    ],
+    "Agriculteurs": [
+      "Bovey Emile",
+      "Braissant Paul",
+      "Cart Jules",
+      "Dubugnon Ls",
+      "Gaudin Ern.",
+      "Gaudin frères",
+      "Girard Edouard",
+      "Girard Georges",
+      "Girard John",
+      "Henneberger Fernand",
+      "Hindermann Georges",
+      "Jaccard Eug.",
+      "Krieg Georges",
+      "Lavanchy Aloïs",
+      "Meylan-Besson, hoirie",
+      "Monnier Olivier",
+      "Oulevay Francis",
+      "Rithener Aloïs",
+      "Rithener Ernest"
     ]
   }
 }

@@ -1,228 +1,128 @@
 {
-  "VILLARS-LE-COMTE": {
-    "Municipaux": [
-      "Bulloz Edward",
-      "Jaquier Lucien",
-      "Bulloz Edward"
+  "Sainte-Croix": {
+    "Pensionnats pour jeunes filles.": [
+      "Jaccard Sœurs",
+      "Junod Alfred"
     ],
-    "Agriculteurs": [
-      "Martin Ami",
-      "Pidoux Victor",
-      "Pidoux Jules",
-      "Pidoux Louis",
-      "Pidoux Emile",
-      "Pidoux L.-Oscar",
-      "Pidoux Henri et Ami"
+    "Pensions-familles": [
+      "Cand Edmond"
     ],
-    "Mutualité scolaire de retraite": [
-      "Mani Ch."
+    "Pensions bourgeoises.": [
+      "Bornand-Egli Eugène",
+      "Cercle Démocratique",
+      "Lassueur Aug.",
+      "Thorens Henri",
+      "Junod Edouard",
+      "Krebs Henri",
+      "Neuenschwander A.",
+      "Pittet Paul",
+      "Rumley Ami",
+      "Weber, Mesdames",
+      "Zurbrugg Ephraïm"
     ],
-    "Buraliste postal": [
-      "Pidoux Emma"
+    "Pharmacien.": [
+      "Peter Jean"
     ],
-    "Charpentier": [
-      "Pidoux Auguste"
+    "Photographes.": [
+      "Joseph",
+      "Rochat Paul"
     ],
-    "Commission scolaire": [
-      "Pidoux Ls-Oscar",
-      "Pidoux Jean",
-      "Bulloz Edward"
+    "Poêliers.": [
+      "Burnens Marc",
+      "Gueissaz Charles"
     ],
-    "Epicerie, mercerie": [
-      "Troillet Louisa"
+    "Poste et télégraphe.": [
+      "Klein Charles",
+      "Junod Georges",
+      "Junod Bertha",
+      "Roulet Edmond"
     ],
-    "Ferblantier": [
-      "Bulloz Adolphe"
+    "Préfet.": [
+      "Junod Albert"
     ],
-    "Inspecteur du bétail": [
-      "Bulloz Edward"
+    "Professeur de musique": [
+      "Jaccard Marguerite",
+      "Mellana Louis",
+      "Thorens Marie",
+      "Thorens Marthe"
     ],
-    "Instituteur": [
-      "Mani Charles"
+    "Quincaillerie.": [
+      "Jaccard-Mutrux Ls.",
+      "Joseph Eug., Vve",
+      "Martin Louis"
     ],
-    "Maréchal": [
-      "Jaquier Jules"
+    "Ramoneur.": [
+      "Pitton Arthur"
     ],
-    "Société": [
-      "de fromagerie"
+    "Relieurs.": [
+      "Basset Louis",
+      "Paillard Louis"
     ],
-    "Téléphoniste": [
-      "Jaquier Jules"
-    ]
-  },
-  "VILLARS-MENDRAZ": {
-    "Autorités communales": [
-      "Pochon Victor",
-      "Jaton Aimé",
-      "Jaton Héli",
-      "Jaton-Cachin Louis",
-      "Jaton Jules d'Adrien",
-      "Jaton Jules",
-      "Cornu Ern.",
-      "Jaton Jules"
+    "Repasseuses-blanchisseuses.": [
+      "Chollet Alice",
+      "Cuendet-Muller",
+      "Gonthier Marie",
+      "Jaques Adrienne",
+      "Mellana, dame",
+      "Mouquin Rose"
     ],
-    "Agriculteurs": [
-      "Besson Louis",
-      "Braillard Jules",
-      "Chappuis Lucien",
-      "Cornu Ernest",
-      "Duperrex Louis",
-      "Dällenbach Otto",
-      "Jaton Héli",
-      "Jaton Henri",
-      "Jaton J.-Louis",
-      "Jaton Jules"
+    "Restaurants.": [
+      "Le Foyer"
     ],
-    "Mutualité scolaire de retraite": [
-      "Pochon V."
+    "Sages-femmes.": [
+      "Calame Julie",
+      "Jaccard Julie"
     ],
-    "Buraliste postal": [
-      "Jaton Elmire"
+    "Scieurs.": [
+      "Bourquin Louis",
+      "Jaccard Alfred",
+      "Jaccard Georges",
+      "Jaques Ami",
+      "Mermod frères",
+      "Thévenaz Adrien"
     ],
-    "Café": [
-      "Buache Fréd."
+    "Selliers.": [
+      "Urech Rod."
     ],
-    "Cantonnier": [
-      "Jaton Jules"
+    "Serruriers.": [
+      "Burnens Marc",
+      "Gueissaz Ch."
     ],
-    "Charron": [
-      "Jaccaud Louis"
-    ],
-    "Commission scolaire": [
-      "Jaccaud William",
-      "Jaton Jules d'Adrien",
-      "Jaton Jules de Jean-Pierre"
-    ],
-    "Epicerie, mercerie": [
-      "Monod Clara"
-    ],
-    "Inspecteur du bétail": [
-      "Jaton Jean-Ls"
-    ],
-    "Instituteurs": [
-      "Pochon Victor",
-      "Pochon Marguerite"
-    ],
-    "Maçon": [
-      "Liard Félix"
-    ],
-    "Sociétés": [
-      "de laiterie",
-      "de tir Les Patriotes du Jorat",
-      "Fondation Félix Cornu"
-    ],
-    "Téléphoniste": [
-      "Buache Fréd"
-    ]
-  },
-  "VUCHERENS": {
-    "Autorités communales": [
-      "Vuagniaux Ls-Adolphe",
-      "Duc Maurice",
-      "Cherpillod Auguste",
-      "Cavin Héli de Samuel",
-      "Gavillet Adrien",
-      "Cherpillod Fern.",
-      "Cherpillod Ulysse",
-      "Porchet Elie",
-      "Vuagniaux Léon de Pierre"
-    ],
-    "Agriculteurs": [
-      "Cherpillod Fernand",
-      "Sarrandin",
-      "Cherpillod Elie",
-      "Cherpillod Ulysse",
-      "Cherpillod Alphonse",
-      "Cuénoud Louis T.",
-      "Favre Jules",
-      "Jaquier Emile",
-      "Vuagniaux Gustave",
-      "Vuagniaux L.-A.",
-      "Vuagniaux Léon",
-      "Vuagniaux Edmond"
-    ],
-    "Apiculteurs": [
-      "Besson Maurice",
-      "Cherpillod Germain",
-      "Cherpillod Lucien",
-      "Duc, hoirie",
-      "Gavillet Héli",
-      "Porchet Alfr.",
-      "Schneider Gott.",
-      "Vuagniaux Adolphe",
-      "Vuagniaux Ernest"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Tzaud L."
-    ],
-    "Boulanger": [
-      "Ansermet Louis"
-    ],
-    "Cafés": [
-      "Lorini Vital",
-      "Laurent-Cavin Jenny",
-      "Ansermet Louis"
-    ],
-    "Cantonnier": [
-      "Jaquier Henri"
-    ],
-    "Charpentier": [
-      "Vuagniaux Ernest"
-    ],
-    "Charrons": [
-      "Gavillet Adrien",
-      "Porchet Victor"
-    ],
-    "Commission scolaire": [
-      "Vuagniaux Léon",
-      "Vuagniaux Edmond",
-      "Vuagniaux Abel"
-    ],
-    "Cordonnier": [
-      "Jaquier Héli"
-    ],
-    "Couturières": [
-      "Corthésy Juliette",
-      "Vuagniaux Augustine"
-    ],
-    "Entrepreneur en bâtiments": [
-      "Lorini Vital"
-    ],
-    "Epicerie": [
-      "Cherpillod Alice Mme",
-      "Chevalley Philippe"
-    ],
-    "Ferblantier": [
-      "Cherpillod Ele"
-    ],
-    "Fromager": [
-      "Schneider Gottfried"
-    ],
-    "Garde-forestier": [
-      "Porchet Elie"
-    ],
-    "Inspecteur du bétail": [
-      "Vuagniaux Victor"
-    ],
-    "Instituteurs": [
-      "Buttex Clémence",
-      "Tzaud Louis"
-    ],
-    "Laitier": [
-      "Bentler Alexandre"
-    ],
-    "Marchand de bestiaux": [
-      "Cuénoud Ls"
-    ],
-    "Maréchal": [
-      "Cavin Maurice"
-    ],
-    "Menuisiers-ébénistes": [
-      "Vuagniaux L- Marius",
-      "Vuagniaux Eugène"
-    ],
-    "Oeufs (Commerce d')": [
-      "Jaton-Cherpillod Marie"
+    "Sociétés.": [
+      "Bureau officiel de renseignements",
+      "Bornand John",
+      "Société de développement",
+      "» du Cercle démocratique",
+      "» immobilière de Ste-Croix",
+      "» du Musée",
+      "» de construction",
+      "» de construction « Bellevue », Ste-Croix",
+      "» immobilière de l'Arnon",
+      "» anonyme du Stand",
+      "» des Eaux de Ste-Croix",
+      "» de fromagerie de La Chaux",
+      "» de laiterie de Ste-Croix",
+      "» de laiterie du Chalet du Rocher",
+      "» de laiterie de La Sagne",
+      "» mutuelle de secours au décès « La Prévoyante »",
+      "» coopérative de consommation « l'Avenir »",
+      "» des salles de lecture",
+      "» catholique de Ste-Croix",
+      "» de foot-ball",
+      "» du Stand et des Chasseurs",
+      "» des sports d'hiver",
+      "» de gymnastique",
+      "» de gymnastique des hommes",
+      "Officiers",
+      "Sous-officiers",
+      "Syndicats d'élevage Ste-Croix",
+      "Section de la Croix-Bleue",
+      "Section de l'Avenir",
+      "Union chrétienne",
+      "Union instrumentale",
+      "Ski-Club",
+      "Vélo-Club",
+      "Helvétienne"
     ]
   }
 }

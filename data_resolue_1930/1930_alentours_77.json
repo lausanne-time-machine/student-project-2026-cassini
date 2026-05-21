@@ -1,220 +1,233 @@
 {
-  "SAINT-SAPHORIN": {
-    "Sociétés": [
-      "de fromagerie de St-Saphorin",
-      "Syndicat agricole"
+  "BOTTENS": {
+    "Terrassiers-draineurs.": [
+      "Allaman Jules",
+      "Jorand Emile",
+      "Panchaud Joseph."
     ],
-    "Téléphoniste": [
-      "Magnenat César"
+    "Tommes (fabr. de).": [
+      "Rochat Paul"
     ],
-    "Vignerons": [
-      "Dumuid Henri",
-      "Pantet Edouard",
-      "Rubattel John",
-      "Simonet Eugène",
-      "Tavel Marc"
+    "Tailleuses.": [
+      "Aguet Jenny",
+      "Metraux Joséphine",
+      "Ecoffey Cécile."
+    ],
+    "Téléphoniste.": [
+      "Aguet Emile"
+    ],
+    "Vannier.": [
+      "Jorand Auguste."
     ]
   },
-  "SAINT-SULPICE": {
-    "Autorités communales": [
-      "Bourgoz Juste",
-      "Regamey Marcel",
-      "Chevalley Emile",
-      "Chapuis Emile",
-      "Bourgoz Ulysse",
-      "Bourgoz Aloïs",
-      "Vaney Paul",
-      "Guignard J. T."
+  "BRETIGNY-SUR-MORRENS": {
+    "Autorités communales.": [
+      "Chatelan David",
+      "Reymond Edouard.",
+      "Chatelan J.-Henri."
     ],
-    "Agriculteurs": [
-      "Bourgoz Alexandre, hoirs",
-      "Bourgoz Aloïs",
-      "Bourgoz Juste",
-      "Bourgoz Léopold",
-      "Chapuis Emile",
-      "Foretay Emile",
-      "Foretay Maurice",
-      "Foretay, Vve de Ferdinand",
-      "Foretay Jules",
-      "Gras Emile",
-      "Griessen François",
-      "Guidon Constant",
-      "Krieg Constant",
-      "Krieg Eugène",
-      "Meyer Gottfried",
-      "Meyer William",
-      "Pête, Vve de Jules"
+    "Municipaux": [
+      "Chatelan Aimé",
+      "Martin Léon",
+      "Correvon Ulysse",
+      "Chatelan Jules",
+      "Chatelan Aimé",
+      "Chatelan Aimé.",
+      "Mathey Jacob."
     ],
-    "Architecte": [
-      "Kissenpfennig E."
+    "Agriculteurs.": [
+      "Carrard Léon",
+      "Chappuis Hermann",
+      "Chatelan Ami",
+      "Chatelan Aimé et Jean",
+      "Chatelan Eug. T.",
+      "Chatelan Henri",
+      "Chatelan Jules d'Edouard. T.",
+      "Chatelan Lucien",
+      "Chatelan Oscar",
+      "Chatelan Rob.",
+      "Corbaz Emile",
+      "Correvon Paul",
+      "Correvon Ulysse",
+      "Jenni Ernest",
+      "Martin Léon",
+      "Reymond Aloïs",
+      "Reymond Charles",
+      "Reymond Edouard",
+      "Reymond et Treuthardt",
+      "Roux Henri."
     ],
-    "Associations mutualistes de retraite": [
-      "Guignard J."
+    "Apiculteurs.": [
+      "Chatelan David",
+      "Chatelan Hri",
+      "Reymond Edouard",
+      "Treuthardt Jules."
     ],
-    "Aviculteur": [
-      "Menétrey Gustave"
+    "Appareilleur.": [
+      "Chatelan Eugène."
     ],
-    "Blanchisseuses": [
-      "Bourgoz Louisa",
-      "Péchin Lucie"
+    "Mutualité scolaire de retraite": [
+      "Jaquet C.."
     ],
-    "Boucher": [
-      "Gras Eugène"
+    "Battoir à blé.": [
+      "Commune de Bretigny."
     ],
-    "Boulanger-pâtissier": [
-      "Brand Jean"
+    "Bétail (comm. de).": [
+      "Chatelan John."
     ],
-    "Briques de ciment": [
-      "Borgnana Pierre",
-      "Lusso & Cie."
+    "Bois (march. de).": [
+      "Maendly Alfred.",
+      "Maurer Gustave."
     ],
-    "Cafés": [
-      "Pête Emma",
-      "Regamey Marcel",
-      "Wütrich Fritz"
+    "Cafetier.": [
+      "Ottet Louis."
     ],
-    "Charcutier": [
-      "Blanc Henri"
+    "Charcutier.": [
+      "Chatelan J. T."
     ],
-    "Charpentier": [
-      "Bovon Gustave"
+    "Charron-maréchal.": [
+      "Chatelan Jules et fils."
     ],
-    "Commission scolaire": [
-      "Bourgoz Juste",
-      "Bourgoz Samuel"
+    "Commission scolaire.": [
+      "Chatelan Oscar",
+      "Chatelan John."
     ],
-    "Crèmerie": [
-      "Hauswirth Paul"
+    "Epicerie, mercerie.": [
+      "Noverraz Octave. R."
     ],
-    "Electricien": [
-      "Foretay Gustave"
+    "Facteur.": [
+      "Piaget Adèle, Vve de Ls."
     ],
-    "Entrepreneurs": [
-      "Lusso & Cie."
+    "Inspecteur du bétail.": [
+      "Chatelan Ami."
     ],
-    "Epiceries": [
-      "Brand Jean",
-      "Emery-Martin",
-      "Vuffray B., dame"
+    "Instituteurs.": [
+      "Jaquet Charles",
+      "Henny Madeleine."
     ],
-    "Garde-pêche": [
-      "Bourgoz Ulysse"
+    "Scieur.": [
+      "Maurer Gustave. T."
     ],
-    "Gérance d'immeubles": [
-      "Chevalley E.T."
+    "Sociétés.": [
+      "de laiterie. R.",
+      "des Eaux. R. Chatelan David",
+      "d'assurance du bétail",
+      "Syndicat d'élevage."
     ],
-    "Horticulteurs-fleuristes": [
-      "Pfenninger Rodolphe",
-      "Raucher M.",
-      "Regamey Auguste",
-      "Semadeni Emile",
-      "Tissot Edouard"
+    "Tisserand.": [
+      "Mathey Jacob."
     ],
-    "Inspecteur du bétail": [
-      "Chapuis Emile"
+    "Téléphoniste.": [
+      "Chatelan Julie, Vve."
+    ]
+  },
+  "CUGY": {
+    "Autorités communales.": [
+      "Vaney Louis",
+      "Porchet Alfred.",
+      "Dégy Jules."
     ],
-    "Instituteurs": [
-      "Guignard Jules",
-      "Jeanmonod Odette"
+    "Municipaux": [
+      "Gringet Aimé",
+      "Vaney Henri",
+      "Echaud Edouard",
+      "Vaney Louis",
+      "Stoudmann Aimé",
+      "Favre Emile",
+      "Vaney Auguste",
+      "Echaud Henri",
+      "Vaney Jules. de Jules."
     ],
-    "Jardiniers-maraîchers": [
-      "Gras Victor",
-      "Guillemin Louis",
-      "Meyer William",
-      "Pfenninger Rodolphe",
-      "Semadeni Emile"
+    "Agriculteurs.": [
+      "Dégy Jules",
+      "Echaud Edouard",
+      "Echaud Henri",
+      "Gringet Louis, d'Auguste",
+      "Hennard Edouard de J.",
+      "Hennard Edouard d'Auguste",
+      "Hennard Lucien",
+      "Hennard Henri",
+      "Marguerat Jean",
+      "Martin Alfred",
+      "Stoudmann Héli",
+      "Vaney Auguste de J.-Louis",
+      "Vaney François",
+      "Vaney Henri et L.",
+      "Vaney Jules."
     ],
-    "Laitier": [
-      "Laiterie agricole"
+    "Boulangers.": [
+      "Domenjoz William",
+      "Vaney Emile. RT."
     ],
-    "Maçon": [
-      "Tarabuso J. T."
+    "Buraliste postal.": [
+      "Piguet Paul."
     ],
-    "Mécaniciens": [
-      "Chopard P.",
-      "Dutoit",
-      "Graf Ct.",
-      "Kisling Arnold"
+    "Cafés.": [
+      "Hennard Henri",
+      "Thuillard Aimé"
     ],
-    "Pêcheurs": [
-      "Foretay Félix",
-      "Jacquier Francois",
-      "Tissot Julien"
+    "Charretier.": [
+      "Hennard Henri."
     ],
-    "Pensions": [
-      "Pête-Rossier, Vve de Jules",
-      "Raimond Aug.",
-      "Hauswirth Paul"
+    "Charron.": [
+      "Vaney Ernest."
     ],
-    "Pisciculture": [
-      "Etat de Vaud"
+    "Commission scolaire.": [
+      "Perret",
+      "Echaud Henri",
+      "Stoudmann Aimé",
+      "Dégy Jules",
+      "Vaney Louis."
     ],
-    "Porcs": [
-      "Plojoux Gaston"
+    "Cordonnier.": [
+      "Schupbach Henri."
     ],
-    "Poste": [
-      "Tanniger William"
+    "Entrepreneur.": [
+      "Favre Emile. T."
     ],
-    "Sable (carrières de)": [
-      "Freymond Alexis",
-      "Gravières réunies",
-      "Lusso & Cie."
+    "Epicerie, mercerie, tabacs.": [
+      "Domenjoz William",
+      "Ménétrey, Mlle",
+      "Schiffmann Anna, Mlle. R.",
+      "Vaney Emile. RT."
     ],
-    "Sociétés": [
-      "de développement",
-      "de laiterie",
+    "Inspecteur du bétail.": [
+      "Marguerat J.",
+      "Gringet Aimé."
+    ],
+    "Instituteurs.": [
+      "Gailloud Paul",
+      "Gailloud-Pernet Renée."
+    ],
+    "Laitier.": [
+      "Laiterie agricole, à Lausanne."
+    ],
+    "Maréchal.": [
+      "Wüllschleger Samuel."
+    ],
+    "Menuisier.": [
+      "Piguet Aimé."
+    ],
+    "Meuniers.": [
+      "Jaccaud François",
+      "Moulin agricole. R."
+    ],
+    "Scieur.": [
+      "Vittoz Lucien."
+    ],
+    "Sociétés.": [
+      "de laiterie. R.",
+      "Caisse locale d'assurance du bétail",
       "de tir",
-      "de chant"
+      "Moulin agricole de Cugy. R.",
+      "Syndicat d'élevage Bretigny, Cugy, Montherond. R.",
+      "Société d'agriculture de Morrens-Montherond. R."
     ],
-    "Service autobus": [
-      "Tramway lausannois"
+    "Téléphoniste.": [
+      "Thuillard Aimé."
     ],
-    "Tailleuses": [
-      "Bourgoz Lina",
-      "Foretay Marguerite"
-    ],
-    "Téléphone public": [
-      "Brand Jean"
-    ],
-    "Vignerons": [
-      "Borralet Aimé",
-      "Chapuis Emile",
-      "Foretay Emile",
-      "Foretay Jules",
-      "Gras Emile"
-    ],
-    "Divers": [
-      "Addor Marcel",
-      "Aerny Christian",
-      "Braillard Ch.",
-      "Challet M.",
-      "Cherbulliez H.",
-      "Fischer F.",
-      "Guignard J. T.",
-      "Moraz Emmanuel",
-      "Thuillard Fs"
-    ]
-  },
-  "TOLOCHENAZ": {
-    "Autorités communales": [
-      "Hugonnet Henri",
-      "Vallon Ernest",
-      "Borrel Alexis",
-      "Béroud Jules",
-      "Morel Marc",
-      "Panchaud Marius",
-      "Schneider Ami",
-      "Panchaud Marcel",
-      "Héritier Joseph"
-    ],
-    "Agriculteurs": [
-      "Aegerter Christian",
-      "Béroud Jules",
-      "Chanel Albert",
-      "Gandillon Jean",
-      "Gandillon Paul",
-      "Hugonnet Henri",
-      "Hunziker Ls"
+    "Divers.": [
+      "Centurier Henri. T."
     ]
   }
 }

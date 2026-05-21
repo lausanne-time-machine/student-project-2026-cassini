@@ -1,160 +1,200 @@
 {
-  "Leysin": {
-    "Gypserie et peinture": [
-      "Bolléa Ls.",
-      "Chambaz H.",
-      "Croesse J.-B.",
-      "Demarchi Pierre",
-      "Misslin Charles",
-      "Rabattoni et fils",
-      "Widmann Charles"
+  "GRANDSON": {
+    "Mécaniciens": [
+      "Glardon-Grobet A.",
+      "Robert René"
     ],
-    "Horlogers": [
-      "Biland Olga",
-      "Merlin-Zaugg A.",
-      "Vaucher Ed."
+    "Médecin-chirurgien": [
+      "Bidlingmeyer J. T."
     ],
-    "Horticulteurs": [
-      "Burla Emile",
-      "Coithésy Aloïs",
-      "Hôtel du Mont-Blanc"
+    "Menuisiers": [
+      "Cavin & Candaux",
+      "Crausaz Emile",
+      "Margot Henri"
     ],
-    "Hôtels-pensions (voir aussi Sanatoria)": [
-      "L'Aiglon, Bertrand-Neuhauer Marguerite",
-      "L'Argentine, Tauxe Berthe, Veuve de Charles",
-      "Les Arolles, Lachapelle Julien",
-      "Beau-Soleil, Rigazio Ant.",
-      "Beau-Séjour, Desarzens sœurs",
-      "Bellevue, Neidthart Aug.",
-      "Bienvenue, Jekelmann Bernard, café-restaurant",
-      "Bon-Accueil, Raible Louise",
-      "Les Buits, Fatton Alice",
-      "Beaulieu, Siegrist Ernest",
-      "Le Chalet, Burger Mlle",
-      "Chalet Pâquerette, Sœur Susanne Beux dir.",
-      "Les Chamois, Dr Morin, dir.",
-      "Les Charmettes, Peytrignet, direct.",
-      "Le Château, Guggisberg Alfred",
-      "Les Chrysanthèmes, Melick, dames",
-      "Le Clos, Berthoud Lucien, prop.",
-      "La Colline, Moraz Alfred",
-      "Les Colombettes, Mathey-Doret, Dlle.",
-      "Le Bosquet, Leuba Elise",
-      "Dent du Midi, Hurt & King, dames",
-      "L'Eglantine, Haeberli sœurs & Cie",
-      "L'Espérance, annexe du Sanatorium populaire",
-      "Les Fleurettes, miss King et Mlle Kipfer",
-      "La Forêt, Marey A.",
-      "Les Fougères, Eggenschwiler Sophie",
-      "Les Hirondelles, Aviolat Rose",
-      "Gare, Stäubli Jean",
-      "Gentiane, Voisard Armand",
-      "Home de Jeunes Filles, Jaquerod, Dlle. dir.",
-      "Les Lilas, Lees-King, Mme.",
-      "Mélèzes et Victoria, Demand Jos.",
-      "La Mésange, Hess Cuno",
-      "Mimosa, M. Hürzeler-Eyer",
-      "Mon Repos, Bourguignon Charles",
-      "Mont-Riant, Leuba, Vve d'Ernest",
-      "Les Narcisses, Degrange, dame",
-      "La Nichée, Haeberli sœurs & Cie.",
-      "Les Noisetiers, Kœhli Mme, dir.",
-      "La Paix, Schmocker Geneviève",
-      "Palettaz, Lobsiger Jean",
-      "Les Pommiers, Tissot Marg. Vve.",
-      "La Primevère, Ighina, Mme.",
-      "Quisisana, Thonney & Dubrit, Dlles.",
-      "Régina, Tacheron Louise",
-      "Richemont, Hoffmann Sœurs",
-      "La Rose des Alpes, Haeberli Lina",
-      "La Riondaz, Schmid Marie",
-      "Le Roselier, Pasche Louise",
-      "Rosemont, Monod, enfants d'Henri",
-      "Riant-Val, Goël Blanche",
-      "Le Rocher (enfants), Forster, Dlle.",
-      "Les Sapins, Widmer, enfants",
-      "Semiramis, Tauss Arthur",
-      "Sylvana, Bangard Elise",
-      "Tour d'Aï, Neveu Alfred",
-      "Tour de Mayen, Mlle Daquay",
-      "Violette, Tauxe, dame"
+    "Mercerie": [
+      "Colomb Fernand",
+      "Denger Gotth.",
+      "Kiener Fanny",
+      "Roulet Jules"
     ],
-    "Imprimeur": [
-      "Pichard E., Courrier de Leysin."
+    "Meubles": [
+      "Ingilby Hri",
+      "Margot H.",
+      "Troxler Henri"
     ],
-    "Inspecteur du bétail": [
-      "Taux Arthur"
+    "Meunier": [
+      "Moulin agricole"
     ],
-    "Instituteurs": [
-      "Paux Robert",
-      "Tacheron Jules",
-      "Baud Romain",
-      "Paux Louise",
-      "Dubuis Jacqueline",
-      "Cordey Yvonne",
-      "Jeanloz Julia",
-      "Buhler Marguerite"
+    "Notaires": [
+      "Crosasso Jean",
+      "Duvoisin Léon",
+      "Michaud Fçois"
     ],
-    "Journaux": [
-      "Journal de Leysin. Bulletin météorologique et médical.",
-      "Borloz-Comtesse Jules",
-      "Le Courrier de Leysin, Pichard E."
+    "Objets divers (vente et achat)": [
+      "Hirschy Henri"
     ],
-    "Laboratoire bactériologique": [
-      "von Bergen"
+    "Officier d'état-civil": [
+      "Guilloud Gustave",
+      "Cand Emile"
     ],
-    "Laitiers": [
-      "Barroud Eug.",
-      "Centrale laitière de Leysin, S. A. R.",
-      "Kleiner Werner",
-      "Laiterie du Sarrasin",
-      "Société de laiterie"
+    "Pasteurs": [
+      "Ferrari Eugène",
+      "Vautier Edouard"
     ],
-    "Librairies": [
-      "Lecomte Henri",
-      "Hänggi-Kurepf Ida.",
-      "Rollat Eugène, librairie de Leysin.",
-      "Sauvain J.-A.",
-      "Tauxe Rose."
+    "Pécheurs": [
+      "Dénéréaz Emile. père",
+      "Groux Henri",
+      "Tallichet A."
     ],
-    "Lingerie": [
-      "Ernst Emile & Cie.",
-      "Hurt Otto.",
-      "Rittener Elisa."
+    "Pharmacien": [
+      "Francey Aloys"
     ],
-    "Maçons": [
-      "Beverina",
-      "Camandona Emile"
+    "Pierriste": [
+      "Michoud Aloïs"
     ],
-    "Maréchal": [
-      "Aebi Fritz",
-      "Burky H."
+    "Police (commissaire de)": [
+      "Charbon Hector",
+      "Apothéloz Justin"
     ],
-    "Masseurs": [
-      "Guenin J.-A.",
-      "Groux Louis",
-      "Stcherbinine. Mme."
+    "Postes": [
+      "Gacon Louis"
     ],
-    "Mécanicien-dentiste :": [
-      "Niederer Hugo"
+    "Poterie": [
+      "Ledermann Elise",
+      "Kaeser Félix"
     ],
-    "Médecins": [
-      "Dr Amstad Ernest",
-      "Dr Cardis",
-      "Galland René",
-      "Giauque Alcide",
-      "Houlmann Alexandre",
-      "Jaquerod Marc",
-      "Leuba Willy",
-      "Morin Jean",
-      "Piguet Ch.-A.",
-      "de Reynier Léopold",
-      "Rollier A.",
-      "Rossel Georges",
-      "Roulet Ed.",
-      "Schmid H.",
-      "Sillig César",
-      "Vauthier Louis"
+    "Primeurs et fleurs": [
+      "Gogniat-Junod L."
+    ],
+    "Produits chimiques": [
+      "Pilet & Piaget"
+    ],
+    "Quincaillerie": [
+      "Glardon Alfred"
+    ],
+    "Repasseuses": [
+      "Chabloz Anna",
+      "Malherbes-Heuby Anna",
+      "Roy-Cottens Elise"
+    ],
+    "Sage-femme": [
+      "Ray-Genicoud Louise"
+    ],
+    "Scieur": [
+      "Ray Louis"
+    ],
+    "Selliers": [
+      "Ingilby Henri",
+      "Troxler Henri"
+    ],
+    "Serrurier": [
+      "Houst Georges"
+    ],
+    "Sociétés": [
+      "des Amis du Tir",
+      "de l'Abbaye des Mousquetaires",
+      "de chant l'Espérance",
+      "de musique",
+      "de gymnastique",
+      "de secours mutuels (section de Grandson)",
+      "de développement",
+      "du Cercle des Ouvriers",
+      "de l'Usine électrique des Clées",
+      "de laiterie des Tuileries",
+      "Sauvetage du lac",
+      "Foot-Ball-Club",
+      "Section de la Croix-Bleue",
+      "Société suisse des Samaritains, section de Grandson",
+      "Chœur de dames Cæcilia",
+      "Gymnastique des hommes",
+      "Société coopérative et viticole",
+      "Société d'alpage du Petit Beau-Regard",
+      "Fonds de l'Infirmerie des cercles de Grandson et de Concise"
+    ],
+    "Tailleuses": [
+      "Beausire Marie",
+      "Despland Adèle",
+      "Despland-Meylan",
+      "Devenoge, femme de Ch.",
+      "Riener Fanny"
+    ],
+    "Taxis": [
+      "Cand frères",
+      "Robert René"
+    ],
+    "Télégraphe et téléphone": [
+      "Michel Marie"
+    ],
+    "Tonnelier": [
+      "Paul Alfred"
+    ],
+    "Vannerie": [
+      "Glardon-Grobet A."
+    ],
+    "Vélos-Motos": [
+      "Robert René"
+    ],
+    "Vins (march. de)": [
+      "Charlet Maurice",
+      "Rossier Ulysse"
+    ],
+    "Divers": [
+      "de Blonay Godefroy",
+      "Vautier-Schopfer Jules"
+    ]
+  },
+  "BONVILLARS": {
+    "Autorités communales": [
+      "Duvoisin Cl.",
+      "Gilliand Robert"
+    ],
+    "Syndic": [
+      "Duvoisin Maurice"
+    ],
+    "Municipaux": [
+      "Jaquier Jaques",
+      "Martin François",
+      "Cochand Charles",
+      "Favre Frédéric",
+      "Jaquier Michel",
+      "Correven Marc",
+      "Meigniez Denis",
+      "Tharin Ernest"
+    ],
+    "Huissier": [
+      "Homberger Jn."
+    ],
+    "Agriculteurs": [
+      "Corthésy Léon",
+      "Correven Marc",
+      "Duvoisin David",
+      "Duvoisin Denis",
+      "Duvoisin Ernest",
+      "Egli Charles",
+      "* Fardel Ch.",
+      "Favre Michel",
+      "* Favre Eugène",
+      "Favre Edouard",
+      "Favre Ernest",
+      "Favre Frédéric",
+      "Jaquier Edmond",
+      "Jaquier Michel",
+      "Jaquier Maurice",
+      "Maire Léopold",
+      "Martin Fs",
+      "Meigniez Denis",
+      "Milliet Henri",
+      "Paris Elise",
+      "Ramseyer Eugène",
+      "Ray Jean",
+      "Ryser René",
+      "Schmutz Christian",
+      "* Steiner Louis"
+    ],
+    "Amodiateurs": [
+      "Gander",
+      "Vve Seiler Fritz"
     ]
   }
 }

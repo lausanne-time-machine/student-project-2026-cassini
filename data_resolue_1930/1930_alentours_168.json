@@ -1,196 +1,220 @@
 {
-  "ORMONT-DESSOUS": {
-    "Couture (maîtresses de)": [
-      "Tenthorey Elisa",
-      "Cretegny-Berney Germaine",
-      "Dupertuis-Vurlod Lydie",
-      "Mottier-Tille Elise",
-      "Ginier Berthe",
-      "Tille-Mottier Rose"
+  "SAINT-SAPHORIN": {
+    "Sociétés": [
+      "de fromagerie de St-Saphorin",
+      "Syndicat agricole"
     ],
-    "Couturières": [
-      "Ansermet Madeleine",
-      "Borloz Elise",
-      "Burnier-Vurlod Cécile",
-      "Hubert Rose"
+    "Téléphoniste": [
+      "Magnenat César"
     ],
-    "Couvreurs": [
-      "Dupertuis Constant",
-      "Mattélon",
-      "Oguey Auguste",
-      "Oguey Jules"
+    "Vignerons": [
+      "Dumuid Henri",
+      "Pantet Edouard",
+      "Rubattel John",
+      "Simonet Eugène",
+      "Tavel Marc"
+    ]
+  },
+  "SAINT-SULPICE": {
+    "Autorités communales": [
+      "Bourgoz Juste",
+      "Regamey Marcel",
+      "Chevalley Emile",
+      "Chapuis Emile",
+      "Bourgoz Ulysse",
+      "Bourgoz Aloïs",
+      "Vaney Paul",
+      "Guignard J. T."
+    ],
+    "Agriculteurs": [
+      "Bourgoz Alexandre, hoirs",
+      "Bourgoz Aloïs",
+      "Bourgoz Juste",
+      "Bourgoz Léopold",
+      "Chapuis Emile",
+      "Foretay Emile",
+      "Foretay Maurice",
+      "Foretay, Vve de Ferdinand",
+      "Foretay Jules",
+      "Gras Emile",
+      "Griessen François",
+      "Guidon Constant",
+      "Krieg Constant",
+      "Krieg Eugène",
+      "Meyer Gottfried",
+      "Meyer William",
+      "Pête, Vve de Jules"
+    ],
+    "Architecte": [
+      "Kissenpfennig E."
+    ],
+    "Associations mutualistes de retraite": [
+      "Guignard J."
+    ],
+    "Aviculteur": [
+      "Menétrey Gustave"
+    ],
+    "Blanchisseuses": [
+      "Bourgoz Louisa",
+      "Péchin Lucie"
+    ],
+    "Boucher": [
+      "Gras Eugène"
+    ],
+    "Boulanger-pâtissier": [
+      "Brand Jean"
+    ],
+    "Briques de ciment": [
+      "Borgnana Pierre",
+      "Lusso & Cie."
+    ],
+    "Cafés": [
+      "Pête Emma",
+      "Regamey Marcel",
+      "Wütrich Fritz"
+    ],
+    "Charcutier": [
+      "Blanc Henri"
+    ],
+    "Charpentier": [
+      "Bovon Gustave"
+    ],
+    "Commission scolaire": [
+      "Bourgoz Juste",
+      "Bourgoz Samuel"
+    ],
+    "Crèmerie": [
+      "Hauswirth Paul"
+    ],
+    "Electricien": [
+      "Foretay Gustave"
     ],
     "Entrepreneurs": [
-      "Carando Jaques",
-      "Guanzini Jean",
-      "Jelmoli Jean",
-      "Oguey Auguste"
+      "Lusso & Cie."
     ],
     "Epiceries": [
-      "Bonzon Charles",
-      "Borloz-Monod Lydie",
-      "Ginier sœurs",
-      "Guex Léa",
-      "Hubert Célina",
-      "Société coopérative",
-      "Hubert, hoirs",
-      "Hubert-Ziegler, Vve",
-      "Pernollet François fils",
-      "Pernollet Paul",
-      "Pittet Rosalie",
-      "Genton Henri",
-      "Tille John"
+      "Brand Jean",
+      "Emery-Martin",
+      "Vuffray B., dame"
     ],
-    "Etoffes et mercerie": [
-      "Ginier sœurs",
-      "Hubert, Vve",
-      "Borloz-Monod Lydie",
-      "Pernollet Paul"
+    "Garde-pêche": [
+      "Bourgoz Ulysse"
     ],
-    "Farines": [
-      "Bonzon Charles",
-      "Dupertuis Jules-Edouard",
-      "Dupertuis Constant",
-      "Ginier sœurs",
-      "Monod Jules"
+    "Gérance d'immeubles": [
+      "Chevalley E.T."
     ],
-    "Fers et métaux": [
-      "Bonzon Charles",
-      "Hubert Jules, Veuve",
-      "Pernollet Paul"
+    "Horticulteurs-fleuristes": [
+      "Pfenninger Rodolphe",
+      "Raucher M.",
+      "Regamey Auguste",
+      "Semadeni Emile",
+      "Tissot Edouard"
     ],
-    "Fondeur": [
-      "Ginier Alexis"
-    ],
-    "Gardes-forestiers": [
-      "Hubert Arthur",
-      "Morex Alfred",
-      "Tavernier Constant"
-    ],
-    "Home pour enfants": [
-      "Tcherdyuzeff-Aviolat Sylvie"
-    ],
-    "Hôtels et pensions": [
-      "Hôtel des Alpes",
-      "Chenaux Henri",
-      "Hôtel-Pension du Col",
-      "Genton Hri",
-      "Hôtel du Cerf",
-      "Muller Jean",
-      "Hôtel du Mont-d'Or",
-      "Tenthorey Henri",
-      "Hôtel de la Couronne"
-    ],
-    "Imprimeur": [
-      "Pichard Jules"
-    ],
-    "Inspecteurs du bétail": [
-      "Chenaux Hri",
-      "Vurlod Constant",
-      "Vurloz Alexis"
+    "Inspecteur du bétail": [
+      "Chapuis Emile"
     ],
     "Instituteurs": [
-      "Berthoud Alexandre",
-      "Fontannaz Julien",
-      "Lambercy Eugène",
-      "Dupraz Gabriel",
-      "Baudat Henri",
-      "Jomini André"
+      "Guignard Jules",
+      "Jeanmonod Odette"
     ],
-    "Institutrices": [
-      "Tenthorey-Braissant Elisa",
-      "Cretegny-Berney Germ."
+    "Jardiniers-maraîchers": [
+      "Gras Victor",
+      "Guillemin Louis",
+      "Meyer William",
+      "Pfenninger Rodolphe",
+      "Semadeni Emile"
     ],
-    "Journal": [
-      "Echo de la Montagne"
+    "Laitier": [
+      "Laiterie agricole"
     ],
-    "Justice de paix": [
-      "Mottier Ele",
-      "Mermod Ernest",
-      "Oguey Aloïs",
-      "Oguey-Dufresne Jules",
-      "Morex Alf.",
-      "Mermod Félix"
-    ],
-    "Maçons": [
-      "Grosjaques Antoine",
-      "Guanzini Jean",
-      "Jelmoli Jean",
-      "Oguey Auguste"
-    ],
-    "Maréchaux": [
-      "Girod Aloïs",
-      "Nicolier Albert",
-      "Oguey Jules"
+    "Maçon": [
+      "Tarabuso J. T."
     ],
     "Mécaniciens": [
-      "Nicolier Albert",
-      "Oguey Jules"
+      "Chopard P.",
+      "Dutoit",
+      "Graf Ct.",
+      "Kisling Arnold"
     ],
-    "Menuisiers": [
-      "Bonzon-Tille Jules",
-      "Combaz",
-      "Monod Olivier",
-      "Tauxe Constant"
+    "Pêcheurs": [
+      "Foretay Félix",
+      "Jacquier Francois",
+      "Tissot Julien"
     ],
-    "Négociants (mercerie, épicerie, etc.)": [
-      "Bonzon Charles",
-      "Genton Henri",
-      "Guex-Dufresne Léa",
-      "Hubert-Tavernier Aug.",
-      "Hubert, Vve de Jules",
-      "Hubert-Ziegler, Vve",
-      "Pittet Rosalie",
-      "Pernollet François",
-      "Pernollet Paul",
-      "Société coopérative"
+    "Pensions": [
+      "Pête-Rossier, Vve de Jules",
+      "Raimond Aug.",
+      "Hauswirth Paul"
     ],
-    "Notaire": [
-      "Chablaix Paul"
+    "Pisciculture": [
+      "Etat de Vaud"
     ],
-    "Officier d'état-civil": [
-      "Monod Alfred"
+    "Porcs": [
+      "Plojoux Gaston"
     ],
-    "Pasteurs": [
-      "Vacat",
-      "Vittoz Robert"
+    "Poste": [
+      "Tanniger William"
     ],
-    "Pension (voir Hôtels)": [
-      "Tcherdyuzeff-Aviolat G."
-    ],
-    "Postes et télégraphes": [
-      "Ginier Alfred",
-      "Hubert-Ziegler, Vve",
-      "Burlet-Mermod",
-      "Tille Jules",
-      "Ansermet Mme"
-    ],
-    "Quincaillerie": [
-      "Bonzon Charles",
-      "Hubert Jules, Veuve",
-      "Pernollet Paul"
-    ],
-    "Scieurs": [
-      "Durgniat Auguste",
-      "Durgniat Marcel",
-      "Mottier Emile",
-      "Vurlod Vinc."
-    ],
-    "Sellier-tapissier": [
-      "Mermod Alfred"
+    "Sable (carrières de)": [
+      "Freymond Alexis",
+      "Gravières réunies",
+      "Lusso & Cie."
     ],
     "Sociétés": [
-      "Caisse de Crédit Mutuel",
-      "Société du tir libre à Ormont-Dessous",
-      "Société des fromageries de Pertuis",
-      "Société des Carabiniers libres des Alpes",
-      "Soc. du Cordon-Rouge",
-      "Syndicat agricole",
-      "Société de tir aux armes de guerre",
-      "Section de la Croix-Bleue",
-      "Société coopérative",
-      "Société d'agriculture",
-      "Syndicat d'élevage"
+      "de développement",
+      "de laiterie",
+      "de tir",
+      "de chant"
+    ],
+    "Service autobus": [
+      "Tramway lausannois"
+    ],
+    "Tailleuses": [
+      "Bourgoz Lina",
+      "Foretay Marguerite"
+    ],
+    "Téléphone public": [
+      "Brand Jean"
+    ],
+    "Vignerons": [
+      "Borralet Aimé",
+      "Chapuis Emile",
+      "Foretay Emile",
+      "Foretay Jules",
+      "Gras Emile"
+    ],
+    "Divers": [
+      "Addor Marcel",
+      "Aerny Christian",
+      "Braillard Ch.",
+      "Challet M.",
+      "Cherbulliez H.",
+      "Fischer F.",
+      "Guignard J. T.",
+      "Moraz Emmanuel",
+      "Thuillard Fs"
+    ]
+  },
+  "TOLOCHENAZ": {
+    "Autorités communales": [
+      "Hugonnet Henri",
+      "Vallon Ernest",
+      "Borrel Alexis",
+      "Béroud Jules",
+      "Morel Marc",
+      "Panchaud Marius",
+      "Schneider Ami",
+      "Panchaud Marcel",
+      "Héritier Joseph"
+    ],
+    "Agriculteurs": [
+      "Aegerter Christian",
+      "Béroud Jules",
+      "Chanel Albert",
+      "Gandillon Jean",
+      "Gandillon Paul",
+      "Hugonnet Henri",
+      "Hunziker Ls"
     ]
   }
 }

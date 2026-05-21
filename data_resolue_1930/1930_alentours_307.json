@@ -1,108 +1,78 @@
 {
-  "MONTREUX": {
-    "Médecins": [
-      "Amiet C.",
-      "Bosset Iwan",
-      "Bost René",
-      "Carrard Robert",
-      "Chessex D.-G.",
-      "Christin E.",
-      "de Martines C.",
-      "Duboux E.",
-      "Dufour Othmar",
-      "Exchaquet Emile",
-      "Finsterwald H.",
-      "Frey Georges",
-      "Fügli Gaspard",
-      "Granger-Evans, Dr.",
-      "Hämmerli-Schindler",
-      "Hämmerli-Steiner",
-      "Helg L.",
-      "Herzog M.",
-      "Jacot Marc",
-      "Kocks Martha",
-      "Lestchinski Alex.",
-      "Mac Donald",
-      "Mack J.",
-      "Martines (de) Ch.",
-      "Mercanton Félix",
-      "Métraux, Dr.",
-      "Minnich W.",
-      "Monnet Eric",
-      "Niehans Paul",
-      "Perret Ch.-A.",
-      "Robert A.",
-      "Schulthess (de) Paul",
-      "Trutmann",
-      "Turin",
-      "Vogelsang A.",
-      "Vuichoud R.",
-      "Vuilleumier Paul",
-      "Wagner Richard",
-      "Widmer Aug."
+  "VINZEL": {
+    "Aubergiste": [
+      "Straub Edouard"
     ],
-    "Menuisiers-ébénistes": [
-      "Anchisi Joseph",
-      "Arnet A.",
-      "Baud Jules",
-      "Béguin Maurice",
-      "Berdoz Louis",
-      "Buzzi Ch.",
-      "Cosandier R.",
-      "Dunckel Eugène",
-      "Eller Joseph",
-      "Emery Jean",
-      "Flückiger Charles",
-      "Gros Adolphe",
-      "Grossenbacher S.",
-      "Held Albert & Cie",
-      "Mailler Henri",
-      "Martin Georges & fils",
-      "Martin Ls & fils",
-      "Menevéri & Besenval",
-      "Monaco Edward",
-      "Monnier Ernest",
-      "Moraz C. & O. frères",
-      "Mottier Henri",
-      "Mottier Adèle",
-      "Muller Edouard",
-      "Parnetti L.",
-      "Perret-Gentil",
-      "Perroud",
-      "Pittet Eugène",
-      "Puenzieux frères",
-      "Trachsel E.",
-      "Trombetta Gaetano",
-      "Vurlod Henri",
-      "Weber Paul"
+    "Briqueterie": [
+      "Keusen Edouard"
     ],
-    "Menuisier en voitures": [
-      "Gaschen"
+    "Commission scolaire": [
+      "Rossier Alexis",
+      "Cordey Alice"
     ],
-    "Mercerie": [
-      "Amez-Droz",
-      "Blanc Lily",
-      "Breuer & Cie",
-      "Buser, Kaiser & Cie",
-      "Bussien Ernestine",
-      "Chevalley & Joly",
-      "Croset Julie",
-      "Ducret Louise",
-      "Dubler Jean",
-      "Duflon Marie",
-      "Emery sœurs",
-      "Erranti Ruggero",
-      "Fama Eugénie",
-      "Fritsch-Koch",
-      "Graf-Jacot & Cie",
-      "Hermann-Furrer Emma",
-      "Hermann-Zandt E.",
-      "Hofer J.",
-      "Hostettler-Jan Adèle",
-      "Iseli Blanche",
-      "Jolliet-Ducret Marie",
-      "Kauert Emma",
-      "Lang-Geismar R."
+    "Epicerie; mercerie": [
+      "Rossier Marc"
+    ],
+    "Instituteur": [
+      "Durgnat Emile"
+    ],
+    "Menuisier": [
+      "Cordey François"
+    ],
+    "Pépiniériste": [
+      "Rosset Henri"
+    ],
+    "Propriétaire-rentier": [
+      "de Reding Adélaïde",
+      "de Reding Henri"
+    ],
+    "Poste et téléphone": [
+      "Rossier Marc"
+    ],
+    "Tonnelier": [
+      "Straub Hans"
+    ],
+    "Vignes américaines": [
+      "Rosset H. fils"
+    ],
+    "Vignerons": [
+      "André Louis",
+      "Billard Ed.",
+      "Cherpillod Ernest",
+      "Dupraz Edouard",
+      "Dupraz Ernest",
+      "Marguerat Ami"
+    ],
+    "Vins": [
+      "Straub Edouard, fils"
+    ]
+  },
+  "DISTRICT DE VEVEY": {
+    "Préfet": [
+      "Blanc Henri"
+    ],
+    "Substitut": [
+      "Mayor-Delapraz Jules"
+    ],
+    "Receveur": [
+      "Mercier Fernand"
+    ],
+    "Voyer": [
+      "Ledermann Samuel"
+    ],
+    "Conservateur du registre foncier": [
+      "Blanc Louis"
+    ],
+    "Tribunal de district": [
+      "Petitmermet Robert",
+      "Pilliod Constant",
+      "de Gautard René",
+      "Maron Emile",
+      "Dénéréaz Gustave",
+      "Vulliémoz Louis"
+    ],
+    "Poursuites et faillites": [
+      "Ledermann Ch."
     ]
   }
 }

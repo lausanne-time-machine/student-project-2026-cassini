@@ -1,89 +1,234 @@
 {
-  "VILLE DE MORGES": {
-    "Autorités communales": [
-      "De Goumoëns, Preillonnaz",
-      "Cuénod Eugène",
-      "Coderey Gustave",
-      "Warnery Pierre",
-      "Monod Henri",
-      "André Alfred",
-      "Rattaz Ami",
-      "Roulet Henri",
-      "Burdet Charles",
-      "Kahn Charles"
+  "Ville d'Aigle": {
+    "Lustrerie (fabr. de)": [
+      "Section de la Croix-Bleue",
+      "la Persévérance, musique",
+      "Société d'auto-transports S. A."
     ],
-    "Affichage": [
-      "Société générale d'affichage"
+    "Tailleur.": [
+      "Hänni Fritz"
     ],
-    "Agence agricole": [
-      "Serex Charles"
+    "Tailleuses.": [
+      "Hoffer Marie",
+      "Matthey Marie",
+      "Quartier Mahilde",
+      "von Gunten Aline"
     ],
-    "Agence de journaux": [
-      "Naville & Cie"
+    "Teinturerie.": [
+      "Richard Georges"
     ],
-    "Agents d'affaires patentés": [
-      "Bovard Julien",
-      "Peitrequin Ch."
+    "Télégraphe et téléphone.": [
+      "Desaules Ernest"
     ],
-    "Agriculteurs": [
-      "Cordey Lucien",
-      "Ecole d'Agriculture",
-      "Jaquinet Adolphe",
-      "Juat Charles",
-      "Kratzer Emile",
-      "Millioud Louis"
+    "Toilerie, mercerie.": [
+      "Richard Georges"
     ],
-    "Antiquités": [
-      "Nicolier Jules"
+    "Tonnelier.": [
+      "Troutot Eugène"
     ],
-    "Architectes": [
-      "André frères",
-      "de Freudenreich Jacques",
-      "Kahn Ch.",
-      "Kraemer V."
+    "Voituriers.": [
+      "Desaules & Vassaux",
+      "Société des Auto-Transports de Cudrefin S. A."
+    ]
+  },
+  "DONATYRE": {
+    "Syndic": [
+      "Raymond Auguste"
     ],
-    "Armurier": [
-      "Baumann Alfred"
+    "Municipaux": [
+      "Senaud Louis",
+      "Butikofer Jean",
+      "Maybach Osc.",
+      "Hoffer Charles"
     ],
-    "Arsenal (directeur)": [
-      "Chevalier Samuel"
+    "Secrétaire": [
+      "Bigler Emile"
     ],
-    "Articles de ménage": [
-      "Rieben Emile",
-      "Vuffray E."
+    "Boursier": [
+      "Maybach Oscar"
     ],
-    "Asile": [
-      "Hospice des Oisillons"
+    "Agriculteurs.": [
+      "Butikofer Jean",
+      "Fluhmann Christ.",
+      "Hofer Charles",
+      "Raymond Louis",
+      "Raymond, hoirie d'Ed.",
+      "Rentsch Théod.",
+      "Seiber Gottfr.",
+      "Sterki Jean"
     ],
-    "Assurances": [
-      "La Suisse",
-      "Bâloise (la)",
-      "Concordia (vie)",
-      "Phénix (vie) et Cologne (accidents)",
-      "Société suisse d'assurance contre la grêle",
-      "Société suisse d'assurances générales",
-      "Société vaudoise de secours mutuels",
-      "Société suisse de secours mutuels (maladie) Helvétia",
-      "Vita (vie)",
-      "Zurich (la)"
+    "Bois.": [
+      "Martin Eugène"
     ],
-    "Assurance-vieillesse": [
-      "Mutualité scolaire de retraite"
+    "Boulanger.": [
+      "Conus Jules-Louis"
     ],
-    "Atelier de construction mécanique": [
-      "Etablissements Sim (S. A.)"
+    "Café.": [
+      "Guillod Eugène",
+      "café du Chasseur"
     ],
-    "Automobiles": [
-      "Bonnevaux A.",
-      "Etablissements Sim (S. A.)",
-      "Favez L.",
-      "Clarer-Laffely W.",
-      "Ramuz Ch.",
-      "Saurer, S. A."
+    "Commission scolaire.": [
+      "de Weiss Alb.",
+      "Maybach Oscar"
     ],
-    "Aviculteurs": [
-      "Pilloud Léonard",
-      "Yersin Emilie"
+    "Epicerie, mercerie, tabacs.": [
+      "Conus Jules-Louis",
+      "Gigaud Paul"
+    ],
+    "Facteur-dépositaire.": [
+      "Gigaud Nancy"
+    ],
+    "Instituteurs.": [
+      "Marguerat Charles",
+      "Schmidt Valentine"
+    ],
+    "Inspecteur du bétail.": [
+      "Maybach Oscar"
+    ],
+    "Laitier.": [
+      "Eymann Ernest"
+    ],
+    "Société.": [
+      "de laiterie"
+    ],
+    "Tailleuses.": [
+      "Raymond-Sonnaillon Lina",
+      "Stalder Germaine"
+    ]
+  },
+  "FAOUG": {
+    "Syndic": [
+      "Cornaz Paul"
+    ],
+    "Municipaux": [
+      "Druey Jules",
+      "Spack Théophile",
+      "Cornaz Fritz",
+      "Krenger Emile"
+    ],
+    "Secrétaire": [
+      "Cornaz César"
+    ],
+    "Boursier": [
+      "Cornaz Juies"
+    ],
+    "Agriculteurs.": [
+      "Beutler Samuel",
+      "Cornaz Auguste",
+      "Desarzens Octave",
+      "Etter Jean",
+      "Hagner Paul",
+      "Kiehl Auguste",
+      "Krenger",
+      "Liniger, Etter & Geiser",
+      "Luginbühl Jacob"
+    ],
+    "Auberges et cafés.": [
+      "Hôtel du Cerf",
+      "Ghehm Emile",
+      "Buffet de la Gare",
+      "Fürst Jacob",
+      "Luginbühl"
+    ],
+    "Appareilleur.": [
+      "Christinat Aimé"
+    ],
+    "Boucher.": [
+      "Gränicher K."
+    ],
+    "Boulangers.": [
+      "Ghehm Emile",
+      "Meyer Fritz"
+    ],
+    "Blanchisseuses.": [
+      "Cornaz Anna",
+      "Cornaz Lina"
+    ],
+    "Buraliste.": [
+      "Fasnacht-Derendingen Mme"
+    ],
+    "Charpentier.": [
+      "Spach Théophile"
+    ],
+    "Charron.": [
+      "Cornaz Jules"
+    ],
+    "Chef de gare.": [
+      "Pauchard Désiré"
+    ],
+    "Chevaux.": [
+      "von Gunten & Ramuz"
+    ],
+    "Commission scolaire.": [
+      "von Gunten Oscar",
+      "Grin Paul"
+    ],
+    "Cordonnier.": [
+      "Derendinger Friedrich"
+    ],
+    "Entrepreneur.": [
+      "Gasparini Paul",
+      "Gasparini-Luginbühl Jacob"
+    ],
+    "Epicerie.": [
+      "Kiehl-Jaques Maurice",
+      "Meier-Schneider",
+      "Meyer Adolphe",
+      "Meyer, Vve de Fritz"
+    ],
+    "Ferblantier-appareilleur.": [
+      "Christinat A."
+    ],
+    "Gravière (expl. de).": [
+      "Kiehl-Jaques Mce"
+    ],
+    "Inspecteur du bétail.": [
+      "Desarzens Oc."
+    ],
+    "Instituteurs.": [
+      "Patthey Wilhelm",
+      "Desarzens-Jaton Sophie"
+    ],
+    "Laitiers.": [
+      "Rœtlisberger & Cie"
+    ],
+    "Maréchal.": [
+      "Grin Paul"
+    ],
+    "Matériaux de construction.": [
+      "Cornaz Paul"
+    ],
+    "Mercerie.": [
+      "Kiehl-Jaques Maurice"
+    ],
+    "Pasteur.": [
+      "L'Host Louis"
+    ],
+    "Pêcheur.": [
+      "Kormann Paul"
+    ],
+    "Pension-famille.": [
+      "Blank-Cornaz Lse Mme"
+    ],
+    "Scierie-bois.": [
+      "Spack Th."
+    ],
+    "Sociétés.": [
+      "Nouvelle Société de laiterie"
+    ],
+    "Tailleuse.": [
+      "Riesen Martha"
+    ],
+    "Tuyaux en ciment (fab. de).": [
+      "Cornaz Paul"
+    ]
+  },
+  "MONTMAGNY": {
+    "Président du Conseil général": [
+      "Loup Georges"
+    ],
+    "Secrétaire": [
+      "Loup Alfr"
     ]
   }
 }

@@ -1,100 +1,175 @@
 {
-  "MONTREUX": {
-    "Comptables (experts)": [
-      "Chappuis Arnold",
-      "Furer Pierre",
-      "Légeret Chs.",
-      "Vogt-Stebler P."
+  "ROUGEMONT": {
+    "Hôtels et pensions": [
+      "Mélèzes. T.",
+      "Saugy Alex.",
+      "Yersin Victor",
+      "Yersin"
     ],
-    "Comptoir avicole": [
-      "de Siebenthal"
+    "Inspecteur du bétail": [
+      "Saugy Victor"
     ],
-    "Confections (magasins)": [
-      "Aeschbacher Louisa",
-      "A la Rouvenaz, S. A.",
-      "Au Bonheur des Dames",
-      "Bergien frères",
-      "Bloch Léon",
-      "Blum Bertha, Vve",
-      "Brunschwig Arthur",
-      "Brunschwig & Cie",
-      "Collet Adélaïde",
-      "Emery-Béguelin",
-      "Felchlin Martin",
-      "Ferrero Jeanne",
-      "Genton, Mlle",
-      "Hermann-Furer Emma",
-      "A l'Innovation",
-      "Lang-Geismar",
-      "Maggi Joseph & Cie",
-      "Mancia Ubaldo",
-      "Minola Marcel",
-      "Margot Charles",
-      "Moore O.",
-      "Moos Jeanne",
-      "Omodei Louis",
-      "Petrei Antoine",
-      "Raphaël Julien",
-      "Schmoker-Genoud J.",
-      "Schüpbach Fritz",
-      "Stebler E.",
-      "Weber"
+    "Instituteurs": [
+      "Urfer Auguste",
+      "Isoz Marguerite",
+      "Rossier Hélène",
+      "Ogay Arthur"
     ],
-    "Confiseurs": [
-      "Biedermann J.",
-      "Demont A.",
-      "Detrey Oscar",
-      "Dupertuis Rodolphe",
-      "Eggimann",
-      "Eichmüller Jean",
-      "Geier Edouard",
-      "Hofer Hermann",
-      "Hofer sœurs",
-      "Ingold-Spahn",
-      "Kauert Albert",
-      "Kauert Amélie",
-      "Muller-Blanc",
-      "Rickli Georges",
-      "Sehrt Henri",
-      "Schneider Elisabeth",
-      "Zurbrügg, Mlle",
-      "Zurcher Arnold"
+    "Justice de paix": [
+      "Gétaz Daniel",
+      "de Siebenthal Alfred",
+      "Rossier-Dolder David",
+      "Yersin Victor",
+      "Bovay Alfred",
+      "Filliettaz Hector"
     ],
-    "Conservatoires de musique": [
-      "de Ribaupierre E.",
-      "Académie de musique",
-      "Vuille A."
+    "Laitiers": [
+      "Bovay-Mottier Louis",
+      "Turrian Emile. R."
     ],
-    "Consulats": [
-      "Cuénod Marcel"
+    "Maréchal": [
+      "Délessert Jules."
     ],
-    "Cordonniers": [
-      "Baroli J.",
-      "Bigliotti Ernest",
-      "Blanc Ulysse",
-      "Bonjour Ed.",
-      "Borsari Louis",
-      "Borghese Jean",
-      "Bosson Emile",
-      "Brunner Albert",
-      "Caccia Charles",
-      "Calcagno G.",
-      "Caliri Antoine",
-      "Cellotti Alfred",
-      "Chaussures modernes. S. A.",
-      "Clerc Edward",
-      "Cordonnerie coopérative",
-      "Cretton Hubert",
-      "Conne Paul",
-      "Di Salvo Salvator",
-      "Erb A.",
-      "Filiti G.",
-      "Freymond Louis",
-      "Frosio Jean",
-      "Galli E.",
-      "Gallarotti Louis",
-      "Garin Lucien",
-      "Giacoletto Martino"
+    "Matériaux de construction": [
+      "Ellena Alexandre."
+    ],
+    "Mercerie-papeterie": [
+      "Saugy Sophie. R."
+    ],
+    "Modes": [
+      "Turrian Anna."
+    ],
+    "Officier d'état-civil": [
+      "Oesch Ami."
+    ],
+    "Pasteur": [
+      "Secretan Constantin-Pierre"
+    ],
+    "Pâtisseries": [
+      "Rochat L., fils",
+      "de Siebenthal Olivier."
+    ],
+    "Poste": [
+      "Saugy Gabriel."
+    ],
+    "Pensionnat de jeunes filles": [
+      "Rochat-Widmer"
+    ],
+    "Sages-femmes": [
+      "Bovay Louise",
+      "Saugy Hélène."
+    ],
+    "Scierie-caisserie": [
+      "Rossier-Cordey David."
+    ],
+    "Scieurs": [
+      "Andrey Auguste",
+      "Brand Christ.",
+      "Christener Fritz",
+      "Yersin Charles."
+    ],
+    "Sociétés": [
+      "de fromagerie du Village",
+      "de Flendruz",
+      "des Amis de la liberté suisse (de tir)",
+      "des eaux",
+      "de tir aux armes de guerre",
+      "des Tirs militaires",
+      "de musique militaire",
+      "de chant <Echo du Rubly>",
+      "Syndicat agricole. R.",
+      "Soc. de développement",
+      "Rossier-Cordey David",
+      "Société de pêche."
+    ],
+    "Tailleuses": [
+      "Blatti Emma",
+      "Cottier Isabelle",
+      "Desplands Louise",
+      "Menoud Elise",
+      "Schwitzguébel Caroline",
+      "Schwitzguébel Marie",
+      "Saugy Clara",
+      "Saugy Hortense",
+      "Turrian Elisa."
+    ],
+    "Tourneur": [
+      "Oesch-Schwitzguébel A."
+    ],
+    "Vins": [
+      "Filliettaz Hector",
+      "Saugy Victor."
+    ]
+  },
+  "FLENDRUZ": {
+    "Agriculteurs-éleveurs": [
+      "Bertholet",
+      "Breton Alfred",
+      "Breton Arthur",
+      "Favre-Perrod Alfred",
+      "Huser Chs",
+      "Mottier Ls",
+      "Muller",
+      "Rayroud Edouard",
+      "Rossier Pierre-David",
+      "Rossier",
+      "Rubin-Buensoz Alfr.",
+      "Rubin Jules-Alfr.",
+      "Saugy Dav.",
+      "Saugy Emile-Gabr.",
+      "Saugy Jules-Ls",
+      "Saugy Louis-Alexandre",
+      "Saugy Chs-Alfred",
+      "Schwitzguébel",
+      "Schwitzguébel Emile",
+      "Schwitzguébel Louis",
+      "Yersin Emile",
+      "Yersin Paul",
+      "Yersin Samuel",
+      "Yersin-Bricod Louis."
+    ],
+    "Aubergistes": [
+      "Divorne William",
+      "Jaquillard Paul",
+      "Pilet Arthur."
+    ],
+    "Bois (comm. de)": [
+      "Breton Ami."
+    ],
+    "Boulangers": [
+      "Divorne William"
+    ],
+    "Charrron": [
+      "Rubin Alfred."
+    ],
+    "Cordonnier": [
+      "Cicognani C."
+    ],
+    "Epiceries": [
+      "Cottier Hélène, Vve. R.",
+      "Yersin Alexis."
+    ],
+    "Instituteurs": [
+      "Wutrich Samuel",
+      "Wutrich Marie",
+      "Rossier-Cordey Alice."
+    ],
+    "Laitier": [
+      "Yersin Adrien."
+    ],
+    "Poste": [
+      "Cottier Ami"
+    ],
+    "Scieries": [
+      "Breton Ami",
+      "Cottier Maurice."
+    ],
+    "Tailleuses": [
+      "Breton Lina",
+      "Rubin Eglantine",
+      "Saugv-Mottier Marthe",
+      "Yersin Alice",
+      "Yersin Elisa."
     ]
   }
 }

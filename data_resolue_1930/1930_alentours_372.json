@@ -1,175 +1,118 @@
 {
-  "FERREYRES": {
-    "Machines à coudre": [
-      "Chablaix Eug."
+  "Montreux": {
+    "Instituteurs primaires.": [
+      "Morerod René",
+      "Mottier Marc",
+      "Nicole Hector",
+      "Pfister Louis",
+      "Thomi William",
+      "Tschumi Arthur",
+      "Zbinden Emile"
     ],
-    "Maraîchers": [
-      "Cheseaux Louis",
-      "Maret Maurice",
-      "Martin F.",
-      "Peroud Henri"
+    "Institutrices primaires et écoles enfantines.": [
+      "Beyeler Lucie",
+      "Bizier",
+      "Bissat Ida",
+      "Boulenaz Alice",
+      "Chevailler Elmir.",
+      "Chevalley Elisa",
+      "Chevalley Henriette",
+      "Corboz Marthe",
+      "Dufaux-Dubuis Aline",
+      "de Siebenthal Yvonne",
+      "Estoppey Marie",
+      "Jemini-Combremont Jeanne",
+      "Jouvenat Sophie",
+      "Jorand Adèle",
+      "Magnin-Favre",
+      "Martin Marie",
+      "Matter-Estoppey Marthe",
+      "Marmillod Rose",
+      "Masson Amélie",
+      "Mayor Elisa",
+      "Michel-Zimmermann M.",
+      "Monney Yvonne",
+      "Mury Bertha",
+      "Pilet Marie",
+      "Pinnel-Vallotton Emilie",
+      "Rambert Suzanne",
+      "de Siebenthal Yvonne",
+      "Schmid Martha",
+      "Vassaux Marcelle",
+      "Wichoud Germaine"
     ],
-    "Marbrier": [
-      "Gros-Perroud H."
+    "Instituteurs secondaires.": [
+      "Collège et Ecole supérieure",
+      "Dudan Camille",
+      "Blanc-Curtin V.",
+      "Bourl’honne Paul",
+      "Budry Maurice",
+      "Fæs Edouard",
+      "Furer Gaston",
+      "Guerne M.",
+      "Hieroltz Rod.",
+      "Piguet Robert",
+      "Portmann A.",
+      "Revillod Isaac",
+      "Reymond Marcel",
+      "Rouilly Emile",
+      "Stubbé Louis",
+      "Waldner Paul"
     ],
-    "Maréchaux": [
-      "Capré Jules",
-      "Naef & Hägler",
-      "Treina P."
+    "Institutrices secondaires.": [
+      "Campiche Marie",
+      "Derameru Augusta",
+      "Doleyres Pauline",
+      "Berger-Desponds Germaine",
+      "David Hélène",
+      "Mottier Lucy",
+      "Vuille Hélène"
     ],
-    "Matériaux de construction": [
-      "Gétaz, Romang, Ecoffey, S. A., Matériaux de construction, à Aigle.",
-      "Matériaux et produits en ciment armé, S. A."
+    "Ivoire (articles en).": [
+      "Klein F.",
+      "Mayor-Toillé Marg.",
+      "Werner G."
     ],
-    "Mécaniciens": [
-      "Blanc frères",
-      "Chablaix-Ischi Eug.",
-      "Dupraz E.",
-      "Henchoz H.",
-      "Ischy Aimé",
-      "Lanz Franz",
-      "Rohner",
-      "Weiss Emile"
+    "Jardin d'enfants.": [
+      "Tappy"
     ],
-    "Médecins": [
-      "Cuttat G.",
-      "Joly A.",
-      "Siegrist Hans",
-      "Soutter W."
+    "Jardiniers-maraîchers.": [
+      "Chambaz Aloïs",
+      "Chevallier Justin",
+      "Chevallier Juste",
+      "Dubois Jean",
+      "Dubois Charles",
+      "Filliettaz Albert",
+      "Francey",
+      "George Ernest",
+      "Jacot",
+      "Kiener Félix",
+      "Lorenz Alfred",
+      "Maeder Caroline",
+      "Morand Louis",
+      "Pfister G.",
+      "Pulfer Rodolphe",
+      "Roulier Samuel",
+      "Schlageter Edmond-Octave",
+      "Tharin Michel",
+      "Thétaz Marius",
+      "Zeh Ch."
     ],
-    "Menuisiers": [
-      "Muller Ch. T.",
-      "Sehallenberger Th.",
-      "Seewer E."
+    "Jouets, articles de fantaisie.": [
+      "Dreyfuss Blanche"
     ],
-    "Mercerie et bonneterie": [
-      "Andrey-Gottreux Augustine",
-      "Barbay Th., Vve",
-      "Dubuis sœurs & Girard M.",
-      "Mottier-Gonseth Aline",
-      "Soutter-Chausson Marguerite",
-      "Tanniger Ch."
+    "Journaux.": [
+      "English Herald",
+      "Feuille d'Avis de Montreux",
+      "Liste des Etrangers",
+      "Le Messager de Montreux : Imprimerie Nouvelle, Corbaz Ch.",
+      "La Semaine de Montreux, Sprintz Henri"
     ],
-    "Meubles": [
-      "Collet-Marguerat & Sœur",
-      "Luscher A."
-    ],
-    "Modistes": [
-      "Alber Hulda",
-      "Béboux Marguerite",
-      "Mauss frères"
-    ],
-    "Moulins": [
-      "Soutter I. & Cie"
-    ],
-    "Moutarde (fabr. de)": [
-      "Fabrique de la moutarde d'Aigle Reitzel & Cie, Rochebord."
-    ],
-    "Notaires": [
-      "Dubuis E.",
-      "Genet Ed. & Paul",
-      "Genillard Albert"
-    ],
-    "Officier de l'état civil": [
-      "Moret, Aug."
-    ],
-    "Organiste": [
-      "Drapel Olga"
-    ],
-    "Papetiers": [
-      "Amiguet Emile",
-      "Merle Jeanne, Mlle"
-    ],
-    "Parquets (fab. de)": [
-      "Parqueterie d'Aigle, Kernen A., direct."
-    ],
-    "Parapluies (march. de)": [
-      "Favrod-Coune Aug.",
-      "Lavanchy Henri",
-      "Niklès-Tauxe Gust."
-    ],
-    "Pasteurs": [
-      "Augsbourger Emmanuel",
-      "Gretillat Robert",
-      "Fleury Paul",
-      "Rockenbach R."
-    ],
-    "Patinage (place de)": [
-      "Kernen Aloïs, président."
-    ],
-    "Peintre (voitures, enseignes, etc.)": [
-      "Knutti Edouard"
-    ],
-    "Pépiniéristes": [
-      "Chablaix Albert",
-      "Pousaz",
-      "Cottier André",
-      "Hauser Paul",
-      "Moret G.-Ad.",
-      "Rau André"
-    ],
-    "Pharmaciens": [
-      "Bornand Rémy",
-      "Ducrey Emile"
-    ],
-    "Photographes": [
-      "Juvet Blanche"
-    ],
-    "Poids et mesures": [
-      "Bertholet Samuel"
-    ],
-    "Poterie": [
-      "Denoréaz-Oguey O.",
-      "Favrod-Coune",
-      "Nicklès Gustave",
-      "Stroubhardt H.",
-      "Tanniger-Burnier F."
-    ],
-    "Poudre (débit de)": [
-      "Urech Rodolphe"
-    ],
-    "Produits en ciment armé": [
-      "Produits en ciment armé",
-      "Gétaz, Romang, Ecoffey, S. A., successeurs de Emile Martignier à Aigle."
-    ],
-    "Professeur de musique": [
-      "Jordan N., Mme"
-    ],
-    "Ramoneur": [
-      "Rossier Aug."
-    ],
-    "Relieurs": [
-      "Amiguet Emile",
-      "Borloz-Comtesse Jules"
-    ],
-    "Représentants": [
-      "Chaubert O.",
-      "Junod Marcel"
-    ],
-    "Sages-femmes": [
-      "Dormond L., Mlle",
-      "Monod-Ansermier dame",
-      "Rouge-Picot, dame"
-    ],
-    "Scieries": [
-      "Clavadetscher Jean",
-      "Kaufmann Alexandre",
-      "Parqueterie d'Aigle, Kernen Aloïs, directeur.",
-      "Usine du Molage",
-      "Waidel Ezéchiel",
-      "Vernaud Charles"
-    ],
-    "Selliers": [
-      "Brélaz Oscar",
-      "Muller, hoirs d'Eug.",
-      "Pittet Louis"
-    ],
-    "Serruriers": [
-      "Cordey Paul et fils",
-      "Ferrari E.",
-      "Girard Louis",
-      "Neef & Hägler",
-      "Pittet Paul"
+    "Journaux (marchands de).": [
+      "Bibliothèque Gare C. F. F.",
+      "Correvon Alice",
+      "Faist B.",
+      "Gasparian"
     ]
   }
 }

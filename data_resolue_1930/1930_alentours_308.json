@@ -1,114 +1,88 @@
 {
-  "Montreux": {
-    "Mercerie": [
-      "Maison de Tricots, Knitting House, (S. A.)",
-      "Malera M., dame",
-      "Margot A. & C.",
-      "Minola Marcel",
-      "Mury Louise",
-      "Raemy-Merlin Anna",
-      "Rambert Marie",
-      "Rothfeld-Bapst Anne",
-      "Rusillon Louise",
-      "Schmocker Jean",
-      "Schüpbach F.",
-      "Stebler Elise",
-      "Talon-Duplan Mme",
-      "Tuscher Ernest",
-      "Vuerchoz, dame",
-      "Vuitel Marie-Louise",
-      "Whitley William",
-      "Zurcher-Heimgartner"
+  "Ville de Vevey": {
+    "Syndic": [
+      "Couvreu Eugène"
     ],
-    "Mesureur-juré du Cercle.": [
-      "Aellen S."
+    "Premier vice-président": [
+      "Ansermet Auguste"
     ],
-    "Meubles de bureaux.": [
-      "Gardel Alfred"
+    "Second vice-président": [
+      "Jaquerod Louis"
     ],
-    "Meubles.": [
-      "Albini N.",
-      "Altorfer Ed.",
-      "Berger A.",
-      "Buzzi",
-      "Despland Gust.",
-      "Dunker",
-      "Held Albert & Cie, Menuiserie Modèle",
-      "Henchoz",
-      "Martin G.-R.",
-      "Pope H.-G.",
-      "Suter Louis",
-      "Tabord M.",
-      "Viquerat A.",
-      "Wolfer Auguste"
+    "Membres": [
+      "Jaquerod Louis",
+      "Grobet Henri",
+      "Demierre Auguste"
     ],
-    "Meubles en jonc.": [
-      "Société anonyme de Produits en rotin",
-      "Hurbin Henri",
-      "Messmer Albert",
-      "Messmer id."
+    "Président": [
+      "Demierre Auguste",
+      "Couvreu Eugène",
+      "Ansermet Auguste",
+      "Grobet Henri",
+      "Jaquerod Louis"
     ],
-    "Meunier.": [
-      "Dizerens L."
+    "Secrétaire municipal": [
+      "Chenaux Louis"
     ],
-    "Modistes.": [
-      "Beck, Mlle",
-      "Chalons Madeleine",
-      "Dutoit-Depallens, dame",
-      "Fémina-Modes, W. Jablonski",
-      "Hermann-Fuhrer Emma",
-      "Jaccard Germaine",
-      "Jonneret F.",
-      "Le Claire Laure",
-      "Maison Jeanne",
-      "Matthey, Mme",
-      "Meier Catherine",
-      "Moos Jeanne",
-      "Rambert Marie",
-      "Rieder, Mme",
-      "Sera, Mlle",
-      "Schüpbach F.",
-      "Stetter Hélène",
-      "Taroni J, dame",
-      "Tridondani Jacynthe",
-      "Walther Henry & Cie., S. A.",
-      "Wertheimer-Bloch P."
+    "Caissier municipal": [
+      "Clavel Edouard"
     ],
-    "Musique (magasins de).": [
-      "Drabsch L.",
-      "Fœtisch frères, S. A.",
-      "Räuber frères",
-      "Strauer H."
+    "Directeur des travaux": [
+      "Pfeiffer Paul"
     ],
-    "Musique (prof. de).": [
-      "Académie de musique, G. Vuille-Helbing, Dr",
-      "Conservatoire de Montreux, de Ribaupierre Dr",
-      "Bard Isabelle",
-      "Bopp Ed.",
-      "Bopp id.",
-      "Bopp-Sarot D., Mme",
-      "Champion René",
-      "Collomb-Dutoit Florence",
-      "Combe, Mme et Mlle",
-      "Cossard-Leland A.",
-      "de Ribaupierre, Mlle",
-      "de Ribaupierre Emile",
-      "Feustel-Mamin",
-      "Furer Robert",
-      "Held Thécla",
-      "Hillært Th.",
-      "Lengobardi Alphonse",
-      "Lowicki Boris",
-      "Malera-Tauxe, Mme",
-      "Otto Odette",
-      "Pelottieri Oscar",
-      "Serieyx Aug.",
-      "Stanley-Wise",
-      "Stocker R.-Hedwige",
-      "Sutermeister Sophie",
-      "Sutermeister H.",
-      "Waldever-Wendling Mad.",
-      "Wötzel R."
+    "Inspecteur des domaines": [
+      "Serex Ed."
+    ],
+    "Recteur de l'Hôpital": [
+      "Genand Emile"
+    ],
+    "Conseil communal": [
+      "Ledermann Daniel"
+    ],
+    "Greffe de paix": [
+      "Dubuis G."
+    ],
+    "Greffe du Tribunal": [
+      "Vulliémoz Louis"
+    ],
+    "Greffe central des Prud'hommes": [
+      "Bergoz Louis"
+    ],
+    "Bureau du Juge de paix": [
+      "Chappuis Louis"
+    ],
+    "Bureau et poste de police": [
+      "Bocion Adolphe"
+    ],
+    "Bureau de l'état civil": [
+      "D. Dénéréaz"
+    ],
+    "Office des poursuites et faillites": [
+      "Ledermann Charles"
+    ],
+    "Office social": [
+      "Dériaz Ls"
+    ],
+    "Inspecteur du bétail": [
+      "Dufey Louis"
+    ],
+    "Chef de section": [
+      "Zwahlen Louis"
+    ],
+    "Commandant du bataillon des sapeurs-pompiers": [
+      "Blanc Louis"
+    ],
+    "Vérificateur des poids et mesures": [
+      "Ormond Louis"
+    ],
+    "Entrepôts publics": [
+      "Rapin Charles"
+    ],
+    "Service intercommunal des eaux": [
+      "Panchaud Ch."
+    ],
+    "Assurance mobilière cantonale": [
+      "Jaquerod L."
     ]
   }
 }

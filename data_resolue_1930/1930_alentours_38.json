@@ -1,202 +1,94 @@
 {
-  "CULLY": {
-    "Hôtel": [
-      "Kuhn J."
+  "MONTREUX": {
+    "Vignerons": [
+      "Bron G.",
+      "Buhrer André",
+      "Collaboration Pharmaceutique, S. A.",
+      "Gaillard A.-Th.",
+      "Holbek-Engelmann Victor",
+      "Lecoultre Ch.",
+      "Marti",
+      "Pharmacie Schmidt",
+      "Poirier Fréd.",
+      "Schiess C."
     ],
-    "Imprimerie": [
-      "Durussel Gustave"
+    "Philatélie (articles de).": [
+      "Guyer-Halblützel H., Vve."
     ],
-    "Journal": [
-      "Chronique de Lavaux",
-      "Durussel Gustave"
+    "Photographes.": [
+      "Dufaux Henri",
+      "Erismann F.",
+      "Fransioli Bernard",
+      "Haeki Hermann",
+      "Maier M.",
+      "Michel Louis",
+      "Phototypie Co, S. A.",
+      "Photo-House, Stœcklin Ern.",
+      "Revmond S.",
+      "Schlemmer Rod.",
+      "Tornow Gérard"
     ],
-    "Inspecteurs du bétail": [
-      "Manigley Constant",
-      "Paschoud Alexis"
+    "Photographie (fournitures pour la).": [
+      "Comptoir suisse de photographie",
+      "Fransioli Bernard",
+      "Haecki H.",
+      "Muller Emile"
     ],
-    "Inspecteur forestier": [
-      "Veillon Mce"
+    "Pianos.": [
+      "Drabsch",
+      "Fœtisch frères, S. A.",
+      "Räuber frères",
+      "Strauer"
     ],
-    "Instituteurs primaires": [
-      "Jaquet Ch.",
-      "Simon Emile",
-      "Rochat Albert",
-      "Duboux Elise",
-      "Mellet Anna, Mlle",
-      "Paul Marthe"
+    "Pneumatiques et Vulcanisation.": [
+      "Schlaeppi Marc"
     ],
-    "Instituteurs secondaires": [
-      "Regamey Gustave",
-      "Caillet Marguerite"
+    "Poêliers.": [
+      "Aeschlimann W.",
+      "Berthet E.",
+      "Grognuz Marius",
+      "Paillex Isaïe"
     ],
-    "Jardiniers": [
-      "Cuénoud Victor; de François",
-      "Cuénoud Victor d'Henri",
-      "Girardet Henri"
+    "Police.": [
+      "Byrde David"
     ],
-    "Justice de paix du cercle": [
-      "Potterat-Bidaux Jean",
-      "Fonjallaz Ernest",
-      "Rouge François",
-      "Chappuis Aimé",
-      "Corboz Samuel",
-      "Reymond Marcel",
-      "Blondel Emile"
+    "Porcelaines et cristaux.": [
+      "Béard Henri",
+      "Clément Ph.",
+      "Dériaz Louis",
+      "Gachoud-Dind E.",
+      "Henchoz Albert",
+      "Reymondin Henri",
+      "Tzaut-Serex, Vve"
     ],
-    "Laitiers": [
-      "Braissant Alexandre",
-      "Durig Fritz"
+    "Porcherie.": [
+      "Société de la Porcherie, S. A."
     ],
-    "Lingères": [
-      "Cuénoud sœurs"
+    "Produits alimentaires.": [
+      "Brun Henri",
+      "Zürcher A. & Cie"
     ],
-    "Matériaux de construction": [
-      "Pellet Auguste"
+    "Professeur de rythmique.": [
+      "Bouët, Mlle"
     ],
-    "Machines à coudre. Mécanicien-électricien": [
-      "Capt Victor"
+    "Professeurs de langues.": [
+      "Mattei Jeanne",
+      "Olivetti G.",
+      "Longchamp B.",
+      "Renkevitz F.-B.",
+      "Waldeyer-Wendling, Mme",
+      "Watson E.-M."
     ],
-    "Mécaniciens": [
-      "Borgeaud François",
-      "Capt Victor",
-      "Pellet Isaac"
+    "Professeur de peinture.": [
+      "Heller M., Dlle"
     ],
-    "Médecin": [
-      "Nagel P. T."
-    ],
-    "Menuisiers": [
-      "Cordey Edmond",
-      "Valet Julien"
-    ],
-    "Mercerie": [
-      "Voir Epicerie"
-    ],
-    "Modiste": [
-      "Destraz-Pasche Aimée"
-    ],
-    "Notaires": [
-      "Dupertuis Antoine",
-      "Jaton Fernand",
-      "Noverraz Ch."
-    ],
-    "Officier d'état civil": [
-      "Dagon Armand",
-      "Dupertuis Antoine"
-    ],
-    "Papeteries": [
-      "Durussel Gustave",
-      "Rapin-Duboux Gaston"
-    ],
-    "Pasteurs": [
-      "Laufer Henri",
-      "Meystre Pierre"
-    ],
-    "Pécheurs": [
-      "Brunner Ed. T.",
-      "Moser Ch.",
-      "Rouge Henri"
-    ],
-    "Peintres en bâtiment": [
-      "Ambrosino Joseph",
-      "Ambrosino Pierre",
-      "Durussel Robert"
-    ],
-    "Pépiniéristes": [
-      "Blanche Henri",
-      "Carroz Emile",
-      "Cuénoud Victor, fils d'Henri"
-    ],
-    "Photographe": [
-      "Piguet Charles"
-    ],
-    "Poste": [
-      "Möri Silas"
-    ],
-    "Propriétaires de vignobles": [
-      "de Roguin",
-      "de Buren",
-      "de Weck",
-      "Commune de Cully",
-      "Duboux Marcel",
-      "Hoirie Dumur",
-      "Fonjallaz Henri",
-      "Mercanton Ch.",
-      "Potterat-Bideau"
-    ],
-    "Quincaillerie": [
-      "Cuénoud François",
-      "Rapin-Duboux Gaston"
-    ],
-    "Radeleur": [
-      "Brunner Edouard"
-    ],
-    "Repasseuses": [
-      "Béboux-Daccord Mme",
-      "Vallon-Béboux Valentine"
-    ],
-    "Sage-femme": [
-      "Paschoud, dame"
-    ],
-    "Serruriers": [
-      "Girardet Paul",
-      "Guignet Ernest",
-      "Von Arx Paul"
-    ],
-    "Sociétés": [
-      "Immobilière de l'église libre",
-      "Laiterie de Chenaux",
-      "Militaire de l'anc. comm. de Villette",
-      "de développement",
-      "Tir aux armes de guerre",
-      "vaudoise d'agriculture et de viticulture",
-      "de gymnastique",
-      "La Lyre",
-      "Orchestre de Lavaux",
-      "Chœur d'hommes de Lavaux",
-      "Chœur de dames",
-      "Section de la Croix-Bleue",
-      "Sauvetage du Léman",
-      "Eclaireurs"
-    ],
-    "Tabacs et cigares": [
-      "Voir Epicerie"
-    ],
-    "Tailleurs": [
-      "Antonioli G.",
-      "Gavaggio C. R."
-    ],
-    "Tailleuses": [
-      "Davel Louise",
-      "Durussel Inès, dame",
-      "Lavanchy Emma"
-    ],
-    "Tartre": [
-      "Cuénoud François"
-    ],
-    "Télégraphe et téléph.": [
-      "Möri Silas"
-    ],
-    "Téléphone communal": [
-      "Hôtel de Ville"
-    ],
-    "Tonnelier": [
-      "Marti Rodolphe"
-    ],
-    "Tricotage à la machine": [
-      "Masson, Mlle"
-    ],
-    "Vélos": [
-      "Borgeaud François",
-      "Capt Victor",
-      "Pellet Isaac"
-    ],
-    "Vignerons-propriétaires": [
-      "Borgognon Charles",
-      "Bovard Louis",
-      "Bron Victor",
-      "Crot Henri",
-      "Duboux Eug.",
-      "Fonjal-"
+    "Quincaillerie.": [
+      "Billeter Marc",
+      "Breuer & Cie",
+      "Dériaz Ls",
+      "Egloff-Ritschard Ernest",
+      "Gloor-Tissot C., Mme",
+      "Junod Ami"
     ]
   }
 }

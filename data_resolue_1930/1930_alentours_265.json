@@ -1,90 +1,121 @@
 {
-  "VILLE DE VEVEY": {
-    "Divers.": [
-      "Grangier Edouard",
-      "Grangier, Mme",
-      "Groux Henri",
-      "Guex Jules",
-      "Guhl Ernest",
-      "Gunthert, Vve de Ch.",
-      "Halder J.. Mme",
-      "Hahn, Vve de Louis",
-      "Haldi Charles",
-      "Hausherr Ernest",
-      "Hears L.",
-      "Heinrich, Mlles",
-      "Heller-Cochard W.",
-      "Hemmerich K.-G.",
-      "Herter Ch.",
-      "Heynnemann Maximilien",
-      "Hofmann-Paschoud, dame",
-      "Hosner-Martin O.",
-      "Hug Otto",
-      "Huguenin Hélène",
-      "Huguenin Gustave",
-      "Hulliger G. et J.",
-      "Im Sand",
-      "Isler Walter",
-      "Isler Rosa, Vve",
-      "Isnard Jules",
-      "Jacot-Guillarmod Georges",
-      "Jaques Samuel",
-      "Jeanneret-Perret",
-      "Jeantellet, Mlles",
-      "Juchli J.",
-      "Junker-Grand, Mme",
-      "Junod L.",
-      "Ketterer A.",
-      "Kirschbaum Ch",
-      "Klausfelder - Brun Albert",
-      "Klausfelder Burkardt",
-      "Klausfelder, Vve",
-      "Kleinmann Charles",
-      "Kramer Oct.",
-      "Kupfer Hans",
-      "Lauterer-Piguet K.",
-      "Lavanchy Marie et Marguerite, Dlles",
-      "Lavanchy Marcel",
-      "Ledermann Ch.",
-      "Ledermann Auguste",
-      "Leutenegger Aug.",
-      "Leyvraz Charles",
-      "Liausun Laure",
-      "Loude François",
-      "Loude Charles",
-      "Loude, Marguerite",
-      "Luthi J.",
-      "Magnenat, Vve de Marc",
-      "Maillard C., Vve",
-      "Maillard Henri",
-      "Margot A.",
-      "Martin Rod.",
-      "Masson, Vve d'Henri",
-      "Masson Marius",
-      "Matthez Henri-Arthur",
-      "Matthez, Vve d'Henri-Albert",
-      "Mayor Auguste",
-      "Mayor Robert",
-      "Mayor-Delapraz J. E.",
-      "Mercier Fernand",
-      "Messerli-Perrin Ern.",
-      "Mettauer. Mme. Vve",
-      "Meyer Arnold",
-      "Monney L.",
-      "Morel Alice",
-      "Moudon Louis",
-      "Muller",
-      "de Munnick",
-      "Murisier Paul",
-      "Nicollier Ch.",
-      "Nicollier-Chevalley M.",
-      "Odier-Burnat Jacques",
-      "Ormond Jean-Louis",
-      "Panchaud Jules",
-      "Pasche H.",
-      "Paschoud Henri",
-      "Petitmermet Robert",
-      "de Penfeilhoux."
+  "Ville de Payerne": {
+    "Chef de section.": [
+      "Poste de gendarmerie"
+    ],
+    "Chiffons (march. de).": [
+      "Goutte Emile"
+    ],
+    "Cinématographe.": [
+      "Cinéma Apollo",
+      "Cinéma Beaulieu",
+      "Rouvenaz Marie"
+    ],
+    "Clos d'équarrissage.": [
+      "Milliquet M."
+    ],
+    "Coiffeurs.": [
+      "Bachofen Otto.",
+      "Beaufils dame (dames)",
+      "Cosandey-Della-Chiesa, dame (dames)",
+      "Bonny Ernest",
+      "Doudin Frédéric",
+      "Savary Georges",
+      "Steinmann G. (dames)",
+      "Willommet A."
+    ],
+    "Combustibles.": [
+      "Delessert Paul.",
+      "Favre & Cie (S. A.)",
+      "Goutte Emile",
+      "Martin-Pittet, Vve de Louis.",
+      "Rapin Jules"
+    ],
+    "Commissionnaire-expéditeur.": [
+      "Pahud frères."
+    ],
+    "Commission scolaire.": [
+      "Capt Marius",
+      "Bornand Jules",
+      "Grand Benjamin.",
+      "Jomini-Husson Benjamin.",
+      "Mayor Gustave",
+      "Perrin-Givel Numa.",
+      "Wulliémoz Ernest."
+    ],
+    "Confections. Tissus.": [
+      "Aux Galeries Vaudoises",
+      "Bladt P.",
+      "Assal-Baudet L.",
+      "Brunschwig Paul",
+      "Dresco & Cie.",
+      "Gingins-Berger Adèle",
+      "Gunzberger Georges",
+      "Meyer Robert.",
+      "Rossier-Pahud Henri",
+      "Tissot Henri"
+    ],
+    "Confiseurs.": [
+      "Baumgartner Fritz.",
+      "Porchet Robert.",
+      "Guggi Robert.",
+      "Husson Henri",
+      "Jaquier H.",
+      "Neuhaus E."
+    ],
+    "Constructeurs-mécaniciens.": [
+      "Fuchs Rob. & fils"
+    ],
+    "Cordiers.": [
+      "Corderie de Payerne (S. A.)",
+      "Rossier Louis, père."
+    ],
+    "Cordonniers.": [
+      "Andrist Charles",
+      "Bianchetto Jean",
+      "Carenini Jean",
+      "Charbonney Emile",
+      "Cherbuin Louis",
+      "Givel Marcel",
+      "Gloor Charles.",
+      "Gorgerat Virgile.",
+      "Hermann César.",
+      "Laurent Jules.",
+      "Matthys Fritz.",
+      "Morgenegg Edouard.",
+      "Perrin Eugène.",
+      "Perrin Henri",
+      "Rossier Jérôme",
+      "Siegrist-Liniger Th."
+    ],
+    "Coutellerie.": [
+      "Ischy-Savary Ls."
+    ],
+    "Couvreurs.": [
+      "Ravet-Barmaverein Isidore.",
+      "Sansonnens Jules"
+    ],
+    "Cuirs et Peaux (march. de).": [
+      "Serex-Jomini"
+    ],
+    "Curé.": [
+      "Battistolo Louis."
+    ],
+    "Dallage. Plafonds d'écuries sans condensations.": [
+      "Tuilerie Zbinden frères."
+    ],
+    "Denrées coloniales et benzine (en gros)": [
+      "Perrin frères"
+    ],
+    "Dentistes.": [
+      "Capt Marius.",
+      "Perrin Théophile"
+    ],
+    "Distilleries.": [
+      "Kocherhans Jacob.",
+      "Distillerie agricole Payerne-Corcelles",
+      "Savary Rob.",
+      "Danzeisen-Caille Willy."
     ]
   }
 }

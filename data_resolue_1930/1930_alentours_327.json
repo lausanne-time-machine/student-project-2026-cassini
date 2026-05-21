@@ -1,100 +1,98 @@
 {
-  "VILLE D'YVERDON": {
-    "Grains et farines": [
-      "Chevalley Henri",
-      "Cochet E.",
-      "Cuérel Constant",
-      "Fornallaz Jean",
-      "Gehry-Stebler F.",
-      "Goy Marcel",
-      "Porchet Henri",
-      "Société vaudoise d'agriculture",
-      "Wuthrich W."
+  "Ville de Vevey": {
+    "Mercerie": [
+      "Gerber Arthur",
+      "Grognuz, Ch.",
+      "Jablonski",
+      "Lux Maximilien",
+      "Masson Jean",
+      "Meyer F.",
+      "Nicollier sœurs",
+      "Pilet Marguerite",
+      "Rudaz Gustave",
+      "Schwob Lucien",
+      "Wyler Marthe",
+      "Walther H. S., S. A.",
+      "Zanone A."
     ],
-    "Graisses alimentaires": [
-      "Verdan Charles-Ern."
+    "Meubles (fabr. de.)": [
+      "Kopp Max"
     ],
-    "Graveur": [
-      "Robert James"
+    "Meubles (march. de.)": [
+      "Bavaud, Vve de Ls",
+      "Brunschwig Achille",
+      "Duperrex Jules",
+      "Mäusli E.",
+      "Meyer A.",
+      "Poncioni Z.",
+      "Schopper, frères et sœur",
+      "Wernli Jacob"
     ],
-    "Gypsiers-peintres": [
-      "Antoniotti A.",
-      "Blanc Alex.",
-      "Brunner & Décoppet",
-      "Doninelli Emile",
-      "Fontana Dominique",
-      "Loup James",
-      "Maiola Pierre",
-      "Mantegazzi C.",
-      "Monti A., fils",
-      "Monti Max",
-      "Michel frères",
-      "Moser P.",
-      "Ortelli Ant. & fils",
-      "Petitpierre Jean",
-      "Rigazzi frères",
-      "Schmidhauser A.",
-      "Soc. coopérat. ouv. du Bâtiment",
-      "Striberni Ch., fils"
+    "Modes.": [
+      "Allemann H.",
+      "Aux Chapeaux de Paris, S. A.",
+      "Ayer Alice",
+      "Beltrami, Dlle.",
+      "Bruschi Adolphe",
+      "Chambaz Marguerite",
+      "Ferrin Marguerite",
+      "Gavin Alice",
+      "Guex, Mlle.",
+      "Jablonsky W.",
+      "Maison « Marcelle »",
+      "Métraux, Mlle.",
+      "Muller-Hadrava Hermina",
+      "Vuitel, Mlle.",
+      "Walther H. S.",
+      "Zanoli Marie"
     ],
-    "Horlogerie (fab. d')": [
-      "Rochat-Chapallaz & Cie"
+    "Modeleur.": [
+      "Guggerli E."
     ],
-    "Horlogers": [
-      "Aeschlimann G., fils",
-      "Gillabert Charles",
-      "Golay Paul",
-      "Doudin Charles",
-      "Piaget-Bourquin Alfred",
-      "Reuge A.",
-      "Rochat André",
-      "Thévenaz A."
+    "Moteurs et bobinages (construction et réparations)": [
+      "Spälti fils & Cie."
     ],
-    "Horticulteurs": [
-      "Baltensperger Paul",
-      "Bellay Henri",
-      "Bosshart E.",
-      "Delafontaine Robert",
-      "Fague A.",
-      "Fatio Paul",
-      "Flendrich Ernest. fils",
-      "Francfort L.",
-      "Gonin G.",
-      "Grosskost F.",
-      "Jaquet Armand",
-      "Lapp Auguste",
-      "Moccand Samuel",
-      "Probst C.",
-      "Pury René",
-      "Specht Louis",
-      "Theubet Jules",
-      "von Gunten J. & fils"
+    "Musée.": [
+      "Musée Jenisch"
     ],
-    "Hospices et infirmerie": [
-      "Crèche",
-      "Asile des vieillards",
-      "Infirmerie Clendy"
+    "Musique (march. de).": [
+      "Fœtisch frères (S. A.)",
+      "Radrizzani Angelo",
+      "Savoca P."
     ],
-    "Hôtels": [
-      "Grand Hôtel des Bains et Etablissement thermal, S. A.",
-      "Hôtel de l'Ange",
-      "Hôtel de l'Ecusson Vaudois",
-      "Hôtel du Guillaume Tell",
-      "Hôtel de Londres",
-      "Hôtel-pension de la Maison Blanche",
-      "Hôtel de la Prairie",
-      "Hôtel du Paon",
-      "Hôtel du Port",
-      "Hôtel Suisse",
-      "Hôtel du Winkelried"
+    "Nettoyeurs.": [
+      "Sarriau Armand"
     ],
-    "Huiles et graisses industrielles": [
-      "Cuérel C.",
-      "Henrioud R."
+    "Nickeleurs.": [
+      "Bachmann Jakob",
+      "Walser Robert"
     ],
-    "Imprimeurs": [
-      "Cornaz Henri",
-      "Kramer Edmond"
+    "Notaires.": [
+      "Ansermet Jules",
+      "Beauverd D. L.",
+      "Dénéréaz David",
+      "Michel Alex. et Felli Emile",
+      "Monod E. et A.",
+      "Noguet Jean"
+    ],
+    "Occasions (march. d').": [
+      "Mäusli E."
+    ],
+    "Objets d'art.": [
+      "Dick Charles",
+      "Dubochet Charles",
+      "Guhl Ernest fils",
+      "Leuenberger Hans",
+      "Seiler Aug."
+    ],
+    "Oeufs (gros).": [
+      "Jost Albert"
+    ],
+    "Office social.": [
+      "Bureau"
+    ],
+    "Officier d'état-civil.": [
+      "Dénéréaz David"
     ]
   }
 }

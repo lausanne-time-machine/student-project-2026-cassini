@@ -1,229 +1,120 @@
 {
-  "ESSERTES": {
-    "Couturières": [
-      "Crot Isaline",
-      "Jaton Lina"
-    ],
-    "Dépositaire postal": [
-      "Destraz F."
-    ],
-    "Epicerie": [
-      "Conne Robert",
-      "Destraz-Stuby François. R."
-    ],
-    "Inspecteur du bétail": [
-      "Décosterd Frédéric"
-    ],
-    "Instituteur": [
-      "Guex Jules"
-    ],
-    "Maréchaux": [
-      "Niederhauser Fritz et Paul"
-    ],
-    "Société": [
-      "de laiterie. R."
-    ],
-    "Téléphoniste": [
-      "Conne Caroline",
-      "Pasche William"
-    ],
-    "Photographe": [
-      "Buttet Arthur"
-    ],
-    "Pierriste": [
-      "Maulaz Henri"
-    ],
-    "Sociétés": [
-      "Immobilière de fromagerie et laiterie. R.",
-      "Militaire de tir aux armes de guerre"
-    ],
-    "Tailleur de pierres": [
-      "Buttet Ulysse"
-    ]
-  },
-  "FERLENS": {
-    "Autorités communales": [
-      "Buttet Louis",
-      "Cherpillod Edmond",
-      "Pasche Vincent",
-      "Décosterd Ami",
-      "Buttet Ulysse",
-      "Buttet Arthur",
-      "Fawer Jules",
-      "Pasche Henri",
-      "Buttet Arthur"
-    ],
+  "Ville de Moudon": {
     "Agriculteurs": [
-      "Buttet Adolphe, de Jean",
-      "Buttet Adolphe, de Siméon",
-      "Buttet Albert",
-      "Buttet Vincent de Louis",
-      "Buttet Louis, ffeu Gabriel",
-      "Buttet Ulysse",
-      "Cherpillod Edmond",
-      "Chevalley Jules",
-      "Cottet Célestin",
-      "Décosterd David",
-      "Delessert Louis",
-      "Fawer Jules",
-      "Gilliéron Eugène. Vve",
-      "Gilliéron Ulysse",
-      "Martin Alph.",
-      "Pasche Emile",
-      "Pasche Héli",
-      "Pasche Hri d'Oscar",
-      "Pasche Henri",
-      "Pasche Vincent",
-      "Pasche William",
-      "Parisod François-Louis",
-      "Pidoux Aloïs",
-      "Porchet Ami"
+      "Jan Daniel",
+      "Jossevel Louis",
+      "Löffel Albert.",
+      "Martin frères",
+      "Meylan frères",
+      "Mischler frères",
+      "Monachon Emile.",
+      "Nicod Alfred",
+      "Olivier Henri",
+      "Roux Jules",
+      "Schenk Christian",
+      "Stauffer Ernest",
+      "Thonney Eugène",
+      "Trolliet Maurice",
+      "Wicht Pierre-Paul",
+      "Wütrich Jean",
+      "Wyler Ernest",
+      "Wyttenbach Ernest."
     ],
-    "Apiculteurs": [
-      "Buttet Louis",
-      "Delessert Louis",
-      "Fawer Jules",
-      "Maulaz Henri",
-      "Martin Alphonse",
-      "Pasche William"
+    "Ameublements (Voir Meubles)": [
+      "Müller Jean"
     ],
-    "Assurance-vieillesse. Associations mutualistes de retraite": [
-      "Bouquet F."
+    "Architecte": [
+      "Bertolini Louis"
     ],
-    "Bois (march. de)": [
-      "Pasche Henri",
-      "Pasche Vincent"
+    "Articles de voyage": [
+      "Bertholet Ernest.",
+      "Ehrsam Jaques.",
+      "Jaggi & Rayroux Sœurs.",
+      "Hermann René"
     ],
-    "Café": [
-      "Porchet Clara"
+    "Assortiments": [
+      "Galeries Vaudoises"
     ],
-    "Cantonniers": [
-      "Dubois Henri",
-      "Pasche John"
+    "Assurances": [
+      "La Suisse",
+      "Assurance mobilière cantonale",
+      "La Bâloise",
+      "La Genevoise",
+      "Stuttgart",
+      "La Winterthour",
+      "La Zurich"
     ],
-    "Commission scolaire": [
-      "Martin Alphonse"
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite."
     ],
-    "Couturières": [
-      "Buttet Bertha",
-      "Buttet Emma"
+    "Automobiles (fournitures et répar.)": [
+      "Desmeules Marcel",
+      "Dutoit Ernest.",
+      "Rubin E.",
+      "Kormann Oscar."
     ],
-    "Epicerie, mercerie": [
-      "Thonney Alfred"
+    "Auto-Taxis — Autocars — (voir aussi Autos)": [
+      "Gris Alexis.",
+      "Magne Maurice.",
+      "Ruch Jean."
     ],
-    "Facteur postal": [
-      "Pasche William"
+    "Banques": [
+      "Agassiz & Cie",
+      "Banque cantonale vaudoise",
+      "Banque populaire de la Broye",
+      "Caisse d'épargne du district de Moudon",
+      "Union Vaudoise du Crédit"
     ],
-    "Inspecteur du bétail": [
-      "Pasche-Jaquier Henri"
+    "Batteuses": [
+      "Besson & Cie",
+      "Chalet Julien"
     ],
-    "Instituteurs": [
-      "Bouquet Francis",
-      "Pasche-Lavanchy, Marguerite"
-    ],
-    "Maréchal (forge)": [
-      "Martin Alphonse"
-    ],
-    "Moulin": [
-      "Décosterd David. R."
-    ]
-  },
-  "MARACON": {
-    "Autorités communales": [
-      "Chollet Léonard",
-      "Chollet Emile",
-      "Dovat Louis",
-      "Chollet Louis-Samuel",
-      "Chollet Marius",
-      "Chollet Fréd.",
-      "Serex Léon",
-      "Serex Henri",
-      "Chollet Louis"
-    ],
-    "Agriculteurs": [
-      "Chollet Alfred",
-      "Chollet Constant",
-      "Chollet frères, Charles et Emile",
-      "Chollet frères, Hri et Emile",
-      "Chollet Marius",
-      "Chollet Ulysse",
-      "Dovat Louis",
-      "Serex Aloïs, au Very",
-      "Serex Constant",
-      "Serex J.-Jules",
-      "Visinand Léonard"
-    ],
-    "Apiculteur": [
-      "Dovat Louis"
-    ],
-    "Assurance-vieillesse. Mutualité scolaire de retraite": [
-      "Besson Henri"
+    "Bazars": [
+      "Lob Elie.",
+      "Pache Louis",
+      "Jaggi & Rayroux",
+      "Steck"
     ],
     "Bestiaux (march. de)": [
-      "Dovat Louis",
-      "Regamey Louis"
+      "Blanc David",
+      "Bloch Isaac.",
+      "Bloch-Weil Th.",
+      "Chassot Emile",
+      "Dreyfuss Lazare.",
+      "Eyer Robert.",
+      "Goumaz",
+      "Lévy frères",
+      "Lob Elie."
     ],
-    "Bétail (élev. de)": [
-      "Chollet Henri",
-      "Chollet Paul-Henri",
-      "Chollet Louis-Samuel",
-      "Dovat Louis",
-      "Serex Aloïs",
-      "Serex Constant",
-      "Serex Léon",
-      "Serex Louis"
+    "Blanchisseuses": [
+      "Chapuis Marguerite",
+      "Cherpillod A.",
+      "Dalioli-Gillard Elise.",
+      "Daum Rosa.",
+      "Genier-Dutoit Elise.",
+      "Giddey-Rossier Méry.",
+      "Guignet Louise.",
+      "Richardet-Cavin, Berthe."
     ],
-    "Boulanger": [
-      "Serex Charles-Henri"
+    "Bois (march. de)": [
+      "Bosco A. & fils.",
+      "Eichenberger Otto.",
+      "Mercanton Emile",
+      "Monachon Emile.",
+      "Chalet Julien",
+      "S. A. d'Injection.",
+      "Scieries réunies Payerne-Moudon (S.A.)"
     ],
-    "Cafés": [
-      "Serex Aloïs, au Very",
-      "Cuénoud Marcel, au Grenadier. R."
+    "Bois imprégnés": [
+      "S. A. d'Injection."
     ],
-    "Charrons": [
-      "Porchet Henri, père et fils"
+    "Bouchers": [
+      "Marendaz R.",
+      "Goumaz J. T.",
+      "Peter Samuel."
     ],
-    "Commission scolaire": [
-      "Mounoud Auguste",
-      "Serex Louis",
-      "Serex Léon"
-    ],
-    "Cordonnier": [
-      "Chollet Jules"
-    ],
-    "Couturières": [
-      "Chollet Bertha",
-      "Chollet Olive"
-    ],
-    "Charpentier": [
-      "Serex Charles"
-    ],
-    "Dépositaire postal": [
-      "Chollet Frédér."
-    ],
-    "Epicerie, mercerie": [
-      "Serex Louis R.",
-      "Serex Ch.-Henri"
-    ],
-    "Etoffes": [
-      "Serex-Boraley Louis"
-    ],
-    "Fromages (comm. de)": [
-      "Visinand Léonard",
-      "Seiler Pierre"
-    ],
-    "Hottes (fab. de)": [
-      "Caillet frères",
-      "Chollet frères, Louis et Henri",
-      "Serex John",
-      "Serex-Corboz Frédéric"
-    ],
-    "Inspecteur du bétail": [
-      "Serex Léon"
-    ],
-    "Instituteurs": [
-      "Besson Henri",
-      "Girardet Louise"
+    "Boulangers": [
+      "Badoux Auguste."
     ]
   }
 }

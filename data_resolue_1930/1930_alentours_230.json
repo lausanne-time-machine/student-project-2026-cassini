@@ -1,221 +1,239 @@
 {
-  "GILLY": {
-    "Tonneliers.": [
-      "Bielser frères. T."
-    ],
-    "Vignerons.": [
-      "Chardon Eugène",
-      "Francfort Julien",
-      "Jorand Adr.",
-      "Masson Louis",
-      "Michon Henri",
-      "Ostermann L.",
-      "Pasche Eugène",
-      "Pasche Robert",
-      "Quiblier Frs",
-      "Rosset Edouard",
-      "Suardet Jules"
-    ],
-    "Divers.": [
-      "Cartier-Perrod Sylvie, Vve. T."
-    ]
-  },
-  "LUINS": {
-    "Autorités communales.": [
-      "Dutruy Alb.",
-      "Pfeifflé Gustave",
-      "Dutruy Ernest",
-      "Sordet Aug.",
-      "Ducraux Frs",
-      "Sordet Paul",
-      "Walther Eugène",
-      "Pernoud Joseph",
-      "Dupraz René"
-    ],
-    "Agriculteurs.": [
-      "Bubloz Constant",
-      "Cornaz Fritz",
-      "Dutruy Albert",
-      "Dutruy Ernest",
-      "Dutruy Julien",
-      "Parmelin Frs",
-      "Pernoud Jean",
-      "Sordet Alfred",
-      "Sordet Paul",
-      "Varidel Aimé",
-      "Walther Ernest"
-    ],
-    "Café.": [
-      "Pahud Paul"
-    ],
-    "Commission scolaire intercommunale Luins-Vinzel.": [
-      "Walther Ernest",
-      "Bubloz Robert",
-      "Tachet Edm.",
-      "Rossier Alexis",
-      "Cordey Alice"
-    ],
-    "Dépositaire postal.": [
-      "Bubloz Marie"
+  "Ollon": {
+    "Dépositaire et facteur.": [
+      "Conod Paul"
     ],
     "Epicerie.": [
-      "Walther Fanny"
+      "Besse-Gauthey Paul",
+      "Marguerat Louis"
     ],
-    "Inspecteur du bétail.": [
-      "Dutruy Alb."
+    "Fourches et râteaux (fab. de).": [
+      "Jaccard Jules"
     ],
-    "Instituteurs.": [
-      "Durgnat Emile",
-      "Favre Aimée"
+    "Garde-forestier.": [
+      "Meylan Louis"
     ],
-    "Meunier.": [
-      "Moulin L., Benggli."
+    "Inspecteur du bétail": [
+      "Paux Eugène"
     ],
-    "Rentière.": [
-      "Sachot. Vve."
+    "Instituteur.": [
+      "Junod Maurice"
     ],
-    "Représentant.": [
-      "Perrenoud L."
+    "Laitiers.": [
+      "Comte",
+      "Reber Gustave"
+    ],
+    "Maréchal.": [
+      "Habegger Albert"
+    ],
+    "Scierie et battoir.": [
+      "Vuillerminaz Camille RT"
+    ],
+    "Sellier.": [
+      "Nicole Emile"
     ],
     "Sociétés.": [
-      "de fromagerie. R."
+      "de laiterie. R.",
+      "de laiterie du Vailloud. R.",
+      "de chant"
     ],
     "Téléphoniste.": [
-      "Pahud Paul"
-    ],
-    "Vignerons.": [
-      "Delessert Léon",
-      "Dupraz",
-      "Druey Ernest",
-      "Marguerat Emile",
-      "Rebet Bernard",
-      "Rochat Ls",
-      "Polencent Juls",
-      "Vauthey S."
+      "Conod Paul"
     ]
   },
-  "MONT-LE-GRAND": {
-    "Assesseur.": [
-      "Gallay Jules"
+  "AGIEZ": {
+    "Autorités communales.": [
+      "Porchet Constant",
+      "Vallotton Charles",
+      "Vallotton Henri",
+      "Dupuis William",
+      "Baudraz Eugène",
+      "Baudraz Georges",
+      "Poget Luc.",
+      "Ecoffey Henri",
+      "Bron Eugène"
     ],
     "Agriculteurs.": [
-      "Maring Fritz",
-      "Monnard François T.",
-      "Pache Auguste",
-      "Ramel Félix",
-      "Rochat Louis. T.",
-      "Schmidt Gustave",
-      "Schmidt Ulysse"
+      "Baudraz Charles",
+      "Baudraz Eugène",
+      "Baudraz frères",
+      "Campiche Louis",
+      "Ecoffey Jules",
+      "Petermann Félix",
+      "Petermann John",
+      "Poget Lucien",
+      "Porchet Ct",
+      "Schwendimann Jean",
+      "Valotton-Graf François"
     ],
-    "Associations mutualistes de retraite.": [
-      "Badan L."
-    ],
-    "Assurances.": [
-      "Gallay Fritz"
+    "Apiculteur.": [
+      "Besuchet Charles"
     ],
     "Aubergistes.": [
-      "Reguin",
-      "Recordon"
+      "Grosset François",
+      "Guignard Albert"
     ],
-    "Boulangers.": [
-      "Berthoud, Vve d'Alf. T.",
-      "Boulangerie sociale",
-      "Diserens Arthur"
+    "Boulanger.": [
+      "Tissot Edouard"
+    ],
+    "Charpentiers.": [
+      "Burnat Justin",
+      "Grosset François"
     ],
     "Commission scolaire.": [
-      "Richard Louis",
-      "Lavenex André",
-      "Jorand E.",
-      "Grosjean Ls",
-      "Gallay Jules"
+      "Poget Lucien",
+      "Engelmann",
+      "Vallotton Charles"
     ],
-    "Epicerie, mercerie, tabacs et cigares.": [
-      "Ansermet Louis. R.",
-      "Bataillard Ami. T.",
-      "Diserens Arthur. RT."
+    "Epicerie.": [
+      "Dupuis-Porret Eug.",
+      "Tissot, Mlles"
     ],
-    "Entreprise de transport.": [
-      "Guignet Henri. T."
+    "Huile et benzine.": [
+      "Baudraz Albert"
     ],
     "Inspecteur du bétail.": [
-      "Monnard Em."
+      "Baudraz-Grandjean Eugène"
     ],
-    "Inspecteur des boucheries.": [
-      "Gallay Marcel"
+    "Instituteur.": [
+      "Besuchet Charles"
     ],
-    "Instituteurs.": [
-      "Badan Louis",
-      "Ballif-Cevey Marthe",
-      "Caillat Alice",
-      "Curchod Rose",
-      "Cauderay-Curchod Rose"
+    "Institutrice.": [
+      "Krebs Madeleine"
     ],
-    "Menuisier-charpentier.": [
-      "Caillat Adr."
-    ],
-    "Poste.": [
-      "Muller Charles"
-    ],
-    "Sage-femme.": [
-      "Dufour L. T."
+    "Pasteur.": [
+      "Engelmann Th. T."
     ],
     "Sociétés.": [
       "de fromagerie. R.",
-      "de distillerie. R.",
-      "de boulangerie. R.",
-      "de gymnastique",
-      "Fanfare municipale",
-      "Société de chant"
+      "de tir",
+      "de l'Abbaye",
+      "de chant",
+      "du poids public"
     ],
-    "Tonnelier.": [
-      "Wyss Arnold, fils. T."
+    "Téléphoniste.": [
+      "Grosset François"
     ],
-    "Vétérinaire.": [
-      "Ansermet Ele."
-    ],
-    "Vignerons.": [
-      "Ansermet hoirs de Jles",
-      "Ansermet Alfred",
-      "Ansermet Maurice. T.",
-      "Baud Aug. T.",
-      "Baud Louis",
-      "Blondel Fernand",
-      "Blondel Alex.",
-      "Chanson John",
-      "Chanson Emile",
-      "Chardon Aug.",
-      "Dufour Sam. T.",
-      "Dufour",
-      "Faillettaz Henri",
-      "Gallay Eug.",
-      "Gallay Jules",
-      "Jorand Ernest",
-      "Monnard Fr.",
-      "Monnard John",
-      "Monnard, hoirie de Louis",
-      "Monnard V",
-      "Monnard Ulrich",
-      "Richard, Vve",
-      "de Senarclens",
-      "Renevier, hoirie de Jules",
-      "Rosset Constant"
-    ],
-    "Autorités communales.": [
-      "Chardon Aug.",
-      "Ansermet Maurice",
-      "Jorand Ernest",
-      "Chanson John",
-      "Ansermet Louis. T.",
-      "Dufour Emile",
-      "Gallay Marcel",
-      "Gallay Fritz",
-      "Richard Ls"
+    "Vins (comm. de).": [
+      "Grosset Franc"
     ]
   },
-  "PERROY": {
+  "ARNEX": {
     "Autorités communales.": [
-      "Martin Auguste",
-      "Varidel Gustave"
+      "Bovet Alfred",
+      "Roulet Ami",
+      "Monnier Frédéric",
+      "Bovet Auguste",
+      "Gauthey Louis",
+      "Lavenex Louis",
+      "Monnier Abram",
+      "Lavenex Albert",
+      "Monnier Marcel",
+      "Lavenex Georges",
+      "Monnier Emile"
+    ],
+    "Agriculteurs.": [
+      "Baudat Alfred",
+      "Bovet Fréd.",
+      "Devenoge Ele",
+      "Gauthey Auguste",
+      "Lavenex Abram",
+      "Lavenex Frédéric",
+      "Lavenex Louis",
+      "Monnier Abram",
+      "Monnier Auguste",
+      "Monnier Ulysse",
+      "Monnier David",
+      "Monnier Georges",
+      "Monnier Jaques",
+      "Monnier Arnold",
+      "Morel Henri",
+      "Morel frères"
+    ],
+    "Apiculteurs.": [
+      "Bovet Frédéric",
+      "Lavenex Jacques"
+    ],
+    "Assesseur.": [
+      "Monnier Albert"
+    ],
+    "Associations mutualistes de retraite.": [
+      "Martin Ch."
+    ],
+    "Aubergistes.": [
+      "Monnier Auguste",
+      "Monnier Constant",
+      "Pilloud Elise"
+    ],
+    "Boulanger.": [
+      "Jaquier Paul"
+    ],
+    "Buraliste postal.": [
+      "Gasser Auguste"
+    ],
+    "Charpentier.": [
+      "Bovet Emile"
+    ],
+    "Charrons.": [
+      "Bovet Henri",
+      "Monnier-Martinet L."
+    ],
+    "Chef de gare.": [
+      "Tapis Gustave"
+    ],
+    "Commission scolaire.": [
+      "Engelmann Th.",
+      "Bovet Alfred"
+    ],
+    "Cordonniers.": [
+      "Cuany André",
+      "Porchet Jean"
+    ],
+    "Couturières.": [
+      "Bonard Rose",
+      "Monnier-Morel Marguerite. R."
+    ],
+    "Epiceries.": [
+      "Bonzon David",
+      "Bonzon Henri",
+      "Bovet Henri",
+      "Monnier-Morel Marg. R."
+    ],
+    "Hôtel.": [
+      "Hôtel de la Croix-Blanche"
+    ],
+    "Inspecteur du bétail.": [
+      "Baudat Alfred"
+    ],
+    "Instituteurs.": [
+      "Martin Charles",
+      "Gauthey Elsa",
+      "Buxcel Marguerite"
+    ],
+    "Laiterie.": [
+      "Bühlmann E."
+    ],
+    "Lingère.": [
+      "Bally Rosine"
+    ],
+    "Maçon.": [
+      "Bovet Emile"
+    ],
+    "Maréchaux.": [
+      "Monnier Ch.",
+      "Monnoud Edmond"
+    ],
+    "Menuisier.": [
+      "Vallon Léon"
+    ],
+    "Officier d'état-civil.": [
+      "Monnier Alb."
+    ],
+    "Sage-femme.": [
+      "Vacat"
+    ],
+    "Scierie.": [
+      "Bovet Emile"
     ]
   }
 }

@@ -1,129 +1,206 @@
 {
-  "Ville d'Orbe": {
-    "Cafés": [
-      "Testori Pierre",
-      "Troyon Alfred",
-      "Wyss Ernest"
+  "SAVIGNY": {
+    "Président du Conseil communal": [
+      "Diserens Samuel"
     ],
-    "Caisse d'épargne": [
-      "Société de la Caisse d'épargne d'Orbe",
-      "Pittet Francis"
+    "Secrétaire": [
+      "Cordey Maurice",
+      "Cordey-Blanc"
     ],
-    "Cercueils": [
-      "Bourgeois Gustave",
-      "Rogivue L.",
-      "Sterchi Eugène"
+    "Syndic": [
+      "Muller Gustave"
     ],
-    "Chapellerie": [
-      "Bloch-Lévy Edmond",
-      "Estoppey Marcel",
-      "Meyer Marx",
-      "Rapin Henri"
+    "Municipaux": [
+      "Crot D.",
+      "Décombaz Ch.",
+      "Peneveyre Aug."
     ],
-    "Charcutiers": [
-      "Berger Charles",
-      "Cerf Emile",
-      "Michaud Ernest"
+    "Boursier": [
+      "Mégroz Aimé"
+    ],
+    "Huissier": [
+      "Cornut Gustave"
+    ],
+    "Agriculteurs": [
+      "Blanc Ls-Ch.",
+      "Martinet",
+      "Bolomey, hoirs de Ch",
+      "Gremaudet",
+      "Cordey hoirie",
+      "Cordey Maurice",
+      "Cordey-Ravessoud",
+      "Cornut Ch.-L.",
+      "Cornut Ch., de Daniel",
+      "Crot Edouard",
+      "Crot Dan. et Paul.",
+      "Crot Fréd.",
+      "Crot Jules",
+      "Cordey Isaac-Ls",
+      "Décombaz Abram, Charles et Gust.",
+      "Diserens Samuel",
+      "Diserens Constant",
+      "Diserens Louise",
+      "Diserens Alexis",
+      "Diserens Jules",
+      "Duboux Charles",
+      "Jaques Alexis",
+      "Lavanchy Ch.-F.",
+      "Lavanchy-Décombaz Louis",
+      "Lavanchy-Diserens Charles",
+      "Lavanchy-Muller Const.",
+      "Lavanchy Rob.",
+      "Mennet Alfr.",
+      "Muller Gustave",
+      "Muller Louis, Veuve",
+      "Noverraz C.",
+      "Pasche Alexis",
+      "Paschoud Ch.",
+      "Porchet Ch.",
+      "Pouly Aimé",
+      "Regamey Alfred",
+      "Zahler Oscar",
+      "Zahler François"
+    ],
+    "Assurance-vieillesse": [
+      "Stuby E."
+    ],
+    "Aubergistes": [
+      "Cordey Emile",
+      "Farner Alfred",
+      "Rod Fernand",
+      "Hess Jean",
+      "Dufour-Vincent"
+    ],
+    "Blanchisseuses": [
+      "Bastian Eugénie",
+      "Diserens-Margairaz Mme"
+    ],
+    "Bois (march. de)": [
+      "Cordey frères",
+      "Cordey-Diserens F.-Louis",
+      "Cordey Louis",
+      "Diserens Charles",
+      "Jaques Octave",
+      "Lavanchy Ch.",
+      "Lavanchy Ch.-Abram",
+      "Lavanchy Ami et Armand"
+    ],
+    "Boulangers": [
+      "Dessous l'Eglise Georges",
+      "Diserens Vict.",
+      "Jaquier Hermann"
+    ],
+    "Cantonniers": [
+      "Cordey Charles",
+      "Diserens Eugène"
+    ],
+    "Charcutier": [
+      "Hess J."
     ],
     "Charpentiers": [
-      "Addor & Jaquier",
-      "Sterchi Eugène",
-      "Rogivue Louis-Florian",
-      "Troyon Emile"
+      "Bastion Osc.",
+      "Diserens J.-L.",
+      "Martinet",
+      "Lavanchy Charles"
     ],
-    "Charrons": [
-      "Ecoffey frères",
-      "Huber Rodolphe"
-    ],
-    "Chaussures (march. de)": [
-      "Estoppey Marcel",
-      "Ferreux Louis"
+    "Charron": [
+      "Pilet Gustave"
     ],
     "Chef de section": [
-      "Rogivue Emile"
-    ],
-    "Chiffons": [
-      "Ramelet Louis"
-    ],
-    "Chocolat (fab. de)": [
-      "Nestlé and Anglo-Swiss Condensed Milk Company fusionné avec Peter, Cailler, Kohler, Chocolats Suisses"
-    ],
-    "Cidre (fab. de)": [
-      "Cidrerie de la Vallée de l'Orbe (S. A.)"
-    ],
-    "Ciment et chaux": [
-      "Beauverd Emile"
-    ],
-    "Coiffeurs": [
-      "Capt-Mottaz A.",
-      "Cochand A.",
-      "Cottier-Boudry Lucie",
-      "Rochat Marcel",
-      "Besson Emilienne"
-    ],
-    "Colonie": [
-      "Colonie de l'Orbe",
-      "Fontannaz M.",
-      "Guex Albert"
-    ],
-    "Combustibles": [
-      "Bezençon Hri & Bousson Louis",
-      "Société coopérative"
+      "Dumard Alexandre"
     ],
     "Commission scolaire": [
-      "Barraud Maurice",
-      "Cerf Emile"
+      "Jomini Ernest",
+      "Cordey Edouard"
     ],
-    "Confections pour hommes": [
-      "Dériaz-Auberson J.",
-      "Estoppey Marcel",
-      "Meyer Marx"
+    "Cordonnier": [
+      "Durussel J.-François"
     ],
-    "Confiseurs": [
-      "Perrin Ernest",
-      "Zehnder Paul"
+    "Entrepreneurs": [
+      "Cordey-Blanc",
+      "Gabella les fils de Secondo",
+      "Gabella Constant"
     ],
-    "Conseil de paroisse": [
-      "Moreillon Maurice",
-      "Hiertzler Ch."
+    "Epicerie, mercerie": [
+      "Diserens Eugène fils",
+      "Jaquier Herm.",
+      "Porchet Lucien"
     ],
-    "Cordonniers": [
-      "Clerc Robert",
-      "Denervaux L.",
-      "Ferreux Louis",
-      "Fuchs Jules",
-      "Mader David"
+    "Gypsier-peintre": [
+      "Casotto Ernest",
+      "Gabella Emmanuel"
     ],
-    "Corroyeur": [
-      "Schwille Rose"
+    "Inspecteurs du bétail": [
+      "Diserens Constant",
+      "Lavanchy Alexis",
+      "Décombaz Abram"
     ],
-    "Couleurs et Vernis": [
-      "Antometti Alph."
+    "Instituteurs": [
+      "Dentan Maurice",
+      "Martinet",
+      "Cordey-Blanc Eugénie",
+      "Crottaz Robert",
+      "Cordey Bertha",
+      "Stuby Emile"
     ],
-    "Courtepointière": [
-      "Robellaz Louise"
+    "Maréchaux": [
+      "Delessert, Vve de Marius",
+      "Delessert Charles",
+      "Parisod Ernest"
     ],
-    "Couturières": [
-      "Chevalley-Duc, dame",
-      "Cochard-Goy, Henriette",
-      "Fuhrer Berthe",
-      "Gueissaz-Perriraz Blanche",
-      "Guignard L. & H., Mlles",
-      "Jaques, dame",
-      "Müller, dame",
-      "Schnœnenberger, dame"
+    "Mécanicien": [
+      "Diserens Aloïs"
     ],
-    "Cuirs (march. de)": [
-      "Reymond Gustave",
-      "Schwille Rose"
+    "Menuisiers": [
+      "Bastian Emile",
+      "Cornut Louis",
+      "Paschoud Ch."
     ],
-    "Curé": [
-      "Vienne André"
+    "Officier d'état-civil": [
+      "Cordey-Blanc Charles"
     ],
-    "Dentistes": [
-      "Bornand A.",
-      "Cuendet Henri",
-      "Huguenin Gustave"
+    "Pasteurs": [
+      "Jomini Ernest",
+      "Mouchet W."
+    ],
+    "Pension": [
+      "Pension des Alpes",
+      "Hess Walter"
+    ],
+    "Poste": [
+      "Cornu H.",
+      "Lavanchy Louis",
+      "Piccard Julia"
+    ],
+    "Rentières": [
+      "Comte, sœurs",
+      "Delessert, Mlles"
+    ],
+    "Sages-femmes": [
+      "Bastian, Mme",
+      "Diserens L.",
+      "Diserens Susanne"
+    ],
+    "Sociétés": [
+      "Réunion des Patriotes (abbaye)",
+      "des carabiniers",
+      "de laiterie de Savigny",
+      "de fromagerie de Moille-Margot",
+      "de la réunion des Patriotes",
+      "de laiterie de la Claie aux Moines",
+      "de tir aux armes de guerre",
+      "Section de la Croix-Bleue",
+      "de chant « l'Harmonie »",
+      "d'agriculture",
+      "section des Monts de Lavaux"
+    ],
+    "Tailleur": [
+      "Delessert Emile"
+    ],
+    "Tailleuses": [
+      "Diserens Rosine",
+      "Paschoud Alice",
+      "Pouly Céline"
     ]
   }
 }

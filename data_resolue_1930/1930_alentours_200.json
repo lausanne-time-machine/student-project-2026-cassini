@@ -1,211 +1,103 @@
 {
-  "HENNIEZ-LES-BAINS": {
-    "Syndic": [
-      "Thuillard Louis"
-    ],
-    "Municipaux": [
-      "Jaton Jules",
-      "Hofmann Fritz",
-      "Dubois Emile",
-      "Mottet-Liaudet Louis"
-    ],
-    "Secrétaire": [
-      "Trolliet Prosper"
-    ],
-    "Boursier": [
-      "Mottet Henri"
-    ],
-    "Agriculteurs": [
-      "Dubois Charles",
-      "Hänzer Jacob",
-      "Jaton Jules",
-      "Jayet Henri",
-      "Thuillard Henri"
-    ],
-    "Apiculteurs": [
-      "Fahrni Léon",
-      "Jaton Jules",
-      "Pahud Henri"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Pahud Aloïs"
-    ],
-    "Bains": [
-      "Société des Bains et eaux d'Henniez"
-    ],
-    "Boulangerie": [
-      "Pasche Ed."
-    ],
-    "Café": [
-      "Thuillard Louis"
-    ],
-    "Cantonnier": [
-      "Margairaz Louis"
-    ],
-    "Charrons": [
-      "Jayet Louis",
-      "Vuagniaux Constant"
-    ],
-    "Chef de gare": [
-      "Barbey Arm."
-    ],
-    "Commission scolaire": [
-      "Jayet Louis",
-      "Dubois Emile"
-    ],
-    "Couturières": [
-      "Pellet Anna",
-      "Trolliet Alice"
-    ],
-    "Eaux minérales": [
-      "Alcalina Henniez"
-    ],
-    "S. A. RT.": [
-      "Société des Bains et eaux d'Henniez",
-      "Pahud Henri"
-    ],
+  "Ville de Nyon": {
     "Epicerie": [
-      "Dubois Eugénie",
-      "Mottet Jules"
+      "Aubert Edmond",
+      "Bélaz Adi",
+      "Berger Edouard",
+      "Charvier, Mlle",
+      "Eberhardt Alice",
+      "Favre Marcel, dame",
+      "Francelet Julie, dame",
+      "Frutiger Fritz",
+      "Furrer Emile",
+      "Gabus-Plojoux & Cie",
+      "Gamboni V. & sœur",
+      "Genevay Henri Vve",
+      "Herbez Emile",
+      "Kæppeli Hermann",
+      "« Mercure », Société anonyme",
+      "Maillard Bernardine",
+      "Noguet Jules",
+      "Pernet Charles-Edouard",
+      "Petitpierre Ch., S. A.",
+      "Quiblier Lucien",
+      "Rigoni Charles",
+      "Rosset Ami",
+      "Rosset-Jan, Vve d'Henri",
+      "Ruchat Gustave",
+      "Société coopérative de consommation",
+      "Société Kaiser (cafés)"
     ],
-    "Hôtel": [
-      "Hôtel-pension des Bains",
-      "Cachin E."
+    "Essences et parfums synthétiques": [
+      "Mühlethaler Th. (S. A.)"
     ],
-    "Inspecteur du bétail": [
-      "Margairaz Ls."
+    "Equarrisseur": [
+      "Pécoud Robert"
     ],
-    "Inspecteur des viandes": [
-      "Trolliet Eugène"
+    "Fers et métaux": [
+      "Boldrini & Cie",
+      "Tavelli & Bruno (S. A.)"
     ],
-    "Instituteur": [
-      "Jotterand Benjamin"
+    "Ferblantiers": [
+      "Baudet Fernand",
+      "Durand A.",
+      "Paillex Ernest",
+      "Pitto Laurent",
+      "Preti Jules",
+      "Rossi Fernand",
+      "Tschanen Walter"
     ],
-    "Institutrice": [
-      "Rossier Blanche"
+    "Fromages (march. de)": [
+      "Gervaix Clara",
+      "Chevalier François",
+      "Kopf Emile",
+      "Perreten André",
+      "Schærer Lina Veuve & fille",
+      "Schnaebeli Emile",
+      "Simon Armand"
     ],
-    "Laitier": [
-      "Pittet Adolphe"
+    "Gardes-malades": [
+      "Demont Paul",
+      "Reymond-Boss Constant"
     ],
-    "Menuisiers": [
-      "Dubois Ls",
-      "Fahrni Léon"
+    "Garage d'automobiles": [
+      "Dufour-Félix Eug.",
+      "Eicher Hans",
+      "Sauter Ferdinand",
+      "Schenkel A.",
+      "Zwahlen Paul"
     ],
-    "Poste": [
-      "Meylan Albert"
+    "Géomètres officiels": [
+      "Pelichet Ernest",
+      "Tecon Louis, fils"
     ],
-    "Restaurant sans alcool": [
-      "Trolliet-Margairaz J."
+    "Grains et farines": [
+      "Noël Louis",
+      "Perreten Auguste",
+      "Wuhrmann Henri"
     ],
-    "Rentière": [
-      "Dubois Elise"
+    "Graines potagères, fourragères et fleurs": [
+      "Wuhrmann Henri",
+      "Comptoir agricole S. A."
     ],
-    "Sociétés": [
-      "de fromagerie. R.",
-      "Assurance du bétail"
+    "Graveurs": [
+      "Chopard F.",
+      "Jaques William"
     ],
-    "Téléphone": [
-      "La commune"
-    ]
-  },
-  "MARNAND": {
-    "Autorités communales": [
-      "Bœuf Maurice",
-      "Rossier Albert"
+    "Graviers, sables": [
+      "Commune de Nyon",
+      "Gravières de Colovrex et d'Oulteret",
+      "Dotte Henri",
+      "Borgognon Charles"
     ],
-    "Syndic": [
-      "Cosandey Emile"
-    ],
-    "Municipaux": [
-      "Buache Louis",
-      "Rey Marcel",
-      "Notz Louis",
-      "Rossat Gustave"
-    ],
-    "Secrétaire": [
-      "Bœuf Jules"
-    ],
-    "Boursier": [
-      "Bœuf Robert"
-    ],
-    "Agriculteurs": [
-      "Blanc Charles",
-      "Bidiville Const.",
-      "Bœuf Jules",
-      "Buache Louis",
-      "Bœuf Maurice",
-      "Cachin Ulysse",
-      "Cosandey Emile",
-      "Estoppey Auguste",
-      "Notz Louis",
-      "Pillonel Emile",
-      "Rossat Gustave",
-      "Rey Emile"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Peyrollaz Robert"
-    ],
-    "Cafetier": [
-      "Gloor Robert"
-    ],
-    "Charron": [
-      "Dufey L."
-    ],
-    "Commission scolaire": [
-      "Rossat Gust.",
-      "Bœuf Robert"
-    ],
-    "Couturières": [
-      "Marguet Marie",
-      "Nobs B."
-    ],
-    "Epicerie": [
-      "Gloor Robert"
-    ],
-    "Horticulteurs": [
-      "Rossier A. T."
-    ],
-    "Inspecteur du bétail": [
-      "Bœuf Maurice"
-    ],
-    "Instituteurs": [
-      "Peyrollaz Robert",
-      "Rossier Lucie"
-    ],
-    "Mécanicien": [
-      "Catelli Ls."
-    ],
-    "Meunier": [
-      "Rossat Alfred"
-    ],
-    "Pensionnat": [
-      "de Rimathé-Trolliet Jeanne"
-    ],
-    "Poste": [
-      "Nobs Lucie"
-    ],
-    "Scierie": [
-      "Rossat Alfred"
-    ],
-    "Société": [
-      "Société des agriculteurs. R."
-    ],
-    "Vélos. garage": [
-      "Catelli Louis"
-    ]
-  },
-  "MISSY": {
-    "Autorités communales": [
-      "Roulet Samuel",
-      "Christinat Alfred"
-    ],
-    "Syndic": [
-      "Morel Alfred"
-    ],
-    "Municipaux": [
-      "Roulet Auguste",
-      "Thévoz Eugène",
-      "Blanc Robert"
+    "Gypsters-peintres": [
+      "Bernasconi Etienne",
+      "Bernasconi Etienne et Jaques",
+      "Bertoncini Joseph",
+      "Démarchi Roméo",
+      "Genand Henri",
+      "Lambossy Paul",
+      "Vanni Fernand"
     ]
   }
 }

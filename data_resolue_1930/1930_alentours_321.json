@@ -1,119 +1,108 @@
 {
-  "Ville d'Yverdon": {
-    "Bétail (march. de).": [
-      "Gaillard Edmond",
-      "Genillod Juste",
-      "Goldschmidt Edm.",
-      "Grossenbacher Paul",
-      "Haussmann W.",
-      "Hofer Emile",
-      "Meyer frères",
-      "Schmoll Gaston",
-      "Straub Théophile",
-      "Winkelmann Emile",
-      "Zurbuchen F."
+  "Ville de Vevey": {
+    "Epicerie": [
+      "Rochat P. R.",
+      "Roussy Rosine",
+      "Schlunegger J.",
+      "Schumacher Samuel",
+      "Société coopérative La Ménagère",
+      "Tachet H.",
+      "Vananti Ch.-U.",
+      "Verdan Rosine",
+      "Volet-Berclaz L.",
+      "von Auw Alb.",
+      "Vuilleumier Marcel",
+      "Wyler Ida, Vve",
+      "Bourdilloud, Mlle",
+      "Chappuis Alf.",
+      "Crot fils",
+      "Meyer Georges",
+      "Schurch Gustave"
     ],
-    "Bière (dépôts de)": [
-      "Dubois Paul",
-      "Jutzeler Jean",
-      "Petitat Emile"
+    "Escrime.": [
+      "Le Ray J."
     ],
-    "Bijoutiers": [
-      "Aeschlimann G.",
-      "Doudin Charles",
-      "Piaget-Bourquin Alfred",
-      "Rochat André"
+    "Etalages (accessoires)": [
+      "Fabrique d'accessoires d'étalages S. A."
     ],
-    "Blanchisseuses et repasseuses": [
-      "Dupuis Elisabeth",
-      "Favre-Martin F.",
-      "Lorenzi Julie",
-      "Matthieu-Barbey",
-      "Muller-Fischer",
-      "Perotti Rosa",
-      "Pilloud-Glauser Julie",
-      "Rouiller Ida",
-      "Vaucher Lucie",
-      "Vaucher Irène",
-      "Vernez Lucie"
+    "Faïences d'art.": [
+      "Leuenberger Hans",
+      "Nicollier & Cie. S. A.",
+      "Zingg Marguerite"
     ],
-    "Bois (march. de)": [
-      "Comptoir de bois",
-      "Gottlieb",
-      "Cuendet & Martin",
-      "Décoppet Horace",
-      "Dubath Fréd.",
-      "Etter J. & fils",
-      "Faillettaz Ernest",
-      "Maire Ami",
-      "Petitat Emile"
+    "Farine lactée.": [
+      "Nestlé & Anglo Swiss Condensed Milk Co."
     ],
-    "Boissellerie": [
-      "Aegerter Fritz & fils",
-      "Dosson Victorin",
-      "Siebenthal (de)",
-      "Sollberger Ed."
+    "Ferblantiers-lampistes.": [
+      "Crot Emile",
+      "Desclouds Alf.",
+      "Enzen Charles et fils",
+      "Erens J.",
+      "Furno Pierre",
+      "Giovanna",
+      "Jeanrenaud G. B.",
+      "Tagini J.",
+      "Wirz Fritz",
+      "Wirz-Baumann Jules"
     ],
-    "Bouchers": [
-      "Boucherie Chevaline Moderne",
-      "Buhler Gaston",
-      "Erb Ami",
-      "Gaillard Edmond",
-      "Gasser Ern.",
-      "Hausmann Wilhelm",
-      "Hofer Emile",
-      "Marendaz",
-      "Olivier Julien",
-      "Spieler Jean",
-      "Straub Théoph.",
-      "Thévenaz V."
+    "Fers et métaux.": [
+      "Badoux",
+      "Baumann Jean",
+      "Margot Auguste",
+      "Nicollier & Cie. S. A.",
+      "Tapernoux Fern."
     ],
-    "Boulangers-pâtissiers": [
-      "Bollmann Ernest",
-      "Buache Roger",
-      "Cochet Edouard",
-      "Duvanel L.",
-      "Fricker Henri",
-      "Goy Jules",
-      "Henrioud Louis",
-      "Jaquet Louis",
-      "Gehry Fritz",
-      "Martin Alfred",
-      "Payot",
-      "Prahin Henri",
-      "Riond Paul",
-      "Société coopérative",
-      "Tacheron Jules",
-      "Walther Charles"
+    "Fleurs naturelles.": [
+      "Bonzon Jean"
     ],
-    "Brevets d'invention": [
-      "Flesch L.",
-      "Pichard",
-      "Pahud J.-D."
+    "Fondeurs.": [
+      "Ateliers de constructions mécaniques",
+      "Beyeler Guill.",
+      "Moriggi fils",
+      "Tapernoux F."
     ],
-    "Bric à brac": [
-      "Viglino Ant."
+    "Forestiers.": [
+      "Golay Henri"
     ],
-    "Briqueterie": [
-      "Barraud & Cie."
+    "Fournitures pour l'industrie.": [
+      "Trinkard Marius et Jean"
     ],
-    "Broderies": [
-      "Dupuis-Addor",
-      "Roulet H.",
-      "Breton Berthe"
+    "Fourrures.": [
+      "« Au Tigre Royal », Maison Schlinger",
+      "Fritsché Ch.",
+      "Gaudard M. & fils",
+      "Glatz-Huber A. & M."
     ],
-    "Brosserie (fab. de)": [
-      "Grenouillet Jules",
-      "Sollberger Edouard"
+    "Fripiers.": [
+      "Dissard B.",
+      "Mausli E.",
+      "Mégroz F."
     ],
-    "Buanderie": [
-      "Harnisch"
+    "Fromages (march. de).": [
+      "Blank Ernest",
+      "Chopard Louis-Albert",
+      "Comptoir de fromages de Gruyère, SA.",
+      "Dafflon Claude",
+      "Fédération laitière du Léman",
+      "Gay M.-Eugène",
+      "Neuwerth E. & Villard E.",
+      "Rapin Marcel",
+      "Rochat Henri",
+      "Rossier E.",
+      "Sauty R.",
+      "Schneider A."
     ],
-    "Bücherons": [
-      "Devallonné Emile",
-      "Maag E.",
-      "Trevvaud E.",
-      "Willommet Henri"
+    "Fruits, légumes et primeurs.": [
+      "Chervet Daniel",
+      "Dubath Ilma",
+      "Ducret Edouard",
+      "Eggs-Muller Julie",
+      "Emmanuel A.",
+      "Favez Victor",
+      "Fluckiger Ed.",
+      "Jaccard Jules",
+      "Jacomelli frères",
+      "Jacomelli Sante"
     ]
   }
 }

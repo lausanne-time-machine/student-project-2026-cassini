@@ -1,245 +1,79 @@
 {
-  "SEVERY": {
-    "Amodiateurs": [
-      "Braissant frères."
+  "DISTRICT D'YVERDON": {
+    "Préfet": [
+      "Bron Auguste"
     ],
-    "Aubergiste": [
-      "Prior Eugène"
+    "Substitut": [
+      "Ehinger Alfred"
     ],
-    "Blanchisseuse": [
-      "Autier Hélène"
+    "Receveur": [
+      "Dessemontet Charles"
     ],
-    "Commission scolaire": [
-      "Nicolet",
-      "Lavanchy Aloïs",
-      "Braissant Paul"
+    "Voyer du VIIIe arrondissement": [
+      "Courvoisier Ulysse"
     ],
-    "Epicerie, mercerie": [
-      "Autier Alf. RT."
+    "Conservateur du registre foncier": [
+      "Campler Auguste"
     ],
-    "Fourches et rateaux (fab. de)": [
-      "Autier"
+    "Tribunal de district": [
+      "Fischer Ernest",
+      "Tschumy Albert",
+      "Girardet Emile",
+      "Chautems Jules",
+      "Paillard Charles",
+      "Cand André"
     ],
-    "Inspecteur du bétail": [
-      "Girard Ed."
-    ],
-    "Instituteur": [
-      "Chapuis François"
-    ],
-    "Laitier": [
-      "Martig Aloïs. R."
-    ],
-    "Meunier": [
-      "Bovey Emile. RT."
-    ],
-    "Pensionnat": [
-      "Girard Mlles."
-    ],
-    "Société": [
-      "de fromagerie"
-    ],
-    "Vins": [
-      "Braissant Paul. R."
-    ],
-    "Instituteurs": [
-      "Pache Louis",
-      "Peytregnet Charlotte"
-    ],
-    "Justice de paix": [
-      "Francillon A.",
-      "Fontannaz Héli",
-      "Gaudard-Bocion Emile",
-      "Montagnon Charles",
-      "Reymond François",
-      "Cornaz Félix"
-    ],
-    "Lingère": [
-      "Séchaud Louise"
-    ],
-    "Maréchal": [
-      "Ducret Louis"
-    ],
-    "Officier d'état-civil": [
-      "Dubauloz Gust."
-    ],
-    "Sellier": [
-      "Pahud Henri"
-    ],
-    "Sociétés": [
-      "de fromagerie. R.",
-      "Syndicat agricole. R."
-    ],
-    "Tailleuses": [
-      "Pahud, Mme",
-      "Ramuz Sophie"
-    ],
-    "Téléphone public": [
-      "Cuvit William"
+    "Poursuites et faillites": [
+      "Ballenegger Rod."
     ]
   },
-  "SULLENS": {
-    "Autorités communales": [
-      "Séchaud Samuel",
-      "Séchaud Henri"
-    ],
-    "Syndic": [
-      "Carrard Jules"
-    ],
-    "Municipaux": [
-      "Gachet Jules",
-      "Badan Octave",
-      "Dubauloz Charles"
+  "VILLE D'YVERDON": {
+    "Président du Conseil communal": [
+      "Servien P."
     ],
     "Secrétaire": [
-      "Séchaud David"
-    ],
-    "Boursier": [
-      "Ramuz Aimé."
-    ],
-    "Agriculteurs": [
-      "Aguet Louis",
-      "Badan Louis",
-      "Badan Maurice",
-      "Bally Edouard",
-      "Bally Gustave",
-      "Carrard Jules",
-      "Chevalley Gustave",
-      "Demont Hri",
-      "Dubauloz Ami",
-      "Dubauloz Const.",
-      "Dubauloz Maurice",
-      "Gachet Jules",
-      "Gaudard Ed.",
-      "Guex frères",
-      "Laurent Ch.",
-      "Martinet Louis",
-      "Ramuz David",
-      "Ramuz Jules",
-      "Reymond François",
-      "Séchaud David",
-      "Séchaud Louis",
-      "Séchaud Sam.",
-      "Séchaud Ami",
-      "Simond Georges",
-      "Simond Henri"
-    ],
-    "Appareilleur": [
-      "Séchaud François"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Pache Louis"
-    ],
-    "Aubergistes": [
-      "Dubauloz Gustave. R",
-      "Mercier Constant. R."
-    ],
-    "Blanchisseuses": [
-      "Demont Eugénie",
-      "Ramuz Estelle"
-    ],
-    "Bouchers": [
-      "Kohler Fritz",
-      "Ramuz Fernand"
-    ],
-    "Boulanger": [
-      "Bigler Ernest"
-    ],
-    "Charron": [
-      "Brand Camille"
-    ],
-    "Commission scolaire": [
-      "Candaux Jules",
-      "Séchaud Henri"
-    ],
-    "Cordonnier": [
-      "Heller Arnold"
-    ],
-    "Entrepreneurs": [
-      "Bariatti Charles & Josué. R."
-    ],
-    "Epicerie, mercerie, tabacs": [
-      "Devillard, Mlles",
-      "Mercier Constant. R."
-    ],
-    "Inspecteur du bétail": [
-      "Dubauloz G."
-    ]
-  },
-  "VILLARS-LUSSERY": {
-    "Autorités communales": [
-      "Bastardot Jules",
-      "Séchaud Fernand"
+      "Decker Ch."
     ],
     "Syndic": [
-      "Guillemin Louis"
+      "Vodoz Charles"
     ],
     "Municipaux": [
-      "Despland Jules",
-      "Muller Emile"
+      "Paschoud Alexis",
+      "Pilloud Robert",
+      "Péclard Robert",
+      "Décoppet Marcel"
     ],
-    "Secrétaire": [
-      "Séchaud Fernand"
+    "Secrétaire municipal": [
+      "Manigley Hri"
     ],
-    "Boursier": [
-      "Bastardot Jules"
+    "Sous-secrétaire": [
+      "Rohrbach Ernest"
     ],
-    "Agriculteurs": [
-      "Baudat Alfred",
-      "Roy Eugène",
-      "Desplands hoirs. T.",
-      "Faillettaz Edouard",
-      "Gatabin Héli",
-      "Guillemin Louis",
-      "Guillemin Henriette",
-      "Muller Emile",
-      "Séchaud Henri"
+    "Préposé au contrôle des habitants": [
+      "Stocker Walter"
     ],
-    "Amodiateurs": [
-      "Desplands hoirie",
-      "Muller Emile"
+    "Boursier communal": [
+      "Henry Paul"
     ],
-    "Commission scolaire": [
-      "Guillemin Ls.",
-      "Muller Emile"
+    "Huissier": [
+      "Nerny Ch.-Alf."
     ],
-    "Inspecteur du bétail": [
-      "Séchaud Fern."
+    "comm. du feu": [
+      "Reymond Gustave"
     ],
-    "Institutrice": [
-      "Boulaz Marie"
+    "Bureau officiel de renseignements": [
+      "Chapuis Henri"
     ],
-    "Laitier": [
-      "Ischi Louis. T."
+    "abattoirs": [
+      "Cornu Alfred"
     ],
-    "Pêcheurs": [
-      "Bastardot Jules",
-      "Guillemin Henri"
+    "Acétylène": [
+      "Acétylène dissous et oxygène"
     ],
-    "Société": [
-      "de laiterie. R."
-    ]
-  },
-  "VUFFLENS-LA-VILLE": {
-    "Autorités communales": [
-      "Montagnon Ch.",
-      "Benvegnin Fernand"
-    ],
-    "Syndic": [
-      "Montagnon Emile"
-    ],
-    "Municipaux": [
-      "Duperrut Louis",
-      "Duperrut Adolphe",
-      "Zuber Charles",
-      "Vullioud Charles",
-      "Benvegnin Ernest",
-      "Cuérel Edouard"
-    ],
-    "Secrétaire": [
-      "Vacat"
-    ],
-    "Boursier": [
-      "Benvegnin Louis"
+    "Agents d'affaires patentés": [
+      "Chabloz Auguste",
+      "Dessert A.",
+      "Gentizon A."
     ]
   }
 }

@@ -1,94 +1,251 @@
 {
-  "VILLE DE PAYERNE": {
-    "Automobiles et Autos-garage": [
-      "Blondel Adolphe",
-      "Cachin Louis",
-      "Devaud A.",
-      "Ischy-Savary Ls",
-      "Ischy Paul",
-      "Maffiolini Jean",
-      "Perrin Frédéric"
+  "CHESALLES-SUR-MOUDON": {
+    "Commission scolaire.": [
+      "Bornand Roger",
+      "Besson Ernest"
     ],
-    "Aviculture": [
-      "Buache-Cherbuin Henri",
-      "Hubler Jules",
-      "Jaton Alexis",
-      "Vonnez Henri",
-      "Zbinden Frédéric",
-      "Guichard-Savary Georges",
-      "Mordasini Camille"
+    "Cordonnier.": [
+      "Durussel Emile"
     ],
-    "Avocat": [
-      "Chuard J.",
-      "Comte Jacques",
-      "Marquis G."
+    "Inspecteur du bétail.": [
+      "Dutoit Const."
     ],
-    "Bains et buanderie": [
-      "Gingins Louis"
+    "Institutrice.": [
+      "Benz-Butticaz Georgette"
     ],
-    "Banques": [
-      "Banque populaire de la Broye",
-      "Bercher-Perrin Louis",
-      "Demiéville Edouard"
+    "Pasteur.": [
+      "Bornand Roger"
     ],
-    "Bestiaux (march. de)": [
-      "Bernard Nathan",
-      "Bloch Isaac",
-      "Bruder Adolphe",
-      "Bruder Jacob",
-      "Liechti Samuel",
-      "Meylan P.",
-      "Perrin Edouard"
+    "Poste.": [
+      "Oulevey Paul"
     ],
-    "Bijoutiers": [
-      "Blankart Gustave",
-      "Doudin Ernest"
+    "Sociétés.": [
+      "de fromagerie",
+      "de la machine à battre"
     ],
-    "Bière (dépôts de)": [
-      "Caille Emile",
-      "Cornuz Emile"
+    "Téléphone.": [
+      "Durussel Jules"
+    ]
+  },
+  "CORREVON": {
+    "Autorités communales.": [
+      "Pidoux Eug.",
+      "Bövay Jean."
     ],
-    "Blanchisseuses": [
-      "Rapin-Lauwizer",
-      "Schär-Rosset Laure",
-      "Vallotton-Thuner"
+    "Syndic :": [
+      "David Samuel."
     ],
-    "Bois (march. de)": [
-      "Perrin Armand",
-      "Scieries réunies, Payerne — Moudon (S.A.)"
+    "Municipaux :": [
+      "Bettex Armand",
+      "Pahud Aloïs",
+      "Pahud Jules",
+      "Prahin Emile"
     ],
-    "Boisselier": [
-      "Déglise Joseph",
-      "Déglise Robert"
+    "Secrétaire :": [
+      "Pidoux Fernand"
     ],
-    "Bonneterie-lingerie": [
-      "Aux Galeries Vaudoises, Bladt P.",
-      "Assal Louise",
-      "Rothlisberger-Indermühle Marie"
+    "Boursier :": [
+      "Bovay Jean."
     ],
-    "Bouchers": [
-      "Barro-Doudin A.",
-      "Boucherie du Titanic, M. Henri Paré",
-      "Bruder Arnold",
-      "Rossier Fernand",
-      "Stucki Charles"
+    "Agriculteurs.": [
+      "Bettex Armand",
+      "Bovay Ulysse",
+      "Chevalley Emile",
+      "David Sam.",
+      "Devalloné Alexis",
+      "Devalloné Ulysse",
+      "Margairaz Henri",
+      "Meystre Constant",
+      "Mottaz Alphonse",
+      "Pahud Aloïs",
+      "Pahud Ami",
+      "Pahud Alfred",
+      "Pahud Arnold",
+      "Pahud Jules",
+      "Pidoux Eugène",
+      "Prahin Henri et Emile"
     ],
-    "Boulangers": [
-      "Baumgartner Fritz",
-      "Crausaz Emile",
-      "Delacombaz Nicolas",
-      "Guggi Robert",
-      "Hulliger-Rossier Ernest",
-      "Husson Henri",
-      "Jaton Oscar",
-      "Porchet Robert",
-      "Perrin Oscar",
-      "Rossier Henri, Vve",
-      "Tappy Ernest",
-      "Witwer-Schoch Emile"
+    "Commission scolaire.": [
+      "Pidoux Fernand",
+      "David Samuel",
+      "Pahud Aloïs"
     ],
-    "Brevets d'invention": [
-      "Pahud J.-D."
+    "Cordonniers.": [
+      "Meystre Constant",
+      "Dutoit Ulysse."
+    ],
+    "Inspecteur du bétail.": [
+      "Prahin Emile."
+    ],
+    "Institutrice.": [
+      "Bertholet Marie-Louise."
+    ],
+    "Menuisier.": [
+      "Pahud Jules."
+    ],
+    "Sociétés.": [
+      "de laiterie",
+      "de la bibliothèque",
+      "du battoir à grains"
+    ],
+    "Téléphone.": [
+      "Pahud Ami",
+      "Pahud Charles."
+    ]
+  },
+  "CREMIN": {
+    "Autorités communales.": [
+      "Bessard Fernand",
+      "Krummen Ernest."
+    ],
+    "Syndic :": [
+      "Bessard Samuel."
+    ],
+    "Municipaux :": [
+      "Krummen Fritz",
+      "Badoux Louis",
+      "Goy Henri"
+    ],
+    "Secrétaire :": [
+      "Badoux Jean"
+    ],
+    "Boursier :": [
+      "Krummen Ernest."
+    ],
+    "Agriculteurs.": [
+      "Aebersold Edouard",
+      "Augsburger Fritz",
+      "Badoux Louis",
+      "Badoux frères",
+      "Bessard frères",
+      "Goy Henri",
+      "Krummen Fritz",
+      "Liechti Ernest",
+      "Pidoux Jules."
+    ],
+    "Apiculteurs.": [
+      "Badoux Louis",
+      "Bessard Fernand",
+      "Badoux Constant."
+    ],
+    "Commission scolaire.": [
+      "Bessard Samuel",
+      "Krummen Olga, Mlle."
+    ],
+    "Inspecteur du bétail.": [
+      "Badoux Maurice."
+    ],
+    "Institutrice.": [
+      "Schnell Juliette."
+    ],
+    "Société.": [
+      "De la fromagerie"
+    ],
+    "Téléphone.": [
+      "Badoux, Dlle."
+    ],
+    "Usine à battre le blé et pilon pour os.": [
+      "Krummen Fritz."
+    ]
+  },
+  "CURTILLES": {
+    "Autorités communales.": [
+      "Aguet Albert",
+      "Gavin Maurice."
+    ],
+    "Syndic :": [
+      "Déglon Constant."
+    ],
+    "Municipaux :": [
+      "Sonnard Jules",
+      "May Ernest",
+      "Sonnard Constant",
+      "Sonnard Fernand"
+    ],
+    "Secrétaire :": [
+      "Déglon Ernest"
+    ],
+    "Boursier :": [
+      "May Ernest"
+    ],
+    "Huissier :": [
+      "Badoud Arnold."
+    ],
+    "Agriculteurs.": [
+      "Aebischer Jean",
+      "Aguet Alb.",
+      "Briod Lucien",
+      "Clot Ch.",
+      "Clot Louis",
+      "Conne Louis",
+      "Déglon-Pidoux Auguste",
+      "Déglon Constant",
+      "Déglon Ernest",
+      "Estoppey Fritz",
+      "Freymond Alexis",
+      "Clot-Lagnaz Charles",
+      "Goël Victor",
+      "Lagnaz Auguste",
+      "Maillard Léonard",
+      "May Constant",
+      "Moccand frères",
+      "Paccaud Eugène",
+      "Perret Ferdinand",
+      "Perret Constant",
+      "Pichonnat frères",
+      "Pittet Jean",
+      "Rapin Henri",
+      "Sonnard Alfred",
+      "Sonnard frères",
+      "Sonnard Justin",
+      "Steiner Edouard."
+    ],
+    "Café.": [
+      "Fivaz Jean",
+      "café Fédéral"
+    ],
+    "Charpentier.": [
+      "Dogny Louis."
+    ],
+    "Charrons.": [
+      "Dubois Jules",
+      "Freymond Alfred."
+    ],
+    "Commission scolaire.": [
+      "Aguet Albert",
+      "Déglon Constant",
+      "Sonnard Fernand"
+    ],
+    "Cordonnier.": [
+      "Durussel Charles."
+    ],
+    "Entrepreneurs.": [
+      "Clot Héli",
+      "Protti frères",
+      "Sabattini L. & fils",
+      "Sonnard Jules."
+    ],
+    "Epicerie, tissus et mercerie.": [
+      "Schmid-Bassin Charles"
+    ],
+    "Fontenier-appareilleur.": [
+      "May Ernest"
+    ],
+    "Forgeron.": [
+      "Pahud Adolphe."
+    ],
+    "Gypsier-peintre.": [
+      "Violi Henri."
+    ],
+    "Inspecteur du bétail.": [
+      "Sonnard Just."
+    ],
+    "Instituteurs.": [
+      "Corthésy Roland",
+      "Corthésy Suzanne."
+    ],
+    "Laitier.": [
+      "Schaerler Charles."
     ]
   }
 }

@@ -1,249 +1,191 @@
 {
-  "MÉZERY": {
-    "Syndic": [
-      "Vuagniaux Robert"
+  "La Tour-de-Peilz": {
+    "Ebéniste": [
+      "Muller Jakob"
     ],
-    "Municipaux": [
-      "Héritier Jean",
-      "Basset Auguste",
-      "Pahud Ernest",
-      "Cavin William"
+    "Electriciens": [
+      "Montet Marcel"
     ],
-    "Agriculteurs": [
-      "Basset Alfred",
-      "Cavin William",
-      "Henrioud Paul",
-      "Héritier Henri",
-      "Héritier Jean",
-      "Potterat Ernest",
-      "Stubi Jean",
-      "Wuagniaux frères"
+    "Entrepreneurs": [
+      "Colombo Albert",
+      "Dutoit Rodolphe",
+      "Zuretti Pierre"
     ],
-    "Bouchers": [
-      "Guex Henri",
-      "Wuagniaux Robert"
+    "Epiceries": [
+      "Collioud M.",
+      "Dovat Jean",
+      "Krieger Marie-Adeline, Vve",
+      "Longchamp Charles",
+      "La Ménagère",
+      "Rumpf Aubort & Cie",
+      "Thiébaud Albert",
+      "Logoz-Sablon",
+      "Verdan Albert"
     ],
-    "Commission scolaire": [
-      "Héritier Jean",
-      "Basset Marc"
+    "Ferblantiers": [
+      "Boraley Louis",
+      "Montet Fern.",
+      "Rastoldo A.",
+      "Winiger Ern.",
+      "Vuadens Arnold"
     ],
-    "Inspecteur du bétail": [
-      "Guex Henri"
+    "Fruits et légumes": [
+      "Fäs-Reymond",
+      "Krieger Adeline",
+      "Logoz-Sablon Julienne",
+      "Monney, Vve d'Etienne",
+      "Monney Joseph",
+      "Ormond Jules",
+      "Reusser Jean"
     ],
-    "Téléphones": [
-      "Héritier Henri",
-      "Wuagniaux frères"
+    "Garde-malades": [
+      "Oppliger C., Mlle"
     ],
-    "Vélos": [
-      "Pahud Ernest"
+    "Gypsiers-peintres": [
+      "Felli Gustave",
+      "Felli & Malcotti",
+      "Mayor Alb.",
+      "Henrioud"
     ],
-    "Maçons": [
-      "Perdrisat Louis & fils",
-      "Saugy John"
+    "Horticulteurs": [
+      "Voir Jardiniers"
     ],
-    "Maréchal": [
-      "Héritier Conrad"
+    "Hôtels-pensions": [
+      "Käser-Urfer",
+      "Comte Louis",
+      "Hôtel des Alpes",
+      "Oggier Castule",
+      "Pension Erica"
     ],
-    "Mécanicien": [
-      "Waridel Jean"
-    ],
-    "Menuisier-ébéniste": [
-      "Vallon Ulysse"
-    ],
-    "Rentier": [
-      "Vallon Justin"
-    ],
-    "Scieur": [
-      "Waridel Jean"
-    ],
-    "Sellier": [
-      "Meige Jean"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "Crédit mutuel",
-      "de chant",
-      "Syndicat des améliorations foncières",
-      "Section de secours mutuels"
-    ],
-    "Serrurier": [
-      "Vallon Aimé"
-    ],
-    "Téléphoniste": [
-      "Pitte Samuel"
-    ],
-    "Voituriers": [
-      "Peytregnet, les fils de Charles"
-    ]
-  },
-  "MOLONDIN": {
-    "Autorités communales": [
-      "Golay Auguste",
-      "Vallon Arnold"
-    ],
-    "Syndic": [
-      "Vallon William"
-    ],
-    "Municipaux": [
-      "Peytregnet Maurice",
-      "Peytregnet Charles",
-      "Peytregnet Marcel",
-      "Vallon Paul",
-      "Falconnier A.",
-      "Peytregnet Ch."
-    ],
-    "Agriculteurs": [
-      "Anker Fr.",
-      "Besson William",
-      "Cruchon Jules",
-      "Héritier William",
-      "Monnier frères",
-      "Peytregnet Julien",
-      "Peytregnet Maurice",
-      "Pitton Louis",
-      "Scheurer Samuel",
-      "Vallon Auguste",
-      "Vallon, fils d'Héli"
-    ],
-    "Apiculteurs": [
-      "Cruchon Albert",
-      "Peytregnet Julien"
-    ],
-    "Aubergiste": [
-      "Pitte Samuel"
-    ],
-    "Boulanger": [
-      "Curchod E."
-    ],
-    "Charpentier": [
-      "Guex Lucien"
-    ],
-    "Charron": [
-      "Niquille François"
-    ],
-    "Chef de section": [
-      "Falconnier Aloïs"
-    ],
-    "Commission scolaire": [
-      "Peytregnet Marcel",
-      "Besson Eugène",
-      "Héritier Charles",
-      "Niquille François",
-      "Vallon Arnold",
-      "Peytregnet Lydia",
-      "Vallon Frieda",
-      "Jeanmonod Lucie"
-    ],
-    "Epicerie": [
-      "Héritier Eva",
-      "Jeanmonod Jules"
-    ],
-    "Garde de triage": [
-      "Pitton Ernest"
+    "Hygiène de la chevelure": [
+      "Verdon R."
     ],
     "Inspecteur du bétail": [
-      "Falconnier Aloïs"
+      "Dovat Jean"
     ],
     "Instituteurs": [
-      "Meister Jean",
-      "Jeanneret Marcelle"
+      "Gaulaz Maurice",
+      "Magnin Victor",
+      "Serex Charles",
+      "Calame Ch.",
+      "Forel Auguste",
+      "Buxcel Emilie",
+      "Calame-Haury Jeanne",
+      "Reusser Elisabeth",
+      "Serex-Rochat Cécile",
+      "Bron Lucette",
+      "Vuadens Marguerite",
+      "Roux Alice",
+      "Lamberey Renée"
+    ],
+    "Jardiniers": [
+      "Aubert Alexis",
+      "Brunner Joseph & fils",
+      "Burri Adolphe",
+      "Chevalley Aimé",
+      "Cossy-Niklaus Ed.",
+      "Dunant Emile",
+      "Horisberger Samuel",
+      "Holtz Charles",
+      "Jaquier Frères",
+      "Byrde & Vité",
+      "Obrist Jean",
+      "Regamey J.",
+      "Plumeré Léon",
+      "Rieder Eugène",
+      "Schyrr Richard"
     ],
     "Justice de paix": [
-      "Pittet Alfred",
-      "Gottraux Herbert",
-      "Pahud Robert",
-      "Michoud Edouard",
-      "Niedens-Yvonand",
-      "Correvon Oscar",
-      "Jean-Mairet Adolphe"
-    ]
-  },
-  "MONTAGNY": {
-    "Autorités communales": [
-      "Henny Franç.",
-      "Schaffert François"
+      "Vuadens Otto",
+      "Bovon Gustave",
+      "Béguin-Guex Jules",
+      "Henry Constant",
+      "Gétaz Emile",
+      "Favre Louis",
+      "Longchamp Charles"
     ],
-    "Syndic": [
-      "Christin Henri"
+    "Lait": [
+      "Soc. pour l'exportation des laits Hollandia, S. A. R."
     ],
-    "Municipaux": [
-      "Cochet Léon",
-      "Cochet John",
-      "Dériaz Henri",
-      "Porraz David",
-      "Pauly Constant",
-      "Junod Charles"
+    "Laiterie": [
+      "Bardet Sam."
     ],
-    "Agriculteurs": [
-      "Besson Emile",
-      "Bourgeois Lina",
-      "Christin Henri",
-      "Cochet frères",
-      "Cochet François",
-      "Cochet Jean",
-      "Cochet Jules",
-      "Collet Auguste",
-      "Courvoisier François",
-      "Dériaz Henri",
-      "Guilloud Aloïs",
-      "Helfer Gottli",
-      "Henny Franç.",
-      "Henny Frédéric",
-      "Laubscher Gottfried",
-      "Martin Justin",
-      "Meylan Aloïs",
-      "Perret Jules",
-      "Zbinden Chr."
+    "Lingères": [
+      "Genton Julie",
+      "Rodieux- Roussy Elisa",
+      "Tschumy Lina, Mme"
     ],
-    "Aubergistes": [
-      "Antonietti Aug.",
-      "Junod Henri"
+    "Marbrier": [
+      "Stringa Joseph"
     ],
-    "Buraliste postal et facteur": [
-      "Schaffert"
+    "Maréchal": [
+      "Haller Laurent"
     ],
-    "Charpentiers": [
-      "Meylan Alfred",
-      "Meylan Henri"
-    ],
-    "Chef de section": [
-      "Cochet Jean"
-    ],
-    "Commission scolaire": [
-      "Marguerat Charles",
-      "Jaquier Léon",
-      "Henny Madeleine"
-    ],
-    "Cordonnier": [
-      "Pauly Constant"
-    ],
-    "Epicerie": [
-      "Société yverdonnoise de consommation"
-    ],
-    "Inspecteur du bétail": [
-      "Tétaz Louis"
-    ],
-    "Instituteurs": [
-      "Pérusset Albert"
-    ],
-    "Laboratoire analytique": [
-      "Buttin Henri"
-    ],
-    "Laitier": [
-      "Cochet John"
-    ],
-    "Maraîcher": [
-      "Porraz David"
+    "Masseurs": [
+      "Favre-Rochex J.",
+      "Hunziker A., Mme",
+      "Nicolet Hélène, dame",
+      "Oppliger C., Mlle",
+      "Viquerat Lina"
     ],
     "Mécaniciens": [
-      "Gagnaux Louis, père",
-      "Gagnaux M."
+      "Chevalley",
+      "Desclouds Henri.",
+      "Erlebach Ch.",
+      "Gilliand Eug.",
+      "Nicolas Ph."
     ],
-    "Menuisier-ébéniste": [
-      "Reymond Gustave"
+    "Médecins": [
+      "Bettex Marius",
+      "Bovon J.",
+      "Martin Henri",
+      "Miéville Adrien",
+      "Parlato Emile"
     ],
-    "Officier d'état-civil": [
-      "Tétaz Louis"
+    "Menuisiers": [
+      "Guédon René fils",
+      "Guyot James",
+      "Murbach Emile",
+      "Ryf L. & fils"
+    ],
+    "Mercerie": [
+      "Montet Philippe"
+    ],
+    "Meubles": [
+      "Bruhin Max"
+    ],
+    "Modiste": [
+      "Giovannoni Louisa"
+    ],
+    "Mosaïque": [
+      "Castioni Arnold",
+      "Castioni- Baud Adolphe",
+      "Pedroli Hub.",
+      "Ducret"
+    ],
+    "Officier d'état civil": [
+      "Favre Louis"
+    ],
+    "Papeterie": [
+      "Montet Philippe"
+    ],
+    "Pédicure": [
+      "Speck-Tschumy, Mme"
+    ],
+    "Pasteurs": [
+      "Amiet Albert",
+      "Porret Arnold"
+    ],
+    "Peintre (voir aussi gypsiers)": [
+      "Koog Emile"
+    ],
+    "Pension alimentaire": [
+      "Crausaz Laure"
+    ],
+    "Pensionnats": [
+      "Mauerhofer Augusta",
+      "Schindler Marie",
+      "Sillig Max"
     ]
   }
 }

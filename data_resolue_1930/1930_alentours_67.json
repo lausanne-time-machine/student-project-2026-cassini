@@ -1,243 +1,243 @@
 {
-  "CHIGNY": {
-    "Huissier municipal": [
-      "George Marcel"
+  "MONT-LA-VILLE": {
+    "Sertisseurs": [
+      "Martinet Charles",
+      "Rochat César"
     ],
-    "Inspecteur du bétail": [
-      "Galay Louis"
+    "Sociétés": [
+      "de fromagerie",
+      "Militaire",
+      "Syndicat agricole"
     ],
-    "Médecin": [
-      "Forel François"
+    "Tailleur": [
+      "Rochat Alexandre"
     ],
-    "Rentier": [
-      "Borel Henri"
+    "Tailleuses": [
+      "Genevaz Bertha",
+      "Genevaz Henriette"
     ],
-    "Société": [
-      "S. A. d’exploitations et d’améliorations foncières"
+    "Téléphoniste": [
+      "Charoton Marc-Louis"
     ],
-    "Vignerons": [
-      "Aubert Georges",
-      "Buchilly André",
-      "Francfort Alf.",
-      "Georges Aug.",
-      "Magnin Auguste"
+    "Voituriers": [
+      "Bélaz Ami",
+      "Martinet-Flaction",
+      "Guetty Henri",
+      "Rochat-Billard"
+    ],
+    "Divers": [
+      "Roux Félix"
     ]
   },
-  "CLARMONT": {
-    "Président du Conseil général": [
-      "Reymond Paul"
-    ],
-    "Secrétaire": [
-      "Golaz Louis",
-      "Amaron L."
-    ],
-    "Syndic": [
-      "Golaz Henri"
+  "MONTRICHER": {
+    "Autorités communales": [
+      "Huller Constant",
+      "Chenuz Walter",
+      "Morel-Roy Edouard"
     ],
     "Municipaux": [
-      "Vidoudez Georges",
-      "Berthet Henri",
-      "Moret René",
-      "Cretegny William"
-    ],
-    "Boursier": [
-      "Golaz Ls."
-    ],
-    "Amodiateur": [
-      "Vidoudez Georges"
-    ],
-    "Apiculteur": [
-      "Amaron Léon"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Amaron L."
-    ],
-    "Commission scolaire": [
-      "Corthésy Ernest",
-      "Grandchamp Paul",
-      "Golaz Henri"
-    ],
-    "Epicerie": [
-      "Vidoudez Alice"
-    ],
-    "Inspecteur du bétail": [
-      "Cretegny Wm"
-    ],
-    "Instituteur": [
-      "Amaron Léon"
-    ],
-    "Laitier": [
-      "Fiechter Marcel"
-    ],
-    "Poste": [
-      "Schopfer Lina"
-    ],
-    "Société": [
-      "de fromagerie"
-    ],
-    "Vignerons": [
-      "Berguer Fernand",
-      "Berthet Henri",
-      "Cretegny W.",
-      "Fiechter Jacob",
-      "Golay Henri",
-      "Reymond Paul",
-      "Schopfer Jules",
-      "Viande Paul",
-      "Vidoudez Georges"
-    ]
-  },
-  "COLOMBIER": {
-    "Président du Conseil général": [
-      "Matthey Lucien"
-    ],
-    "Secrétaire": [
-      "Perretten Ed.",
-      "Chauvet Louis"
-    ],
-    "Syndic": [
-      "Testuz Octave"
-    ],
-    "Municipaux": [
-      "Desmeules Arthur",
-      "Prior Isaac",
-      "Rochat Gustave",
-      "Monnet Alfred"
-    ],
-    "Boursier": [
-      "Chauvet Albert"
+      "Buffet Edmond",
+      "Chenuz Louis",
+      "Magnin Alexandre",
+      "Chenuz Emile",
+      "Magnin Paul",
+      "Sahli Alexandre"
     ],
     "Agriculteurs": [
-      "Bastardot, hoirie",
-      "Baumgartner F.",
-      "Berguer Henri",
-      "Chauvet A. et E.",
-      "Chauvet Louis",
-      "Clerc Alexis",
-      "Clerc Gustave",
-      "Delay frères",
-      "Desmeules Arthur",
-      "Dumauthioz, hoirie",
-      "Gobeli Jean",
-      "Linder Charles",
-      "Linder François",
-      "Monachon Henri",
-      "Penel Henri",
-      "Perreten Edouard",
-      "Prior Isaac",
-      "Rochat Alfred",
-      "Rochat Henri"
+      "Buffet Edmond",
+      "Buffet Charles",
+      "Freymond Charles de Jules",
+      "Freymond Alexandre",
+      "Freymond Emile",
+      "Freymond John",
+      "Magnin Charles",
+      "Magnin John",
+      "Morel Louis",
+      "Morel-Roy frères",
+      "Morel Ferd"
+    ],
+    "Amodiateurs": [
+      "Buffet Charles",
+      "Desmeules John",
+      "Henchoz Alexis",
+      "Magnin Samuel"
     ],
     "Apiculteurs": [
-      "Chauvet Louis",
-      "Perretten Benjamin"
+      "Buffet Eugène",
+      "Chenuz Louis",
+      "Henry, Mlles",
+      "Morel Alfred"
     ],
-    "Associations mutualistes de retraite": [
-      "Meylan Ch."
+    "Appartements pour séjour d'été": [
+      "Baudin Sophie",
+      "Magnin Paul"
     ],
-    "Aubergiste": [
-      "Rojard Albert"
+    "Assesseur": [
+      "Morel Justin"
     ],
-    "Bétail (march. de)": [
-      "Prior Isaac"
+    "Mutualité scolaire de retraite": [
+      "Nicod H."
     ],
-    "Chef de section": [
-      "Clerc Gustave"
+    "Auberges et cafés": [
+      "Freymond Robert",
+      "Hôtel des Deux Sapins",
+      "Allamand Ernest",
+      "Lion-d'Or",
+      "Grandjean Emile",
+      "café du Nord",
+      "Moser, Mme",
+      "café de la Gare"
+    ],
+    "Bestiaux (comm. de)": [
+      "Desmeules John",
+      "Morel-Roy frères"
+    ],
+    "Blanchisseuses": [
+      "Freymond Bertha",
+      "Rod Marie"
+    ],
+    "Bois": [
+      "Chabot Jules",
+      "Morel-Roy Edouard",
+      "Schacher & Chenuz"
+    ],
+    "Boisselier": [
+      "Dépraz Louis"
+    ],
+    "Boucher": [
+      "Morel Edmond"
+    ],
+    "Boulangers": [
+      "Béday, Vve de Léon",
+      "Henry Gabrielle"
+    ],
+    "Chapellerie": [
+      "Henry Gabrielle"
+    ],
+    "Charpentiers": [
+      "Monnier Louis",
+      "Morel Aug.-Louis"
+    ],
+    "Charcutier": [
+      "Morel Edmond"
+    ],
+    "Charrons": [
+      "Golay Ad.",
+      "Magnenat L."
+    ],
+    "Chaussures": [
+      "Henry Gabrielle"
     ],
     "Commission scolaire": [
-      "Grandchamp Paul",
-      "Rochat Gust.",
-      "Desmeules Arthur"
+      "Morel-Roy Edouard",
+      "Magnin Paul"
     ],
-    "Epicerie, mercerie": [
-      "Cretegny Paul"
+    "Cordonniers": [
+      "Gachet Marius",
+      "Guignet Charles"
     ],
-    "RT": [
-      "Haudenschild Gottfried"
+    "Draperie": [
+      "Henry Gabrielle"
     ],
-    "Entrepreneur": [
-      "Demicheli Arthur"
+    "Entrepreneurs": [
+      "Bois-Lin",
+      "Mosini Jules"
+    ],
+    "Epicerie et tabacs": [
+      "Béday Vve de Léon",
+      "Henry Gabrielle",
+      "Magnin-Guignet Henri",
+      "Morel-Dufey Rose",
+      "Wulliemin-Capt Henri"
+    ],
+    "Gardes-forestiers": [
+      "Buffet Armand",
+      "Jaques Charles, fils"
+    ],
+    "Géomètre": [
+      "Chenuz Georges"
     ],
     "Inspecteur du bétail": [
-      "Pinguely Jles."
+      "Magnin Marcel"
     ],
     "Instituteurs": [
-      "Meylan Charles",
-      "Meylan Jeanne"
-    ],
-    "Juge": [
-      "Henry Arn."
-    ],
-    "Assesseurs": [
-      "Testuz Octave",
-      "Schmidely Gustave",
-      "Henry Alfred"
-    ],
-    "Greffier": [
-      "Linder Armand"
+      "Maire Robert",
+      "Albrecht Berthe",
+      "Dutoit Suzanne"
     ],
     "Laitier": [
-      "Nyffenegger Gottfried"
+      "Gürtner Ch."
     ],
-    "Maréchal": [
-      "Barrelet Marcel"
+    "Lingère": [
+      "Mojonnet Constance"
     ],
-    "Poste": [
-      "Rochat Gustave"
+    "Machines agricoles": [
+      "Henry Gabrielle",
+      "Prévost Maxime"
     ],
-    "Revendeuse": [
-      "Racine Elise"
+    "Maréchaux": [
+      "Prévost T.",
+      "Rod Gustave"
+    ],
+    "Menuisiers": [
+      "Breitenstein Henri",
+      "Magnin Armand",
+      "Magnin Paul"
+    ],
+    "Mercerie et tissus": [
+      "Henry Gabrielle",
+      "Magnin-Guignet Henri",
+      "Wulliemin-Capt Henri"
+    ],
+    "Pensions": [
+      "Bernard Ernest",
+      "Pension de la Forêt",
+      "Pension du Jura"
+    ],
+    "Photographe": [
+      "Breitenstein Louis"
+    ],
+    "Poste, télégraphe et téléphone": [
+      "Chenuz Hermance"
+    ],
+    "Quincaillerie": [
+      "Guignet Magnin",
+      "Henry Gabrielle",
+      "Morel-Dufey Rose"
+    ],
+    "Sellier": [
+      "Magnin Louis"
+    ],
+    "Serrurier": [
+      "Prévost Eugène"
     ],
     "Sociétés": [
       "de fromagerie",
       "Syndicat agricole",
-      "des Eaux"
+      "Section de la Croix-Bleue",
+      "Société du Crédit Mutuel",
+      "Prévost Eugène"
     ],
-    "Téléphoniste": [
-      "Rojard Albert"
+    "Socques (fab. de)": [
+      "Cuvit François"
     ],
-    "Vignerons": [
-      "Depping François",
-      "Durand Edouard",
-      "Rochat Auguste"
+    "Son et maïs": [
+      "Henry Gabrielle"
+    ],
+    "Tailleuses": [
+      "Grimm-Magnin Eugénie",
+      "Magnin Rosalie",
+      "Morel Julie"
     ]
   },
-  "DENENS": {
-    "Président du Conseil général": [
-      "Gillabert Jean"
-    ],
-    "Secrétaire": [
-      "Ormond Louis",
-      "Jacot Gustave"
-    ],
-    "Syndic": [
-      "Cotty Fernand"
+  "ORNY": {
+    "Autorités communales": [
+      "Juvet Alexandre",
+      "Pavillard Robert",
+      "Pavillard Alexis"
     ],
     "Municipaux": [
-      "Reymond Philippe",
-      "Sauty Albert",
-      "Perey Victor",
-      "Bachelard Agénor"
-    ],
-    "Boursier": [
-      "Sauty Emile"
-    ],
-    "Agriculteurs": [
-      "Bachelard Auguste",
-      "Cotty Fernand",
-      "Cotty Philippe",
-      "Gillabert Jean",
-      "Gilgen Henri",
-      "Jacot Jules",
-      "Laurent Charles",
-      "Metzger Justin",
-      "Perey Vict.",
-      "Pernet Lucien",
-      "Reymond Philippe",
-      "Sauty Albert",
-      "Sauty Constant",
-      "Sauty Louis",
-      "Sauty Nancy"
+      "Messeiller Henri"
     ]
   }
 }

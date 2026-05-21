@@ -1,241 +1,245 @@
 {
-  "ECUBLENS": {
+  "SEVERY": {
+    "Amodiateurs": [
+      "Braissant frères."
+    ],
+    "Aubergiste": [
+      "Prior Eugène"
+    ],
+    "Blanchisseuse": [
+      "Autier Hélène"
+    ],
+    "Commission scolaire": [
+      "Nicolet",
+      "Lavanchy Aloïs",
+      "Braissant Paul"
+    ],
+    "Epicerie, mercerie": [
+      "Autier Alf. RT."
+    ],
+    "Fourches et rateaux (fab. de)": [
+      "Autier"
+    ],
+    "Inspecteur du bétail": [
+      "Girard Ed."
+    ],
+    "Instituteur": [
+      "Chapuis François"
+    ],
+    "Laitier": [
+      "Martig Aloïs. R."
+    ],
+    "Meunier": [
+      "Bovey Emile. RT."
+    ],
+    "Pensionnat": [
+      "Girard Mlles."
+    ],
+    "Société": [
+      "de fromagerie"
+    ],
+    "Vins": [
+      "Braissant Paul. R."
+    ],
+    "Instituteurs": [
+      "Pache Louis",
+      "Peytregnet Charlotte"
+    ],
     "Justice de paix": [
-      "Ecublens",
-      "Denges",
-      "St-Sulpice",
-      "Bussigny",
-      "Lonay"
+      "Francillon A.",
+      "Fontannaz Héli",
+      "Gaudard-Bocion Emile",
+      "Montagnon Charles",
+      "Reymond François",
+      "Cornaz Félix"
     ],
-    "Maréchaux.": [
-      "Job",
-      "Ruchat Fritz"
+    "Lingère": [
+      "Séchaud Louise"
     ],
-    "Mécanicien.": [
-      "Petit Henri"
+    "Maréchal": [
+      "Ducret Louis"
     ],
-    "Menuisier.": [
-      "Radice Emile"
+    "Officier d'état-civil": [
+      "Dubauloz Gust."
     ],
-    "Officier d'état-civil.": [
-      "Ducret Franc."
+    "Sellier": [
+      "Pahud Henri"
     ],
-    "Pasteurs.": [
-      "Gaillard Charles",
-      "Rumpf Charles"
+    "Sociétés": [
+      "de fromagerie. R.",
+      "Syndicat agricole. R."
     ],
-    "Pensions.": [
-      "Bæchler Ida",
-      "Masson Louise",
-      "Krieg, Mme",
-      "Valet Louisa, Mlle"
+    "Tailleuses": [
+      "Pahud, Mme",
+      "Ramuz Sophie"
     ],
-    "Poste.": [
-      "Jaquenoud A."
-    ],
-    "Poste de police.": [
-      "Fivaz César"
-    ],
-    "Représentant.": [
-      "Masson Ernest"
-    ],
-    "Sellier.": [
-      "Martin Louis"
-    ],
-    "Sociétés.": [
-      "du Battoir à grains",
-      "de laiterie du Pontet et Renges",
-      "Bibliothèque",
-      "Assurance du bétail",
-      "Tir",
-      "Patriotes d'Ecublens",
-      "Chant",
-      "Syndicat agric.",
-      "de gymnastique",
-      "Union chrétienne",
-      "Chœur d'hommes",
-      "de développement",
-      "du battoir"
-    ],
-    "Tailleuse.": [
-      "Grand Aline"
-    ],
-    "Téléphone (stat. commun.).": [
-      "Mingard Octave",
-      "Musy Emile"
-    ],
-    "Divers.": [
-      "Bonzon Louis",
-      "Ducret Elie",
-      "Matthey Louis"
+    "Téléphone public": [
+      "Cuvit William"
     ]
   },
-  "ETOY": {
-    "Autorités communales.": [
-      "Magnollay Ernest",
-      "Buclin Gustave"
+  "SULLENS": {
+    "Autorités communales": [
+      "Séchaud Samuel",
+      "Séchaud Henri"
     ],
     "Syndic": [
-      "Giriens Henri"
+      "Carrard Jules"
     ],
     "Municipaux": [
-      "Rochat Lucien",
-      "Merminod Ch.",
-      "Giriens Albert",
-      "Lapalud François",
-      "Corthay Alfred",
-      "Buclin A."
+      "Gachet Jules",
+      "Badan Octave",
+      "Dubauloz Charles"
     ],
-    "Agriculteurs.": [
-      "Bähni Gustave",
-      "Berger Jules",
-      "Buchet Marcel",
-      "Buchet Auguste",
-      "Buchet Vve",
-      "Buchet Vve",
-      "Buchet Julien",
-      "Buchet François",
-      "Buchet Hri",
-      "Buchet Maurice",
-      "Buclin Auguste",
-      "Bonzon Jules",
-      "Charmasson Louis",
-      "Corthay Alexandre",
-      "Corthay Louis",
-      "Corthay frères",
-      "Favre Maurice",
-      "Giriens Ch.",
-      "Giriens Gustave",
-      "Giriens Henri",
-      "Giriens Lucien",
-      "Jaquet Louis",
-      "Joyet Louis",
-      "Lapalud François",
-      "Magnollay Ernest",
-      "Magnollay Fs",
-      "Magnollay Louis",
-      "Pasche Emile",
-      "Perroud Vve",
-      "Richoz Pierre",
-      "Rochat Lucien",
-      "Thury"
+    "Secrétaire": [
+      "Séchaud David"
     ],
-    "Appareilleur.": [
-      "Dutoit Paul"
+    "Boursier": [
+      "Ramuz Aimé."
     ],
-    "Asiles de l'Espérance.": [
-      "Buchet Charlotte",
-      "Buchet Amélie",
-      "Wuilleumier Georges"
+    "Agriculteurs": [
+      "Aguet Louis",
+      "Badan Louis",
+      "Badan Maurice",
+      "Bally Edouard",
+      "Bally Gustave",
+      "Carrard Jules",
+      "Chevalley Gustave",
+      "Demont Hri",
+      "Dubauloz Ami",
+      "Dubauloz Const.",
+      "Dubauloz Maurice",
+      "Gachet Jules",
+      "Gaudard Ed.",
+      "Guex frères",
+      "Laurent Ch.",
+      "Martinet Louis",
+      "Ramuz David",
+      "Ramuz Jules",
+      "Reymond François",
+      "Séchaud David",
+      "Séchaud Louis",
+      "Séchaud Sam.",
+      "Séchaud Ami",
+      "Simond Georges",
+      "Simond Henri"
     ],
-    "Assurance cantonale contre l'incendie.": [
-      "Giriens Henri"
+    "Appareilleur": [
+      "Séchaud François"
     ],
-    "Mutualité scolaire de retraite.": [
-      "Anken L."
+    "Mutualité scolaire de retraite": [
+      "Pache Louis"
     ],
-    "Société mutualiste de retraite.": [
-      "Buclin Gust."
+    "Aubergistes": [
+      "Dubauloz Gustave. R",
+      "Mercier Constant. R."
     ],
-    "Aubergistes.": [
-      "Overnay Emile",
-      "Henry, Vve"
+    "Blanchisseuses": [
+      "Demont Eugénie",
+      "Ramuz Estelle"
     ],
-    "Boisselier.": [
-      "Gentizon Henri"
+    "Bouchers": [
+      "Kohler Fritz",
+      "Ramuz Fernand"
     ],
-    "Bouchers.": [
-      "Bohren Louis",
-      "Renevier Emile"
+    "Boulanger": [
+      "Bigler Ernest"
     ],
-    "Boulangers-pâtissiers.": [
-      "Cavin Emile",
-      "Gossweiler Albert"
+    "Charron": [
+      "Brand Camille"
     ],
-    "Briqueterie.": [
-      "Stouky Fritz"
+    "Commission scolaire": [
+      "Candaux Jules",
+      "Séchaud Henri"
     ],
-    "Charpentier.": [
-      "Golay Jules"
+    "Cordonnier": [
+      "Heller Arnold"
     ],
-    "Charron.": [
-      "Nidecker Frédéric"
+    "Entrepreneurs": [
+      "Bariatti Charles & Josué. R."
     ],
-    "Chiffons.": [
-      "Cadestin Auguste"
+    "Epicerie, mercerie, tabacs": [
+      "Devillard, Mlles",
+      "Mercier Constant. R."
     ],
-    "Commission scolaire.": [
-      "Chapuis Paul",
-      "Garin Henri"
+    "Inspecteur du bétail": [
+      "Dubauloz G."
+    ]
+  },
+  "VILLARS-LUSSERY": {
+    "Autorités communales": [
+      "Bastardot Jules",
+      "Séchaud Fernand"
     ],
-    "Distillateurs.": [
-      "Giriens Charles & Corthay Ernest"
+    "Syndic": [
+      "Guillemin Louis"
     ],
-    "Engrais chimiques Martigny.": [
-      "Giriens Henri"
+    "Municipaux": [
+      "Despland Jules",
+      "Muller Emile"
     ],
-    "Entrepreneurs.": [
-      "Bordini & Monsciani",
-      "Martinella Joseph"
+    "Secrétaire": [
+      "Séchaud Fernand"
     ],
-    "Epicerie.": [
-      "Beyvin-Baud Ph.",
-      "Cavin Emile",
-      "Gossweiler Albert",
-      "Pion, Vve",
-      "Richard A."
+    "Boursier": [
+      "Bastardot Jules"
     ],
-    "Ferblantier.": [
-      "Dutoit Paul"
+    "Agriculteurs": [
+      "Baudat Alfred",
+      "Roy Eugène",
+      "Desplands hoirs. T.",
+      "Faillettaz Edouard",
+      "Gatabin Héli",
+      "Guillemin Louis",
+      "Guillemin Henriette",
+      "Muller Emile",
+      "Séchaud Henri"
     ],
-    "Inspecteur du bétail.": [
-      "Berger Jules"
+    "Amodiateurs": [
+      "Desplands hoirie",
+      "Muller Emile"
     ],
-    "Instituteurs.": [
-      "Anken Louis",
-      "Mayor Juliette"
+    "Commission scolaire": [
+      "Guillemin Ls.",
+      "Muller Emile"
     ],
-    "Jardiniers.": [
-      "Garin Henri",
-      "Köhli Frédéric"
+    "Inspecteur du bétail": [
+      "Séchaud Fern."
     ],
-    "Laitier.": [
-      "Ramseyer Ch."
+    "Institutrice": [
+      "Boulaz Marie"
     ],
-    "Maréchal.": [
-      "Corthay Ernest"
+    "Laitier": [
+      "Ischi Louis. T."
     ],
-    "Pasteur.": [
-      "Vittoz Georges"
+    "Pêcheurs": [
+      "Bastardot Jules",
+      "Guillemin Henri"
     ],
-    "Pension.": [
-      "Du Mont, Dlle"
+    "Société": [
+      "de laiterie. R."
+    ]
+  },
+  "VUFFLENS-LA-VILLE": {
+    "Autorités communales": [
+      "Montagnon Ch.",
+      "Benvegnin Fernand"
     ],
-    "Pépiniéristes.": [
-      "Lapalud Alexandre",
-      "Rochat Charles"
+    "Syndic": [
+      "Montagnon Emile"
     ],
-    "Poste.": [
-      "Buchet Hélène",
-      "Buclin Gustave"
+    "Municipaux": [
+      "Duperrut Louis",
+      "Duperrut Adolphe",
+      "Zuber Charles",
+      "Vullioud Charles",
+      "Benvegnin Ernest",
+      "Cuérel Edouard"
     ],
-    "Représentant.": [
-      "Magnollay Ernest"
+    "Secrétaire": [
+      "Vacat"
     ],
-    "Scierie.": [
-      "Giriens Lucien"
-    ],
-    "Sociétés.": [
-      "Anonyme du Battoir à grain",
-      "Fromagerie « La Centrale »",
-      "Section de la Croix-Bleue",
-      "Abbaye de la St-Jacques d'Etoy",
-      "Tir aux armes de guerre d'Etoy",
-      "de gymnastique",
-      "chant, La Concorde"
-    ],
-    "Tailleuse.": [
-      "Meylan Emma"
+    "Boursier": [
+      "Benvegnin Louis"
     ]
   }
 }

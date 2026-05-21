@@ -1,148 +1,88 @@
 {
-  "Leysin": {
-    "Menuisiers": [
-      "Lombardi & Cie.",
-      "Rieben E. & Cie."
+  "Sainte-Croix": {
+    "Bouchers et charcutiers.": [
+      "Jaccard Charles",
+      "Jaccard Edouard",
+      "Junod-Jaccard Marcel",
+      "Schenk-Jaccard"
     ],
-    "Mercerie, étoffes, lainages": [
-      "Bersier Georges",
-      "Camandona Noélie",
-      "Dubois A. & Cie.",
-      "Jaccard-Schmitz G. R.",
-      "Rittener Elisa",
-      "Sagne Chs.",
-      "Tauxe Rose"
+    "Boulangers-Pâtissiers": [
+      "Addor Eugène",
+      "Thomas Emile",
+      "L'Avenir",
+      "Favre Jules",
+      "Hofer-Jaccard",
+      "Junod Louis",
+      "Koch Pierre",
+      "Matthey Georges",
+      "Mutrux"
     ],
-    "Modes": [
-      "Blanc Marie-Louise",
-      "Bolléa-Vaudroz Mme.",
-      "Lecomte-Besse, dame",
-      "Roth, Mlles."
+    "Brevets d'invention": [
+      "Flesch L.",
+      "Pahud J.-D."
     ],
-    "Notaires": [
-      "Genet Paul"
+    "Briquets automatiques (fab. de)": [
+      "Thorens Hermann, S. A."
     ],
-    "Officier d'état-civil": [
-      "Dulex Pierre"
+    "Cafés": [
+      "Addor Anaïs",
+      "Bornand Alfred",
+      "Jaccard Oscar",
+      "Lassueur Aug.",
+      "Lassueur John",
+      "Margot Eva",
+      "Mermod Alf.",
+      "Neuenschwander Armand",
+      "Robellaz-Sueur Jules",
+      "Stehlé Franz",
+      "Thorens Henri",
+      "Urfer Ernest",
+      "Volery Numa"
     ],
-    "Papeteries": [
-      "Hänggi-Kurepf Ida",
-      "Lecomte Henri",
-      "Slisonsky Georges",
-      "Tauxe Rose"
+    "Café de tempérance": [
+      "Le Foyer"
     ],
-    "Pasteurs": [
-      "Grobéty Marcel",
-      "Babut Hri",
-      "Chanoine Pythoud",
-      "Rév. Teesdale"
+    "Caisses d'emballage": [
+      "Crausaz frères",
+      "Jaccard Georges",
+      "Mermod frères",
+      "Thévenaz Adrien"
     ],
-    "Peintres": [
-      "Bolléa Louis",
-      "Chambaz",
-      "Les Airelles",
-      "Crœsse J.-B.",
-      "Misslin Charles",
-      "Rabattoni Jacques",
-      "Widmann Charles"
+    "Cannage": [
+      "Cuendet Eugène"
     ],
-    "Pharmaciens": [
-      "Antoine Jules",
-      "Pharmacie Victoria",
-      "Torrione Jean"
+    "Cartonnages": [
+      "Bornand & Geneux",
+      "Gueissaz-Jaccard",
+      "Jost Jean"
     ],
-    "Photographie": [
-      "Hänggi Fritz et Ida",
-      "Nicca Hugo",
-      "Slisonsky Georges"
+    "Cercle": [
+      "Cercle démocratique"
     ],
-    "Pompes funèbres": [
-      "Pompes funèbres de Leysin, S. A.",
-      "Groux Ls."
+    "Cercueils": [
+      "Simon"
     ],
-    "Postes": [
-      "Besson Albert",
-      "Jeanloz William",
-      "Berchten Fréd.",
-      "Gex R."
+    "Chapeliers": [
+      "Addor René",
+      "Margot",
+      "Piolino G. & J.",
+      "Wanner Martin"
     ],
-    "Primeurs": [
-      "Belet Ch.",
-      "Burnier Eugène",
-      "Carcano Eugène",
-      "Cornet-Schlup Juleitte",
-      "Gilliéron Alice",
-      "Givel Ernest et Gust.",
-      "Jollien-Welten Virginie",
-      "Mouchian",
-      "Pilloud Hermann",
-      "Pettavel Alfred",
-      "Trullaz & Cie.",
-      "Wyss & Cie."
+    "Charrons": [
+      "Graff Christian",
+      "Junod Eugène"
     ],
-    "Professeurs de piano": [
-      "Toscano François",
-      "Tauxe Rose"
+    "Chaussures (magasins de)": [
+      "Bissat Marcel",
+      "Jaccard-du Grand Laura",
+      "Junod-Gaillard",
+      "Mutrux Ami",
+      "Paillard Paul",
+      "Perotti François",
+      "Piolino G. & J."
     ],
-    "Quincaillerie": [
-      "Aeby Fritz",
-      "Bersier Georges",
-      "Blum Paul",
-      "Ernest Emile & Cie.",
-      "Jaccard Gustave",
-      "Rittener Elisa"
-    ],
-    "Radiologue de la Soc. climat.": [
-      "Lauffenburger P.-F."
-    ],
-    "Ramoneur": [
-      "Mino Olivier"
-    ],
-    "Relieur": [
-      "Sommer Gottfried"
-    ],
-    "Renseignements commerc.": [
-      "Comptoir d'escompte de Genève",
-      "Emery Lucien",
-      "Sauvain J.-A.",
-      "Tauxe Rose"
-    ],
-    "Sage-femme": [
-      "Dufresne Elisa"
-    ],
-    "Sanatoriums et cliniques": [
-      "Société Climatérique",
-      "Sanatorium Gd-Hôtel",
-      "Sanatorium Mont-Blanc",
-      "Sanatorium Chamossaire",
-      "Association Sainte Agnès",
-      "Beau-Site",
-      "Sanatorium neuchâtelois",
-      "Belmont",
-      "Aviolat",
-      "Villa Edelweiss",
-      "Clinique les Frênes",
-      "Clinique Miremont",
-      "Sanatorium Les Chamois",
-      "Sanatorium Populaire",
-      "Clinique Flora",
-      "Clinique Florimont",
-      "Clinique du Dr de Reynier",
-      "Clinique de la Valerette",
-      "Clinique Hirondelles",
-      "Clinique Belmont",
-      "Clinique Les Buis",
-      "Clinique-Manufacture",
-      "Clinique Les Oiselets",
-      "Clinique Les Pommiers",
-      "Clinique Le Printemps",
-      "Clinique Le Rocher",
-      "Colonie de Travail",
-      "Clinique Le Trient",
-      "Sanatorium des Alpes Vaudoises",
-      "Sanatorium neuchâtelois Beau-Site",
-      "Sanatorium la Néva",
-      "Sanatorium Populaire (enfants)"
+    "Chef de gare": [
+      "Cand Ulysse"
     ]
   }
 }

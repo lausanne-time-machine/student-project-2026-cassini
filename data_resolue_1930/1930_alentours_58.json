@@ -1,124 +1,251 @@
 {
-  "Ville de Morges": {
-    "Marchand grainier.": [
-      "Tschinen H."
+  "CUARNENS": {
+    "Cycles.": [
+      "Chappuis Jules"
     ],
-    "Machines à coudre.": [
-      "Buchet Louisa",
-      "Chabloz Henri",
-      "Golaz Franz",
-      "Mottaz Victor"
+    "Distillerie.": [
+      "Clément Arthur"
     ],
-    "Marbriers.": [
-      "André frères",
-      "Plantaz Louis"
+    "Epicerie, mercerie, tabacs.": [
+      "Crottaz Gustave",
+      "Pittet Paul",
+      "Pouly François, Vve"
     ],
-    "Maréchaux.": [
-      "Kocher Charles",
-      "Rochat Gust.",
-      "Scheidegger Louis"
+    "Entrepreneur.": [
+      "Polli-Jaquinet G."
     ],
-    "Masseurs.": [
-      "Glayre Justin",
-      "Lauber E.",
-      "Nicoud-Bussy dame"
+    "Forestier de triage.": [
+      "Chappuis Ern."
     ],
-    "Matelassières.": [
-      "Chauvet Fanny",
-      "Crausaz Marie"
+    "Gypsier-peintre.": [
+      "Romagnolo Charles"
     ],
-    "Matériaux de construction.": [
-      "Morisetti Pierre",
-      "Piaget Georges Vve & Cie",
-      "Decarmine Pierre"
+    "Hongreur.": [
+      "Jotterand Maurice"
     ],
-    "Mécaniciens.": [
-      "Bœsiger Armand",
-      "Buchet Louisa",
-      "Déglon Emile",
-      "Favez Louis",
-      "Friedrich Ele",
-      "Juilland Edouard",
-      "Mottaz Victor",
-      "Ramuz Charles"
+    "Huilerie.": [
+      "Clément Arthur"
     ],
-    "Médecins.": [
-      "Adert Maur.",
-      "Aeschlimann Boris",
-      "Forel F.",
-      "Gagnebin Marius",
-      "Masson Raoul",
-      "Warnery Pierre"
+    "Inspecteur du bétail.": [
+      "Piguet Henri"
     ],
-    "Menuisiers.": [
-      "Arnold Edmond",
-      "Blanchard Charles",
-      "Blanchard Henri & fils",
-      "Chauvet Théodore",
-      "Engler frères",
-      "Manera Antoine & fils",
-      "Nicolier Jules",
-      "Ramuz Georges",
-      "Ruegsegger Alfred"
+    "Instituteurs.": [
+      "Michel Robert",
+      "Dubois Hélène",
+      "Chappuis Thérèse"
     ],
-    "PARQUETERIE D'AIGLE": [
-      "PARQUETERIE D'AIGLE"
+    "Laiterie.": [
+      "Chappuis Aloïs",
+      "Chappuis Paul"
     ],
-    "Mercerie.": [
-      "Baum",
-      "Chabloz Henri",
-      "Ethenoz William",
-      "Favez Louis",
-      "Jaccard-Michel A.",
-      "Jayet Charles",
-      "Linder-Mayor Rose",
-      "Martin Blanche",
-      "Meyer Sylvain",
-      "Savary & Brunner",
-      "Seewer Marguerite",
-      "Vernet-Bernard Clémence, Vve"
-    ],
-    "Meubles (march. de).": [
-      "Engler, Vve de Ch.",
-      "Engler Frères",
-      "Linder François",
-      "Moyard Henri",
-      "Nicolier Jules"
+    "Maréchal.": [
+      "Boulaz Emile"
     ],
     "Meuniers.": [
-      "Jaccoud & fils"
+      "Chappuis Marcel",
+      "Clément Arthur"
     ],
-    "Modelage mécanique.": [
-      "Girod W."
+    "Pasteur.": [
+      "Leuba Pierre"
     ],
-    "Modistes.": [
-      "Anklin-Moser B.",
-      "Desponds Renée",
-      "Fonjallaz-Emery A.",
-      "Klose-Despland",
-      "Maquelin Augusta",
-      "Pernet L.",
-      "Reymond-Duflon",
-      "Tzaud, dame"
+    "Postes.": [
+      "Chappuis Louis"
     ],
-    "Moutarde (fab. de).": [
-      "Von Auw & Cie"
+    "Rentiers.": [
+      "Bovey sœurs",
+      "Chappuis Arthur",
+      "Girardet Edouard"
     ],
-    "Musée.": [
-      "Musée du Vieux Morges"
+    "Scieurs.": [
+      "Chappuis Marcel",
+      "Clément Arthur"
     ],
-    "Naturaliste-préparateur.": [
-      "Millioud Jean"
+    "Sellier.": [
+      "Chappuis Edward"
     ],
-    "Notaires.": [
-      "Buchet Louis",
-      "Cuénod Eugène",
-      "Gonvers Ernest",
-      "Kindler C.",
-      "Rattaz A."
+    "Sociétés.": [
+      "de fromagerie",
+      "d'assurance du bétail bovin",
+      "Syndicat agricole",
+      "Chappuis Robert"
     ],
-    "Officier d'état-civil.": [
-      "Rattaz Ami"
+    "Tailleuses.": [
+      "Clément Lina",
+      "Dumauthioz Germaine",
+      "Rochat sœurs"
+    ],
+    "Téléphone public.": [
+      "Numa Simon"
+    ]
+  },
+  "DAILLENS": {
+    "Autorités communales.": [
+      "Francillon Arm.",
+      "Delacuisine Edmond"
+    ],
+    "Syndic": [
+      "Villard Emile"
+    ],
+    "Municipaux": [
+      "Roulin Fernand",
+      "Trolliet Philippe",
+      "Lugeon André",
+      "Trolliet Henri",
+      "Villard Aimé",
+      "Isely Gustave",
+      "Trolliet Albert",
+      "Cœytaux Félix"
+    ],
+    "Agriculteurs.": [
+      "Cœytaux Ernest",
+      "Comtesse Emile",
+      "Comtesse Louis",
+      "Delacuisine Charles",
+      "Delacuisine frères",
+      "Dubrit Chs",
+      "Francillon Arm.",
+      "Francillon frères",
+      "Gavin Charles",
+      "Guex, hoirs de Louis",
+      "Isely Gustave",
+      "Lugeon Ernest",
+      "Mercier John",
+      "Mercier Louis",
+      "Roulin Fernand",
+      "Roulin Lucien",
+      "Tissot Charles",
+      "Trolliet Emile",
+      "Trolliet Gustave",
+      "Trolliet Henri",
+      "Trolliet Philippe",
+      "Trolliet William",
+      "Villard Adr.",
+      "Villard Aimé",
+      "Villard Emile",
+      "Villard Henri"
+    ],
+    "Apiculteurs.": [
+      "Comtesse Georges",
+      "Cœytaux Félix",
+      "Schumacher F."
+    ],
+    "Associations mutualistes de retraite.": [
+      "Masnata J."
+    ],
+    "Aubergiste.": [
+      "Bula Robert"
+    ],
+    "Bestiaux (marchands de).": [
+      "Bischoff Ernest",
+      "Bula Robert",
+      "Mercier Louis",
+      "Villard Adrien"
+    ],
+    "Bois (march de).": [
+      "Cœytaux Ernest",
+      "Villard Emile"
+    ],
+    "Boulangers-pâtissiers.": [
+      "Clercc Emile",
+      "Pache Robert"
+    ],
+    "Charpentiers.": [
+      "Desmeules Maurice",
+      "Pittet Alfred",
+      "Pittet Maxis"
+    ],
+    "Charron.": [
+      "Zimmermann Paul"
+    ],
+    "Chef de section.": [
+      "Villard Henri"
+    ],
+    "Commission scolaire": [
+      "Villard E.",
+      "Mercier G.",
+      "Trolliet H."
+    ],
+    "Cordonniers.": [
+      "Favre Georges",
+      "Jonneret Louis"
+    ],
+    "Couturières.": [
+      "Desmeules Alice",
+      "Roulin Angèle",
+      "Roulin Lucie",
+      "Tardy Berthe"
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Mercier Henri",
+      "Mercier-Porchet Louis",
+      "Meylan Hélène"
+    ],
+    "Entrepreneur.": [
+      "Chiovini Jaques"
+    ],
+    "Ferblantiers.": [
+      "Martinelli Laurent",
+      "Mercier Gaston"
+    ],
+    "Fromagerie (comm. de).": [
+      "Villard Adrien"
+    ],
+    "Gypsier-peintre.": [
+      "Motta Jean"
+    ],
+    "Inspecteur du bétail.": [
+      "Mercier Hri."
+    ],
+    "Instituteurs.": [
+      "Schaer Paul",
+      "Dind Suzanne"
+    ],
+    "Maréchal.": [
+      "Hoffer Auguste"
+    ],
+    "Meunier.": [
+      "Delacrétaz, Vve."
+    ],
+    "Pasteur.": [
+      "Schumacher Ferdinand"
+    ],
+    "Pension.": [
+      "Masnata J. T."
+    ],
+    "Poste.": [
+      "Conod Eugène"
+    ],
+    "Poterie.": [
+      "Mercier-Guerry Henri"
+    ],
+    "Rentiers.": [
+      "Cœytaux Félix",
+      "Contesse Georges",
+      "Crottaz Louis",
+      "Favre Elise",
+      "Trolliet Lucie",
+      "Meystre Emile"
+    ],
+    "Représentant.": [
+      "Weber-Masnata C."
+    ],
+    "Scierie.": [
+      "Cœytaux Ernest"
+    ],
+    "Sellier.": [
+      "Recordon Paul"
+    ],
+    "Sociétés.": [
+      "Caisse de Crédit Mutuel",
+      "de fromagerie du Bourquin",
+      "de la grande fromagerie de Daillens",
+      "de tir aux armes de guerre",
+      "du battoir à grains",
+      "Syndicat agricole",
+      "Société romande d'apiculture"
+    ],
+    "Téléphone public.": [
+      "Bula Robert"
     ]
   }
 }

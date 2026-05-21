@@ -1,85 +1,107 @@
 {
-  "Ville de Vevey": {
-    "Teinturiers.": [
-      "Grande Teinturerie de Morat",
-      "Rochat (S. A.)",
-      "Rossiaud frères & Cie",
-      "Terlinden & Cie, Wellauer. dame"
+  "Ville de Payerne": {
+    "Agriculteurs": [
+      "De Dompierre Victor",
+      "Fivaz Charles",
+      "Givel Emile",
+      "Givel Eugène",
+      "Givel Louis",
+      "Glauser Ernest",
+      "Golliez Georges",
+      "Häberli Emile",
+      "Hugonnet Paul",
+      "Jomini Abram",
+      "Jomini Henri",
+      "Jomini Louis",
+      "Lädermann Léon",
+      "Méan Constant",
+      "Méan Henri",
+      "Méan Oscar",
+      "Méan Marcel",
+      "Morattel Henri",
+      "Morgenegg Albert",
+      "Ney Albert",
+      "Ney Ernest",
+      "Oberli Emile",
+      "Pahud frères",
+      "Penseyres Ernest",
+      "Perrin César",
+      "Perrin",
+      "Perrin Numa",
+      "Petter Abel",
+      "Plumettaz Alphonse",
+      "Plumettaz Jules et Emile",
+      "Plumettaz-Bossy Jean",
+      "Pradervand Jämes",
+      "Pradervand Louis",
+      "Quidort Frédéric",
+      "Rapin-Leu Emile",
+      "Rapin Eugène",
+      "Rihs Ernest",
+      "Rossier-Reber Charles",
+      "Rossier-Rapin Benjamin",
+      "Rossier Eugène et Louis",
+      "Recordon John",
+      "Rothen",
+      "Ruchti Rodolphe",
+      "Savary-Ammann Gustave",
+      "Savary-Bocion",
+      "Savary-Ney Oscar",
+      "Savary-Crisinel Jules",
+      "Savary-Rossier Aimé",
+      "Savary Emile",
+      "Savary frères",
+      "Savary-Hubler",
+      "Savary Ernest",
+      "Savary-Vonnez Louis",
+      "Savary-Lädermann Samuel",
+      "Savary Léon",
+      "Schläffli Emile",
+      "Vallotton Aloïs",
+      "Vonnez Adolphe",
+      "Vonnez Fritz",
+      "Vonnez Isaac",
+      "Vonnez Jaques",
+      "Vonnez-Guiguer Henri",
+      "Vonnez-Hugonnet Emile",
+      "Vonnez-Bonny Louis",
+      "Widmer E.",
+      "Zbinden Ernest",
+      "Zbinden Franz",
+      "Zbinden Robert"
     ],
-    "Théâtre.": [
-      "Grangier Edouard"
+    "Apiculteurs.": [
+      "Clot Charles",
+      "Jaccoud Charles",
+      "Michel Emile",
+      "Perrin Constant",
+      "Savary Eugène",
+      "Widmer E."
     ],
-    "Thés.": [
-      "Beer F.",
-      "Cuénod Frank",
-      "Haefner-Bonjour Th.",
-      "Pankoffer Adolphe",
-      "Schmidt & Cie, (S. A.)"
+    "Architectes.": [
+      "Battaini César",
+      "Bosset & Buèche"
     ],
-    "Tonneliers.": [
-      "Ellenberger Auguste",
-      "Federer Chs.",
-      "Mayor II.",
-      "Schenkel Jean",
-      "Schwab Jean"
+    "Armes.": [
+      "Ischy-Savary Ls."
     ],
-    "Tourneurs sur bois.": [
-      "Borgeaud V.",
-      "Girod François",
-      "Vuadens Ernest"
+    "Arsenal.": [
+      "Rapin Clovis"
     ],
-    "Tricotages.": [
-      "Brandt A.",
-      "Brugger Vve. E.",
-      "Dormond Jules",
-      "Gavin Emma",
-      "Grosvernier L.",
-      "Salvador Lina",
-      "Sœurs Nicollier"
+    "Assurances.": [
+      "La Suisse",
+      "Assurance Mutuelle Vaudoise",
+      "Bosset M.",
+      "Jaques Camille",
+      "Nicod Ernest",
+      "Bonny Oscar",
+      "La Genevoise",
+      "Savary-Ammann Gustave",
+      "Société suisse de secours mutuels Helvétia",
+      "Ecoffey Louis"
     ],
-    "Tripier.": [
-      "Triperie de Vevey"
-    ],
-    "Vannerie.": [
-      "Ducret Emile",
-      "Wunderlin A."
-    ],
-    "Vélos, Motos (march. de).": [
-      "Briffod Ch.",
-      "Budry Marius",
-      "Claude Paul",
-      "Claude Léon",
-      "Niquet L.",
-      "Savary Louis"
-    ],
-    "Vétérinaire.": [
-      "Boudry Pierre"
-    ],
-    "Vins.": [
-      "de Ambroggi Henri",
-      "Blank & Co",
-      "Claivaz, Vve de François-Ls",
-      "Gonella Charles",
-      "Goy Louis",
-      "Grossenbach & Cie",
-      "Krähenbühl A.",
-      "Lädermann A.",
-      "Lenzo-Holl & Co",
-      "Matthys Jean",
-      "Meneveri Paul",
-      "Musso Louis fils",
-      "Obrist & Cie",
-      "Palladino Simon",
-      "Schlunegger Jean",
-      "Thuillard-Martinetti",
-      "Weber Albert & fils",
-      "Wullschleger Otto"
-    ],
-    "Vitriers.": [
-      "Dubochet Ch.",
-      "Fonjallaz Marius",
-      "Gatti Jean",
-      "Pilloud Léon"
+    "Assurance-vieillesse.": [
+      "Associations mutualistes de retraite"
     ]
   }
 }

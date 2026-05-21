@@ -1,234 +1,233 @@
 {
-  "VILLE DE MORGES": {
-    "Divers": [
-      "Roulet, Vve dd François",
-      "Ræder Ph.",
-      "Roulet",
-      "Salina-Amoudruz J.",
-      "Schaetti R., Mlle",
-      "Stärkle-Carrard O.",
-      "Thury Mlles",
-      "Tondu Louis",
-      "Von Auw Joël",
-      "Wenger A.",
-      "Yersin Emilie"
-    ]
-  },
-  "ACLENS": {
-    "Autorités communales": [
-      "Bally François",
-      "Durgnat Ernest"
+  "LA SARRAZ": {
+    "Médecin": [
+      "Curchod Henri",
+      "Dr Rochat Paul",
+      "Dr Reist Willy"
     ],
-    "Syndic": [
-      "Corboz Alexis"
+    "Menuisiers-ébénistes": [
+      "Chauvet frères",
+      "Crozet",
+      "Desmeules Théophile",
+      "Isely André",
+      "Marchand Victor"
     ],
-    "Municipaux": [
-      "Reymond Emile",
-      "Visinand Eug.",
-      "Bally Hri",
-      "Lequint Emile"
+    "Meuniers": [
+      "Chabloz L. & Co"
     ],
-    "Secrétaire": [
-      "Corboz Julien"
+    "Modiste": [
+      "Velay Amélie-Charlotte"
     ],
-    "Boursier": [
-      "Visinand François"
+    "Notaire": [
+      "Delacuisine Edouard"
     ],
-    "Huissier": [
-      "Bally Gustave"
+    "Officier d'état civil": [
+      "Delacuisine E."
     ],
-    "Agriculteurs": [
-      "Bally François",
-      "Bally Constant",
-      "Bally Elie",
-      "Bally frères",
-      "Collaud Jules",
-      "Corboz Alexis",
-      "Corboz Constant",
-      "Corboz Julien",
-      "Ischy frères",
-      "Jaquier hoirie",
-      "Reymond Ct",
-      "Reymond Emile",
-      "Reymond Henri",
-      "Reymond Louis",
-      "Visinand Eugène",
-      "Visinand François",
-      "Visinand Paul",
-      "Widmer Albert"
+    "Organiste": [
+      "Ogiz Marika, Mlle."
     ],
-    "Aliments pour volaille": [
-      "Reymond Henri"
+    "Pasteurs": [
+      "Brasseler Louis",
+      "Bonnard Fritz"
     ],
-    "Apiculteurs": [
-      "Chapuisat Auguste",
-      "Reymond Henri",
-      "Visinand Ernest"
+    "Peintre en voitures": [
+      "Vallotton Hri."
     ],
-    "Mutualité scolaire de retraite": [
-      "Durgnat E."
+    "Pharmacien": [
+      "Anselmier Rob."
     ],
-    "Aubergiste": [
-      "Favre René"
+    "Pisciculture": [
+      "Knebel Jean"
     ],
-    "Bétail (march. de)": [
-      "Favre René"
+    "Poêliers-fumistes": [
+      "Bouverat Albert",
+      "Kaeser Albert",
+      "Velay Henri"
     ],
-    "Charron": [
-      "Epars Alfred"
+    "Poste, télégraphe et téléphone": [
+      "Michaud Alfred",
+      "Bonzon Gust.",
+      "Schmidt Rod."
     ],
-    "Commission scolaire": [
-      "Subilia E.",
-      "Bally Henri",
-      "Reymond Emile"
+    "Sage-femme": [
+      "Guignard Blanche"
     ],
-    "Epiceries": [
-      "Bally, sœurs",
-      "Rebeaud Henri"
+    "Selliers-tapissiers": [
+      "Kervand Alfred",
+      "Penseyres Alfred",
+      "Penseyres Rob. fils"
     ],
-    "Inspecteur du bétail": [
-      "Chapuisat Auguste"
-    ],
-    "Instituteurs": [
-      "Durgnat Ernest",
-      "Albrecht Marthe"
-    ],
-    "Maçon": [
-      "Tosi Frédéric"
-    ],
-    "Marbriers": [
-      "Gailloud frères"
-    ],
-    "Maréchaux": [
-      "Epars Gustave",
-      "Jordan Elie"
-    ],
-    "Menuisier": [
-      "Chapuisat John"
-    ],
-    "Poste": [
-      "Reymond Ernest"
+    "Serruriers": [
+      "Bouverat Albert",
+      "Kaeser Albert",
+      "Velay Henri"
     ],
     "Sociétés": [
-      "Société de fromagerie",
-      "Société de l'usine à battre"
+      "d'agriculture de La Sarraz",
+      "de fromagerie",
+      "Caisse de Crédit Mutuel du Cercle",
+      "Les Joyeux Cyclistes",
+      "La Sarraz Sports et Art",
+      "du tennis",
+      "Instrumentale",
+      "Orchestre",
+      "Gymnastique",
+      "de tir aux Armes de Guerre",
+      "Abbaye des Carabiniers",
+      "de tir La Nouvelle Cartouche",
+      "Syndicat agricole",
+      "Section de la Croix-Bleue",
+      "Chœur d'hommes",
+      "Tanneries de La Sarraz S. A."
+    ],
+    "Tailleurs": [
+      "Meyer Jean"
     ],
     "Tailleuses": [
-      "Bally Emma",
-      "Chapuisat Renée",
-      "Visinand Juliette"
+      "Bærtschi-Cuhat Louisa",
+      "Collet Louise"
     ],
-    "Téléphone": [
-      "Auberge de commune"
+    "Tannerie": [
+      "Tanneries de La Sarraz S. A."
+    ],
+    "Teinturerie (dépôts de)": [
+      "Cuhat Hri",
+      "Hirzer Vve",
+      "Marchand V.",
+      "Meyer Jean"
+    ],
+    "Téléphone public": [
+      "Guignard Jean"
+    ],
+    "T. S. F": [
+      "Huguenin Maurice"
+    ],
+    "Toilerie": [
+      "Cuhat Henri",
+      "Knebel Ch.",
+      "Rossi Victor"
+    ],
+    "Vélos": [
+      "Baudraz Paul",
+      "Jaccard Jules"
+    ],
+    "Vétérinaire": [
+      "Vacat."
+    ],
+    "Vins (marchands de)": [
+      "Koch J.",
+      "Petitpierre S. A.",
+      "Rossi Victor",
+      "Schopfer Edm.",
+      "Thélin Charles fils"
+    ],
+    "Voituriers": [
+      "Besson Henri",
+      "Jaccard Jules",
+      "Rochat Jules",
+      "Stebler Henri"
+    ],
+    "Divers": [
+      "Chabloz Edmond",
+      "Demée",
+      "Faessler B.",
+      "Scholten Ed.",
+      "Vontobler Henri"
     ]
   },
-  "BREMBLENS": {
-    "Autorités communales": [
-      "Chappuis Eug.",
-      "Mercet Victor"
+  "L'ISLE": {
+    "Président du Conseil communal": [
+      "Vacat."
     ],
-    "Syndic": [
-      "Martin Ernest"
-    ],
-    "Municipaux": [
-      "Keuffer Henri",
-      "Bornand Ferdin.",
-      "Golaz Marius",
-      "Keuffer Marius"
+    "Vice-président": [
+      "Cloux Walther"
     ],
     "Secrétaire": [
-      "Perret Alfred"
+      "Bernard Fernand",
+      "Vulliens Jules"
+    ],
+    "Syndic": [
+      "Favre L.-Aimé"
+    ],
+    "Municipaux": [
+      "Bernard Gustave",
+      "Jousson Auguste",
+      "Cloux-Capt Ele",
+      "Cloux Adrien",
+      "Faillettaz Hri",
+      "Desponds Ch."
     ],
     "Boursier": [
-      "Emery Aimé"
+      "Falquet Auguste"
     ],
-    "Agriculteurs": [
-      "Bornand Albert",
-      "Bornand Ferdinand",
-      "Bornand Hri",
-      "Bornand William",
-      "Chambaz Marie",
-      "Chappuis E.",
-      "Chappuis Frédéric",
-      "Coytaux Philippe",
-      "Emery Aimé",
-      "Golaz Marius",
-      "Keuffer Jules",
-      "Keuffer Marius",
-      "Martin Ernest",
-      "Mercet Victor",
-      "Ogiz Alfred",
-      "Perret Alfred",
-      "Reymond Marius",
-      "Rosier Paul",
-      "Saugy Alfred",
-      "Tissot Fernand"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Beauverd W."
-    ],
-    "Boulanger": [
-      "Michon Vve"
-    ],
-    "Café": [
-      "Chambaz Eugène"
+    "Huissier": [
+      "Gruaz Charles"
     ],
     "Commission scolaire": [
-      "Chapuis E.",
-      "Golaz Marius",
-      "Milliet"
+      "Jousson Auguste",
+      "Bernard Gustave",
+      "Cloux Walther",
+      "Gruaz-Bennett",
+      "Chautems Paul"
+    ]
+  },
+  "La Coudre": {
+    "Agriculteurs": [
+      "Baudat Louis",
+      "Cloux Walther",
+      "Cloux-Freymond",
+      "Cloux, hoirie de Pierre",
+      "Cloux Lucien"
     ],
-    "Confitures, fabr. de": [
-      "Barrillier Aug. & Cie"
+    "Amodiateur": [
+      "Rochat Emile"
     ],
-    "Couturières": [
-      "Chapuisat Cécile",
-      "Perret Aline"
+    "Bétail (march. de)": [
+      "Ueltschi Armand"
     ],
-    "Dépositaire postal": [
-      "Hennenberger Julia"
+    "Cafetier": [
+      "Rochat William"
+    ],
+    "Charpentier": [
+      "Jousson, hoirs de John-Henri"
     ],
     "Epicerie": [
-      "Michon Sophie"
+      "Bertoni"
     ],
     "Inspecteur du bétail": [
-      "Mercet Victor"
-    ],
-    "Instituteur": [
-      "Beauverd William"
+      "Cloux Walther"
     ],
     "Institutrice": [
-      "Mercet Elise"
-    ],
-    "Jardinier": [
-      "Cuendet Justin"
+      "Renaud Hélène"
     ],
     "Laitier": [
-      "Binggeli Arthur"
+      "Jousson Auguste"
     ],
-    "Maçons": [
-      "Piquier Marcel",
-      "Tavel Charles"
+    "Maçon": [
+      "Bertoni P."
     ],
-    "Sociétés": [
-      "de fromagerie",
-      "bibliothèque populaire",
-      "Chant « La Paysanne »",
-      "Syndicat d'élevage du bétail bovin"
+    "Pension d'été": [
+      "Gruaz Henri"
+    ],
+    "Poste": [
+      "Cloux Walther"
+    ],
+    "Société": [
+      "de fromagerie"
     ],
     "Téléphoniste": [
-      "Michon Sophie"
-    ],
-    "Vignerons": [
-      "Crausaz François",
-      "Mercet Victor",
-      "Ogiz Alfred",
-      "Perret Ulysse",
-      "Kirschmann Ch.",
-      "Tissot Fernand"
-    ],
-    "Voyageur-représ": [
-      "Paquier Marcel"
+      "Cloux Ch., dame"
+    ]
+  },
+  "Villars-Bozon": {
+    "Agriculteurs": [
+      "Desponds Ch.",
+      "Faillettaz Gve",
+      "Faillettaz Henri",
+      "Longchamp Ls",
+      "Martin-Gruaz",
+      "Strasser Willy"
     ]
   }
 }

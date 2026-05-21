@@ -1,181 +1,164 @@
 {
-  "ORMONT-DESSUS": {
-    "Usine électrique": [
-      "Soc. des Forces motrices de la Grande Eau"
+  "VILLE DE MOUDON": {
+    "Tabacs et cigares. Voir Epicerie.": [
+      "Lob Elie",
+      "Pache Louis",
+      "Perrier Frank",
+      "Pittet Eug."
     ],
-    "Voituriers": [
-      "Ginier Alfred",
-      "Hubert-Ziegler, Veuve"
+    "Tailleurs.": [
+      "Galbiati-Durussel G.",
+      "Weibel François"
+    ],
+    "Tailleuses.": [
+      "Becker Louise",
+      "Buttet Germaine",
+      "Chatelanat Zélie",
+      "Moser Marie",
+      "Pochon Rose",
+      "Rochat-Diserens A.",
+      "Saillet Adèle"
+    ],
+    "Tapissiers.": [
+      "Bertholet Ernest",
+      "Debétaz Albert",
+      "Kuffer E.",
+      "Muller Jean",
+      "Pahud Armand"
+    ],
+    "Teinturerie.": [
+      "Meyer frères & Cie"
+    ],
+    "Téléphoniste et télégraphiste.": [
+      "Pasche Oscar"
+    ],
+    "Tricotages.": [
+      "Müller Frida",
+      "Steck-Dutoit, Vve."
+    ],
+    "Vélos.": [
+      "Dutoit Ernest",
+      "Rubin Emile"
+    ],
+    "Verrerie-Porcelaines.": [
+      "Jaggi & Rayroux, dames"
+    ],
+    "Vétérinaires.": [
+      "Jaccottet A.",
+      "Lavanchy Louis"
+    ],
+    "Vins.": [
+      "Canals E. & J.",
+      "Voruz Ernest"
+    ],
+    "Voituriers.": [
+      "Cherbuin & Gris",
+      "Faucherre Henri",
+      "Golay Ernest",
+      "Monachon Emile",
+      "Ruch Jean"
+    ],
+    "Volailles (commerce de).": [
+      "Degoudron Elisa"
+    ],
+    "Divers.": [
+      "Briod Rodolphe",
+      "Combaz J., Mme",
+      "Martinetti Mlles",
+      "Pidoux Ernest",
+      "Raccaud Anna"
+    ]
+  },
+  "BERCHER": {
+    "Président du Conseil général": [
+      "Becholey Jules"
+    ],
+    "Secrétaire": [
+      "Coquerand Ulysse",
+      "Jaquier Gustave"
+    ],
+    "Syndic": [
+      "Coquerand Louis"
+    ],
+    "Municipaux": [
+      "Millioud Const.",
+      "Gonet William",
+      "Bissat Jules",
+      "Becholey Adolphe",
+      "Thomas René",
+      "Wulliamoz Alb."
+    ],
+    "Boursier": [
+      "Lambelet Justin"
+    ],
+    "Huissier": [
+      "Dutoit Hri."
     ],
     "Agriculteurs": [
-      "Ansermoz Albert",
-      "Ansermoz David",
-      "Ansermoz Paul",
-      "Berruex Alexis",
-      "Berruex Emile",
-      "Berruex François",
-      "Berruex Jean",
-      "Berruex Jules",
-      "Berruex Paul",
-      "Berruex-Gingen Jean",
-      "Berruex-Pichard Alexis",
-      "Bonzon Eugène",
-      "Busset Alfred",
-      "Busset Alfred fils",
-      "Busset Alexandre",
-      "Busset Edouard",
-      "Busset Emile",
-      "Busset Eug.",
-      "Busset Robert",
-      "Favre Alex.",
-      "Favre les fils de Const.",
-      "Favre Emile",
-      "Favre Henri",
-      "Favre Samuel",
-      "Favre-Pernet Vincent",
-      "Gallaz Vincent",
-      "Genillard Ernest",
-      "Genillard Eugène",
-      "Genillard frères",
-      "Gilliand Théophile",
-      "Isabel Vincent",
-      "Isabel-Favre Vincent",
-      "Mermod William",
-      "Moillen Alexis",
-      "Moillen Alexis fils",
-      "Moillen Fernand",
-      "Moillen hoirie d'Emile",
-      "Moillen Jules",
-      "Moillen Jules fils",
-      "Morerod Eugène de Jean",
-      "Morerod-Ansermoz Eugène",
-      "Morerod-Favre Emile",
-      "Morerod-Isabel Emile",
-      "Morex Aug.",
-      "Moulin Jules",
-      "Moulin Paul",
-      "Nicolier Alexandre",
-      "Nicolier François",
-      "Nicolier frères, les Rochers",
-      "Nicolier hoirie d'Emile",
-      "Nicolier Jules",
-      "Nicolier Vincent",
-      "Nicolier-Favre Emile",
-      "Pernet-Gerber Henri",
-      "Pernet-Pichard Jules",
-      "Pernet-Reber Jules",
-      "Pernet-Tille Eugène",
-      "Pernet-Treina Emile",
-      "Pichard Auguste",
-      "Pichard Emile",
-      "Pichard Henri",
-      "Pichard Henri fils",
-      "Pichard-Ansermod Albert",
-      "Pichard Frank",
-      "Pichard-Jordan François",
-      "Pichard-Moillen Henri",
-      "Pichard Robert",
-      "Pichard-Morerod Jules",
-      "Pilet Albert",
-      "Pilet-Nicolier Albert",
-      "Treina Georges"
+      "Becholey Adolphe",
+      "Becholey Alfr.",
+      "Bissat Auguste",
+      "Bovay Paul",
+      "Burnand Constant",
+      "Coquerand André",
+      "Cruchon François",
+      "Dutoit Auguste",
+      "Dutoit-Badoux E.",
+      "Gonet William",
+      "Henry Constant",
+      "Jaccaud frères",
+      "Recordon Ed.",
+      "Recordon Lucien",
+      "Recordon Paul",
+      "Thomas Auguste",
+      "Thomas Jules",
+      "Thomas frères",
+      "Vulliens Marcel",
+      "Wulliamoz Alb."
     ],
-    "Assurance-vieillesse": [
-      "Associations mutualistes de retraite",
-      "Chapalay C."
-    ],
-    "Auberges et cafés": [
-      "Buchs hoirie",
-      "Corboz Louis, fils",
-      "Morex-Tille, hoirie",
-      "Nicolier, Vve d'Auguste",
-      "Bertholet Adrien",
-      "Schneiter-Pellet Marie",
-      "Wursten-Moillen Samuel",
-      "Tille Alfred"
+    "Amodiateurs": [
+      "Bovay Paul",
+      "Coquerand Jules"
     ],
     "Appareilleurs": [
-      "Ansermoz Fr. et Favre Emile"
+      "Florio Benjamin",
+      "Schneider Henri."
     ],
-    "Bazars": [
-      "Dufresne-Hubert",
-      "Favre Olivier",
-      "Pernet Armand"
+    "Assurances": [
+      "La Genevoise (vie)"
     ],
-    "Blanchisseuses": [
-      "Ansermoz Aline",
-      "Gallaz Sophie",
-      "Perreten Louise"
+    "Mutualité scolaire": [
+      "Perrochon Ls"
     ],
-    "Bois (march. de)": [
-      "Busset frères",
-      "Henchoz Robert",
-      "Tille frères et sœur",
-      "Tille Jules R.",
-      "Treina Georges"
+    "Aubergistes": [
+      "Gutknecht Hermann",
+      "Laurent Marie",
+      "Giroud Elisabeth"
     ],
-    "Boisseliers": [
-      "Jordan Constant",
-      "Jordan François"
+    "Banque": [
+      "Crédit Foncier Vaudois",
+      "Bécholey Eug."
+    ],
+    "Bétail (march. de)": [
+      "Gutknecht Hermann"
     ],
     "Boulangers": [
-      "Genillard Ernest",
-      "Girod Armand",
-      "Moillen Constant",
-      "Nicollier, Vve d'Auguste"
+      "Jan Ami.",
+      "Rüpp Rodolphe."
     ],
-    "Chalets (location de)": [
-      "Amiguet Lse",
-      "Ansermoz Dd",
-      "Ansermoz Fs-Jn",
-      "Berruex Jules",
-      "Berruex-Gingen Jean",
-      "Berruex frères",
-      "Berruex-Pernet Frs",
-      "Berruex-Pichard Alexis",
-      "Busset Eugène",
-      "Busset Emile",
-      "Busset-Moulin Robert",
-      "Busset-Daccord Emlie",
-      "Dupertuis-Pichard Nancy",
-      "Favre Alexandre",
-      "Favre-Berruex Robert",
-      "Favre-Pernet Vincent",
-      "Favre Marie-Sophie",
-      "Fromentin Jules",
-      "Gallaz",
-      "Gallaz Rosine",
-      "Genillard Alexandre",
-      "Genillard Eugène",
-      "Genillard frères",
-      "Gingen Léopold",
-      "Hauswirth Félix",
-      "Isabel hoirs d'Auguste",
-      "Moillen Alexis",
-      "Moillen Alexis fils",
-      "Moillen Constant",
-      "Moillen Jules",
-      "Morerod Adèle",
-      "Morerod, hoirie de David",
-      "Morerod Eugène",
-      "Morerod-Moillen Eugène",
-      "Morerod Jean",
-      "Morex Auguste",
-      "Nicolier-Dorner, hoirie d'Alexandre",
-      "Nicolier François",
-      "Nicolier-Gallaz Jules",
-      "Nicolier Jules",
-      "Nicolier Louise",
-      "Pernet-Moulin Auguste",
-      "Pernet Edouard",
-      "Perreten Alb.",
-      "Pichard Albert",
-      "Pichard Emile",
-      "Pichard Isaline",
-      "Pichard Jules",
-      "Pichard-Ansermoz Albert",
-      "Pichard Auguste",
-      "Pernet Alexis"
+    "Buraliste postal": [
+      "Clavel Alfred."
+    ],
+    "Caisse d'Epargne": [
+      "Crédit mutuel",
+      "Coquerand Ls",
+      "Bissat Jules"
+    ],
+    "Cannage de chaises": [
+      "Albert Maurice, dame."
+    ],
+    "Cantonnier": [
+      "Jaquier Adolphe."
     ]
   }
 }

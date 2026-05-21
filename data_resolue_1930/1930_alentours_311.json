@@ -1,195 +1,64 @@
 {
-  "BOUGY-VILLARS": {
-    "Agriculteurs": [
-      "Francey Hoirie",
-      "Guignet Louis",
-      "Haeberli Fritz",
-      "Jaccoud Jules",
-      "Jorand Justin",
-      "Jotterand Emile",
-      "Kursner Adrien",
-      "Kursner Ferdinand",
-      "Kursner Henri",
-      "Martin Edouard",
-      "Meylan Arthur",
-      "Meylan Charles",
-      "Meylan Jules",
-      "Pfister Hri",
-      "Rosset Frédéric",
-      "Rosset-Mouron Fernand",
-      "Vittoz Georges",
-      "Vuille Jules-Ami"
+  "VILLE DE VEVEY": {
+    "Auberges.": [
+      "Hôtel du Guillaume Tell",
+      "Hôtel Friedrich",
+      "Hôtel de tempérance"
     ],
-    "Appareilleur": [
-      "Rosset Arthur"
+    "Automobiles et autogarages.": [
+      "Bettex & Salzmann",
+      "Bovay André",
+      "Bovay Robert",
+      "Bovay Marcel",
+      "Bourquin A.",
+      "Briffod Ch.",
+      "Claude Léon",
+      "Claude Paul",
+      "Dettwiller Alfred",
+      "Ducret Gust.",
+      "Fuchs J.",
+      "Kundig & Cie",
+      "Liewald Fritz",
+      "Maquelin Ch.",
+      "Pittet & Morvant",
+      "Pouly Henri",
+      "Taverney Robert",
+      "Volet Jean",
+      "Vulliens E.",
+      "Vulliens Henri"
     ],
-    "Assesseur": [
-      "Rosset-Gallay Arthur"
+    "Automobiles (appareils de contrôle).": [
+      "Le Controlographe, S. A."
     ],
-    "Cafés": [
-      "Mouron Robert",
-      "Viquerat Arthur"
+    "Avocats.": [
+      "Paschoud Henri",
+      "Secretan Charles",
+      "Sillig Ed. & Turin"
     ],
-    "Epiceries": [
-      "Christinat Edmond",
-      "Gros Marguerite"
+    "Bâches et couvertures (fabr. de)": [
+      "Guinand Bernard"
     ],
-    "Inspecteur du bétail": [
-      "Rosset Louis"
+    "Bains.": [
+      "Bains du Lac",
+      "Vevey-Corseaux Plage.",
+      "Buanderie et bains",
+      "Bains des Alpes"
     ],
-    "Instituteurs": [
-      "Gonthier Charles",
-      "Baiche Louise"
+    "Balanciers.": [
+      "Briffod Ch."
     ],
-    "Laitier": [
-      "Betschen Jacob"
+    "Bandagistes.": [
+      "Barraud François"
     ],
-    "Maçons": [
-      "Morandi frères"
-    ],
-    "Poste": [
-      "Renaud Eugène"
-    ],
-    "Propriétaires-vignerons": [
-      "André Ls",
-      "Bougy, la commune",
-      "Hoirie Francey Georges",
-      "Guignet Louis",
-      "Jaccoud Charles",
-      "Jaccoud Jules",
-      "Jeannet Charles",
-      "Jorand Em.",
-      "Jorand Jules",
-      "Jorand Justin",
-      "Kursner Adrien",
-      "Kursner Ferd.",
-      "Kursner Henri",
-      "Martin Edouard",
-      "Meylan Arthur",
-      "Meylan Charles",
-      "Meylan Jules",
-      "Meylan Marthe",
-      "Mouron Robert",
-      "Pfister Henri",
-      "Regard frères",
-      "Rosset Adolphe",
-      "Rosset Arthur",
-      "Rosset Amélie, Vve",
-      "Rosset Frédéric",
-      "Rosset Louis",
-      "Ruchat Alfred",
-      "Tripod, Vve",
-      "Triss Albert",
-      "Vittoz-Renaud",
-      "Zahler Alexis"
-    ],
-    "Scierie-battoir": [
-      "Rosset Arthur & Kursner Adrien"
-    ],
-    "Sellier-tapissier": [
-      "Vuille Jules-Ami"
-    ],
-    "Sociétés": [
-      "de distillerie Bougy-Féchy",
-      "Fromagerie",
-      "Tir aux armes de guerre",
-      "de musique",
-      "Echo du Signal"
-    ],
-    "Téléphone communal": [
-      "Mouron Olive"
-    ],
-    "Vins (march. de)": [
-      "de Fischer Frédéric",
-      "Hoirie Georges Francey",
-      "Vittoz-Renaud",
-      "Bougy, la commune"
-    ],
-    "Divers": [
-      "de Riantcourt Raoul"
-    ]
-  },
-  "FÉCHY": {
-    "Auto-Transports de la Côte": [
-      "Blanchard frères"
-    ],
-    "Cafetier": [
-      "Gay Charles"
-    ],
-    "Caves": [
-      "Aguet Aug.",
-      "Bettems et fils",
-      "Bettems Louis",
-      "Blanchard hoirs",
-      "Caillat Albert",
-      "Huber Max",
-      "de Tavel Rod.",
-      "Eperon Alb.",
-      "Martheray S. A.",
-      "Molliex, dame",
-      "Pelichet Jacques",
-      "Renaud frères",
-      "Rochat Louis",
-      "Terrisse, hoirs de Ch."
-    ],
-    "Dépôt de poste": [
-      "Barbay Henri, fils"
-    ],
-    "Entrepreneur cimenteur": [
-      "Morandi Ch. et fils"
-    ],
-    "Epicerie et tabacs": [
-      "Gaillard Juste",
-      "Monod Alice"
-    ],
-    "Inspecteur du bétail": [
-      "Aguet Aug."
-    ],
-    "Instituteurs": [
-      "Bélaz Olivier",
-      "Bélaz Julia, Mme"
-    ],
-    "Laitier": [
-      "Rochat Fernand"
-    ],
-    "Mercerie": [
-      "Gaillard Juste"
-    ],
-    "Primeurs": [
-      "Cardinaux Alfred"
-    ],
-    "Propriétaires": [
-      "Aguet Aug.",
-      "Barbay Alfred",
-      "Bettems Louis",
-      "Blanchard Emile",
-      "Burnet, Vve",
-      "Eperon Albert",
-      "Caillat Albert",
-      "Chavannes Ernest",
-      "Huber-Decollogny",
-      "Pelichet Charles",
-      "Pelichet Jaques",
-      "Rochat Louis",
-      "Zimmermann Remigi"
-    ],
-    "Scieries": [
-      "Les fils de Blanchard Emile"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "de distillerie de Féchy-Bougy",
-      "de tir",
-      "de chant l'Aurore"
-    ],
-    "Vignerons": [
-      "Barbay Fréd.",
-      "Barbay Marc",
-      "Berger Arthur",
-      "Berger Louis",
-      "Berguer Alphonse",
-      "Bettems Julien",
-      "Brocard John"
+    "Banques.": [
+      "Banque cantonale vaudoise",
+      "Banque fédérale",
+      "Caisse d’épargne Monod A.",
+      "Crédit du Léman",
+      "Comptoir d'Escompte de Genève",
+      "de Palézieux & Cie",
+      "Union de Banques Suisses",
+      "Union vaudoise du Crédit"
     ]
   }
 }

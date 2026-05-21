@@ -1,213 +1,249 @@
 {
-  "FOREL": {
-    "Autorités communales.": [
-      "Léderrey Samuel",
-      "Chappuis Oscar"
-    ],
+  "MÉZERY": {
     "Syndic": [
-      "Léderrey Eugène"
+      "Vuagniaux Robert"
     ],
     "Municipaux": [
-      "Riccard Armand",
-      "Testuz O.",
-      "Michoud Henri",
-      "Crot Constant",
-      "Chappuis René",
-      "Gorjat Ls."
+      "Héritier Jean",
+      "Basset Auguste",
+      "Pahud Ernest",
+      "Cavin William"
     ],
-    "Agriculteurs.": [
-      "Bovet Ls",
-      "Bron Henri",
-      "Burnier Fritz",
-      "Chappuis Oscar",
-      "Duboux",
-      "Fonjallaz René",
-      "Henny Abram",
-      "Jaques Aimé",
-      "Lederrey Samuel",
-      "Michoud Henri",
-      "Pantet Alfred",
-      "Cordey",
-      "Pasche Louis",
-      "Porchet Henri",
-      "Ramseyer Gottfried"
+    "Agriculteurs": [
+      "Basset Alfred",
+      "Cavin William",
+      "Henrioud Paul",
+      "Héritier Henri",
+      "Héritier Jean",
+      "Potterat Ernest",
+      "Stubi Jean",
+      "Wuagniaux frères"
     ],
-    "Mutualité scolaire de retraite.": [
-      "Rouge F."
+    "Bouchers": [
+      "Guex Henri",
+      "Wuagniaux Robert"
     ],
-    "Auberges et cafés.": [
-      "Bron Elisa",
-      "Capt-Cardinaux E.",
-      "Cuénoud Aloïs",
-      "Blondel Ernest",
-      "Garin Louis",
-      "Reymond Frieda"
+    "Commission scolaire": [
+      "Héritier Jean",
+      "Basset Marc"
     ],
-    "Avocat.": [
-      "Gorgerat Ch."
+    "Inspecteur du bétail": [
+      "Guex Henri"
     ],
-    "Carriers.": [
-      "Chollet Juste"
+    "Téléphones": [
+      "Héritier Henri",
+      "Wuagniaux frères"
     ],
-    "Charpentier.": [
-      "Marguerat Aimé"
+    "Vélos": [
+      "Pahud Ernest"
     ],
-    "Commission scolaire.": [
-      "Michoud Hri",
-      "Gorjat René"
+    "Maçons": [
+      "Perdrisat Louis & fils",
+      "Saugy John"
     ],
-    "Cordonniers.": [
-      "Chappuis Marcel",
-      "Guex Oscar"
+    "Maréchal": [
+      "Héritier Conrad"
     ],
-    "Electricien.": [
-      "Testuz O. T."
+    "Mécanicien": [
+      "Waridel Jean"
     ],
-    "Entrepreneurs.": [
-      "Panico et fils"
+    "Menuisier-ébéniste": [
+      "Vallon Ulysse"
     ],
-    "Epicerie, mercerie.": [
-      "Crot Jeanne",
-      "Egger Alfred",
-      "Garin Louis",
-      "Thibaud frères"
+    "Rentier": [
+      "Vallon Justin"
     ],
-    "Facteurs.": [
-      "Chappuis John",
-      "Michoud Henri"
+    "Scieur": [
+      "Waridel Jean"
     ],
-    "Ferblantier.": [
-      "Rapin Louis"
+    "Sellier": [
+      "Meige Jean"
     ],
-    "Inspecteurs du bétail.": [
-      "Noverraz Arthur",
-      "Duboux Louis"
+    "Sociétés": [
+      "de fromagerie",
+      "Crédit mutuel",
+      "de chant",
+      "Syndicat des améliorations foncières",
+      "Section de secours mutuels"
     ],
-    "Instituteurs.": [
-      "Guignard Adr.",
-      "Rouge François",
-      "Martin, Mlle"
+    "Serrurier": [
+      "Vallon Aimé"
     ],
-    "Institut de jeunes gens.": [
-      "Schneebeli Alfred"
+    "Téléphoniste": [
+      "Pitte Samuel"
     ],
-    "Laiterie.": [
-      "Egger Alfred"
-    ],
-    "Machines agricoles.": [
-      "Léderey Samuel"
-    ],
-    "Maréchal.": [
-      "Testuz Oscar"
-    ],
-    "Matériaux de construction.": [
-      "Panico et fils"
-    ],
-    "Mécanicien-serrurier.": [
-      "Testuz O. T."
-    ],
-    "Pasteur.": [
-      "Epars Louis"
-    ],
-    "Produits viticoles.": [
-      "Léderrey Eugène"
-    ],
-    "Poste.": [
-      "Kronsbein-Lavanchy Eugène"
-    ],
-    "Rentiers.": [
-      "Buttin Louis T.",
-      "Choppard-Butticaz Paul"
-    ],
-    "Représentant.": [
-      "Gorjat Fernand"
-    ],
-    "Sociétés.": [
-      "Association des propriétaires d'eau du Pont de Pierre",
-      "Société de laiterie",
-      "de laiterie du Tronchet",
-      "de chant <La Vigneronne>",
-      "de la jeunesse",
-      "Syndicat agricole des Monts de Lavaux",
-      "Section de la Croix-Bleue",
-      "Fanfare de Grandvaux"
-    ],
-    "Tailleur.": [
-      "Lavanchy Auguste"
-    ],
-    "Téléphone communal.": [
-      "Capt Emile"
-    ],
-    "Tricotage à la machine.": [
-      "Giddey Hélène"
-    ],
-    "Vignerons.": [
-      "Beroud Emile",
-      "Bessat Louis",
-      "Chappuis Aimé",
-      "Chappuis Isaac",
-      "Chappuis Oscar",
-      "Chaubert Eugène",
-      "Crot Charles",
-      "Crot Constant",
-      "Crot Isaac",
-      "Duboux Jules",
-      "Gindroz Aimé",
-      "Gorjat Aloïs",
-      "Gorjat Frédéric",
-      "Gorjat René",
-      "Jomini frères",
-      "Léderrey Eugène",
-      "Monney Alf.",
-      "Palaz Georges",
-      "Parisod Alfred",
-      "Ponnaz Henri",
-      "Riccard Armand",
-      "Riccard Julien",
-      "Riccard Marius",
-      "Serex Louis",
-      "Testuz Oscar"
-    ],
-    "Vins vaudois.": [
-      "Léderrey Eug.",
-      "Parisod Robert"
-    ],
-    "Voituriers.": [
-      "Bovet Louis",
-      "Jomini"
+    "Voituriers": [
+      "Peytregnet, les fils de Charles"
     ]
   },
-  "LUTRY": {
-    "Autorités communales.": [
-      "Buche François",
-      "Deprez Albert"
+  "MOLONDIN": {
+    "Autorités communales": [
+      "Golay Auguste",
+      "Vallon Arnold"
     ],
     "Syndic": [
-      "Baatard Charles"
+      "Vallon William"
     ],
     "Municipaux": [
-      "Bron William",
-      "Bessat Henri",
-      "Conne Maurice",
-      "Diserens Charles",
-      "Mathier Charles",
-      "Bolomey Charles"
+      "Peytregnet Maurice",
+      "Peytregnet Charles",
+      "Peytregnet Marcel",
+      "Vallon Paul",
+      "Falconnier A.",
+      "Peytregnet Ch."
     ],
-    "Affichage.": [
-      "Société générale d'affichage"
+    "Agriculteurs": [
+      "Anker Fr.",
+      "Besson William",
+      "Cruchon Jules",
+      "Héritier William",
+      "Monnier frères",
+      "Peytregnet Julien",
+      "Peytregnet Maurice",
+      "Pitton Louis",
+      "Scheurer Samuel",
+      "Vallon Auguste",
+      "Vallon, fils d'Héli"
     ],
-    "Agents de police.": [
-      "Chollet Louis",
-      "Dessauges Alfred"
+    "Apiculteurs": [
+      "Cruchon Albert",
+      "Peytregnet Julien"
     ],
-    "Agriculteurs et vignerons.": [
-      "Aguet, César",
-      "Aguet Henri",
-      "Aguet Jules",
-      "Bessat Henri",
-      "Bolomey Charles",
-      "Bolomey Louis de Daniel",
-      "Bor"
+    "Aubergiste": [
+      "Pitte Samuel"
+    ],
+    "Boulanger": [
+      "Curchod E."
+    ],
+    "Charpentier": [
+      "Guex Lucien"
+    ],
+    "Charron": [
+      "Niquille François"
+    ],
+    "Chef de section": [
+      "Falconnier Aloïs"
+    ],
+    "Commission scolaire": [
+      "Peytregnet Marcel",
+      "Besson Eugène",
+      "Héritier Charles",
+      "Niquille François",
+      "Vallon Arnold",
+      "Peytregnet Lydia",
+      "Vallon Frieda",
+      "Jeanmonod Lucie"
+    ],
+    "Epicerie": [
+      "Héritier Eva",
+      "Jeanmonod Jules"
+    ],
+    "Garde de triage": [
+      "Pitton Ernest"
+    ],
+    "Inspecteur du bétail": [
+      "Falconnier Aloïs"
+    ],
+    "Instituteurs": [
+      "Meister Jean",
+      "Jeanneret Marcelle"
+    ],
+    "Justice de paix": [
+      "Pittet Alfred",
+      "Gottraux Herbert",
+      "Pahud Robert",
+      "Michoud Edouard",
+      "Niedens-Yvonand",
+      "Correvon Oscar",
+      "Jean-Mairet Adolphe"
+    ]
+  },
+  "MONTAGNY": {
+    "Autorités communales": [
+      "Henny Franç.",
+      "Schaffert François"
+    ],
+    "Syndic": [
+      "Christin Henri"
+    ],
+    "Municipaux": [
+      "Cochet Léon",
+      "Cochet John",
+      "Dériaz Henri",
+      "Porraz David",
+      "Pauly Constant",
+      "Junod Charles"
+    ],
+    "Agriculteurs": [
+      "Besson Emile",
+      "Bourgeois Lina",
+      "Christin Henri",
+      "Cochet frères",
+      "Cochet François",
+      "Cochet Jean",
+      "Cochet Jules",
+      "Collet Auguste",
+      "Courvoisier François",
+      "Dériaz Henri",
+      "Guilloud Aloïs",
+      "Helfer Gottli",
+      "Henny Franç.",
+      "Henny Frédéric",
+      "Laubscher Gottfried",
+      "Martin Justin",
+      "Meylan Aloïs",
+      "Perret Jules",
+      "Zbinden Chr."
+    ],
+    "Aubergistes": [
+      "Antonietti Aug.",
+      "Junod Henri"
+    ],
+    "Buraliste postal et facteur": [
+      "Schaffert"
+    ],
+    "Charpentiers": [
+      "Meylan Alfred",
+      "Meylan Henri"
+    ],
+    "Chef de section": [
+      "Cochet Jean"
+    ],
+    "Commission scolaire": [
+      "Marguerat Charles",
+      "Jaquier Léon",
+      "Henny Madeleine"
+    ],
+    "Cordonnier": [
+      "Pauly Constant"
+    ],
+    "Epicerie": [
+      "Société yverdonnoise de consommation"
+    ],
+    "Inspecteur du bétail": [
+      "Tétaz Louis"
+    ],
+    "Instituteurs": [
+      "Pérusset Albert"
+    ],
+    "Laboratoire analytique": [
+      "Buttin Henri"
+    ],
+    "Laitier": [
+      "Cochet John"
+    ],
+    "Maraîcher": [
+      "Porraz David"
+    ],
+    "Mécaniciens": [
+      "Gagnaux Louis, père",
+      "Gagnaux M."
+    ],
+    "Menuisier-ébéniste": [
+      "Reymond Gustave"
+    ],
+    "Officier d'état-civil": [
+      "Tétaz Louis"
     ]
   }
 }

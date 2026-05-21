@@ -1,234 +1,233 @@
 {
-  "CHATILLENS": {
-    "Agriculteurs": [
-      "Aebischer Pierre",
-      "Affolter",
-      "Balsiger Gottfried. T.",
-      "Baud Léon",
-      "Bory Fernand",
-      "Cavin Fritz",
-      "Chappuis Edmond",
-      "Chappuis Ulysse",
-      "Desmeules Constant",
-      "Dubois frères",
-      "Duc Paul",
-      "Duvoisin Edouard",
-      "Emery Eugène",
-      "Emery François",
-      "Gilliéron Samuel",
-      "Goël Edmond",
-      "Guex Robert",
-      "Jordan Alfred",
-      "Jordan David",
-      "Jordan Pierre",
-      "Jordan Pierre d'Ulysse",
-      "Jordan frères",
-      "Jordan Jules",
-      "Jordan Constant",
-      "Jordan Philippe",
-      "Perret Ls",
-      "Pasche Adolphe",
-      "Pouly, hoirie",
-      "Riesen Samuel",
-      "Rod frères",
-      "Chevalley Ami",
-      "Dutoit Victor",
-      "Emery Jules",
-      "Favez Alfred",
-      "Gilliard Henri",
-      "Gilliard Adolphe",
-      "Gilliéron Frères",
-      "Gerber Charles",
-      "Guignet Eugène",
-      "Guignet Gustave",
-      "Guignet Oscar",
-      "Jan Daniel",
-      "Jan Paul",
-      "Rogivue Henri",
-      "Rogivue Jules",
-      "Rogivue Louis",
-      "Mayor Adrien",
-      "Zahnd Alfred"
-    ],
-    "Apiculteurs": [
-      "Bory Fernand",
-      "Desmeules Louis",
-      "Jordan Constant",
-      "Paquier Armand",
-      "Pasche Marcel",
-      "Rod Pierre"
-    ],
-    "Associations mutualistes de retraite": [
-      "Paquier A."
-    ],
-    "Boulanger": [
-      "Gilliéron George"
-    ],
-    "Cafés": [
-      "Dupuis Arthur",
-      "Jordan Jean-Jacques",
-      "Gilliéron George",
-      "Klaus Victor",
-      "Giddey-Volet Ch.",
-      "Buffet de la Gare"
-    ],
-    "Charron": [
-      "Chapuis Louis",
-      "Rouiller Pierre"
-    ],
-    "Commission scolaire": [
-      "Roud Gustave",
-      "Desmeules Louis",
-      "Gindroz Jules",
-      "Manigley Henri"
-    ],
-    "Couturières": [
-      "Banderet, Mme",
-      "Pasche Nelly",
-      "Pasche Rosa et Laura"
-    ],
-    "Cycles et atelier de réparations": [
-      "Pasche Justin"
+  "Leysin": {
+    "Couturière": [
+      "Laurent Alice",
+      "Reymond Marie"
     ],
     "Epicerie, mercerie": [
-      "Chappuis Cécile",
-      "Destraz Albertine",
-      "Gilliéron George",
-      "Jordan Jean-Jacques"
+      "Lannaz Henri",
+      "Lauper Emma"
     ],
     "Inspecteur du bétail": [
-      "Jordan Alfr.",
-      "Guignet Gust."
+      "Guibert Aug."
     ],
-    "Instituteurs": [
-      "Paquier Armand",
-      "Roulin Rose",
-      "Wacker Aloïs",
-      "Müller Marie"
+    "Instituteur": [
+      "Pittet Louis"
     ],
-    "Laitiers": [
-      "Dutoit Rodolphe",
-      "Leiser Arn."
+    "Institutrice": [
+      "Perey Susanne"
     ],
-    "Machine à battre le blé": [
-      "Berno Louis",
-      "Chappuis frères"
-    ],
-    "Maréchal": [
-      "Chevalley Jules"
-    ],
-    "Oeufs (march. d')": [
-      "Cavin John",
-      "Stettler Rosa"
-    ],
-    "Pension d’été": [
-      "Monachon Louis"
-    ],
-    "Poste": [
-      "Nicolas Héli",
-      "Jan A."
-    ],
-    "Rentiers": [
-      "Coigny Alice",
-      "Coigny Clara",
-      "Desmeules Camille",
-      "Jordan John",
-      "Jodan Samuel",
-      "Ramel Alfred"
-    ],
-    "Scieur": [
-      "Berno Louis"
-    ],
-    "Sellier-tapissier": [
-      "Forestier François"
-    ],
-    "Sociétés": [
-      "de fromagerie du Bourgeaux",
-      "de laiterie de Carrouge",
-      "Syndicat agricole"
-    ],
-    "Téléphone public": [
-      "Station communale"
-    ],
-    "Volailles (march. de)": [
-      "Cavin John",
-      "Stettler Rosa, dame"
-    ],
-    "Président du Conseil général": [
-      "Rogivue Louis"
-    ],
-    "Secrétaire": [
-      "Wacker Aloïs",
-      "Jan Arthur"
-    ],
-    "Huissier": [
-      "Jan Daniel"
-    ],
-    "Syndic": [
-      "Guignet Alfred"
-    ],
-    "Municipaux": [
-      "Piretti Alfred",
-      "Jan Henri",
-      "Rogivue Henri",
-      "Gilliard Henri"
-    ],
-    "Boursier": [
-      "Gilliard Henri"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Wacker A."
-    ],
-    "Auto-Transports": [
-      "Bongni & Porchet",
-      "Société des Auto-Transports de la Haute-Broie, S. A."
-    ],
-    "Bestiaux (march. de)": [
-      "Chevalley Ami",
-      "Rogivue Jules",
-      "Rogivue René",
-      "Volet Victor"
-    ],
-    "Bois (march. de) et scierie": [
-      "Jayet John"
-    ],
-    "Boulangerie-pâtisserie": [
-      "Klaus Victor"
-    ],
-    "Chasse et pêche": [
-      "Jan Henri"
-    ],
-    "Chef de gare": [
-      "Huguin Marcel"
-    ],
-    "Confections pour hommes et enfants": [
-      "Bongni Emma"
-    ],
-    "Cycles et motocycles": [
-      "Piretti Alfred",
-      "Piretti Paul",
-      "Rod William"
-    ],
-    "Entrepreneur": [
-      "Delmonico, R.",
-      "Volet Victor"
-    ],
-    "Epiceries": [
-      "Blanc Lina",
-      "Klaus Victor",
-      "Pasche sœurs"
+    "Justice de paix": [
+      "De la Harpe Henri",
+      "Sauty Constant",
+      "Crottaz Louis",
+      "Grand Jules",
+      "Gonvers Henri"
     ],
     "Laitier": [
-      "Sonnay Jules"
+      "Siegenthaler Walther"
     ],
-    "Mécaniciens": [
-      "Cavin Louis"
+    "Maréchal": [
+      "Hartmann Paul"
     ],
-    "Menuiserie-ébénisterie": [
-      "Piretti Emile"
+    "Officier d’état-civil": [
+      "Bujard Fernand"
     ],
-    "Serrurier": [
-      "Piretti Alfred"
+    "Scierie": [
+      "Amaron Aloïs"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "du battoir à grains",
+      "de l’usine du Moulin"
+    ],
+    "Téléphone": [
+      "Hostettler Ulrich"
+    ]
+  },
+  "VUFFLENS-LE-CHATEAU": {
+    "Autorités communales": [
+      "Duruz Marius",
+      "Perez Alfred",
+      "Vuffray Auguste",
+      "Perey Georges",
+      "Vuffray Constant",
+      "Vuffray Rob.",
+      "Henriod Jules",
+      "Vuffray Léon",
+      "Vuffray Albert"
+    ],
+    "Agriculteurs": [
+      "Blaser Gottfried",
+      "Duruz Marius",
+      "Henriod L.",
+      "Mercier Ch.",
+      "Perey Louise",
+      "Rossier Ul.",
+      "Stoudmann",
+      "Vuffray Rob.",
+      "Vuffray Constant",
+      "Vuffray Ed.",
+      "Vuffray Albert",
+      "Vuffray Auguste"
+    ],
+    "Boulangerie": [
+      "Delafontaine Robert"
+    ],
+    "Café": [
+      "Cruchet François"
+    ],
+    "Charcutier": [
+      "Delapierre Henri"
+    ],
+    "Chef de gare": [
+      "Bovy Marc"
+    ],
+    "Commission scolaire": [
+      "Colomb Gustave",
+      "Vuffray Léon"
+    ],
+    "Epicerie, mercerie": [
+      "Bussy Henriette",
+      "Monnerat Adèle"
+    ],
+    "Facteur": [
+      "Bovy Marc"
+    ],
+    "Inspecteur du bétail": [
+      "Henriod Jules"
+    ],
+    "Instituteurs": [
+      "Sordet Louis",
+      "Maire-Rochat Eugénie"
+    ],
+    "Maréchal": [
+      "Candaux Ami"
+    ],
+    "Officier d'état civil": [
+      "Duruz Marius"
+    ],
+    "Pasteur": [
+      "Colomb Gustave"
+    ],
+    "Sage-femme": [
+      "Vuffray Elise"
+    ],
+    "Scierie": [
+      "Bregand L."
+    ],
+    "Sociétés": [
+      "du battoir à grains",
+      "de fromagerie de Vufflens et Chigny",
+      "de tir aux armes de guerre"
+    ],
+    "Téléphoniste": [
+      "Bussy Henriette"
+    ],
+    "Vignerons": [
+      "Baudin Gust.",
+      "Chevalier Robert",
+      "Guignard Louis fils",
+      "Guignard Louis, père",
+      "Viret Jules",
+      "Vuffray Léon",
+      "Vuffray César"
+    ],
+    "Divers": [
+      "de Saussure",
+      "Jaton Alfred",
+      "Monod Aloïs"
+    ]
+  },
+  "VULLIERENS": {
+    "Autorités communales": [
+      "Demont Adrien",
+      "Henry Samuel",
+      "Henry Arn.",
+      "Pelichet Marcel",
+      "Demont Armand",
+      "Demont Georges",
+      "Demont Ami",
+      "Henry-Pahud Alf.",
+      "Henry Eugène"
+    ],
+    "Agriculteurs": [
+      "Bourgeois Auguste",
+      "Demont Adrien",
+      "Demont Arm.",
+      "Demont Charles",
+      "Demont David",
+      "Demont Félicien",
+      "Demont Georges",
+      "Demont Julien",
+      "Gleyre Alexis",
+      "Henry Célestin",
+      "Henry Florian",
+      "Henry Edouard",
+      "Martigner Albert",
+      "de Mestral Henri",
+      "Moinat Fritz",
+      "Schläppi frères",
+      "Schopfer Louise"
+    ],
+    "Apiculteurs": [
+      "Henry André",
+      "Henry Florian"
+    ],
+    "Associations mutualistes de retraite": [
+      "Roulier Armand"
+    ],
+    "Auberge": [
+      "Vionnet Paul"
+    ],
+    "Boulanger": [
+      "Roggen Charles"
+    ],
+    "Boucher": [
+      "Henry-Pahud Alfred"
+    ],
+    "Commission scolaire": [
+      "Henry Arnold",
+      "Subilia Edouard",
+      "Demont Aimé"
+    ],
+    "Charpentier": [
+      "Dallinges Albert"
+    ],
+    "Epicerie": [
+      "Bally Maurice",
+      "Mercier Marie",
+      "Roggen Charles"
+    ],
+    "Inspecteur du bétail": [
+      "Mercier Ls."
+    ],
+    "Instituteurs": [
+      "Roulier Armand",
+      "Gervaix Fernande"
+    ],
+    "Jardinier": [
+      "Favre Emile"
+    ],
+    "Juge de paix": [
+      "Henry Arnold"
+    ],
+    "Maréchaux": [
+      "Monod Eugène",
+      "Ramuz Eugène"
+    ],
+    "Officier d’état-civil": [
+      "Henry Florian"
+    ],
+    "Pasteur": [
+      "Rochat André"
+    ],
+    "Poste": [
+      "Demont Edouard"
+    ],
+    "Rentiers": [
+      "de Mestral Henri",
+      "Schopfer Louise"
     ]
   }
 }

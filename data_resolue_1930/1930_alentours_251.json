@@ -1,120 +1,234 @@
 {
-  "VILLE DE VEVEY": {
-    "Instituteurs primaires": [
-      "Pâquier Gustave-Aimé",
-      "Porchet Ami",
-      "Rieben Alphonse",
-      "Vodoź Paul"
+  "CHATILLENS": {
+    "Agriculteurs": [
+      "Aebischer Pierre",
+      "Affolter",
+      "Balsiger Gottfried. T.",
+      "Baud Léon",
+      "Bory Fernand",
+      "Cavin Fritz",
+      "Chappuis Edmond",
+      "Chappuis Ulysse",
+      "Desmeules Constant",
+      "Dubois frères",
+      "Duc Paul",
+      "Duvoisin Edouard",
+      "Emery Eugène",
+      "Emery François",
+      "Gilliéron Samuel",
+      "Goël Edmond",
+      "Guex Robert",
+      "Jordan Alfred",
+      "Jordan David",
+      "Jordan Pierre",
+      "Jordan Pierre d'Ulysse",
+      "Jordan frères",
+      "Jordan Jules",
+      "Jordan Constant",
+      "Jordan Philippe",
+      "Perret Ls",
+      "Pasche Adolphe",
+      "Pouly, hoirie",
+      "Riesen Samuel",
+      "Rod frères",
+      "Chevalley Ami",
+      "Dutoit Victor",
+      "Emery Jules",
+      "Favez Alfred",
+      "Gilliard Henri",
+      "Gilliard Adolphe",
+      "Gilliéron Frères",
+      "Gerber Charles",
+      "Guignet Eugène",
+      "Guignet Gustave",
+      "Guignet Oscar",
+      "Jan Daniel",
+      "Jan Paul",
+      "Rogivue Henri",
+      "Rogivue Jules",
+      "Rogivue Louis",
+      "Mayor Adrien",
+      "Zahnd Alfred"
     ],
-    "Institutrices primaires.": [
-      "Bonjour Yvonne",
-      "Bonzon Henriette",
-      "Chantrens Valentine",
-      "Chaudet-Monod Cécile",
-      "Cornuz-Dumard, Mme",
-      "Dénéréaz Marguerite",
-      "Domenigoni Léonie",
-      "Dovat Hélène",
-      "Curchod Louise",
-      "Gehry Hélène",
-      "Genevey Odette",
-      "Girardet Lucie",
-      "Hurlimann Marguerite",
-      "Isch Berthe",
-      "Jayet Marguerite",
-      "Jomini Hilda",
-      "Maillard Rose",
-      "Michot Marguerite",
-      "Monod Marguerite",
-      "Montet Madeleine",
-      "Morel Louise",
-      "Moudon Alice",
-      "Mutrux-Lagnaz Jenny",
-      "Nicati Emilie",
-      "Oulevay-Reynold Mathilde",
-      "Paquier-Baechtold Lina",
-      "Simon Amélie",
-      "Trottet Félicie",
-      "Tschan Madeleine",
-      "Vittoz Marguerite"
+    "Apiculteurs": [
+      "Bory Fernand",
+      "Desmeules Louis",
+      "Jordan Constant",
+      "Paquier Armand",
+      "Pasche Marcel",
+      "Rod Pierre"
     ],
-    "Instituteurs secondaires.": [
-      "Baumann Alfred",
-      "Bercher H.",
-      "Bocherens Alexandre",
-      "Bonnard Ami",
-      "Borle Walter",
-      "Bosshardt Ernest",
-      "Buenzod Emmanuel",
-      "de la Harpe Jean",
-      "Dudan Max",
-      "Lang H.",
-      "Langenstein Alfred",
-      "Lenoir Marcel",
-      "Lichtenstern Ch.",
-      "Mayor Michel",
-      "Mermoud Robert",
-      "Muhlethaler Charles",
-      "Nicollier Marius",
-      "Perriraz John",
-      "Pfeiffer Claire",
-      "Recordon Philippe",
-      "Recordon Edouard",
-      "Reitzel Auguste",
-      "Schuchardt Edmond",
-      "Truan Albert",
-      "Sennewald Charles"
+    "Associations mutualistes de retraite": [
+      "Paquier A."
     ],
-    "Institutrices secondaires.": [
-      "Coigny Marie",
-      "Demierre Dora",
-      "Domenigoni Léonie",
-      "Guex Marie-Madeleine",
-      "Reymond Annette",
-      "Reitzel Annette",
-      "Roy Estelle",
-      "Vaudou-Pavot Lucy"
+    "Boulanger": [
+      "Gilliéron George"
     ],
-    "Jardiniers.": [
-      "Aubert Alexis",
-      "Baum Jacob",
-      "Chappuis Alfred",
-      "Cornaz Charles",
-      "Crot frères",
-      "Furst Rodolphe",
-      "Heintzmann E.",
-      "Jaquier Emile",
-      "Jaquier Maurice",
-      "Martin A.",
-      "Schurch Gustave",
-      "Steudmann Adrien"
+    "Cafés": [
+      "Dupuis Arthur",
+      "Jordan Jean-Jacques",
+      "Gilliéron George",
+      "Klaus Victor",
+      "Giddey-Volet Ch.",
+      "Buffet de la Gare"
     ],
-    "Jouets.": [
-      "Hurter Julie"
+    "Charron": [
+      "Chapuis Louis",
+      "Rouiller Pierre"
     ],
-    "Journaux.": [
-      "Feuille d'Avis de Vevey et Journal du district",
-      "Messager boiteux de Berne et Vevey",
-      "Société de l'imprimerie et lithographie Klausfelder",
-      "Courrier de Vevey",
-      "Cuendet Emile",
-      "Messager Evangélique",
-      "Säuberlin & Pfeiffer",
-      "L'Energie Electrique",
-      "Javet & Diebold"
+    "Commission scolaire": [
+      "Roud Gustave",
+      "Desmeules Louis",
+      "Gindroz Jules",
+      "Manigley Henri"
     ],
-    "Journaux (march. de).": [
-      "Agence de journaux, P. Schmidt",
-      "Agnetti E.",
-      "Delabays, Mlle",
-      "Ferrari Marguerite",
-      "Gasser Georges",
-      "Gentil V.",
-      "Holl, hoirs",
-      "Molliet Théodore",
-      "Rapin Frédéric",
-      "Scholer G.",
-      "Sterky Louise"
+    "Couturières": [
+      "Banderet, Mme",
+      "Pasche Nelly",
+      "Pasche Rosa et Laura"
+    ],
+    "Cycles et atelier de réparations": [
+      "Pasche Justin"
+    ],
+    "Epicerie, mercerie": [
+      "Chappuis Cécile",
+      "Destraz Albertine",
+      "Gilliéron George",
+      "Jordan Jean-Jacques"
+    ],
+    "Inspecteur du bétail": [
+      "Jordan Alfr.",
+      "Guignet Gust."
+    ],
+    "Instituteurs": [
+      "Paquier Armand",
+      "Roulin Rose",
+      "Wacker Aloïs",
+      "Müller Marie"
+    ],
+    "Laitiers": [
+      "Dutoit Rodolphe",
+      "Leiser Arn."
+    ],
+    "Machine à battre le blé": [
+      "Berno Louis",
+      "Chappuis frères"
+    ],
+    "Maréchal": [
+      "Chevalley Jules"
+    ],
+    "Oeufs (march. d')": [
+      "Cavin John",
+      "Stettler Rosa"
+    ],
+    "Pension d’été": [
+      "Monachon Louis"
+    ],
+    "Poste": [
+      "Nicolas Héli",
+      "Jan A."
+    ],
+    "Rentiers": [
+      "Coigny Alice",
+      "Coigny Clara",
+      "Desmeules Camille",
+      "Jordan John",
+      "Jodan Samuel",
+      "Ramel Alfred"
+    ],
+    "Scieur": [
+      "Berno Louis"
+    ],
+    "Sellier-tapissier": [
+      "Forestier François"
+    ],
+    "Sociétés": [
+      "de fromagerie du Bourgeaux",
+      "de laiterie de Carrouge",
+      "Syndicat agricole"
+    ],
+    "Téléphone public": [
+      "Station communale"
+    ],
+    "Volailles (march. de)": [
+      "Cavin John",
+      "Stettler Rosa, dame"
+    ],
+    "Président du Conseil général": [
+      "Rogivue Louis"
+    ],
+    "Secrétaire": [
+      "Wacker Aloïs",
+      "Jan Arthur"
+    ],
+    "Huissier": [
+      "Jan Daniel"
+    ],
+    "Syndic": [
+      "Guignet Alfred"
+    ],
+    "Municipaux": [
+      "Piretti Alfred",
+      "Jan Henri",
+      "Rogivue Henri",
+      "Gilliard Henri"
+    ],
+    "Boursier": [
+      "Gilliard Henri"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Wacker A."
+    ],
+    "Auto-Transports": [
+      "Bongni & Porchet",
+      "Société des Auto-Transports de la Haute-Broie, S. A."
+    ],
+    "Bestiaux (march. de)": [
+      "Chevalley Ami",
+      "Rogivue Jules",
+      "Rogivue René",
+      "Volet Victor"
+    ],
+    "Bois (march. de) et scierie": [
+      "Jayet John"
+    ],
+    "Boulangerie-pâtisserie": [
+      "Klaus Victor"
+    ],
+    "Chasse et pêche": [
+      "Jan Henri"
+    ],
+    "Chef de gare": [
+      "Huguin Marcel"
+    ],
+    "Confections pour hommes et enfants": [
+      "Bongni Emma"
+    ],
+    "Cycles et motocycles": [
+      "Piretti Alfred",
+      "Piretti Paul",
+      "Rod William"
+    ],
+    "Entrepreneur": [
+      "Delmonico, R.",
+      "Volet Victor"
+    ],
+    "Epiceries": [
+      "Blanc Lina",
+      "Klaus Victor",
+      "Pasche sœurs"
+    ],
+    "Laitier": [
+      "Sonnay Jules"
+    ],
+    "Mécaniciens": [
+      "Cavin Louis"
+    ],
+    "Menuiserie-ébénisterie": [
+      "Piretti Emile"
+    ],
+    "Serrurier": [
+      "Piretti Alfred"
     ]
   }
 }

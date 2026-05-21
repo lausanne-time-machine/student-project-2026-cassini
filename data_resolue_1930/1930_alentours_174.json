@@ -1,248 +1,135 @@
 {
-  "MEZIERES": {
-    "Maréchal": [
-      "Derendiger Henri"
-    ],
-    "Mécanicien": [
-      "Béroud André"
-    ],
-    "Scieur": [
-      "Serex Constant"
-    ],
-    "Sociétés": [
-      "de laiterie",
-      "de tir aux armes de guerre",
-      "de tir du Cordon Blanc",
-      "Syndicat agric. d'Ecoteaux-Maracon",
-      "Caisse d'assurance contre les pertes du bétail bovin",
-      "Caisse de crédit mutuel",
-      "Battoir à grains",
-      "Syndicat d'alpage d'Ecoteaux-Maracon",
-      "Chœur d'hommes"
-    ],
-    "Téléphoniste": [
-      "Serex-Boraley Louis"
-    ],
-    "Vins (comm. de)": [
-      "Cuénoud Marcel",
-      "Visinand Léonard"
-    ],
-    "Président du Conseil communal": [
-      "Huguenin Arnold"
-    ],
-    "Secrét.": [
-      "Jordan Alfred"
-    ],
-    "Syndic": [
-      "Jordan Constant"
-    ],
-    "Municipaux": [
-      "Gilliéron Oscar",
-      "Rod Jean",
-      "Gloor Frédéric",
-      "Dubois Hermann"
-    ],
-    "Secrétaire": [
-      "Jordan René"
-    ],
-    "Boursier": [
-      "Gilliéron Jean-Louis"
-    ],
-    "Agriculteurs": [
-      "Aubert Louis",
-      "Bettens Emile",
-      "Bigler",
-      "Dubois Albert",
-      "Dubois Emile",
-      "Dubois Hermann",
-      "Dubois Henri",
-      "Dutoit Octave",
-      "Emery Henri",
-      "Fiaux frères",
-      "Gilliéron Oscar",
-      "Glauser Ernest",
-      "Gloor Hector",
-      "Gloor Jean",
-      "Jordan Alfred",
-      "Jordan Henri",
-      "Jordan Constant",
-      "Jordan Daniel",
-      "Jordan Eugène",
-      "Jordan Aloïs",
-      "Kupfer Gottfried",
-      "Loup Samuel",
-      "Menthe Henri",
-      "Mercanton Ernest",
-      "Mottaz Emile",
-      "Pasche Constant",
-      "Rod Aimé",
-      "Rod Gustave",
-      "Rod Henri",
-      "Rod Victor"
-    ],
-    "Architecte": [
-      "Chauvie Albert"
-    ],
-    "Ameublements": [
-      "Allasia & Cie.",
-      "Gilliéron & Cie."
-    ],
-    "Assurance": [
-      "Assurance mutuelle vaudoise",
-      "Badel O."
-    ],
-    "Assurance-vieillesse": [
-      "Associations mutualistes de retraite",
-      "Pasche Ch."
-    ],
-    "Apiculteurs": [
-      "Bovat Alfred",
-      "Gilliéron Jean-Louis",
-      "Gloor Philippe",
-      "Jordan Constant",
-      "Jordan Eugène",
-      "Jordan René"
-    ],
-    "Aubergistes": [
-      "Fawer Julie",
-      "l'Union",
-      "Chapuis-Piccard",
-      "Lion-d'Or",
-      "Porchet Auguste",
-      "Christen Joseph"
-    ],
-    "Banque": [
-      "Banque populaire de la Broye",
-      "Emery Henri",
-      "Crédit foncier",
-      "Cavin W.",
-      "Caisse Raiffaisen"
-    ],
-    "Blanchisseuses": [
-      "Borloz Marie",
-      "Dubois Louise"
-    ],
+  "VILLE DE MOUDON": {
     "Boulangers": [
-      "Fawer Julie",
-      "Porchet Auguste"
+      "Chuat Fd.",
+      "Clot Henri.",
+      "Cossy Charles.",
+      "Dänzer Samuel.",
+      "Hofmann E.",
+      "Voruz, Vve d'Edmond.",
+      "Voruz Charles"
     ],
-    "Buraliste postal": [
-      "Bize"
+    "Brasseurs.": [
+      "Brasserie Beauregard"
     ],
-    "Café de tempérance": [
-      "Caillet Ele."
+    "Brosserie.": [
+      "Trolliet Ernest.",
+      "Cherpillod Albert."
     ],
-    "Cantonnier": [
-      "Rod Victor"
+    "Cafés.": [
+      "Baudet John",
+      "Binggeli William",
+      "Canals E. & J.",
+      "Chalet Julien",
+      "Chassot Emile",
+      "Dubois Emile",
+      "Durussel Véréna",
+      "Flückiger Robert",
+      "Grassi B.",
+      "Guex Constant",
+      "Jacot-Forestier L.",
+      "Jotterand",
+      "Mischler Jean",
+      "Martin Camille",
+      "Monachon Henri",
+      "Panchaud Jules",
+      "Pidoux Aline, Vve",
+      "Pillionnel U.",
+      "Porchet Jules",
+      "Roulier John",
+      "Thonney Ernest",
+      "Thonney Ulysse",
+      "Voruz Ern."
     ],
-    "Chapelleries": [
-      "Allasia & Cie.",
-      "Chappuis Henri",
-      "Gilliéron & Cie.",
-      "Stettler-Dubois G."
+    "Café-restaurant sans alcool.": [
+      "La Gerbe de Blé"
     ],
-    "Charcutier": [
-      "Chappuis Henri"
+    "Cafés torréfiés et chocolats.": [
+      "Société Kaiser"
     ],
-    "Charpentiers": [
-      "Nicolas Ernest",
-      "Nicolas Henri"
+    "Cercueils.": [
+      "Charpilloz Albert.",
+      "Faucherre Henri.",
+      "Dépositaire des Pompes funèbres générales, S. A..",
+      "Ricca Louis."
     ],
-    "Charron": [
-      "Degex Aloïs"
+    "Chapelier.": [
+      "Liaudet François."
     ],
-    "Chef de section": [
-      "Emery Marcel"
+    "Charcutiers.": [
+      "Fenjallaz Adrien.",
+      "Freymond-Ammann Ed.",
+      "Mayor-Viret Louis.",
+      "Sandoz A. & fils"
     ],
-    "Coiffeurs": [
-      "Stettler Georges",
-      "Stuby Louis"
+    "Charpentiers.": [
+      "Desmeules Alfred.",
+      "Ducret Jules.",
+      "Noble J."
     ],
-    "Conseil de paroisse": [
-      "Thonney Auguste",
-      "Badel Octave",
-      "Emery Ami"
+    "Charrons.": [
+      "Jayet-Rod Jules.",
+      "Senn Eugène.",
+      "Trolliet Emile."
     ],
-    "Commission scolaire": [
-      "Gloor Frédéric",
-      "Rod Jean",
-      "Guisan Charles"
+    "Chasseur.": [
+      "Pidoux Emile"
     ],
-    "Confections": [
-      "Allasia & Cie.",
-      "Chappuis Hri.",
-      "Gilliéron & Cie.",
-      "Stettler-Dubois Gustave"
+    "Chaussures (mag. de).": [
+      "Dubrit, Veuve, de Jules.",
+      "Pittet Eug.",
+      "Thonney frères.",
+      "Wenger Henri, S. A.",
+      "Wohlmeyer Joseph."
     ],
-    "Cordonniers": [
-      "Durussel Paul",
-      "Pollien Marcel"
+    "Chef de gare.": [
+      "Cuénoud Louis."
     ],
-    "Couturières": [
-      "Gavillet Anna",
-      "Maury Méry"
+    "Chef de section.": [
+      "Fivaz Armand."
     ],
-    "Entrepreneur": [
-      "Gabella Louis"
+    "Chiffons.": [
+      "Chelles Alexis"
     ],
-    "Epicerie, mercerie": [
-      "Allasia & Cie.",
-      "Gilliéron & Cie.",
-      "Chappuis & Cie",
-      "Chappuis Henri"
+    "Ciment (travaux en).": [
+      "Dalioli Ernest",
+      "Delmatti & fils",
+      "Protti Victor"
     ],
-    "Etoffes": [
-      "Allasia & Cie",
-      "Chappuis Henri",
-      "Gilliéron & Cie.",
-      "Stettler-Dubois"
+    "Coiffeurs.": [
+      "Bischoff Jean.",
+      "Cibis-Muller Franz.",
+      "Gilliéron Louis.",
+      "Pape Louisa",
+      "Porchet Alfred.",
+      "Steck Blanche"
     ],
-    "Facteur": [
-      "Duc Clément"
+    "Combustibles.": [
+      "Besson Gustave.",
+      "Soc. coopérat. de Consommation."
     ],
-    "Ferblantier": [
-      "Bovat Aloïs"
+    "Commission scolaire.": [
+      "Vacheron Jean",
+      "Vuichoud Alfred"
     ],
-    "Fers et métaux": [
-      "Chappuis frèr.",
-      "Naegeli Fritz"
+    "Confections.": [
+      "Bladt Paul",
+      "Faucherre-Domenjoz Clara.",
+      "Galbiatti-Durussel G.",
+      "Pittet Eug.",
+      "Velati-Pavarin & Cie."
     ],
-    "Fromages (comm. de)": [
-      "Cavin Alfr.",
-      "Gavillet Henri"
+    "Cordier.": [
+      "Pache Henri."
     ],
-    "Garage": [
-      "Jordan & Nicolet"
-    ],
-    "Horloger": [
-      "Cavin Charles"
-    ],
-    "Hôtel": [
-      "Chapuis Georges",
-      "Lion d'Or"
-    ],
-    "Huilerie": [
-      "Gilliéron Alfred"
-    ],
-    "Inspecteur du bétail": [
-      "Loup Samuel"
-    ],
-    "Instituteurs": [
-      "Bourgeois Léon",
-      "Pasche Charles",
-      "Gabella Cécile"
-    ],
-    "Justice de paix": [
-      "Emery Henri",
-      "Chappuis Henri",
-      "Gavillet Lucien",
-      "Jordan Eugène",
-      "Lavanchy Eugène",
-      "Cavin William"
-    ],
-    "Laitiers": [
-      "Gavillet Henri",
-      "Cavin Alfred"
+    "Cordonniers.": [
+      "Dubrit, Veuve de Jules.",
+      "Girard Charles.",
+      "Gris Alexis.",
+      "Rittener Louis.",
+      "Thonney frères.",
+      "Wenger Henri.",
+      "Wohlmeyer Joseph."
     ]
   }
 }

@@ -1,231 +1,122 @@
 {
-  "RUEYRES": {
-    "Assurance-vieillesse Associations mutualistes de retraite.": [
-      "Monod E."
+  "Ville d'Yverdon": {
+    "Tailleuses.": [
+      "Heuby Hélène",
+      "Hirt Ellen",
+      "Jacot-Brand Nelly",
+      "Jaques, dame",
+      "Joly J.",
+      "Mayor, dame",
+      "Mutrux F.",
+      "Planche Louisa",
+      "Pochon H.",
+      "Schær M.",
+      "Schneider Rose",
+      "Ulrich Lina"
     ],
-    "Aubergistes.": [
-      "Pahud Alfred",
-      "Monney Marie"
+    "Tanneur.": [
+      "Jutzeler Alfred",
+      "Grezet-Ambuhl"
     ],
-    "Bétail (march. de).": [
-      "Gindroz Jules. R."
+    "Tapissiers.": [
+      "Baatard Louis",
+      "Marendaz C.",
+      "Monnier Emmanuel",
+      "Reymond & Toberer",
+      "Bolle Chs",
+      "Maiola-Steiner, dame",
+      "Vaucher Edmond",
+      "Zeller Jules et fils"
     ],
-    "Bois (march. de).": [
-      "Gindroz Ernest",
-      "Gindroz Daniel",
-      "Morand Marc."
+    "Teinturerie.": [
+      "Ehinger Alf.",
+      "Favez Flora",
+      "Pérotti, Mme",
+      "Schaller J."
     ],
-    "Charpentier.": [
-      "Mivelaz Charles. T."
+    "Technicien-Constructeur.": [
+      "Burdet Ernest",
+      "Renevey E."
     ],
-    "Charron.": [
-      "Grognuz Alfred."
+    "Télégraphe et Téléphone": [
+      "Pache Louis",
+      "Schenk Eugène"
     ],
-    "Cigares et tabacs.": [
-      "Grognuz Joseph",
-      "Monney Marie",
-      "Pahud Alfred"
+    "Télégraphie sans fil T S. F.": [
+      "Perret Alfred",
+      "Verdan Ed.",
+      "Wehrli Alfred"
     ],
-    "Commission scolaire catholique.": [
-      "Mivelaz Placide",
-      "Pahud Robert."
+    "Tonneliers.": [
+      "Aegerter F. et fils",
+      "Gæpp Benoit",
+      "Kern H."
     ],
-    "Commission scolaire protestante.": [
-      "Carrard Armand",
-      "Redard",
-      "Gindroz Daniel."
+    "Tourneur (pierres fines).": [
+      "Pasche E."
     ],
-    "Curé.": [
-      "Mouthod Marius."
+    "Tripier.": [
+      "Marendaz"
     ],
-    "Echalas.": [
-      "Carrard Jules."
+    "Tricotage à la machine.": [
+      "Delarze D.",
+      "Pfister D.",
+      "Roulet Alice"
     ],
-    "Epicerie, charcuterie, mercerie.": [
-      "Grognuz Joseph. R.",
-      "Monney Marie."
+    "Vannerie.": [
+      "Chapuis Henri",
+      "Dosson Victorin",
+      "Fuhrer Samuel",
+      "Harder-Mentha",
+      "Pillevuit Emile",
+      "Savioz Jean",
+      "Sollberger Ed."
     ],
-    "Inspecteur du bétail.": [
-      "Mivelaz Louis."
+    "Vélocipèdes et automobiles.": [
+      "Bise",
+      "Borel Louis",
+      "Calame Ch.",
+      "Devallonné Héli",
+      "Grieshaber Marcel",
+      "Recordon Robert"
     ],
-    "Instituteurs.": [
-      "Dutoit Alfred",
-      "Monod Emmanuel",
-      "Delamadeleine Louise."
+    "Vétérinaires.": [
+      "Peytregnet Edmond",
+      "Vaucher A."
     ],
-    "Poste et téléphone.": [
-      "Grognuz Joseph."
+    "Vins et spiritueux (gros).": [
+      "Cornu frères",
+      "Cuérel C.",
+      "Feller H.",
+      "Maschio G. & fils",
+      "Petitat & Cie",
+      "Rouiller François",
+      "Roulet Louis & Cie",
+      "Société coopérative yverdonnoise de consommation"
     ],
-    "Sage-femme.": [
-      "Carrard Rosine."
+    "Vis et boulons.": [
+      "Fabrique suisse de vis et boulons, société anonyme"
     ],
-    "Sociétés.": [
-      "de laiterie et de fromagerie. R.",
-      "du battoir à grain. R."
+    "Vitriers.": [
+      "Henriod Alexis",
+      "Striberni Ch.",
+      "Schmidhauser Alphonse",
+      "Zundt-Bourquin J."
     ],
-    "Tailleuse.": [
-      "Pahud Célestine."
+    "Voitures (constr. de).": [
+      "Cochet Alexandre",
+      "Grieshaber Ch.",
+      "Hack Louis",
+      "Marendaz Edouard",
+      "Stettler Walter"
     ],
-    "Autorités communales.": [
-      "Recordon Julien",
-      "Bataillard Louis",
-      "Ozelley Constant",
-      "David Eugène",
-      "Buffat Edmond",
-      "Wulliamoz Constant",
-      "Viret Alexis",
-      "David Edouard",
-      "Jordan Edouard",
-      "Derendinger William",
-      "Ozelley Robert",
-      "Recordon Jules."
-    ],
-    "Agriculteurs.": [
-      "Basset Louis",
-      "Buffat Edmond",
-      "David Alfred",
-      "David Constant",
-      "David Jules",
-      "Depierraz Emile",
-      "Derendinger William",
-      "Duc Roger",
-      "Fattebert Octave",
-      "Favre Jules",
-      "Gilliard Henri",
-      "Jordan Alfred",
-      "Jordan Edouard",
-      "Jordan Jules",
-      "Jordan Lucien",
-      "Ozelley Aimé",
-      "Ozelley Constant",
-      "Recordon Auguste",
-      "Thomas Jules",
-      "Viret Ami",
-      "Viret frères",
-      "Wagnière Aimé",
-      "Wagnière Alfred",
-      "Wagnière Ernest",
-      "Wagnière frères",
-      "Wagnière Jules",
-      "Wagnière Ulysse",
-      "Wulliamoz Constant",
-      "Zahnd Arthur."
-    ]
-  },
-  "SAINT-BARTHELEMY": {
-    "Assurance-vieillesse Associations mutualistes de retraite.": [
-      "Bataillard Louis"
-    ],
-    "Café.": [
-      "Cavin Elise .R T."
-    ],
-    "Charpentier.": [
-      "Zahnd Charles. R."
-    ],
-    "Charron.": [
-      "Recordon Julien",
-      "Favre Edmond."
-    ],
-    "Commission scolaire.": [
-      "Recordon Julien",
-      "Derendinger William",
-      "David Edouard."
-    ],
-    "Couturières.": [
-      "Bataillard",
-      "David Constance",
-      "Jordan Denise",
-      "Jordan Hélène."
-    ],
-    "Epicerie.": [
-      "Thomas Emma."
-    ],
-    "Fourches et rateaux (fabr. de).": [
-      "Recordon Fernand"
-    ],
-    "Gypsier-peintre.": [
-      "Laurent Maurice."
-    ],
-    "Garde forestier.": [
-      "David Ed."
-    ],
-    "Inspecteur du bétail.": [
-      "Wagnière Alfred",
-      "Favre Albert."
-    ],
-    "Instituteur.": [
-      "Bataillard Louis"
-    ],
-    "Lingère.": [
-      "Wagnière Céline."
-    ],
-    "Menuisier.": [
-      "Burdet Emile. T."
-    ],
-    "Scierie.": [
-      "Zahnd Charles. R."
-    ],
-    "Sociétés.": [
-      "de fromagerie. R.",
-      "du battoir. R."
-    ],
-    "Téléphone.": [
-      "Cavin Elise."
-    ],
-    "Autorités communales.": [
-      "Favre Marc",
-      "Favre Henri",
-      "Favre Joseph",
-      "Ecoffey Joseph. T.",
-      "Favre Albert",
-      "Panchaud Auguste",
-      "Favre Marius",
-      "Favre Georges",
-      "Favre André",
-      "Favre Ulysse."
-    ],
-    "Agriculteurs.": [
-      "Ecoffey François",
-      "Favre Aimé",
-      "Favre Casimir",
-      "Favre Fernand",
-      "Favre Henri",
-      "Favre Henri",
-      "Favre Joseph",
-      "Favre Léon",
-      "Favre Marc",
-      "Félix",
-      "Limat Barthélemy",
-      "Limat Marcel",
-      "Limat Xavier",
-      "Panchaud Auguste",
-      "Panchaud Paul."
-    ],
-    "Commission scolaire catholique.": [
-      "Pittet Alph.",
-      "Favre Robert"
-    ],
-    "Constructeur.": [
-      "Favre Barthelemy."
-    ],
-    "Cordonniers.": [
-      "Favre Louis",
-      "Martin Henri."
-    ],
-    "Curé.": [
-      "Pittet Alph.-Bernard."
-    ],
-    "Etablissement avicole.": [
-      "Favre Joseph."
-    ],
-    "Epicerie, mercerie, tabacs.": [
-      "Favre Marie"
-    ],
-    "Facteur.": [
-      "Basset Jacques."
-    ],
-    "Instituteurs.": [
-      "Favre Henri."
+    "Voituriers.": [
+      "Auberson R.",
+      "Cherpillod M.",
+      "Delmarco frères",
+      "Girardet frères",
+      "Grandguillaume H.",
+      "Barbezat frères"
     ]
   }
 }

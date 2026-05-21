@@ -1,215 +1,142 @@
 {
-  "CORSIER": {
-    "Laitiers": [
-      "Infanger Louis",
-      "Lehnherr Fritz"
+  "VILLE DE PAYERNE": {
+    "Télégraphe et Téléphone.": [
+      "Poste de Police",
+      "Pinte communale",
+      "Savary-Hubler"
     ],
-    "Meunier": [
-      "Poget John"
+    "Tissage": [
+      "Gingins-Berger Adèle"
     ],
-    "Menuisier": [
-      "Held Hans"
+    "Tonneliers": [
+      "Danzeisen-Caille Willy",
+      "Déglise Joseph",
+      "Kocherhans Jacob"
     ],
-    "Notaire": [
-      "Clerc J.-E."
+    "Tricoteuse": [
+      "Langli-Bulliard"
     ],
-    "Officier d'état civil": [
-      "Neyroud André"
+    "Tuileries": [
+      "Briqueterie mécanique",
+      "Zbinden frères"
     ],
-    "Pasteurs": [
-      "Gardiol Louis",
-      "Mercier Charles"
+    "Vannerie-Brosserie": [
+      "Pfister J."
     ],
-    "Peintre": [
-      "Thomet Joseph"
+    "Vélocipèdes": [
+      "Devaud A.",
+      "Fontannaz Ph.",
+      "Ischy-Savary Ls",
+      "Ischy Paul",
+      "Maffiolini Jean",
+      "Magnenat-Caille Emile"
     ],
-    "Pépiniéristes": [
-      "Neyroud frères"
+    "Verrerie et porcelaine": [
+      "Jomini Henri fils",
+      "Jomini-Husson Benjamin",
+      "Perrin Fernand",
+      "Comte-Rapin Constant",
+      "Zumbach-Perrin Emile"
     ],
-    "Poste": [
-      "Burky Robert",
-      "Ecuyer Charles"
+    "Verre à vitre": [
+      "Favre & Cie (S.A.)",
+      "Rapin-Hubler Louis",
+      "Girardin Ernest",
+      "Rapin Octave"
     ],
-    "Représentant": [
-      "Pasche Louis"
+    "Vétérinaires": [
+      "Butticaz Maurice",
+      "Guggi Adolphe",
+      "Pradervand Georges"
     ],
-    "Ramoneur": [
-      "Genoud"
-    ],
-    "Sage-femme": [
-      "Herminjard Rose",
-      "Incerti-Magnenat Louise"
-    ],
-    "Scieur": [
-      "Marguerat Ernest"
-    ],
-    "Sellier-tapissier": [
-      "Benkert Jean"
-    ],
-    "Serrurier": [
-      "Gottraux David"
-    ],
-    "Sociétés": [
-      "Association vinicole de Corsier",
-      "de la Banderette",
-      "de Longpraz",
-      "de Fenil",
-      "du Crêt-Cory",
-      "Coopérative d'alpage du Syndicat agricole",
-      "Immobilière du Clos de la Condeminaz",
-      "Syndicat agricole",
-      "de tir Cordon Bleu",
-      "de tir l'Union",
-      "de tir Cordon Vert et Blanc",
-      "Caisse de Crédit Mutuel"
-    ],
-    "Vignerons": [
-      "Bricod Louis",
-      "Chabloz François",
-      "Cherpillod G.",
-      "Cornu Maurice",
-      "Coderay Emile",
-      "Cossy Ferdin.",
-      "Curchod Edouard",
-      "Devez Edouard",
-      "Dubuis Félix",
-      "Ducret Eugène",
-      "Duperret Constant",
-      "Fonjallaz Albert",
-      "Herminjard Louis",
-      "Marguerat Ernest",
-      "Neyroud Marius",
-      "Niclas Hyacinthe",
-      "Parisod Paul",
-      "Pasche Alexis",
-      "Pfeiffle Ernest",
-      "Richon-Mottier Charles",
-      "Saillen Joseph",
-      "Taverney Charles",
-      "Trottet Henri"
-    ],
-    "Vins (march. de)": [
-      "Obrist & Cie",
-      "Goy L."
-    ],
-    "Voiturier": [
-      "Villiger Robert"
-    ],
-    "Divers": [
-      "Blanc Henri",
-      "Bonny Ch.",
-      "Bossange Edouard",
-      "Burnat J.",
-      "Chavannes Robert",
-      "Couvreu Maurice",
-      "de Palézieux André",
-      "Schell Ch.",
-      "Klausfelder S. A.",
-      "La Vigie",
-      "Schneider Mce",
-      "Teuscher A.",
-      "Thomet Ch.",
-      "La Chaumière"
-    ]
-  },
-  "JONGNY": {
-    "Autorités communales": [
-      "Reymond Hri",
-      "Taverney-Hubert E.",
-      "Chapuis Paul"
-    ],
-    "Municipaux": [
-      "Taverney-Fonjallaz Emmanuel",
-      "Taverney André",
-      "Reymond Emile",
-      "Guex Louis",
-      "Bastian Victor",
-      "Taverney André"
-    ],
-    "Agriculteurs": [
-      "Chabloz Louis",
-      "Chapuis Paul",
-      "Chaudet Florian",
-      "Chaudet Victor",
-      "Détraz Ernest",
-      "Fonjallaz Henri",
-      "Fonjallaz Jenny",
-      "Gilliard Hri",
-      "Guérite Aloïs",
-      "Guex Louis",
-      "Reymond Henri",
-      "Reymond Louis",
-      "Reymond Emile",
-      "Rufenacht Jean",
-      "Stern Emile",
-      "Taverney Ferdinand",
-      "Taverney André",
-      "Taverney Emmanuel",
-      "Taverney Henri",
-      "Schneeberger Aloys"
-    ],
-    "Assurance-vieillesse": [
-      "Mutualité scolaire de retraite",
-      "Bastian V."
-    ],
-    "Aubergiste": [
-      "Guex Louis"
-    ],
-    "Charron": [
-      "Forestier Julien"
-    ],
-    "Commission scolaire": [
-      "Gilliard Hri"
-    ],
-    "Ecole ménagère": [
-      "Anderfuhren, Mme"
-    ],
-    "Epicerie": [
-      "Barbey Julien"
-    ],
-    "Inspecteur du bétail": [
-      "Guex Louis"
-    ],
-    "Jardinier": [
-      "Joder Gottlieb"
-    ],
-    "Laitier": [
-      "Fédération laitière du Léman"
-    ],
-    "Maçon": [
-      "Pilet Edouard"
-    ],
-    "Maréchal": [
-      "Forestier Marius"
-    ],
-    "Pensions": [
-      "Henry Vve de Paul",
-      "Chambaud, Mlle",
-      "Forestier Julien"
-    ],
-    "Police": [
-      "Cand David"
-    ],
-    "Rentiers": [
-      "Leresche Auguste",
-      "de Schnenuhr, Mme",
-      "Tissot Pierre",
-      "de Vallière Paul"
-    ],
-    "Sociétés": [
-      "de laiterie",
-      "de tir : Les Campagnards réunis"
-    ],
-    "Vignerons": [
-      "Betschen Ferd.",
-      "Fonjallaz Eugène",
-      "Taverney Emmanuel",
-      "Taverney-Niederhauser A.",
-      "Veuve"
+    "Vins (négociants en)": [
+      "Caves Réunies. S. A.",
+      "Curty Constant",
+      "Decorges Eugène",
+      "Francioli Rinaldo",
+      "Matter-Jomini Albert",
+      "Niggeler-Plumettaz Arnold"
     ],
     "Voituriers": [
-      "Barbey Julien",
-      "Taverney Henri-Louis"
+      "Krieger Louis",
+      "Krieger Lucien",
+      "Maffiolini Jean",
+      "Pahud frères"
+    ],
+    "Volaille": [
+      "Mordasini Oscar",
+      "Guichard-Savary Georges"
+    ],
+    "Divers": [
+      "Bladt Jean",
+      "Bosset-Delacour Franç.",
+      "Bloch Isaac",
+      "Chaudet Ls.",
+      "Cornaz Ferdinand",
+      "Dominen Oscar",
+      "Frossard Jämes",
+      "Hubler-Givel Jules",
+      "Ney Frédéric",
+      "Nicod Louis",
+      "Perrin Fernand",
+      "Perrin Marcel",
+      "Perrin Théophile",
+      "Perrin Ernest",
+      "Plumettaz frères",
+      "Rapin Alfred",
+      "Savary-Ammann Gustave",
+      "Schwab Jean",
+      "Sommerer, Mme",
+      "Widmer E."
+    ]
+  },
+  "CERNIAZ": {
+    "Autorités communales": [
+      "Cachin Henri",
+      "Cachin Edm.",
+      "Cachin Edouard"
+    ],
+    "Municipaux": [
+      "Gris Constant",
+      "Cachin Octave",
+      "Dubrit Eugène",
+      "Diserens Jules",
+      "Rebeaud H.",
+      "Charbonney Charles"
+    ],
+    "Agriculteurs": [
+      "Aeberhard Otto",
+      "Bovey Alcide",
+      "Cachin Edmond",
+      "Cachin Edouard",
+      "Cachin Octave",
+      "Curchod Héli",
+      "Charbonney Ch.",
+      "Dubrit Victor",
+      "Diserens Jules",
+      "Germond Henri",
+      "Gris Constant"
+    ],
+    "Apiculteurs": [
+      "Cachin Edouard",
+      "Cachin Octave",
+      "Dubrit Victor",
+      "Diserens Jules",
+      "Gris Constant"
+    ],
+    "Café": [
+      "Stähelin, Mme"
+    ],
+    "Commission scolaire": [
+      "Diserens Jules",
+      "Gris Constant",
+      "Dubrit Eugène"
+    ],
+    "Epicerie": [
+      "Stähelin, Mme"
+    ],
+    "Garde-forestier de l'Etat": [
+      "Cachin Henri"
     ]
   }
 }

@@ -1,117 +1,237 @@
 {
-  "VILLE DE MOUDON": {
-    "Gypsiers-peintres.": [
-      "Martinetti Jean",
-      "Métraux Marcel",
-      "Protti Victor",
-      "Ducret Eug.",
-      "Hürlimann Hortense",
-      "Thilo Ernest",
-      "Truan Suzanne"
+  "SAINT-BARTHELEMY": {
+    "Meuniers-scieurs.": [
+      "Favre Alfred et Louis"
     ],
-    "Horlogers-bijoutiers": [
-      "Doriot Hilaire-Ch.",
-      "Kummer Veuve"
+    "Société.": [
+      "de fromagerie de Saint-Barthélémy-Bretigny. R.",
+      "Syndicat agricole. R."
     ],
-    "Horticulteurs": [
-      "Desponds A.",
-      "Vourloud Georges"
+    "Tailleuses.": [
+      "Favre Anne",
+      "Favre Bernadette",
+      "Limaat Cécile"
     ],
-    "Hôtels": [
-      "Baudet J.",
-      "Panchaud Jules"
+    "Téléphoniste.": [
+      "Favre Joseph"
+    ]
+  },
+  "SUGNENS": {
+    "Autorités communales.": [
+      "Jaccoud Adrien",
+      "Brochon Louis"
     ],
-    "Huilerie": [
-      "Cavin Marcel"
+    "Syndic": [
+      "Brochon Paul"
     ],
-    "Imprimeurs": [
-      "Gilliéron-Agassiz",
-      "Kretz Dora"
+    "Municipaux": [
+      "Brochon William",
+      "Vauthey Gustave",
+      "Jaton Héli",
+      "Vauthey Ernest"
     ],
-    "Infirmerie du district": [
-      "Une diaconesse"
+    "Secrétaire": [
+      "Jaccoud Alexis"
     ],
-    "Inspecteur du bétail": [
-      "Lavanchy Louis",
-      "Jaccottet A."
+    "Boursier": [
+      "Brochon William"
     ],
-    "Inspecteur des boucheries": [
-      "Lavanchy Louis",
-      "Jaquiéry Daniel"
+    "Huissier": [
+      "Vauthey Hri."
     ],
-    "Inspecteurs forestiers": [
-      "Bornand J.",
-      "Ecoffey Jules"
+    "Agriculteurs.": [
+      "Brochon frères",
+      "Brochon William",
+      "Buffat François",
+      "Desarzens Ed.",
+      "Dutoit Ulrich",
+      "Girardet Edouard",
+      "Jaccoud Adrien",
+      "Jaccoud Alfred, de Henri",
+      "Jaccoud Elie",
+      "Vauthey Alexis",
+      "Vauthey Ernest"
     ],
-    "Institut d'éducation": [
-      "«Au Grand Air»"
+    "Mutualité scolaire de retraite.": [
+      "Monod G."
     ],
-    "Institut des sourds-muets": [
-      "Ehinger Emile",
-      "Cordey Alice",
-      "Junod Gustave"
+    "Bétail (march. de).": [
+      "Dutoit Albert"
     ],
-    "Instituteurs primaires": [
-      "Beney Robert",
-      "Benz Samuel",
-      "Vuagniaux Charles"
+    "Buraliste postale.": [
+      "Veuve Brochon Louise"
     ],
-    "Institutrices primaires": [
-      "Besençon Marguerite",
-      "Bolomey Elisa",
-      "Brunner-Cuendet Blanche",
-      "Jaton Marguerite",
-      "Menthonnex Susanne",
-      "Nicod Juliette",
-      "Perrin Madeleine"
+    "Café.": [
+      "Dutoit Albert"
     ],
-    "Instituteurs secondaires": [
-      "Barraud Louis",
-      "Bryois Maurice"
+    "Charpentiers.": [
+      "Hertig père & fils"
     ],
-    "Journaux": [
-      "« L'Eveil »",
-      "« L'Echo de la Broie »"
+    "Commission scolaire.": [
+      "Jaton Héli",
+      "Moreillon R.",
+      "Jaccoud Alexis"
     ],
-    "Justice de paix": [
-      "Pache Ernest",
-      "Fauchère Arnold",
-      "Crausaz Ferdinand",
-      "Vuagniaux Edmond",
-      "Peytregnet Constant",
-      "Ducret Ernest",
-      "Clot Emile"
+    "Epicerie. mercerie.": [
+      "Gindroz Rosa"
     ],
-    "Laiteries": [
-      "Société de laiterie (fromagerie modèle)",
-      "Centlivres Héli",
-      "Favre Juste"
+    "Inspecteur du bétail.": [
+      "Brochon William"
     ],
-    "Librairies-papeteries": [
-      "Lob sœurs",
-      "Perrier Frank",
-      "Steck C. & M."
+    "Instituteurs.": [
+      "Monod Gustave",
+      "Vauthey Aline"
     ],
-    "Lingerie": [
-      "Dutoit Louisa",
-      "Faucherre-Domenjoz Clara",
-      "Frossard sœurs",
-      "Jenny Caroline",
-      "Jossevel Anna",
-      "Rubattel Henriette"
+    "Laitier.": [
+      "Neuschwander Paul"
     ],
-    "Machines agricoles": [
-      "Herzog Christian"
+    "Maréchal.": [
+      "Neuenschwander Louis"
     ],
-    "Machines à battre": [
-      "Blaser & Gillabert",
-      "Chalet Julien"
+    "Repasseuse.": [
+      "Jaccoud Rosa"
     ],
-    "Machines à coudre": [
-      "Eichenberger Otto",
-      "Jaggi & Rayroux",
-      "Müller Jean",
-      "Rubin Emile"
+    "Sociétés.": [
+      "de laiterie. R.",
+      "Syndicat agricole. R."
+    ],
+    "Téléphoniste.": [
+      "Gindroz Rosa"
+    ]
+  },
+  "VILLARS-LE-TERROIR": {
+    "Autorités communales.": [
+      "Pittet Félix",
+      "Mændly Jules"
+    ],
+    "Syndic": [
+      "Mettraux Alphonse"
+    ],
+    "Municipaux": [
+      "Besson Héli",
+      "Pittet Joseph de Casimir",
+      "Pittet Joseph d'Alfred",
+      "Pittet Gustave",
+      "Pittet Alphonse",
+      "Juriens François"
+    ],
+    "Secrét.": [
+      "Dutoit Adrien"
+    ],
+    "Boursier": [
+      "Dutoit Joseph"
+    ],
+    "Huissier": [
+      "Allaz Adrien"
+    ],
+    "Agriculteurs.": [
+      "Berney Elisa",
+      "Besson frères",
+      "Dupuis Alfred",
+      "Juriens Félix",
+      "Juriens Isidore",
+      "Mettraux Adrien",
+      "Pittet Alexandre",
+      "Pittet Adrien, feu Bernard",
+      "Pittet Casimir, ffeu Lucien",
+      "Pittet Félix, ffeu Lucien"
+    ],
+    "Apiculteurs.": [
+      "Besson Constant",
+      "Dutoit Jos.",
+      "Gardaz Emmanuel",
+      "Jurien Félix",
+      "Mettraux Alphonse",
+      "Maendly Jules",
+      "Rochat Constant"
+    ],
+    "Bétail (march. de).": [
+      "Allaz Henri, de Marc",
+      "Pittet Ernest",
+      "Pittet Joseph, d'Alfred",
+      "Pittet Nicolas"
+    ],
+    "Boulanger.": [
+      "Pittet Alfred"
+    ],
+    "Cafés.": [
+      "Perisset François",
+      "Pittet Emile"
+    ],
+    "Charpentiers.": [
+      "Perisset François",
+      "Pittet Gustave",
+      "Pittet Henri feu Victor"
+    ],
+    "Charron.": [
+      "Mettraux Alfred"
+    ],
+    "Cordonniers.": [
+      "Allaz Adrien",
+      "Mettraux Marc"
+    ],
+    "Commission scolaire.": [
+      "Gremaud François",
+      "Dutoit Joseph"
+    ],
+    "Curé.": [
+      "Abbé Gremaud François"
+    ],
+    "Dentiste.": [
+      "Pittet Jos., d'Héliodore"
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Dutoit Joseph",
+      "Perisset François",
+      "Pittet Nicolas"
+    ],
+    "Inspecteur du bétail.": [
+      "Pittet Henri, d'Auguste"
+    ],
+    "Instituteurs.": [
+      "Maendly Jules",
+      "Allaz Rosine",
+      "Gardaz Agathe"
+    ],
+    "Maréchal.": [
+      "Dutoit Henri"
+    ],
+    "Porcs (march. de).": [
+      "Allaz Alfred",
+      "Allaz Henri",
+      "Pittet Ernest",
+      "Pittet Marc",
+      "Pittet Nicolas"
+    ],
+    "Poste.": [
+      "Allaz Marc"
+    ],
+    "Sage-femme.": [
+      "Pittet Célestine"
+    ],
+    "Sociétés.": [
+      "de la machine à battre. R.",
+      "Fromagerie et laiterie. R.",
+      "Fromagerie du Buron. R.",
+      "Syndicat agricole. R.",
+      "Caisse du Crédit mutuel. R."
+    ],
+    "Tailleuses.": [
+      "Allaz Rose",
+      "Mettraux Alphonsine",
+      "Pittet Angèle"
+    ],
+    "Téléphone public.": [
+      "Café du Midi"
+    ]
+  },
+  "VILLARS-TIERCELIN": {
+    "Autorités communales.": [
+      "Payot Arthur",
+      "Rittener Fernand"
+    ],
+    "Syndic": [
+      "Viret Hermann"
     ]
   }
 }

@@ -1,79 +1,117 @@
 {
-  "DISTRICT D'YVERDON": {
-    "Préfet": [
-      "Bron Auguste"
+  "Ville de Vevey": {
+    "Cordonniers": [
+      "Constantino Pierre",
+      "Cretton J.",
+      "Cristuib-Grizzi Jean",
+      "Droux Lucien",
+      "Frosio David",
+      "Gabusi Pietro",
+      "Gianetto Biagio",
+      "Gollinucci A. fils",
+      "Haller R.",
+      "Hasler Benedikt",
+      "Hoffmann Otto",
+      "von Kænel J.-Gottlieb",
+      "Loosli R.",
+      "Nicole Ed.",
+      "Pankofer A. (S. A.)",
+      "Ravida François et fils",
+      "Salino J.",
+      "Sauter Ernest",
+      "Sciobéret Albert",
+      "Uldry Auguste",
+      "Vitanza Joseph",
+      "Wettli Johann",
+      "Weber A..",
+      "Zanone Alexandre",
+      "Zanone Jean"
     ],
-    "Substitut": [
-      "Ehinger Alfred"
+    "Fournitures pour cordonniers.": [
+      "Gauvrit Pierre",
+      "Wettli Jean"
     ],
-    "Receveur": [
-      "Dessemontet Charles"
+    "Corsets (fab. de).": [
+      "Bugnet, dame",
+      "Burki-Althaus",
+      "Straub Marie, dame"
     ],
-    "Voyer du VIIIe arrondissement": [
-      "Courvoisier Ulysse"
+    "Cotons cardés et ouates (manuf. de).": [
+      "Kohler, hoirs d'Alexandre"
     ],
-    "Conservateur du registre foncier": [
-      "Campler Auguste"
+    "Courroies de transmission.": [
+      "Tannerie de Vevey, S. A."
     ],
-    "Tribunal de district": [
-      "Fischer Ernest",
-      "Tschumy Albert",
-      "Girardet Emile",
-      "Chautems Jules",
-      "Paillard Charles",
-      "Cand André"
+    "Couteliers.": [
+      "Molliat Jules",
+      "Prucker Ida",
+      "Schertlin Jean"
     ],
-    "Poursuites et faillites": [
-      "Ballenegger Rod."
-    ]
-  },
-  "VILLE D'YVERDON": {
-    "Président du Conseil communal": [
-      "Servien P."
+    "Couturières.": [
+      "Bachelard, Mme",
+      "Begert Ida",
+      "Beltrami sœurs",
+      "Byrde-Mäder, Mme",
+      "Chambettaz Ad., dame",
+      "Christ Yvonne",
+      "Delafontaine, Mlle",
+      "Fasel, dame",
+      "Fatio F., dame",
+      "Fischer Emma",
+      "Fovanna, dame",
+      "Fuchs-Genton Hélène",
+      "Fuchs Cécile et Mark Emma",
+      "Gallina Adélaïde, dame",
+      "Gétaz-Légeret, Mme",
+      "Grütter sœurs",
+      "Kopp Caroline",
+      "Légeret-Baud, Mme",
+      "Lehmann Alice",
+      "Mayer-Bettig",
+      "Meylan Jeanne-Rose",
+      "Neyroud Judith",
+      "Pilet-Juchli, dame",
+      "Philippon sœurs",
+      "Pointet Marguerite",
+      "Realini, sœurs",
+      "Rouiller V., Mlle",
+      "Ryser, Mme",
+      "Sauge, Mlle",
+      "Savioz Marie",
+      "Siegrist, Mlle",
+      "Stehli Caroline",
+      "Vallon Juliette",
+      "Vanthey Julie, dame"
     ],
-    "Secrétaire": [
-      "Decker Ch."
+    "Couturières pour garçons.": [
+      "Gétaz-Gugerli, Vve",
+      "Mottaz Blanche",
+      "Siegrist Marie, Mlle",
+      "Tissot sœurs",
+      "Vernone A.",
+      "Weinmann Lina, Mlle"
     ],
-    "Syndic": [
-      "Vodoz Charles"
+    "Couvertures pour camions et autos.": [
+      "Guinand Bernard"
     ],
-    "Municipaux": [
-      "Paschoud Alexis",
-      "Pilloud Robert",
-      "Péclard Robert",
-      "Décoppet Marcel"
+    "Couvreurs.": [
+      "Erens J.",
+      "Ferrari Ed.",
+      "Jeanrenaud Georges",
+      "Noir Joseph",
+      "Tagini J..",
+      "Wirz Fritz",
+      "Wirz-Baumann Jules"
     ],
-    "Secrétaire municipal": [
-      "Manigley Hri"
-    ],
-    "Sous-secrétaire": [
-      "Rohrbach Ernest"
-    ],
-    "Préposé au contrôle des habitants": [
-      "Stocker Walter"
-    ],
-    "Boursier communal": [
-      "Henry Paul"
-    ],
-    "Huissier": [
-      "Nerny Ch.-Alf."
-    ],
-    "comm. du feu": [
-      "Reymond Gustave"
-    ],
-    "Bureau officiel de renseignements": [
-      "Chapuis Henri"
-    ],
-    "abattoirs": [
-      "Cornu Alfred"
-    ],
-    "Acétylène": [
-      "Acétylène dissous et oxygène"
-    ],
-    "Agents d'affaires patentés": [
-      "Chabloz Auguste",
-      "Dessert A.",
-      "Gentizon A."
+    "Crèmeries.": [
+      "Cottier Lucien",
+      "Dardel, Vve",
+      "Graf-Gehring",
+      "Hofschneider Willy",
+      "Jaquier Robert",
+      "Schneider Hans",
+      "Vernaz Rosa",
+      "Wydler Robert"
     ]
   }
 }

@@ -1,217 +1,205 @@
 {
-  "LUCENS": {
-    "Tailleuses": [
-      "Bunter dame",
-      "Comte-Michaud E.",
-      "Montangero, dame",
-      "Pochon, dame",
-      "Reymond Blanche",
-      "Rossier M."
+  "PROVENCE": {
+    "Bois (march. de)": [
+      "Delay Alfr. T.",
+      "Gaille Félicien",
+      "Jeanmonod Adr."
     ],
-    "Tapissiers": [
-      "Corthésy A.",
-      "Jaquier Héli"
+    "Boisseliers": [
+      "Bolens Aug.",
+      "Vuillermet Albert"
     ],
-    "Teinturerie": [
-      "Lezian J."
+    "Boulanger": [
+      "Delay Oswald. R."
     ],
-    "Télégraphiste": [
-      "Gaillard, Vve. T."
-    ],
-    "Toilerie, tissus": [
-      "Meyer F. R.",
-      "Pavarin-Pilet. R.",
-      "Potterat-Favre Emilie. R.",
-      "Société coopérative de consommation"
-    ],
-    "Vélos": [
-      "Pahud Arnold. RT.",
-      "Savoye Ernest. RT."
-    ],
-    "Voiturier": [
-      "Schneider Robert"
-    ],
-    "Volailles": [
-      "Buzzi-Parisod. RT.",
-      "Clot-Morandi Emilie"
-    ],
-    "Divers": [
-      "Cornaz",
-      "Gloor Emile",
-      "Jornod Elie, père",
-      "Tanner Jean, père"
-    ]
-  },
-  "MARTHERENGES": {
-    "Autorités communales": [
-      "Monachon Alexis",
-      "Bigler Jean",
-      "Monachon Eugène. T.",
-      "Bigler Charles",
-      "Pasche Jules",
-      "Monachon Alexis",
-      "Monachon René"
-    ],
-    "Agriculteurs": [
-      "Bigler Emile",
-      "Bigler Jean",
-      "Cavin Louis",
-      "Crisinel Jules",
-      "Monachon Eugène. T.",
-      "Monachon Ls. T.",
-      "Monachon Oscar",
-      "Monachon René",
-      "Pasche Jules"
-    ],
-    "Apiculteur": [
-      "Bigler Charles. T."
-    ],
-    "Cantonnier": [
-      "Monachon Ulysse"
-    ],
-    "Commission scolaire": [
-      "Monachon Oscar",
-      "Monachon René",
-      "Trolliet Ernest"
-    ],
-    "Inspecteur du bétail": [
-      "Pasche Jules"
-    ],
-    "Institutrice": [
-      "Nicollier Marguerite"
-    ],
-    "Epicerie-Mercerie": [
-      "Mme Nancy Perey"
-    ],
-    "Société": [
-      "de la fromagerie. R."
-    ],
-    "Téléphone": [
-      "Crisinel frères"
-    ]
-  },
-  "MONTAUBION-CHARDONNEY": {
-    "Autorités communales": [
-      "Tissot Henri",
-      "Gavillet Gustave",
-      "Jaccaud Louis",
-      "Joss Alfred",
-      "Jaton Robert",
-      "Braillard Lucien",
-      "Spycher Jean",
-      "Tissot Ernest"
-    ],
-    "Agriculteurs": [
-      "Gavillet hoirie",
-      "Jaccaud frères",
-      "Jaccaud Louis",
-      "Joss Alfred",
-      "Tissot Ernest",
-      "Tissot Robert"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Logoz S., Mme"
+    "Charcutier": [
+      "Jeanmonod-Delay Gve."
     ],
     "Charpentier": [
-      "Dufour Charles"
-    ],
-    "Commission scolaire": [
-      "Jaccaud Ls"
-    ],
-    "Inspecteur du bétail": [
-      "Dufour Ed."
-    ],
-    "Institutrice": [
-      "Logoz-Crausaz, Susanne"
-    ],
-    "Meunier": [
-      "Dufour Jules"
-    ],
-    "Société": [
-      "de fromagerie. R."
-    ],
-    "Téléphoniste": [
-      "Tissot Henri"
-    ]
-  },
-  "NEYRUZ": {
-    "Autorités communales": [
-      "Porchet Jules",
-      "Martin Paul",
-      "Dutoit Adrien",
-      "Martin Ami",
-      "Dutoit Henri",
-      "Gavin Aimé",
-      "Noverraz Jules",
-      "Lagnaz Charles",
-      "Jaton Alfred",
-      "Dutoit Louis",
-      "Jaton Eugène",
-      "Baudin Emile"
-    ],
-    "Agriculteurs": [
-      "Bonin Auguste-Marcel",
-      "Chevalley Emile",
-      "Chevalley frères",
-      "Dutoit Charles",
-      "Dutoit Henri",
-      "Dutoit Louis",
-      "Freymond hoirie",
-      "Gavin Aimé",
-      "Guignet Constant",
-      "Jaton Ernest",
-      "Jaton Eugène",
-      "Lagnaz Adrien",
-      "Martin Ami",
-      "Martin Ulysse",
-      "Noverraz Jules",
-      "Pidoux Jules",
-      "Pochon Adamir",
-      "Porchet Jules",
-      "Rosset Alfred",
-      "Rosset Nancy, Vve",
-      "Spycher Ernest"
-    ],
-    "Aubergistes": [
-      "Fivaz Robert",
-      "Croix Fédérale. R.",
-      "Pochon Adamir"
+      "Vuillermet Arnold"
     ],
     "Charron": [
-      "Lagnaz Charles"
+      "Favre Gustave"
+    ],
+    "Chef de section": [
+      "Vuillermet Albert"
     ],
     "Commission scolaire": [
-      "Jaton Eugène",
-      "Martin Ami",
-      "Dutoit Henri"
+      "Monnier Hri",
+      "Favre Eugène",
+      "Delay Jean",
+      "Gaille Fritz",
+      "Perrin Sylvain"
     ],
     "Cordonnier": [
-      "Bécherraz Béat"
+      "Vuillermet Jean"
     ],
-    "Epicerie": [
-      "Baudin Emile",
-      "Freymond Eugénie"
+    "Couvreurs": [
+      "Favre Ami",
+      "Jeanmonod Charles"
     ],
-    "Inspecteur du bétail": [
-      "Gavin Aimé"
+    "Epicerie, mercerie, tabacs": [
+      "Delay Berthe",
+      "Delay Oswald. R.",
+      "Jeanmonod Gustave. R.",
+      "Jeanmonod Ruth"
+    ],
+    "Etoffes": [
+      "Delay Berthe. R.",
+      "Jeanmonod Gustave. R."
+    ],
+    "Horlogers": [
+      "Favre Henri",
+      "Favre-Lombardet A"
+    ],
+    "Inspecteurs du bétail": [
+      "Maire Ali",
+      "Gacond Henri"
     ],
     "Instituteurs": [
-      "Mavor Alfred",
-      "Porchet Marie"
+      "Merminod William",
+      "Lang Robert",
+      "Jaquet Paul",
+      "Jeanmonod Rosa"
+    ],
+    "Laiterie": [
+      "Simon Jules"
+    ],
+    "Maçons": [
+      "Morandi César et fils"
     ],
     "Maréchal": [
-      "Martin Eugène"
+      "Favre Ernest"
+    ],
+    "Menuisier": [
+      "Vuillermet Arnold"
+    ],
+    "Officier d'état-civil": [
+      "Favre Eugène"
+    ],
+    "Pasteur": [
+      "Monnier Henri. T."
+    ],
+    "Pierristes": [
+      "Favre-Lombardet Ami",
+      "Jeanmonod Charles"
     ],
     "Poste": [
-      "Gavin Hélène"
+      "Bolens Charles"
+    ],
+    "Relieur": [
+      "Jeanmonod Eugène"
     ],
     "Sociétés": [
-      "de fromagerie. R.",
-      "Syndicat d'élevage. R.",
-      "de tir"
+      "de fromagerie de la Nouvelle Censière",
+      "de laiterie de Provence",
+      "Syndicat d'alpage",
+      "Section de la Croix-Bleue du battoir"
     ],
-    "Téléphoniste": [
-      "Fivaz Robert"
+    "Tailleur": [
+      "Martinet Charles-Henri"
+    ],
+    "Tailleuses": [
+      "Favre-Porret Louise",
+      "Gaille-Perrin Elvina",
+      "Jeanmonod Louise"
+    ],
+    "Téléphone public": [
+      "Jeanmonod Ruth"
+    ],
+    "Voituriers": [
+      "Bolens Jules",
+      "Favre Eugène",
+      "Gaille Félicien",
+      "Jeanmonod Adrien",
+      "Gacond Albert"
+    ]
+  },
+  "ROMAIRON": {
+    "Autorités communales": [
+      "Cochand Alph.",
+      "Duvoisin Fernand"
+    ],
+    "Syndic": [
+      "Cochand Jules"
+    ],
+    "Municipaux": [
+      "Bettex Numa",
+      "Duvoisin Maurice",
+      "Cochand Marcel",
+      "Bettex Alfred"
+    ],
+    "Secrétaire": [
+      "Duvoisin Fernand"
+    ],
+    "Boursier": [
+      "Petitpierre Jules"
+    ],
+    "Agriculteurs": [
+      "Bettex Numa",
+      "Cochand Alphonse",
+      "Cochand Marcel",
+      "Duvoisin Eugène",
+      "Duvoisin Fernand",
+      "Duvoisin Maurice",
+      "Petitpierre J."
+    ],
+    "Mutualité scolaire de retraite": [
+      "Bovay Eug."
+    ],
+    "Commission scolaire": [
+      "Gander Albert",
+      "Cochand Jules",
+      "Paillard Ernest"
+    ],
+    "Inspecteur du bétail": [
+      "Cochand Alph."
+    ],
+    "Instituteur": [
+      "Bovay Eugène"
+    ]
+  },
+  "SAINTE-CROIX": {
+    "Autorités communales": [
+      "Thorens Frédéric",
+      "Gueissaz Paul"
+    ],
+    "Syndic": [
+      "Mutrux Emile"
+    ],
+    "Municipaux": [
+      "Jaccard Constant",
+      "Jaccard Emile",
+      "Koch Pierre",
+      "Jaccard Gaston",
+      "Mermod William",
+      "Beck Léon"
+    ],
+    "Secrétaire": [
+      "Bornand Eugène"
+    ],
+    "Boursier": [
+      "Martin Arthur"
+    ],
+    "Huissier et agent de police": [
+      "Rochat Gustave"
+    ],
+    "Inspecteur foestier": [
+      "Perret Paul"
+    ],
+    "Affichage": [
+      "Société générale d'affichage"
+    ],
+    "Agent d'affaires patenté": [
+      "Chabloz Auguste"
+    ],
+    "Agriculteurs": [
+      "Addor Louis",
+      "Besse-Widmer Emile",
+      "Bornand André",
+      "Bornand-Campiche Louis",
+      "Bornand-Margot Charles",
+      "Bornand-Margot Georges"
     ]
   }
 }

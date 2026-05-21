@@ -1,148 +1,91 @@
 {
-  "DISTRICT DE COSSONAY": {
-    "Préfet": [
-      "Pittet Paul"
+  "MONTREUX": {
+    "Draperie, nouveautés, etc.": [
+      "Bergien frères",
+      "Brunschwig, Arthur",
+      "Raphaël Julien",
+      "Schmoker-Genoud",
+      "Whitley W."
     ],
-    "Substitut": [
-      "Barbey Samuel"
+    "Drogueries.": [
+      "Clément Ph.",
+      "Greiner A.",
+      "Légeret O., (S. A.)",
+      "Rumpf, Aubort & Cie",
+      "Séchaud Charles",
+      "Waldburger Ernest"
     ],
-    "Recette": [
-      "Badan Charles. T."
+    "Eaux gazeuses.": [
+      "Boissons Silver-Star, S. A.",
+      "Ducret Henri & fils",
+      "Société des Eaux alcalines"
     ],
-    "Conservateur du registre foncier": [
-      "Baudet Ernest"
+    "Eaux minérales.": [
+      "Société des eaux minérales alcalines de MONTREUX",
+      "Jeanneret & Cie, S. A."
     ],
-    "Voyer du Ve arrondissement": [
-      "Joyet Louis"
+    "Ecole de chauffeurs.": [
+      "Mosimann E."
     ],
-    "Tribunal de district": [
-      "Dériaz Juste",
-      "Lecoultre Louis",
-      "Braissant Félicien",
-      "Delacuisine Charles",
-      "Bolay Fernand",
-      "Bolens Marius"
+    "Ecoles particulières et Internats.": [
+      "Berlitz (Ecole)",
+      "Châtelard School",
+      "Chillon-Collège",
+      "Dubochet, Mlle.",
+      "English Preparatory School",
+      "Fisher E. C., Miss.",
+      "Jardin d'Enfants, La Crèche.",
+      "Institution des Essarts",
+      "Modern School of Languages",
+      "Gétaz R.",
+      "Mattei Jeanne",
+      "Pensionnat français, Mme Waldner.",
+      "Pilet-Yaux, Le Foyer",
+      "St George's School, Miss Southwell",
+      "Villa Victoria",
+      "Virginia College"
     ],
-    "Préposé aux poursuites et faillites": [
-      "Schumacher Albert"
+    "Electriciens.": [
+      "Aubort Charles",
+      "Baeriswyl Paul",
+      "Borloz F. & Ganguillet",
+      "Dunkel E.",
+      "Electro-métallurgique de Montbovon S. A.",
+      "Flogerzi Ch.",
+      "Meyer Max",
+      "Société romande d'électricité",
+      "Talon Gustave",
+      "Turrian Emile",
+      "Vienny Grégoire",
+      "Zosi A."
     ],
-    "Préposé aux assurances du district": [
-      "Guibert M. T."
-    ]
-  },
-  "COSSONAY": {
-    "Autorités communales": [
-      "Liardet Jean",
-      "Bolens Marius"
+    "Engrais": [
+      "Maison Ch. Thévenaz",
+      "Deppen David"
     ],
-    "Syndic": [
-      "Barbey Sam. T."
+    "Entrepôts.": [
+      "Francey S. A.",
+      "Allamand Jules"
     ],
-    "Municipaux": [
-      "Champoud Gustave",
-      "Vionnet Alb.",
-      "Dénéréaz Louis",
-      "Schmidt Jean"
-    ],
-    "Secrét": [
-      "Guibert Marcel"
-    ],
-    "Boursier": [
-      "Thibaud Ch."
-    ],
-    "Inspecteur de police": [
-      "Jaccaud Emile."
-    ],
-    "Agriculteurs": [
-      "Barbey Samuel. T.",
-      "Bolay Adr.",
-      "Borgeaud Henri",
-      "Cailler Louis",
-      "Chabanel frères",
-      "Champoud Gustave",
-      "Charlet Ch.",
-      "Desponds Hri",
-      "Desplands Art.",
-      "Desplands Jean",
-      "Martinet Charles-Eugène",
-      "Guex Louis",
-      "Guignard Alfred",
-      "Guyaz Edmond",
-      "Jaquier Robert",
-      "Landry Charles",
-      "Muller Henri",
-      "Pittolaz Auguste",
-      "Rod Charles",
-      "Roy Alfred",
-      "Zwahlen Alexis"
-    ],
-    "Agent d'affaires patenté": [
-      "Savary, Henri"
-    ],
-    "Amodiateurs": [
-      "Charlet Charles",
-      "Desponds Henri",
-      "Desplands Jean",
-      "Landry A."
-    ],
-    "Appareilleurs": [
-      "Guignard Henri. T."
-    ],
-    "Assurances": [
-      "La Suisse, Vie, Accidents. Rentes.",
-      "Assurance Mutuelle Vaudoise.",
-      "Lecoultre Louis",
-      "Marcel Guibert",
-      "Mobilière et immobilière cantonale contre l'incendie",
-      "La Genevoise, vie",
-      "Lecoultre Louis",
-      "Société suisse de secours mutuels Helvétia",
-      "Vuille Ant.",
-      "Assurance-grêle cantonale",
-      "Thibaud Ch."
-    ],
-    "Associations mutualistes de retraite": [
-      "Chantrens G."
-    ],
-    "Auberges et cafés": [
-      "Bally Emile",
-      "Coeytaux Ern., Vve",
-      "Coeytaux Albert",
-      "Dumauthioz Aloïs",
-      "Dupuis Eugénie",
-      "Gilgen Albert",
-      "Magnin-Bernard Eug.",
-      "Sauser Ernest",
-      "Mercier Marcel",
-      "Roy Jules",
-      "Séchaud, Vve de Louis",
-      "Zuber Henri"
-    ],
-    "Automobiles et garages": [
-      "Blanc Aloïs",
-      "Meystre Emile"
-    ],
-    "Banques": [
-      "Dony Alfred",
-      "Savary H."
-    ],
-    "Bestiaux (comm. de.)": [
-      "Chappuis Arnold",
-      "Desponds H.",
-      "Dumauthioz Aloïs",
-      "Mermoud Constant",
-      "Krieg Emile",
-      "Weil Emile"
-    ],
-    "Blanchisseuses-repasseuses": [
-      "Aubert dame",
-      "Petter, dames",
-      "Rod Lse."
-    ],
-    "Bouchers-Charcutiers": [
-      "Chappuis Arnold",
-      "Gilgen Albert",
-      "Wenker Alfred. T."
+    "Entrepreneurs.": [
+      "Bonfantini J.",
+      "Chevalley E. & Schira Victor",
+      "Chollet et Staehelin",
+      "Colombo Alb.",
+      "Felli Lucien",
+      "Felli & Biasini",
+      "Giovanoni Edouard.",
+      "Guenzi & Rambert",
+      "Liebhauser Ernest",
+      "Lilla Angel",
+      "Manini Ls",
+      "Merrini & Varetta",
+      "Montet Jean & Calvi",
+      "Pizzo Jean",
+      "Rasca Aug.",
+      "Reich Adolphe",
+      "Righetti frères",
+      "Rima-Rossire L."
     ]
   }
 }

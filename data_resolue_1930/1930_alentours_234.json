@@ -1,192 +1,249 @@
 {
-  "Ville de Vevey": {
-    "Assurance mobilière cantonale": [
-      "thur",
-      "Maret Gustave",
-      "Muller Gustave",
-      "Navioz Emile",
-      "Nicolet Henri et Louis",
-      "Nuffer Jean",
-      "Nuffer Joseph",
-      "Perret Alfred",
-      "Perret-Bournoud",
-      "Perret Tabord",
-      "Petitmermet Ph.",
-      "Pittier Félix",
-      "Schlupp Paul",
-      "Stalder frères",
-      "Zehender Henri",
-      "Zehender Jean"
-    ],
-    "Assurance-vieillesse": [
-      "Mutualité scolaire de retraite"
-    ],
-    "Boulangers": [
-      "Monod Robert",
-      "Stuck Arnold"
-    ],
-    "Cafés": [
-      "Borloz Louis",
-      "Gavillet, Vve"
-    ],
-    "Charpentiers": [
-      "Hertig",
-      "Vouilloz Ed."
-    ],
-    "Cigares et tabacs": [
-      "Société de consommation « La Ruche »",
-      "Minod Charles",
-      "Stucky Arnold"
-    ],
-    "Commission scolaire": [
-      "Junod Gustave",
-      "Muller Gustave"
-    ],
-    "Cordonnier": [
-      "Spozzi-Rennaud"
-    ],
-    "Couturières": [
-      "Delacrétaz Pauline",
-      "Bornex-Gunz Madeleine",
-      "Ansermoz Jeanne"
-    ],
-    "Epicerie, mercerie": [
-      "« La Ruche »",
-      "Mottier-Delacrétaz",
-      "Minod Charles",
-      "Monod Robert",
-      "Stucky Arnold"
-    ],
-    "Electricien": [
-      "Dupertuis Jean"
-    ],
-    "Etoffes": [
-      "Minod Charles"
-    ],
-    "Facteur": [
-      "Minod Ch."
-    ],
-    "Inspecteurs du bétail": [
-      "Cropt Louis",
-      "Crosasso Roger"
-    ],
-    "Instituteurs": [
-      "Bérard Maurice",
-      "Crot Fernand",
-      "Rouge Marie",
-      "Bolomey Adrien",
-      "Ansermoz-Pittier Louisa"
-    ],
-    "Médecin": [
-      "Forel Auguste"
-    ],
-    "Menuisiers": [
-      "Hertig",
-      "Vouilloz Ed."
-    ],
-    "Pasteur": [
-      "Junod Gustave"
-    ],
-    "Pépiniéristes autorisés": [
-      "Borloz Charles",
-      "Borloz Edouard",
-      "Deladoey-Massip",
-      "Isoz René",
-      "Petitmermet François"
-    ],
-    "Primeurs": [
-      "Cornét-Schlupp"
-    ],
-    "Sage-femme": [
-      "Perret-Durgniat Lse."
-    ],
-    "Sociétés": [
-      "des Mousquetaires",
-      "Abbaye de l'Union",
-      "Chant",
-      "Immobilière des Laiteries réunies d'Yvorne",
-      "Tir militaire",
-      "des Bons Templiers",
-      "Association viticole",
-      "Société de laiterie de Versvey",
-      "Syndicat d'élevage"
-    ],
-    "Téléphone public": [
-      "Au bureau postal",
-      "Versvey, magasin Mottier"
-    ],
-    "Vins (marchands de)": [
-      "Ansermoz, Louis et Charles",
-      "Association viticole d'Yvorne",
-      "Borloz-Perréaz Rosalie, Vve",
-      "Defaves Albert",
-      "Deladoey-Massip",
-      "Dubuis-Petitmermet Henri",
-      "Grosjean Samuel",
-      "Hugonnet Henri",
-      "Isoz Félix",
-      "Minod Charles",
-      "Perréaz Georges",
-      "Schenk Maurice & Cie, S. A."
-    ],
-    "Divers": [
-      "Deladoey-Massip",
-      "Gex Louis",
-      "Morerod, Vve",
-      "Schenk Maurice & Cie, S. A.",
-      "Tauxe-Boven, Vve"
-    ]
-  },
-  "DISTRICT D'AUBONNE": {
-    "Préfet": [
-      "Burnet François"
-    ],
-    "Substitut": [
-      "Nerfin Ernest"
-    ],
-    "Receveur": [
-      "Jotterand Em."
-    ],
-    "Conservateur du registre foncier": [
-      "Terrin Fernand"
-    ],
-    "Voyer du IIe arrondissement": [
-      "Burnier Paul"
-    ],
-    "Tribunal de district": [
-      "Pilet Ed.",
-      "Rolaz Jules",
-      "Bovy Emile",
-      "Bourcoud Emile",
-      "Uldry Frank",
-      "Bretagne Marc-Antoine"
-    ],
-    "Poursuites et faillites": [
-      "Falconnier Henri"
-    ]
-  },
-  "AUBONNE": {
+  "BOFFLENS": {
     "Autorités communales": [
-      "Dumont Maurice",
-      "Corthésy Aloïs"
-    ],
-    "Syndic": [
-      "Nerfin Ernest"
-    ],
-    "Municipaux": [
-      "Rolaz Jules",
-      "Loup Louis",
-      "Delapierre Jules",
-      "Chomton Olivier"
-    ],
-    "Secrétaire": [
-      "Bartré Daniel"
+      "Duruz Henri"
     ],
     "Huissier": [
-      "Winkler Alfred"
+      "Burnat Louis"
+    ],
+    "Agriculteurs": [
+      "Berthoud Adolphe",
+      "Berthoud Samuel",
+      "Berthoud Jean",
+      "Berthoud Emile",
+      "Berthoud Jules",
+      "Berthoud P.-Henri",
+      "Berthoud René",
+      "Besson Alfred",
+      "Besson Emile",
+      "Besson Fr.",
+      "Brandt Camille",
+      "Brandt-Leebt Tell",
+      "Burnat Louis",
+      "Chaillet Félix",
+      "Charles Isaac",
+      "Clerc Albert",
+      "Clerc Frédéric",
+      "Dalenbach André",
+      "Duruz Henri",
+      "Dutoit Louis",
+      "Ecuyer, hoirie",
+      "Gaillard Octave",
+      "Glayre Alexis",
+      "Glayre Jules",
+      "Glayre Robert",
+      "Gonin Justin",
+      "Gonin Pierre",
+      "Kiener Georges",
+      "Marchand Emile",
+      "Turin David"
+    ],
+    "Apiculteurs": [
+      "Berthoud H.-Samuel",
+      "Berthoud René",
+      "Charles Isaac",
+      "Gonin Justin",
+      "Guignard Jeanne",
+      "Reymond Charles"
+    ],
+    "Assurances": [
+      "Assurance mutuelle vaudoise",
+      "Dutoit Louis",
+      "La Genevoise (vie)",
+      "Dutoit Louis"
+    ],
+    "Assurance cantonale contre l'incendie": [
+      "Dutoit Louis"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Reymond Ch."
+    ],
+    "Société mutualiste de retraite L'Avenir": [
+      "Berthoud Ad."
+    ],
+    "Bois (march. de)": [
+      "Dallenbach André",
+      "Glayre Jean-Henri",
+      "Glayre Robert"
+    ],
+    "Café": [
+      "Turin David. T."
+    ],
+    "Cantonnier": [
+      "Fauchez Julien"
+    ],
+    "Charron": [
+      "Develey Emile"
+    ],
+    "Commission scolaire": [
+      "Berthoud Adolphe",
+      "Glayre Robert"
+    ],
+    "Couturières": [
+      "Berthoud Félicie",
+      "Besson-Gonin Eugénie",
+      "Chaillet Clara",
+      "Gonin Emma",
+      "Guignard Jeanne"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Besson Emile",
+      "Burnat Louis. R."
+    ],
+    "Inspecteur du bétail": [
+      "Duruz Henri"
+    ],
+    "Instituteurs": [
+      "Reymond Ch.",
+      "Hoffer Martha"
+    ],
+    "Laitier": [
+      "Goy-Brandt J. T."
+    ],
+    "Maréchal": [
+      "Glayre Alexis"
+    ],
+    "Poste et téléphone": [
+      "Besson Emma"
+    ],
+    "Sociétés": [
+      "de fromagerie. R.",
+      "Pour l'amélioration du bétail",
+      "Caisse locale d'assurance mutuelle contre les pertes du bétail bovin.",
+      "Syndicat agricole. R.",
+      "Assurance infantile"
+    ],
+    "Vétérinaire": [
+      "Charles J. T."
+    ],
+    "Vignerons-propriétaires": [
+      "Berthoud H.-S.",
+      "Berthoud Henri",
+      "Berthoud Jean",
+      "Besson Alfred",
+      "Besson Emile",
+      "Besson François",
+      "Charles Isaac",
+      "Clerc Albert",
+      "Clerc Ulysse",
+      "Clec Frédéric",
+      "Duruz Henri",
+      "Ecuyer, hoirie",
+      "Glayre Robert",
+      "Gonin Justin",
+      "Gonin Pierre",
+      "Marchand Emile"
+    ]
+  },
+  "BRETONNIÈRES": {
+    "Président du Conseil général": [
+      "Roy Auguste"
+    ],
+    "Secrétaire": [
+      "Guillaume Eugène",
+      "Roy Armand"
+    ],
+    "Syndic": [
+      "Roy Eugène. T."
+    ],
+    "Municipaux": [
+      "Sordet Ernest",
+      "Guillaume Henri",
+      "Rogel Alexis",
+      "Berthoud Const.",
+      "Roy Henri",
+      "Fouvy Léon"
     ],
     "Boursier": [
-      "Jaquinet Emile"
+      "Nicoulaz Louis"
+    ],
+    "Agriculteurs": [
+      "Collomb Daniel",
+      "Collomb Alfred",
+      "Conod Auguste",
+      "Courvoisier Aloïs",
+      "Fanolliet Auguste",
+      "Fouvy François",
+      "Fouvy Léon",
+      "Guillaume Hri",
+      "Guillaume Emile",
+      "Magnenat Hri",
+      "Magnenat Emile",
+      "Reverchon Const.",
+      "Reverchon Gustave",
+      "Roy Armand",
+      "Roy Eug. T.",
+      "Roy Henir",
+      "Roy Louis",
+      "Roy Lucien",
+      "Roget Alexis",
+      "Sordet frères",
+      "Sordet Gustave",
+      "Sordet Henri, hoirie"
+    ],
+    "Apiculteurs": [
+      "Berthoud Alexis",
+      "Collomb frères",
+      "Goy Charles",
+      "Goy Paul",
+      "Guignard Louis",
+      "Guillaume Henri",
+      "Magnenat Henri",
+      "Roy Louis",
+      "Sordet René"
+    ],
+    "Assurance-vieillesse. Mutualité scolaire de retraite": [
+      "Borloz A."
+    ],
+    "Aubergiste": [
+      "Michot Charles"
+    ],
+    "Bois (comm. de)": [
+      "Roy Eugène"
+    ],
+    "Boisselier": [
+      "Goy Ch."
+    ],
+    "Charron": [
+      "Guillaume Gustave"
+    ],
+    "Commission scolaire": [
+      "Pasteur de la paroisse",
+      "Berthoud Alexis",
+      "Roy Auguste"
+    ],
+    "Cordonnier": [
+      "Reverchon Henri"
+    ],
+    "Entrepreneur": [
+      "Berthoud Alexis. R."
+    ],
+    "Epiceries, merceries": [
+      "Conod Aug. T.",
+      "Sordet Louise"
+    ],
+    "Inspecteur du bétail": [
+      "Roy Louis"
+    ],
+    "Instituteurs": [
+      "Borloz Ami",
+      "Martin Amélie"
+    ],
+    "Maréchal": [
+      "Stöckli Virgile"
+    ],
+    "Poste": [
+      "Berthoud Constant"
+    ],
+    "Sociétés": [
+      "Coisse de crédit. R.",
+      "de fromagerie. R.",
+      "Syndicat agricole. R.",
+      "Assurance du bétail. R."
+    ],
+    "Téléphoniste": [
+      "Michot Charles"
     ]
-  }
+  },
+  "CHAVORNAY": {}
 }

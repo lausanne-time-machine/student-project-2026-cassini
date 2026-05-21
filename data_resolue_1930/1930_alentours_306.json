@@ -1,106 +1,264 @@
 {
-  "Montreux": {
-    "Lingerie.": [
-      "Kauert Emma",
-      "Kung, dame",
-      "Laplace-Delapraz Adèle",
-      "Maggi Joseph",
-      "Margot A. & C.",
-      "Marguet Marie",
-      "Monge",
-      "Moos Jeanne",
-      "Rambert Marie",
-      "Rehbock & Stünzi, dames",
-      "Schira Emma",
-      "Schupbach Fritz",
-      "Tallon M.",
-      "Thévoz Marie",
-      "Tuscher Ernest",
-      "Weber Marie",
-      "Whitley William",
-      "Wyss, dame"
+  "PERROY": {
+    "Syndic": [
+      "Eperon Levi"
     ],
-    "Lustrerie — Appareils électriques": [
-      "Baeriswyl A.",
-      "Meyer Max",
-      "Société Romande d'Electricité",
-      "Flogerzi Charles"
+    "Municipaux": [
+      "Martin Edouard",
+      "Maurer Paul",
+      "Dutruit Edmond",
+      "Gaillard Eugène"
     ],
-    "Machines à coudre.": [
-      "Eichenberger H.",
-      "Périllard G.",
-      "Turrian E.",
-      "Tüscher-Bonvin E.",
-      "Vuilleumier Paul"
+    "Secrét.": [
+      "Aguet Emile"
     ],
-    "Machines à écrire.": [
-      "Blanc-Curtin Violette",
-      "Crin",
-      "Gardel Alfred",
-      "Kramer-Baumann",
-      "Streit Ed."
+    "Boursier": [
+      "Martin Victor"
     ],
-    "Manège.": [
-      "Manège montreusien"
+    "Agriculteurs.": [
+      "Blanc Julien",
+      "Blanchard Ami",
+      "Dutruit Edmond",
+      "Dutruit Frédéric",
+      "Gaillard Ern.",
+      "Gaillard Arth.",
+      "Jotterand Louis",
+      "Jotterand Robert",
+      "Martin Georges",
+      "Roch Jean",
+      "Rochat Henri",
+      "Tissot Ulrich"
     ],
-    "Marbriers-sculpteurs.": [
-      "Borlat C.",
-      "Ducret P."
+    "Assesseur.": [
+      "Martin Auguste"
     ],
-    "Maréchaux.": [
-      "Dumuid Raoul",
-      "Emery Jules",
-      "Flückiger Louis",
-      "Jordan Ami",
-      "Jung Christian",
-      "Martin Henri",
-      "Ramseyer Jean",
-      "Vallino Angèle"
+    "Associations mutualistes de retraite": [
+      "Chenuz A."
     ],
-    "Maroquinerie.": [
-      "Ingold Jean",
-      "Rutishauser & Kupfer",
-      "Reiss & Cie",
-      "Salvador Pierre",
-      "Vogt H."
+    "Aubergistes.": [
+      "Gindroz Robert",
+      "Gaillard Eug.",
+      "Miville, Vve de Bénédict"
     ],
-    "Masseurs. Masseuses (cuir chevelu).": [
-      "Bernard Louis",
-      "David-Mayor A.",
-      "Dupraz A., Mlle",
-      "Francey-Wydler, dame",
-      "Funkquist B.",
-      "Hermann J., Mlle",
-      "Jordan Claire",
-      "Leu F.",
-      "Olchansky R., Mme",
-      "Pittet Louise",
-      "Sieber-Francey, Mme",
-      "Taillens Charles",
-      "Villiger H.",
-      "Widell Vinc."
+    "Boulanger.": [
+      "Grosjean Ami"
     ],
-    "Matériaux de construction.": [
-      "Gétaz, Romang, Ecoffey (S. A.)",
-      "Reich Adolphe",
-      "Margairaz Henri"
+    "Buraliste postal.": [
+      "Goy Alfred"
     ],
-    "Mécaniciens.": [
-      "Beihl J.-A.",
-      "Broyon P.",
-      "Eichenberger W.",
-      "Haas Alphonse",
-      "Homberger A.",
-      "Kunz-Logoz A.",
-      "Pellet Max",
-      "Rochat & Reutter",
-      "Strimer Robert",
-      "Taroni Antoine"
+    "Charpente et menuiserie.": [
+      "Marti Fél."
     ],
-    "Mécaniciens-dentistes.": [
-      "Muller G.",
-      "Paillard Jules",
-      "Vogel"
+    "Commission scolaire.": [
+      "Breitenstein E.",
+      "Martin Auguste",
+      "Blanchard François"
+    ],
+    "Epiceries.": [
+      "Gaillard Albert",
+      "Gaillard Edouard",
+      "Maurer Paul"
+    ],
+    "Entrepreneurs.": [
+      "Morandi frères"
+    ],
+    "Inspecteur du bétail.": [
+      "Blanchard Ami"
+    ],
+    "Instituteurs.": [
+      "Chenuz Albert",
+      "Buess Violette"
+    ],
+    "Laitier.": [
+      "Weber Charles"
+    ],
+    "Maréchal.": [
+      "Testaz Henri"
+    ],
+    "Mécanicien.": [
+      "Martin Henri"
+    ],
+    "Pasteur.": [
+      "Breitenstein Ernest"
+    ],
+    "Pêcheurs.": [
+      "Chevalier E.",
+      "Chevalier Eugène",
+      "Prodh'om Alexis"
+    ],
+    "Pépiniériste (vignes américaines).": [
+      "Grosjean Arthur"
+    ],
+    "Propriétaires-rentiers": [
+      "Gautier-Diodati Gabrielle",
+      "Lefort Henri",
+      "Pictet de Rochemont",
+      "Lagier Albert",
+      "Mercier Ad.",
+      "de Saugy, Vve de Jules"
+    ],
+    "Repasseuse.": [
+      "Kursner Alice"
+    ],
+    "Scierie.": [
+      "Ruch Ernest"
+    ],
+    "Serrurier.": [
+      "Aguet Emile"
+    ],
+    "Sociétés.": [
+      "de distillerie. R.",
+      "de fromagerie. R."
+    ],
+    "Tailleuses.": [
+      "Bertinetti Berthe",
+      "Bron-Mosimann",
+      "Vanni Blanche"
+    ],
+    "Tonnelier.": [
+      "Trünkle Louis"
+    ],
+    "Vignerons.": [
+      "Barraud Vve",
+      "Bataillard Henri",
+      "Baudin Octave",
+      "Blanchard Ami",
+      "Blanchard François",
+      "Blanchard Vve",
+      "Bovard Ch.",
+      "Caillat Henri",
+      "Charbonnier Veuve",
+      "Corthay Auguste",
+      "Croci Ferdinand",
+      "Devantay Jules",
+      "Favre Henri",
+      "Favre Louis",
+      "Fillietiaz Edouard",
+      "Fillietiaz Henri",
+      "Gaillard Albert",
+      "Gaillard Ernest",
+      "Kursner Louis",
+      "Jotterand Auguste",
+      "Jotterand Louis",
+      "Jotterand Robert",
+      "Jotterand François",
+      "Magnenat Henri",
+      "Martin Aug.",
+      "Martin Ern.",
+      "Martin Edm.",
+      "Martin Ed.",
+      "Martin Georges",
+      "Martin Emile",
+      "Martin Victor",
+      "Metzner Em.",
+      "Prod'hom Alexis",
+      "Rochat Henri",
+      "Rosset Charles",
+      "Schenk Alexis",
+      "Tissot Ulrich"
+    ]
+  },
+  "TARTEGNIN": {
+    "Président du Conseil général": [
+      "Borgeaud Albert"
+    ],
+    "Secrétaire": [
+      "Pellet E."
+    ],
+    "Syndic": [
+      "Maréchal Ami"
+    ],
+    "Municipaux": [
+      "Bettex A.",
+      "Bloch E."
+    ],
+    "Boursier": [
+      "Borgeaud A."
+    ],
+    "Cafetier.": [
+      "Ryser Paul"
+    ],
+    "Commission scolaire.": [
+      "Maréchal Alfred",
+      "Pellet E.",
+      "Bettex A."
+    ],
+    "Distillateur": [
+      "Ryser Paul"
+    ],
+    "Epiceries.": [
+      "Maréchal Lucie",
+      "Monnard Constant"
+    ],
+    "Inspecteur du bétail.": [
+      "Gilliéron Alex."
+    ],
+    "Instituteur.": [
+      "Bühler Maurice"
+    ],
+    "Laitier.": [
+      "Huguet John"
+    ],
+    "Poste.": [
+      "Monnard Constant"
+    ],
+    "Société.": [
+      "de fromagerie. R."
+    ],
+    "Téléphoniste.": [
+      "Monnard Constant"
+    ],
+    "Vignerons.": [
+      "Bloch Emile",
+      "Gilliéron Alex.",
+      "Merminod Aloïs",
+      "Merminod Alphonse",
+      "Pror Jules"
+    ],
+    "Vignerons-propriétaires.": [
+      "Billard Me",
+      "Blanchard Fernand",
+      "Borgeaud Albert",
+      "Bovat Alfred",
+      "Maréchal Alf.",
+      "Maréchal Ami",
+      "Maréchal John",
+      "Maréchal William",
+      "Margot Jules",
+      "Merminod, Vve",
+      "Munier Alfred",
+      "Pellet Ernest",
+      "Pigueron Théophile",
+      "Richard Jules"
+    ]
+  },
+  "VINZEL": {
+    "Président du Conseil général": [
+      "Rosset Julien"
+    ],
+    "Secrétaire": [
+      "Dupraz Ernest",
+      "Rossier Marc"
+    ],
+    "Syndic": [
+      "Keusen Edouard"
+    ],
+    "Municipaux": [
+      "Rossier Alexis",
+      "de Reding Henri"
+    ],
+    "Boursier": [
+      "Rochat Ulysse"
+    ],
+    "Agriculteurs.": [
+      "Cherpillod Louis",
+      "Coderev Henri",
+      "Duvaud Henri",
+      "Humbert Henri",
+      "Keusen Edouard",
+      "Rosset Julien",
+      "Rossier Alexis",
+      "Straub Félix"
     ]
   }
 }

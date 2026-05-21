@@ -1,207 +1,103 @@
 {
-  "Ville d'Avenches": {
-    "Secrétaire": [
-      "Auguste. T."
-    ],
-    "Boursier": [
-      "Ryser-Grin Charles"
-    ],
-    "Aciers": [
-      "Lecoultre G."
-    ],
-    "Agence agricole": [
-      "Berthoud, Bally & Cie."
-    ],
-    "Agent d'affaires": [
-      "L. ZAHND"
-    ],
-    "Agriculteurs": [
-      "Aeberhard Gottlieb",
-      "Barth Nicolas",
-      "Berger Fritz",
-      "Corminbœuf Edouard",
-      "Debossens Paul",
-      "Debossens-Schluchter Louis",
-      "Delessert Robert",
-      "Doleires-Bessat Jules",
-      "Doleires Charles",
-      "Favre Constant",
-      "Fornallaz Eugène",
-      "Fornerod Achille, fils",
-      "Fornerod Louis de Numa",
-      "Gaberel Bertha",
-      "Guisan Ernest",
-      "Hofstetter Frédéric",
-      "Hostettler Fritz",
-      "Hostettler Jean, Vve",
-      "Jaquenod Louis",
-      "Kunz Fritz, fils",
-      "Kobel Hermann",
-      "Leicht Frédéric",
-      "Maibach Jean",
-      "Michaud Eugène",
-      "Maurice",
-      "Ryser Frédéric",
-      "Ryser Jules",
-      "Schaad frères",
-      "Schupbach Albert",
-      "Schurch Joseph",
-      "Vogel Fritz",
-      "Weber Fritz",
-      "Zbinden Hans"
-    ],
-    "Appareilleur": [
-      "Rey Arnold"
-    ],
-    "Assurances": [
-      "La Suisse",
-      "Faucherre Marcel",
-      "Société suisse d'assurances générale",
-      "Pradervand Ed.",
-      "Caisse de prévoyance suisse",
-      "Assurance-grêle cantonale",
-      "Hédiguer André"
-    ],
-    "Associations mutualistes de retraite": [
-      "Payot M."
-    ],
-    "Automobiles et autos-taxis": [
-      "Berger & Bally",
-      "Kunz Arthur",
-      "Schneider Jean",
-      "Schrecker Frédéric",
-      "Schupbach Fritz"
-    ],
-    "Banques": [
-      "Banque Cantonale Vaudoise",
-      "Faucherre Marcel",
-      "Banque Pop. de la Broye",
-      "Ballif Jean",
-      "Union Vaudoise du Crédit",
-      "Treyvaud Gaston"
-    ],
-    "Bazars": [
-      "Monney Augusta",
-      "Magnin Marthe, Dlles",
-      "Pfeiffer Oswald",
-      "Stettler Fritz"
-    ],
-    "Bestiaux (march. de)": [
-      "Bernard Marc",
-      "Bernard frères",
-      "Bloch Armand",
-      "Brasey Alb.",
-      "Corminbœuf frères",
-      "Clovis",
-      "Robert",
-      "Doleires-Bessat Jules",
-      "Hurni Arnold",
-      "Lévy M. & R.",
-      "Lévy Isaac",
-      "Wanner Ernest"
-    ],
-    "Blanchisseuses": [
-      "Durussel-Rouch",
-      "Fornallaz-Loup Louise",
-      "Poget-Soltermann L.",
-      "Zahn sœurs"
-    ],
-    "Bois (march. de)": [
-      "Pradervand Ed."
+  "Montreux": {
+    "Bonneterie.": [
+      "Marguet Marie",
+      "Ouvroir coopératif",
+      "Rothfeld-Bapst Anne",
+      "Ruggero Erranti",
+      "Rusillon L.",
+      "Schaer M.",
+      "Schüpbach Fritz",
+      "Tuscher Ernest",
+      "Vuitel Marie-Louise",
+      "Whitley William",
+      "Zürcher-Heimgartner Emma"
     ],
     "Bouchers": [
-      "Stucky Adolphe",
-      "Wanner Ernest"
+      "Ammeter F. et B.",
+      "Bastian Alfred",
+      "Bovay Ls.",
+      "Buhler R.",
+      "Erb Marcel",
+      "Fontannaz & Täche",
+      "Gex Emile",
+      "Lambelet Ami",
+      "Marthaler Christian",
+      "Muller H. & Monard",
+      "Saladin Alfred",
+      "Sigrist Jean",
+      "Suter E. & Ch.",
+      "Xavier"
     ],
     "Boulangers": [
-      "Doleires Henri",
-      "Huber Fritz",
-      "Lauper Ern.",
-      "Roth Gustave"
+      "Baudet-Dufour L.",
+      "Béguin Emmanuel",
+      "Béguin Numa",
+      "Bron Emile",
+      "Bürgle Otto",
+      "Butikofer Rod.",
+      "Chuard César",
+      "Collet Edmond",
+      "Cossy Charles",
+      "Detrey Oscar",
+      "Eggimann",
+      "Favre Jules",
+      "Geier E.",
+      "Gindroz Léon",
+      "Jucker Hermann",
+      "Junker Ernest",
+      "Kauert A.",
+      "Kauert-Nobs Amélie",
+      "Marthaler Georges",
+      "Martin",
+      "Mingard Edmond",
+      "Muller-Blanc",
+      "Murisier Louis",
+      "Péclat F.",
+      "Pouly Victor",
+      "Reinhardt",
+      "Richli Georges",
+      "Röthlisberger Werner",
+      "Stöcklin Joseph",
+      "Wagner-Martin Georges"
+    ],
+    "Bourse du Commerce": [
+      "Bourse du Commerce de Berne"
     ],
     "Brevets d'invention": [
-      "Pahud J.-D."
+      "Flesch L."
     ],
-    "Cafés": [
-      "Andrist Oscar",
-      "Corminbœuf Robert",
-      "Doleires Yvonne, Vve",
-      "Girard Robert",
-      "Guillod Emilie",
-      "Mäder Rosa",
-      "Plojoux-Cimma Théodore",
-      "Bettler Johann",
-      "Roth Susanne, Veuve",
-      "Siegfried Arnold",
-      "Valentini Gianesio"
+    "Broderie": [
+      "Amez-Droz G.",
+      "Buhler-Kung",
+      "Bussien Ernestine",
+      "Clastres Pierre",
+      "Cusinay Louisa",
+      "Depierre L.",
+      "Dubler Jean",
+      "Frey",
+      "Fritsche-Koch",
+      "Hermann Edm.",
+      "Hofmann M.",
+      "Kauert Emma",
+      "Kissling Emilie",
+      "Langenberger F.",
+      "Laplace-Delapraz Adèle",
+      "Marguet Marie",
+      "Matti",
+      "Rehbock & Stünzi",
+      "Rusticana",
+      "Schira Emma",
+      "Sicanié Labor",
+      "Stark P.",
+      "Strimer R.",
+      "Tuscher Ernest",
+      "Wyss Bertha"
     ],
-    "Cercueils": [
-      "Hessenmuller-Genton-Chevallaz, S. A.",
-      "Guisan O."
-    ],
-    "Charcutiers": [
-      "Bertholet Ami",
-      "Caratti Marthe",
-      "Stucki Adolphe",
-      "Schneider Jean",
-      "Wanner Ernest",
-      "Charcuterie nouvelle S. A. R."
-    ],
-    "Charpentiers": [
-      "Perrin Paul",
-      "Spack Adolphe"
-    ],
-    "Chaussures": [
-      "Consommation",
-      "Fornerod Louis fils",
-      "Hug Marie",
-      "Wenger Ernest"
-    ],
-    "Chef de gare": [
-      "Gilliéron Alexis"
-    ],
-    "Chef de section": [
-      "Gendarmerie"
-    ],
-    "Chevaux (march. de)": [
-      "Bernard Me",
-      "Bernard frères",
-      "Lévy Isaac",
-      "Lévy M. & R."
-    ],
-    "Coiffeurs": [
-      "Ludy Lucien",
-      "Mischler Charles",
-      "Sieber Charles"
-    ],
-    "Coiffeuses": [
-      "Ludy-Lack, dame",
-      "Sieber, Mme."
-    ],
-    "Combustibles": [
-      "Berthoud, Bally & Cie."
-    ],
-    "Commission scolaire": [
-      "Fornerod Ls",
-      "Hédiguer Albert",
-      "Pidoux A.",
-      "Schumacher Ernest",
-      "Camenisch Christian"
-    ],
-    "Confections": [
-      "Mäder Alfred",
-      "Spinédi-Roth, dame"
-    ],
-    "Cordier": [
-      "Bally Auguste"
-    ],
-    "Cordonniers": [
-      "Beveler G.",
-      "Fornerod Ls",
-      "Loth Constant",
-      "Moret Henri",
-      "Poget Adolphe",
-      "Wenger Ernest"
+    "Brosserie": [
+      "Greiner Ele.",
+      "Légeret O.",
+      "Rumpf, Aubort & Co."
     ]
   }
 }

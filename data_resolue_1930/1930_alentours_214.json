@@ -1,186 +1,255 @@
 {
-  "ROSSINIÈRES": {
-    "Tanneur.": [
-      "Lenoir Albert"
+  "CRANS": {
+    "Epiceries": [
+      "Gisler Hri",
+      "Hauselmann Louis"
     ],
-    "Tricotages à la machine.": [
-      "Buensoz M.",
-      "Mottier Fanny"
+    "Fermier": [
+      "Cretegny Louis"
     ],
-    "Vélos.": [
-      "Cordey Frédéric",
-      "Favre J. et M.",
-      "Gétaz Louis",
-      "Hadorn F.",
-      "Morier Samuel",
-      "Klingert A.",
-      "Wehren frères"
+    "Inspecteur du bétail": [
+      "Sinner Ch."
     ],
-    "Vétérinaire.": [
-      "Kiener Emile"
+    "Instituteurs": [
+      "Brocard Alfred",
+      "Guignard Marthe"
     ],
-    "Vins.": [
-      "Demaurex Frédéric",
-      "Bistoni-Andrey A."
+    "Jardiniers": [
+      "Bertholet Ami",
+      "Maréchaux Ferdinand"
     ],
-    "Voituriers.": [
-      "Burnand frères",
-      "Jornayvaz Arthur",
-      "Henchoz Emile",
-      "Morier-Genoud Emile",
-      "Pilet Paul"
+    "Laitier": [
+      "Laiteries Réunies"
     ],
-    "Autorités communales.": [
-      "Martin Auguste",
-      "Marmillod-Rosat Ami"
+    "Maréchal": [
+      "Herren Gottfried"
     ],
-    "Syndic :": [
-      "Marmillod-Henchoz Ami"
+    "Menuisier": [
+      "Kislig Louis"
     ],
-    "Municipaux :": [
-      "Pilet Paul",
-      "Marmillod-Rosat Ami",
-      "Henchoz Samuel",
-      "Henchoz-Martin",
-      "Ramel Fritz",
-      "Burnier Henri"
+    "Officier d'état-civil": [
+      "Lecoultre Juste"
     ],
-    "Secrétaire :": [
-      "Marmillod-Rodieux"
+    "Pasteur": [
+      "Wachsmuth Jean. T."
     ],
-    "Boursier :": [
-      "Martin Ernest"
+    "Pépiniéristes": [
+      "Chappuis Hri. T.",
+      "Guillet Henri",
+      "Mange Ernest"
     ],
-    "Agriculteurs.": [
-      "Berdoz Paul",
-      "Dubuis Alph.",
-      "Henchoz-Martin L.",
-      "Henchoz Jules",
-      "Henchoz Paul",
-      "Henchoz Samuel",
-      "Lenoir, hoirs de Louis",
-      "Marmillod-Pilet",
-      "Marmillod-Rodieux Ami",
-      "Marmillod Paul",
-      "Martin Auguste",
-      "Martin Auguste fils",
-      "Martin Ls",
-      "Marmillod-Henchoz",
-      "Pilet Emile",
-      "Pilet Félix",
-      "Pilet Paul"
+    "Régisseur": [
+      "Guillet Henri"
     ],
-    "Assurance-vieillesse.": [
-      "Maendly",
-      "Marmillod-Rosat"
+    "Rentiers": [
+      "van Berchem, MM."
     ],
-    "Aubergistes.": [
-      "Dubuis, Vve de Paul",
-      "Massard Lina",
-      "Pilet Julie",
-      "Rémy-Morier Emile"
+    "Sociétés": [
+      "de fromagerie. R.",
+      "des Eaux de Crans, Céligny, Borex, Arnex (siège Crans). R."
     ],
-    "Bestiaux (march. de).": [
-      "Dubuis Aloïs fils",
-      "Henchoz-Martin Louis",
-      "Remy-Morier"
+    "Téléphoniste": [
+      "Gagnaux Charles"
     ],
-    "Boulangers.": [
-      "Morel Emile",
-      "Pilet Jules"
+    "Vignerons": [
+      "Gaudin & Hämmerli"
+    ]
+  },
+  "CRASSIER": {
+    "Autorités communales": [
+      "Rossier Auguste",
+      "Gubler E.",
+      "Berlie Henri",
+      "Rossier Alexandre",
+      "Livet Aloïs",
+      "Chouet Paul",
+      "Paréaz Marius",
+      "Gribi Charles. T."
     ],
-    "Chalet-pension.": [
-      "Massard Louise"
+    "Agriculteurs": [
+      "Berlie Henri",
+      "Livet Aloïs",
+      "Hermann Gottfried",
+      "Romand Louis",
+      "Rossier Auguste",
+      "Siméon Joseph",
+      "Thomas Ami"
     ],
-    "Chapellerie.": [
-      "Simon Clara"
+    "Amodiateur": [
+      "Berlie Henri"
     ],
-    "Charpentier.": [
-      "Burnier Henri fils"
+    "Aubergistes": [
+      "Bonjour, Vve",
+      "Druey P. H."
     ],
-    "Chef de section.": [
-      "Dubuis Alphonse"
+    "Bois (march. de)": [
+      "Bornet Samuel et Ernest. R.",
+      "Chouet & Cie. RT"
     ],
-    "Commission scolaire.": [
-      "Dubuis Louis"
+    "Boulanger": [
+      "Wagnière Octave"
     ],
-    "Cordonniers.": [
-      "Gremaud Yves",
-      "Morier Emile"
+    "Charron": [
+      "Steffen Gustave"
     ],
-    "Entrepreneurs.": [
-      "Dubuis Alexis",
-      "Dubuis Aloïs"
+    "Chef de station": [
+      "Poget"
     ],
-    "Epicerie, mercerie.": [
-      "Déglon Henri",
-      "Pilet Jules",
-      "Morel Emile"
+    "Entrepreneurs": [
+      "Chouet & Cie. RT",
+      "Paréaz frères. T."
     ],
-    "Farines (comm. de).": [
-      "Morel Em."
+    "Epicerie": [
+      "Berlie Elisa. R.",
+      "Durgnat sœurs. R."
     ],
-    "Forestiers de triage.": [
-      "Dubuis Robert"
+    "Garage": [
+      "Gribi Ch. T."
     ],
-    "Hôtels.": [
-      "Dubuis Angela",
-      "Haldy Marie, Veuve"
+    "Gypsier": [
+      "Gianina fils"
     ],
-    "Inspecteur du bétail.": [
-      "Martin Aug."
+    "Inspecteur du bétail": [
+      "Steffen Gustave"
     ],
-    "Instituteurs.": [
-      "Mändly Emile",
-      "Rousseil Frd.",
-      "Galley Laure",
-      "Martin Alice"
+    "Instituteur": [
+      "Jacot Marcel"
     ],
-    "Justice de paix.": [
-      "Gétaz Daniel",
-      "Berdoz Auguste",
-      "Burnier Henri",
-      "Pilet Jules",
-      "Ramel Fritz",
-      "Marmillod-Rosat Ami"
+    "Laitier": [
+      "Urfer Samuel"
     ],
-    "Menuisiers.": [
-      "Burnier Henri",
-      "Pilet Paul"
+    "Maçon": [
+      "Paltani Louis"
     ],
-    "Modiste.": [
-      "Simon Clara"
+    "Maréchal": [
+      "Tardy Arthur"
     ],
-    "Officier d'état-civil.": [
-      "Martin Ernest"
+    "Mécanicien": [
+      "Gribi Charles. T."
     ],
-    "Pasteur.": [
-      "Secretan Jean"
+    "Menuisiers": [
+      "Chouet & Cie. RT",
+      "Paréaz frères. R."
     ],
-    "Poste.": [
-      "Burnier Vincent"
+    "Meuniers": [
+      "Bornet Samuel et Ernest"
     ],
-    "Sage-femme.": [
-      "Lenoir Anna"
+    "Pasteur": [
+      "Wachsmuth Jean. T."
     ],
-    "Sociétés.": [
-      "L'Abbaye de Rossinières",
-      "R. d'assurance mutuelle du bétail",
-      "R. de fromagerie",
-      "Syndicat agricole",
-      "Section de la Croix-Bleue",
-      "Section de l'Avenir",
-      "de tir aux armes de guerre",
-      "de chant < Espérance >",
-      "de musique < Echo de Corjon >"
+    "Rentière": [
+      "Aubert Mme"
     ],
-    "Tailleuses.": [
-      "Aviolat Julie",
-      "Henchoz Cécile",
-      "Martin Louise"
+    "Scieries": [
+      "Chouet & Cie. RT",
+      "Scierie de Crassier (S. A.). RT"
     ],
-    "Télégraphe et téléphone.": [
-      "Henchoz Jeanne"
+    "Serrurier": [
+      "Tardy Arthur"
+    ],
+    "Société": [
+      "de fromagerie. R."
+    ],
+    "Vétérinaire": [
+      "Wampfler David. T."
+    ],
+    "Voiturier": [
+      "Thomas Ami"
+    ]
+  },
+  "DUILLIER": {
+    "Autorités communales": [
+      "Noblet Louis",
+      "Sautier Jules",
+      "Sinner Henri",
+      "Vernet Alb.",
+      "Langenstein Armand",
+      "Lude Charles",
+      "Humbert Maurice",
+      "Du Pontet René",
+      "Noblet Louis"
+    ],
+    "Agriculteurs": [
+      "Artique Auguste",
+      "Annen frères",
+      "Annen Alfred",
+      "Bex Charles",
+      "Bregand Adrien",
+      "Dunoyer John",
+      "Francelet André",
+      "Humbert Mce. T.",
+      "Jaton John",
+      "Chambaz Hector",
+      "Cuvit Gust.",
+      "Knöri Hri",
+      "Langenstein Armand",
+      "Lude Ch.",
+      "Lude Henri",
+      "Noblet Louis. T.",
+      "Rieben Jean",
+      "Sautier Aug.",
+      "Sinner Alf.",
+      "Sinner Henri",
+      "Villard Gustave",
+      "Welti Rodolphe"
+    ],
+    "Auberge": [
+      "Olivier Julien"
+    ],
+    "Bétail": [
+      "Francelet André"
+    ],
+    "Commission scolaire": [
+      "Vernet Albert",
+      "Du Pontet René",
+      "Simon Georges"
+    ],
+    "Couturière": [
+      "Knöri Marguerite"
+    ],
+    "Distillateur": [
+      "Noblet Jaques. T."
+    ],
+    "Epicerie": [
+      "Rochat Louise. R."
+    ],
+    "Inspect. du bétail": [
+      "Dunoyer John"
+    ],
+    "Instituteurs": [
+      "Coulon Louis",
+      "Favre Aimée"
+    ],
+    "Laiterie": [
+      "Société Les Réunies"
+    ],
+    "Maréchal": [
+      "Vullioud Ami"
+    ],
+    "Médecin": [
+      "Vernet Albert"
+    ],
+    "Pension": [
+      "Bovy Eug."
+    ],
+    "Poste": [
+      "Dufour Charles"
+    ],
+    "Société": [
+      "de fromagerie. R."
+    ],
+    "Vignerons": [
+      "Blondel Adolphe",
+      "Brolliet Jules",
+      "Dunoyer Ch.",
+      "Hermenjat Louis",
+      "Sachot Ernest"
+    ]
+  },
+  "EYSINS": {
+    "Autorités communales": [
+      "Larpin Alfred",
+      "Baudin Gustave"
     ]
   }
 }

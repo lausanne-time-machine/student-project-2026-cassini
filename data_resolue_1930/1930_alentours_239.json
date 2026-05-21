@@ -1,101 +1,205 @@
 {
-  "VILLE DE VEVEY": {
-    "Bonneterie.": [
-      "Currat Brigitte",
-      "Dæppen & Cie",
-      "Ducret-Conne Alice",
-      "Dormond Jules",
-      "Frey-Wicky A.",
-      "Lux Max",
-      "Meyer F.",
-      "Pilet Marguerite",
-      "Rudaz Gustave",
-      "Trachsel frères",
-      "Walther Henry-S. & Cie (S.A)",
-      "Wyler M.",
-      "Zanone A.",
-      "Lavanchy Samuel",
-      "Payot Hri",
-      "Pilloud Célestin",
-      "Renaud Samuel",
-      "Rithner Mme",
-      "Schlachter E.",
-      "Schwab Jean",
-      "Walder Jacob",
-      "Weber Ernest"
+  "LIGNEROLLE": {
+    "Sociétés": [
+      "Syndicat d'élevage bovin",
+      "Poids public",
+      "Battoir à grains",
+      "Hôtel de l'Ecusson"
     ],
-    "Bouchers": [
-      "Bovard A.",
-      "Buhler R.",
-      "Champerlin P.",
-      "Charrière E.",
-      "Cuendet A.",
-      "Favre Albert",
-      "Hagmann Edwin",
-      "Krieger Ernest",
-      "Lehmann Gottfried",
-      "Leupin Emile fils",
-      "Maillard Constant",
-      "Mariethoud Louis",
-      "Marmillod G.",
-      "Pfeiffer Charles",
-      "Raeber P.",
-      "Sommer frères",
-      "Stouky Jean",
-      "Stuby Emile"
+    "Voituriers": [
+      "Maillefer Jean",
+      "Nicolet Marc"
+    ]
+  },
+  "MONTCHERAND": {
+    "Autorités communales": [
+      "Moreillon Maurice",
+      "Randin Henri",
+      "Martin Julien",
+      "Nicole Lucien",
+      "Péclard Julien",
+      "Martin Georges",
+      "Perrin Samuel",
+      "Péclard Samuel",
+      "Martin Albert",
+      "Randin Ch."
     ],
-    "Boulangers-pâtissiers": [
-      "Ammann William",
-      "Bussy-Durieu",
-      "Cuenoud René",
-      "Déglon William",
-      "Delapraz A.",
-      "Dutoit Ulysse",
-      "Gaberel Edouard",
-      "Gehrig F.",
-      "Goy Marcel",
-      "Hofschneider Willy",
-      "Jaquier Robert",
-      "La Ménagère",
-      "Lambert Gustave"
+    "Agriculteurs": [
+      "Hierzeler Charles",
+      "Manganel François",
+      "Martin Emile",
+      "Martin François",
+      "Nicole Constant",
+      "Nicole Edmond",
+      "Nicole Henri",
+      "Nicole Jean",
+      "Nicole Jules",
+      "Nicole Lucien",
+      "Péclard Jules",
+      "Randin Henri"
     ],
-    "Brevets d'invention": [
-      "Flesch L.",
-      "Pahud J.-D."
+    "Aubergiste": [
+      "Martin Julien"
     ],
-    "Broderies": [
-      "Barraud F.",
-      "Bayard Sœurs",
-      "Bachmann L.",
-      "Ellès Clara",
-      "Gauverit",
-      "Herzog Rosalie",
-      "Leresche René",
-      "Lux Max",
-      "Marti Irma",
-      "Pilet Marg."
+    "Charpentier": [
+      "Borgeaud Charles"
     ],
-    "Brosses (fab. de)": [
-      "Burkart O."
+    "Commission scolaire": [
+      "Martin Albert",
+      "Chédel Marc",
+      "Martin Georges"
     ],
-    "Bureau des Etrangers": [
-      "Emery J."
+    "Electricien": [
+      "Chédel M. T."
     ],
-    "Bureaux de placement": [
-      "Bureau officiel de renseignements gratuits",
-      "Home (Le) des jeunes filles",
-      "Kursner M.",
-      "Mader Jules",
-      "Office communal de placement"
+    "Epicerie, mercerie": [
+      "Jossevel-Augsbourger",
+      "L'Economie"
     ],
-    "Cabinets de lecture": [
-      "Bibliothèque publique",
-      "Payot & Cie"
+    "Fabrique de punaises et horlogerie": [
+      "Gueissaz fils"
     ],
-    "Cafés": [
-      "Association viticole de La Tour de Peilz",
-      "Barbanera Jean",
-      "Bæchler Vve"
+    "Forestiers": [
+      "Barbey Auguste",
+      "Moreillon Maur."
+    ],
+    "Inspecteur du bétail": [
+      "Hierzler Ch."
+    ],
+    "Inspecteur forestier": [
+      "Moreillon M."
+    ],
+    "Instituteurs": [
+      "Besson Maurice",
+      "Marchand Madeleine, Mlle."
+    ],
+    "Poste": [
+      "Grobet Paul"
+    ],
+    "Sable (carrières de)": [
+      "Gabella frères",
+      "Reguin Jules"
+    ],
+    "Scieurs": [
+      "Bezençon Pierre",
+      "Siegrist Paul"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "des Volontaires",
+      "du poids public"
+    ],
+    "Transports": [
+      "Gabella & Biola",
+      "Renaud P."
+    ]
+  },
+  "PREMIER": {
+    "Autorités communales": [
+      "Roy Félix",
+      "Candaux Edmond",
+      "Roy Jules-Alfred",
+      "Boulaz Charles",
+      "Candaux Marcel",
+      "Poget Ern.",
+      "Cochet Fern.",
+      "Candaux Léon",
+      "Luthy Alfred",
+      "Candaux Francis"
+    ],
+    "Agriculteurs": [
+      "Boulaz Charles",
+      "Boulaz Louis",
+      "Candaux Alexis",
+      "Candaux Marcel",
+      "Candaux Emile",
+      "Candaux Henri",
+      "Candaux Louis",
+      "Cochet Fernand",
+      "Delevev Louis",
+      "Grandjean René",
+      "Magnenat Ami",
+      "Poget Alfred",
+      "Poget Ern.",
+      "Poget-Cochet Hri",
+      "Poget John",
+      "Roy Emile",
+      "Roy Hri-Louis",
+      "Roy John",
+      "Roy Jules-Alfred",
+      "Reverchon Alfred",
+      "Vindret Louis"
+    ],
+    "Amodiateurs": [
+      "Poget Ernest",
+      "Roy Emile"
+    ],
+    "Apiculteurs": [
+      "Burnand Albert",
+      "Candaux Léon",
+      "Develey Louis"
+    ],
+    "Assesseur": [
+      "Candaux Louis"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Burnand A."
+    ],
+    "Bois (march. de)": [
+      "Candaux Henri",
+      "Cochet Fernand",
+      "Roy John"
+    ],
+    "Commission scolaire": [
+      "M. Favre",
+      "Roy Félix",
+      "Candaux Francis"
+    ],
+    "Couturières": [
+      "Burnand-Candaux Jeanne",
+      "Candaux Berthe",
+      "Poget Marguerite"
+    ],
+    "Entrepreneur": [
+      "Poget-Cochet Emile"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Candaux Alexis",
+      "Reverchon Alfred",
+      "Candaux Edmond"
+    ],
+    "Inspect. du bétail": [
+      "Candaux Louis"
+    ],
+    "Instituteurs": [
+      "Burnand Albert",
+      "Poget-Cochet Elisa"
+    ],
+    "Laitier": [
+      "Berger Ferdinand"
+    ],
+    "Sellier": [
+      "Michel Alphonse"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "Syndicat agricole"
+    ],
+    "Téléphoniste": [
+      "Querry Félise, Mme."
+    ],
+    "Toiles à fromages et articles de fromagerie": [
+      "Candaux Alexis"
+    ]
+  },
+  "RANCES": {
+    "Autorités communales": [
+      "Simonin Albert",
+      "van Dedem Albert",
+      "Randin Ami",
+      "Tétaz Jules",
+      "Randin Robert",
+      "Cottens Aimé"
     ]
   }
 }

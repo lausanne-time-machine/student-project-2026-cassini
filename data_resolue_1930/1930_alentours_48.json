@@ -1,206 +1,233 @@
 {
-  "SAVIGNY": {
-    "Président du Conseil communal": [
-      "Diserens Samuel"
+  "Salavaux": {
+    "Bureau postal et télégraphiste": [
+      "Wullième Bertha"
     ],
-    "Secrétaire": [
-      "Cordey Maurice",
-      "Cordey-Blanc"
+    "Coiffeur": [
+      "Forster Ernest"
     ],
-    "Syndic": [
-      "Muller Gustave"
-    ],
-    "Municipaux": [
-      "Crot D.",
-      "Décombaz Ch.",
-      "Peneveyre Aug."
-    ],
-    "Boursier": [
-      "Mégroz Aimé"
-    ],
-    "Huissier": [
-      "Cornut Gustave"
-    ],
-    "Agriculteurs": [
-      "Blanc Ls-Ch.",
-      "Martinet",
-      "Bolomey, hoirs de Ch",
-      "Gremaudet",
-      "Cordey hoirie",
-      "Cordey Maurice",
-      "Cordey-Ravessoud",
-      "Cornut Ch.-L.",
-      "Cornut Ch., de Daniel",
-      "Crot Edouard",
-      "Crot Dan. et Paul.",
-      "Crot Fréd.",
-      "Crot Jules",
-      "Cordey Isaac-Ls",
-      "Décombaz Abram, Charles et Gust.",
-      "Diserens Samuel",
-      "Diserens Constant",
-      "Diserens Louise",
-      "Diserens Alexis",
-      "Diserens Jules",
-      "Duboux Charles",
-      "Jaques Alexis",
-      "Lavanchy Ch.-F.",
-      "Lavanchy-Décombaz Louis",
-      "Lavanchy-Diserens Charles",
-      "Lavanchy-Muller Const.",
-      "Lavanchy Rob.",
-      "Mennet Alfr.",
-      "Muller Gustave",
-      "Muller Louis, Veuve",
-      "Noverraz C.",
-      "Pasche Alexis",
-      "Paschoud Ch.",
-      "Porchet Ch.",
-      "Pouly Aimé",
-      "Regamey Alfred",
-      "Zahler Oscar",
-      "Zahler François"
-    ],
-    "Assurance-vieillesse": [
-      "Stuby E."
-    ],
-    "Aubergistes": [
-      "Cordey Emile",
-      "Farner Alfred",
-      "Rod Fernand",
-      "Hess Jean",
-      "Dufour-Vincent"
-    ],
-    "Blanchisseuses": [
-      "Bastian Eugénie",
-      "Diserens-Margairaz Mme"
-    ],
-    "Bois (march. de)": [
-      "Cordey frères",
-      "Cordey-Diserens F.-Louis",
-      "Cordey Louis",
-      "Diserens Charles",
-      "Jaques Octave",
-      "Lavanchy Ch.",
-      "Lavanchy Ch.-Abram",
-      "Lavanchy Ami et Armand"
-    ],
-    "Boulangers": [
-      "Dessous l'Eglise Georges",
-      "Diserens Vict.",
-      "Jaquier Hermann"
-    ],
-    "Cantonniers": [
-      "Cordey Charles",
-      "Diserens Eugène"
-    ],
-    "Charcutier": [
-      "Hess J."
-    ],
-    "Charpentiers": [
-      "Bastion Osc.",
-      "Diserens J.-L.",
-      "Martinet",
-      "Lavanchy Charles"
-    ],
-    "Charron": [
-      "Pilet Gustave"
-    ],
-    "Chef de section": [
-      "Dumard Alexandre"
-    ],
-    "Commission scolaire": [
-      "Jomini Ernest",
-      "Cordey Edouard"
-    ],
-    "Cordonnier": [
-      "Durussel J.-François"
+    "Distillerie": [
+      "Société de distillerie du Vully"
     ],
     "Entrepreneurs": [
-      "Cordey-Blanc",
-      "Gabella les fils de Secondo",
-      "Gabella Constant"
+      "Baitotti Jacques",
+      "Ramella & Cie"
     ],
     "Epicerie, mercerie": [
-      "Diserens Eugène fils",
-      "Jaquier Herm.",
-      "Porchet Lucien"
+      "Blaser Jean",
+      "Gentinetta Hercule",
+      "Loup-Jordan, hoirs"
     ],
-    "Gypsier-peintre": [
-      "Casotto Ernest",
-      "Gabella Emmanuel"
+    "Facteur": [
+      "Wullième Edmond"
     ],
-    "Inspecteurs du bétail": [
-      "Diserens Constant",
-      "Lavanchy Alexis",
-      "Décombaz Abram"
+    "Farines": [
+      "Grandjean Olivier"
     ],
-    "Instituteurs": [
-      "Dentan Maurice",
-      "Martinet",
-      "Cordey-Blanc Eugénie",
-      "Crottaz Robert",
-      "Cordey Bertha",
-      "Stuby Emile"
+    "Fers et quincaillerie": [
+      "Loup-Jordan hoirs d'A."
     ],
-    "Maréchaux": [
-      "Delessert, Vve de Marius",
-      "Delessert Charles",
-      "Parisod Ernest"
+    "Maréchal": [
+      "Barraud Louis"
     ],
-    "Mécanicien": [
-      "Diserens Aloïs"
+    "Médecin": [
+      "Graf H.-W."
     ],
-    "Menuisiers": [
-      "Bastian Emile",
-      "Cornut Louis",
-      "Paschoud Ch."
+    "Meunerie": [
+      "Usine agricole"
     ],
-    "Officier d'état-civil": [
-      "Cordey-Blanc Charles"
+    "Notaires": [
+      "Guex Henri",
+      "Porchet",
+      "Gobat Georges"
     ],
-    "Pasteurs": [
-      "Jomini Ernest",
-      "Mouchet W."
-    ],
-    "Pension": [
-      "Pension des Alpes",
-      "Hess Walter"
-    ],
-    "Poste": [
-      "Cornu H.",
-      "Lavanchy Louis",
-      "Piccard Julia"
-    ],
-    "Rentières": [
-      "Comte, sœurs",
-      "Delessert, Mlles"
-    ],
-    "Sages-femmes": [
-      "Bastian, Mme",
-      "Diserens L.",
-      "Diserens Susanne"
+    "Sellier": [
+      "Zoss Benoit"
     ],
     "Sociétés": [
-      "Réunion des Patriotes (abbaye)",
-      "des carabiniers",
-      "de laiterie de Savigny",
-      "de fromagerie de Moille-Margot",
-      "de la réunion des Patriotes",
-      "de laiterie de la Claie aux Moines",
-      "de tir aux armes de guerre",
-      "Section de la Croix-Bleue",
-      "de chant « l'Harmonie »",
-      "d'agriculture",
-      "section des Monts de Lavaux"
+      "Battoir électrique Bellerive",
+      "d'agriculture La Vulleraine",
+      "des Transports du Vully",
+      "Bessard Marc"
     ],
-    "Tailleur": [
-      "Delessert Emile"
+    "Teinturerie": [
+      "Loup-Bessard, dépôt"
+    ],
+    "Téléphone": [
+      "Vincent Paul"
+    ],
+    "Vélos": [
+      "Magnin G."
+    ],
+    "Viticulteurs": [
+      "Bessard Marc",
+      "Grandjean Léon",
+      "Tombez Jean"
+    ],
+    "Voiturier": [
+      "Vullième Gabriel"
+    ]
+  },
+  "Vallamand-Dessous": {
+    "Agriculteur": [
+      "Bessard Alexandre"
+    ],
+    "Café": [
+      "Grandjean Marius"
+    ],
+    "Entrepreneur": [
+      "Bianchi S."
+    ],
+    "Horloger": [
+      "Rossel Valentin"
+    ],
+    "Pêcheurs": [
+      "Binder Oscar",
+      "Gailloz Marcel",
+      "Treyvaud Jules",
+      "Treyvaud Paul"
+    ]
+  },
+  "CHABREY": {
+    "Autorités communales": [
+      "Vessaz Henri",
+      "Christinat Paul"
+    ],
+    "Syndic": [
+      "Vessaz Alfred"
+    ],
+    "Municipaux": [
+      "Chuard-Jaunin Alb.",
+      "Christinat Ern.",
+      "Christinat Hri Ls",
+      "Jaunin Maurice",
+      "Christinat Henri-Fréd."
+    ],
+    "Boursier": [
+      "Christinat Alfred"
+    ],
+    "Huissier": [
+      "Christinat Emile-Henri"
+    ],
+    "Agriculteurs": [
+      "Beutler Emile",
+      "Blaser Fritz",
+      "Christinat Albert",
+      "Christinat Alexis",
+      "Christinat Emile",
+      "Christinat Ernest",
+      "Christinat François",
+      "Chuard Albert",
+      "Häni Jean",
+      "Loup Marcel",
+      "Schick Samuel",
+      "Vessaz Alfred",
+      "Vessaz Auguste-Henri",
+      "Vessaz Constant",
+      "Vessaz Emile",
+      "Vessaz Samuel"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Duperret Emile"
+    ],
+    "Aubergiste": [
+      "Schneuwely Hermann"
+    ],
+    "Charron": [
+      "Weber Frédéric"
+    ],
+    "Commission scolaire": [
+      "Hug Heinrich",
+      "Jaunin Maurice",
+      "Vessaz Emile"
+    ],
+    "Entrepreneurs": [
+      "Blanc & Cie"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Christinat Auguste",
+      "Vessaz Cécile"
+    ],
+    "Instituteur": [
+      "Duperret Emile"
+    ],
+    "Inspecteur du bétail": [
+      "Christinat J.-Frédéric"
+    ],
+    "Poste": [
+      "Christinat Auguste"
+    ],
+    "Sociétés": [
+      "de laiterie",
+      "du batroir"
     ],
     "Tailleuses": [
-      "Diserens Rosine",
-      "Paschoud Alice",
-      "Pouly Céline"
+      "Delley Reine",
+      "Marti Anna"
+    ],
+    "Téléphoniste": [
+      "Christinat Auguste"
+    ]
+  },
+  "CHAMPMARTIN": {
+    "Autorités communales": [
+      "Beck Eugène",
+      "Küng Maurice"
+    ],
+    "Syndic": [
+      "Milliet Henri"
+    ],
+    "Municipaux": [
+      "Beck Henri",
+      "Küng Franz",
+      "Beck Eugène"
+    ],
+    "Boursier": [
+      "Beck Paul"
+    ],
+    "Agriculteurs": [
+      "Beck Eugène",
+      "Beck Henri",
+      "Chuard Ida, veuve de Robert",
+      "Milliet Henri",
+      "Zosso Christian"
+    ],
+    "Inspecteur du bétail": [
+      "Beck Henri"
+    ]
+  },
+  "CONSTANTINE": {
+    "Autorités communales": [
+      "Bessat Jules",
+      "Margot Edouard"
+    ],
+    "Syndic": [
+      "Loup Louis"
+    ],
+    "Municipaux": [
+      "Cuanillon Alfred",
+      "Parisod Léon",
+      "Loup-Bessard Léon",
+      "Gentizon-Bessard Henri",
+      "Gentizon Emile"
+    ],
+    "Boursier": [
+      "Gentizon Louis"
+    ],
+    "Huissier": [
+      "Monney Alexis"
+    ],
+    "Agriculteurs": [
+      "Bessat Eug.",
+      "Bessat Jules",
+      "Cauderay Emile",
+      "Coinchon Edouard",
+      "Cuanillon Alfr.",
+      "Gentizon-Bessard Henri",
+      "Gentizon, hoirs de Jacques",
+      "Gentizon-Rapin Louis",
+      "Gentizon, hoirs de Jean-Daniel",
+      "Gentizon Emile, d'Alfred"
     ]
   }
 }

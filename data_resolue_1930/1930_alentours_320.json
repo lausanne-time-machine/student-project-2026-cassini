@@ -1,75 +1,109 @@
 {
-  "Ville d'Yverdon": {
-    "Automobiles — Garages": [
-      "Seemuller Alfred",
-      "Spaeth L."
+  "Ville de Vevey": {
+    "Ecole des arts et métiers": [
+      "Lichtenstern Charles",
+      "Baumann Alfred",
+      "Recordon Philippe"
     ],
-    "Auto-taxis.": [
-      "Calame Ch.",
-      "Grand Garage des Remparts S. A.",
-      "Groux Jean",
-      "Lindic-Mooser A.",
-      "Reubi Emile",
-      "Roth Jules"
+    "Ecoles enfantines et particulières": [
+      "Ecole nouvelle de Gilamont, Corthésy Eugène",
+      "Franel, Mlles",
+      "Hentsch, Mme",
+      "Huguenin Julie",
+      "Liausun, Mlles",
+      "Morier M.. Dlle",
+      "Noth H., Dlle"
     ],
-    "Autos (carrosserie pour)": [
-      "Combremont G.",
-      "Stettler W."
+    "Editeurs": [
+      "Bonjour William",
+      "Klausfelder, société",
+      "Jayet & Diebold",
+      "Eclair, Guide de Vevey",
+      "Säuberlin & Pfeiffer",
+      "Zahnd Marcel"
     ],
-    "Autos (fabr de radiateurs).": [
-      "Grandguillaume Félix"
+    "Electriciens": [
+      "Gallay U.",
+      "Murisier Gust.",
+      "Société romande d'électricité",
+      "Spälti fils & Cie",
+      "Vauthey E."
     ],
-    "Avocats.": [
-      "Baup & Reymond",
-      "Jaccard Pierre",
-      "Pilicier Charles",
-      "Vodoz Antoine"
+    "Electricité (fournitures pour)": [
+      "Spälti fils & Cie"
     ],
-    "Aviculture.": [
-      "Antonelli Clément"
+    "Enseignes sous verre": [
+      "Quinclet Géo",
+      "Schmitz Frères"
     ],
-    "Bûches.": [
-      "Wyss César"
+    "Entrepreneurs": [
+      "Baud F.",
+      "Boulenaz & Dorner",
+      "Dardi & Nottaris",
+      "Felli Att. & ses fils",
+      "Fovanna Martin",
+      "Mamin Léonie",
+      "Rigobello L.",
+      "Rimella frères",
+      "Rosso O."
     ],
-    "Bains.": [
-      "Bains publics",
-      "Etablissement thermal du Grand Hôtel des Bains, S. A.",
-      "Harnisch, Vve de Léon"
-    ],
-    "Bandagiste.": [
-      "Graa S."
-    ],
-    "Banques.": [
-      "Banque cantonale vaudoise",
-      "Banque populaire de la Broye",
-      "Caisse d'épargne et de prévoyance",
-      "Crédit Yverdonnois",
-      "Piguet & Cie",
-      "Union Vaudoise du Crédit"
-    ],
-    "Bateaux (loueurs de).": [
-      "Baudin Emile",
-      "Despland Albert"
-    ],
-    "Bazars.": [
-      "Grands Magasins Réunis, S. A.",
-      "Gonset-Henrioud P., S. A.",
-      "Henriod-Giddey",
-      "Pillevuit Emile",
-      "Walther Bloch, les fils de"
-    ],
-    "Benzine.": [
-      "Cuérel C.",
-      "Péclard & Guignard",
-      "Socal S. A."
-    ],
-    "Bétail (march. de).": [
-      "Æschlimann Aug.",
-      "Buhler Reinhardt",
-      "Erb Fréd., fils",
-      "Erb Adolphe",
-      "Eymann Fritz, père",
-      "Gasser Ern."
+    "Epicerie": [
+      "Anderly G.",
+      "Armaroli Louise",
+      "Baillif, Vve",
+      "Barbey Maxime",
+      "Beer F.",
+      "Berger Samuel",
+      "Berner-Bovay Adolphe",
+      "Bertholet Emile",
+      "Binggeli, Vve",
+      "Burkart hoirs",
+      "Chollet Alcidie",
+      "Chopard Louis",
+      "Clivaz Alexis",
+      "Comptoir des Spécialités alimentaires",
+      "Dériaz Emman.",
+      "Desclouds, Vve",
+      "Dovis S.",
+      "Dubath Ilma",
+      "Ducret-Conne Alice",
+      "Ducret Ed.",
+      "Dumouleur Andrée",
+      "Eggs-Muller Julie",
+      "Ferrari Antonie",
+      "Flückiger Ed.",
+      "Furbringer Alice",
+      "Gaille Robert",
+      "Gamboni Emmanuel",
+      "Gerber Arthur",
+      "Grosjean Alfred",
+      "Guex Louis",
+      "Hämmer F. & Cie",
+      "Hochstuhl Georges",
+      "Hulliger, Dlles",
+      "Jaccard Jules",
+      "Krähenbühl A.",
+      "Laurent Gustave",
+      "Lenzo-Holl & Co.",
+      "Ludi Pierre",
+      "Maillard Léonard",
+      "Margot Aug.",
+      "Martin Charles",
+      "Mercure, S. A.",
+      "Montandon Edouard",
+      "Mora Pierre",
+      "Monti Emile",
+      "Morier Victor",
+      "Musso Joseph",
+      "Oberson Joseph",
+      "Oliveri Vincent",
+      "Perroud Marie",
+      "Ramelet M.",
+      "Rapin Marcel",
+      "Rapin Marcel",
+      "Rapin Emile",
+      "Regamey Albert",
+      "Rinsoz Albert"
     ]
   }
 }

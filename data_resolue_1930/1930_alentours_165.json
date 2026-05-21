@@ -1,225 +1,198 @@
 {
-  "VALLORBE": {
-    "Tailleuses.": [
-      "Lanquetin Alice",
-      "Lambrigger-Longchamp dame",
-      "Ryser Louise"
-    ],
-    "Tapissiers": [
-      "Kohler Werner",
-      "Scheurer Albert"
-    ],
-    "Téléphone": [
-      "Bureau des postes"
-    ],
-    "Transports internationaux": [
-      "Danzas & Cie (S. A.)",
-      "Mangili Innocente, S. A.",
-      "Soc. An. Internat. de Transports Gondrand Frères",
-      "Véron J., Grauer & Cie."
-    ],
-    "Tricotage mécanique": [
-      "Cochet-Ducommun Alfred",
-      "Durussel sœurs"
-    ],
-    "Vétérinaire": [
-      "Jeanneret Max"
-    ],
-    "Vins (march. de)": [
-      "Bourgeois frères & Cie",
-      "Grobéty Adr.",
-      "Tabbozzi Constant"
-    ],
-    "Voituriers": [
-      "Collet Charles",
-      "Glardon Georges",
-      "Matthey Robert"
-    ]
-  },
-  "VAULION": {
+  "MONNAZ": {
     "Autorités communales": [
-      "Reymond Auguste",
-      "Guignard Gust.",
-      "Reymond Georges",
-      "Magnenat Constant",
-      "Goy Louis",
-      "Magnenat Adrien",
-      "Guignard Auguste",
-      "Maire Adrien",
-      "Maire Jules",
-      "Magnenat Henri"
+      "Borgeaud Hri",
+      "Liron Ernest",
+      "Fazan Louis",
+      "Dupuis Armand",
+      "Bolliet Louis",
+      "Déglon Adolphe",
+      "Gillard Joseph",
+      "Simon Louis",
+      "Bolliet Robert",
+      "Musy Henri",
+      "Bähni Henri",
+      "Lavanchy Henri",
+      "Decollogny Edmond. T.",
+      "Gremion Joseph",
+      "Cretegny Henri",
+      "Cretegny Georges",
+      "Cretegny Maxime",
+      "Rochat Louis",
+      "Cretegny Maxime",
+      "Golaz Henri"
     ],
     "Agriculteurs": [
-      "Goy Emile",
-      "Goy Paul",
-      "Goy Louis",
-      "Guignard John",
-      "Guignard Louis",
-      "Magnenat Aug.",
-      "Magnenat Constant",
-      "Magnenat Henri",
-      "Magnenat Hippolyte",
-      "Magnenat Pl.",
-      "Magnenat Valentin",
-      "Martignier Oscar",
-      "Reymond Ernest",
-      "Reymond Emile et Paul",
-      "Reymond Constant",
-      "Reymond Marcel",
-      "Reymond-Michot Henri"
+      "Bolliet Arthur",
+      "Bolliet-Chevalley Gustave",
+      "Borgeaud Henri e",
+      "Chevalley frères",
+      "Delarageaz Emile",
+      "Déglon Adolphe",
+      "Dupuis Armand",
+      "Fazan Louis",
+      "Gilliard Hri",
+      "Marguet A.",
+      "Mingard Marcel",
+      "Moyard Edouard",
+      "Moyard Gustave",
+      "Roulin Charles",
+      "Bähni Henri",
+      "Bossert Jean",
+      "Cretegny Ernest",
+      "Cretegny Eugène",
+      "Cretegny Gustave",
+      "Cretegny Georges",
+      "Cretegny Henri",
+      "Cretegny Lucien",
+      "Decollogny Edmond. T.",
+      "Golaz François",
+      "Gremion Joseph",
+      "Matthey Eug. T.",
+      "Monnet Jaques. T.",
+      "Moret Ls",
+      "Neuschwander Eugène",
+      "Rochat Louis",
+      "Tschanz Adolphe"
     ],
-    "Amodiateurs": [
-      "Syndicat agricole"
+    "Assurance-vieillesse": [
+      "Liron E."
     ],
-    "Appareilleur": [
-      "Reymond Art."
+    "Aubergistes": [
+      "Wenger Henri",
+      "Bolliet-Duc Gustave fils"
     ],
-    "Assurances": [
-      "La Genevoise (vie)",
-      "Reymond Jules"
+    "Aviculteurs": [
+      "Bardet & Huguet"
     ],
-    "Mutualité scolaire de retraite": [
-      "Guignard H."
+    "Boulangerie-épicerie": [
+      "Henry Alf. R."
     ],
-    "Société mutualiste de retraite": [
-      "Maire Ad."
-    ],
-    "Auberges et cafés": [
-      "Bignens Camille",
-      "Goy Marcel",
-      "Guignard Vital",
-      "Forestier Ernest",
-      "Michot Adr."
-    ],
-    "Bois (march. de)": [
-      "Magnenat Auguste",
-      "Maire Ami",
-      "Reymond E.",
-      "Reymond-Michot Hri."
-    ],
-    "Bottes à vacherins": [
-      "Bignens Charles",
-      "Liechti Vve",
-      "Maire Ami"
-    ],
-    "Boulangeries": [
-      "Société coopérative",
-      "Widmann Louis"
-    ],
-    "Camionnages et transports": [
-      "Société Auto-Transport du Jura"
-    ],
-    "Charron": [
-      "Guignard Olivier"
-    ],
-    "Chaussures (fab. de)": [
-      "Liardet frères"
-    ],
-    "Chef de section": [
-      "Reymond Georges"
-    ],
-    "Coiffeurs": [
-      "Maire Georges",
-      "Moulet Louis"
+    "Chasseurs": [
+      "Bolliet Rob.",
+      "Delageaz Louis",
+      "Gillard Henri"
     ],
     "Commission scolaire": [
-      "Reymond Auguste",
-      "Guignard Gaston",
-      "Maire Ad., fils",
-      "Guignard H.",
-      "Guignard J."
+      "Milliet Louis",
+      "Fazan Louis",
+      "Delarageaz Louis",
+      "Matthey Eugène. T.",
+      "Decollogny Edmond. T."
     ],
-    "Cordonniers": [
-      "Guignard Ami",
-      "Liardet frères"
+    "Entrepreneur": [
+      "Borgnana Pierre"
     ],
-    "Couturières": [
-      "Guignard Lili",
-      "Reymond Annette"
+    "Epicerie, mercerie": [
+      "Marguet Aloïs",
+      "Rochat Charlotte",
+      "Rochat Mathilde. R."
     ],
-    "Cuirs et fournitures pour cordonniers": [
-      "Liardet frères",
-      "Liardet Fritz"
-    ],
-    "Draperie": [
-      "Reymond Georges",
-      "Reymond-Michot Gabriel"
-    ],
-    "Entrepreneurs": [
-      "Maire Edouard",
-      "Peretti Marcel",
-      "Reymond Fr."
-    ],
-    "Epicerie, cigares et tabacs": [
-      "Guignard Aug.",
-      "Maire-Liardet Adr.",
-      "Reymond Georges",
-      "Reymond-Michot Gabriel",
-      "Société coopérative de consommation"
-    ],
-    "Ferronnerie, outils, quincaillerie": [
-      "Guignard Auguste"
-    ],
-    "Fromages": [
-      "Magnenat L. et F.",
-      "Magnenat François-Louis"
-    ],
-    "Garde de triage forestier": [
-      "Guignard Jules"
-    ],
-    "Gypsiers": [
-      "Beati Ch.",
-      "Vettovaglio Pierre"
-    ],
-    "Insp. des denrées": [
-      "Guignard Gust."
-    ],
-    "Insp. des viandes": [
-      "Michot Charly"
+    "Fonderie": [
+      "Simon A."
     ],
     "Inspecteur du bétail": [
-      "Maire Adr."
+      "Bolliet Rob.",
+      "Cretegny Frédéric"
     ],
-    "Instituteurs": [
-      "Grobéty Louis",
-      "Guignard Henri",
-      "Reymond Samuel",
-      "André Jeanne",
-      "Jaccard Emma"
+    "Instituteur": [
+      "Liron Ernest",
+      "Lavanchy Henri"
     ],
-    "Laitiers": [
-      "Golay Louis",
-      "Goy Georges",
-      "Kehrly Gust.",
-      "Magnenat Louis",
-      "Rochat Robert"
+    "Laitier": [
+      "Laiterie agricole (Lausanne)",
+      "Gremion Joseph"
     ],
-    "Limes (fab. de)": [
-      "Hierholz Isidore-Charles (S.A.)"
+    "Pêcheur": [
+      "Martin Paul"
+    ],
+    "Préposé au transformateur": [
+      "Dubochet Julien"
+    ],
+    "Sociétés": [
+      "de fromagerie. R.",
+      "de jeunesse",
+      "de l'Abbaye des agriculteurs",
+      "de fromagerie. R.",
+      "du battoir à blé. R."
+    ],
+    "Tailleuse": [
+      "Ruchat Jeanne",
+      "Dupertuis Eva"
+    ],
+    "Vélos": [
+      "Bolliet Robert"
+    ],
+    "Vignerons": [
+      "Dubois Adrien",
+      "Vuffray Louis",
+      "Dupertuis Ernest",
+      "Moret Louis"
+    ],
+    "Viticulteurs": [
+      "Bolliet-Chevalley",
+      "Brot Ami",
+      "Delarageaz Louis",
+      "Gillard Henri"
+    ],
+    "Divers": [
+      "Demont, Vve",
+      "Mestral, dame.",
+      "Mestral Paul",
+      "Morax",
+      "Moyard, Vve",
+      "Naine C., Mme.",
+      "Pauchard",
+      "Fitting",
+      "Veillard C.",
+      "Wullieu-mier"
+    ],
+    "Boulangerie": [
+      "Gret Paul"
+    ],
+    "Café": [
+      "Gret Paul"
+    ],
+    "Jardinier": [
+      "Matthey Eugène"
     ],
     "Maréchal": [
-      "Fahrni Ch."
-    ],
-    "Modiste": [
-      "Magnenat Violette"
-    ],
-    "Menuisiers": [
-      "Maire Edouard",
-      "Meyer E."
+      "Desponds Charles"
     ],
     "Meunier": [
-      "Develey Louis-David"
+      "Dubois Charles"
     ],
-    "Officier d'état-civil": [
-      "Reymond Marcel"
+    "Repasseuses": [
+      "Matthey Frida",
+      "Schneider Sœurs"
     ],
-    "Pasteur": [
-      "Vacat."
+    "Téléphone": [
+      "Bureau de poste"
+    ]
+  },
+  "ROMANEL-SUR-MORGES": {
+    "Autorités communales": [
+      "Curtet Jules",
+      "Campiche Ls.",
+      "Bataillard Armel",
+      "Bataillard Constant",
+      "Devillard Ls",
+      "Pidoux Francis",
+      "Chapuis Francis",
+      "Zeender Henri",
+      "Bataillard Constant"
     ],
-    "Pierres fines (horlogerie)": [
-      "Comptoir de pierres fines S. A.",
-      "Guignard-Pichon Aug.",
-      "Goy Clé-"
+    "Agriculteurs": [
+      "Bataillard Armel",
+      "Bataillard Samuel",
+      "Bataillard Ulysse",
+      "Bataillard Alfred",
+      "Bataillard Robert",
+      "Bataillard Moïse",
+      "Burri Alfred",
+      "Burri Charles",
+      "Chanel Albert",
+      "Chapuis"
     ]
   }
 }

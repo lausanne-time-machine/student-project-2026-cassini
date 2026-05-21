@@ -1,117 +1,210 @@
 {
-  "Ville de Payerne": {
-    "Peintres en voitures.": [
-      "Savary Alfred, fils."
+  "SAINT-CIERGES": {
+    "Tailleuses": [
+      "Freymond Olive",
+      "Jaccoud Laure"
     ],
-    "Pension alimentaire.": [
-      "Battaini Ch.",
-      "Comte, dames",
-      "Gétaz Vincent",
-      "Müller-Savary Henri.",
-      "Pichonnat F.",
-      "Vallotton Elvina, dame."
+    "Téléphoniste": [
+      "Grin Léon"
     ],
-    "Pharmaciens.": [
-      "Walther Richard",
-      "Studer Maurice",
-      "Vulliémoz Henry."
+    "Cycles": [
+      "Versel Albert"
+    ]
+  },
+  "SARZENS": {
+    "Autorités communales": [
+      "Desarzens Jules",
+      "Corthésy Constant",
+      "Desarzens Emile",
+      "Badoux Adrien",
+      "Desarzens Georges",
+      "Corthésy Ele",
+      "Pichonnaz Ernest",
+      "Corthésy Constant",
+      "Desarzens Georges"
     ],
-    "Photographes.": [
-      "Livet J."
+    "Agriculteurs": [
+      "Badoux Adrien",
+      "Corthésy Ele et Const.",
+      "Desarzens Aug.",
+      "Desarzens Eug.",
+      "Desarzens Ulysse",
+      "Desarzens Ulysse-Daniel",
+      "Desarzens frères",
+      "Emery Alfred",
+      "Ganière Henri",
+      "Guex Julien",
+      "Ogay Jules",
+      "Pichonnaz Alfred",
+      "Pichonnaz frères"
     ],
-    "Pierres fines (atelier de).": [
-      "Tanner Th."
+    "Associations mutualistes de retraite": [
+      "Chevalley C. Mme"
     ],
-    "Plissages.": [
-      "Rossier-Delaurens J."
+    "Charpentier": [
+      "Chevalley Fernand"
     ],
-    "Poêliers.": [
-      "Grenacher Rodolphe",
-      "Duvoisin César"
+    "Commission scolaire": [
+      "Desarzens Ul.",
+      "Desarzens Jules",
+      "Desarzens Georges"
     ],
-    "Poste.": [
-      "Soutter Henri"
+    "Couturière": [
+      "Pichonnaz Lina"
     ],
-    "Poterie.": [
-      "Comte-Rapin C.",
-      "Galeries Vaudoises.",
-      "Jomini-Morel Henri.",
-      "Zumbach-Perrin Emile."
+    "Inspecteur du bétail": [
+      "Desarzens Eugène"
     ],
-    "Primeurs.": [
-      "Bisegger, dame.",
-      "Brouty Gustave",
-      "Gaiani frères",
-      "Brughera Eugène.",
-      "Montserrat-Stucky José.",
-      "Morgenegg F."
+    "Institutrice": [
+      "Chevalley-Enning Clara"
     ],
-    "Produits du sol.": [
-      "Liechti Samuel",
-      "Martin-Pittet, Veuve.",
-      "Perrin Emile, S. A.",
-      "Widmer E."
+    "Lingère": [
+      "Pichonnaz-Desarzens"
     ],
-    "Quincaillerie. — Articles de ménage.": [
-      "Favre & Cie (S.A.)",
-      "Galeries Vaudoises.",
-      "Girardin-Muller E.",
-      "Liechti Albert",
-      "Perrin Fernand.",
-      "Rapin Octave.",
-      "Rapin-Hubler Louis.",
-      "Zuberbühler J.",
-      "Zumbach Emile."
+    "Poste": [
+      "Desarzens Georges"
     ],
-    "Ramoneur.": [
-      "Ravet-Barmaverein Isidore."
+    "Sociétés": [
+      "de fromagerie. R.",
+      "du battoir à blé. R."
     ],
-    "Relieurs.": [
-      "Reusser Fritz."
+    "Téléphoniste": [
+      "Desarzens Georges"
+    ]
+  },
+  "SOTTENS": {
+    "Autorités communales": [
+      "Besson Alexis",
+      "Pasche Jean",
+      "Pelet Edouard",
+      "Porchet Constant",
+      "Vuagniaux Const.",
+      "Dubrit René",
+      "Porchet Ernest",
+      "Dubrit René"
     ],
-    "Renseignements commerciaux.": [
-      "Hubler Jules",
-      "Ney Ernest",
-      "Niffenegger Charles",
-      "Treyvaux Marcel."
+    "Agriculteurs": [
+      "Augsburger Auguste",
+      "Besson Emile",
+      "Besson Héli",
+      "Braillard frères",
+      "Décosterd Henri",
+      "Dubrit Adrien",
+      "Dubrit Daniel",
+      "Dubrit hoirie",
+      "Dubrit John",
+      "Ducret Pierre",
+      "Jotterand Henri",
+      "Lemat hoirie",
+      "Nobs Elise",
+      "Pasche Emile",
+      "Pelet Edouard",
+      "Pelet Héli",
+      "Porchet Constant",
+      "Porchet Emile",
+      "Porchet hoirie d'Eugène",
+      "Porchet Louis",
+      "Porchet Lucien",
+      "Vuagniaux Constant"
     ],
-    "Sages-femmes.": [
-      "Comte-Fivaz Elisa",
-      "Righetti Olga.",
-      "Tappy-Feller, dame"
+    "Assurance cantonale contre l'incendie": [
+      "Pelet Ed."
     ],
-    "Scieurs.": [
-      "Bossy frères"
+    "Assurance cantonale contre la grêle": [
+      "Pelet E."
     ],
-    "Selliers.": [
-      "Baumgartner Osc.",
-      "Fiaux Félix",
-      "Germond Frédéric fils",
-      "Gris Oscar",
-      "Jomini-Ruérat Louis."
+    "Café": [
+      "Germond Henri"
     ],
-    "Serruriers.": [
-      "Comte Edouard",
-      "Duvoisin H.",
-      "Guiger Auguste.",
-      "Oldrati Louis",
-      "Schneider Alfred"
+    "Commission scolaire": [
+      "Pelet Edouard",
+      "Porchet Constant",
+      "Besson Alexis"
     ],
-    "Sociétés.": [
-      "Assurance mutuelle porcine.",
-      "Société Charcuteries réun. de Payerne.",
-      "> Vaudoise d,agriculture",
-      "Givel Louis",
-      "> d'Aviculture",
-      "Jaton Alexis",
-      "> Coopérative de consommation",
-      "> Grande charcuterie payern.",
-      "> Industrielle et commerciale.",
-      "> immobilière de la Chapelle.",
-      "> des commerçants.",
-      "> des jeunes commerçants.",
-      "> du café de tempérance.",
-      "> de la communauté évangélique allemande."
+    "Cordonnier": [
+      "Ducret Ulysse"
+    ],
+    "Epicerie": [
+      "Pasche-Chevalley"
+    ],
+    "Fourches et râteaux (fab. de)": [
+      "Braillard John"
+    ],
+    "Inspecteur du bétail": [
+      "Porchet Const."
+    ],
+    "Instituteur": [
+      "Depierraz Augustin",
+      "Mme Porchet Pauline"
+    ],
+    "Maréchal": [
+      "Stutzmann-Golay Etienne"
+    ],
+    "Poste": [
+      "Dubrit René"
+    ],
+    "Sociétés": [
+      "de fromagerie. R.",
+      "Syndicat agricole. R.",
+      "Société du battoir à grain. R.",
+      "de tir",
+      "Assurance du bétail"
+    ],
+    "Téléphone public": [
+      "Lemat Edmond"
+    ]
+  },
+  "SYENS": {
+    "Autorités communales": [
+      "Mottaz Henri",
+      "Mottaz Louis",
+      "Duc William",
+      "Peytregnet Const.",
+      "Crausaz Héli",
+      "Cavin Ulysse",
+      "Ballif Arthur",
+      "Mottaz Ls",
+      "Mottaz Fritz",
+      "Monge David"
+    ],
+    "Agriculteurs": [
+      "Cavin Eugène",
+      "Cavin Emile",
+      "Duc William",
+      "Ganière Octave",
+      "Knuchel frères",
+      "Metraux frères",
+      "Mottaz Henri",
+      "Mottaz Jules",
+      "Mottaz Louis",
+      "Pfister Gottlieb",
+      "Porchet Julien"
+    ],
+    "Commission scolaire": [
+      "Mottaz Louis",
+      "Crausaz Héli"
+    ],
+    "Couturière": [
+      "Porchet-Weibel Mme"
+    ],
+    "Epicerie": [
+      "Mottaz Henri"
+    ],
+    "Inspecteur du bétail": [
+      "Crausaz Héli"
+    ],
+    "Instituteurs": [
+      "Jacquerod Georges",
+      "Mottaz-Binggeli Rose"
+    ],
+    "Laitier": [
+      "Ballimann Fritz"
+    ],
+    "Meunier": [
+      "Ballif Arthur"
+    ],
+    "Poste": [
+      "Mottaz Henri"
     ]
   }
 }

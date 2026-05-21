@@ -1,178 +1,206 @@
 {
-  "ROMANEL": {
-    "Sociétés": [
-      "de laiterie",
-      "Société vaudoise d'agriculture et viticulture, section de Romanel et les Vernands",
-      "Section Croix-Bleue",
-      "Soc. de chant",
-      "Union chrétienne de jeunes gens"
+  "DISTRICT D'AIGLE": {
+    "Bétail (march. de).": [
+      "Sanat. Universitaire",
+      "Clinique Versmont",
+      "Chalet Chavannes",
+      "Clinique Alexandre",
+      "Clinique La Riondaz",
+      "Pension Le Printemps",
+      "Pension-famille",
+      "Villa La Joux",
+      "Villa La Pyrolle",
+      "Villa Soldanelle",
+      "Villa Mont-d'Or",
+      "Villa Jean-Pierre",
+      "Chalet Alpina",
+      "Giobellina, F."
     ],
-    "Téléphoniste": [
-      "Burdet Ulysse"
+    "Scieries.": [
+      "Rieben & Cie",
+      "Tauss Arthur"
     ],
-    "Tissus": [
-      "Borgeaud Veuve"
+    "Selliers.": [
+      "Duvanney Ernest",
+      "Hercod Alfred",
+      "Muller, hoirie d'Eugène"
+    ],
+    "Serrurier.": [
+      "Manghetti Baptiste"
+    ],
+    "Sociétés.": [
+      "Armée du Salut",
+      "Club Concordia (musique)",
+      "La Rose des Alpes (musique)",
+      "Société de laiterie",
+      "de tir: Armes de guerre",
+      "Tir de Bourgeoisie",
+      "Volontaires des Alpes",
+      "Développement",
+      "Croix-Bleue",
+      "Société d'Initiative",
+      "Syndicat agricole",
+      "Sporting Club",
+      "Ski-Club Village",
+      "Sapeurs-pompiers",
+      "Home de Leysin",
+      "Colonie de travail",
+      "Société de gymnastique",
+      "Chœur d'hommes",
+      "Société de musique",
+      "Société de tir Amis de la Liberté",
+      "Eclaireurs Suisses",
+      "Leysin Sport",
+      "C. A. S., Groupe de Leysin",
+      "Moto-Club",
+      "Club d'Echecs",
+      "Echo des Tours (chorale)",
+      "Union chrétienne",
+      "Jeunesse Edelweiss",
+      "Jodler-Club",
+      "Orchestre"
+    ],
+    "Sports (articles de).": [
+      "Ernst Emile & Cie",
+      "Poggia Gaudenzio",
+      "Vieceli Albino"
+    ],
+    "Tailleurs.": [
+      "Cani Achille",
+      "Hurt O.",
+      "Maradan Emile",
+      "Potterat V.",
+      "villa Louise",
+      "Portnoy Félix",
+      "Spiessl J."
+    ],
+    "Tapissiers.": [
+      "Duvanney Ern.",
+      "Hurter, Vve"
+    ],
+    "Villas et appartements meublés à louer": [
+      "Antoine J.",
+      "Balet Mme",
+      "Barroud Alf.",
+      "Le Printemps",
+      "Delarue, Bouton-d'Or et La Ruche",
+      "Sanatorium Neuchâtelois",
+      "Villa Marià",
+      "Société de la Station Climatique"
+    ],
+    "Vitrerie.": [
+      "Nicklès Gustave"
+    ],
+    "Voituriers.": [
+      "Drapel Aloïs",
+      "Favre César",
+      "Lombardi & Cie",
+      "Peytregnet F.",
+      "Tauxe René",
+      "Vaudroz Marie"
+    ],
+    "Vannerie.": [
+      "Peytregnet Emile"
+    ],
+    "Divers.": [
+      "Barroud Alf.",
+      "Berthoud Lucien",
+      "Tauxe Sam-Jean"
     ]
   },
-  "DISTRICT DE LA VALLÉE": {
-    "Préfet": [
-      "Golay Marc"
+  "NOVILLE": {
+    "Autorités communales.": [
+      "Ries Jean",
+      "Cathélaz Aloïs",
+      "Favrod Gustave",
+      "Perret Louis",
+      "Schalpach Maurice",
+      "Cathélaz Charles"
     ],
-    "Substitut": [
-      "Meylan Octave"
+    "Agriculteurs.": [
+      "Borloz Jean",
+      "Brünimann Fritz",
+      "Cathélaz Ch.",
+      "Cathélaz Edouard",
+      "Dufaux Frères",
+      "Dumusque Ernest",
+      "Favrod Ernest",
+      "Favrod Gust.",
+      "Favrod Rob.",
+      "Fontannaz, Vve d'Henri",
+      "Fontannaz Jules",
+      "Freymond Samuel",
+      "Gailloud Emile",
+      "Guidon Ch.",
+      "Herren frères",
+      "Pernet Alexis",
+      "Pernet Charles",
+      "Pernet Henri",
+      "Perret Louis",
+      "Stettler Caroline",
+      "Stettler Edouard",
+      "Stettler, Vve de François",
+      "Trollux Albert",
+      "Trollux Emile",
+      "Trollux, Vve de Ls."
     ],
-    "Receveur": [
-      "Reymond Albert"
+    "Apiculteur.": [
+      "Borloz Jean",
+      "Cathélaz Ls."
     ],
-    "Conservateur du registre foncier": [
-      "Baud Albert"
+    "Associations mutualistes de retraite.": [
+      "Abbuhl"
     ],
-    "Voyer du IVe arrondissement": [
-      "Capt Léon"
+    "Aubergistes.": [
+      "Favrod Rob.",
+      "Krenger Rodolphe",
+      "Reymond"
     ],
-    "Tribunal de district": [
-      "Dériaz Juste",
-      "Meylan-Capt Emile",
-      "Golay Jean",
-      "Rochat Jules",
-      "Meylan Marius"
+    "Bateaux (constr. de).": [
+      "Ries Jean"
     ],
-    "Poursuites et faillites": [
-      "Muller Otto"
-    ]
-  },
-  "L'ABBAYE": {
-    "Président du Conseil communal": [
-      "Rochat-Golay Henri"
+    "Bestiaux.": [
+      "Trollux Alb."
     ],
-    "Secrét.": [
-      "Rochat Adolphe"
+    "Chef de section.": [
+      "Collomb A."
     ],
-    "Syndic": [
-      "Berney L.-Fr."
+    "Choucroute (fab. de).": [
+      "Rouge Vincent"
     ],
-    "Municipaux": [
-      "Clerget Henri",
-      "Rochat Alfred",
-      "Rochat Adrien",
-      "Cart Auguste",
-      "Grandjean Ls"
+    "Commission scolaire.": [
+      "Pernet Ch.",
+      "Favrod Gustave",
+      "Borloz Jean"
     ],
-    "Secrétaire": [
-      "Piguet Maurice",
-      "Berney Henri",
-      "Clerget Henri"
+    "Commerce de grains.": [
+      "Bally Georges"
     ],
-    "Boursier": [
-      "Guignard Oscar"
+    "Couturières.": [
+      "Bohnenblust Elisa",
+      "Schira Ida"
     ],
-    "Huisiser": [
-      "Rochat Luc"
+    "Cultures maraîchères.": [
+      "Maison Cathélaz"
     ],
-    "Président du Conseil général du village": [
-      "Truan Albert"
+    "Epicerie, mercerie, tabacs.": [
+      "Musy frères",
+      "Société coopérative de consommation",
+      "Heimann Otto"
     ],
-    "Président du Conseil administratif": [
-      "Piguet Maurice"
+    "Horticulteurs.": [
+      "Bally Georges",
+      "Cathélaz Aloïs",
+      "Rouge Vincent"
     ],
-    "Membres": [
-      "Rochat Léop.",
-      "Aubert Marcel",
-      "Dunand Hri",
-      "Cart Auguste"
+    "Hôtel.": [
+      "Hôtel de la Truite",
+      "Lavanchy, dame"
     ],
-    "Agriculteurs": [
-      "Berney-Clerget Ami",
-      "Clerget Henri",
-      "Golay Alfred",
-      "Guignard Oscar",
-      "Guignard Paul-André",
-      "Guignard-Simond Paul",
-      "Rochat César",
-      "Rochat Jules",
-      "Rochat Léopold",
-      "Rochat Luc",
-      "Rochat Paul"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Piguet Maurice"
-    ],
-    "Aubergiste": [
-      "Guignard Eug."
-    ],
-    "Blantier": [
-      "Rochat Luc"
-    ],
-    "Bois (marchands de)": [
-      "Berney Louis Ami S. A.",
-      "Berney Henri",
-      "Guignard Pl.",
-      "Rochat Alfred"
-    ],
-    "Boulanger": [
-      "Truan John"
-    ],
-    "Commission scolaire": [
-      "Rochat Albert",
-      "Cart Auguste",
-      "Robert Adolphe"
-    ],
-    "Contre-pivots": [
-      "Cart Jules"
-    ],
-    "Entrepreneurs": [
-      "Sasso & fils"
-    ],
-    "Epicerie, mercerie": [
-      "Clerget E.",
-      "Guignard-Rochat Nelly",
-      "Truan John"
-    ],
-    "Garde-forestier": [
-      "Rochat César"
-    ],
-    "Inspecteur du bétail": [
-      "Guignard O."
-    ],
-    "Instituteurs": [
-      "Addor Louis",
-      "Guignard Julie",
-      "Piguet Jeanne"
-    ],
-    "Laitier": [
-      "Rochat Léopold"
-    ],
-    "Limes": [
-      "Société Anonyme Union"
-    ],
-    "Médecin": [
-      "Rochat James"
-    ],
-    "Menuisier": [
-      "Lauffenburger William"
-    ],
-    "Officier d'état-civil": [
-      "Guignard Léon"
-    ],
-    "Pasteur": [
-      "Robert Adolphe"
-    ],
-    "Pension-Tea-Room": [
-      "Cornu, Vve."
-    ],
-    "Pierriste": [
-      "Reymond Samuel"
-    ],
-    "Poste": [
-      "Clerget Elise, Vve."
-    ],
-    "Repasseuse": [
-      "Rochat Bertha"
-    ],
-    "Scieurs": [
-      "Aubert Francis",
-      "Berney Louis-Ami (S.A.)",
-      "Guignard Paul-A. & fils"
+    "Instituteurs.": [
+      "Beauverd Léopold",
+      "Velan Germaine, dame",
+      "Cornut-"
     ]
   }
 }

@@ -1,204 +1,114 @@
 {
-  "DOMMARTIN": {
-    "Autorités communales": [
-      "Curchod Elie",
-      "Santschy Eugène",
-      "Gindroz Aloïs",
-      "Curchod-Züllig Aloïs",
-      "Curchod-Mœsching Aloïs",
-      "Curchod Gaston",
-      "Crausaz Marius",
-      "Dufour Fernand",
-      "Clavel Alfred"
+  "Ville d'Yverdon": {
+    "Dentistes": [
+      "Savary Ernest",
+      "Sentenac C.-M.",
+      "Vaucher G.-E."
     ],
-    "Agriculteurs": [
-      "Brun Auguste",
-      "Curchod Alfred",
-      "Curchod Elie",
-      "Curchod Fernand",
-      "Curchod frères",
-      "Curchod Gaston",
-      "Curchod Jules",
-      "Curchod Ulysse",
-      "Curchod William",
-      "Crausaz Marius",
-      "Fiaux Eugène",
-      "Gindroz Aloïs",
-      "Gindroz Jules",
-      "Jaton Emile",
-      "Mösching François"
+    "Directeurs.": [
+      "Abattoirs : Cornu Alfred",
+      "Ateliers des CFF. : Guillemin Georges",
+      "Banque Piguet & Cie, Piguet Chs.",
+      "Collège : Haenny Pierre-Louis",
+      "Crédit Yverdonnois: Grandjean Ed.",
+      "Ecoles primaires: Bettex Aimé",
+      "Ecole professionnelle: Ellgass Georg.",
+      "Société suisse de vis et boulons, Mauler Henri",
+      "Chemin de fer d'Yverdon à Ste-Croix: Jeanneret Edmond",
+      "Journal d'Yverdon : Anex Jean",
+      "Piles Leclanché, S. A., Jayet Aloys",
+      "Police : Jordan Emile",
+      "Services Industriels : Moser Henri",
+      "Travaux publics : Fumey Léon",
+      "Vautier frères S. A. : Duvoisin Chs."
     ],
-    "Associations mutualistes de retraite": [
-      "Testaz O."
+    "Distillateurs-liquoristes.": [
+      "Distillerie agricole",
+      "Kern H.",
+      "Roulier François",
+      "Schneider Vve",
+      "Soc. pour l'utilisation des fruits"
     ],
-    "Aubergiste-Pension": [
-      "Santschy Eugène"
+    "Draperie.": [
+      "Bachelin Eugène",
+      "Gonset-Henrioud P., S. A.",
+      "Guggenheim Salomon",
+      "Les Fils Walther-Bloch, S. A.",
+      "Pahud-Richardet, Vve d'Hri.",
+      "Piolino Marie",
+      "Roth F.",
+      "Stepaneck Franz"
     ],
-    "Boulanger": [
-      "Desmeules Ernest"
+    "Drogueries.": [
+      "Addor Alfred",
+      "Cuérel Const.",
+      "Gander Georges",
+      "Grandjean Aimé"
     ],
-    "Cantonnier": [
-      "Curchod Robert"
+    "Eaux gazeuses.": [
+      "Favez Ernest",
+      "Merminod J.",
+      "Petitat Emile",
+      "Eaux minérales « Arkina », S. A."
     ],
-    "Charcutiers": [
-      "Curchod Gustave",
-      "Curchod William"
+    "Ecoles particulières.": [
+      "Cand, Mme sténo Duployé",
+      "Dubath Louise",
+      "Margot Henriette, Mlle"
     ],
-    "Commission scolaire": [
-      "Curchod Elie",
-      "Jaton Emile"
+    "Ecole professionnelle pr mécaniciens et mécaniciens-électriciens": [
+      "Demiéville Jean",
+      "Ellgass Georges",
+      "Bollinger Jacques",
+      "Michod Ch.",
+      "Pillard Constant",
+      "Rossier Jules"
     ],
-    "Cordonnier": [
-      "Clavel Gustave"
+    "Electricité.": [
+      "S. A. Leclanché",
+      "Société de l'usine électrique des Clées",
+      "Pilicier C.",
+      "Spaeth Louis",
+      "Verdan Edouard"
     ],
-    "Echalas (fabriques d')": [
-      "Curchod Alfred et Oscar",
-      "Dufour Fernand",
-      "Gindroz Jules et Aloïs"
+    "Engrais chimiques.": [
+      "Chevalley Henri",
+      "Dubath Charles",
+      "Dubath Frédéric",
+      "Decoppet Horace",
+      "Fornallaz Jean",
+      "Goy Marcel",
+      "Wutrich W."
     ],
-    "Epicerie, mercerie, cigares et tabacs": [
-      "Curchod William",
-      "Desmeules Ernest"
+    "Entrepreneurs.": [
+      "Barmaverain & Gabella",
+      "Beauverd & Bécherraz",
+      "Brunner & Décoppet",
+      "Grandguillaume Eug.",
+      "Mério Antoine",
+      "Michel Albert",
+      "Monti Aug., fils",
+      "Montorfano Angelo",
+      "Moriggia Primo",
+      "Perrin G.",
+      "Petitpierre Jean",
+      "Rigazzi frères",
+      "Soc. coop. du bâtiment"
     ],
-    "Fabrique de ruches": [
-      "Curchod Aloïs"
+    "Epices (en gros)": [
+      "Becholey Daniel"
     ],
-    "Forestier de triage": [
-      "Curchod Elie"
-    ],
-    "Instituteurs": [
-      "Testaz Octave",
-      "Jaccard Lisette"
-    ],
-    "Menuisier": [
-      "Delessert Emile"
-    ],
-    "Meunier": [
-      "Dufour Jules"
-    ],
-    "Pasteur": [
-      "Moreillon Richard"
-    ],
-    "Poste": [
-      "Delessert Robert"
-    ],
-    "Scieur": [
-      "Dufour Fernand"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "d'assurance bétail",
-      "Assurance vieillesse",
-      "Chœur d'hommes"
-    ],
-    "Tailleuses": [
-      "Curchod Blanche",
-      "Curchod Rose",
-      "Curchod Rosine",
-      "Dufour Alice"
-    ],
-    "Téléphoniste": [
-      "Santschy Eugène"
-    ]
-  },
-  "ECLAGNENS": {
-    "Autorités communales": [
-      "Bezençon Georges",
-      "Roulin Emile",
-      "Bezençon Benjamin",
-      "Mermoud Rob.",
-      "Bezençon Frs",
-      "Pahud Ulysse",
-      "Mermoud Robert",
-      "Bataillard Alfred"
-    ],
-    "Agriculteurs": [
-      "Bataillard Alfred",
-      "Bezençon Benjamin",
-      "Bezençon Frédéric",
-      "Bezençon François",
-      "Bezençon Georges",
-      "Bezençon Gustave",
-      "Bezençon Robert",
-      "Bezençon Vincent",
-      "Cavin Arthur",
-      "Genet frères",
-      "Laedermann Marie",
-      "Mermoud Robert",
-      "Pahud Ulysse",
-      "Roulin Emile",
-      "Roulin Henri"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Bezençon-Bonzon E."
-    ],
-    "Commission scolaire": [
-      "Mermoud Robert",
-      "Béranger Paul",
-      "Bezençon Benjamin"
-    ],
-    "Epicerie, mercerie": [
-      "Pahud Ulysse"
-    ],
-    "Inspecteur du bétail": [
-      "Pahud Ulysse"
-    ],
-    "Institutrice": [
-      "Bezençon-Bonzon Eva"
-    ],
-    "Mécanicien": [
-      "Bezençon Vincent"
-    ],
-    "Meunier": [
-      "Roulin Emile"
-    ],
-    "Pension": [
-      "Bezençon Frédéric"
-    ],
-    "Peseur": [
-      "Pahud Ulysse"
-    ],
-    "Scierie": [
-      "Roulin Emile"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "du battoir à grain"
-    ],
-    "Tailleuse": [
-      "Bataillard Alice"
-    ],
-    "Téléphone": [
-      "Bezençon Frédéric"
-    ]
-  },
-  "ESSERTINES-SUR-YVERDON": {
-    "Autorités communales": [
-      "Ducret Jean",
-      "Gonin Julien",
-      "Ducret Charles",
-      "Gonin Edmond",
-      "Perret Emile",
-      "Perret Alfred",
-      "Gonin Elie",
-      "Gonin Edouard",
-      "Auberson Marcel",
-      "Gonin Fernand",
-      "Schneider André"
-    ],
-    "Agriculteurs": [
-      "Auberson Alexis",
-      "Auberson Julien et Eugène",
-      "Barraud-Degiez Auguste",
-      "Chevalley Ele",
-      "Ducret Héli",
-      "Ducret Jean",
-      "Gonin Adolp.",
-      "Gonin Auguste",
-      "Gonin Elie",
-      "Gonin Elisée",
-      "Gonin Gustave",
-      "Gonin"
+    "Epiceries.": [
+      "Aeschlimann-Ray E.",
+      "Angyal Georgette, Vve",
+      "Auberson, dame",
+      "Bettex Emile",
+      "Chapuis Louise",
+      "Cherpillod Louis",
+      "Chevalley Jenny",
+      "Cochet Jules",
+      "Colomb Clara",
+      "Cuérel Constant"
     ]
   }
 }

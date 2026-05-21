@@ -1,125 +1,217 @@
 {
-  "Ville de Payerne": {
-    "Instituteurs secondaires.": [
-      "Ney Frédéric",
-      "Barbey Adrien",
-      "Baume Paul",
-      "Burmeister Albert",
-      "Canivez Georges",
-      "Gingins Ernest",
-      "Jaques Camille",
-      "Perrochon H.",
-      "Rossier Henri",
-      "Wahlen Blanche"
+  "LUCENS": {
+    "Tailleuses": [
+      "Bunter dame",
+      "Comte-Michaud E.",
+      "Montangero, dame",
+      "Pochon, dame",
+      "Reymond Blanche",
+      "Rossier M."
     ],
-    "Instruments de musique.": [
-      "Ischy-Savary Ls.",
-      "Rufli & Vonnez"
+    "Tapissiers": [
+      "Corthésy A.",
+      "Jaquier Héli"
     ],
-    "Journaux.": [
-      "« Le Démocrate »",
-      "Beaufils Albert",
-      "Journal de Payerne",
-      "Tenthorey frères",
-      "Imprimerie Commerciale"
+    "Teinturerie": [
+      "Lezian J."
     ],
-    "Justice de paix.": [
-      "Vonnez Henri",
-      "Addor Paul",
-      "De Dompierre Victor",
-      "Pages Constant",
-      "Savary Edouard",
-      "Tappy Eugène"
+    "Télégraphiste": [
+      "Gaillard, Vve. T."
     ],
-    "Lait condensé.": [
-      "Société Nestlé and Anglo-Swiss Condensed Milk Co"
+    "Toilerie, tissus": [
+      "Meyer F. R.",
+      "Pavarin-Pilet. R.",
+      "Potterat-Favre Emilie. R.",
+      "Société coopérative de consommation"
     ],
-    "Laitiers.": [
-      "Auberson H.",
-      "Bächler Ernest",
-      "Husson-Rapin Henri",
-      "Jaggi Robert",
-      "Meylan Arnold",
-      "Morgenegg Fritz",
-      "Otz, Veuve.",
-      "Penseyres Oscar",
-      "Perrin Ed.",
-      "Rapin Albert",
-      "Rossier-Perrin Marius"
+    "Vélos": [
+      "Pahud Arnold. RT.",
+      "Savoye Ernest. RT."
     ],
-    "Librairies.": [
-      "Husson Jules",
-      "Jomini Louis",
-      "Kiosque de la Gare",
-      "Savry-Battaini Elise",
-      "Vuilleumier P.-A."
+    "Voiturier": [
+      "Schneider Robert"
     ],
-    "Lingères.": [
-      "Cherbuin-Dondin Jeanne",
-      "Crisinel-Husson Marguerite",
-      "Dondin-Rutsché Bertha",
-      "Kupfer-Ney, dame."
+    "Volailles": [
+      "Buzzi-Parisod. RT.",
+      "Clot-Morandi Emilie"
     ],
-    "Lingerie.": [
-      "Aux Galeries Vaudoises",
-      "Bladt P.",
-      "Assal Louise"
+    "Divers": [
+      "Cornaz",
+      "Gloor Emile",
+      "Jornod Elie, père",
+      "Tanner Jean, père"
+    ]
+  },
+  "MARTHERENGES": {
+    "Autorités communales": [
+      "Monachon Alexis",
+      "Bigler Jean",
+      "Monachon Eugène. T.",
+      "Bigler Charles",
+      "Pasche Jules",
+      "Monachon Alexis",
+      "Monachon René"
     ],
-    "Liqueurs (négociants en).": [
-      "Caves réunies, S. A.",
-      "Decorges Eugène",
-      "Niggeler-Plumettaz Arnold"
+    "Agriculteurs": [
+      "Bigler Emile",
+      "Bigler Jean",
+      "Cavin Louis",
+      "Crisinel Jules",
+      "Monachon Eugène. T.",
+      "Monachon Ls. T.",
+      "Monachon Oscar",
+      "Monachon René",
+      "Pasche Jules"
     ],
-    "Lithographes.": [
-      "Tenthorey frères."
+    "Apiculteur": [
+      "Bigler Charles. T."
     ],
-    "Machines à coudre.": [
-      "Dresco & Cie.",
-      "Gunzburger & Meyer.",
-      "Ischy-Savary Ls. Colombe.",
-      "Ischy Paul.",
-      "Rossier-Pahud H."
+    "Cantonnier": [
+      "Monachon Ulysse"
     ],
-    "Machines agricoles.": [
-      "Favre & Cie (S.A.)",
-      "Girardin-Muller E.",
-      "Liechti Albert",
-      "Rapin Octave",
-      "Rapin-Hubler Louis",
-      "Zuberbuhler Jean"
+    "Commission scolaire": [
+      "Monachon Oscar",
+      "Monachon René",
+      "Trolliet Ernest"
     ],
-    "Marbriers.": [
-      "Banderet Arthur",
-      "Mieli Aldo"
+    "Inspecteur du bétail": [
+      "Pasche Jules"
     ],
-    "Maréchaux.": [
-      "Leu Fritz",
-      "Pauchon A.",
-      "Schwanniger Martin, hoirie."
+    "Institutrice": [
+      "Nicollier Marguerite"
     ],
-    "Masseur.": [
-      "Plancherel Paul"
+    "Epicerie-Mercerie": [
+      "Mme Nancy Perey"
     ],
-    "Matériaux de construction.": [
-      "Rapin Jules",
-      "Zbinden frères"
+    "Société": [
+      "de la fromagerie. R."
     ],
-    "Mécaniciens.": [
-      "Blondel Adolphe",
-      "Fontannaz Ph.",
-      "Fuchs Robert & fils",
-      "Glauser A.",
-      "Guérig F.",
-      "Ischy Paul",
-      "Maffiolini Jean",
-      "Magnenat-Caille Emile",
-      "Michel Emile fils."
+    "Téléphone": [
+      "Crisinel frères"
+    ]
+  },
+  "MONTAUBION-CHARDONNEY": {
+    "Autorités communales": [
+      "Tissot Henri",
+      "Gavillet Gustave",
+      "Jaccaud Louis",
+      "Joss Alfred",
+      "Jaton Robert",
+      "Braillard Lucien",
+      "Spycher Jean",
+      "Tissot Ernest"
     ],
-    "Médecins.": [
-      "Lincio R.",
-      "Monard Edouard",
-      "Perrin Benjamin",
-      "Rossier F."
+    "Agriculteurs": [
+      "Gavillet hoirie",
+      "Jaccaud frères",
+      "Jaccaud Louis",
+      "Joss Alfred",
+      "Tissot Ernest",
+      "Tissot Robert"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Logoz S., Mme"
+    ],
+    "Charpentier": [
+      "Dufour Charles"
+    ],
+    "Commission scolaire": [
+      "Jaccaud Ls"
+    ],
+    "Inspecteur du bétail": [
+      "Dufour Ed."
+    ],
+    "Institutrice": [
+      "Logoz-Crausaz, Susanne"
+    ],
+    "Meunier": [
+      "Dufour Jules"
+    ],
+    "Société": [
+      "de fromagerie. R."
+    ],
+    "Téléphoniste": [
+      "Tissot Henri"
+    ]
+  },
+  "NEYRUZ": {
+    "Autorités communales": [
+      "Porchet Jules",
+      "Martin Paul",
+      "Dutoit Adrien",
+      "Martin Ami",
+      "Dutoit Henri",
+      "Gavin Aimé",
+      "Noverraz Jules",
+      "Lagnaz Charles",
+      "Jaton Alfred",
+      "Dutoit Louis",
+      "Jaton Eugène",
+      "Baudin Emile"
+    ],
+    "Agriculteurs": [
+      "Bonin Auguste-Marcel",
+      "Chevalley Emile",
+      "Chevalley frères",
+      "Dutoit Charles",
+      "Dutoit Henri",
+      "Dutoit Louis",
+      "Freymond hoirie",
+      "Gavin Aimé",
+      "Guignet Constant",
+      "Jaton Ernest",
+      "Jaton Eugène",
+      "Lagnaz Adrien",
+      "Martin Ami",
+      "Martin Ulysse",
+      "Noverraz Jules",
+      "Pidoux Jules",
+      "Pochon Adamir",
+      "Porchet Jules",
+      "Rosset Alfred",
+      "Rosset Nancy, Vve",
+      "Spycher Ernest"
+    ],
+    "Aubergistes": [
+      "Fivaz Robert",
+      "Croix Fédérale. R.",
+      "Pochon Adamir"
+    ],
+    "Charron": [
+      "Lagnaz Charles"
+    ],
+    "Commission scolaire": [
+      "Jaton Eugène",
+      "Martin Ami",
+      "Dutoit Henri"
+    ],
+    "Cordonnier": [
+      "Bécherraz Béat"
+    ],
+    "Epicerie": [
+      "Baudin Emile",
+      "Freymond Eugénie"
+    ],
+    "Inspecteur du bétail": [
+      "Gavin Aimé"
+    ],
+    "Instituteurs": [
+      "Mavor Alfred",
+      "Porchet Marie"
+    ],
+    "Maréchal": [
+      "Martin Eugène"
+    ],
+    "Poste": [
+      "Gavin Hélène"
+    ],
+    "Sociétés": [
+      "de fromagerie. R.",
+      "Syndicat d'élevage. R.",
+      "de tir"
+    ],
+    "Téléphoniste": [
+      "Fivaz Robert"
     ]
   }
 }

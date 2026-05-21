@@ -1,245 +1,219 @@
 {
-  "COPPET": {
-    "Cordes et ficelles": [
-      "Salomon Rodolphe"
+  "LES CHARBONNIÈRES": {
+    "Gare (chef de halte)": [
+      "Rochat Justin"
     ],
-    "Cordonniers": [
-      "Gilliéron Albert",
-      "Hauswirth Pierre",
-      "Massotto",
-      "Poitry Auguste"
+    "Garde-forestier": [
+      "Rochat James"
     ],
-    "Couvreur": [
-      "Antonietti Laurent"
+    "Gypsier-peintre": [
+      "Paltani Jean"
     ],
-    "Eaux gazeuses": [
-      "Baierlé Marc"
+    "Hôtels": [
+      "Page André",
+      "Rochat Numa"
     ],
-    "Ecole ménagère": [
-      "Rittmeyer D."
-    ],
-    "Ecole nouvelle": [
-      "Schwartz E."
-    ],
-    "Electriciens": [
-      "Gaudin Louis",
-      "Kiener A."
-    ],
-    "Entrepreneurs": [
-      "Antonietti Humbert",
-      "Battistolo Tranquille",
-      "Bertoncini Francis",
-      "Décorvet Albert"
-    ],
-    "Epicerie, mercerie, tabacs": [
-      "Bertoncini Charle",
-      "Dutoit Anna",
-      "Meylan Ad."
-    ],
-    "Ferblantiers": [
-      "Antonietti Isaline",
-      "Hipp A."
-    ],
-    "Fers et quincaillerie": [
-      "Girardet Ch."
-    ],
-    "Fromage et beurre": [
-      "Pfenninger Ele.",
-      "Laiteries réunies de Genève"
-    ],
-    "Garage": [
-      "Gaudin frères"
-    ],
-    "Graines potagères et fleurs": [
-      "Dutoit Veuve",
-      "Meylan Adrien"
-    ],
-    "Gypsiers-peintres": [
-      "Antonietti Humbert",
-      "Battistolo Tranquille",
-      "Bertoncini Francis",
-      "Décorvet Albert"
-    ],
-    "Inspecteur du bétail": [
-      "Mottier Ami"
+    "Inspecteur des montagnes": [
+      "Rochat Jules-Jérémie"
     ],
     "Instituteurs": [
-      "Roulet Camille",
-      "Bouffard Marianne"
+      "Guignard Victor",
+      "Piguet Henriette"
     ],
-    "Jardinier": [
-      "Pouly Jules"
-    ],
-    "Justice de paix": [
-      "Collioud Marc",
-      "Baierlé Ele.",
-      "Vulliëz Henri",
-      "Nerfin Constant",
-      "Claris Charles",
-      "Mayor Henri"
-    ],
-    "Journal": [
-      "Feuille d'Avis de Coppet",
-      "Cherix, Ed."
-    ],
-    "Laitier": [
-      "Martin Julien"
-    ],
-    "Lingerie": [
-      "Mercier Blanche"
+    "Laitiers": [
+      "Rochat Jules",
+      "Société de laiterie"
     ],
     "Maréchal": [
-      "Steiner Frédéric"
+      "Meyer Walther"
     ],
-    "Mécaniciens": [
-      "Gaudin Louis",
-      "Ronc Joseph"
+    "Menuisiers": [
+      "Fahler Charles",
+      "Périllard Alfred et Louis"
     ],
-    "Médecin": [
-      "Mercier Edmond"
+    "Pêcheurs": [
+      "Rochat Adrien",
+      "Rochat Charles",
+      "Rochat Emile",
+      "Rochat Eugène",
+      "Rochat Jules-Isaac",
+      "Rochat Louis de Léon",
+      "Rochat Valéry"
     ],
-    "Menuisier-ébéniste": [
-      "Favre Henri"
+    "Pension": [
+      "Golay John"
     ],
-    "Modistes": [
-      "Vulliemin"
-    ],
-    "Notaire": [
-      "Mayor Henri"
-    ],
-    "Officier d'état-civil": [
-      "Mayor Henri"
-    ],
-    "Pasteur": [
-      "Gindraux J.-A."
-    ],
-    "Primeurs": [
-      "Hauswirth Louise"
-    ],
-    "Rentiers": [
-      "Hoirs d'Haussonville"
-    ],
-    "Régisseur": [
-      "Collioud Marc"
-    ],
-    "Serrurier": [
-      "Girardet Ch."
-    ],
-    "Scierie": [
-      "Michard Jean-Louis"
+    "Sage-femme": [
+      "Rochat-Roulet Augustine"
     ],
     "Sociétés": [
-      "De fromagerie",
-      "Française de secours",
-      "Section de la Croix-Bleue"
+      "de laiterie. R.",
+      "Tir aux armes de guerre. R.",
+      "Chorales < Les Amis du Cercle du Pont > et < l'Echo du Risoud >",
+      "de gymnastique",
+      "Syndicat agricole. R.",
+      "Rochat James",
+      "Rochat Ch.-Ls"
     ],
-    "Tailleur": [
-      "Bel François"
+    "Tailleuse": [
+      "Golay Hortense"
     ],
-    "Tapissiers-matelassiers": [
-      "Favrichon Alfred",
-      "Meylan Jules"
+    "Téléphoniste": [
+      "Rochat, Vve de Samuel"
     ],
-    "Télégraphe et téléphone": [
-      "Bertoncini Rosine"
+    "Vacherins (march. de)": [
+      "Candaux-Golay",
+      "Golay John & Cie",
+      "Rochat-Morro Camille",
+      "Rochat, les fils de Jules-M.",
+      "Rochat Wilfrid. fils",
+      "Rochat Jules"
     ],
-    "Vélos, autos": [
-      "Ronc Joseph"
-    ],
-    "Vigneron": [
-      "Duverney Marie"
-    ],
-    "Vinaigre (fab. de)": [
-      "Baierlé Ele."
-    ],
-    "Vins": [
-      "Baierlé Emile",
-      "Pfenninger Emile"
+    "Vins (march. de)": [
+      "Golay John",
+      "Rochat Alphonse fils"
     ],
     "Voituriers": [
-      "Mottier Ami",
-      "Odelet Jules"
+      "Golay Albert",
+      "Rochat Charles",
+      "Rochat Jules-Louis",
+      "Rochat Robert",
+      "Rochat Marius"
     ],
-    "Divers": [
-      "Bory Robert",
-      "Cordès A.",
-      "Mme",
-      "Marnex",
-      "Fischer Fritz",
-      "Jaccard E. A.",
-      "Kitatbgli Klian V.P.",
-      "Krafft Charles",
-      "Béguin François",
-      "de Jong van Beek en Donk L.",
-      "Mme",
-      "Matthez J.",
-      "Gaudin T.",
-      "de Rio-Branco",
-      "baron",
-      "Schwartz-Buys E."
+    "Volailles, poissons et primeurs": [
+      "Rochat-Perret Eugène",
+      "Ziörjen Frédéric"
+    ],
+    "Contre-pivots": [
+      "Golay Alfr.",
+      "Lugrin-Rochat Léon & fils",
+      "Rochat Albin",
+      "Rochat Ch.-Ls fils",
+      "Rochat frères",
+      "Rochat Victor"
+    ],
+    "Découpages": [
+      "Rochat Albin",
+      "Rochat Wilfrid"
+    ],
+    "Ecuelles et tenons": [
+      "Golay Alfred",
+      "Rochat Charles-Louis, fils"
+    ],
+    "Fournitures": [
+      "Golay-Rochat Alfred",
+      "Lugrin-Rochat Léon & fils",
+      "Rochat Ch.-Louis, fils"
+    ],
+    "Pierriste": [
+      "Humberset C."
+    ],
+    "Scierie": [
+      "Rochat Jules-Louis"
+    ],
+    "Sertissages": [
+      "Golay Alfred",
+      "Lugrin-Rochat Léon & fils",
+      "Rochat frères",
+      "Rochat Ch.-Louis, fils",
+      "Rochat Albin",
+      "Rochat Camille",
+      "Rochat Hector-Albert",
+      "Rochat Jules-Isaac"
     ]
   },
-  "CRANS": {
-    "Autorités communales": [
-      "Pelichet Ulysse",
-      "Lecoultre Charles",
-      "Vulliëz Henri",
-      "Zumstein Jules",
-      "Guillet Daniel",
-      "Guignard John",
-      "Charrotton Ernest",
-      "Guillet Georges",
-      "Mange Ernest"
+  "Le Séchey": {
+    "Président du Conseil général": [
+      "Dépraz William"
     ],
-    "Agence agricole": [
-      "Broccard Vve."
+    "Secrétaire": [
+      "Buffat Alb.",
+      "Villard Fernand"
+    ],
+    "Président du hameau": [
+      "Meylan Henri"
+    ],
+    "Boursier": [
+      "Nicole Alfred"
     ],
     "Agriculteurs": [
-      "Charrotton Henri",
-      "Crottaz Lucien",
-      "Cretegny Louis",
-      "Desmeules Louis",
-      "Eschler Théophile",
-      "Favre Alexis",
-      "Gay Emile",
-      "Guignard Jules",
-      "Guillet Dan.",
-      "Junker Gottfried",
-      "Kilchherr Alfred",
-      "Lecoultre Juste",
-      "Liardon Marius",
-      "Pelichet Ulysse",
-      "Sinner Charles",
-      "Vulliëz Ami",
-      "Vulliëz Henri"
+      "Dépraz Emile",
+      "Dépraz Elie",
+      "Dépraz Henri",
+      "Dépraz William",
+      "Golay Irmin",
+      "Lugrin frères",
+      "Meylan Eugène",
+      "Meylan Henri",
+      "Nicole Marcel",
+      "Villard Arthur"
     ],
-    "Aubergistes": [
-      "Brocard Vve.",
-      "Gagnaux Charles"
+    "Amodiateurs": [
+      "Dépraz William",
+      "Lugrin frères",
+      "Nicole Marcel"
     ],
-    "Mutualité scolaire de retraite": [
-      "Brocard A."
+    "Associations mutualistes de retraite": [
+      "Capt D."
     ],
-    "Battoir à blé": [
-      "Cretegny Louis"
+    "Buraliste postal et facteur": [
+      "Nicole Alfred"
     ],
-    "Boulanger": [
-      "Hauselmann Louis"
+    "Cafetier": [
+      "Viquerat Germain"
     ],
-    "Charron": [
-      "Zumstein Jules"
+    "Chef de gare": [
+      "Golay Laurent"
     ],
-    "Commerce de fromage": [
-      "Laiteries réunies"
+    "Combustibles": [
+      "Meylan Jean"
     ],
     "Commission scolaire": [
-      "Lecoultre Chs",
-      "Mange Ernest",
-      "Vulliëz Marie",
-      "Mme"
+      "Meylan Henri"
     ],
-    "Cordonnier": [
-      "Chuat Georges"
+    "Epicerie, mercerie, tabacs": [
+      "Dépraz Elie",
+      "Meylan Camille"
+    ],
+    "Forestiers": [
+      "Meylan Eugène",
+      "Meylan Henri"
+    ],
+    "Fromageurs": [
+      "Dépraz Valéry",
+      "Golay Arnold",
+      "Meylan Albert"
+    ],
+    "Garde-police": [
+      "Grandchamp François"
+    ],
+    "Horlogerie": [
+      "Meylan Jean"
+    ],
+    "Inspecteur du bétail": [
+      "Dépraz William"
+    ],
+    "Instituteurs": [
+      "Capt Daniel",
+      "Buffat Elise"
+    ],
+    "Miel": [
+      "Dépraz-Rochat Emile"
+    ],
+    "Téléphoniste": [
+      "Viquerat Germain"
+    ],
+    "Vacherins": [
+      "Dépraz Valéry",
+      "Dépraz William",
+      "Lugrin-Cart, hoirie",
+      "Lugrin Hermann"
+    ],
+    "Vins (md de)": [
+      "Lugrin-Cart, Vve"
+    ],
+    "Divers": [
+      "Aubert Ed. & Cie"
     ]
   }
 }

@@ -1,95 +1,227 @@
 {
-  "Ville de Vevey": {
+  "ORMONT-DESSOUS": {
+    "Cordonniers": [
+      "Berger Emile",
+      "Cavin Constant",
+      "Roux Ernest"
+    ],
+    "Entrepreneurs": [
+      "Delmonico Jules",
+      "Valle Joseph"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Bovard Alphonse",
+      "Corboz Jules",
+      "Fame & Cie.",
+      "Jan Fréd. & Cie."
+    ],
+    "Etoffes": [
+      "Bussy sœurs",
+      "Corboz Jules",
+      "Fame & Cie.",
+      "Grandchamp Emile"
+    ],
+    "Facteurs": [
+      "Jan Julien",
+      "Pasche Victor"
+    ],
+    "Ferblantier": [
+      "Mayor Fritz"
+    ],
+    "Fers et quincaillerie": [
+      "Bach Frédéric",
+      "Jan Fréd. & Cie.",
+      "Mayor Fritz"
+    ],
+    "Géomètre officiel": [
+      "Kissling Henri"
+    ],
+    "Gypsiers": [
+      "Valle frères"
+    ],
     "Horlogerie": [
-      "Dubois Edm.",
-      "Gascard Arthur",
-      "Gentil V.",
-      "Godat Charles",
-      "Guignard Henri fils",
-      "Imhof Edouard",
-      "Juvet H. & E.",
-      "Matthey Ch.-Alf.",
-      "Mersmann B.",
-      "Seiler Auguste, fils",
-      "Wirz-Méroz Ls.",
-      "Wuilleumier E."
+      "Châtelain Paul",
+      "Favre Jules"
     ],
-    "Hôtels et pensions": [
-      "Gr. Hôtel de Vevey et Palace",
-      "Hôtel des Trois Couronnes",
-      "Grand Hôtel du Mont Pèlerin (S. A.)",
-      "Grand Hôtel du Lac",
-      "Hôtel d'Angleterre",
-      "Hôtel des Alpes",
-      "Hôtel Beau-Séjour",
-      "Hôtel-pension des Alpes",
-      "Hôtel-pension du Château",
-      "Hôtel-pension Comte",
-      "Hôtel-Pension de famille, S. A.",
-      "Hôtel de la Paix",
-      "Hôtel des Trois-Rois",
-      "Hôtel Tempérance",
-      "Hôtel-Pension du Léman",
-      "Hôtel Touring et Gare",
-      "Hôtel Suisse",
-      "Hôtel-pension Nuss",
-      "Park Hôtel Moser",
-      "Pélerin-Palace Hôtel (S. A.)",
-      "Pension Germond",
-      "Pension Ryffel"
+    "Horticulteur": [
+      "Kisling Robert"
     ],
-    "Hygiène de la chevelure (spécialité p.)": [
-      "Hunziker-Pasche Adolphe"
-    ],
-    "Imprimeurs": [
-      "Cuendet Emile",
-      "Gerber & Daengeli",
-      "Jayet & Diebold",
-      "Säuberlin & Pfeiffer (S.A.)",
-      "Société de l'imprimerie et lithographie Klausfelder",
-      "Zahnd Marcel",
-      "Zwahlen L. fils"
-    ],
-    "Ingénieurs": [
-      "Ansermet A.",
-      "Besuchet",
-      "Brack-Hürlimann H.",
-      "Clavel Ant.",
-      "Demierre Henri",
-      "Dommer Aug.",
-      "Gardiol M.",
-      "Herter C.",
-      "Nicole P.",
-      "Panchaud Charles",
-      "Pfeiffer Paul",
-      "Tobler Werner",
-      "Vez Emilien",
-      "van Muyden Ed."
+    "Huissier du tribunal": [
+      "Jan Henri"
     ],
     "Inspecteur du bétail": [
-      "Dufey Louis"
+      "Clerc Etienne"
     ],
-    "Installations sanitaires": [
-      "Desclouds Alfred",
-      "Desclouds Ch.",
-      "Eultgen-Gasser H.",
-      "Jeanrenaud G.",
-      "Werner & Margot",
-      "Wirz Fritz",
-      "Wirz-Baumann Jules"
+    "Instituteurs": [
+      "Hoffer Henri",
+      "Stoudmann Jules",
+      "Cand Gertrude",
+      "Martinet Germaine"
     ],
-    "Instituteurs primaires": [
-      "Bérard Maurice",
-      "Chabloz Fernand",
-      "Cornuz Jean",
-      "Cruchon Adrien",
-      "Dind Emile",
-      "Fritsché René",
-      "Grec Charles",
-      "Goy Victor",
-      "Hurlimann Marcel",
-      "Koch Charles",
-      "Lude Alfred"
+    "Justice de paix": [
+      "Dufey Henri",
+      "Corboz Alexis",
+      "Chollet Emile",
+      "George Louis",
+      "Rittener Eugène",
+      "Gilliéron Edouard",
+      "Jan Henri"
+    ],
+    "Laitier": [
+      "Hofmann Alfred"
+    ],
+    "Lingères": [
+      "Bussy sœurs",
+      "Grandchamp Elise",
+      "Stettler Emma"
+    ],
+    "Maréchaux": [
+      "Félix U.",
+      "Waridel Jules"
+    ],
+    "Matériaux de construction": [
+      "Valle Joseph"
+    ],
+    "Médecin": [
+      "Menthonnex Pierre"
+    ],
+    "Menuisiers": [
+      "Pahud Charles",
+      "Pasche Edouard",
+      "Stettler Louis"
+    ],
+    "Meuniers": [
+      "Doges Paul",
+      "Moulin agricole (société)"
+    ],
+    "Modiste": [
+      "Berger-Mellet Marie"
+    ],
+    "Notaires": [
+      "Gilliéron Edouard",
+      "Gilliéron William-Sam"
+    ],
+    "Officier d'état civil": [
+      "Jan Frédéric"
+    ],
+    "Organistes": [
+      "Mme Schutz",
+      "Jaquet Robert"
+    ],
+    "Pasteurs": [
+      "Schutz Charles",
+      "Vodoz Alex"
+    ],
+    "Peintres (artistes)": [
+      "Pasche Théodore",
+      "Pasche-Battié"
+    ],
+    "Peintre en voitures": [
+      "Jan H."
+    ],
+    "Pharmacien": [
+      "Martinet Edm."
+    ],
+    "Ramoneur-poêlier": [
+      "Studer Alexandre"
+    ],
+    "Renseignements commerciaux": [
+      "Cavin Alfred",
+      "Gilliéron W. et E.",
+      "Gaillard Gustave"
+    ],
+    "Sage-femme": [
+      "Pasche Marguerite"
+    ],
+    "Scieries": [
+      "Cavin Alfred",
+      "Doges Paul"
+    ],
+    "Selliers-tapissiers": [
+      "Leresche Henri",
+      "Rutishauser Walther"
+    ],
+    "Sociétés": [
+      "Immobilière de la salle de concerts et conférences",
+      "Immobilière de la Concorde",
+      "de laiterie",
+      "Fanfare",
+      "Chorale",
+      "Gymnastique",
+      "Militaire des Amis de la Montagne",
+      "des fusiliers des paroisses d'Oron et de Palézieux",
+      "Section de la Croix-Bleue",
+      "Les Premières Cartouches",
+      "Tir aux Armes de Guerre",
+      "Unions chrétiennes de jeunes gens et jeunes filles",
+      "l'Espoir",
+      "Club montagnard"
+    ],
+    "Tailleur": [
+      "Grandchamp Emile"
+    ],
+    "Tanneur": [
+      "Schlegel, hoirie"
+    ],
+    "Téléphone public": [
+      "Bureau central"
+    ],
+    "Vélos": [
+      "Jan Julien",
+      "Rod William"
+    ],
+    "Vétérinaire": [
+      "Boudry Alexis"
+    ]
+  },
+  "BUSSIGNY-SUR-ORON": {
+    "Autorités communales": [
+      "Stuby Alexis",
+      "Rothen Fritz",
+      "Cardinaux Charles",
+      "Rothen Fritz",
+      "Stuby Jules",
+      "Cardinaux Robert",
+      "Pfister Alfred"
+    ],
+    "Agriculteurs": [
+      "Budry Ami",
+      "Cardinaux Ch.",
+      "Chollet Henri",
+      "Matti Théophile",
+      "Jan-Stuby Rachel",
+      "Pfister Alfred",
+      "Stuby, hoirie de Charles",
+      "Rothen Laurence",
+      "Stuby Jules",
+      "Stuby Théophile",
+      "Cardinaux Charles"
+    ],
+    "Apiculteur": [
+      "Cardinaux Charles"
+    ],
+    "Mutualité scolaire de retraite de Bussigny et Chesalles": [
+      "Pilet L.."
+    ],
+    "Inspecteur du bétail": [
+      "Stuby Jules"
+    ],
+    "Rentière": [
+      "Stuby-Morel Cécile"
+    ]
+  },
+  "CARROUGE": {
+    "Autorités communales": [
+      "Nicolas Héli",
+      "Jordan Alfred",
+      "Jordan Constant",
+      "Roud Gustave",
+      "Jordan Lucien",
+      "Dubois Ernest",
+      "Desmeules Constant",
+      "Gindroz Jules",
+      "Chapuis Edmond",
+      "Jordan-Durussel Philippe"
     ]
   }
 }

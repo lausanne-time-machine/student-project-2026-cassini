@@ -1,199 +1,155 @@
 {
-  "LES BIOUX": {
+  "OLLON": {
+    "Jardiniers": [
+      "Allamand, Vve",
+      "Gonin Alfred",
+      "Schalpach Maurice"
+    ],
+    "Laitier": [
+      "Geiser"
+    ],
+    "Maçon": [
+      "Rossi Pascal"
+    ],
+    "Maréchal": [
+      "Mösching Albert"
+    ],
+    "Pasteur": [
+      "Genton William. T."
+    ],
+    "Pension": [
+      "Pension des Alpes",
+      "Breitenbach R. T."
+    ],
     "Sociétés": [
-      "de fromagerie de l'Abbaye. R.",
-      "Section de la Croix-Bleue",
-      "de gymnastique",
-      "Auto transport (A. V. J.)",
-      "de fromagerie du Bas des Bioux. R.",
-      "de fromagerie",
-      "Chorale.",
-      "de gymnastique",
-      "d'orchestre",
-      "Syndicat agricole. R.",
-      "Tir de campagne. R.",
-      "Les Grenadiers (société de tir). R."
+      "Société du Battoir agric. R.",
+      "Société laitière. R."
     ],
-    "Téléphone communal": [
-      "Hôtel de Ville",
-      "Berney Charles",
-      "Rochat Charles",
-      "Berney Paul"
+    "Téléphoniste et télégraphiste": [
+      "Reymond"
     ],
-    "Voituriers": [
-      "S. A. Berney Louis-Ami",
-      "Berney-Clerget Ami",
-      "Clerget Henri",
-      "Golay Alfred",
-      "Rochat Alfred",
-      "Rochat Léopold",
-      "Berney David",
-      "Berney Marcel",
-      "Capt Emile",
-      "Rochat André",
-      "Rochat Paul-Henri"
+    "Syndic": [
+      "Demartin Charles"
     ],
-    "Autorités communales": [
-      "Berney Charles",
-      "Guignard Samuel",
-      "Berney Marcel",
-      "Berney David",
-      "Berney William",
-      "Reymond Firmin",
-      "Rochat Jean-Fs",
-      "Berney Charles"
+    "Municipaux": [
+      "Bercier Henri",
+      "Curchod Edmond",
+      "Pittier Ernest",
+      "Dulex Ernest",
+      "Moret Alexis",
+      "Durand-Turel F."
     ],
-    "Ameublements": [
-      "Golay-Meylan Hri"
+    "Secrét.": [
+      "Ambresin Adolphe"
+    ],
+    "Boursier": [
+      "Mérinat Albert"
+    ],
+    "Gardes de triage": [
+      "Cropt Eug.",
+      "Moesching C."
+    ],
+    "Huissier de paix et 1er agent de police": [
+      "Bouchet Edouard"
+    ],
+    "Affichage": [
+      "Société générale d'affichage"
+    ],
+    "Agent d'affaires patenté": [
+      "Viquerat A."
     ],
     "Agriculteurs": [
-      "Aubert John",
-      "Aubert Juste",
-      "Aubert Marc-Aug.",
-      "Aubert Paul",
-      "Berney Ch.",
-      "Berney David",
-      "Berney Pl-Julien",
-      "Berney Ls-Frs",
-      "Berney Eugène",
-      "Berney William",
-      "Guignard, hoirs de Js.",
-      "Reymond Chs-Hri",
-      "Reymond Jean-Frs.",
-      "Reymond Jean-Dan.",
-      "Reymond Ls",
-      "Reymond Samuel, hoirs",
-      "Rochat Elie",
-      "Rochat Florian",
-      "Rochat Jules-Ami",
-      "Rochat Louis-Ami",
-      "Rochat Marius",
-      "Rochat Louis de David",
-      "Rochat-Guignard François, hoirs",
-      "Rochat Léon"
+      "Aepli Alfred",
+      "Ambresin Ad.",
+      "Ambresin Albert",
+      "Amiguet Samuel",
+      "Baudy Louis",
+      "Bron Alexis",
+      "Brunner G. T.",
+      "Chambovey Alexis",
+      "Chamorel Alfred",
+      "Demartin Charles",
+      "Durand Gabriel",
+      "Durand-Turel F.",
+      "Greyloz Alb.",
+      "Greyloz Ls",
+      "Guex-Ruchet Louis",
+      "Hählen Samuel",
+      "Moret-Jouvenat",
+      "Moret-Vurlod Henri",
+      "Olloz Henri",
+      "Perrier Jean-Francis-Aloïs",
+      "Pousaz Aloïs",
+      "Pousaz Gustave",
+      "Rossy Louis",
+      "Ruchet Benjamin",
+      "Ruchet Louis",
+      "Turel Henri"
     ],
-    "Amodiateurs de montagnes": [
-      "Berney Louis-Frs et fils",
-      "Rochat Elie",
-      "Syndicat agricole, Grand-Essert"
+    "Appareilleurs": [
+      "Luisier Alphonse",
+      "Naef A.",
+      "Ruchet Ernest"
     ],
-    "Aubergiste": [
-      "Reymond-Vider",
-      "Berney Hélène"
+    "Aubergistes": [
+      "Aegerton Gottlieb",
+      "Bohren-Weber Christian",
+      "Bonzon A.",
+      "Chambovey Alexis",
+      "Clavel Frédéric",
+      "Contre-Mérinat Henri",
+      "Cottier Marius",
+      "Croptier Victor",
+      "Croptier Joseph",
+      "Dulex Ern.",
+      "Echenard Louis",
+      "Favre César",
+      "Jaquerod Ls",
+      "Pilet Rosalie",
+      "Zimmermann"
+    ],
+    "Associations mutualistes de retraite": [
+      "Jordan D."
+    ],
+    "Société mutualiste de retraite": [
+      "Pochon André",
+      "Pillioud W."
+    ],
+    "Bazars": [
+      "Butner Ls",
+      "Dubois Ida",
+      "Heiz-Hess Lina",
+      "Luthi M. et B.",
+      "Thomas Paul",
+      "Ansoni Enfonsio"
+    ],
+    "Beurre, fromages et œufs": [
+      "Laiterie centrale Ollon",
+      "Laiterie de Villars"
+    ],
+    "Bestiaux (march. de)": [
+      "Ambresin Albert",
+      "Bercier Francis",
+      "Frossard & Cie",
+      "Rubath Ls",
+      "Rosat Robert",
+      "Zuccone"
     ],
     "Blanchisseuses": [
-      "Aubert Jeanne",
-      "Berney Camille",
-      "Guex-Rochat, Mme."
+      "Bertarionne Louise",
+      "Bippus, dame",
+      "Borloz Aline",
+      "Grosjean-Wursten",
+      "Santschy Bertha",
+      "Wandfluh E."
     ],
-    "Boisselier": [
-      "Benoît Louis"
+    "Bois (march. de)": [
+      "Anex Henri",
+      "Pittier Ern."
     ],
-    "Boucher": [
-      "Rochat Charles"
-    ],
-    "Boulangers": [
-      "Berney Léopold, hoirs"
-    ],
-    "Camionneur": [
-      "Berney Edouard"
-    ],
-    "Cantonnier": [
-      "Golaz Albert"
-    ],
-    "Coiffeur": [
-      "Berney Auguste"
-    ],
-    "Commission scolaire": [
-      "Berney Armand",
-      "Reymond Marcel"
-    ],
-    "Chaussures (mag. de)": [
-      "Golaz-Guignard Louisa",
-      "Rochat Isaac, hoirs"
-    ],
-    "Cordonnier": [
-      "Cordey Henri"
-    ],
-    "Entrepreneurs": [
-      "Berney William",
-      "Cantova Joseph"
-    ],
-    "Epicerie": [
-      "Berney Léopold",
-      "Golaz Henri, Vve. R.",
-      "Reymond Jean-Daniel",
-      "Rochat-Guignard L."
-    ],
-    "Farine. Son. Maïs. Tourteaux, etc.": [
-      "Berney P. J."
-    ],
-    "Garde-forestier": [
-      "Rochat Jean-Frs."
-    ],
-    "Grains (march. de)": [
-      "Reymond Jean-Daniel"
-    ],
-    "Inspecteurs du bétail": [
-      "Rochat Ls, de David",
-      "Berney Charles"
-    ],
-    "Instituteurs": [
-      "Guignard Samuel",
-      "Guignard Julie",
-      "Reymond Marie"
-    ],
-    "Laitiers": [
-      "Golay Paul",
-      "Rochat Marcel"
-    ],
-    "Lingerie et broderie": [
-      "Rochat Nelly"
-    ],
-    "Maréchal-serrurier": [
-      "Berney Aug."
-    ],
-    "Mécanicien": [
-      "Campiche Jean"
-    ],
-    "Menuisiers": [
-      "Berney William",
-      "Guignard Henri"
-    ],
-    "Mercerie": [
-      "Golaz Henri, Vve. R.",
-      "Reymond J.-Dan.",
-      "Rochat Léon Mme."
-    ],
-    "Pensions d'étrangers": [
-      "Berney Hélène"
-    ],
-    "Poste": [
-      "Berney Charles",
-      "Rochat Jules",
-      "Reymond Léopold"
-    ],
-    "Renseignements": [
-      "Berney L.-Franç.",
-      "Rochat Jean Fs."
-    ],
-    "Sage-femme": [
-      "Rochat-Sordet L."
-    ],
-    "Serpettes (fab. de)": [
-      "Reymond Jean-Daniel"
-    ],
-    "Serrurier": [
-      "Berney Aug."
-    ],
-    "Tailleuses": [
-      "Rochat Lydia",
-      "Rochat-Guignard Emma",
-      "Rochat, Vve d'Isaac"
-    ],
-    "Vélos": [
-      "Rochat-Guignard Léon",
-      "Schouway Joseph"
+    "Bouchers": [
+      "Bercier Francis",
+      "Tuor Chr."
     ]
   }
 }

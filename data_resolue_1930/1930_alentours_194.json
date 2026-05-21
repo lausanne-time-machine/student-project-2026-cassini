@@ -1,224 +1,115 @@
 {
-  "CERNIAZ": {
-    "Inspecteur du bétail.": [
-      "Diserens Jules"
+  "VUCHERENS": {
+    "Pensions d'été": [
+      "Jaton-Cherpillod Marie",
+      "Vuagniaux Louis"
     ],
-    "Instituteur.": [
-      "Schwal Albert"
+    "Photographes": [
+      "Rod Eugène",
+      "Vuagniaux Victor"
     ],
-    "Société.": [
-      "de laiterie. R."
+    "Poste": [
+      "Vuagniaux Alois"
+    ],
+    "Pots à fleurs en bois": [
+      "Pahud Ulysse"
+    ],
+    "Radio": [
+      "Trolliet Hermann"
+    ],
+    "Râteaux (fab. de)": [
+      "Cherpillod Germain"
+    ],
+    "Scieur": [
+      "Besson Maurice"
+    ],
+    "Sellier": [
+      "Rod Eugène"
+    ],
+    "Sociétés": [
+      "d'assurance du bétail",
+      "du four du bas de Vucherens",
+      "du four de La Rappaz",
+      "du four du Closy",
+      "de fromagerie",
+      "Société de machine à battre, concassage et scierie",
+      "Fanfare de Vucherens"
+    ],
+    "Taille d'arbres d'ornements": [
+      "Jaquier Jules"
+    ],
+    "Téléphone": [
+      "Bureau des postes",
+      "Jaton-Cherpillod Marie",
+      "Lorini Vital"
+    ],
+    "Voiturier, commerce de bois": [
+      "Estoppey Marius"
     ]
   },
-  "CHAMPTAUROZ": {
-    "Autorités communales.": [
-      "Chevalley Julien",
-      "Badan Marcel"
+  "DISTRICT DE NYON": {
+    "Préfet": [
+      "Chaponnier Auguste"
     ],
-    "Syndic": [
-      "Chevalley William"
+    "Substitut": [
+      "Guibert Emile"
     ],
-    "Municipaux": [
-      "Chevalley Georges",
-      "Chevalley Const.",
-      "Chevalley Ernest",
-      "Buache Gustave",
-      "Chevalley J.-E.",
-      "Chevalley Ulysse"
+    "Receveur": [
+      "Gervaix Alb."
     ],
-    "Agriculteurs.": [
-      "Bise Amédée",
-      "Buache Jacques",
-      "Chevalley Aimé-Hri",
-      "Chevalley Edmond",
-      "Chevalley Eugène de Samuel",
-      "Chevalley Hri d'Albert",
-      "Chevalley Henri",
-      "Chevalley J.-Aimé",
-      "Chevalley Julien",
-      "Chevalley Philippe",
-      "Coigny Théophile",
-      "Druey Th., hoirie",
-      "Durussel Emile",
-      "Pitton Henri",
-      "Thuner Emile"
+    "Conservateur du registre foncier": [
+      "Tecon Julien"
     ],
-    "Café.": [
-      "Henzer Jean"
+    "Voyer du IIIe arrondissement": [
+      "Dorier Lucien"
     ],
-    "Commission scolaire.": [
-      "Chevalley J.-Aimé",
-      "Chevalley Constant"
+    "Tribunal de district": [
+      "Pilet Ed.",
+      "Genevay Julien",
+      "Pécoud Adolphe",
+      "Mugnier Louis",
+      "Gauthier Louis",
+      "Fillietaz Emile",
+      "Reymond Const."
     ],
-    "Epicerie.": [
-      "Druey, hoirie de Th.",
-      "Decorges Paul"
-    ],
-    "Inspecteur du bétail.": [
-      "Chevalley Jules-Aimé"
-    ],
-    "Instituteur.": [
-      "Badan Marcel"
-    ],
-    "Maréchal.": [
-      "Führer Jean"
-    ],
-    "Rentiers.": [
-      "Chevalley-Correvon Elie",
-      "Chevalley-Pochon",
-      "Chevalley Thérèse",
-      "Coigny Olympe",
-      "Degex Aline"
-    ],
-    "Sociétés.": [
-      "de fromagerie. R.",
-      "du Battoir. R."
-    ],
-    "Tailleuse.": [
-      "Decorges Irma"
-    ],
-    "Téléphone public.": [
-      "Decorges Paul"
+    "Poursuites et faillites": [
+      "Wenger Jean"
     ]
   },
-  "CHEVROUX": {
-    "Autorités communales.": [
-      "Bonny-Muller Louis",
-      "Cuany Ami"
+  "VILLE DE NYON": {
+    "Président du Conseil communal": [
+      "Graber Robert"
+    ],
+    "Secrétaire": [
+      "Robellaz Alcide",
+      "Favre Fernand"
     ],
     "Syndic": [
-      "Cuany Oscar"
+      "Bonnard Louis"
     ],
     "Municipaux": [
-      "Rod Henri",
-      "Bonny-Romanens Louis",
-      "Bonny Aloïs",
-      "Bonny-Penseyres Henri",
-      "Bonny-Zeller Albert",
-      "Cuany Paul"
+      "de Luc Armand",
+      "Tecon Louis",
+      "Bonzon Ernest",
+      "Cherpillod Ls."
     ],
-    "Agriculteurs.": [
-      "Bonny-Bonny Ch.",
-      "Bonny-Bonny Louis",
-      "Bonny-Comte Henri",
-      "Cuany Auguste",
-      "Honsberger Louis",
-      "Muller Rod.-Charles",
-      "Pochon Edmond",
-      "Rod frères"
+    "Boursier": [
+      "Rossier Charles"
     ],
-    "Assesseur.": [
-      "Bonny-Penseyres Henri"
+    "Huissier": [
+      "Pagésy Eugène"
     ],
-    "Boucher.": [
-      "Thévoz Henri"
+    "Bureau du contrôle des habitants": [
+      "Favre Fernand"
     ],
-    "Boulangerie.": [
-      "Vetterly Gottlieb. R."
+    "Affichage": [
+      "Soc. générale d'affichage"
     ],
-    "Cafés.": [
-      "Gilliand William",
-      "Schüller Alphonse"
+    "Agence immobilière": [
+      "Sautter & Cie"
     ],
-    "Commission scolaire.": [
-      "Thuillard Gve",
-      "Bonny-Bonny Henri",
-      "Bonny-Penseyres H."
-    ],
-    "Cordonnier.": [
-      "Bonny Auguste"
-    ],
-    "Epiceries.": [
-      "Vetterly Gottlieb. R.",
-      "Wolf Charles"
-    ],
-    "Inspecteurs du bétail.": [
-      "Bonny-Comte Henri"
-    ],
-    "Instituteurs.": [
-      "Ferrier Pierre",
-      "Cuany-Stillart Bertha"
-    ],
-    "Laitier.": [
-      "Fluhmann Ernest. R."
-    ],
-    "Maréchal.": [
-      "Schübach Fritz"
-    ],
-    "Menuisier.": [
-      "Bonny-Hermann Aug."
-    ],
-    "Pêcheurs.": [
-      "Bonny-Bonny Henri",
-      "Bonny-Zeller Alb.",
-      "Bonny Célestin",
-      "Bonny Léon",
-      "Bonny Auguste",
-      "Bonny-Romanens Ch.",
-      "Cuany Ami",
-      "Cuany Marc",
-      "Cuany Elie",
-      "Jordan Ls",
-      "Krafft Auguste",
-      "Krafft Charles",
-      "Krafft Louis",
-      "Wolf Auguste"
-    ],
-    "Sociétés.": [
-      "de laiterie. R.",
-      "de chant",
-      "Chœur d'hommes",
-      "de tir",
-      "Jeune Helvétie",
-      "Tireurs à la carabine",
-      "de jeunesse",
-      "Syndicat agricole. R.",
-      "Battoir. R."
-    ],
-    "Téléphone public.": [
-      "Café du Jura"
-    ]
-  },
-  "COMBREMONT-LE-GRAND": {
-    "Autorités communales.": [
-      "Gilliand Henri",
-      "Viquerat Paul"
-    ],
-    "Syndic": [
-      "Gilliand-Chambaz"
-    ],
-    "Municipaux": [
-      "Favre Paul",
-      "Courvoisier Emile",
-      "Pidoux Louis",
-      "Ney Aloïs",
-      "Gilliand Adrien",
-      "Gilliand André",
-      "Bettex Julien",
-      "Viquerat Paul",
-      "Charbon Ernest"
-    ],
-    "Agriculteurs.": [
-      "Bettex Jean",
-      "Courvoisier",
-      "Détraz Ls.",
-      "Fague Const.",
-      "Favre Edmond",
-      "Favre Paul",
-      "Favre William",
-      "Gilliand-Chambaz",
-      "Gilliand-Badoux",
-      "Gilliand Charles",
-      "Graf frères",
-      "Viquerat Marcel",
-      "Rosset Armand"
-    ],
-    "Apiculteurs.": [
-      "Rollinet Alfred",
-      "Viquerat Georges"
-    ],
-    "Assurance-grêle cantonale.": [
-      "Gilliand Adrien"
+    "Agents d'affaires patentés": [
+      "Sommer Jean"
     ]
   }
 }

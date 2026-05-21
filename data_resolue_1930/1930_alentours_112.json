@@ -1,116 +1,210 @@
 {
-  "DISTRICT D'AIGLE": {
-    "Agents d'affaires patentés": [
-      "CHABLOZ CH.",
-      "Jacot W."
+  "EPALINGES": {
+    "Epiceries": [
+      "Crot Pauline",
+      "Forestier Ernest",
+      "Minotti Mme",
+      "Rochat Jules fils",
+      "Vallotton-Cerf Charles",
+      "Wilkens Judith",
+      "Barraud Cécile",
+      "Baumgartner Rob.",
+      "Décrind Marie",
+      "Déglon Henri",
+      "Diserens Robert",
+      "Meister-Jacques"
     ],
-    "Agriculteurs.": [
-      "Ansermoz J.-Aug.",
-      "Bertholet Aloys",
-      "Barroud, Veuve",
-      "Cottier Jules",
-      "Cottier Henri",
-      "Chevalley Louis",
-      "Cheseaux Louis",
-      "Cuénoud Louis, fils",
-      "Devaud frères",
-      "Emery-Borloz Gustave",
-      "Gauthier Jean",
-      "Hauser Jean",
-      "Jaquemet Fr.",
-      "Martin F.",
-      "Monney Ch.",
-      "Moret Sam.",
-      "Peter-Deladoey",
-      "Peter frères",
-      "Peter Jules",
-      "Rempp Fréd.",
-      "Testuz Auguste",
-      "Viredaz Samuel",
-      "Walker René",
-      "Warpelin Marc"
+    "Gypsiers-peintres": [
+      "Locca & fils",
+      "Rovasotto Jean"
     ],
-    "Apiculteurs et fabr. de ruches.": [
-      "de Siebenthal Arnold"
+    "Industrie": [
+      "Baumgartner & Cie",
+      "Comptoir des produits cupriques S. A.",
+      "Francillon et Cie",
+      "Acétylène dissous, S. A."
     ],
-    "Architectes.": [
-      "Kalbfuss Charles et Félix Bénevys"
+    "Inspecteurs du bétail": [
+      "Meylan Ed.",
+      "Favrat François",
+      "Porchet Auguste"
     ],
-    "Armurier.": [
-      "Chablaix-Ischi Eug."
+    "Instituteurs": [
+      "Bussy Fernand",
+      "Lambelet Jeanne",
+      "Cuénoud Blanche",
+      "Rochat Hélène",
+      "Thévenaz Emilie",
+      "Bussy Eugénie"
     ],
-    "Arsenal.": [
-      "M. Rennaz"
+    "Jardiniers": [
+      "Blanc-Chave Louis",
+      "Blanc-Lehmann Gérard",
+      "Dupuis Charles"
     ],
-    "Articles de ménage.": [
-      "Stragiotti & fils",
-      "Tanniger-Burnier François",
-      "Urech Rodolphe"
+    "Maisons de santé": [
+      "Fontanellaz Albert",
+      "Richard-Ducret C."
     ],
-    "Assurances.": [
-      "La Suisse",
-      "Société suisse d'assurances générales sur la vie",
-      "Genet Ed.",
-      "La Zurich",
-      "Chabloz Charles",
-      "Mutuelle Vaudoise",
-      "Jaquier",
-      "La Genevoise",
-      "La Générale",
-      "Schacher Alexis",
-      "Société suisse de secours mutuels Helvétia",
-      "E. Waridel"
+    "Maréchal": [
+      "Menétrey Adrien"
     ],
-    "Assurance-vieillesse.": [
-      "Associations mutualistes de retraite",
-      "Moret, A."
+    "Menuisier": [
+      "Viredaz Henri"
     ],
-    "Automobiles.": [
-      "Blanc frères",
-      "Dupraz E.",
-      "Henchoz Henri",
-      "Ischy Aimé",
-      "Lanz Franz"
+    "Meunier": [
+      "Rochat Auguste"
     ],
-    "Aviculture.": [
-      "Société d'aviculture d'Aigle et des environs"
+    "Pasteur": [
+      "Mayor Louis"
     ],
-    "Avocat.": [
-      "Bonnard Eugène"
+    "Produits alimentaires": [
+      "Badan & Cie."
     ],
-    "Bains publics (Société).": [
-      "En Rebeufonnaz"
+    "Représentants": [
+      "Guibert S.",
+      "Piguet Charles"
     ],
-    "Balances.": [
-      "Rohner Jean"
+    "Scieurs": [
+      "Rochat Auguste",
+      "Scierie de Sorge",
+      "Vittoz John"
     ],
-    "Banques.": [
-      "Banque Cantonale Vaudoise",
-      "Eug. Dufresne",
-      "Banque de Montreux",
-      "Deladoey Henry",
-      "Société de Banque suisse",
-      "Cattin André",
-      "Crédit du Léman",
-      "Morex Charles",
-      "Union Vaudoise du Crédit",
-      "Genillard Albert",
-      "Caisse d'épargne du district d'Aigle",
-      "de Rameru Chs"
+    "Sel (débit de)": [
+      "Forestier E."
     ],
-    "Bazars.": [
-      "Au Louvre (Nouvelles Galeries, S. A.)",
-      "Gissler Em."
+    "Sellier": [
+      "Richard Alfred"
     ],
-    "Bétail (march. de).": [
-      "Bloch van Damme David",
-      "Clavel François",
-      "Cuénoud Ls.",
-      "Dufresne Alfred",
-      "Jaggi E. T.",
-      "Massard Ele",
-      "Mermod A.",
-      "Pernet J. T."
+    "Sociétés": [
+      "d'assurance du bétail",
+      "de bibliothèque",
+      "de fromagerie",
+      "Militaire La Sentinelle",
+      "de tir aux Armes de guerre",
+      "Syndicat agricole",
+      "Comptoir Industriel et Commercial S. A."
+    ],
+    "Tailleuses": [
+      "Martin Eugénie",
+      "Moudon Julie",
+      "Narbel Marguerite",
+      "Potterat Alma",
+      "Richard Lina"
+    ],
+    "Téléphoniste": [
+      "Forestier Ernest"
+    ],
+    "Vigneron": [
+      "Bussy Edouard"
+    ],
+    "Divers": [
+      "de Stieteneron Ed."
+    ],
+    "Autorités communales": [
+      "Reymond Auguste",
+      "Corbaz Charles"
+    ],
+    "Syndic": [
+      "Favrat Charles"
+    ],
+    "Municipaux": [
+      "Diserens Oscar",
+      "Bezençon Gust.",
+      "Delacrausaz Ls.",
+      "Mermier Paul"
+    ],
+    "Secrétaire": [
+      "Reymond Louis"
+    ],
+    "Boursier": [
+      "Pache Louis"
+    ],
+    "Huissier": [
+      "Porchet Aug."
+    ],
+    "Appareilleurs-électriciens": [
+      "Béboux Chs",
+      "Nicolas Maurice",
+      "Reymond Emile"
+    ],
+    "Associations mutualistes de retraite": [
+      "Reymond M."
+    ],
+    "Agriculteurs": [
+      "Beeri Maurice",
+      "Blanc-Potterat",
+      "Blanc Alfred",
+      "Chollet Alfred",
+      "Chapuis Eugène",
+      "Diserens Oscar",
+      "Favrat Ernest",
+      "Favrat Frs",
+      "Favrat Gustave",
+      "Favrat Louis",
+      "Martin Ed., hoirie",
+      "Pache Gustave",
+      "Pache Vincent",
+      "Pache-Delacrausaz Emile",
+      "Regamey Henri",
+      "Rouge Henri"
+    ],
+    "Aubergistes": [
+      "Chavan Paul",
+      "Gerber Frédéric",
+      "Jotterand Georges",
+      "Viquerat-Curchod Marius"
+    ],
+    "Blanchisseuses": [
+      "Blanc Julia",
+      "Chapuis & Junod",
+      "Corbaz sœurs",
+      "Genicoud"
+    ],
+    "Bouchers-charcutiers": [
+      "Baumgartner Robert",
+      "Béboux Ernest",
+      "Blanc Charles",
+      "Porchet Auguste",
+      "Regamey Henri"
+    ],
+    "Boulangeries": [
+      "Déglon Henri",
+      "Diserens Robert",
+      "Meister Jacques"
+    ],
+    "Charpentiers": [
+      "Kammermann Emile",
+      "Michon Eug.",
+      "Pache Charles & Marcel",
+      "Pasche Alf."
+    ],
+    "Charrons": [
+      "Béboux Charles",
+      "Delacrétaz Maurice",
+      "Nicolas Maurice",
+      "Regamey Louis"
+    ],
+    "Cliniques": [
+      "Clinique Sylvana",
+      "Pavillon pour tuberculeux",
+      "La Sapinière",
+      "Clinique des Dailles"
+    ],
+    "Commission scolaire": [
+      "Diserens Oscar",
+      "Mermier Paul",
+      "Reymond Louis"
+    ],
+    "Entrepreneurs": [
+      "Monti-Pache Victor",
+      "Pache Charles & Marcel"
+    ],
+    "Fourches et rateaux (fab. de)": [
+      "Goumaz Louis"
+    ],
+    "Garde-forêts": [
+      "Pache Gustave"
     ]
   }
 }

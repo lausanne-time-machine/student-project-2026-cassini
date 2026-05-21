@@ -1,245 +1,163 @@
 {
-  "ESSERTINES-SUR-ROLLE": {
-    "Charpentier": [
-      "Dumartheray Charles"
-    ],
-    "Charron": [
-      "Gétaz Fernand"
-    ],
-    "Commission scolaire": [
-      "Dumartheray Julien",
-      "Jorand Ernest",
-      "Clément Marius",
-      "Décuruex John"
-    ],
-    "Epicerie": [
-      "Velan Blanche, Vve. R."
-    ],
-    "Inspecteurs du bétail": [
-      "Dumartheray César",
-      "Décuruex John"
-    ],
-    "Instituteurs": [
-      "Maire Félix",
-      "Clément-Richard Elisa",
-      "Blanc Georges"
-    ],
-    "Laitier": [
-      "Uldry Eugène"
-    ],
-    "Maréchal": [
-      "Bruguier Henri"
-    ],
-    "Menuisier": [
-      "Merminod Arthur"
-    ],
-    "Poste": [
-      "Uldry Ernest"
-    ],
+  "Ville d'Orbe": {
     "Sociétés": [
-      "de laiterie",
-      "Syndicat agricole",
-      "de tir"
+      "Société foncière d'Orbe",
+      "» de gymnastique « Jeunes Pa-",
+      "» « Foot-ball Club »",
+      "» « Tennis Club »",
+      "» du gaz d'Orbe",
+      "» de Secours mutuels Helvétia (section)",
+      "» vaudoise de Secours mutuels (section)",
+      "» des Vaudoises",
+      "Section de la Croix-Bleue",
+      "» de l'Espoir"
     ],
-    "Tailleuse": [
-      "Simond Lina"
+    "Tabacs et cigares.": [
+      "Bourgeois Clémence",
+      "Capt Louis",
+      "Conod A.",
+      "Dupuis-Jaton Adèle",
+      "Gudit Julia",
+      "Jaques Eugène",
+      "Ramelet Emile"
     ],
-    "Téléphone communal": [
-      "Clément Félix",
-      "Henriod Fernand",
-      "Merminod César"
+    "Tailleurs.": [
+      "Bricchi Charles",
+      "Nicolin Jules",
+      "Ramelet Emile"
     ],
-    "Vignerons": [
-      "Barraud John",
-      "Bettems Jaques",
-      "Décuruex François",
-      "Dizerens Louis",
-      "Henriod Eugène",
-      "Huguet Alf.",
-      "Meyer Jean",
-      "Martin Robert",
-      "Schneider R."
+    "Tanneurs": [
+      "Schwille, Vve de Charles"
+    ],
+    "Tapissiers:": [
+      "Combe-Hützner Louis",
+      "Duvoisin Charles",
+      "Gourbach Charles",
+      "Tallichet Alfred"
+    ],
+    "Téléphone public.": [
+      "Bureau du télégraphe"
+    ],
+    "Tonnelier:": [
+      "Erni Adolphe",
+      "Krebs Emile"
+    ],
+    "Tricot à la machine.": [
+      "Chevalier M."
+    ],
+    "Vélos.": [
+      "Auberson Henri",
+      "Grandjean Jules",
+      "Pidoux & Miauton"
+    ],
+    "Vérificateur des poids et mesures": [
+      "Huber Rodolphe"
+    ],
+    "Vétérinaires.": [
+      "Charles Jean",
+      "Develey C."
+    ],
+    "Vins (march. de).": [
+      "Demaria Ch.",
+      "Kundig A."
+    ],
+    "Violon (maîtresses de)": [
+      "Dériaz, Dlle",
+      "Lambert, Dlle"
+    ],
+    "Vitrier.": [
+      "Wenger Emile"
+    ],
+    "Voituriers.": [
+      "Dupuis Justin",
+      "Tallichet Henri",
+      "Testori Ange"
+    ],
+    "Divers.": [
+      "Barraud-Roth J.",
+      "Cuénod B.",
+      "Dupuis E.",
+      "Lambert M.",
+      "Schaffner Ch.",
+      "Turtaz Jules",
+      "Turtaz L., Dlle",
+      "Streit J.",
+      "Cornaz R.",
+      "Decollogny R.",
+      "Stappung E.",
+      "Fornerod R.",
+      "Ducraux F.",
+      "Raccoursier H."
     ]
   },
-  "GILLY": {
-    "Autorités communales": [
-      "Cartier Ami",
-      "Delapierre H."
-    ],
-    "Syndic": [
-      "Rolaz Adolphe"
-    ],
-    "Municipaux": [
-      "Guichard John",
-      "Suardet Jules",
-      "de Lessert René",
-      "Rojard Jules"
+  "L'ABERGEMENT": {
+    "Président du Conseil général": [
+      "Besse Paul"
     ],
     "Secrétaire": [
-      "Pernet Chs"
+      "Meylan William",
+      "Meylan Jules"
+    ],
+    "Syndic": [
+      "Grasset Louis"
+    ],
+    "Municipaux": [
+      "Meylan Maurice",
+      "Meylan Camille",
+      "Gauthey Fern.",
+      "Pinard Ami"
     ],
     "Boursier": [
-      "Maréchal Henri"
+      "Crausaz Albert"
     ],
-    "Agriculteurs": [
-      "Bielser Walther",
-      "Bourguignon Jules",
-      "Cartier Ami",
-      "Cartier Gustave",
-      "Croisier Hri",
-      "Delafoge Emile",
-      "Delafoge Hri",
-      "Délévaux Aloïs",
-      "Gav Jules",
-      "Michon François",
-      "Guichard John",
-      "Henny Charles",
-      "Jacquier John",
-      "Michon Ch.",
-      "Monneyron L.",
-      "Pasche Eug.",
-      "Pernet Ch.",
-      "Ponnaz H.",
-      "Rojard Ch.",
-      "Rojard Frédéric",
-      "Rojard Henri",
-      "Delapierre Henri",
-      "Rolaz Edouard",
-      "Rolaz François",
-      "Rolaz Henri",
-      "Rolaz Louis",
-      "Rolaz Adolphe",
-      "Schumacher Adolphe",
-      "Schumacher Ernest",
-      "Tachet Aloïs",
-      "Zwiggart Ernest"
+    "Huissier": [
+      "Paux Auguste"
     ],
-    "Apiculteurs": [
-      "Délévaux Louis",
-      "Guichard Jules",
-      "Monneyron Ls",
-      "Pernet Ch."
+    "Agriculteurs.": [
+      "Besse Eug.",
+      "Braillard Jules",
+      "Briod",
+      "Chevalier Ls",
+      "Conod Ulysse",
+      "Crausaz Charles",
+      "Gauthey frères",
+      "Gauthey Louis",
+      "Gauthey Ulysse",
+      "Grasset Louis",
+      "Habegger Albert",
+      "Herbez Henri",
+      "Jaccard Fritz",
+      "Jaccard Jules",
+      "Magnin Emile",
+      "Meylan Alb.",
+      "Meylan William",
+      "Meylan Maurice",
+      "Paux Auguste",
+      "Paux Jules",
+      "Paux Louis",
+      "Pinard Ami",
+      "Roy"
     ],
-    "Mutualité scolaire de retraite": [
-      "Inglin R."
+    "Amodiateurs.": [
+      "Pinard frères"
     ],
-    "Auberges et cafés": [
-      "Fragnière Adolphe",
-      "von Gunten"
+    "Aubergistes.": [
+      "Gaillard Edmond",
+      "Herbez Jules"
     ],
-    "Boucher": [
-      "Bourguignon Henri"
+    "Bois (march. de).": [
+      "Vuillerminaz Camille"
     ],
-    "Boulangers": [
-      "Bielser Walther",
-      "Gavillet Louis"
+    "Charpentier.": [
+      "Gaillard Ami"
     ],
-    "Buraliste postal": [
-      "Chevalier Alice"
+    "Commission scolaire.": [
+      "Paux Louis",
+      "Paux Auguste",
+      "Meylan Jules"
     ],
-    "Charron": [
-      "Badan Alfred"
-    ],
-    "Chef de section": [
-      "Mayor"
-    ],
-    "Commission scolaire": [
-      "Michon François",
-      "Pernet Henri"
-    ],
-    "Cordonniers": [
-      "Moësching Jaques",
-      "Muller Auguste"
-    ],
-    "Distillateur": [
-      "Rojard Henri"
-    ],
-    "Electriciens": [
-      "Forces de Joux et de l'Orbe"
-    ],
-    "Epicerie": [
-      "Maréchal Henri",
-      "Wetzel Ernest"
-    ],
-    "Huilerie": [
-      "Ponnaz H."
-    ],
-    "Horloger": [
-      "Jeanrenaud William"
-    ],
-    "Inspecteur du bétail": [
-      "Schumacher Adolphe"
-    ],
-    "Instituteurs": [
-      "Inglin Roland",
-      "Barraud Alice",
-      "Bielser Marguerite"
-    ],
-    "Jardiniers": [
-      "Bize Eugène",
-      "Guichard Jules"
-    ],
-    "Justice de paix": [
-      "Borgeaud Albert",
-      "Delafoge Emile",
-      "Rossier Louis",
-      "Rosset Julien",
-      "Merminod Julien",
-      "Rochat Ulysse"
-    ],
-    "Laitier": [
-      "Laiteries réunies"
-    ],
-    "Maison de convalescence": [
-      "Mme Hess"
-    ],
-    "Maréchal": [
-      "Bessat Gérard"
-    ],
-    "Maître-maçon": [
-      "Mellina S."
-    ],
-    "Officier d'état-civil": [
-      "Delapierre Hri."
-    ],
-    "Pavillon de la Côte": [
-      "Mme Amadruz",
-      "Simon Eugène",
-      "Menthonnex Dan.",
-      "Genet Alf.",
-      "Francken",
-      "Cérésole",
-      "Tesseryre"
-    ],
-    "Pépiniéristes": [
-      "Délévaux Louis",
-      "Délévaux Marius"
-    ],
-    "Produits agricoles": [
-      "Henny Ch."
-    ],
-    "Relieur-encadreur": [
-      "Chevalier Henri"
-    ],
-    "Rentiers": [
-      "de Lessert René",
-      "de Westerweller Ludwig, Vve.",
-      "Picot",
-      "Vaucher E."
-    ],
-    "Sage-femme": [
-      "Rosset Adèle"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "de la machine à battre",
-      "Syndicat d'élevage de Gilly"
-    ],
-    "Télégraphiste": [
-      "Chevalier Alice"
-    ],
-    "Téléphone": [
-      "Auberge de Commune"
+    "Cordonnier.": [
+      "Paux Eugène"
     ]
   }
 }

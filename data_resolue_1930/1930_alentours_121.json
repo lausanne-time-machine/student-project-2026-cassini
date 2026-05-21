@@ -1,160 +1,173 @@
 {
-  "VILLE DE NYON": {
-    "Vitrerie pour bâtiments.": [
-      "Boldrini & Cie",
-      "Burnand fils",
-      "Gamboni V. & sœur",
-      "Tavelli & Bruno (S. A.)"
+  "Le Brassus": {
+    "Modiste": [
+      "Piguet Mina"
     ],
-    "Voiturier.": [
-      "Francelet Alfred",
-      "Zwahlen Paul"
+    "Officier d'état-civil": [
+      "Golay Gabriel"
     ],
-    "Volailles (march. de).": [
-      "Lizon Albert",
-      "Rosset Hélène"
+    "Papetiers": [
+      "Golay E.",
+      "Meylan-Leresche H.-F."
     ],
-    "Divers.": [
-      "Bader",
-      "Baup Alf.",
-      "Bondallaz Ls",
-      "Bonnin F.",
-      "Borgognon Ch.",
-      "Bruno Ferd.",
-      "Chatelanat Edouard",
-      "Chatelanat Paul",
-      "de Luc Armand",
-      "de Purucker J.",
-      "Dorier Lucien",
-      "Dreyfus R.",
-      "Dubois J. H.",
-      "Dunant-Marcuard G.",
-      "Ferraris Célestin",
-      "Fontaine Henri",
-      "Galland Ed.",
-      "Genand H.",
-      "Girardet Jules",
-      "Gonet",
-      "Graber P.",
-      "Graf Jos.",
-      "Granger Alf.",
-      "Grau",
-      "Guisan",
-      "Hentsch Emma",
-      "Juvet Georges",
-      "Klebs Arnold",
-      "Krehl G.",
-      "Matthey-Doret Edouard",
-      "Menu Henri",
-      "Mühlethaler Théoph.",
-      "Murat J.",
-      "Paderewski Ignace",
-      "Pécaud Ch.",
-      "Périer M.",
-      "Revilliod John-F.",
-      "Robert A.",
-      "Roux",
-      "Sandoz Julien",
-      "Saugy",
-      "Saugy-Martin",
-      "Schleppi B.",
-      "Thomas-Baup L.",
-      "Vidoudez A.",
-      "Vuadens Ch.",
-      "Weber"
-    ]
-  },
-  "ARNEX-SUR-NYON": {
-    "Autorités communales.": [
-      "Chevrot André",
-      "Lacôte Ernest",
-      "Briggen Alfred",
-      "Chollet Robert",
-      "Chevrot André",
-      "Briggen Alfred"
+    "Pasteurs": [
+      "Béboux Albert",
+      "Mundler Otto"
     ],
-    "Agriculteurs.": [
-      "Bessaud Ch.",
-      "Briggen",
-      "Chollet Robert",
-      "Guignet Aug.",
-      "La Côte",
-      "Kipfer Jean",
-      "Maurer Ticon",
-      "Tille Jules",
-      "Volet",
-      "Vulliez Ernest"
+    "Pêcheurs": [
+      "Delacrétaz Albert",
+      "Goy Charles",
+      "Goy Marcel",
+      "Meylan Pierre",
+      "Meylan Robert"
     ],
-    "Commission scolaire.": [
-      "Briggen Alfred"
+    "Poêlier-fumiste": [
+      "Aubert René"
     ],
-    "Inspecteur du bétail.": [
-      "Chollet Rob."
+    "Poste": [
+      "Piguet Théodore"
     ],
-    "Meunier.": [
-      "Chevrot André"
+    "Quincaillerie": [
+      "Golay Edouard",
+      "Meylan-Rochat Marie"
     ],
-    "Pilules pour l'anémie.": [
-      "Vollet-Bossey"
+    "Renseignements commerciaux": [
+      "Rochat-Meier P."
     ],
-    "Rentier.": [
-      "De Haller"
+    "Relieurs": [
+      "Dallève Alfred",
+      "Golay Edouard"
     ],
-    "Représentant.": [
-      "Tille John"
+    "Représentant": [
+      "Scierie électrique du Brassus, S. A."
     ],
-    "Sociétés.": [
-      "de fromagerie d'Arnex"
+    "Scieries": [
+      "Dautaz-Arbez, Vve",
+      "Golay Albert",
+      "Reymond Henri",
+      "Scierie électrique du Brassus. S. A."
     ],
-    "Téléphone.": [
-      "Bessaud Charles"
-    ]
-  },
-  "ARZIER ET LE MUIDS": {
-    "Autorités communales.": [
-      "Dufour Paul",
-      "Jacques Oscar",
-      "Dufour Fernand",
-      "Chapuis Charles",
-      "Cujean Samuel",
-      "Cujean Arthur",
-      "Ruffet Louis",
-      "Dufour Emile",
-      "Chambaz Paul",
-      "Ruffet Bertrand",
-      "Chambaz Charles"
+    "Sellier": [
+      "Berney Charles"
     ],
-    "Agriculteurs.": [
-      "Badan Henri",
-      "Chapuis Charles",
-      "Cujean Adolphe et Alfr.-Ls",
-      "Dufour Fern.",
-      "Dufour Ernest",
-      "Dufour Henri",
-      "Dufour Jules",
-      "Humbert Alfred",
-      "Loup L.",
-      "Blatter Fritz",
-      "Cujean Arthur",
-      "Divorne Félix",
-      "Dorier Francis",
-      "Dufour Ch.",
-      "Dufour Ls-Marius",
-      "Ruffet Ami",
-      "Ruffet Ch.",
-      "Ruffet Louis"
+    "Serruriers-fumistes": [
+      "Aubert René",
+      "Nicole Eugène"
     ],
-    "Assurance-vieillesse": [
-      "Mutualité scolaire de retraite",
-      "Hurlimann G."
+    "Service des eaux": [
+      "Piguet Louis-Elisée"
     ],
-    "Aubergistes.": [
-      "Chambaz Auguste",
-      "Ruffet Bertrand",
-      "Bertholet Christinet"
+    "Skis (fabricants de)": [
+      "Meylan hoirs",
+      "Piguet Alfr.",
+      "Zeberli Edmond"
     ],
-    "Bois (march. de).": [
-      "Cujean Franck"
+    "Sociétés": [
+      "de fromagerie du Brassus",
+      "de l'Asile du Marchairuz",
+      "Immobilière l'Union",
+      "Chorale",
+      "Instrumentale",
+      "de gymnastique",
+      "Edelweiss",
+      "de tir de campagne",
+      "Croix-Bleue",
+      "Union chrétienne",
+      "Syndicat agricole du Brassus",
+      "Coopérative de consommation",
+      "Caisse d'Epargne et de Crédit mutuel",
+      "Cercle des Amis",
+      "Gymnastique hommes",
+      "Gymnastique dames",
+      "Ski-Club"
+    ],
+    "Tabacs et cigares": [
+      "Berney & Cie",
+      "Dalloz Eugène",
+      "Guignard-Reymond Louis",
+      "Meylan-Leresche Hri-François",
+      "Pasche Elisabeth",
+      "Piguet Mina",
+      "Société coopérative"
+    ],
+    "Tailleur": [
+      "Troyon Jules"
+    ],
+    "Tapissier": [
+      "Berney Charles"
+    ],
+    "Télégraphiste et téléphoniste": [
+      "Meylan, Vve d'Edouard"
+    ],
+    "Vacherins (marchands de)": [
+      "Piguet David-Auguste",
+      "Société de laiterie"
+    ],
+    "Vélocipèdes": [
+      "Boillet",
+      "Rochat Julien"
+    ],
+    "Vins (march. de)": [
+      "Aubert Paul",
+      "Golay Adolphe",
+      "Ochsner Hermann",
+      "Piguet Jean",
+      "Piguet Marius"
+    ],
+    "Voituriers": [
+      "Audemars Henri",
+      "Aubert Eugène et fils",
+      "Golay Ami",
+      "Golay Henri",
+      "Guignard Albert",
+      "Le coultre-Vautier H.",
+      "Meylan Henri",
+      "Meylan Henri",
+      "Meylan William",
+      "Ochsner Herm.",
+      "Pesenti Louis",
+      "Piguet Frédéric",
+      "Piguet Marius",
+      "Reymond Etienne",
+      "Reymond Julien",
+      "Rochat Charles",
+      "Reymond-Lecoultre Henri"
+    ],
+    "Divers": [
+      "Piguet-Rochat Henri"
+    ],
+    "Montres terminées": [
+      "Audemars, Piguet & Cie, S. A.",
+      "Piguet-Capt Paul",
+      "The C. H. Meylan Watch Co."
+    ],
+    "Horlogerie en blanc": [
+      "Meylan Paul-A.",
+      "Piguet, les fils de Louis-Elisée"
+    ],
+    "Bijouterie, argenterie, orfèvrerie": [
+      "Piguet Emile-Gustave"
+    ],
+    "Cadraturiers": [
+      "Audemars Adolphe",
+      "Piguet, les fils de Louis-Elisée"
+    ],
+    "Chronographes": [
+      "Goy Georges-Hri",
+      "Simond Louis"
+    ],
+    "Fraises (fab. de)": [
+      "Meylan Paul-Alfred"
+    ],
+    "Horlogerie (fourn. pour)": [
+      "Meylan Paul-A."
+    ],
+    "Pierres fines (fabr. de)": [
+      "Capt Marius",
+      "Dépraz Wilhelm",
+      "Meylan Albert",
+      "Meylan Edouard-William",
+      "Piguet"
     ]
   }
 }

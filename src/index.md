@@ -208,7 +208,7 @@ const map = L.map(div, {
     boxZoom: false,           
     touchZoom: false,
     zoomSnap: 0.5             // Autorise un zoom "à virgule" pour un réglage fin
-}).setView([46.55, 6.6], 9.5); // Recentré et dézoomé d'un demi-cran (9.5 au lieu de 10)
+}).setView([46.55, 6.6], 10.5); // Recentré et dézoomé d'un demi-cran (9.5 au lieu de 10)
 
 L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
     attribution: '&copy; OpenStreetMap, &copy; CartoDB'
@@ -257,6 +257,11 @@ invalidation.then(() => map.removeLayer(heatLayer));
 
 ```js
 display(Inputs.table(filteredData))
+```
+
+```js
+const communesManquantesData = await FileAttachment("/data/no_coords_detector.json").json();
+display(Inputs.table(communesManquantesData));
 ```
 
 </div>

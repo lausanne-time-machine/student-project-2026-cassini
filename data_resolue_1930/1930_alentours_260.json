@@ -1,100 +1,204 @@
 {
-  "Ville de Vevey": {
-    "Sociétés": [
-      "Ligue anti-alcoolique, sect. de Vevey",
-      "Loge maçonnique, Constance et Avenir",
-      "Loge des Bons-Templiers",
-      "Pavillon de Mottex pour tuberculeux",
-      "Union chrétienne de jeunes gens",
-      "Union cadette",
-      "Union ouvrière de Vevey",
-      "Société catholique d'éducation et d'instruction",
-      "> des Chemins de fer électriques veveysans",
-      "> du Chemin de fer Vevey-Chardonne-Pèlerin",
-      "> du Chemin de fer Vevey-Chexbres",
-      "> de tempérance, Croix-Bleue",
-      "> de l'Union catholique",
-      "> vaudoise de la Libre Pensée",
-      "> des Beaux-Arts",
-      "> du Musée",
-      "> des Maîtres ferblantiers",
-      "> des Maîtres boulangers",
-      "> pour le développement de Vevey et environs",
-      "> vaudoise d'agriculture et de viticulture",
-      "> rue des Moulins",
-      "> des anciens élèves des Ecoles secondaires",
-      "> Anciens Zofingiens",
-      "> romande des Voyageurs de commerce",
-      "> de la Communauté évangélique allemande",
-      "> Amicale des sourds, société romande pour la lutte contre les effets de la surdité",
-      "> vaudoise de secours mutuels",
-      "> de secours des ouvriers malades",
-      "> ouvrière de secours mutuels l'Abeille",
-      "> de secours, la Fraternelle",
-      "> philanthropique immobil.",
-      "> de secours en cas de décès",
-      "> La Fraternité",
-      "> suisse de secours mutuels Helvetia",
-      "> franç. de secours mutuels",
-      "> des Pharmaciens de Vevey-Montreux",
-      "> suisse des Commerçants",
-      "> des Employés postaux",
-      "> suisse des Contre-Maîtres",
-      "> veveysanne du gaz",
-      "> veveysanne des arts et métiers",
-      "> des médecins de Vevey-Montreux",
-      "> pour le relèvement de la moralité",
-      "> d'épargne-impôt du personnel à traitement fixe de Vevey et environs",
-      "> de l'Epargne populaire",
-      "> immob. de la Croix-Bleue",
-      "> immobil. du Mont-Pèlerin",
-      "> des immeubles locatifs",
-      "> du Cercle du Marché",
-      "> des Hôteliers",
-      "> des Reliures Optimus",
-      "> d'escrime",
-      "> de la Place de Jeux",
-      "Fédération laitière du Léman",
-      "Société La Ménagère",
-      "> électrique de Vevey-Montreux",
-      "> immobilière de l'Hôtel des Trois Couronnes",
-      "> du Grand Hôtel de Vevey et Palace",
-      "> immobilière de la rue de Lausanne",
-      "> immobilière de la rue du Simplon"
+  "ORMONT-DESSUS": {
+    "Assurance.": [
+      "Marcuard M."
     ],
-    "Sociétés de tir": [
-      "L'Arc",
-      "> > Les Arquebusiers-Campagnards",
-      "> > L'Arquebuse",
-      "> > Les Armes réunies",
-      "> > Le Léman",
-      "> > Sous-Officiers",
-      "> > Tir au fusil",
-      "> > Les Carabiniers",
-      "> > Grütli",
-      "> > L'Aurore",
-      "> > Officiers",
-      "> > Les Volontaires",
-      "> > L'Espérance",
-      "> > Les Amis",
-      "> > Le Narcisse",
-      "> > Les Francs-tireurs"
+    "Café.": [
+      "Rittener Eugène"
     ],
-    "Sociétés de chant": [
-      "Le Frohsinn",
-      "> > L'Echo du Rivage",
-      "> > Chœur de Dames",
-      "> > Chœur d'hommes de Plan",
-      "> > Männer- und Gemischter Chor",
-      "> > Männerchor",
-      "> > Le corps enseignant de Vevey et env.",
-      "> > Chorale italienne",
-      "> > Sängerbund",
-      "> > Union Chorale"
+    "Commission scolaire.": [
+      "Rittener Alexis",
+      "Chevalley Charles",
+      "Rittener Eugène"
     ],
-    "Sociétés de musique": [
-      "La Lyre de Vevey",
-      "> > La Philharmonie italienne"
+    "Echelles (march. d').": [
+      "Décosterd Ami"
+    ],
+    "Epicerie, mercerie.": [
+      "Décosterd Jules"
+    ],
+    "Inspecteur du bétail.": [
+      "Rittener Eug."
+    ],
+    "Instituteur.": [
+      "Marcuard Marius"
+    ],
+    "Société.": [
+      "de fromagerie. R."
+    ],
+    "Téléphoniste.": [
+      "Rittener Eugène"
+    ]
+  },
+  "VUIBROYE": {
+    "Autorités communales.": [
+      "Bourloud Lucien",
+      "Schmutz Arthur",
+      "George David-Frédéric",
+      "Rubattel Ernest",
+      "Rubattel Lucien",
+      "Pasche Ch.",
+      "Bourloud Ls",
+      "Gilliéron Ele",
+      "George Frédéric"
+    ],
+    "Agriculteurs.": [
+      "Bourloud Lucien",
+      "Favez Oscar",
+      "Favez Frédéric",
+      "George Alfred",
+      "George Frédéric",
+      "George Jules",
+      "George Paul",
+      "Gilliéron Samuel",
+      "Pasche Charles",
+      "Rubattel Aimé",
+      "Rubattel Ernest",
+      "Rubattel Luc.",
+      "Schmutz Arthur"
+    ],
+    "Commission scolaire.": [
+      "Rubattel Lucien",
+      "Bourloud Lucien",
+      "Gilliéron Samuel"
+    ],
+    "Inspecteur du bétail.": [
+      "George Fréd."
+    ],
+    "Divers.": [
+      "Razen François"
+    ]
+  },
+  "VULLIENS": {
+    "Autorités communales.": [
+      "Cavin Eugène",
+      "Binggeli L.",
+      "Chappuis Henri",
+      "Cavin Vict",
+      "Thonney Samuel",
+      "Nicod Constant",
+      "Chappuis Jean-Louis",
+      "Cavin Gustave",
+      "Cavin Samuel",
+      "Cavin Henri",
+      "Cavin Victor"
+    ],
+    "Agriculteurs.": [
+      "Auberson",
+      "Binggeli Louis",
+      "Binggeli Lucien",
+      "Bovat Auguste",
+      "Bovat Eugène",
+      "Burnand Louis et Victor",
+      "Devaud Fernand",
+      "Cavin Elie",
+      "Cavin Eugène",
+      "Cavin Gust. et Hri",
+      "Cavin John",
+      "Cavin Js.",
+      "Cavin Js et Sam.",
+      "Cavin Vincent et Lucien",
+      "Cavin Victor",
+      "Chappuis Héli",
+      "Chappuis Henri",
+      "Chappuis Jules",
+      "Chappuis Louis",
+      "Cherpillod Adrien",
+      "Ecoffey frères",
+      "Ecoffey Gustave",
+      "Gloor Armand",
+      "Lambecy",
+      "Nicod Eugène",
+      "Nicod Louis",
+      "Nicod",
+      "Nicod Sophie",
+      "Perret Bertha",
+      "Perret",
+      "Perret Thérèse",
+      "Perret Ulysse",
+      "Rochat Fernand",
+      "Thélin Henri et fils",
+      "Thonney Auguste",
+      "Thonney Henri",
+      "Samuel",
+      "Thonney Frédéric",
+      "Thonney Max.",
+      "Thonney Robert",
+      "Verdan Edmond",
+      "Vifian Christian",
+      "Vuagniaux Alphonse"
+    ],
+    "Assurance-vieillesse.": [
+      "Mutualité scolaire de retraite. Pidoux Louis"
+    ],
+    "Café.": [
+      "Binggeli L."
+    ],
+    "Charpentiers.": [
+      "Bovat Eugène",
+      "Cavin Henri",
+      "Ecoffey Louis"
+    ],
+    "Commission scolaire.": [
+      "Cavin Gust.",
+      "Cavin Eug.",
+      "Thonney Samuel"
+    ],
+    "Couturière.": [
+      "Burnand-Bovat Lucie"
+    ],
+    "Epicerie, mercerie.": [
+      "Gilliard Aug.",
+      "Meillard Léonard",
+      "Schwab Hri."
+    ],
+    "Fourches et râteaux (fab. de).": [
+      "Burnand Victor"
+    ],
+    "Hongreurs.": [
+      "Thonney Auguste"
+    ],
+    "Inspecteur du bétail.": [
+      "Burnand Ls."
+    ],
+    "Instituteurs.": [
+      "Pidoux Louis",
+      "Ducret Germaine"
+    ],
+    "Laiterie.": [
+      "Bärtschi Jean.",
+      "Ecoffey Louis"
+    ],
+    "Moules à beurre (fab. de).": [
+      "Ecoffey-Vuagniaux Louis"
+    ],
+    "Oeufs et volailles (commerce de).": [
+      "Porchet Théophile"
+    ],
+    "Pension d'été.": [
+      "Ecoffey Jenny"
+    ],
+    "Poste.": [
+      "Cavin Frank"
+    ],
+    "Rentiers.": [
+      "Mottaz Héli",
+      "Mottaz Eugène"
+    ],
+    "Sociétés.": [
+      "Abbaye de la Paix. R.",
+      "de laiterie. R.",
+      "de la machine à battre. R.",
+      "du moulin agricole de Bressonnaz. R.",
+      "de chant",
+      "Chœur de dames",
+      "Chœur d'hommes Echo du Jorat."
+    ],
+    "Téléphoniste.": [
+      "Ecoffey Louis"
+    ],
+    "Tourneur.": [
+      "Ecoffey Louis"
     ]
   }
 }

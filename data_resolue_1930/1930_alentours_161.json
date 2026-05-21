@@ -1,121 +1,216 @@
 {
-  "VALLORBE": {
-    "Scierie": [
-      "Pisler-Cottens Maurice"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "de chant",
-      "de musique",
-      "de crédit mutuel",
-      "de tir aux armes de guerre",
-      "du Moulin agricole",
-      "Syndicat agricole",
-      "Section de la Croix-Bleue",
-      "Syndicat d'améliorations foncières",
-      "de gymnastique"
-    ],
+  "ECHANDENS": {
     "Téléphone": [
-      "Bureau des postes"
+      "Auberge de Commune",
+      "Rieben Daniel",
+      "Commune",
+      "Marendaz Henri"
     ],
     "Vignerons": [
-      "Besson Fritz",
-      "Bornand Ernest",
-      "Bornand Jules",
-      "Chevallier Jules. d'Isaac",
-      "Corset Louis",
-      "Dällenbach Charles",
-      "Fiaux Gustave",
-      "Ecuyer Vital",
-      "Laffely Louis",
-      "Tissot Louis",
-      "Widmer Léonie"
+      "Cachin Henri",
+      "Cevey frères",
+      "Gremion Victor",
+      "Lattion F.",
+      "Poraz Alois"
     ],
-    "Autorités communales": [
-      "Paley Adrien",
-      "Maillefer David",
-      "Jaillet-Combe Gustave",
-      "Meylan-Jaillet Elie",
-      "Dériaz Marcel",
-      "Fauconnet Jules",
-      "Juvet Hri.",
-      "Magnenat Ernest",
-      "Rochat Emile"
+    "Divers": [
+      "Gueydan de Roussel",
+      "Mackay, Vve",
+      "Nussli Julie",
+      "Paley Emile",
+      "Redard Jeanne",
+      "Rivie J.",
+      "Viret Charles",
+      "Daccord Ls."
     ],
-    "Affichage": [
-      "Société générale d'affichage"
+    "Rentiers": [
+      "de Mandrot Adrien",
+      "Monod René",
+      "Robert Paul",
+      "Oulevay Alf."
     ],
-    "Agences en douane": [
-      "Mangili Inocente",
-      "Soc. anon. Internat. de Transports Gondrand Frères",
-      "Véron J., Grauer & Cie"
+    "Société": [
+      "de laiterie"
+    ]
+  },
+  "ECHICHENS": {
+    "Président du Conseil général": [
+      "Daccord Louis"
+    ],
+    "Secrétaire": [
+      "Ménétrey Théodore",
+      "Perey Constant"
+    ],
+    "Syndic": [
+      "Mermoud Alexis"
+    ],
+    "Municipaux": [
+      "de Mandrot Adrien",
+      "Décombaz Jules",
+      "Kirschmann Maurice",
+      "Schmidely Ernest"
+    ],
+    "Boursier": [
+      "de Mandrot Adrien"
+    ],
+    "Huissier": [
+      "Pause Alfred"
     ],
     "Agriculteurs": [
-      "Blanchong Félicien",
-      "Collet Charles",
-      "Collet Jules",
-      "Gabriel E. T.",
-      "Glardon Jules",
-      "Glardon Georges",
-      "Grobéty Rob.",
-      "Jaillet Oct.",
-      "Jaillet-Roy Ls",
-      "Jaquet-Jaillet Ls",
-      "Magnenat Simonin",
-      "Martin Ls",
-      "Matthey Albert",
-      "Matthey Emile",
-      "Matthey Jules",
-      "Matthey Robert",
-      "Merminod Louis",
-      "Panchaud François",
-      "Reymond Louis",
-      "Rochat Henri",
-      "Roy Octave",
-      "Roy Justin",
-      "Roy-Michot Alexis",
-      "Truan Fritz",
-      "Truan-Ramuz Em.",
-      "Vallotton Ls."
+      "Blanchoud Louis",
+      "Bourloud Jules",
+      "Croisier Alfred",
+      "Favre Jules",
+      "Gros François",
+      "Mermoud",
+      "Roulet Victor",
+      "Tissot Jules"
     ],
-    "Aiguilles de montres": [
-      "Roy Gust. R."
-    ],
-    "Amodiateurs": [
-      "Blanchong Félicien",
-      "Jaillet Louis",
-      "Truan Fritz"
-    ],
-    "Ameublements": [
-      "Kohler Werner",
-      "Scheurer Alb."
-    ],
-    "Articles de pêche": [
-      "Glardon Robert",
-      "Engins Clément"
-    ],
-    "Assortiments (Maisons d')": [
-      "Jaquet S. & H. (S. A.)",
-      "Maus frères & Cie"
-    ],
-    "Assurances": [
-      "La Suisse",
-      "Société suisse de secours mutuels Helvétia",
-      "Falcy-Matthey Ad.",
-      "Assurance mutuelle vaudoise"
+    "Asile rural vaudois": [
+      "Chamot Marius"
     ],
     "Mutualité scolaire de retraite": [
-      "Gallay M."
+      "Ménétrey Th."
     ],
-    "Société mutualiste de retraite": [
-      "Matthey A."
+    "Mutualité scolaire de retraite de l'Asile rural": [
+      "M. Daccord"
     ],
-    "Auto-transports et déménagements": [
-      "Béguin Emile",
-      "Rochbach"
+    "Café": [
+      "Marendaz Henri"
     ],
-    "Avocats": [
-      "Vallotton Paul"
+    "Clinique": [
+      "Mieg-Périllard Rose-Hélène"
+    ],
+    "Commission scolaire": [
+      "Schmidely Gustave",
+      "de Mandrot Adr.",
+      "Mermoud Alexis",
+      "Daccord Ls."
+    ],
+    "Cordonnerie": [
+      "Wuarchoz André"
+    ],
+    "Entreprise de maçonnerie": [
+      "Thélin Oscar"
+    ],
+    "Epiceries": [
+      "Corbaz Emile",
+      "Croisier-Pilet P."
+    ],
+    "Gypsier-peintre": [
+      "Adamina Albert"
+    ],
+    "Inspecteur du bétail": [
+      "Widmer Ls."
+    ],
+    "Instituteurs": [
+      "Ménétrey Théodore",
+      "Crot Julia"
+    ],
+    "Pépiniériste": [
+      "Baudet A."
+    ],
+    "Poids public": [
+      "Favre M."
+    ],
+    "Poste": [
+      "Wuarchoz André"
+    ]
+  },
+  "ECUBLENS": {
+    "Président du Conseil communal": [
+      "Ducret François"
+    ],
+    "Secrétaire": [
+      "Masson Ami",
+      "Masson Ch."
+    ],
+    "Syndic": [
+      "Ducret Elie"
+    ],
+    "Municipaux": [
+      "Jaquenoud Aloïs",
+      "Roulier Paul",
+      "Masson Eugène",
+      "Masson François"
+    ],
+    "Boursier": [
+      "Glardon Antoine"
+    ],
+    "Associations mutualistes de retraite": [
+      "Martin R."
+    ],
+    "Auberges": [
+      "Mingard Octave",
+      "Masson François",
+      "Masson Louis",
+      "Masson Jeanne"
+    ],
+    "Battoir à blé": [
+      "Société coopérative"
+    ],
+    "Bois (march. de)": [
+      "Rouge Henri"
+    ],
+    "Boucher": [
+      "Masson Auguste"
+    ],
+    "Boulanger": [
+      "Parisod Ele"
+    ],
+    "Charron": [
+      "Masson Ch."
+    ],
+    "Charcuterie": [
+      "Masson A."
+    ],
+    "Chef de section": [
+      "Ducret François"
+    ],
+    "Chiens, élevage": [
+      "de Tavel, Mlle"
+    ],
+    "Commission scolaire": [
+      "Favre Henri",
+      "Jaquenoud Aloïs",
+      "Glardon Antoine"
+    ],
+    "Comité de couture": [
+      "Bonzon L.",
+      "Masson Jeanne",
+      "Fivaz"
+    ],
+    "Distillateur": [
+      "Masson Henri"
+    ],
+    "Electricien": [
+      "Bourgoz Adrien"
+    ],
+    "Epiceries": [
+      "Gonthier Louis",
+      "Musy Emile",
+      "Parisod Emile",
+      "Viret Alice"
+    ],
+    "Gypsier": [
+      "Masson Gustave d'Ami"
+    ],
+    "Inspecteur du bétail": [
+      "Masson Ernest"
+    ],
+    "Instituteurs": [
+      "Girardet Lucien",
+      "Grasset Robert",
+      "Cuanillon Estelle",
+      "Martin Robert",
+      "Rossier Augusta"
+    ],
+    "Jardinier": [
+      "Masson Aloïs"
+    ],
+    "Justice de paix": [
+      "Martin Fr.",
+      "Musy E."
     ]
   }
 }

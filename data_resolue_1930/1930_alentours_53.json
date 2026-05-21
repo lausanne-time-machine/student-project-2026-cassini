@@ -1,125 +1,148 @@
 {
-  "Ville de Morges": {
-    "Chef de gare": [
-      "Pernet Charles"
+  "DISTRICT DE COSSONAY": {
+    "Préfet": [
+      "Pittet Paul"
     ],
-    "Chef de section": [
-      "Scheibler Fritz"
+    "Substitut": [
+      "Barbey Samuel"
     ],
-    "Chiffons-métaux": [
-      "Maisonneuve Ls",
-      "Dupuis Héli",
-      "Ferrari Jean"
+    "Recette": [
+      "Badan Charles. T."
     ],
-    "Cigares et tabacs": [
-      "Blanc Marie, dame",
-      "Bloch, les fils",
-      "Cossard César",
-      "Favez Louis",
-      "Gerber Georges",
-      "Giroud Samuel",
-      "Golay William",
-      "Ethenoz William",
-      "Kohly Sophie",
-      "Lelourdy Emile",
-      "Linder Charles",
-      "Mottaz Victor",
-      "Mullener Charles",
-      "Piguet A.",
-      "Regamey Jules",
-      "Velan Fernand",
-      "Beyeler, Mlle"
+    "Conservateur du registre foncier": [
+      "Baudet Ernest"
     ],
-    "Cinémas": [
-      "Cinéma S. A."
+    "Voyer du Ve arrondissement": [
+      "Joyet Louis"
     ],
-    "Coiffeurs et coiffeuses": [
-      "Barrer Anna",
-      "Buhler Jean",
-      "Glayre H. (dame)",
-      "Gerber Georges",
-      "Grisel E., Mlle",
-      "Obrecht E.",
-      "Pache Louis",
-      "Roulet Henri"
+    "Tribunal de district": [
+      "Dériaz Juste",
+      "Lecoultre Louis",
+      "Braissant Félicien",
+      "Delacuisine Charles",
+      "Bolay Fernand",
+      "Bolens Marius"
     ],
-    "Commission scolaire": [
-      "Pelichet G."
+    "Préposé aux poursuites et faillites": [
+      "Schumacher Albert"
     ],
-    "Commissionnaire": [
-      "Savary Alexis"
+    "Préposé aux assurances du district": [
+      "Guibert M. T."
+    ]
+  },
+  "COSSONAY": {
+    "Autorités communales": [
+      "Liardet Jean",
+      "Bolens Marius"
     ],
-    "Confections": [
-      "Bloch-Weill, les fils",
-      "Chabloz Henri",
-      "Jaccard-Michel Arth., hoirs",
-      "Meyer frères & Cie",
-      "Meyer Sylvain",
-      "A la Renommée",
-      "Reymond-Duflon Charles",
-      "Savary & Brunner",
-      "Schmoll Alfred",
-      "Vernet A., Vve"
+    "Syndic": [
+      "Barbey Sam. T."
     ],
-    "Confiseries": [
-      "Charlet Marcel",
-      "Favre Albert",
-      "Hugonnet Benjamin",
-      "Krämer G., fils",
-      "Perdrix Jean",
-      "Vernet Charles",
-      "Walser Auguste",
-      "Widmann W. & Cie"
+    "Municipaux": [
+      "Champoud Gustave",
+      "Vionnet Alb.",
+      "Dénéréaz Louis",
+      "Schmidt Jean"
     ],
-    "Conserves de fruits": [
-      "Vins sans alcool et fabr. de conserves (S. A.)"
+    "Secrét": [
+      "Guibert Marcel"
     ],
-    "Cordonniers": [
-      "Bettems Aloys",
-      "Chiocca Nicolas",
-      "Cochard Joseph",
-      "Christinet P.",
-      "Cuendet Joseph",
-      "Fessler E. fils & Cie",
-      "Gallina Giacomo",
-      "Perotti André",
-      "Schönholzer Ch.-Hri",
-      "Vuffray Henri fils",
-      "Zryd Charles"
+    "Boursier": [
+      "Thibaud Ch."
     ],
-    "Corsets": [
-      "Chabloz Henri",
-      "Jaccard-Michel A."
+    "Inspecteur de police": [
+      "Jaccaud Emile."
     ],
-    "Couronnes mortuaires": [
-      "Arnold Edmond",
-      "Nicolier Jules",
-      "Reymond-Duflon"
+    "Agriculteurs": [
+      "Barbey Samuel. T.",
+      "Bolay Adr.",
+      "Borgeaud Henri",
+      "Cailler Louis",
+      "Chabanel frères",
+      "Champoud Gustave",
+      "Charlet Ch.",
+      "Desponds Hri",
+      "Desplands Art.",
+      "Desplands Jean",
+      "Martinet Charles-Eugène",
+      "Guex Louis",
+      "Guignard Alfred",
+      "Guyaz Edmond",
+      "Jaquier Robert",
+      "Landry Charles",
+      "Muller Henri",
+      "Pittolaz Auguste",
+      "Rod Charles",
+      "Roy Alfred",
+      "Zwahlen Alexis"
     ],
-    "Courtier en vins": [
-      "Friederich Paul"
+    "Agent d'affaires patenté": [
+      "Savary, Henri"
     ],
-    "Coutellerie": [
-      "Rieben Emile",
-      "Sollberger F.",
-      "Vuffray Ernest"
+    "Amodiateurs": [
+      "Charlet Charles",
+      "Desponds Henri",
+      "Desplands Jean",
+      "Landry A."
     ],
-    "Couturières": [
-      "Affolter Louise-Emma",
-      "Ancel Marie",
-      "Béguin-Matile Célestine",
-      "Benay Suzanne",
-      "Berney sœurs",
-      "Braun-Regamey, dame.",
-      "Buffe Louise",
-      "Charrière-Rochat Fréda",
-      "Francfort Angèle",
-      "Freiburghaus-Inat, dame",
-      "Gandillon E.",
-      "Gay-Daucher, dame",
-      "Jordan-Bourl'honno F.",
-      "Jayet A.",
-      "Kohly Sophie"
+    "Appareilleurs": [
+      "Guignard Henri. T."
+    ],
+    "Assurances": [
+      "La Suisse, Vie, Accidents. Rentes.",
+      "Assurance Mutuelle Vaudoise.",
+      "Lecoultre Louis",
+      "Marcel Guibert",
+      "Mobilière et immobilière cantonale contre l'incendie",
+      "La Genevoise, vie",
+      "Lecoultre Louis",
+      "Société suisse de secours mutuels Helvétia",
+      "Vuille Ant.",
+      "Assurance-grêle cantonale",
+      "Thibaud Ch."
+    ],
+    "Associations mutualistes de retraite": [
+      "Chantrens G."
+    ],
+    "Auberges et cafés": [
+      "Bally Emile",
+      "Coeytaux Ern., Vve",
+      "Coeytaux Albert",
+      "Dumauthioz Aloïs",
+      "Dupuis Eugénie",
+      "Gilgen Albert",
+      "Magnin-Bernard Eug.",
+      "Sauser Ernest",
+      "Mercier Marcel",
+      "Roy Jules",
+      "Séchaud, Vve de Louis",
+      "Zuber Henri"
+    ],
+    "Automobiles et garages": [
+      "Blanc Aloïs",
+      "Meystre Emile"
+    ],
+    "Banques": [
+      "Dony Alfred",
+      "Savary H."
+    ],
+    "Bestiaux (comm. de.)": [
+      "Chappuis Arnold",
+      "Desponds H.",
+      "Dumauthioz Aloïs",
+      "Mermoud Constant",
+      "Krieg Emile",
+      "Weil Emile"
+    ],
+    "Blanchisseuses-repasseuses": [
+      "Aubert dame",
+      "Petter, dames",
+      "Rod Lse."
+    ],
+    "Bouchers-Charcutiers": [
+      "Chappuis Arnold",
+      "Gilgen Albert",
+      "Wenker Alfred. T."
     ]
   }
 }

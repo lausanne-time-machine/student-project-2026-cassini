@@ -1,119 +1,232 @@
 {
-  "VILLE DE PAYERNE": {
+  "SYENS": {
     "Sociétés.": [
-      "Banque populaire de la Broye",
-      "des tireurs à la cible",
-      "de tir < La Jeune Broyarde >",
-      "» du Grütli allemand",
-      "» < La Campagnarde des Hameaux >",
-      "de tir aux armes de guerre, La Broyarde",
-      "l'Espérance",
-      "l'Harmonie",
-      "Union instrumentale",
-      "l'Avenir",
-      "Cercle démocratique libéral",
-      "Cercle de la Reine Berthe",
-      "anonyme des Tourbières d'Yverdon",
-      "vaudoise de secours mutuels",
-      "franç. de secours mutuels",
-      "la Fraternité",
-      "laiterie de Payerne",
-      "laiterie de Vers chez Perrin",
-      "de gymnastique",
-      "de Jeunesse Payernoise",
-      "la Ruche (logem. ouvriers)",
-      "le Chalet (Club Alpin)",
-      "usiniers du Corrençon",
-      "Amies de la Jeune Fille, comité du Vieux",
-      "des sous-officiers",
-      "d'agriculture",
-      "battoir à grains (Alph. Plumettaz",
-      "de patinage",
-      "distillerie agricole. Payerne-Corcelles",
-      "italienne de secours mutuels de Payerne et de la vallée de la Broye",
-      "typographique payernoise",
-      "catholiques de Payerne",
-      "immobilière payernoise",
-      "pour l'achat en commun des tabacs bruts suisses",
-      "Section de la Croix-Bleue",
-      "Syndicat agricole",
-      "Société du pâturage des Seytorées",
-      "Syndicat d'élevage bovin des hameaux de Payerne",
-      "Union chrétienne de jeunes gens"
+      "de fromagerie. R.",
+      "Abbaye de Syens et Rossenges. R."
     ],
-    "Socques (fab. de).": [
-      "Gloor Charles",
-      "Laurent Jules",
-      "Siegrist-Liniger Th."
+    "Téléphoniste.": [
+      "Mottaz Henri."
+    ]
+  },
+  "THIERRENS": {
+    "Autorités communales.": [
+      "Brochon Albert",
+      "Piot Maurice."
     ],
-    "Tabacs bruts en feuilles.": [
-      "Weber & Cie",
-      "Fivaz & Cie",
-      "Frossard J. & Cie, S. A.",
-      "Perrin Emile, S. A."
+    "Syndic": [
+      "Berzin Paul"
     ],
-    "Tabacs, cigares (manufactures de).": [
-      "Fivaz & Cie",
-      "Frossard J. & Co., S. A.",
-      "Weber & Cie"
+    "Municipaux": [
+      "Meystre Ulysse",
+      "Chevalley Louis",
+      "Genier Henri",
+      "Favre Albert",
+      "Forestier R.",
+      "Meystre E."
     ],
-    "Tabacs et cigares.": [
-      "Ischy-Savary Ls",
-      "Clerc-Brocard Adolphe",
-      "Colomb Eugène",
-      "Comte-Rapin Ct.",
-      "Jöhr Ernest",
-      "Jomini Louis",
-      "Morgenegg E.",
-      "Perrin frères (gros)",
-      "Perrin Fernand",
-      "Perrin-Ryser Henri",
-      "Savary-Battaini Elise",
-      "Savary-Schwab E."
+    "Agriculteurs.": [
+      "Berzin Paul. T.",
+      "Brochon frères",
+      "Chevalley Aimé",
+      "Chevalley Ulysse. T.",
+      "Forestier Em.",
+      "Forestier Jean",
+      "Genier Béat",
+      "Girard Alfred",
+      "Guex-Favre Héli",
+      "Héritier Alb.",
+      "Löffel Ern. T.",
+      "Meystre Amédée",
+      "Meystre Ulysse",
+      "Pidoux frères",
+      "Piot Ernest."
     ],
-    "Tailleurs.": [
-      "Bigler Rodolphe",
-      "Bosshard Robert",
-      "Cherbuin Albert",
-      "Doudin César",
-      "Walter Edouard"
+    "Associations mutualistes de retraite": [
+      "Martin A."
+    ],
+    "Auberges et cafés.": [
+      "Jordan Jules",
+      "Freymond Oscar",
+      "Meystre Louis"
+    ],
+    "Battoir.": [
+      "Schumacher frères. RT."
+    ],
+    "Bétail (éleveurs de).": [
+      "Chevalley Aimé",
+      "Chevalley Ulysse",
+      "Favre Louis",
+      "Pidoux Alfred",
+      "Piot Maurice."
+    ],
+    "Bois (comm. de).": [
+      "Schumacher Alfred. RT."
+    ],
+    "Bouchers.": [
+      "Genier-Durrenmatt Hri",
+      "Héritier Albert",
+      "Meystre Ulysse"
+    ],
+    "Boulangers.": [
+      "Héritier Constant",
+      "Pahud Emile. T."
+    ],
+    "Bureau des Postes.": [
+      "Piot Alfred. T."
+    ],
+    "Caisse de Crédit mutuel Raiffeisen.": [
+      "Badoux Marcel"
+    ],
+    "Cantonniers.": [
+      "Jaccoud O. T.",
+      "Meystre Ernest."
+    ],
+    "Charpentiers.": [
+      "Genier Ulysse",
+      "Pasche Robert."
+    ],
+    "Charrons.": [
+      "Meystre Louis",
+      "Morel Gustave."
+    ],
+    "Coiffeur.": [
+      "Potterat Louis."
+    ],
+    "Commission scolaire supérieure.": [
+      "Menoux Emile",
+      "Brochon Albert"
+    ],
+    "Commission scolaire primaire.": [
+      "Menoux Em.",
+      "Brochon Albert",
+      "Forestier René",
+      "Piot A",
+      "Berzin P."
+    ],
+    "Cordonniers.": [
+      "Forestier Jules",
+      "Meige Aimé."
+    ],
+    "Entrepreneurs.": [
+      "Fantoli Antoine",
+      "Fantoli Félix. RT.",
+      "Fantoli Maurice."
+    ],
+    "Epicerie, mercerie, tissus.": [
+      "Coopérative",
+      "Genier Aline",
+      "Genier-Pahud Lucien. RT.",
+      "Héritier Constant. T."
+    ],
+    "Fers, quincaillerie.": [
+      "Pahud Lucien. RT."
+    ],
+    "Fourches (fab. de).": [
+      "Favre Héli."
+    ],
+    "Gypsier-peintre.": [
+      "Fantoli Berthold."
+    ],
+    "Inspecteur du bétail.": [
+      "Genier Aloïs."
+    ],
+    "Instituteurs.": [
+      "Badoux Marcel",
+      "Martin Adrien",
+      "Pahud Germaine",
+      "Forestier-Bonzon, dame."
+    ],
+    "Lingère.": [
+      "Genier-Marguet Berthe."
+    ],
+    "Machines agricoles.": [
+      "Forestier Ernest. R."
+    ],
+    "Maréchaux.": [
+      "Forestier Ernest. RT.",
+      "Meystre Ulysse."
+    ],
+    "Meunier.": [
+      "Société du battoir."
+    ],
+    "Miel.": [
+      "Chevalley Louis",
+      "Meystre Ernest",
+      "Meystre Ulysse",
+      "Porchet Adrien."
+    ],
+    "Pasteur.": [
+      "Menoux Emile."
+    ],
+    "Pierristes.": [
+      "Genier Emile",
+      "Genier H. et fils. RT."
+    ],
+    "Rentiers.": [
+      "Berzin frères",
+      "Brochon frères",
+      "Chevalley Ulysse",
+      "Durand Eugénie",
+      "Favre J.-Jaques",
+      "Favre Louis",
+      "Guex-Favre Héli",
+      "Meystre Amédée",
+      "Meystre Louis."
+    ],
+    "Sage-femme.": [
+      "Forestier Lucile."
+    ],
+    "Scieurs.": [
+      "Société du battoir",
+      "Schumacher. T."
+    ],
+    "Sellier.": [
+      "Chevalley Aimé."
+    ],
+    "Serrurier.": [
+      "Pahud Lucien. T."
+    ],
+    "Sociétés.": [
+      "Deux sociétés de fromagerie Nos 1 et 2. R.",
+      "du poids public. R.",
+      "d'assurance sur le bétail",
+      "de consommation",
+      "du battoir. R.",
+      "Syndicat d'élevage. R.",
+      "Syndicat d'élevage et d'amélioration de la race porcine. R."
     ],
     "Tailleuses.": [
-      "Bovet-Jomini Alice",
-      "Chaudet",
-      "Rossier-Delaurens",
-      "Ehrsam-Cibis F.",
-      "Galley Cécile",
-      "Gilland Eugénie",
-      "Givel-Arrighi Charlotte",
-      "Gris Marie",
-      "Groux Marguerite",
-      "Guignet",
-      "Humbert-Prince C.",
-      "Jan-Guiger",
-      "Jomini",
-      "Jomini-Jan",
-      "Krieg-Cherbuin",
-      "Möschberger Marie",
-      "Ruchti Dora",
-      "Ryser Frida"
+      "Forestier Edith",
+      "Forestier Lucie",
+      "Genier Lina."
     ],
-    "Tanneur.": [
-      "Serex-Jomini"
+    "Télégraphiste.": [
+      "Piot Alfred."
     ],
-    "Tapissiers.": [
-      "Cherbuin Paul",
-      "Ehrsam Emile",
-      "Fiaux Félix",
-      "Germond Frédéric",
-      "Jomini-Ruérat Louis"
+    "Téléphoniste.": [
+      "Pahud Emile."
     ],
-    "Teinturiers.": [
-      "Gingins Louis",
-      "Perrin-Ryser Henri"
+    "Tonnelier.": [
+      "Forestier Ulysse."
     ],
-    "Télégraphe et Téléphone.": [
-      "Jacquat Henri"
+    "Vins en gros (march. de).": [
+      "Genier Lucien. RT."
+    ]
+  },
+  "VILLARS-LE-COMTE": {
+    "Autorités communales.": [
+      "Pidoux Auguste",
+      "Pidoux William."
+    ],
+    "Syndic": [
+      "Pidoux Ls-Oscar."
+    ],
+    "Municipaux": [
+      "Pidoux Jean",
+      "Pidoux Constant",
+      "Pidoux Henri",
+      "Pidoux Emile d'Aimé",
+      "Martin Ami"
     ]
   }
 }

@@ -1,214 +1,132 @@
 {
-  "MEZIERES": {
-    "Machines agricoles": [
-      "Chappuis frères"
+  "VILLE DE MOUDON": {
+    "Couvreurs.": [
+      "Dutoit Benjamin",
+      "Genier Emile"
     ],
-    "Machines à coudre": [
-      "Naegeli Fritz",
-      "Cavin Charles"
+    "Couteliers.": [
+      "Jaggi & Rayroux sœurs",
+      "Massonnet Emile"
     ],
-    "Maréchal": [
-      "Naegeli Fritz",
-      "Maury Charles"
+    "Cuirs.": [
+      "Trolliet Ernest",
+      "Cherpillod Albert"
     ],
-    "Mécaniciens": [
-      "Jordan & Nicolet"
+    "Curé.": [
+      "Butlinger Eugène"
     ],
-    "Médecins": [
-      "Guisan Charles",
-      "Mack Jean"
+    "Dentistes.": [
+      "Greno E.",
+      "Monneyron Maurice"
     ],
-    "Matériaux de construction": [
-      "Rod Victor"
+    "Distillateurs.": [
+      "Distillerie agricole"
     ],
-    "Modiste": [
-      "Cavin-Bettens Rosa"
+    "Draps (fabricants de).": [
+      "Meyer frères & Cie."
     ],
-    "Notaire": [
-      "Cavin W.-A."
+    "Draperies et tissus.": [
+      "Cuany, Mme",
+      "Meyer frères & Cie.",
+      "Pittet Eug.",
+      "Velati-Pavarin & Cie."
     ],
-    "Officier d'état-civil": [
-      "Gloor Jean"
+    "Drogueries.": [
+      "Christen Paul fils",
+      "Fivaz G. et fils",
+      "Trolliet Ernest"
     ],
-    "Pasteur": [
-      "Vernaud Max",
-      "Klunge Maurice"
+    "Eaux gazeuses.": [
+      "Fivaz G. et fils"
     ],
-    "Pharmacien": [
-      "Kiener J.-E."
+    "Ecole cantonale de fromagerie.": [
+      "Christinat Paul",
+      "Badoux Fernand"
     ],
-    "Sage-femme": [
-      "Jaquier, Mme"
+    "Electricité (service d').": [
+      "Entreprises électriques fribourgeoises"
     ],
-    "Sellier": [
-      "Eichenberger Fritz"
+    "Engrais chimiques.": [
+      "Hegelbach Jules",
+      "Braillard Rose",
+      "Chelles Alexis",
+      "Fivaz Gustave",
+      "Société d'agriculture"
     ],
-    "Sociétés": [
-      "de fromagerie",
-      "Fanfare du Jorat",
-      "Abbaye des fusiliers du Jorat",
-      "Section de la société de cavalerie",
-      "Société d’agriculture",
-      "Section de « La Fraternité »",
-      "Section des secours mutuels",
-      "Société de chant l’Espérance",
-      "Théâtre du Jorat",
-      "Société de gymnastique",
-      "Chœur de dames",
-      "de laiterie",
-      "d'assurance du bétail"
+    "Entrepreneurs.": [
+      "Dalioli Ernest",
+      "Delmatti & fils",
+      "Protti Victor"
     ],
-    "Tailleurs": [
-      "Chenevard Alfred",
-      "Christen Joseph"
+    "Epicerie.": [
+      "Bettex-Pahud Elise",
+      "Binggeli Edmond",
+      "Braillard Rose",
+      "Briod Henri",
+      "Christen Paul fils",
+      "Desmeules Alphonse",
+      "Fivaz G. et fils",
+      "Pache Louis",
+      "Pittet Eug..",
+      "Société de consommation",
+      "Giddey Méry"
     ],
-    "Teinturerie (dépôt)": [
-      "Christen-Ingold"
+    "Farines et grains.": [
+      "Fivaz G. & Fils",
+      "Hegelbach Jules"
     ],
-    "Téléphone": [
-      "Centrale automatique",
-      "Bureau des postes"
+    "Ferblantiers-appareilleurs.": [
+      "Aubert Charles",
+      "Dresco J. & fils",
+      "Faucherre Louis"
     ],
-    "Vélos": [
-      "Voir Garage"
+    "Fers et métaux.": [
+      "Besson Gustave",
+      "Braillard F. & fils"
     ],
-    "Vins (comm. de)": [
-      "Chappuis frères"
+    "Filature de laine.": [
+      "Meyer frères & Cie."
     ],
-    "Boulanger": [
-      "Cordey Eugène"
+    "Fournitures pour cordonniers.": [
+      "Trolliet Ernest",
+      "Cherpillod Albert"
     ],
-    "Buraliste postal": [
-      "Liaudet Edward"
+    "Fromages (march. de).": [
+      "Beutler & Cie.",
+      "Centlivres Héli",
+      "Favre Juste",
+      "Richardet Roland"
     ],
-    "Cantonnier": [
-      "Baumgartner Henri"
+    "Gaz.": [
+      "Usine à gaz de Moudon"
     ],
-    "Commission scolaire": [
-      "Reybaz Jean",
-      "Mellioret Frédéric"
+    "Géomètres.": [
+      "Pavillon Constant",
+      "Rosset L.."
     ],
-    "Entrepreneurs": [
-      "Gabella & Cie"
+    "Gérants.": [
+      "Bertolini Victor",
+      "Duperrex Eugène",
+      "Mottaz Emile",
+      "Zahnd Louis"
     ],
-    "Epicerie": [
-      "Liaudet-Prahin Clara"
+    "Graines fourragères et potagères.": [
+      "Braillard Rose",
+      "Cherpillod Albert",
+      "Christen Paul fils",
+      "Desponds Louis & fils",
+      "Fivaz Gustave",
+      "Hegelbach Jules",
+      "Société coop. de consommation",
+      "Trolliet Ernest",
+      "Vourloud Georges"
     ],
-    "Fabrique de produits en ciment": [
-      "Gabella Robert"
-    ],
-    "Garde de triage": [
-      "Gilliard Emile"
-    ],
-    "Ingénieurs": [
-      "Gabella Louis",
-      "Prahin Jean"
-    ],
-    "Inspecteur du bétail": [
-      "Mottaz Edward"
-    ],
-    "Instituteur": [
-      "Meylan Charles"
-    ],
-    "Pensions d'été": [
-      "Clef des Champs",
-      "Mercier Georges"
-    ],
-    "Plâtrier-peintre": [
-      "Gabella Joseph"
-    ],
-    "Radiophonie": [
-      "Liaudet Eugène"
-    ],
-    "Rentiers": [
-      "Dupuis, Vve",
-      "Métraux Jules",
-      "Ruchet Léon"
-    ],
-    "Scierie": [
-      "Société de la Rochette",
-      "Gabella Victor"
-    ]
-  },
-  "MONTPREVEYRES": {
-    "Autorités communales": [
-      "Regamey Auguste",
-      "Mottaz Edward",
-      "Liaudet Edward",
-      "Rod Jules",
-      "Reybaz Jean",
-      "Mellioret Frédéric",
-      "Lavanchy Adrien",
-      "Meylan Charles",
-      "Viret Edward"
-    ],
-    "Agriculteurs": [
-      "Aubert Aloïs",
-      "Chappuis Ernest",
-      "Gilliard Abram",
-      "Gindroz Héli",
-      "Lavanchy Eugène",
-      "Liaudet Arthur",
-      "Liaudet Oscar",
-      "Martin Alfred",
-      "Mellet John",
-      "Mellet René",
-      "Mellioret Fréd.",
-      "Reybaz Arthur",
-      "Reybaz Jean",
-      "Rod Jules",
-      "Viret Edward"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Meylan Charles"
-    ],
-    "Aubergistes": [
-      "Cordey Eugène",
-      "Chappuis Ernest"
-    ],
-    "Bétail (march. de)": [
-      "Liaudet Oscar"
-    ]
-  },
-  "ORON-LE-CHATEL": {
-    "Autorités communales": [
-      "Desarzens Samuel",
-      "Mayor Frédéric",
-      "Gœtz Paul",
-      "Häfelfinger Charles",
-      "Sonnay Eugène",
-      "Desarzens Henri",
-      "Viredaz Henri"
-    ],
-    "Agriculteurs": [
-      "Badertscher Fritz",
-      "Beroud",
-      "Boudry Jules",
-      "Chollet Ernest",
-      "Corboz Jules",
-      "Corboz Julius",
-      "Desarzens Henri",
-      "Gœtz Paul",
-      "Jossevel Eugène",
-      "Mayor Frédéric",
-      "Mayor Samuel",
-      "Sonnay Eugène"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Viredaz H."
-    ],
-    "Aubergistes": [
-      "Demierre Ernest",
-      "Demierre Léonard"
-    ],
-    "Autos. motos. vélos": [
-      "Gabriel Marcel"
-    ],
-    "Bétail (march. de)": [
-      "Beroud R."
-    ],
-    "Chef de gare": [
-      "Malherbe David"
+    "Gypsiers-peintres.": [
+      "Baud Charles",
+      "Baud Louis",
+      "Dalioli Ernest",
+      "Delmatti & fils",
+      "Lodari Lucien"
     ]
   }
 }

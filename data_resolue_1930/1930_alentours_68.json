@@ -1,167 +1,241 @@
 {
-  "DENENS": {
-    "Sociétés": [
-      "Association de l'Institut catholique",
-      "Fanfare de Lavey",
-      "Etablissement cantonal",
-      "Société coopérative immobilière des Cheminots de St-Maurice",
-      "Société de la Laiterie",
-      "Chœur d'hommes de Lavey"
+  "ORNY": {
+    "Municipaux": [
+      "Michaud Henri",
+      "Pavillard Lucien",
+      "Vannod Georges",
+      "Messeiller Julien",
+      "Messeiller Henri"
     ],
-    "Téléphonistes": [
-      "Ecuyer Edmond",
-      "Pasche Ed."
+    "Agriculteurs.": [
+      "Derameru Alfred",
+      "Gex Henri",
+      "Jaquinet Henri et Ch.",
+      "Juvet Alexandre",
+      "Messeiller Ele",
+      "Messeiller Hri",
+      "Michaud Alexandre",
+      "Michaud Emile",
+      "Michaud Félicien",
+      "Michaud François",
+      "Michaud Henri",
+      "Michaud Maurice",
+      "Pavillard frères",
+      "Pavillard Henri",
+      "Pavillard Justin",
+      "Pavillard Lucien, Vve",
+      "Péclard Alexandre",
+      "Tissot Alexis",
+      "Tissot Emile",
+      "Vannod Alfred",
+      "Vannod Emile",
+      "Weber frères"
     ],
-    "Vins (march. de)": [
-      "Chesaux Lucien",
-      "Pasche Ed. fils"
-    ],
-    "Voituriers-charretiers": [
-      "Deladoey Théophile",
-      "Guillat Edouard",
-      "Jaquemet Jean",
-      "Pasche Ed. fils"
-    ]
-  },
-  "LEYSIN": {
-    "Autorités communales": [
-      "Roulet Benjamin",
-      "Tacheron Jules",
-      "Genier Alfred",
-      "Dr de Reynier",
-      "Neveu Alfred",
-      "Perret Marcel",
-      "Rufenacht Emile",
-      "Dulex Pierre",
-      "Tauxe Marius",
-      "Bezançon",
-      "Hillebrand Marcel"
-    ],
-    "Affichage": [
-      "Soc. générale d'affichage"
-    ],
-    "Assesseur de la justice de paix": [
-      "Antoine Jules"
-    ],
-    "Bureau officiel de renseignements": [
-      "Riant-Chalet"
-    ],
-    "Agents d'affaires patentés": [
-      "CHABLOZ CH."
-    ],
-    "Agents de police": [
-      "Bezançon Henri",
-      "Ischer Henri",
-      "Ansermet Gustave",
-      "Rossire Arnold"
-    ],
-    "Agriculteurs": [
-      "Dufresne Aug.",
-      "Dupertuis Emile",
-      "Genier Alfred",
-      "Krumel Louis",
-      "Maricot Alfred",
-      "Maricot Paul",
-      "Neveu Auguste",
-      "Tauxe Arthur",
-      "Tauxe Georges",
-      "Tauxe Jean",
-      "Tauxe Paul",
-      "Tauxe-Dufresne Alfred",
-      "Vaudroz-Humbert Eug.",
-      "Vaudroz-Massard",
-      "Vaudroz Paul",
-      "Warpelin Jean",
-      "Warpelin Gustave"
-    ],
-    "Ameublements": [
-      "Hurter, dame"
-    ],
-    "Appareilleurs": [
-      "Cordey Ulrich",
-      "Eisenberg Elie",
-      "Scheiwein Jean"
-    ],
-    "Architectes": [
-      "Kuhn R.",
-      "Panchaud Edmond"
-    ],
-    "Assurances": [
-      "La Zurich",
-      "Comptoir d'Escompte de Genève",
-      "La Genevoise (vie)"
+    "Amodiateurs.": [
+      "Michaud Alexandre",
+      "Michaud Henri"
     ],
     "Assurance-vieillesse": [
-      "Mutualité scolaire de retraite",
-      "Jeanloz"
+      "Associations mutualistes de retraite"
     ],
-    "Automobiles": [
-      "Favre César",
-      "Gassmann frères",
-      "Peytregnet Fernand",
-      "Stäubli Jean",
-      "Vaudroz J."
+    "Café.": [
+      "Michaud Maurice"
     ],
-    "Bandagiste": [
-      "Roulet Benjamin"
+    "Commission scolaire.": [
+      "Messeiller Julien",
+      "Brasseler",
+      "Vannod Georges"
     ],
-    "Banques": [
-      "Comptoir d'Escompte de Genève",
-      "Crédit Foncier Vaudois",
-      "Barroud-Mottier Eugène"
+    "Epicerie-mercerie.": [
+      "Romanens William"
     ],
-    "Bazars": [
-      "Bruno Julie, Vve.",
-      "Dentella Rose",
-      "Dubois & Cie",
-      "Ernst Emile",
-      "Jaccard-Schmitz G.",
-      "Grand Bazar du Village",
-      "Bazar Excelsior, Nock-Haeberli Bruno",
-      "Raabe Max.",
-      "Sunier Pauline"
+    "Fruits et légumes.": [
+      "Guignard Suzette"
     ],
-    "Bière (dépôt de)": [
-      "Besse Alfred",
-      "Castella Paul"
+    "Inspecteur du bétail.": [
+      "Michaud Alex"
     ],
-    "Bijoutiers": [
-      "Biland Olga",
-      "Martin Hortense",
-      "Merlin-Zaugg A."
+    "Instituteurs.": [
+      "Borgeaud Emile",
+      "Borgeaud Berthe"
     ],
-    "Blanchisseries": [
-      "Buanderie du Feydey",
-      "Burnier Gabriel",
-      "Chevalley-Nuesch Clara",
-      "Krumel Ls",
-      "Luty-Junod",
-      "Noeding-Knebel",
-      "Seitz, dame",
-      "Treina, Mme.",
-      "Viglino B."
+    "Laitier.": [
+      "Meylan Edouard"
     ],
-    "Bois (march. de)": [
-      "Riehen E. et Cie",
-      "Tauxe Jean",
-      "Tauxe Georges",
-      "Scierie des Ergères",
-      "Vaudroz Marie"
+    "Machine à battre.": [
+      "Société du battoir à blé"
     ],
-    "Bonneterie": [
-      "Lüscher Th."
+    "Pension (malad. ment.).": [
+      "Michaud Henri"
     ],
-    "Bouchers": [
-      "Dupertuis Marcel",
-      "Maricot Paul",
-      "Suter E.-Ch."
+    "Sociétés.": [
+      "de fromagerie",
+      "du battoir à blé",
+      "Syndicat agricole"
     ],
-    "Boulangers": [
-      "Besse Louis",
-      "Boulangerie Moderne, S. A.",
-      "Dufresne Jules",
-      "Schägerl Aloïs",
-      "Trittibach Otto"
+    "Téléphoniste.": [
+      "Michaud Maurice"
+    ]
+  },
+  "PAMPIGNY": {
+    "Autorités communales.": [
+      "Freymond Armand",
+      "Bolay Ernest"
+    ],
+    "Syndic": [
+      "Bolay Fernand"
+    ],
+    "Municipaux": [
+      "Zimmermann Paul",
+      "Cailler Henri",
+      "Aubert Will.",
+      "Bataillard Henri"
+    ],
+    "Secrét.": [
+      "Zimmermann Alfred"
+    ],
+    "Boursier": [
+      "Tardy Georges"
+    ],
+    "Agriculteurs.": [
+      "Aubert Alfred",
+      "Bachelard Paul",
+      "Bolay Fernand",
+      "Bolay Jules",
+      "Bussy Ele.",
+      "Fuchs Jean",
+      "Gruaz Ed.",
+      "Lambercy Ernest",
+      "Pittet Fernand"
+    ],
+    "Amodiateurs.": [
+      "Bolay John",
+      "Bussy Adrien",
+      "Tardy frères"
+    ],
+    "Apiculteur.": [
+      "Bolay Ernest",
+      "Zimmermann frères"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite"
+    ],
+    "Aviculteur.": [
+      "Bolay Ernest"
+    ],
+    "Auberges et cafés.": [
+      "Aubert Fernand",
+      "Chappuis Emile"
+    ],
+    "Balais (fab. de).": [
+      "Zimmermann Louis"
+    ],
+    "Bestiaux (march. de).": [
+      "Bolay J."
+    ],
+    "Bois (march. de).": [
+      "Bolay John",
+      "Pittet Alfred"
+    ],
+    "Boulanger.": [
+      "Trachsel Charles"
+    ],
+    "Charpentier.": [
+      "Bonzon Louis"
+    ],
+    "Charron.": [
+      "Zimmermann Jules"
+    ],
+    "Chevaux (éleveurs de).": [
+      "Bussy Emile",
+      "Aubert Alfred"
+    ],
+    "Chaussures et chapellerie.": [
+      "Monot Eugène"
+    ],
+    "Commission scolaire.": [
+      "Tardy Georges",
+      "Tardy John"
+    ],
+    "Cordonniers.": [
+      "Cornamusaz Henri",
+      "Probst Henri"
+    ],
+    "Entrepreneur.": [
+      "Cortellini, hoirie"
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Aubert sœurs",
+      "Monot Eugène",
+      "Pittet-Cottier Fernand",
+      "Soc. coop. de Consommation"
+    ],
+    "Fers.": [
+      "Monot Eugène"
+    ],
+    "Garde-forestier.": [
+      "Zimmermann Arthur"
+    ],
+    "Gypsier-Peintre.": [
+      "Castelli Charles"
+    ],
+    "Inspecteur du bétail.": [
+      "Tardy M."
+    ],
+    "Instituteurs.": [
+      "Bolay Ernest",
+      "Bonard Denise",
+      "Chamot Julie"
+    ],
+    "Maréchal.": [
+      "Mayor Robert"
+    ],
+    "Médecin.": [
+      "Borel Henri"
+    ],
+    "Menuisier.": [
+      "Bornoz Louis"
+    ],
+    "Officier d'état civil.": [
+      "Tardy John"
+    ],
+    "Pasteur.": [
+      "Nicolet Jean"
+    ],
+    "Pépiniériste.": [
+      "Zimmermann Arthur"
+    ],
+    "Poste.": [
+      "Gaudin Albert",
+      "Bolay Gustave"
+    ],
+    "Selliers.": [
+      "Mettler Johannes",
+      "Surber Antoine"
+    ],
+    "Sociétés.": [
+      "Caisse du Crédit mutuel",
+      "Soc. du poids public",
+      "de fromagerie l'Union",
+      "de tir",
+      "de chant",
+      "Syndicat agricole",
+      "Société du battoir à grains",
+      "Société d'alpage",
+      "Société Coopérative de consommation",
+      "Société dramatique l'Avenir"
+    ],
+    "Tailleuses.": [
+      "Aubert Lina",
+      "Aubert Fanny",
+      "Bachelard-Fuchs Louise",
+      "Pittet Louise"
+    ],
+    "Téléphoniste.": [
+      "Aubert Fernand"
+    ],
+    "Tuiliers.": [
+      "Freymond Armand, ing. & Cie"
     ]
   }
 }

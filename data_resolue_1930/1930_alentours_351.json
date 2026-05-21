@@ -1,218 +1,98 @@
 {
-  "VALEYRES-SOUS-MONTAGNY": {
-    "Commission scolaire.": [
-      "Christin Alfr.",
-      "Margot Louis",
-      "Groux Alfred"
+  "MONTREUX": {
+    "Agences de voyages et de tourisme.": [
+      "Agence générale de voyages E. Schnitzler",
+      "Bucher & Co.",
+      "American-Express Co.",
+      "Callias A.",
+      "Comp. Int. des Wagons-Lits",
+      "George Lunn's Tours Ltd.",
+      "Montreux-Tourist Office (R. Hahn)",
+      "Pickfords Ltd",
+      "Polytechnic Tours",
+      "Suisse-Britannique",
+      "Vacheron J."
     ],
-    "Couturière.": [
-      "Marendaz Jeanne, Mlle."
+    "Agence d'émigration.": [
+      "Callias A.",
+      "Rentsch Walter",
+      "Thos Cook & Son",
+      "Légeret Chs.",
+      "Schnitzler Eric",
+      "Vacheron J.",
+      "Voyages A. Kuoni, S. A."
     ],
-    "Couvreurs.": [
-      "Marendaz Eugène, père et fils"
-    ],
-    "Epiceries.": [
-      "Boillet Eugène",
-      "Pilliard Adèle"
-    ],
-    "Inspecteur du bétail.": [
-      "Simon Alf."
-    ],
-    "Instituteur.": [
-      "Burdet Jules"
-    ],
-    "Laitier.": [
-      "Gaberel Jacob. T."
-    ],
-    "Maréchal": [
-      "Margot Louis"
-    ],
-    "Poste.": [
-      "Margot Rose"
-    ],
-    "Scieur.": [
-      "Jaggi Maurice"
-    ],
-    "Société.": [
-      "de laiterie. R."
-    ],
-    "Station d'étalons.": [
-      "Pilliard Eugène"
-    ],
-    "Téléphone.": [
-      "Café du Raisin. T."
-    ],
-    "Vigneron.": [
-      "Pilliard Henri"
-    ]
-  },
-  "VALEYRES-SOUS-URSINS": {
-    "Autorités communales.": [
-      "Mayerat René",
-      "Planche Edward",
-      "Urfer Th.",
-      "Beney Justin",
-      "Beney Edw.",
-      "Auberson Ls",
-      "Beney Lucien",
-      "Miéville Lucien",
-      "Beney Louis",
-      "Henry Ernest"
-    ],
-    "Agriculteurs.": [
-      "Auberson Louis",
-      "Beney Clément",
-      "Beney Justin",
-      "Beney Lucien",
-      "Beney Edw.",
-      "Chapuis Gustave",
-      "Grin Alfred",
-      "Grin John",
-      "Henry Alfred",
-      "Henry Louis",
-      "Henry Victor de François",
-      "Miéville Lucien",
-      "Zaugg Frédéric"
-    ],
-    "Bétail.": [
-      "Horisberg R. T."
-    ],
-    "Charron.": [
-      "Beney René"
-    ],
-    "Commission scolaire.": [
-      "Henry Ernest",
-      "Planche Edward",
-      "Bréchon Arm."
-    ],
-    "Epicerie. mercerie.": [
-      "Henry Elise"
-    ],
-    "Inspecteur du bétail.": [
-      "Miéville Luc."
-    ],
-    "Instituteurs.": [
-      "Burdet Elise",
-      "Golay Emile"
-    ],
-    "Laitier.": [
-      "Strähl Emile"
-    ],
-    "Machine à battre.": [
-      "Société du battoir à grain. R."
-    ],
-    "Maréchal.": [
-      "Frauche Héli"
-    ],
-    "Société.": [
-      "de fromagerie. R."
-    ],
-    "Téléphone.": [
-      "Dépôt des postes."
-    ]
-  },
-  "VILLARS-EPENEY": {
-    "Autorités communales.": [
-      "Potterat Const.",
-      "Vacat.",
-      "Roulier Paul",
-      "Correvon John",
-      "Marendaz Marcel",
-      "Vacat",
-      "Guidoux Alfred"
-    ],
-    "Agriculteurs.": [
-      "Correvon Julien",
-      "Favre Alfred",
-      "Gondoux Alfred",
-      "Roulier Henri",
-      "Roulier Jean",
-      "Roulier frères",
-      "Mösimann Ernest",
-      "Vuagnaux Emile"
-    ],
-    "Téléphone.": [
-      "Gondoux Alfred."
-    ]
-  },
-  "VILLARS-SOUS-CHAMPVENT": {
-    "Autorités communales.": [
-      "Mayerat Julien",
-      "Urfer Th.",
-      "Vallotton Marcel",
-      "Page Henri",
-      "Pittet Alphonse",
-      "Urfer Pierre"
-    ],
-    "Agriculteurs.": [
-      "Genaine David",
-      "Niffenegger Jean",
-      "Stauffer Alfred",
-      "Urfer Pierre",
-      "Roy Alfred",
-      "Urfer Pierre"
-    ],
-    "Inspecteur du bétail.": [
-      "Genaine Dav."
-    ],
-    "Laitier.": [
-      "Urfer Théophile"
-    ],
-    "Tailleur.": [
-      "Vallotton Alfred"
-    ]
-  },
-  "VUGELLES-LA-MOTHE": {
-    "Autorités communales.": [
-      "Marchand Gustave",
-      "Zbinden Louis. fils.",
-      "Zbinden Louis",
-      "Schüpbach Louis",
-      "Gaillard Eug. fils",
-      "Arn Fritz",
-      "Viguet Hri",
-      "Marchand Maurice",
-      "Bertschy Maurice"
-    ],
-    "Agriculteurs.": [
-      "Arn Fritz",
-      "Balmer Henri",
-      "Brand Jean",
-      "Gaillard Eugène fils",
-      "Jaccard Alfred",
-      "Jaccard Justin",
-      "Marchand Arnold",
-      "Nicolet Louis. T.",
-      "Scheidegger Johann",
-      "Viguet Henri. T.",
-      "Zbinden Louis"
-    ],
-    "Apiculteurs.": [
-      "Gaillard E. père",
-      "Marchand Maurice",
-      "Nicolet Auguste",
-      "Schüpbach Louis"
-    ],
-    "Aubergiste.": [
-      "Jaccard Justin"
-    ],
-    "Bétail (comm. de).": [
-      "Viguet Hri. T."
-    ],
-    "Boulanger.": [
-      "Jaccard Samuel. T."
-    ],
-    "Buraliste postal.": [
-      "Devaud Adeline, Mlle. T."
-    ],
-    "Caisses d'emballages.": [
-      "Bonnefoy Zélime. R."
-    ],
-    "Carrière de tuf.": [
-      "Marchand Maur. R."
-    ],
-    "Charpentier.": [
-      "Marchand Gustave"
+    "Agriculteurs-Vignerons.": [
+      "Aubort Emile",
+      "Aubort Auguste",
+      "Besson André",
+      "Besson Julien",
+      "Brousoz André",
+      "Brousoz Albert",
+      "Blanc Ami",
+      "Blanc Gustave",
+      "Blanc Louis",
+      "Blanc Victor",
+      "Borloz Auguste",
+      "Chevalley Marius",
+      "Chevalley Edmond",
+      "Chevalley Adrien",
+      "Chevalley Félix",
+      "Chevalley Emmanuel",
+      "Chevalley Edouard",
+      "Chevalley Constant",
+      "Cochard Auguste",
+      "Cochard Victor",
+      "Cochard Lina, Veuve",
+      "Cochard Julie, Veuve",
+      "Cochard-Masson Clément",
+      "Cochard-Vieland Ls",
+      "Cuénet Marcel",
+      "Delacrétaz Félix",
+      "Dubuis Henri",
+      "Dubochet Alexandre",
+      "Ducret Emile",
+      "Dufaux Eugène",
+      "Dufaux Armand",
+      "Dufaux Louis",
+      "Dufaux Octave",
+      "Dufour Eugène",
+      "Dufour Alex.",
+      "Dufour Arthur",
+      "Dufour Auguste",
+      "Dufour Louis",
+      "Dufour Louis",
+      "Favrod Jules",
+      "Fontannaz",
+      "Francey L.",
+      "Francey Philippe",
+      "Genevey Victor",
+      "Gonet Henri",
+      "Jaeger Cochard",
+      "Jordan Henri",
+      "Jordan Louis",
+      "Maillard Paul",
+      "Martin Joseph",
+      "Masson Henri",
+      "Masson Jean",
+      "Masson Louis",
+      "Masson Louis",
+      "Mayor Ernest",
+      "Mayor-Rambert Eugène",
+      "Michel Louis",
+      "Michel Louis",
+      "Monnet Auguste",
+      "Monnet Clément",
+      "Monnet Jules",
+      "Monnet Louis",
+      "Monod Louis",
+      "Morier Victor",
+      "Perret H., hoirie",
+      "Perrod, Veuve de Jules",
+      "Pfeiffer-Aubort Henri",
+      "Pilet Ch.",
+      "Pittet Emile",
+      "Tauxe Ulysse"
     ]
   }
 }

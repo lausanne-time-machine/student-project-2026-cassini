@@ -1,84 +1,83 @@
 {
-  "MONTREUX": {
-    "Bureaux de placement.": [
-      "Amies de la jeune fille",
-      "Baumgartner",
-      "Deluz",
-      "Duport",
-      "Favre Gust.",
-      "Schiferli-Glaniel",
-      "Wantz R."
+  "Château-d'Œx": {
+    "Epicerie": [
+      "Aviolat Cécile",
+      "Berdoz Emile",
+      "Bistoni-Andrey A.",
+      "Chabloz Marcel",
+      "Chapalay Marie",
+      "Coopérative de consommation",
+      "Demaurex-Rosat Frédéric",
+      "Dubuis-Pilet Paul",
+      "Henchoz-Clavel Alfred-E.",
+      "Isoz-Turrian David",
+      "Lenoir Jules",
+      "Lenoir Charles",
+      "Mollien, Vve de Paul",
+      "Morel Henri",
+      "Morier Edouard",
+      "Morier-Genoud B.",
+      "Pilet Louis",
+      "Saugy Ami",
+      "Société de Consommation Château d'Oex"
     ],
-    "Bureaux des étrangers.": [
-      "Châtelard",
-      "Planches",
-      "Veytaux"
+    "Fers": [
+      "Bach Fritz",
+      "Burri Adrien",
+      "Chabloz Marcel",
+      "Dubuis-Pilet Paul",
+      "Henchoz-Yersin Elisa"
     ],
-    "Cafés-restaurants.": [
-      "Allemann Edouard",
-      "Baer Félix",
-      "Alliger M.",
-      "Au Perroquet, S. A.",
-      "Bazzel Louis",
-      "Bertola Pierre",
-      "Blanc Ami",
-      "Blanche Marie",
-      "Borlat Albert",
-      "Bovier, Dlles",
-      "Bravand Albert",
-      "Buffet de la Gare, Veytaux.",
-      "Caranda M.",
-      "Chevrier Jos.",
-      "Conrad Charles",
-      "Cretenand Pierre",
-      "Café du Grutli, Grand-Chêne 8.",
-      "Conrad-Leuba C.",
-      "Crémonesi, Vve",
-      "Crettaz William",
-      "Damoser Ant.",
-      "Del Longo Alberto",
-      "Déglise E.",
-      "Delacrausaz Emma",
-      "Delavy Charles",
-      "Demont Henri",
-      "Dufour Elisa.",
-      "Eberspacher Ch.",
-      "Feller Philippine",
-      "Folly-Dubois G.",
-      "Franc Ida",
-      "Francey Em.",
-      "Gabbud-Perrin",
-      "Gasser A.",
-      "Grand Ch.",
-      "Gyger Cécile",
-      "Gitz, Veuve",
-      "Gyger-Haug S.",
-      "Hausammann L.",
-      "Heilig P.",
-      "Hermann Adam",
-      "Imboden-Tschantz E.",
-      "Ingold Julie",
-      "Ingold Paul",
-      "Julen-Häuser",
-      "Junod Marius",
-      "Klingnauer Otto",
-      "Kurzen Otto",
-      "Leu A.",
-      "Linder Pierre",
-      "Lorétan Emile",
-      "Maggi François",
-      "Maillard Ls",
-      "Mani G.",
-      "Martin Sidonie",
-      "Martin Zénobie",
-      "Meier-Monti",
-      "Meyer Fritz",
-      "Monti Raphaël",
-      "Morath Camille",
-      "Mury Ami",
-      "Mury Bertha",
-      "Neuhaus Marie",
-      "Niederhauser Alfred"
+    "Ferblantiers-appareilleurs": [
+      "Buensoz Eugène",
+      "Favre Auguste",
+      "Favre Jules et Maurice",
+      "Soldo Louis"
+    ],
+    "Fleurs naturelles (mag. de)": [
+      "Bricod Paul"
+    ],
+    "Fourreur": [
+      "Masur Auguste"
+    ],
+    "Garde forestier": [
+      "Pilet-Bornet John",
+      "Mottier-Lempen Emile"
+    ],
+    "Gardes-malades": [
+      "Chapalay, Mlle.",
+      "Chabloz, Mlle.",
+      "Gétaz, Mlle.",
+      "Morier-Genoud, Mlle."
+    ],
+    "Géomètre officiel": [
+      "Buiard R."
+    ],
+    "Gypsiers": [
+      "Albertone Joseph",
+      "Bernasconi & Cassietti",
+      "Cortellini C.",
+      "Sottaz Marcelin"
+    ],
+    "Home d'enfants": [
+      "Brauchlin",
+      "Passard, Dlle."
+    ],
+    "Horlogerie": [
+      "Juvet Charles-Emile",
+      "Morier Charles-Ami",
+      "Perret René",
+      "Renaud Charles"
+    ],
+    "Hôtels": [
+      "Anderegg",
+      "Hôtel du Parc",
+      "Hôtel des Bains",
+      "Hôtel Beau-Séjour",
+      "Grand-Hôtel, S. A.",
+      "Hôtel-de-Ville",
+      "Hôtel-pension Richemont",
+      "Hôtel-Pension Victoria"
     ]
   }
 }

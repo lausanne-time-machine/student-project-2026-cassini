@@ -1,264 +1,225 @@
 {
-  "PERROY": {
-    "Syndic": [
-      "Eperon Levi"
+  "BALLAIGUES": {
+    "Sociétés": [
+      "de l'Abbaye de l'Union",
+      "de fromagerie",
+      "de l'usine à battre",
+      "Syndicat agricole"
     ],
-    "Municipaux": [
-      "Martin Edouard",
-      "Maurer Paul",
-      "Dutruit Edmond",
-      "Gaillard Eugène"
+    "Tailleur": [
+      "Bonzon David"
     ],
-    "Secrét.": [
-      "Aguet Emile"
+    "Téléphoniste": [
+      "Pilloud Elise"
     ],
-    "Boursier": [
-      "Martin Victor"
+    "Tissus et confections": [
+      "Monnier-Morel Marguerite"
     ],
-    "Agriculteurs.": [
-      "Blanc Julien",
-      "Blanchard Ami",
-      "Dutruit Edmond",
-      "Dutruit Frédéric",
-      "Gaillard Ern.",
-      "Gaillard Arth.",
-      "Jotterand Louis",
-      "Jotterand Robert",
-      "Martin Georges",
-      "Roch Jean",
-      "Rochat Henri",
-      "Tissot Ulrich"
+    "Vins": [
+      "Baudat Alfred",
+      "Bovet Frédéric",
+      "Lavenex Frédéric",
+      "Lavenex Louis, d'Abram",
+      "Monnier Georges",
+      "Monnier Jaques",
+      "Monnier Louis",
+      "Morel Louis et frères"
     ],
-    "Assesseur.": [
-      "Martin Auguste"
+    "Autorités communales": [
+      "Leresche Samuel",
+      "Jaccard Charles",
+      "Besançon Henri",
+      "Bourgeois Albert",
+      "Laffely Samuel",
+      "Leresche Arnold",
+      "Leresche Félix",
+      "Richard Sam.",
+      "Rose Albert",
+      "Leresche Hermann",
+      "Doy-Arlettaz Jules"
     ],
-    "Associations mutualistes de retraite": [
-      "Chenuz A."
+    "Agriculteurs": [
+      "Besançon Henri",
+      "Bourgeois Albert",
+      "Bourgeois Benjamin",
+      "Bourgeois John",
+      "Bourgeois Paul",
+      "Bourgeois frères",
+      "Campiche Ls",
+      "Conod Charles",
+      "Conod David",
+      "Desylvestri Ernest",
+      "Doy Aug.",
+      "Doy Jules",
+      "Doy-Leresche Henri",
+      "Flaction frères",
+      "Jaccard François",
+      "Laffely Jules",
+      "Leresche Gaston",
+      "Leresche Félix-Emile",
+      "Leresche Ernest",
+      "Leresche-Moser Jules",
+      "Leresche-Arlettaz Félix",
+      "Leresche Henri",
+      "Leresche-Leresche Jules",
+      "Leresche Paul",
+      "Leresche Arnold",
+      "Leresche Henri-Marcel",
+      "Maillefer Edgar",
+      "Richard Samuel",
+      "Richard Ed.",
+      "Rochat Ami",
+      "Rose Albert",
+      "Rose Auguste",
+      "Rose Alfred",
+      "Rose Emile"
     ],
-    "Aubergistes.": [
-      "Gindroz Robert",
-      "Gaillard Eug.",
-      "Miville, Vve de Bénédict"
+    "Amodiateurs": [
+      "Campiche Louis, fils",
+      "Syndicat d'alpage"
     ],
-    "Boulanger.": [
-      "Grosjean Ami"
+    "Asile du Jura": [
+      "Agiez"
     ],
-    "Buraliste postal.": [
-      "Goy Alfred"
+    "Mutualité scolaire de retraite": [
+      "Mayor H."
     ],
-    "Charpente et menuiserie.": [
-      "Marti Fél."
+    "Société mutualiste de retraite": [
+      "Mayor H."
     ],
-    "Commission scolaire.": [
-      "Breitenstein E.",
-      "Martin Auguste",
-      "Blanchard François"
+    "Aubergistes": [
+      "Sermoud Rodolphe",
+      "Laffely Germain",
+      "Junod Gustave",
+      "Simon Robert"
     ],
-    "Epiceries.": [
-      "Gaillard Albert",
-      "Gaillard Edouard",
-      "Maurer Paul"
+    "Bazar": [
+      "Arnold Robert"
     ],
-    "Entrepreneurs.": [
-      "Morandi frères"
+    "Blanchisseuses": [
+      "Laffely-Schibel",
+      "Leresche-Goy"
     ],
-    "Inspecteur du bétail.": [
-      "Blanchard Ami"
+    "Bois (march. de)": [
+      "Leresche Emile",
+      "Leresche-Nicolet S.",
+      "Rose Albert"
     ],
-    "Instituteurs.": [
-      "Chenuz Albert",
-      "Buess Violette"
+    "Boissellerie (fab. de)": [
+      "Société des Forges du Creux"
     ],
-    "Laitier.": [
-      "Weber Charles"
+    "Boissons sans alcool": [
+      "Le Raisin (S. A.)"
     ],
-    "Maréchal.": [
-      "Testaz Henri"
+    "Bouchers-charcutiers": [
+      "Besançon Alfred",
+      "Doy Jules"
     ],
-    "Mécanicien.": [
-      "Martin Henri"
+    "Boulangers": [
+      "Conod Alfred",
+      "Schulz P."
     ],
-    "Pasteur.": [
-      "Breitenstein Ernest"
+    "Chapellerie": [
+      "Arnold Robert"
     ],
-    "Pêcheurs.": [
-      "Chevalier E.",
-      "Chevalier Eugène",
-      "Prodh'om Alexis"
+    "Charpentiers": [
+      "Maillefer Emile",
+      "Maillefer Henri"
     ],
-    "Pépiniériste (vignes américaines).": [
-      "Grosjean Arthur"
+    "Chef de section": [
+      "Leresche Ulysse"
     ],
-    "Propriétaires-rentiers": [
-      "Gautier-Diodati Gabrielle",
-      "Lefort Henri",
-      "Pictet de Rochemont",
-      "Lagier Albert",
-      "Mercier Ad.",
-      "de Saugy, Vve de Jules"
+    "Coiffeur": [
+      "Goy Marcel"
     ],
-    "Repasseuse.": [
-      "Kursner Alice"
+    "Commission scolaire": [
+      "Leresche Palmyr",
+      "Besançon André"
     ],
-    "Scierie.": [
-      "Ruch Ernest"
+    "Cordonniers": [
+      "Brélaz Ls",
+      "Strickler Aloïs"
     ],
-    "Serrurier.": [
-      "Aguet Emile"
+    "Dentistes (fabr. d'instruments pour)": [
+      "Maillefer, les fils d'Auguste"
     ],
-    "Sociétés.": [
-      "de distillerie. R.",
-      "de fromagerie. R."
+    "Ebénistes": [
+      "Jaques Gustave",
+      "Leresche Jules"
     ],
-    "Tailleuses.": [
-      "Bertinetti Berthe",
-      "Bron-Mosimann",
-      "Vanni Blanche"
+    "Entrepreneurs": [
+      "Maillefer Emile",
+      "Maillefer Henri",
+      "Nibbio Franç."
     ],
-    "Tonnelier.": [
-      "Trünkle Louis"
+    "Epicerie": [
+      "Arnold Robert",
+      "Leresche Bertha et Rose",
+      "Maillefer Georges",
+      "Soc. Coopérative"
     ],
-    "Vignerons.": [
-      "Barraud Vve",
-      "Bataillard Henri",
-      "Baudin Octave",
-      "Blanchard Ami",
-      "Blanchard François",
-      "Blanchard Vve",
-      "Bovard Ch.",
-      "Caillat Henri",
-      "Charbonnier Veuve",
-      "Corthay Auguste",
-      "Croci Ferdinand",
-      "Devantay Jules",
-      "Favre Henri",
-      "Favre Louis",
-      "Fillietiaz Edouard",
-      "Fillietiaz Henri",
-      "Gaillard Albert",
-      "Gaillard Ernest",
-      "Kursner Louis",
-      "Jotterand Auguste",
-      "Jotterand Louis",
-      "Jotterand Robert",
-      "Jotterand François",
-      "Magnenat Henri",
-      "Martin Aug.",
-      "Martin Ern.",
-      "Martin Edm.",
-      "Martin Ed.",
-      "Martin Georges",
-      "Martin Emile",
-      "Martin Victor",
-      "Metzner Em.",
-      "Prod'hom Alexis",
-      "Rochat Henri",
-      "Rosset Charles",
-      "Schenk Alexis",
-      "Tissot Ulrich"
-    ]
-  },
-  "TARTEGNIN": {
-    "Président du Conseil général": [
-      "Borgeaud Albert"
+    "Facteurs": [
+      "Leresche Jules",
+      "Rose Jules"
     ],
-    "Secrétaire": [
-      "Pellet E."
+    "Faulx, ferronnerie, clouterie (fab. de)": [
+      "Société des Forges du Creux"
     ],
-    "Syndic": [
-      "Maréchal Ami"
+    "Fourches et râteaux (fab. de)": [
+      "Rose Robert"
     ],
-    "Municipaux": [
-      "Bettex A.",
-      "Bloch E."
+    "Gérances et locations": [
+      "Bourgeois Daniel et l'hoirie d'Isaac Bourgeois"
     ],
-    "Boursier": [
-      "Borgeaud A."
+    "Gravure sur fers et métaux": [
+      "Maillefer Albert"
     ],
-    "Cafetier.": [
-      "Ryser Paul"
+    "Gypsier-peintre": [
+      "Zaco Fréd."
     ],
-    "Commission scolaire.": [
-      "Maréchal Alfred",
-      "Pellet E.",
-      "Bettex A."
+    "Horlogerie": [
+      "Pignons (S. A.)"
     ],
-    "Distillateur": [
-      "Ryser Paul"
+    "Hôtels (voir aussi Pensions)": [
+      "Bourgeois-Perrin P.",
+      "Sermoud Rodolphe",
+      "Leresche Octave",
+      "Simon Robert"
     ],
-    "Epiceries.": [
-      "Maréchal Lucie",
-      "Monnard Constant"
+    "Instituteurs": [
+      "Mayor Henri",
+      "Crausaz Emile",
+      "Leresche Blanche",
+      "Martin Marguerite"
     ],
-    "Inspecteur du bétail.": [
-      "Gilliéron Alex."
+    "Jardinier": [
+      "Jaccard Charles"
     ],
-    "Instituteur.": [
-      "Bühler Maurice"
+    "Laitiers": [
+      "Campiche Ch.",
+      "Crausaz Edmond"
     ],
-    "Laitier.": [
-      "Huguet John"
+    "Maçon": [
+      "Nibbio François"
     ],
-    "Poste.": [
-      "Monnard Constant"
+    "Maréchal": [
+      "Trottet Gédéon"
     ],
-    "Société.": [
-      "de fromagerie. R."
+    "Mécaniciens": [
+      "Maillefer Albert",
+      "Maillefer, les fils d'Auguste"
     ],
-    "Téléphoniste.": [
-      "Monnard Constant"
+    "Menuisiers": [
+      "Jaques Gustave",
+      "Maillefer Emile et Henri"
     ],
-    "Vignerons.": [
-      "Bloch Emile",
-      "Gilliéron Alex.",
-      "Merminod Aloïs",
-      "Merminod Alphonse",
-      "Pror Jules"
+    "Mercerie": [
+      "Arnold Robert",
+      "Leresche Bertha et Rose",
+      "Maillefer Georges"
     ],
-    "Vignerons-propriétaires.": [
-      "Billard Me",
-      "Blanchard Fernand",
-      "Borgeaud Albert",
-      "Bovat Alfred",
-      "Maréchal Alf.",
-      "Maréchal Ami",
-      "Maréchal John",
-      "Maréchal William",
-      "Margot Jules",
-      "Merminod, Vve",
-      "Munier Alfred",
-      "Pellet Ernest",
-      "Pigueron Théophile",
-      "Richard Jules"
-    ]
-  },
-  "VINZEL": {
-    "Président du Conseil général": [
-      "Rosset Julien"
-    ],
-    "Secrétaire": [
-      "Dupraz Ernest",
-      "Rossier Marc"
-    ],
-    "Syndic": [
-      "Keusen Edouard"
-    ],
-    "Municipaux": [
-      "Rossier Alexis",
-      "de Reding Henri"
-    ],
-    "Boursier": [
-      "Rochat Ulysse"
-    ],
-    "Agriculteurs.": [
-      "Cherpillod Louis",
-      "Coderev Henri",
-      "Duvaud Henri",
-      "Humbert Henri",
-      "Keusen Edouard",
-      "Rosset Julien",
-      "Rossier Alexis",
-      "Straub Félix"
+    "Meubles (fab. de)": [
+      "Jaques Gustave"
     ]
   }
 }

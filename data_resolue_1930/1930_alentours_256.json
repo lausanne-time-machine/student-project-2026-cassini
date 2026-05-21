@@ -1,255 +1,214 @@
 {
-  "AUBONNE": {
-    "Greffe de paix": [
-      "Dumont Mce."
-    ],
-    "Gypsiers": [
-      "Deléchat J. et fils",
-      "Locca Pierre et fils",
-      "Montangero Jean"
-    ],
-    "Horlogerie": [
-      "Berney Th.",
-      "Cuendet Dan. fils",
-      "Guignard René",
-      "l'Eglantine",
-      "Piguet Fr.-Ls"
-    ],
-    "Hôtels": [
-      "Hôtel de la Couronne",
-      "Dallenbach Th.",
-      "Hôtel du Lion d'Or",
-      "Perrin Charles"
-    ],
-    "Imprimerie": [
-      "Imprimerie du Jura",
-      "L. Eberhard & Cie."
-    ],
-    "Infirmerie": [
-      "Route de Féchy"
-    ],
-    "Ingénieurs": [
-      "Bettems Frédéric",
-      "Roveray",
-      "Simon Charles"
-    ],
-    "Inspecteur du bétail": [
-      "Croisier L."
-    ],
-    "Inspecteur forestier": [
-      "Berthoud"
-    ],
-    "Inspecteur de police": [
-      "Daxelhofer Hector"
-    ],
-    "Instituteurs primaires": [
-      "Anken Cécile",
-      "Carmentrand Berthe",
-      "Hédiger Jeanne",
-      "Henrioud Léa",
-      "Leresche André",
-      "Metzener Louis"
-    ],
-    "Instituteurs secondaires": [
-      "Rosset Daniel",
-      "Ansermoz Pierre",
-      "Hurter Pauline",
-      "Vallon Henriette",
-      "Gauthey Robert",
-      "Yersin Adolphe",
-      "Margot Paul",
-      "Aubert Daniel"
-    ],
-    "Jardiniers": [
-      "Bovey E.",
-      "Cordey-Aubert Michel",
-      "Gasser Albert",
-      "Trévelin",
-      "Terry Gve."
-    ],
-    "Journaux": [
-      "Journal d'Aubonne",
-      "Vittoz",
-      "Imprimerie",
-      "F. Trabaud"
-    ],
-    "Jura Vaudois": [
-      "L. Eberhard & Cie."
-    ],
-    "Justice de paix du cercle": [
-      "Barbay Alfred",
-      "Bettems Julien",
-      "Burnier Henri",
-      "Cart Jules",
-      "Rosset Arthur",
-      "Dumont Maurice"
-    ],
-    "Laitiers": [
-      "Bassin Rob.",
-      "Perret Jules"
-    ],
-    "Librairies": [
-      "Pellet J.",
-      "Vittoz Juliette"
-    ],
-    "Lingères": [
-      "Cuérel G.",
-      "Grosjean-Pellet Alexandrine",
-      "Wissler Julie"
-    ],
-    "Loge maçonnique": [
-      "(La Constance)",
-      "Guignard Jules"
+  "MEZIERES": {
+    "Machines agricoles": [
+      "Chappuis frères"
     ],
     "Machines à coudre": [
-      "Cuendet Daniel",
-      "Wehrli Jean"
+      "Naegeli Fritz",
+      "Cavin Charles"
     ],
-    "Maréchaux": [
-      "Debonneville Aloïs",
-      "Perrin J."
-    ],
-    "Matelassiers": [
-      "Hugonnet-Tripod",
-      "Henry-Renaud Berthe",
-      "Jaquenoud Clara",
-      "Metzner-Junod"
-    ],
-    "Matériaux de construction": [
-      "Chavannes Auguste",
-      "Chavannes Marcel"
+    "Maréchal": [
+      "Naegeli Fritz",
+      "Maury Charles"
     ],
     "Mécaniciens": [
-      "Chapuis P.",
-      "Détraz Louis",
-      "Schaer Jaques"
-    ],
-    "Mécanique (ateliers de tournage)": [
-      "Moynat A.",
-      "Piguet L.-fs."
+      "Jordan & Nicolet"
     ],
     "Médecins": [
-      "Bergier Alf.",
-      "Guder Roger"
+      "Guisan Charles",
+      "Mack Jean"
     ],
-    "Menuisiers": [
-      "André Marcel",
-      "Metzner-Junod C."
+    "Matériaux de construction": [
+      "Rod Victor"
     ],
-    "Mercerie": [
-      "Agassis-Rochat E.",
-      "Palaz Elise",
-      "Waridel Pierre"
+    "Modiste": [
+      "Cavin-Bettens Rosa"
     ],
-    "Meubles": [
-      "Metzner Junod",
-      "Ct",
-      "Nerfin Paul"
-    ],
-    "Meuniers": [
-      "Muller Emile",
-      "Pasche-Charrière O.",
-      "Société du Moulin",
-      "Henry Laurent"
-    ],
-    "Modistes": [
-      "Chenuz Marguerite",
-      "Wehrly Renée"
-    ],
-    "Notaires": [
-      "Bujard Emile",
-      "Rolaz Jules"
-    ],
-    "Mesureur-juré": [
-      "Favre Auguste"
+    "Notaire": [
+      "Cavin W.-A."
     ],
     "Officier d'état-civil": [
-      "Merminod Edmond",
-      "Bartré Daniel"
+      "Gloor Jean"
     ],
-    "Orfèvre": [
-      "Cuendet Daniel, fils"
-    ],
-    "Papeteries": [
-      "Pellet Judith",
-      "Vittoz Juliette",
-      "Waridel Pierre"
-    ],
-    "Papeterie en gros": [
-      "Eberhard Georges"
-    ],
-    "Pasteurs": [
-      "Borle Maurice",
-      "Bonnard Maurice",
-      "Rosset Daniel"
+    "Pasteur": [
+      "Vernaud Max",
+      "Klunge Maurice"
     ],
     "Pharmacien": [
-      "Eppinger Paul"
+      "Kiener J.-E."
     ],
-    "Photographe": [
-      "Calame Ed."
+    "Sage-femme": [
+      "Jaquier, Mme"
     ],
-    "Peintre (artiste)": [
-      "Hermenjat A."
-    ],
-    "Pensions": [
-      "Calcagni",
-      "Charrière Lydie",
-      "Gobeli"
-    ],
-    "Pierriste": [
-      "Piguet Emile"
-    ],
-    "Porcelaine et verrerie": [
-      "Lincio Alfr.",
-      "Magnenat Gustave",
-      "Uldry Adolphe"
-    ],
-    "Poterie": [
-      "Cruchon Alfred",
-      "Frey Olive",
-      "Magnenat Gustave",
-      "Lincio Alfred",
-      "Uldry Adolphe"
-    ],
-    "Poudrerie de la Confédération suisse": [
-      "Louis Magnenat"
-    ],
-    "Ramoneur": [
-      "Clément Auguste"
-    ],
-    "Relieur": [
-      "Eberhard G."
-    ],
-    "Repasseuses": [
-      "Bertholet Henriette",
-      "Enderlin A.",
-      "Gaillard Louise",
-      "Magnenat Berthe",
-      "Winkelmann Anna"
-    ],
-    "Représentants": [
-      "Grosjean-Pellet Pl",
-      "Müller Paul « Diphenso »"
-    ],
-    "Sages-femmes": [
-      "Cornaz",
-      "Davoët"
-    ],
-    "Selliers-carrossiers": [
-      "Caillet Jules et fils",
-      "Cuérel Paul"
-    ],
-    "Serruriers": [
-      "Bartré G.",
-      "Grosjean Paul",
-      "Truan Jules-Emile"
+    "Sellier": [
+      "Eichenberger Fritz"
     ],
     "Sociétés": [
-      "d'Agriculture de la Côte",
-      "Amis Réunis",
-      "Association viticole",
-      "du Moulin"
+      "de fromagerie",
+      "Fanfare du Jorat",
+      "Abbaye des fusiliers du Jorat",
+      "Section de la société de cavalerie",
+      "Société d’agriculture",
+      "Section de « La Fraternité »",
+      "Section des secours mutuels",
+      "Société de chant l’Espérance",
+      "Théâtre du Jorat",
+      "Société de gymnastique",
+      "Chœur de dames",
+      "de laiterie",
+      "d'assurance du bétail"
+    ],
+    "Tailleurs": [
+      "Chenevard Alfred",
+      "Christen Joseph"
+    ],
+    "Teinturerie (dépôt)": [
+      "Christen-Ingold"
+    ],
+    "Téléphone": [
+      "Centrale automatique",
+      "Bureau des postes"
+    ],
+    "Vélos": [
+      "Voir Garage"
+    ],
+    "Vins (comm. de)": [
+      "Chappuis frères"
+    ],
+    "Boulanger": [
+      "Cordey Eugène"
+    ],
+    "Buraliste postal": [
+      "Liaudet Edward"
+    ],
+    "Cantonnier": [
+      "Baumgartner Henri"
+    ],
+    "Commission scolaire": [
+      "Reybaz Jean",
+      "Mellioret Frédéric"
+    ],
+    "Entrepreneurs": [
+      "Gabella & Cie"
+    ],
+    "Epicerie": [
+      "Liaudet-Prahin Clara"
+    ],
+    "Fabrique de produits en ciment": [
+      "Gabella Robert"
+    ],
+    "Garde de triage": [
+      "Gilliard Emile"
+    ],
+    "Ingénieurs": [
+      "Gabella Louis",
+      "Prahin Jean"
+    ],
+    "Inspecteur du bétail": [
+      "Mottaz Edward"
+    ],
+    "Instituteur": [
+      "Meylan Charles"
+    ],
+    "Pensions d'été": [
+      "Clef des Champs",
+      "Mercier Georges"
+    ],
+    "Plâtrier-peintre": [
+      "Gabella Joseph"
+    ],
+    "Radiophonie": [
+      "Liaudet Eugène"
+    ],
+    "Rentiers": [
+      "Dupuis, Vve",
+      "Métraux Jules",
+      "Ruchet Léon"
+    ],
+    "Scierie": [
+      "Société de la Rochette",
+      "Gabella Victor"
+    ]
+  },
+  "MONTPREVEYRES": {
+    "Autorités communales": [
+      "Regamey Auguste",
+      "Mottaz Edward",
+      "Liaudet Edward",
+      "Rod Jules",
+      "Reybaz Jean",
+      "Mellioret Frédéric",
+      "Lavanchy Adrien",
+      "Meylan Charles",
+      "Viret Edward"
+    ],
+    "Agriculteurs": [
+      "Aubert Aloïs",
+      "Chappuis Ernest",
+      "Gilliard Abram",
+      "Gindroz Héli",
+      "Lavanchy Eugène",
+      "Liaudet Arthur",
+      "Liaudet Oscar",
+      "Martin Alfred",
+      "Mellet John",
+      "Mellet René",
+      "Mellioret Fréd.",
+      "Reybaz Arthur",
+      "Reybaz Jean",
+      "Rod Jules",
+      "Viret Edward"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Meylan Charles"
+    ],
+    "Aubergistes": [
+      "Cordey Eugène",
+      "Chappuis Ernest"
+    ],
+    "Bétail (march. de)": [
+      "Liaudet Oscar"
+    ]
+  },
+  "ORON-LE-CHATEL": {
+    "Autorités communales": [
+      "Desarzens Samuel",
+      "Mayor Frédéric",
+      "Gœtz Paul",
+      "Häfelfinger Charles",
+      "Sonnay Eugène",
+      "Desarzens Henri",
+      "Viredaz Henri"
+    ],
+    "Agriculteurs": [
+      "Badertscher Fritz",
+      "Beroud",
+      "Boudry Jules",
+      "Chollet Ernest",
+      "Corboz Jules",
+      "Corboz Julius",
+      "Desarzens Henri",
+      "Gœtz Paul",
+      "Jossevel Eugène",
+      "Mayor Frédéric",
+      "Mayor Samuel",
+      "Sonnay Eugène"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Viredaz H."
+    ],
+    "Aubergistes": [
+      "Demierre Ernest",
+      "Demierre Léonard"
+    ],
+    "Autos. motos. vélos": [
+      "Gabriel Marcel"
+    ],
+    "Bétail (march. de)": [
+      "Beroud R."
+    ],
+    "Chef de gare": [
+      "Malherbe David"
     ]
   }
 }

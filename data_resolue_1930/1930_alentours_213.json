@@ -1,125 +1,245 @@
 {
-  "Château-d'Oex": {
-    "Photographe.": [
-      "Neidl Georges",
-      "Renaud Ch."
+  "COPPET": {
+    "Cordes et ficelles": [
+      "Salomon Rodolphe"
     ],
-    "Photographie (articles pour).": [
-      "Neidl Georges",
-      "Renaud Ch."
+    "Cordonniers": [
+      "Gilliéron Albert",
+      "Hauswirth Pierre",
+      "Massotto",
+      "Poitry Auguste"
     ],
-    "Pianos (vente et location).": [
-      "Juvet Charles-Emile"
+    "Couvreur": [
+      "Antonietti Laurent"
     ],
-    "Poëliers.": [
-      "Gétaz Louis",
-      "Pilet John",
-      "Roch Charles"
+    "Eaux gazeuses": [
+      "Baierlé Marc"
     ],
-    "Poudre (dépôt de).": [
-      "Saugy Ami"
+    "Ecole ménagère": [
+      "Rittmeyer D."
     ],
-    "Professeurs.": [
-      "Blum, Mlle",
-      "Gétaz Elisabeth"
+    "Ecole nouvelle": [
+      "Schwartz E."
     ],
-    "Quincaillerie.": [
-      "Bach F.",
-      "Chabloz Marcel",
-      "Dubuis-Pilet Paul",
-      "Henchoz-Yersin Elisa, Vve",
-      "Isoz-Turrian David",
-      "Pilet Louis"
+    "Electriciens": [
+      "Gaudin Louis",
+      "Kiener A."
     ],
-    "Ramoneur (maître).": [
-      "Henchoz Emile"
+    "Entrepreneurs": [
+      "Antonietti Humbert",
+      "Battistolo Tranquille",
+      "Bertoncini Francis",
+      "Décorvet Albert"
     ],
-    "Représentant.": [
-      "Albertone J."
+    "Epicerie, mercerie, tabacs": [
+      "Bertoncini Charle",
+      "Dutoit Anna",
+      "Meylan Ad."
     ],
-    "Relieur.": [
-      "White W."
+    "Ferblantiers": [
+      "Antonietti Isaline",
+      "Hipp A."
     ],
-    "Sable et graviers (exploitation de).": [
-      "Thönnen & Cie."
+    "Fers et quincaillerie": [
+      "Girardet Ch."
     ],
-    "Sages-femmes.": [
-      "Morier Lina"
+    "Fromage et beurre": [
+      "Pfenninger Ele.",
+      "Laiteries réunies de Genève"
     ],
-    "Scieurs.": [
-      "Berdoz Aimé",
-      "Henchoz Aimé",
-      "Henchoz & Pilet",
-      "Morier-Genoud G.",
-      "Soc. de construction H. Rosat"
+    "Garage": [
+      "Gaudin frères"
     ],
-    "Selliers-tapissiers.": [
-      "Berdoz-Michet Emile",
-      "Chabloz André",
-      "Durand Numa"
+    "Graines potagères et fleurs": [
+      "Dutoit Veuve",
+      "Meylan Adrien"
     ],
-    "Serruriers-mécaniciens.": [
-      "Chabloz Ed.",
-      "Cordey Frédéric",
-      "Favre Maurice & Favre Jules",
-      "Gétaz Louis",
-      "Hadorn Frédéric",
-      "Pilet John",
-      "Roch Charles"
+    "Gypsiers-peintres": [
+      "Antonietti Humbert",
+      "Battistolo Tranquille",
+      "Bertoncini Francis",
+      "Décorvet Albert"
     ],
-    "Sociétés.": [
-      "Ancienne Abbaye",
-      "Fromagerie de l'Etivaz",
-      "» des Moulins",
-      "» du Pont de Pierre",
-      "Château-d'Oex",
-      "Caisse d'épargne du district",
-      "Chant, Echo des Alpes",
-      "Choeur des Montagnards",
-      "Club Vanil",
-      "Club du Patinage du Buccau",
-      "Confrérie du Chemin de l'Hongrin",
-      "Confrérie des Eaux",
-      "Confrérie du Chemin des Mérils",
-      "Confrérie du Chemin du Monteiller-Devant",
-      "Confrérie du Chemin des Récardets au Paquier Gétaz",
-      "Confrérie du Chemin et des Ponts de la Vallée des Sciernes Piccaz et Verschamps",
-      "Curling-Club",
-      "Edelweiss, Société de jeunesse",
-      "Hockey-Club",
-      "Immobilière de la villa d'Oex",
-      "Football Club",
-      "Musique, La Montagnarde",
-      "Société de tir aux armes de guerre de L'Etivaz",
-      "Tir aux armes de guerre",
-      "Tir au fusil du district du Pays-d'En-haut",
-      "Laiterie du Village",
-      "Section de la Croix-Bleue",
-      "Ski-Club Alpina",
-      "Société de Consommation de Château-d'Oex",
-      "Société de développement",
-      "Société coopérative des producteurs de fromage du Pays d'Enhaut",
-      "Société des Hôteliers",
-      "Section du Pays d'Enhaut de la Société vaudoise des secours mutuels",
-      "Société des Tirs militaires",
-      "Soc. coopérative de consommation",
-      "Société des troupes de forteresse",
-      "Section fédérale de gymnastique",
-      "Société de gymnastique d'hommes",
-      "Syndicat agricole de Château-d'Oex",
-      "Syndicat agricole de l'Etivaz",
-      "Lawn-Tennis Club",
-      "Société suisse d'économie alpestre",
-      "Union chrétienne des J. G.",
-      "Union chrétienne des J. F."
+    "Inspecteur du bétail": [
+      "Mottier Ami"
     ],
-    "Sports (articles de).": [
-      "Köfer William"
+    "Instituteurs": [
+      "Roulet Camille",
+      "Bouffard Marianne"
     ],
-    "Tailleurs.": [
-      "Arnheiter L.",
-      "Muller G.",
-      "Panarèze Fr."
+    "Jardinier": [
+      "Pouly Jules"
+    ],
+    "Justice de paix": [
+      "Collioud Marc",
+      "Baierlé Ele.",
+      "Vulliëz Henri",
+      "Nerfin Constant",
+      "Claris Charles",
+      "Mayor Henri"
+    ],
+    "Journal": [
+      "Feuille d'Avis de Coppet",
+      "Cherix, Ed."
+    ],
+    "Laitier": [
+      "Martin Julien"
+    ],
+    "Lingerie": [
+      "Mercier Blanche"
+    ],
+    "Maréchal": [
+      "Steiner Frédéric"
+    ],
+    "Mécaniciens": [
+      "Gaudin Louis",
+      "Ronc Joseph"
+    ],
+    "Médecin": [
+      "Mercier Edmond"
+    ],
+    "Menuisier-ébéniste": [
+      "Favre Henri"
+    ],
+    "Modistes": [
+      "Vulliemin"
+    ],
+    "Notaire": [
+      "Mayor Henri"
+    ],
+    "Officier d'état-civil": [
+      "Mayor Henri"
+    ],
+    "Pasteur": [
+      "Gindraux J.-A."
+    ],
+    "Primeurs": [
+      "Hauswirth Louise"
+    ],
+    "Rentiers": [
+      "Hoirs d'Haussonville"
+    ],
+    "Régisseur": [
+      "Collioud Marc"
+    ],
+    "Serrurier": [
+      "Girardet Ch."
+    ],
+    "Scierie": [
+      "Michard Jean-Louis"
+    ],
+    "Sociétés": [
+      "De fromagerie",
+      "Française de secours",
+      "Section de la Croix-Bleue"
+    ],
+    "Tailleur": [
+      "Bel François"
+    ],
+    "Tapissiers-matelassiers": [
+      "Favrichon Alfred",
+      "Meylan Jules"
+    ],
+    "Télégraphe et téléphone": [
+      "Bertoncini Rosine"
+    ],
+    "Vélos, autos": [
+      "Ronc Joseph"
+    ],
+    "Vigneron": [
+      "Duverney Marie"
+    ],
+    "Vinaigre (fab. de)": [
+      "Baierlé Ele."
+    ],
+    "Vins": [
+      "Baierlé Emile",
+      "Pfenninger Emile"
+    ],
+    "Voituriers": [
+      "Mottier Ami",
+      "Odelet Jules"
+    ],
+    "Divers": [
+      "Bory Robert",
+      "Cordès A.",
+      "Mme",
+      "Marnex",
+      "Fischer Fritz",
+      "Jaccard E. A.",
+      "Kitatbgli Klian V.P.",
+      "Krafft Charles",
+      "Béguin François",
+      "de Jong van Beek en Donk L.",
+      "Mme",
+      "Matthez J.",
+      "Gaudin T.",
+      "de Rio-Branco",
+      "baron",
+      "Schwartz-Buys E."
+    ]
+  },
+  "CRANS": {
+    "Autorités communales": [
+      "Pelichet Ulysse",
+      "Lecoultre Charles",
+      "Vulliëz Henri",
+      "Zumstein Jules",
+      "Guillet Daniel",
+      "Guignard John",
+      "Charrotton Ernest",
+      "Guillet Georges",
+      "Mange Ernest"
+    ],
+    "Agence agricole": [
+      "Broccard Vve."
+    ],
+    "Agriculteurs": [
+      "Charrotton Henri",
+      "Crottaz Lucien",
+      "Cretegny Louis",
+      "Desmeules Louis",
+      "Eschler Théophile",
+      "Favre Alexis",
+      "Gay Emile",
+      "Guignard Jules",
+      "Guillet Dan.",
+      "Junker Gottfried",
+      "Kilchherr Alfred",
+      "Lecoultre Juste",
+      "Liardon Marius",
+      "Pelichet Ulysse",
+      "Sinner Charles",
+      "Vulliëz Ami",
+      "Vulliëz Henri"
+    ],
+    "Aubergistes": [
+      "Brocard Vve.",
+      "Gagnaux Charles"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Brocard A."
+    ],
+    "Battoir à blé": [
+      "Cretegny Louis"
+    ],
+    "Boulanger": [
+      "Hauselmann Louis"
+    ],
+    "Charron": [
+      "Zumstein Jules"
+    ],
+    "Commerce de fromage": [
+      "Laiteries réunies"
+    ],
+    "Commission scolaire": [
+      "Lecoultre Chs",
+      "Mange Ernest",
+      "Vulliëz Marie",
+      "Mme"
+    ],
+    "Cordonnier": [
+      "Chuat Georges"
     ]
   }
 }

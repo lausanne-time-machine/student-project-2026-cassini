@@ -1,88 +1,124 @@
 {
-  "Ville de Vevey": {
-    "Divers.": [
-      "Pfeiffer Georges",
-      "Pfeiffer Paul",
-      "Pilet Jules",
-      "Pittard Frédéric",
-      "Platel Paul",
-      "Plumettaz O.",
-      "Rapin Ch.",
-      "Recordon Edouard",
-      "Recordon Benjamin",
-      "Revillard Ch.",
-      "Reymond Gaston",
-      "Richard-Davel L.",
-      "Richon",
-      "Rieder",
-      "Rimathé Th.",
-      "Rinsoz Ls",
-      "Ritter E.",
-      "Ritzmann E.",
-      "Robert-Mack Paul",
-      "Rochat Emile",
-      "Rochat Henri",
-      "de Rodt Henri",
-      "Rodondi Jean-G.",
-      "Rodondi-Hofer",
-      "Rohner W.",
-      "Rolli Ch.",
-      "Rosset R.",
-      "Rosset-Klausfelder",
-      "Rossier Alfred",
-      "Rossier Emile",
-      "Rossier William",
-      "Rouiller Aug.",
-      "Roy Jules",
-      "Roy Mathilde",
-      "Roy, Mlle, Emilie",
-      "Salles Ad.",
-      "Säuberlin, Mme, Vve d'Albert",
-      "Scheidegger Jean",
-      "Schellenbaum Hermann",
-      "Schiltknecht Ernest",
-      "Schneider Ernest",
-      "Schmidli Jean",
-      "Schnyder Joseph",
-      "Schwar",
-      "Seiler Auguste",
-      "Seiler, Mme, Vve",
-      "Serex Edouard",
-      "Söderquist & Fournier, Dlles",
-      "Emeraude",
-      "Spälti J.",
-      "Sterki Jacques",
-      "Stoller J.",
-      "Strittmatter Walter",
-      "Starrak F.-B., Mme",
-      "Tacheron L. Mme",
-      "Taverney Aug",
-      "Taverney Henri",
-      "Taverney Charles",
-      "Taverney Paul",
-      "Teuscher H.",
-      "Tobler W.",
-      "Truan A.",
-      "Trummer Albert",
-      "Turin Paul",
-      "Vane F. Sir",
-      "Vaudan-Payot",
-      "Vauthey Edouard",
-      "Vez Emilien",
-      "Vionnet Henri",
-      "Vodoz Emile",
-      "von der Aa, Auguste",
-      "Vuadens Edouard",
-      "Vulliémoz Louis",
-      "Wätjen, Mme",
-      "Weber Charles",
-      "Weber-Peter E.",
-      "Wetli-Combaz E.",
-      "Widmer-Merkle F.",
-      "Witz Jean",
-      "Wolff, Vve d'Alexandre",
-      "Wuilleumier Jules",
-      "Wunderlich Fr."
+  "VILLE DE PAYERNE": {
+    "Draps (filature de).": [
+      "Gingins-Berger Adèle"
+    ],
+    "Draperie, étoffes et toilerie.": [
+      "Aux Galeries Vaudoises",
+      "Brunschwig Paul",
+      "Dresco & Cie.",
+      "Gingins-Berger Adèle",
+      "Gunzburger & Meyer",
+      "Husson-Gingins J.",
+      "Rossier-Pahud H.",
+      "Tissot Henri"
+    ],
+    "Droguerie.": [
+      "Genier Adrien",
+      "Walther Richard, Pharmacie et Droguerie de l'Abbatiale"
+    ],
+    "Eaux minérales.": [
+      "Brughera Eug.",
+      "Decorges Eugène",
+      "Caves Réunies, S. A.",
+      "Rapin Albert"
+    ],
+    "Electricité.": [
+      "Entreprises électr. fribourgeoises"
+    ],
+    "Entrepreneurs en bâtiments.": [
+      "Barbonesi Jules",
+      "Battaini Louis",
+      "Frigerio Pierre",
+      "Marucco A.",
+      "Repetti Jean",
+      "Rossier Eugène et Louis, Clavignon",
+      "Rossi frères",
+      "Sartore Antoine",
+      "Savary Alfred",
+      "Schaub & Cie."
+    ],
+    "Epicerie.": [
+      "Bersier-Michaud Marcel",
+      "Borel Anna, Vve.",
+      "Clerc-Brocard Ad.",
+      "Colomb Eugène",
+      "Comte-Rapin C.",
+      "Cuérel Auguste",
+      "Favre Jules",
+      "Gaiani frères",
+      "Genier Adrien",
+      "Goutte Antoine",
+      "Hulliger Albert",
+      "Jöhr Ernest",
+      "Jomini Henri fils",
+      "Jomini-Husson Benjamin",
+      "Kaiser & Co",
+      "Mercure (S.A.)",
+      "Otz-Suter Marie, Vve.",
+      "Paré-Leuenberger Ida",
+      "Perrin Fernand",
+      "Perrin-Ryser Henri",
+      "Petitpierre Ch.. S. A.",
+      "Plumettaz Georges",
+      "Rapo Corneille",
+      "Righetti Léon",
+      "Savary-Schwab E.",
+      "Société coopér. de consommation",
+      "Vonnez et Savary, dames"
+    ],
+    "Farine lactée.": [
+      "Société Nestlé and Anglo Swiss Condensed Milk Co. O. Dommen, Dr."
+    ],
+    "Ferblantiers-appareilleurs.": [
+      "Doudin Gustave",
+      "Groux César",
+      "Perret A.",
+      "Perretten-Girard Alph.",
+      "Ryser-Perrin Ed.",
+      "Zumbach Emile"
+    ],
+    "Fers et métaux.": [
+      "Favre & Cie (S.A.)",
+      "Girardin-Muller E.",
+      "Liechti Albert",
+      "Rapin-Hubler Louis",
+      "Rapin Octave",
+      "Zuberbühler"
+    ],
+    "Filature de laine.": [
+      "Gingins-Berger Adèle"
+    ],
+    "Fontainiers.": [
+      "Doudin Gustave",
+      "Leuenberger-Jomini Paul",
+      "Peretten Alphonse"
+    ],
+    "Fleurs (mag. de).": [
+      "Addor Fred."
+    ],
+    "Fourrages.": [
+      "Germond Henri",
+      "Savary Léon",
+      "Vallotton Aloïs",
+      "Widmer E."
+    ],
+    "Fourrures-Pelleteries.": [
+      "Mauvilly-Mouquin M."
+    ],
+    "Fripier.": [
+      "Gris Oscar",
+      "Moser Henri"
+    ],
+    "Fromages (comm. de).": [
+      "Auberson Héli",
+      "Bächler Ernest",
+      "Husson-Rapin Henri",
+      "Meylan Arnold",
+      "Penseyres Oscar",
+      "Perrin Ed.",
+      "Rapin Albert",
+      "Société de laiterie"
     ]
   }
 }

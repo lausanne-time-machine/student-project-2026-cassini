@@ -1,227 +1,210 @@
 {
-  "Montreux": {
-    "Amodiateurs.": [
-      "Besson Chs",
-      "Besson Justin",
-      "Besson frères",
-      "Besson Ls",
-      "Burnet Albert et Paul"
+  "VILLENEUVE": {
+    "Autorités communales": [
+      "Bettens Constant",
+      "Viredaz Ernest",
+      "Bertholet-Joly Ernest",
+      "Masson Gustave",
+      "Faes Edouard",
+      "Nicolet Emile",
+      "Lavanchy Ls",
+      "Aigroz Fernand",
+      "Banque Populaire suisse"
     ],
-    "Associations mutualistes de retraite.": [
-      "Teuscher G."
+    "Agence agricole": [
+      "Ruchti Marguerite"
     ],
-    "Aubergiste.": [
-      "Goy Henri"
+    "Agent d'affaires patenté": [
+      "Chabloz Ch."
     ],
-    "Blanchisseuse-repasseuse.": [
-      "Meylan Désirée"
-    ],
-    "Bois (march. de).": [
-      "Fleury-Dauphin"
-    ],
-    "Charpentier.": [
-      "Reymond Ulysse"
-    ],
-    "Commission scolaire.": [
-      "Dauphin Gustave",
-      "Besson Alfred",
-      "Burnet Paul"
-    ],
-    "Cordonnier.": [
-      "Fleury Marius"
-    ],
-    "Epicerie.": [
-      "Monnard Alice"
-    ],
-    "Honoraires.": [
-      "Fleury Isaac",
-      "Fleury Marcel"
-    ],
-    "Infirmier-masseur.": [
-      "Groux Jean"
-    ],
-    "Inspecteur du bétail.": [
-      "Besson Justin"
-    ],
-    "Instituteurs.": [
-      "Teuscher Gaston",
-      "Goy Hulda Mme"
-    ],
-    "Laitier.": [
-      "Charotton"
-    ],
-    "Poste.": [
-      "Dauphin Emile"
-    ],
-    "Rentiers.": [
-      "Doudin Emile",
-      "Muller Octave"
-    ],
-    "Sociétés.": [
-      "de fromagerie. R.",
-      "Syndicat agricole d'élevage et d'alpage. R."
-    ],
-    "Tailleuse.": [
-      "Goy Hulda"
-    ],
-    "Téléphone communal.": [
-      "Goy Henri"
-    ]
-  },
-  "BIÈRE": {
-    "Autorités communales.": [
-      "Jotterand Aloïs",
-      "Brocard Ulysse",
-      "Jotterand Paul",
-      "Jotterand Robert",
-      "Mange Octave",
-      "Meldem Edouard",
-      "Pittet Edouard fils",
-      "Monthoux Robert",
-      "Rochat John",
-      "Burnier Edouard",
-      "Brocard Jules",
-      "Theintz Julien"
-    ],
-    "Agriculteurs": [
-      "Annen Ele",
-      "Autier Ed.",
-      "Autier Js",
-      "Bellon Ed.",
-      "Bellon Gustave",
-      "Bellon Henri",
-      "Brocard Auguste",
-      "Brocard Jules",
-      "Bugnoux Ed.",
-      "Bugnoux Henri",
-      "Burnier Alfred",
-      "Burnier Auguste",
-      "Burnier Constant",
-      "Burnier Edouard",
-      "Burnier Gustave",
-      "Burnier John",
-      "Burnier Octave",
-      "Burri Charles",
-      "Chenevard Ed.",
-      "Cloux-Bugnoux Jules",
-      "Cloux Benjamin",
-      "Cloux Marcel",
-      "Cloux William",
-      "Ethenoz Jean",
-      "Ethenoz Julien",
-      "Jotterand Ed.",
-      "Jotterand Paul",
-      "Mange Octave",
-      "Mange Osc.",
-      "Mange Alb.",
-      "Meldem Aloïs",
-      "Meldem Edouard",
-      "Messiaux Alf.",
-      "Monthoux Jules",
-      "Monthoux Léonard",
-      "Monthoux-Clerc Rob.",
+    "Agriculteurs-vignerons": [
+      "Bertholet Eug.",
+      "Bertholet-Favre, hoirs de Ls",
+      "Bettens Constant",
+      "Borloz Charles",
+      "Borloz-Nicolet Auguste",
+      "Briaux Charles",
+      "Burnod Charles",
+      "Burnod Sam.",
+      "Burnod-Favrod Emile",
+      "Byrde-Joly Henri",
+      "Culand-Pilet Louis",
+      "Deppen Edouard",
+      "Derameru Antoine",
+      "Diserens Gustave",
+      "Dumusque Jules",
+      "Dupraz Emile",
+      "Favre Ch. fils",
+      "Huguenin-Chenaud",
+      "Josi Gottfried",
+      "Lambelet Victor",
+      "Morandi-Rouge Victor",
+      "Nicolet-Bertholet Ls",
+      "Nicolet-Borloz Henri",
+      "Nicolet-Burnier Henri",
+      "Nicolet-Byrde François",
+      "Pichard Henri",
       "Pittet Auguste",
-      "Pittet-Borel",
-      "Pittet Edouard",
-      "Pittet Franz",
-      "Pittet Julien",
-      "Rochat Edouard",
-      "Rochat John",
-      "Rochat-Meylan Constant"
+      "Ponnaz-Bertholet Emile",
+      "Puenzieux Aug.",
+      "Renolfi François",
+      "Riesen Fritz",
+      "Rosset Alb.",
+      "Rosset, enfants d'Emile",
+      "Ruchet frères",
+      "Ruchti, Vve",
+      "Vallotton Aimé",
+      "Vallotton Ch.",
+      "Veillard, hoirs d'Aimé",
+      "Zulauf Charles"
     ],
-    "Amodiateurs.": [
-      "Bellon Edouard",
-      "Syndicat agricole et d'alpage"
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite"
     ],
-    "Associations mutualistes de retraite.": [
-      "Stauffer Ch."
+    "Benzine": [
+      "Socal S. A."
     ],
-    "Bière (dépôts de).": [
-      "Jaquemard Chs"
+    "Blanchisseuses": [
+      "Barlet Elise",
+      "Chenaux Marie",
+      "Gex Rose",
+      "Nicollier-Muller, dame",
+      "Nicolet-Pichard Louis"
     ],
-    "Blanchisseuses.": [
-      "Bangueret Célina",
-      "Chenevard Jenny",
-      "Croisier-Mattille Marguerite",
-      "Duperret Eugénie",
-      "Matter M.",
-      "Sulliger Marguerite"
+    "Bois (march. de)": [
+      "Blaser frères",
+      "Gnorra Joseph",
+      "Wenger frères"
     ],
-    "Bois (march. de).": [
-      "Brocard Auguste",
-      "Brocard Jules",
-      "Jotterand Paul et Croisier Jules",
-      "Meldem Edouard",
-      "Pittet Edouard"
+    "Bouchers": [
+      "Ametter, hoirs de Ch.",
+      "Dorsaz Paul"
     ],
-    "Boucher.": [
-      "Ledermann Georges"
+    "Boulangers-pâtissiers": [
+      "Brand",
+      "Deville Constant",
+      "Dufresne Francis",
+      "Von Burg A."
     ],
-    "Boulangers.": [
-      "Gindroz Paul",
-      "Janzi Fernand",
-      "Magnenat Ch."
+    "Buraliste postal": [
+      "Dupertuis Ed."
     ],
-    "Buraliste postal.": [
-      "Renaud Jules",
-      "Ducret François",
-      "Ethenoz Alexis",
-      "Jotterand Arthur",
-      "Messiaux Louis",
-      "Monthoux Auguste"
+    "Cafetiers": [
+      "Ametter, hoirs de Charles",
+      "Chablaix Louise, Vve",
+      "Falquier, La Tinière",
+      "Glapey Henri",
+      "Bontems, Veuve",
+      "Rollandin Virgile",
+      "Rosset Albert",
+      "Ruegger Jean",
+      "Ruchti, Vve de Jean"
     ],
-    "Cafés.": [
-      "Allaman Paul",
-      "Burnier Max",
-      "Golaz Jean",
-      "Jotterand Jules fils",
-      "Olivary Léon",
-      "Piguet Aug.",
-      "Pittet Maurice",
-      "Schmidt Paul",
-      "Sudan Alfred"
+    "Cafés-chocolat": [
+      "Giovannacci Virginie",
+      "Deville Constant",
+      "Nermy Hri"
     ],
-    "Café de tempérance.": [
-      "La Violette de Bière"
+    "Carrières": [
+      "Société des carrières d'Arvel"
     ],
-    "Carrier.": [
-      "Besson Jules"
+    "Charcutiers": [
+      "Bastian Charles",
+      "Chevallaz Julien",
+      "Möri Ernest",
+      "Nicolet Louis"
     ],
-    "Charcutiers.": [
-      "Buchs Gottfried R.",
-      "Jotterand Robert",
-      "Ledermann Georges",
-      "Piguet Auguste"
+    "Charpentiers": [
+      "Dubois Eugène",
+      "Dupraz Emile",
+      "Taux Alfred"
     ],
-    "Charpentiers.": [
-      "Pache Hippolyte",
-      "Pittet Alphonse",
-      "Vienet Jules"
+    "Charron": [
+      "Huguenin Jules"
     ],
-    "Charron.": [
-      "Stauffenegger Rob."
+    "Chaussures (march. de)": [
+      "Bertholet Vve de François",
+      "Scaletta Angel"
     ],
-    "Chaussures (march. de).": [
-      "Gilliéron Adrien"
+    "Chef de gare": [
+      "Zimmermann James"
     ],
-    "Chef de gare.": [
-      "Cuagnier Henri"
+    "Coiffeurs": [
+      "Ansaldo Salvator",
+      "Bertolami Antoine",
+      "Hofer Alfr."
     ],
-    "Chef de section.": [
-      "Pittet Edouard"
+    "Collège": [
+      "Chillon College",
+      "Alex Pym"
     ],
-    "Cigares et tabacs.": [
-      "Gilliéron Adrien",
-      "Gindroz Paul",
-      "Jotterand Jules",
-      "Magnenat Ch.",
-      "Monnier Henri",
-      "Olivary Eugène",
-      "Olivary Léon",
-      "Société coopérative"
+    "Combustibles": [
+      "Blaser E."
     ],
-    "Cinématographe.": [
-      "Jotterand Art."
+    "Commission scolaire": [
+      "Péclard Emmanuel",
+      "Henriod Alexis"
+    ],
+    "Confiserie (fabr. de)": [
+      "Schmidlin & Cie."
+    ],
+    "Cordonniers": [
+      "Bertolami Joseph",
+      "Borloz Charles",
+      "Borloz Gustave",
+      "Pouget P.",
+      "Rossier Henri",
+      "Volet Emile"
+    ],
+    "Couturières": [
+      "Bardet Mme",
+      "Busset Sophie",
+      "Clément Cécile",
+      "Emery Léa, Mlle",
+      "Grognuz Jeanne",
+      "Leuenberger Adèle",
+      "Mann Aline",
+      "Pasche Berthe"
+    ],
+    "Couvreurs": [
+      "Cossetto Jean fils",
+      "Fusinaz",
+      "Pasche John"
+    ],
+    "Crèmerie": [
+      "Giovannacci Virginie"
+    ],
+    "Electricien": [
+      "Borloz-Nicolet A."
+    ],
+    "Curé": [
+      "Bord Irénée"
+    ],
+    "Entrepreneurs": [
+      "Croci F.",
+      "Poletti Philippe",
+      "Preti Ch."
+    ],
+    "Epiceries": [
+      "Chevallaz Julien",
+      "Di Natale Uugo",
+      "Dutoit Félix",
+      "Fischer Fanny, Vve",
+      "Jaquerod Jeanne Vve",
+      "Marchand John",
+      "Nicolet-Lambelet Gustave",
+      "Perraudin Louise",
+      "Scaletta Angel",
+      "Société coopérative La Ménagère",
+      "Valinod-Masson F."
+    ],
+    "Etoffes": [
+      "Leproux-Nicolet M.",
+      "Nicolet-Mages Henri"
+    ],
+    "Ferblantiers": [
+      "Cossetto Jean",
+      "Pasche Jean-Louis"
     ]
   }
 }

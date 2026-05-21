@@ -1,216 +1,148 @@
 {
-  "Le Mont": {
-    "Sociétés": [
-      "la Croix-Bleue",
-      "de développement",
-      "Militaire des agriculteurs",
-      "des Amis du Progrès",
-      "de chant : Aurore",
-      "Assurance chevaline"
+  "Leysin": {
+    "Menuisiers": [
+      "Lombardi & Cie.",
+      "Rieben E. & Cie."
     ],
-    "Tailleur.": [
-      "Depierraz Constant",
-      "Coppoz"
+    "Mercerie, étoffes, lainages": [
+      "Bersier Georges",
+      "Camandona Noélie",
+      "Dubois A. & Cie.",
+      "Jaccard-Schmitz G. R.",
+      "Rittener Elisa",
+      "Sagne Chs.",
+      "Tauxe Rose"
     ],
-    "Tailleuses.": [
-      "Amaudruz Germaine",
-      "Belet Jeanne",
-      "Borgeaud Rosa",
-      "Cuénoud Nelly",
-      "Corbaz Aline",
-      "Duperret Violette"
+    "Modes": [
+      "Blanc Marie-Louise",
+      "Bolléa-Vaudroz Mme.",
+      "Lecomte-Besse, dame",
+      "Roth, Mlles."
     ],
-    "Téléphones publics:": [
-      "Bonnet Louise",
-      "Piot Emile"
+    "Notaires": [
+      "Genet Paul"
     ],
-    "Thés.": [
-      "Fehr Charles"
+    "Officier d'état-civil": [
+      "Dulex Pierre"
     ],
-    "Divers.": [
-      "Bornand, Mme",
-      "Fornerod A."
-    ]
-  },
-  "PAUDEX": {
-    "Autorités communales.": [
-      "Hertig Henri",
-      "Staub Henri",
-      "Séchaud Julien",
-      "Martin Eugène",
-      "Serru Etienne",
-      "Bataillard Armand",
-      "Staub Henri"
+    "Papeteries": [
+      "Hänggi-Kurepf Ida",
+      "Lecomte Henri",
+      "Slisonsky Georges",
+      "Tauxe Rose"
     ],
-    "Architecte.": [
-      "Baud Albert"
+    "Pasteurs": [
+      "Grobéty Marcel",
+      "Babut Hri",
+      "Chanoine Pythoud",
+      "Rév. Teesdale"
     ],
-    "Blanchisseries-repassage.": [
-      "Guex Louise",
-      "Tschantz dame"
+    "Peintres": [
+      "Bolléa Louis",
+      "Chambaz",
+      "Les Airelles",
+      "Crœsse J.-B.",
+      "Misslin Charles",
+      "Rabattoni Jacques",
+      "Widmann Charles"
     ],
-    "Cafés-restaurants.": [
-      "Jacquenoud Em.",
-      "Krending Fritz"
+    "Pharmaciens": [
+      "Antoine Jules",
+      "Pharmacie Victoria",
+      "Torrione Jean"
     ],
-    "Couturières.": [
-      "Amiet, dame",
-      "Trolliet Suzanne"
+    "Photographie": [
+      "Hänggi Fritz et Ida",
+      "Nicca Hugo",
+      "Slisonsky Georges"
     ],
-    "Electricien.": [
-      "Jacques Emile"
+    "Pompes funèbres": [
+      "Pompes funèbres de Leysin, S. A.",
+      "Groux Ls."
     ],
-    "Entrepreneur.": [
-      "Giazzi Sanator"
+    "Postes": [
+      "Besson Albert",
+      "Jeanloz William",
+      "Berchten Fréd.",
+      "Gex R."
     ],
-    "Epicerie.": [
-      "Diserens Henri",
-      "Krending Fritz"
+    "Primeurs": [
+      "Belet Ch.",
+      "Burnier Eugène",
+      "Carcano Eugène",
+      "Cornet-Schlup Juleitte",
+      "Gilliéron Alice",
+      "Givel Ernest et Gust.",
+      "Jollien-Welten Virginie",
+      "Mouchian",
+      "Pilloud Hermann",
+      "Pettavel Alfred",
+      "Trullaz & Cie.",
+      "Wyss & Cie."
     ],
-    "Garage d'automobiles.": [
-      "Bolomey Maurice"
+    "Professeurs de piano": [
+      "Toscano François",
+      "Tauxe Rose"
     ],
-    "Horticulteurs.": [
-      "Gorjat L.",
-      "Lavanchy Henri",
-      "Raymond William"
+    "Quincaillerie": [
+      "Aeby Fritz",
+      "Bersier Georges",
+      "Blum Paul",
+      "Ernest Emile & Cie.",
+      "Jaccard Gustave",
+      "Rittener Elisa"
     ],
-    "Inspecteur du bétail.": [
-      "Lavanchy Ls."
+    "Radiologue de la Soc. climat.": [
+      "Lauffenburger P.-F."
     ],
-    "Instituteurs.": [
-      "Bataillard Armand",
-      "Desoche, Mlle"
+    "Ramoneur": [
+      "Mino Olivier"
     ],
-    "Laitier.": [
-      "Diserens Henri"
+    "Relieur": [
+      "Sommer Gottfried"
     ],
-    "Lingère.": [
-      "Burnier-Pittet, dame"
+    "Renseignements commerc.": [
+      "Comptoir d'escompte de Genève",
+      "Emery Lucien",
+      "Sauvain J.-A.",
+      "Tauxe Rose"
     ],
-    "Mécanicien.": [
-      "Bolomey Maurice"
+    "Sage-femme": [
+      "Dufresne Elisa"
     ],
-    "Rosieriste.": [
-      "Bovay Ch."
-    ],
-    "Serruriers.": [
-      "Lesquereux & Berthoud"
-    ],
-    "Société.": [
-      "de laiterie"
-    ],
-    "Vignerons.": [
-      "Cordey Elie",
-      "Crousaz Louis",
-      "Chollet François",
-      "Gorjat Louis",
-      "Séchaud Julien, fils"
-    ],
-    "Vins (nég. en).": [
-      "Séchaud Julien"
-    ],
-    "Voituriers.": [
-      "Giobellina et Fils"
-    ]
-  },
-  "ROMANEL": {
-    "Autorités communales.": [
-      "Baudet Alexis",
-      "Bovey Ernest",
-      "Bovey David",
-      "Peitrequin Alfred",
-      "Peitrequin Benjamin",
-      "Bourgeois Rob.",
-      "Chapuis Ms",
-      "Goy Charles",
-      "Baudet René",
-      "Bovey Louis"
-    ],
-    "Agriculteurs.": [
-      "Amy Eugène",
-      "Amy Jules",
-      "Baudet Alexis",
-      "Baudet Emile",
-      "Blanc David",
-      "Bourgeois Louis",
-      "Bovey Jules",
-      "Bovey-Jaquier Louis",
-      "Corbaz Alexis",
-      "Fleury William",
-      "Peitrequin Henri"
-    ],
-    "Associations mutualistes de retraite.": [
-      "Goy C."
-    ],
-    "Aubergiste.": [
-      "Burdet Ulysse"
-    ],
-    "Boulanger-confiseur.": [
-      "Pilet Alfr."
-    ],
-    "Charcutiers.": [
-      "Barraud Charles",
-      "Chapuis Marius"
-    ],
-    "Charron.": [
-      "Bovey Eugène"
-    ],
-    "Charpentier.": [
-      "Lagnaz Ulysse"
-    ],
-    "Commission scolaire.": [
-      "Bovey Ernest",
-      "Bovey Louis",
-      "Muller",
-      "Chapuis Marius",
-      "Pache Henri"
-    ],
-    "Cordonnier.": [
-      "Chatton Auguste"
-    ],
-    "Eaux minérales.": [
-      "Eaux minérales alcalines Romanel Source Providence, S. A."
-    ],
-    "Entrepreneurs.": [
-      "Borgnana frères"
-    ],
-    "Epicerie, mercerie.": [
-      "Borgeaud Vve",
-      "Pilet Alfred"
-    ],
-    "Gypsier-peintre.": [
-      "Borgnana Louis"
-    ],
-    "Inspecteur du bétail.": [
-      "Peitrequin Fernand"
-    ],
-    "Instituteurs.": [
-      "Goy Charles",
-      "Borgnana-Besson Ida"
-    ],
-    "Justice de paix du cercle.": [
-      "Rouffy Léon",
-      "Bussy Henri",
-      "Baudet Alexis",
-      "Besson Julien",
-      "Joyet-Braissant Ami",
-      "Blondel Robert"
-    ],
-    "Maréchal.": [
-      "Chamot Edouard"
-    ],
-    "Mécanicien-électr.": [
-      "Strübin Ch."
-    ],
-    "Menuisier.": [
-      "Borgnana Adrien"
-    ],
-    "Poste.": [
-      "Bovey Edouard"
-    ],
-    "Sellier-tapissier.": [
-      "Beausire Gust."
+    "Sanatoriums et cliniques": [
+      "Société Climatérique",
+      "Sanatorium Gd-Hôtel",
+      "Sanatorium Mont-Blanc",
+      "Sanatorium Chamossaire",
+      "Association Sainte Agnès",
+      "Beau-Site",
+      "Sanatorium neuchâtelois",
+      "Belmont",
+      "Aviolat",
+      "Villa Edelweiss",
+      "Clinique les Frênes",
+      "Clinique Miremont",
+      "Sanatorium Les Chamois",
+      "Sanatorium Populaire",
+      "Clinique Flora",
+      "Clinique Florimont",
+      "Clinique du Dr de Reynier",
+      "Clinique de la Valerette",
+      "Clinique Hirondelles",
+      "Clinique Belmont",
+      "Clinique Les Buis",
+      "Clinique-Manufacture",
+      "Clinique Les Oiselets",
+      "Clinique Les Pommiers",
+      "Clinique Le Printemps",
+      "Clinique Le Rocher",
+      "Colonie de Travail",
+      "Clinique Le Trient",
+      "Sanatorium des Alpes Vaudoises",
+      "Sanatorium neuchâtelois Beau-Site",
+      "Sanatorium la Néva",
+      "Sanatorium Populaire (enfants)"
     ]
   }
 }

@@ -1,178 +1,222 @@
 {
-  "LAVEY-MORCLES": {
-    "Maréchal": [
-      "Vurlod Charles",
-      "Bocherens Jules"
+  "CHEVILLY": {
+    "Amodiateurs": [
+      "Braissant Félicien. T.",
+      "Roch René."
     ],
-    "Menuisier": [
-      "Kohly Jean"
+    "Mutualité scolaire de retraite": [
+      "Jeanprêtre A."
     ],
-    "Officier d'état civil": [
-      "Amiguet Js"
-    ],
-    "Pasteur": [
-      "Savary Pierre",
-      "de la Harpe Henri"
-    ],
-    "Pensions": [
-      "Hôtel Gryon-Bellevue",
-      "Pension Bois-Gentil",
-      "Hôtel de la Poste",
-      "Hôtel Beau-Séjour (anc. pension Morel)",
-      "Pens. du Chalet",
-      "Pension des Pars",
-      "Pension Bois-Gentil",
-      "Pension Broyon",
-      "Pension des Sapins",
-      "Pension d'enfants"
-    ],
-    "Sage-femme": [
-      "Anex Hélène",
-      "Jordan-Cherix, dame"
-    ],
-    "Scierie": [
-      "Kohly Jean"
-    ],
-    "Sociétés": [
-      "Chœur d'hommes",
-      "Syndicat agricole",
-      "Société des forces motrices de l'Avançon",
-      "Société de laiterie",
-      "Société des carrières de pierres",
-      "Société de crédit mutuel",
-      "Syndicat d'élevage de la race porcine, caprine, ovine",
-      "Société d'embellissement",
-      "Société de tir Argentine",
-      "Le Renard argenté"
-    ],
-    "Tailleurs": [
-      "Amiguet Aug.",
-      "Verboven Joseph"
-    ],
-    "Tapissier": [
-      "Anex François"
-    ],
-    "Télégraphiste et téléphoniste communal": [
-      "Henry Ernest"
-    ],
-    "Thé-café-chocolat": [
-      "Anex Henri",
-      "Saussaz Louise"
-    ],
-    "Autorités communales": [
-      "Berthoud Louis",
-      "Jaquet Charles",
-      "Pasche François",
-      "Chesaux Albert",
-      "Ecuyer Edmond",
-      "Guillat Charles",
-      "Jordan Henri",
-      "Pasche Edouard, fils",
-      "Deslex Louis"
-    ],
-    "Agriculteurs": [
-      "Ballay Emile",
-      "Berney François",
-      "Bioley, hoirie",
-      "Bonzon François",
-      "Chesaux Albert",
-      "Chesaux Aimé",
-      "Chesaux-Darbellay",
-      "Chesaux Gabriel",
-      "Deladœy Théophile",
-      "Deslex Alph.",
-      "Evard Alfred",
-      "Gandet Claude",
-      "Guillat Edouard",
-      "Jacquemet Jean",
-      "Jordan Félix",
-      "Jordan Joseph",
-      "Pasche Ed.",
-      "Pochon Joseph",
-      "Ponnaz Henri",
-      "Wœffray Louis"
-    ],
-    "Assurance-vieillesse": [
-      "Mutualité scolaire de retraite",
-      "Société mutualiste de retraite"
-    ],
-    "Assurance-Grêle cantonale": [
-      "Chesaux Albert"
-    ],
-    "Bains": [
-      "Grand Hôtel"
-    ],
-    "Blanchisseuse": [
-      "Chesaux Marguerite"
+    "Bétail (march. de)": [
+      "Roch René. T."
     ],
     "Bois (march. de)": [
-      "Chesaux Albert"
+      "Braissant Félicien. T.",
+      "Renaud Edouard"
     ],
-    "Boulanger": [
-      "Chollet Charles"
-    ],
-    "Bureaux des postes": [
-      "Mlle Cottet",
-      "Chesaux Aimée"
-    ],
-    "Cafés-restaurants et pensions": [
-      "Chesaux Lucien",
-      "Croset-Gay",
-      "Grischting Théodule",
-      "Ecuyer Edmond",
-      "Pasche Edouard"
-    ],
-    "Commandant du feu": [
-      "Jordan Félix"
-    ],
-    "Commission scolaire": [
-      "Buffat Henri",
-      "Michoud Adrien",
-      "Pasche Ed., fils",
-      "Jordan Henri",
-      "Chesaux Aimée, Mlle"
+    "Buraliste postal": [
+      "Gleyre Eugène."
     ],
     "Cordonnier": [
-      "Chesaux Auguste"
+      "Braissant Samuel."
     ],
-    "Couturières": [
-      "Kaufmann Rose",
-      "Mme Sidler"
-    ],
-    "Entrepreneur": [
-      "Ecuyer Edmond",
-      "Gritti Angelo"
-    ],
-    "Epiceries": [
-      "Bonvin Joseph",
-      "Deslex Alphonse",
-      "Montangero",
-      "Société de consommation"
-    ],
-    "Fortifications": [
-      "Hausamann",
-      "Klunge",
-      "Major Weber Otto",
-      "Major Long Constant",
-      "Colonel de Cocatrix"
-    ],
-    "Hôtels et pensions": [
-      "Etablissement thermal cantonal de Lavey",
-      "Hôtel de Morcles",
-      "Pension-rest. des Fortifications",
-      "Hôtel-pension"
+    "Epicerie, mercerie, tabacs": [
+      "Braissant François",
+      "Lugeon Victor."
     ],
     "Inspecteur du bétail": [
-      "Jordan Félix"
+      "Lugeon Louis"
     ],
-    "Instituteurs": [
-      "Berthoud Louis",
-      "Jaquemet Isabelle",
-      "Ogay Roger",
-      "Berthoud Marcelle"
+    "Instituteur": [
+      "Jeanprêtre Adolphe."
     ],
-    "Médecin": [
-      "Petitpierre Laurent"
+    "Institutrice": [
+      "Braissant-Lugeon Lse."
+    ],
+    "Maréchal": [
+      "Lugeon Jules."
+    ],
+    "Meunier": [
+      "Braissant Félicien. T."
+    ],
+    "Rentiers": [
+      "Braissant-Mingard",
+      "Gaudin Julien",
+      "Gaudin Samuel",
+      "Landfried Marc. T.",
+      "Lugeon-Chanson."
+    ],
+    "Sociétés": [
+      "de fromagerie. R.",
+      "d'alpage. R.",
+      "d'élevage R.",
+      "du battoir à grains. R."
+    ],
+    "Tailleuses": [
+      "Lugeon Adrienne et Yvette, Dlles."
+    ],
+    "Téléphone": [
+      "La Commune."
+    ]
+  },
+  "COTTENS": {
+    "Autorités communales": [
+      "Rayroux Aug.",
+      "Bolay Francis.",
+      "Paquier Charles. T.",
+      "Rayroux Paul",
+      "Berney Albert",
+      "Schopfer Gges",
+      "Barbay Juste",
+      "Monnet Jacques",
+      "Schopfer Charles."
+    ],
+    "Agriculteurs": [
+      "Berney Alb.",
+      "Bolay Frs",
+      "Bussy frères",
+      "Bussy Hri. T.",
+      "Henry Elie",
+      "Métraux Jules",
+      "Monnet Marius",
+      "Piguet Jacques",
+      "Pinguely Julia",
+      "Pittet Charles. T.",
+      "Rayroux Auguste",
+      "Rochat Constant",
+      "Schopfer Albert",
+      "Schopfer Jules",
+      "Tschanz Alfred."
+    ],
+    "Aubergiste": [
+      "Nicollier Georges"
+    ],
+    "Cantonnier": [
+      "Schopfer Edmond."
+    ],
+    "Commission scolaire": [
+      "Berney Alb.",
+      "Paquier René."
+    ],
+    "Epicerie": [
+      "Desponds Constant. RT."
+    ],
+    "Huilerie": [
+      "Monnet Marius."
+    ],
+    "Inspecteur du bétail": [
+      "Mayor Const."
+    ],
+    "Instituteur": [
+      "Jacot Henri."
+    ],
+    "Maréchal-ferrant": [
+      "Truan Jules."
+    ],
+    "Menuisier-ébéniste": [
+      "Barbay Juste. T."
+    ],
+    "Meunier": [
+      "Monnet Marius."
+    ],
+    "Pension": [
+      "Pittet Charles."
+    ],
+    "Poste": [
+      "Paquier René."
+    ],
+    "Rentier": [
+      "Moinat Auguste. T."
+    ],
+    "Sociétés": [
+      "de fromagerie. R.",
+      "du battoir à grains. R.",
+      "de laiterie."
+    ]
+  },
+  "CUARNENS": {
+    "Autorités communales": [
+      "Chappuis Rob.",
+      "Clément Maurice.",
+      "Pittet Fernand. T.",
+      "Chappuis Henri",
+      "Clément Marius-Ernest",
+      "Dumauthioz Maurice",
+      "Clément Ch.",
+      "Chappuis-Bovey William",
+      "Bovey Edouard",
+      "Chappuis Paul",
+      "Guyaz Louis."
+    ],
+    "Agriculteurs": [
+      "Bovey Armand",
+      "Bovey François",
+      "Bovey frères",
+      "Chappuis Paul",
+      "Chappuis Antoine",
+      "Chappuis Louis d'Edouard",
+      "Chappuis Ernest",
+      "Chappuis Fernand",
+      "Chappuis Robert",
+      "Chappuis frères",
+      "Chappuis frères",
+      "Chappuis-Baudin",
+      "Chappuis-Gaillard Samuel",
+      "Clément hoirs d'Alfred",
+      "Clément frères",
+      "Clément Marius",
+      "Delacrétaz Auguste",
+      "Delacrétaz Ulysse",
+      "Gaillard Julien",
+      "Mingard Henri",
+      "Piguet Henri",
+      "Pittet Auguste",
+      "Pittet Fernand",
+      "Pouly Emile."
+    ],
+    "Amodiateurs": [
+      "Chappuis frères"
+    ],
+    "Aubergistes": [
+      "Numa Simon",
+      "Rochat Lucie, Vve"
+    ],
+    "Assurance": [
+      "La Genevoise",
+      "Delacrétaz Albert"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Michel Robert"
+    ],
+    "Bétail (march. de)": [
+      "Kull Robert",
+      "Numa Simon",
+      "Pittet Const."
+    ],
+    "Blanchisseuses-repasseuses": [
+      "Baud Elisa",
+      "Chappuis Marie, Vve",
+      "Dumauthioz Louise",
+      "Merminod Hortense."
+    ],
+    "Bois (march. de)": [
+      "Chappuis Marcel. RT.",
+      "Clément Arthur."
+    ],
+    "Boulanger": [
+      "Crottaz Gustave. RT."
+    ],
+    "Charpentier": [
+      "Dumauthioz Armand."
+    ],
+    "Commission scolaire": [
+      "Chappuis Fernand",
+      "Chappuis Frank",
+      "Chappuis Ch."
+    ],
+    "Cordonnier": [
+      "Bonzon A.",
+      "Daepen Jules."
     ]
   }
 }

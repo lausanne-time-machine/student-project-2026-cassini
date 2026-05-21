@@ -1,186 +1,203 @@
 {
-  "RANCES": {
-    "Voituriers": [
-      "Bonzon Gustave",
-      "Besson Adr.",
-      "Callias A. H. (S. A.)",
-      "Dormond Albert",
-      "Suter Fritz"
+  "BUSSIGNY": {
+    "Horloger": [
+      "Perret René"
+    ],
+    "Inspecteur du bétail": [
+      "Neyret Alf."
+    ],
+    "Instituteurs": [
+      "Favre Alexandre",
+      "Gervaix Nelly",
+      "Magnin Juliette",
+      "Magnenat Marcel",
+      "Barraud Méry"
+    ],
+    "Maréchaux": [
+      "Cottier frères",
+      "Jacot Raoul"
+    ],
+    "Mécaniciens": [
+      "Favre H. T.",
+      "Rochat Ph."
+    ],
+    "Médecin": [
+      "Charbonnier Edouard"
+    ],
+    "Menuisiers": [
+      "Rey William",
+      "Rossier Louis",
+      "Zürcher Edmond"
+    ],
+    "Officier d'état-civil": [
+      "Pittet Charles"
+    ],
+    "Pensionnat de demoiselles": [
+      "Subilia Anna"
+    ],
+    "Produits chimiques agricoles": [
+      "Société Anonyme Agricola"
+    ],
+    "Rentiers": [
+      "Collet Samuel",
+      "Comte M.",
+      "Lipp Edouard",
+      "Tissot"
+    ],
+    "Représentants": [
+      "Benucci Camille"
+    ],
+    "Restaurant sans alcool": [
+      "Perrin A."
+    ],
+    "Scierie mécanique": [
+      "Wyssbrod & Nicollier"
+    ],
+    "Selliers-tapissiers": [
+      "Bernard René",
+      "Eppener Henri"
+    ],
+    "Sociétés": [
+      "d'agriculture",
+      "Immobilière de la fromagerie",
+      "Immobilière du battoir à grains",
+      "Militaire",
+      "Section de la Croix-Bleue",
+      "Syndicat des Consommateurs",
+      "Syndicat d'élevage du bétail bovin",
+      "Fédérale de gymnastique",
+      "de chant l'Espérance"
+    ],
+    "Tailleur": [
+      "Aeberhard Charles"
+    ],
+    "Tailleuses": [
+      "Barraud-Dormond Marguerite",
+      "Dessoulavy Dlle",
+      "Masson Mathilde"
+    ],
+    "Téléphones publics": [
+      "Chappuis Fernand",
+      "Schaad Charles"
+    ],
+    "Divers": [
+      "Schwab Alfred"
     ]
   },
-  "ORMONT-DESSOUS": {
+  "BUSSY-SUR-MORGES": {
     "Autorités communales": [
-      "Morex Alfred",
-      "Pernolet Paul",
-      "Chablaix Paul",
-      "Tenthorey Henri",
-      "Oguey Aloïs",
-      "Mermod Félix",
-      "Vurlod Jules",
-      "Monod Alfr.",
-      "Pernollet François",
-      "Mermod Henri"
-    ],
-    "Auto-taxis": [
-      "Müller Jean",
-      "Tauxe Constant"
-    ],
-    "Agents d'affaires patentés": [
-      "Chabloz Ch.",
-      "Viquerat A."
+      "Pavillon Eug.",
+      "Guex Ernest",
+      "Jacot Henri",
+      "Rey Edouard",
+      "Jacot Arthur",
+      "Kohli Ls",
+      "Stoudmann Robert",
+      "Bianchetti Ls",
+      "Rey Alexis",
+      "Pavillon Max"
     ],
     "Agriculteurs": [
-      "Borlat Adrien",
-      "Borloz-Dupertuis Emile",
-      "Borloz Ferdinand",
-      "Borloz frères",
-      "Chablaix-Mermod Adrien",
-      "Chablaix Arthur",
-      "Dupertuis Ami",
-      "Dupertuis Emile",
-      "Durgniat Louis",
-      "Durgniat Lydie, Vve",
-      "Durgniat Olivier",
-      "Echenard Maurice",
-      "Hubert Alfred",
-      "Hubert Alexis",
-      "Morier Arthur",
-      "Morier Victor",
-      "Mottier Gustave",
-      "Mottier-Girod Adolphe",
-      "Oguey Aloïs",
-      "Oguey David",
-      "Pernet Eugène",
-      "Perrod Adrien",
-      "Perrod frères",
-      "Tauxe frères",
-      "Tille Adrien",
-      "Tille Eugène",
-      "Vurlod-Bonzon Al."
+      "Bianchetti Félix",
+      "Bianchetti Louis",
+      "Borel Edouard",
+      "Charrière Eug.",
+      "Corday Eug.",
+      "Cusin D.",
+      "Garin Eug.",
+      "Jacot Henri",
+      "Jacot Arthur",
+      "Jaquet François",
+      "Jaunin Jules",
+      "Kohli Louis",
+      "Pavillon Eugène",
+      "Rey Edouard",
+      "Rey Alexis",
+      "Stoudmann Robert"
     ],
-    "Armurier": [
-      "Ginier"
-    ],
-    "Assurance Mutuelle Vaudoise": [
-      "Chenaux Henri"
+    "Apiculteurs": [
+      "Anken Ferdinand",
+      "Kohli Ls",
+      "Stoudmann Robert"
     ],
     "Associations mutualistes de retraite": [
-      "Berthoud A.",
-      "Jomini André",
-      "Lambercy Eug."
+      "Guex E."
     ],
-    "Mutualité scolaire de retraite": [
-      "Dupraz"
-    ],
-    "Banque": [
-      "Crédit Foncier Vaudois",
-      "Pernollet François, fils",
-      "Caisse du Crédit mutuel",
-      "Tenthorey Henri"
-    ],
-    "Bétail (comm. de)": [
-      "Aviolat Auguste",
-      "Dupertuis Victor",
-      "Tavernie Henri",
-      "Vurlod Ami"
-    ],
-    "Bois (march. de)": [
-      "Bonzon Jules",
-      "Durgniat frères",
-      "Durgniat Marcel"
-    ],
-    "Boucher": [
-      "Pernet Léonore"
-    ],
-    "Boulangers": [
-      "Bonzon Charles",
-      "Dupertuis Const.",
-      "Dupertuis Js-Edouard",
-      "Monod Jules"
-    ],
-    "Cafetiers": [
-      "Chenaux Henri",
-      "Muller Jean",
-      "Hubert Vve",
-      "Schneider Jean",
-      "Genton Henri",
-      "Tenthorey Henri",
-      "Venturino Em.",
-      "Soc. de jeunesse"
-    ],
-    "Chalets (location de)": [
-      "Aviolat Alf.",
-      "Borlat Adrien",
-      "Borlat-Morex, Veuve",
-      "Borloz-Dupertuis Emile",
-      "Borloz-Hubert Félicie, Veuve",
-      "Bonzon Lina",
-      "Chamorel Sylvie",
-      "Dufresne Jules",
-      "Dupertuis Ami",
-      "Durgniat-Tauxe Lydie",
-      "Durgniat Olivier",
-      "Ginier Elisa",
-      "Hubert Alexis",
-      "Hubert Paul",
-      "Hubert-Tavernier Aug.",
-      "Hubert-Ziegler",
-      "Massard Jules",
-      "Massard Paul",
-      "Mermod Ernest",
-      "Monod frères",
-      "Morier Arthur",
-      "Morier Victor",
-      "Mottier Emile",
-      "Mottier Constant",
-      "Oguey-Borloz Bertha",
-      "Société de développement Villars-Chesières-Arveyes",
-      "Tauxe-Borloz Aug.",
-      "Tauxe François",
-      "Tille Adrien",
-      "Vaudroz Emile",
-      "Vurlod Constant"
-    ],
-    "Charpentiers": [
-      "Monod Olivier",
-      "Mottier Vincent",
-      "Oguey Gust.",
-      "Tauxe frères",
-      "Tille Adrien"
-    ],
-    "Charrons": [
-      "Bonzon-Tille Jules",
-      "Jacot Charles"
-    ],
-    "Chef de gare": [
-      "Perrod"
-    ],
-    "Chef de section": [
-      "Monod Alfred"
-    ],
-    "Cigares et tabacs": [
-      "Bonzon Charles",
-      "Ginier sœurs",
-      "Hubert-Ziegler, Vve",
-      "Hubert Auguste",
-      "Société coopérative",
-      "Pernollet Frs fils",
-      "Pernollet Pl."
-    ],
-    "Cliniques-Pensions": [
-      "Les Noisetiers",
-      "L'Etoile",
-      "Teherdyazeff-Violat Sylvie"
-    ],
-    "Coiffeur": [
-      "Bignens Gust"
+    "Charron": [
+      "Fehlbaum Jean"
     ],
     "Commission scolaire": [
-      "Mermod Félix"
+      "Jacot Arthur",
+      "Bianchetti Ls"
     ],
-    "Cordonniers": [
-      "Longet Jules",
-      "Tauxe"
+    "Couturière": [
+      "Mingard Gabrielle"
+    ],
+    "Epiceries": [
+      "Cardinaux Henri",
+      "Mingard Samuel R."
+    ],
+    "Inspecteur du bétail": [
+      "Mingard S."
+    ],
+    "Instituteur": [
+      "Guex Ernest"
+    ],
+    "Institutrice": [
+      "Kohli Marie"
+    ],
+    "Laitier": [
+      "Germann Jean R."
+    ],
+    "Mécaniciens": [
+      "Anken Ferdinand",
+      "Bianchetti Louis"
+    ],
+    "Sociétés": [
+      "de fromagerie de Bussy et Chardonney",
+      "Poids public",
+      "Société d'alpage et d'élevage",
+      "Société coopérative de la machine à battre Bussy et Chardonney"
+    ]
+  },
+  "CHARDONNEY (Régie)": {
+    "Autorités communales": [
+      "Borel Edouard",
+      "Cavin Francis",
+      "Burckhardt Ls",
+      "Chappuis Jules",
+      "Pavillon Eugène",
+      "H. de la Harpe"
+    ],
+    "Agriculteurs": [
+      "Burckhardt Ls",
+      "Cavin Francis",
+      "Charrière Emile",
+      "Charrière. Vve"
+    ],
+    "Associations mutualistes de retraite": [
+      "Guex E."
+    ],
+    "Aubergiste": [
+      "Mingard Eug."
+    ],
+    "Inspecteur du bétail": [
+      "Cavin Franç."
+    ],
+    "Rentiers": [
+      "Burckhardt Ls"
+    ],
+    "Vignerons": [
+      "Barbey Alfred",
+      "Cavin Francis",
+      "Mingard Eugène"
+    ]
+  },
+  "CHAVANNES près RENENS": {
+    "Autorités communales": [
+      "Lavanchy Henri",
+      "Dusserre Armand",
+      "Dusserre Henri"
     ]
   }
 }

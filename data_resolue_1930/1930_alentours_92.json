@@ -1,243 +1,245 @@
 {
-  "BRENLES": {
-    "Agriculteurs": [
-      "Corthésy Paul",
-      "Durussel Oscar",
-      "Frossard Emile",
-      "Ganières Constant",
-      "Ganières Jules",
-      "Ganières Marcel",
-      "Gavin Constant",
-      "Gavin Emile",
-      "Gavin Ls",
-      "Germond Eugène",
-      "Muri Christian",
-      "Pidoux Héli",
-      "Rod Jules",
-      "Senn Edmond",
-      "Senn Maurice",
-      "Senn Ulysse"
+  "BULLET": {
+    "Crémeries": [
+      "Champod Paul",
+      "Thévenaz Edouard"
     ],
-    "Associations mutualistes de retraite": [
-      "Chevalley C., Mme"
+    "Distillateurs": [
+      "Gander frères",
+      "Gresset Nestor",
+      "Thévenaz Jules"
     ],
-    "Aubergistes": [
-      "Léchaire Paul",
-      "Senn Ulysse"
+    "Draperie": [
+      "Champod Jules-Emile",
+      "Duvoisin Estelle",
+      "Hartmann Albert"
     ],
-    "Boulanger": [
-      "Poletti Eugène"
+    "Electricien": [
+      "Cattani Joseph"
     ],
-    "Commission scolaire": [
-      "Corthésy Paul",
-      "Corthésy Edouard",
-      "Senn Ulysse"
+    "Engrais chimiques": [
+      "Gander Ch."
     ],
-    "Cordonnier": [
-      "Chassot Alphonse"
+    "Entrepreneur de maçonnerie": [
+      "Maggi Pierre"
     ],
     "Epicerie, mercerie": [
-      "Blanc Henri"
+      "Champod Jules-Emile",
+      "Champod Paul",
+      "Cruchaud hoirie",
+      "Duvoisin Estelle",
+      "Hartmann Albert",
+      "Hunziker Albert"
+    ],
+    "Finissage de musique": [
+      "Addor Jules"
+    ],
+    "Garde-police": [
+      "Fischer Ami"
+    ],
+    "Garde de triage": [
+      "Champod Aug."
     ],
     "Inspecteur du bétail": [
-      "Gavin Louis"
+      "Bonnet John"
     ],
     "Instituteurs": [
-      "Jacot Hector",
-      "Corthésy-Masson Amélie"
+      "Kohler Daniel",
+      "Rinsoz Marie",
+      "Thévenaz Marie"
     ],
-    "Maréchal": [
-      "Porchet Ernest"
+    "Laitiers": [
+      "Hausamann Robert",
+      "Meylan Charles",
+      "Zwahlen Charles"
+    ],
+    "Limes (fab. de)": [
+      "Lassueur John",
+      "Lassueur Louis",
+      "Leuba Emile"
+    ],
+    "Lingères": [
+      "Champod Zélie",
+      "Hartmann Rosa",
+      "Lassueur Berthe"
+    ],
+    "Lithographe": [
+      "Jacques André"
+    ],
+    "Maréchaux": [
+      "Thévenaz Charles",
+      "Thévenaz Frédéric"
+    ],
+    "Mécanicien": [
+      "Læfli Arnold"
+    ],
+    "Menuisiers": [
+      "Champod Ami",
+      "Champod Armand et André",
+      "Champod Jules",
+      "Cruchaud Emile",
+      "Duvoisin Jules",
+      "Gaillard Marcel"
+    ],
+    "Modiste": [
+      "Hausamann Hélène"
+    ],
+    "Nickeleurs": [
+      "Gaillard Albert",
+      "Gaillard Gérald",
+      "Perret René"
+    ],
+    "Officier d'état-civil": [
+      "Lassueur Ls."
+    ],
+    "Pasteur": [
+      "Ledermann Charles"
+    ],
+    "Pensions": [
+      "Bonnet Auguste",
+      "Simonin Hermann"
+    ],
+    "Pensions d'étrangers": [
+      "Bolens Ch.",
+      "Champod Paul",
+      "Cruchaud L.",
+      "Junod Benjamin",
+      "Junod fils",
+      "Junod Louis",
+      "Junod-Jequier Ed.",
+      "S. A. du Grand-Hôtel des Rasses et Grand-Hôtel"
+    ],
+    "Photographe": [
+      "Thévenaz Michel"
+    ],
+    "Pierres fines (fab. de)": [
+      "Cardinaux F.",
+      "Robellaz Auguste"
+    ],
+    "Pierristes": [
+      "Baudin Henri",
+      "Baumer Emma",
+      "Bonnet Rosa",
+      "Bonnet Suzanne",
+      "Bugnon Ch.",
+      "Cruchaud Lucie",
+      "Durussel Marie",
+      "'' Marie",
+      "Gresset Louis",
+      "Grüber Hélène",
+      "Hartmann Lucie",
+      "Lassueur Emilie",
+      "Robellaz Lina",
+      "Thévenaz Albert",
+      "Thévenaz Antoinette",
+      "Thévenaz Elisa",
+      "Thévenaz Michel"
+    ],
+    "Planteur d'échappements à ancre": [
+      "Bonnet Aug.",
+      "Mermod Michel"
+    ],
+    "Planteurs d'échappements à ancre": [
+      "Hartmann Albert",
+      "Lassueur Alf."
     ],
     "Poste": [
-      "Senn Nancy"
+      "Champod John",
+      "Lassueur Elisa, Vve",
+      "Société de Transport Ste-Croix",
+      "Thévenaz L."
+    ],
+    "Primeurs": [
+      "Bonnet Rose"
+    ],
+    "Repasseuses": [
+      "Bonnet Marie"
+    ],
+    "Représentant": [
+      "Baierlé Ed"
+    ],
+    "Sage-femme": [
+      "Grüber Marie"
+    ],
+    "Scierie": [
+      "Cruchaud & Duvoisin"
     ],
     "Sociétés": [
-      "de fromagerie",
-      "Association du battoir",
-      "Syndicat agricole"
+      "de fromagerie du Chalet Neuf. R.",
+      "de tir aux armes de guerre",
+      "de chant l'Harmonie du Jura",
+      "de musique la Montagnarde",
+      "Le Chœur mixte",
+      "Syndicat agricole. R.",
+      "Fromagerie ancienne de Bullet. R.",
+      "Laiterie des Rasses",
+      "Section de la Croix-Bleue",
+      "Ski Club",
+      "de gymnastique",
+      "de jeunesse"
     ],
-    "Téléphoniste": [
-      "Poletti Eugène"
+    "Tailleur": [
+      "Bonnet Paul"
+    ],
+    "Tailleur de pierre": [
+      "Maggi Louis"
+    ],
+    "Tailleuses": [
+      "Champod Julie",
+      "Champod Louisa",
+      "Duvoisin Marguerite",
+      "Gaillard Elisa",
+      "Hartmann Rosa",
+      "Thévenaz Berthe",
+      "Thévenaz Lina"
+    ],
+    "Télégraphistes": [
+      "Lassueur Elisa",
+      "Thévenaz Ls."
+    ],
+    "Téléphone": [
+      "Bureau des postes"
+    ],
+    "Tricotage à la machine": [
+      "Junod-Paillard"
+    ],
+    "Voituriers": [
+      "Champod Alexandre",
+      "Champod Arthur",
+      "Champod Jules",
+      "Champod L.",
+      "Gander Ami",
+      "Lassueur frères",
+      "Sueur Albert",
+      "Thévenaz Ab.",
+      "Thévenaz Charles",
+      "Thévenaz Henri"
     ]
   },
-  "BUSSY-SUR-MOUDON": {
+  "CHAMPAGNE": {
     "Président du Conseil général": [
-      "Braissant Louis"
+      "Banderet Eugène"
     ],
     "Secrétaire": [
-      "Ducret Henri"
+      "Duvoisin Charles",
+      "Banderet Louis"
     ],
     "Syndic": [
-      "Meystre Constant"
+      "Banderet Gustave"
     ],
     "Municipaux": [
-      "Lagnaz Alexis",
-      "Piot Frédéric",
-      "Augsburger Ulysse",
-      "Jossevel Octave"
-    ],
-    "Secrét.": [
-      "Lagnaz Jean"
-    ],
-    "Boursier": [
-      "Braillard Auguste"
-    ],
-    "Agriculteurs": [
-      "Augsburger Elise",
-      "Augsburger Jules",
-      "Balmer Charles",
-      "Bigler frères",
-      "Delisle Hri",
-      "Ducret Henri",
-      "Ducret Julien",
-      "Durussel Alfred",
-      "Durussel Ch.",
-      "Durussel Fern.",
-      "Jossevel Arn.",
-      "Jossevel Octave",
-      "Kreutzer Yvan",
-      "Lagnaz Jean",
-      "Meystre Constant",
-      "Meystre Henri",
-      "Pidoux, hoirie d'Alfred",
-      "Piot Frédéric",
-      "Porchet Samuel",
-      "Stelz Jules",
-      "Thonney Alexis",
-      "Thonney Jules",
-      "Veyre Jules",
-      "Vifian Jean"
-    ],
-    "Société mutualiste de retraite": [
-      "Braissant Ls"
-    ],
-    "Bétail (md de)": [
-      "Bourquin Charles"
-    ],
-    "Beurre et fromage": [
-      "Balimann Adolphe"
-    ],
-    "Café": [
-      "Bigler Christian"
-    ],
-    "Charpentier": [
-      "Kreutzer Yvan"
-    ],
-    "Commission scolaire": [
-      "Jossevel Octave",
-      "Augsburger Ulysse",
-      "Lagnaz Jean"
-    ],
-    "Facteur": [
-      "Jossevel Fritz"
-    ],
-    "Inspecteur du bétail": [
-      "Piot Frédéric"
-    ],
-    "Instituteur": [
-      "Braissant Louis"
-    ],
-    "Laitier": [
-      "Thonney Alfred"
-    ],
-    "Sociétés": [
-      "du battoir à blé",
-      "de laiterie"
-    ],
-    "Téléphoniste": [
-      "Bigler Christian"
-    ]
-  },
-  "CHAPELLE": {
-    "Président du Conseil général": [
-      "Mingard John"
-    ],
-    "Secrétaire": [
-      "Mingard Jules",
-      "Besson-Porchet Héli"
-    ],
-    "Syndic": [
-      "Besson Jules"
-    ],
-    "Municipaux": [
-      "Veyre Constant",
-      "Guignet Alfred",
-      "Mingard Emile",
-      "Mingard Const.",
-      "Guignard Paul",
-      "Jaton Ernest"
+      "Guilloud Oscar",
+      "Giroud Léon",
+      "Tharin Charles",
+      "Ray Hri",
+      "Tharin Jean",
+      "Giroud Jules"
     ],
     "Boursier": [
-      "Mingard Ernest"
+      "Millet Germain"
     ],
-    "Agriculteurs": [
-      "Besson Edouard",
-      "Besson Emile, de Jean",
-      "Besson, hoirie de Jules",
-      "Besson Jules",
-      "Besson Ami",
-      "Besson-Freymond Héli",
-      "Besson-Porchet Héli",
-      "Bovay Henri",
-      "Cavin Adrien",
-      "Cavin Jules",
-      "Chapallaz Henri",
-      "Cordey Auguste",
-      "Cordey Ulysse",
-      "Gilliand Emile",
-      "Gilliéron Alfred",
-      "Guex Alphonse",
-      "Guex Ernest",
-      "Guignard Paul",
-      "Guignet Charles",
-      "Guignet Jules-Alfred",
-      "Jaton Alfred",
-      "Jaton Alphonse",
-      "Jaton Ernest",
-      "Jaton Héli",
-      "Jaton Louis",
-      "Magnenat Henri",
-      "Martin Héli",
-      "Mingard Ami",
-      "Mingard Oscar",
-      "Mingard Const.",
-      "Mingard Edmond",
-      "Mingard Emile",
-      "Mingard Ern.",
-      "Mingard, hoirie",
-      "Mingard John",
-      "Mingard Louis",
-      "Mingard Lucien",
-      "Pache Eugène",
-      "Pache Félix",
-      "Pache Jean",
-      "Pache Jean-Chs",
-      "Sauvageat Paul",
-      "Sonnay Justin",
-      "Stubi Henri",
-      "Trolliet David",
-      "Trolliet, hoirie de Maurice",
-      "Veyre Constant",
-      "Veyre Jules",
-      "Veyre Louis",
-      "Zurcher Fritz"
-    ],
-    "Associations mutualistes de retraite": [
-      "Lagnel F."
-    ],
-    "Aubergistes": [
-      "Besson Héli",
-      "Trolliet Emma, Vve"
-    ],
-    "Boucher": [
-      "Pache Jean"
-    ],
-    "Buraliste postal et téléphone central": [
-      "Jaton-Cornu Eugénie"
-    ],
-    "Cantonnier": [
-      "Cordey Louis"
+    "Huissier": [
+      "Giroud Albert"
     ]
   }
 }

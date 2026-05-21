@@ -1,118 +1,160 @@
 {
-  "Château-d'Oex": {
-    "Agriculteurs": [
-      "Morel Henri",
-      "Morier-Genoud B.",
-      "Saugy Ami. R.",
-      "Société de consommation de Château-d'Oex",
-      "Société coopérative",
-      "Roch-Berthod Louis",
-      "Rosat Alois",
-      "Rosat Henri",
-      "Zulauf Ed."
+  "VILLE DE NYON": {
+    "Vitrerie pour bâtiments.": [
+      "Boldrini & Cie",
+      "Burnand fils",
+      "Gamboni V. & sœur",
+      "Tavelli & Bruno (S. A.)"
     ],
-    "Brevets d'invention": [
-      "Flesch L."
+    "Voiturier.": [
+      "Francelet Alfred",
+      "Zwahlen Paul"
     ],
-    "Broderies-dentelles": [
-      "Dest-Villiger Emerentia"
+    "Volailles (march. de).": [
+      "Lizon Albert",
+      "Rosset Hélène"
     ],
-    "Bureau de renseignements": [
-      "Bureau officiel de renseignements"
+    "Divers.": [
+      "Bader",
+      "Baup Alf.",
+      "Bondallaz Ls",
+      "Bonnin F.",
+      "Borgognon Ch.",
+      "Bruno Ferd.",
+      "Chatelanat Edouard",
+      "Chatelanat Paul",
+      "de Luc Armand",
+      "de Purucker J.",
+      "Dorier Lucien",
+      "Dreyfus R.",
+      "Dubois J. H.",
+      "Dunant-Marcuard G.",
+      "Ferraris Célestin",
+      "Fontaine Henri",
+      "Galland Ed.",
+      "Genand H.",
+      "Girardet Jules",
+      "Gonet",
+      "Graber P.",
+      "Graf Jos.",
+      "Granger Alf.",
+      "Grau",
+      "Guisan",
+      "Hentsch Emma",
+      "Juvet Georges",
+      "Klebs Arnold",
+      "Krehl G.",
+      "Matthey-Doret Edouard",
+      "Menu Henri",
+      "Mühlethaler Théoph.",
+      "Murat J.",
+      "Paderewski Ignace",
+      "Pécaud Ch.",
+      "Périer M.",
+      "Revilliod John-F.",
+      "Robert A.",
+      "Roux",
+      "Sandoz Julien",
+      "Saugy",
+      "Saugy-Martin",
+      "Schleppi B.",
+      "Thomas-Baup L.",
+      "Vidoudez A.",
+      "Vuadens Ch.",
+      "Weber"
+    ]
+  },
+  "ARNEX-SUR-NYON": {
+    "Autorités communales.": [
+      "Chevrot André",
+      "Lacôte Ernest",
+      "Briggen Alfred",
+      "Chollet Robert",
+      "Chevrot André",
+      "Briggen Alfred"
     ],
-    "Buralistes postaux": [
-      "Bach Louis",
-      "de Kænel Marie",
-      "Mollien Auguste",
-      "Pilet Adrien",
-      "Vauthey Ch."
+    "Agriculteurs.": [
+      "Bessaud Ch.",
+      "Briggen",
+      "Chollet Robert",
+      "Guignet Aug.",
+      "La Côte",
+      "Kipfer Jean",
+      "Maurer Ticon",
+      "Tille Jules",
+      "Volet",
+      "Vulliez Ernest"
     ],
-    "Cafés": [
-      "Anderegg",
-      "Desquartiers Louis",
-      "Gossweiler Ch.",
-      "Henchoz Robert",
-      "de Kænel Marie",
-      "Mollien Ernest",
-      "Morier Charles"
+    "Commission scolaire.": [
+      "Briggen Alfred"
     ],
-    "Café-chocolat": [
-      "Burnand Gustave"
+    "Inspecteur du bétail.": [
+      "Chollet Rob."
     ],
-    "Cercueils": [
-      "Turrian",
-      "Gétaz Ch."
+    "Meunier.": [
+      "Chevrot André"
     ],
-    "Chalets meublés à louer": [
-      "Bach Alfred",
-      "Bach",
-      "Berthod-Rosat Paul",
-      "Bertholet Ch.-Victor",
-      "Bornet",
-      "Bovay-Ramel A.",
-      "Bujard",
-      "Chabloz Auguste",
-      "Chabloz David",
-      "Chabloz",
-      "Descoullayes Louis",
-      "Dubuis-Martin",
-      "Ganty-Berney Ls",
-      "Hauswirth",
-      "Henchoz-Morier",
-      "Lenoir-Chabloz",
-      "Martin Augusta",
-      "Moll F.",
-      "Petit Charles"
+    "Pilules pour l'anémie.": [
+      "Vollet-Bossey"
     ],
-    "Chapelleries": [
-      "Chabloz-Husler Henri",
-      "Dubuis-Pilet Paul",
-      "Gonset-Henrioud, S. A."
+    "Rentier.": [
+      "De Haller"
     ],
-    "Charpentiers": [
-      "Divorne Louis",
-      "Isoz-Mottier Louis",
-      "Pilet Louis",
-      "Soc. de Construction H. Rosat",
-      "Chabloz Fernand"
+    "Représentant.": [
+      "Tille John"
     ],
-    "Charretiers": [
-      "Isoz-Steiner Aloïs",
-      "Isoz-Yersin Ls",
-      "Morier Louis"
+    "Sociétés.": [
+      "de fromagerie d'Arnex"
     ],
-    "Charrons": [
-      "Bornet Ami",
-      "Gürber Gustave"
+    "Téléphone.": [
+      "Bessaud Charles"
+    ]
+  },
+  "ARZIER ET LE MUIDS": {
+    "Autorités communales.": [
+      "Dufour Paul",
+      "Jacques Oscar",
+      "Dufour Fernand",
+      "Chapuis Charles",
+      "Cujean Samuel",
+      "Cujean Arthur",
+      "Ruffet Louis",
+      "Dufour Emile",
+      "Chambaz Paul",
+      "Ruffet Bertrand",
+      "Chambaz Charles"
     ],
-    "Chaudronnier": [
-      "Jaggi Ernest"
+    "Agriculteurs.": [
+      "Badan Henri",
+      "Chapuis Charles",
+      "Cujean Adolphe et Alfr.-Ls",
+      "Dufour Fern.",
+      "Dufour Ernest",
+      "Dufour Henri",
+      "Dufour Jules",
+      "Humbert Alfred",
+      "Loup L.",
+      "Blatter Fritz",
+      "Cujean Arthur",
+      "Divorne Félix",
+      "Dorier Francis",
+      "Dufour Ch.",
+      "Dufour Ls-Marius",
+      "Ruffet Ami",
+      "Ruffet Ch.",
+      "Ruffet Louis"
     ],
-    "Chaussures": [
-      "Grassi Bart.",
-      "Henchoz Emile",
-      "Morier-Genoud Benjamin",
-      "Pilet Ami",
-      "Simon Alfred",
-      "Zulauf Alexis"
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Hurlimann G."
     ],
-    "Chef de section": [
-      "Henchoz Louis"
+    "Aubergistes.": [
+      "Chambaz Auguste",
+      "Ruffet Bertrand",
+      "Bertholet Christinet"
     ],
-    "Cigares et tabacs": [
-      "Bugnion Marguerite",
-      "Demaurex Frédéric",
-      "Dubuis-Pilet Paul",
-      "Henchoz-Yersin",
-      "Morier Edouard",
-      "Mollien",
-      "Saugy Ami. R.",
-      "Société de consommation",
-      "Société de Coopérative"
-    ],
-    "Cliniques": [
-      "de Wyss Edouard",
-      "La Soldanelle"
+    "Bois (march. de).": [
+      "Cujean Franck"
     ]
   }
 }

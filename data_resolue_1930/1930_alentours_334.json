@@ -1,122 +1,85 @@
 {
-  "VILLE D'YVERDON": {
-    "Quincaillerie.": [
-      "Carrel L. & C.",
-      "Crozat & Roux",
-      "Decker E.",
-      "Dubath-Gay Em. Vve",
-      "Elikann & Cie",
-      "Freymond Adr.",
-      "Mottaz frères",
-      "Pillevuit Emile"
+  "Ville de Vevey": {
+    "Teinturiers.": [
+      "Grande Teinturerie de Morat",
+      "Rochat (S. A.)",
+      "Rossiaud frères & Cie",
+      "Terlinden & Cie, Wellauer. dame"
     ],
-    "Ramoneurs.": [
-      "Barmaverain Pierre",
-      "Luginbuhl Alb."
+    "Théâtre.": [
+      "Grangier Edouard"
     ],
-    "Receveur.": [
-      "Dessemontet Ch."
+    "Thés.": [
+      "Beer F.",
+      "Cuénod Frank",
+      "Haefner-Bonjour Th.",
+      "Pankoffer Adolphe",
+      "Schmidt & Cie, (S. A.)"
     ],
-    "Relieurs.": [
-      "Gonthier René",
-      "Vagnières J.-H.",
-      "Wuille Louis"
+    "Tonneliers.": [
+      "Ellenberger Auguste",
+      "Federer Chs.",
+      "Mayor II.",
+      "Schenkel Jean",
+      "Schwab Jean"
     ],
-    "Renseignements.": [
-      "Gross O.",
-      "Hoog Fernand",
-      "Chapuis Henri"
+    "Tourneurs sur bois.": [
+      "Borgeaud V.",
+      "Girod François",
+      "Vuadens Ernest"
     ],
-    "Représentants de commerce.": [
-      "Becholey Daniel",
-      "Borel Ls.",
-      "Briod M.",
-      "Bussy Alfred",
-      "Chapuis V.",
-      "Clerc J.",
-      "Décoppet Pierre",
-      "Devaud M.",
-      "Dubath Ch.",
-      "Feller H.",
-      "Fuchs Auguste",
-      "Glauser M. H.",
-      "Gostelli Ed.",
-      "Perroud Julien",
-      "Peter Charles",
-      "Rickli F.",
-      "Ries-Garin Max"
+    "Tricotages.": [
+      "Brandt A.",
+      "Brugger Vve. E.",
+      "Dormond Jules",
+      "Gavin Emma",
+      "Grosvernier L.",
+      "Salvador Lina",
+      "Sœurs Nicollier"
     ],
-    "Ressorts de montres (fab. de).": [
-      "Jacot, Vve de Georges"
+    "Tripier.": [
+      "Triperie de Vevey"
     ],
-    "Sables et graviers.": [
-      "Grandguillaume Eug.",
-      "Petitpierre Jules",
-      "Verdan Ed."
+    "Vannerie.": [
+      "Ducret Emile",
+      "Wunderlin A."
     ],
-    "Sages-femmes.": [
-      "Cavin W.",
-      "Perrin, Mme",
-      "Ray Eva"
+    "Vélos, Motos (march. de).": [
+      "Briffod Ch.",
+      "Budry Marius",
+      "Claude Paul",
+      "Claude Léon",
+      "Niquet L.",
+      "Savary Louis"
     ],
-    "Savons et lessives (fab. de).": [
-      "L'Aigle (S. A.)",
-      "Péclard frères",
-      "Wasem, Klink & Cie"
+    "Vétérinaire.": [
+      "Boudry Pierre"
     ],
-    "Scierie mécanique.": [
-      "Favri Vve de Léon",
-      "Maire Ami"
+    "Vins.": [
+      "de Ambroggi Henri",
+      "Blank & Co",
+      "Claivaz, Vve de François-Ls",
+      "Gonella Charles",
+      "Goy Louis",
+      "Grossenbach & Cie",
+      "Krähenbühl A.",
+      "Lädermann A.",
+      "Lenzo-Holl & Co",
+      "Matthys Jean",
+      "Meneveri Paul",
+      "Musso Louis fils",
+      "Obrist & Cie",
+      "Palladino Simon",
+      "Schlunegger Jean",
+      "Thuillard-Martinetti",
+      "Weber Albert & fils",
+      "Wullschleger Otto"
     ],
-    "Selliers-carrossiers.": [
-      "Combremont Gérald",
-      "Cuérel J.",
-      "Fischer Alfred",
-      "Gilliéron Ulysse",
-      "Perreten Rob.",
-      "Stettler Walther"
-    ],
-    "Serruriers.": [
-      "Barraud John",
-      "Bonjour Robert",
-      "Borloz",
-      "Brunner Louis",
-      "Ledermann F.",
-      "Tschuiny Albert"
-    ],
-    "Sirops (fabricant de).": [
-      "Annen Alfred",
-      "Bécholey Daniel",
-      "Schneider Ed., Vve"
-    ],
-    "Sociétés.": [
-      "Association vaudoise des amodiateurs-éleveurs (alpage)",
-      "Caisse d'épargne et de prévoyance",
-      "Club Alpin",
-      "Club montagnard ouvrier",
-      "Communauté israélite",
-      "Coopérative des ouvriers du bâtirn.",
-      "Corps de musique",
-      "Crédit Yverdonnois",
-      "Fédération des producteurs de lait",
-      "Jeune société immobilière",
-      "Service d'Escompte Yverdon et environs",
-      "Société pour l'amélioration de l'espèce chevaline",
-      "Société Anonyme des Entrepôts",
-      "» de l'école enfantine",
-      "» des Dragons, Guides et Mitrailleurs",
-      "» de développement de la ville",
-      "» de développement du quartier des Cygnes",
-      "» du battoir à grains d'Yverdon et environs",
-      "Fanfare ouvrière L'Avenir",
-      "» d'Aviculture",
-      "Le Cercle littéraire",
-      "Société française philanthropique et Mutuelle",
-      "» de la vieillesse abandonnée",
-      "» industrielle et commerciale",
-      "» yverdonnoise du Vieux",
-      "» de la Bibliothèque publique",
-      "» de la fromagerie"
+    "Vitriers.": [
+      "Dubochet Ch.",
+      "Fonjallaz Marius",
+      "Gatti Jean",
+      "Pilloud Léon"
     ]
   }
 }

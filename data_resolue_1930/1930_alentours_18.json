@@ -1,203 +1,160 @@
 {
-  "Le Mont": {
-    "Agriculteurs.": [
-      "Viannaz",
-      "Guex Vve d'Emile",
-      "Hadorn Hri",
-      "Henneberger Aug.",
-      "Henny Eug.",
-      "Lambert",
-      "Lädermann frères",
-      "Menétrey Amédée",
-      "Menétrey Aloïs",
-      "Menétrey Hri.",
-      "Menétrey Oscar",
-      "Meylan Auguste",
-      "Meylan J.-Ernest",
-      "Meylan-Amaudruz Ls",
-      "Porchet Ern.",
-      "Porchet Aloïs",
-      "Rochat Chs",
-      "Rod Jean",
-      "Rouge Henri"
+  "Leysin": {
+    "Gypserie et peinture": [
+      "Bolléa Ls.",
+      "Chambaz H.",
+      "Croesse J.-B.",
+      "Demarchi Pierre",
+      "Misslin Charles",
+      "Rabattoni et fils",
+      "Widmann Charles"
     ],
-    "Asile": [
-      "« Chez nous »"
+    "Horlogers": [
+      "Biland Olga",
+      "Merlin-Zaugg A.",
+      "Vaucher Ed."
     ],
-    "Associations mutualistes de retraite": [
-      "Jaton A."
+    "Horticulteurs": [
+      "Burla Emile",
+      "Coithésy Aloïs",
+      "Hôtel du Mont-Blanc"
     ],
-    "Assesseur": [
-      "Besson Julien"
+    "Hôtels-pensions (voir aussi Sanatoria)": [
+      "L'Aiglon, Bertrand-Neuhauer Marguerite",
+      "L'Argentine, Tauxe Berthe, Veuve de Charles",
+      "Les Arolles, Lachapelle Julien",
+      "Beau-Soleil, Rigazio Ant.",
+      "Beau-Séjour, Desarzens sœurs",
+      "Bellevue, Neidthart Aug.",
+      "Bienvenue, Jekelmann Bernard, café-restaurant",
+      "Bon-Accueil, Raible Louise",
+      "Les Buits, Fatton Alice",
+      "Beaulieu, Siegrist Ernest",
+      "Le Chalet, Burger Mlle",
+      "Chalet Pâquerette, Sœur Susanne Beux dir.",
+      "Les Chamois, Dr Morin, dir.",
+      "Les Charmettes, Peytrignet, direct.",
+      "Le Château, Guggisberg Alfred",
+      "Les Chrysanthèmes, Melick, dames",
+      "Le Clos, Berthoud Lucien, prop.",
+      "La Colline, Moraz Alfred",
+      "Les Colombettes, Mathey-Doret, Dlle.",
+      "Le Bosquet, Leuba Elise",
+      "Dent du Midi, Hurt & King, dames",
+      "L'Eglantine, Haeberli sœurs & Cie",
+      "L'Espérance, annexe du Sanatorium populaire",
+      "Les Fleurettes, miss King et Mlle Kipfer",
+      "La Forêt, Marey A.",
+      "Les Fougères, Eggenschwiler Sophie",
+      "Les Hirondelles, Aviolat Rose",
+      "Gare, Stäubli Jean",
+      "Gentiane, Voisard Armand",
+      "Home de Jeunes Filles, Jaquerod, Dlle. dir.",
+      "Les Lilas, Lees-King, Mme.",
+      "Mélèzes et Victoria, Demand Jos.",
+      "La Mésange, Hess Cuno",
+      "Mimosa, M. Hürzeler-Eyer",
+      "Mon Repos, Bourguignon Charles",
+      "Mont-Riant, Leuba, Vve d'Ernest",
+      "Les Narcisses, Degrange, dame",
+      "La Nichée, Haeberli sœurs & Cie.",
+      "Les Noisetiers, Kœhli Mme, dir.",
+      "La Paix, Schmocker Geneviève",
+      "Palettaz, Lobsiger Jean",
+      "Les Pommiers, Tissot Marg. Vve.",
+      "La Primevère, Ighina, Mme.",
+      "Quisisana, Thonney & Dubrit, Dlles.",
+      "Régina, Tacheron Louise",
+      "Richemont, Hoffmann Sœurs",
+      "La Rose des Alpes, Haeberli Lina",
+      "La Riondaz, Schmid Marie",
+      "Le Roselier, Pasche Louise",
+      "Rosemont, Monod, enfants d'Henri",
+      "Riant-Val, Goël Blanche",
+      "Le Rocher (enfants), Forster, Dlle.",
+      "Les Sapins, Widmer, enfants",
+      "Semiramis, Tauss Arthur",
+      "Sylvana, Bangard Elise",
+      "Tour d'Aï, Neveu Alfred",
+      "Tour de Mayen, Mlle Daquay",
+      "Violette, Tauxe, dame"
     ],
-    "Auberges et cafés": [
-      "Borgeaud Maurice",
-      "Piot Emile",
-      "Gilliéron Samuel",
-      "Guex Alfred",
-      "Meylan Ernest"
+    "Imprimeur": [
+      "Pichard E., Courrier de Leysin."
     ],
-    "Blanchisseurs": [
-      "Anneler Isaac",
-      "Bezençon Louis",
-      "Cavin Henri",
-      "Corbaz Vve de Charles",
-      "Weinberger Clément",
-      "Wullyamoz Edouard"
-    ],
-    "Bois (march. de)": [
-      "Menétrey Vincent"
-    ],
-    "Boulangers": [
-      "Cavin Elise",
-      "Ledermann Walther",
-      "Schmid-Muller A."
-    ],
-    "Charcutier": [
-      "Corbaz Aug."
-    ],
-    "Charpentiers": [
-      "Détraz Henri",
-      "Pache Ernest"
-    ],
-    "Charretiers": [
-      "Beeri Alp.",
-      "Belet Gustave"
-    ],
-    "Charrons": [
-      "Nicolas Louis",
-      "Ravay Charles"
-    ],
-    "Chef de section": [
-      "de Léon Fernand"
-    ],
-    "Coiffeur": [
-      "Vetterli F."
-    ],
-    "Commission scolaire": [
-      "Menétrey Oscar",
-      "Laedermann Charles",
-      "Porchet Aloïs",
-      "Corbaz Auguste",
-      "de Léon Fernand"
-    ],
-    "Cordonnier": [
-      "Blanc Charles"
-    ],
-    "Entrepreneurs": [
-      "Barbini Gaetano",
-      "Barbini Antoine",
-      "Blanc Alexis"
-    ],
-    "Epicerie-mercerie": [
-      "Burkhalter Emile",
-      "Cavin Aloïs",
-      "Ledermann Walther",
-      "Ravessoud Emma",
-      "Schmidt-Müller A."
-    ],
-    "Ferblantier-couvreur": [
-      "Weinberger Alexis"
-    ],
-    "Gendarmerie": [
-      "Longchamp Clovis"
-    ],
-    "Ingénieur": [
-      "de Léon Fern."
-    ],
-    "Inspecteurs du bétail": [
-      "Amaudruz Gustave",
-      "Bezençon Louis",
-      "Guilland Hri"
-    ],
-    "Institut": [
-      "Institut pour enfants abandonnés « Chez Nous »"
+    "Inspecteur du bétail": [
+      "Taux Arthur"
     ],
     "Instituteurs": [
-      "Dupuis Eug.",
-      "Henny Marc",
-      "Jaton Aloïs",
-      "Gay Fréda",
-      "Berzin Clémence"
+      "Paux Robert",
+      "Tacheron Jules",
+      "Baud Romain",
+      "Paux Louise",
+      "Dubuis Jacqueline",
+      "Cordey Yvonne",
+      "Jeanloz Julia",
+      "Buhler Marguerite"
     ],
-    "Jardiniers": [
-      "Curtet Alb.",
-      "Roth-Schultz A."
+    "Journaux": [
+      "Journal de Leysin. Bulletin météorologique et médical.",
+      "Borloz-Comtesse Jules",
+      "Le Courrier de Leysin, Pichard E."
     ],
-    "Laiteries": [
-      "Penau",
-      "laiterie centrale"
+    "Laboratoire bactériologique": [
+      "von Bergen"
     ],
-    "Machines agricoles": [
-      "Bovey Adr."
+    "Laitiers": [
+      "Barroud Eug.",
+      "Centrale laitière de Leysin, S. A. R.",
+      "Kleiner Werner",
+      "Laiterie du Sarrasin",
+      "Société de laiterie"
     ],
-    "Maréchaux": [
-      "Borgeaud Louis",
-      "Bovey Adrien"
+    "Librairies": [
+      "Lecomte Henri",
+      "Hänggi-Kurepf Ida.",
+      "Rollat Eugène, librairie de Leysin.",
+      "Sauvain J.-A.",
+      "Tauxe Rose."
+    ],
+    "Lingerie": [
+      "Ernst Emile & Cie.",
+      "Hurt Otto.",
+      "Rittener Elisa."
+    ],
+    "Maçons": [
+      "Beverina",
+      "Camandona Emile"
+    ],
+    "Maréchal": [
+      "Aebi Fritz",
+      "Burky H."
+    ],
+    "Masseurs": [
+      "Guenin J.-A.",
+      "Groux Louis",
+      "Stcherbinine. Mme."
+    ],
+    "Mécanicien-dentiste :": [
+      "Niederer Hugo"
     ],
     "Médecins": [
-      "Olivier E.",
-      "Pache Ch."
-    ],
-    "Menuisiers-ébénistes": [
-      "Gret frères"
-    ],
-    "Notaires": [
-      "Bergier Henri",
-      "de Leon Henri",
-      "Pilet R."
-    ],
-    "Pasteur": [
-      "Bezençon Edmond"
-    ],
-    "Peintres": [
-      "Cordone Raphaël",
-      "Rovasoto S."
-    ],
-    "Pensions": [
-      "Amaudruz Elisa",
-      "Grau, Vve",
-      "Lädermann Fd",
-      "Ravey, sœurs",
-      "Schatz-Schmid Cécile"
-    ],
-    "Poste et téléphone": [
-      "Belet Edonard",
-      "Piot Emile"
-    ],
-    "Professeurs": [
-      "Biermann Ch.",
-      "de Dompierre Ernest",
-      "Fornerod A."
-    ],
-    "Rentiers": [
-      "Pache Eugénie",
-      "Poudret Eugène",
-      "Seibel Ls",
-      "Serment, Mlles."
-    ],
-    "Scieur": [
-      "Menétrey Vincent"
-    ],
-    "Selliers": [
-      "Hartmann Ls",
-      "Vetterli Fritz"
-    ],
-    "Serruriers-Appareilleurs": [
-      "Bovey Adr.",
-      "Weinberger Alexis"
-    ],
-    "Sociétés": [
-      "Centrale de la machine à battre",
-      "Chœur mixte",
-      "d’assurance de la race bovine",
-      "Centrale de laiterie",
-      "Laiterie des Planches",
-      "Laiterie des Meules",
-      "Société de laiterie de Penau",
-      "Sauvabelin",
-      "Chant « L’Echo des Bois »",
-      "Section de"
+      "Dr Amstad Ernest",
+      "Dr Cardis",
+      "Galland René",
+      "Giauque Alcide",
+      "Houlmann Alexandre",
+      "Jaquerod Marc",
+      "Leuba Willy",
+      "Morin Jean",
+      "Piguet Ch.-A.",
+      "de Reynier Léopold",
+      "Rollier A.",
+      "Rossel Georges",
+      "Roulet Ed.",
+      "Schmid H.",
+      "Sillig César",
+      "Vauthier Louis"
     ]
   }
 }

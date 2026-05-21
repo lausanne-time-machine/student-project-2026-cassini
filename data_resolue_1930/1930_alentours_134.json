@@ -1,201 +1,196 @@
 {
-  "LA RIPPE": {
-    "Associations mutualistes de retraite.": [
-      "Fluck Georges"
-    ],
-    "Aubergistes.": [
-      "Duvoisin Oscar",
-      "Steffen Charles"
-    ],
-    "Bois (comm. de).": [
-      "Berlie frères",
-      "Paréaz Julien."
-    ],
-    "Commission scolaire.": [
-      "Hermenjat Henri",
-      "Berlie Charles",
-      "Gautier Louis."
-    ],
-    "Epiceries.": [
-      "Duvoisin Oscar",
-      "Girod Ami."
-    ],
-    "Horloger.": [
-      "Jeanmairet Philémon."
-    ],
-    "Inspecteur du bétail.": [
-      "Girod Ami."
-    ],
-    "Instituteurs.": [
-      "Fluck Georges",
-      "Fluck Lilia."
-    ],
-    "Laitier.": [
-      "Soc. des laitiers, Genève."
-    ],
-    "Maréchal.": [
-      "Martin Charles."
-    ],
-    "Scieur.": [
-      "Paréaz Julien."
-    ],
-    "Sociétés.": [
-      "de fromagerie et de laiterie. R.",
-      "Syndicat agricole. R.",
-      "Syndicat de battage."
-    ],
-    "Téléphone.": [
-      "Steffen Charles."
+  "EPESSES": {
+    "Vignerons-propriétaires.": [
+      "Mégroz Frédéric",
+      "Paley Emile",
+      "Paschoud Emile",
+      "Rod, hoirs d'Henri",
+      "Rouge, hoirs de Franç. T.",
+      "Wannaz Constant"
     ]
   },
-  "LE VAUD": {
-    "Autorités communales.": [
-      "Christinet Franck",
-      "Christinet Julien.",
-      "Christinet Charles.",
-      "Pécoud François",
-      "Pécoud Jules.",
-      "Christinet Adrien",
-      "Christinet Marcel",
-      "Beck Charles",
-      "Christinet Georges fils."
+  "FOREL": {
+    "Autorités communales": [
+      "Delessert-Lavanchy Henri",
+      "Regamey Albert"
     ],
-    "Agriculteurs.": [
-      "Duclos Jules",
-      "Pécoud Adolphe",
-      "Pécoud Jules",
-      "Renaud Edmond."
+    "Syndic": [
+      "Regamey Charles"
     ],
-    "Aubergiste.": [
-      "Roch Ami"
+    "Municipaux": [
+      "Dumard Alexandre",
+      "Conne Adrien",
+      "Grognuz Gustave",
+      "Gilliéron Jules",
+      "Cordey Vincent",
+      "Parisod Gustave"
     ],
-    "Bois.": [
-      "Ruch Robert."
+    "Secrétaire": [
+      "Richard Constant"
     ],
-    "Buraliste postal.": [
-      "Desponds Ulrich."
+    "Boursier": [
+      "Paschoud Alfred"
     ],
-    "Commission scolaire.": [
-      "Pécoud A.",
-      "Pécoud Jules-Daniel."
+    "Agriculteurs": [
+      "Bastian Hri. d'Aug.",
+      "Biedermann Ele",
+      "Bovet Frédéric",
+      "Bovet Henri",
+      "Chappuis frères",
+      "Chevalley Sœurs",
+      "Colomb frères",
+      "Cordey Samuel",
+      "Cordey Emile",
+      "Cordey Hri",
+      "Cordey Henri",
+      "Cordey Vincent et François",
+      "Cossy Aloïs et Alfr.",
+      "Delessert Frédéric",
+      "Ducros Alb.",
+      "Dumard Constant",
+      "Dumard Fréd.",
+      "Dumard-Bossy Alexre",
+      "Emery François",
+      "Gavin Emile",
+      "Gavin François-Ls",
+      "Lambelet Henri",
+      "Lavanchy François-Louis",
+      "Lavanchy frères",
+      "Mercanton Jules",
+      "Palaz Aloys",
+      "Paschoud Aimé",
+      "Paschoud Henri",
+      "Parisod Gustave",
+      "Parisod Hoirie",
+      "Pochon Louis",
+      "Porchet Hri fils",
+      "Regamey Charles-Frédéric",
+      "Reymond Emile",
+      "Reymond Frédéric",
+      "Richard",
+      "Richard Gustave",
+      "Richard Veuve",
+      "Rouge Louis",
+      "Rouge François",
+      "Regamev Albert",
+      "Reymond Vincent"
     ],
-    "Cordonnier.": [
-      "Beck Charles."
+    "Assesseur": [
+      "Rouge François"
     ],
-    "Couturière.": [
-      "Steiger M."
+    "Mutualité scolaire de retraite": [
+      "Bühlmann L. inst."
     ],
-    "Epicerie.": [
-      "Desponds Adèle",
-      "Treboux François."
+    "Société mutualiste de retraite": [
+      "Chappuis A."
     ],
-    "Inspecteur du bétail.": [
-      "Beck Charles."
+    "Auberges et cafés": [
+      "Borgeaud",
+      "Cordey Franç.",
+      "Chevalley Victor",
+      "Destraz-Lambelet T.",
+      "Duboux Léa",
+      "Pochon Louis",
+      "Richard Elise, Vve"
     ],
-    "Instituteurs.": [
-      "Damon Gustave."
+    "Bouchers": [
+      "Rouge Emile",
+      "Richard Auguste"
     ],
-    "Laiterie.": [
-      "Humbert Fernand."
+    "Boulangers": [
+      "Chevalley Victor",
+      "Cordey François"
     ],
-    "Pensions.": [
-      "Christinet Georges",
-      "Renaud Edmond."
+    "Charpentiers": [
+      "Bastian Frédéric",
+      "Gilliéron-Richard O. T.",
+      "Légeret Frédéric"
     ],
-    "Meunier.": [
-      "Languetin Jules."
+    "Charrons": [
+      "Dumard Frédéric",
+      "Noverraz Oscar"
     ],
-    "Scierie.": [
-      "Ruch Robert."
+    "Chef de section": [
+      "Dumard Alexand."
     ],
-    "Sellier.": [
-      "Steiger Frédéric."
+    "Commission scolaire": [
+      "Richard Constant",
+      "Pasche Armand"
     ],
-    "Sociétés.": [
-      "de fromagerie. R.",
-      "société agricole et d'alpage. R."
+    "Cordonnier": [
+      "Margairaz U."
     ],
-    "Téléphone.": [
-      "Auberge communale."
-    ]
-  },
-  "MIES": {
-    "Autorités communales.": [
-      "Caillet John.",
-      "Besté Adrien.",
-      "Dutoit Henri.",
-      "Chevallaz Louis",
-      "Buensod Louis",
-      "Cuendet Emile",
-      "Staempfli Alexandre",
-      "Etier François",
-      "Buensod Louis."
+    "Epicerie, mercerie": [
+      "Chevalley Victor",
+      "Cordey François",
+      "Duboux, Vve",
+      "Gilliéron Florian"
     ],
-    "Agriculteurs.": [
-      "Barbeaut Félix",
-      "Despland Charles",
-      "Buensod Ls.",
-      "Chaponnier Aug.",
-      "Chevallaz Louis",
-      "Dutoit H.",
-      "Groubel",
-      "Luginbuhl David.",
-      "Meylan Louis",
-      "Meylan Robert",
-      "Semoroz Louis",
-      "Sauty Francis."
+    "Facteurs": [
+      "Bastian",
+      "Richard Constant"
     ],
-    "Assurance-vieillesse.": [
-      "Mutualité scolaire de retraite de Mies et Tannay",
-      "Besté A."
+    "Inspecteurs du bétail": [
+      "Bastian Eugène",
+      "Bovet Henri",
+      "Cordey Franç.-Frédér.",
+      "Dumard Frédéric"
     ],
-    "Bateaux (constr. de).": [
-      "Staempfli A."
+    "Instituteurs": [
+      "Bühlmann Ls",
+      "Marmier Richard",
+      "Pulfer André",
+      "Cavin Charles",
+      "Rouge Charlotte"
     ],
-    "Cafés.": [
-      "Grandjean Joseph.",
-      "Leu Auguste."
+    "Maréchaux": [
+      "Laurent",
+      "Troyon"
     ],
-    "Commission scolaire pour Mies et Tannay.": [
-      "Staempfli Alexandre",
-      "Buensod Louis",
-      "Baud Samuel",
-      "Chevallaz Louis",
-      "Semoroz Ami."
+    "Mécanicien - électricien": [
+      "Chappuis Emilie",
+      "Grognuz Yvonne"
     ],
-    "Epicerie, mercerie, tabacs.": [
-      "Semoroz Octavie.",
-      "Yersin Lucile",
-      "Zéfiro Elisabeth."
+    "Menuisiers": [
+      "Bastian Alexis",
+      "Noverraz François & fils"
     ],
-    "Instituteurs.": [
-      "Besté Adrien",
-      "Guldenschu Marcelle."
+    "Meunier": [
+      "Usine agricole"
     ],
-    "Laitier.": [
-      "Buffat Léon."
+    "Officier d'état-civil": [
+      "Rouge Franç."
     ],
-    "Poste.": [
-      "Semoroz Octavie"
+    "Pensions": [
+      "Chollet-Cossy",
+      "Pochon Alf."
     ],
-    "Société.": [
-      "de fromagerie de Mies et Tannay."
+    "Poste": [
+      "Bastian Louise"
     ],
-    "Téléphoniste.": [
-      "Semoroz Octavie."
+    "Scieur": [
+      "Usine agricole"
     ],
-    "Divers.": [
-      "Anderegg A.",
-      "de Coulon R.",
-      "Montandon R.",
-      "Seeger Ch."
-    ]
-  },
-  "PRANGINS": {
-    "Autorités communales.": [
-      "Ruey Albert",
-      "Rapp Louis.",
-      "Yersin Jean."
+    "Sociétés": [
+      "militaire",
+      "Tir aux armes de guerre",
+      "de laiterie des Cornes de Cerf",
+      "de laiterie du Pigeon",
+      "de chant l'Avenir",
+      "du battoir à grain",
+      "Section de la Croix-Bleue",
+      "Union instrumentale",
+      "Caisse de Crédit mutuel du Pigeon"
+    ],
+    "Tailleuses": [
+      "Bovet Emma",
+      "Cordey Emilie"
+    ],
+    "Téléphone communal": [
+      "Cordey François"
+    ],
+    "Vélos": [
+      "Chappuis Emile"
     ]
   }
 }

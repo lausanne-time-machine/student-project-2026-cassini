@@ -1,232 +1,208 @@
 {
-  "LEYSIN": {
-    "Associations mutualistes de retraite": [
-      "Guex Eugène"
+  "PAMPIGNY": {
+    "Autorités communales.": [
+      "Epars Alexis",
+      "Curchod Albert",
+      "Epars Georges",
+      "Bilat René",
+      "Girardet Maurice",
+      "Cerutti Humbert",
+      "Borgeaud Ernest",
+      "Fawer Gottlieb",
+      "Epars André"
     ],
-    "Boulanger": [
-      "Chaubert Robert"
+    "Agriculteurs.": [
+      "Borgeaud Ch.",
+      "Borgeaud Hri",
+      "Borgeaud Adolphe",
+      "Curchod Hri",
+      "Epars Alb. et Fernand",
+      "Epars Alexis",
+      "Epars Armand",
+      "Epars Aug.",
+      "Epars Georges",
+      "Epars Ida",
+      "Epars William",
+      "Gilliéron Alphonse",
+      "Golay Ernest",
+      "Leutwyler Alb.",
+      "Michaud Paul",
+      "Porchat Alexis",
+      "Schopfer Emile"
     ],
-    "Commission scolaire": [
-      "Colomb Gustave",
-      "Cotty Fernand",
-      "Perey Victor"
+    "Apiculteurs.": [
+      "Borgeaud Henri",
+      "Cottier Henri",
+      "Epars Gustave",
+      "Schopfer Emile"
     ],
-    "Epicerie": [
-      "Chaubert Robert"
+    "Architecte.": [
+      "Cerutti Humbert"
     ],
-    "Fermier": [
-      "Pelichet Elisée"
+    "Associations mutualistes de retraite.": [
+      "Dony H."
     ],
-    "Inspecteur du bétail": [
-      "Gillabert Jn"
+    "Aubergistes.": [
+      "Sandoz Georges",
+      "Bally Emile",
+      "Mercier Marcel"
     ],
-    "Instituteur": [
-      "Guex Eugène"
+    "Bestiaux (comm. de).": [
+      "Leutwyler Albert"
     ],
-    "Poste": [
-      "Sauty Nancy"
+    "Bois (march. de).": [
+      "Mercier M."
     ],
-    "Rentier": [
-      "de Buren Alfred"
+    "Boulanger.": [
+      "Sandoz Georges"
     ],
-    "Société": [
-      "de fromagerie"
+    "Commission scolaire.": [
+      "Cerutti H.",
+      "Fawer G.",
+      "Epars Ida",
+      "Martin L.",
+      "Lagnaz Luc"
     ],
-    "Téléphoniste": [
-      "Chaubert Robert"
-    ]
-  },
-  "DENGES": {
-    "Autorités communales": [
-      "Rossier Auguste",
-      "Rossier Edmond",
-      "Paquier Jules",
-      "Paquier Juste",
-      "Velti Albert",
-      "Blanc Louis",
-      "Rossier Jules",
-      "Borel Fernand",
-      "Gilliéron Alfred",
-      "Paquier Maurice",
-      "Rossier Théophile"
-    ],
-    "Agriculteurs": [
-      "Blanc Louis",
-      "Blanc Alb.",
-      "Borboën François",
-      "Bovay Charles",
-      "Clerc Jules",
-      "Gilliéron Alf.",
-      "Grosso Jos.",
-      "Merminod Ls",
-      "Paquier César",
-      "Paquier Emile",
-      "Paquier Hri",
-      "Paquier Jules",
-      "Paquier Juste",
-      "Paquier Louis",
-      "Paquier Maurice",
-      "Paquier Robert",
-      "Paquier Victor",
-      "Ramelet Jules",
-      "Rochat Maurice",
-      "Rossier Aug. et Paul",
-      "Rossier Edmond",
-      "Rossier Théophile",
-      "Schmid Ch.",
-      "Velti Albert"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Borel F."
-    ],
-    "Bétail (Commerce de)": [
-      "Chappuis Louis"
-    ],
-    "Café": [
-      "Paquier Js"
-    ],
-    "Charpentiers": [
-      "Reymond Charles",
-      "Reymond Henri",
-      "Reymond Victor",
-      "Reymond René"
-    ],
-    "Commission scolaire": [
-      "Rossier Th.",
-      "Milliet",
-      "Paquier Jules"
-    ],
-    "Distillateurs": [
-      "Paquier frères"
-    ],
-    "Epicerie": [
-      "Paquier Emile"
-    ],
-    "Inspecteur du bétail": [
-      "Borboën Frs"
-    ],
-    "Instituteur": [
-      "Borel Fernand"
-    ],
-    "Laitier": [
-      "Laiterie agricole",
-      "Paquier Jules"
-    ],
-    "Sociétés": [
-      "Abbaye des fusiliers",
-      "Société immobilière du battoir",
-      "Club des Amis"
-    ],
-    "Téléphoniste": [
-      "Paquier Jules"
-    ],
-    "Vignerons": [
-      "Schmid Henri",
-      "Schmid Louis"
-    ],
-    "Divers": [
-      "Genoud Oscar",
-      "Michon David",
-      "Reymond Jules",
-      "Rossier Henri",
-      "Zuber Théodore"
-    ]
-  },
-  "ECHANDENS": {
-    "Autorités communales": [
-      "Martin Emile",
-      "Grunenwald E.",
-      "Gorgerat Henri",
-      "Reymond Henri",
-      "Dufour Chs",
-      "Tanniger Edouard",
-      "Pache Robert",
-      "Decrausaz Louis",
-      "Gavillet John"
-    ],
-    "Agriculteurs": [
-      "Bohner Fritz",
-      "Clément Aug.",
-      "Cretegny frères",
-      "Dufour frères",
-      "Gorgerat Hri",
-      "Martin Gustave",
-      "Moinat Ernest",
-      "Pache Eugène",
-      "Perret Louis",
-      "Peytrequin Aimé",
-      "Pointet Charles",
-      "Pointet Edouard",
-      "Pointet Eug.",
-      "Richard César",
-      "Saugy Franç.",
-      "Tschalär Benjamin"
-    ],
-    "Appareilleurs": [
-      "Reymond Hri",
-      "Schmidt Roger"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Viret Edmond"
-    ],
-    "Boulanger": [
-      "Villard Oscar"
-    ],
-    "Cafés": [
-      "Détraz Aloïs",
-      "Rieben Daniel"
-    ],
-    "Charron": [
+    "Couturières.": [
+      "Dony Eug.",
+      "Epars Emmy",
+      "Milloud",
       "Mottaz Edouard"
     ],
-    "Commission scolaire": [
-      "Gorgerat Hri",
-      "Pointet Eug.",
-      "Martin Emile"
+    "Engrais chimiques.": [
+      "Bally Emile",
+      "Mercier Marcel"
     ],
-    "Couturières": [
-      "Mottaz Berthe",
-      "Pointet Yvonne"
+    "Epicerie, mercerie, tabacs.": [
+      "Sandoz Georges",
+      "Société coopérative de consommation",
+      "Bilat",
+      "Mercier Marcel"
     ],
-    "Entrepreneur": [
-      "Pointet Henri"
+    "Fabrique.": [
+      "S. A. des Câbleries et Tréfileries « l'Islettaz »"
     ],
-    "Epicerie": [
-      "Jurt Hélène",
-      "Villard Oscar"
+    "Gypse (march. de).": [
+      "Mercier Marcel"
     ],
-    "Ferblantier-couvreur": [
-      "Schmidt Roger"
+    "Inspecteur du bétail.": [
+      "Borgeaud Ch."
     ],
-    "Imprimerie N. P. C. K.": [
-      "Viret Charles"
+    "Inspecteur des viandes.": [
+      "Borgeaud Ernest"
     ],
-    "Inspecteur du bétail": [
-      "Perret Louis"
+    "Instituteurs.": [
+      "Sauer Louis",
+      "Montagnon Odette"
     ],
-    "Instituteurs": [
-      "Viret Edmond",
-      "Pilloud Hélène"
+    "Instituteur émérite.": [
+      "Dony Henri"
     ],
-    "Juge de paix": [
-      "Martin François"
+    "Laitier.": [
+      "Société de laiterie",
+      "Hartmann Jules"
     ],
-    "Maréchal": [
-      "Reymond Henri"
+    "Maréchal.": [
+      "Zisset Albin"
     ],
-    "Poste": [
-      "Tanniger E."
+    "Meuniers.": [
+      "Grands-Moulins de Cossonay-Gare, S. A.",
+      "Moulin Chevalier"
     ],
-    "Sage-femme": [
-      "Martin-Collet Cécile"
+    "Pépiniériste.": [
+      "Dony Eugène"
     ],
-    "Sociétés": [
-      "de laiterie",
-      "Abbaye des agriculteurs",
-      "de chant du battoir Echandens-Denges"
+    "Poste.": [
+      "Girardet Henri"
     ],
-    "Tailleur": [
-      "Cavin John"
+    "Sociétés.": [
+      "de fromagerie",
+      "coopérative de consommation",
+      "agricole",
+      "immobilière de Cossonay-Gare",
+      "Chorale des Campagnes",
+      "de Jeunesse"
+    ],
+    "Téléphoniste.": [
+      "Sandoz G."
+    ],
+    "Transports automobiles.": [
+      "Mercier Marcel",
+      "Sandoz G."
+    ]
+  },
+  "PENTHAZ": {
+    "Autorités communales.": [
+      "Hählen Marcel",
+      "Pahud Julien",
+      "Platel Léopold",
+      "Bastian Eugène",
+      "Pache Robert",
+      "Corbaz Louis",
+      "Portier William",
+      "Portier Maurice",
+      "Deléderray Louis"
+    ],
+    "Agriculteurs.": [
+      "Bastian Jenny",
+      "Beutler Théophile",
+      "Bonmottet Vvee",
+      "Bonzon Henri",
+      "Charlet Henri",
+      "Decrausaz Louis",
+      "Deléderray Georges",
+      "Deléderray Louis",
+      "Hählen frères",
+      "Millioud frères",
+      "Platel Alf.",
+      "Platel Léopold",
+      "Portier William"
+    ],
+    "Apiculteur.": [
+      "Charlet Henri"
+    ],
+    "Architecte.": [
+      "Cerutti H."
+    ],
+    "Associations mutualistes de retraite.": [
+      "Paquier U."
+    ],
+    "Auberge.": [
+      "Miéville"
+    ],
+    "Commission scolaire.": [
+      "Schumacher",
+      "Daillens",
+      "Platel Léopold",
+      "Portier Maurice"
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Pache Henri"
+    ],
+    "Inspecteur du bétail.": [
+      "Bastian Aug."
+    ],
+    "Instituteurs.": [
+      "Chappuis André",
+      "Rochat Clotilde"
+    ],
+    "Laitier.": [
+      "Laiterie agricole"
+    ],
+    "Machine à battre.": [
+      "La Commune"
+    ],
+    "Orphelinat.": [
+      "Paquier Ulrich"
+    ],
+    "Poste.": [
+      "Pahud Julien"
+    ],
+    "Société.": [
+      "de fromagerie"
+    ],
+    "Tailleuse.": [
+      "Cevey Marie"
     ]
   }
 }

@@ -1,240 +1,230 @@
 {
-  "OLLON": {
-    "Municipaux": [
-      "Bryand Henri",
-      "Aubert Louis",
-      "Moser Edouard",
-      "Dufour Georges",
-      "Favre Arthur",
-      "Michot Jules",
-      "Denogent Ls-Ami",
-      "Rapp Philippe"
+  "LULRY": {
+    "Agriculteurs et vignerons.": [
+      "gognon Dyonis",
+      "Bron William",
+      "Buche Jules",
+      "Bujard Gustave",
+      "Bujard Maurice",
+      "Chevalley Charles",
+      "Coderey Paul",
+      "Crot Louis",
+      "Détraz Emile",
+      "Dentan Alfred",
+      "Diserens Charles",
+      "Ganty Emile",
+      "Goy-Guignard Fernand",
+      "Guex François",
+      "Lambelet Julien",
+      "Marguerat Ls",
+      "Noël François",
+      "Ponnaz Valentin",
+      "Rosset Paul",
+      "Wehrli Fritz"
     ],
-    "Agriculteurs": [
-      "Favre Arthur",
-      "Graffard Pierre",
-      "Rapp Louis",
-      "Ruey Albert",
-      "Yersin Jean"
+    "Appareillage": [
+      "Boudry Julien",
+      "Lavanchy Alexis",
+      "Rappaz Alexis"
     ],
-    "Assesseur": [
-      "Rapp William"
+    "Architecte": [
+      "Gay-Colin Aloïs"
     ],
-    "Mutualité scolaire de retraite": [
-      "Dorier W."
+    "Asile": [
+      "Foyer maternel Le Saule",
+      "Asile de jeunes filles"
     ],
-    "Aubergistes": [
-      "Martig Ernest",
-      "Scherrer Pierre"
+    "Avocat": [
+      "Paschoud F. T."
     ],
-    "Boucher": [
-      "Bernard Ami"
+    "Assurance-vieillesse": [
+      "Steiner Alb.",
+      "Rousseil",
+      "Monod R."
     ],
-    "Boulanger-pâtissier": [
-      "Schaub Fritz"
-    ],
-    "Charcutier": [
-      "Humbert Julien"
-    ],
-    "Commission scolaire": [
-      "Rapp Philippe",
-      "Moser Adrien"
-    ],
-    "Epicerie": [
-      "Denogent sœurs",
-      "Rapp William",
-      "Bleiker Charles"
-    ],
-    "Gypsier-peintre": [
-      "Motto Octave"
-    ],
-    "Inspect. du bétail": [
-      "Dufour Georges"
-    ],
-    "Instituteurs": [
-      "Dorier William",
-      "Favre-George Olga",
-      "Uldry Ellen"
-    ],
-    "Jardiniers": [
-      "Dumartheray Fréd.",
-      "Piguet Emile",
-      "Stoffelbach Fréd."
-    ],
-    "Laitier": [
-      "Laiteries Réunies, Genève"
-    ],
-    "Maréchal": [
-      "Perret Henri"
-    ],
-    "Menuisier-charpentier": [
-      "Deluz Aimé"
-    ],
-    "Pisciculteur": [
-      "Inaebnit Piérrè"
-    ],
-    "Postes": [
-      "Beck Hermann"
-    ],
-    "Régisseur": [
-      "Yersin Jean"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "Syndicat de battage"
-    ],
-    "Téléphone": [
-      "Auberge communale"
-    ],
-    "Divers": [
-      "Dubois J.-H.",
-      "Dubuis E., Mme.",
-      "Dunand-Marouard G.",
-      "Jaegger Eug.",
-      "Kovarik F.",
-      "Reymond François",
-      "Boll",
-      "de Roulet Alb.",
-      "Cliniques de Prangins, S. A."
-    ]
-  },
-  "SAINT-CERGUE": {
-    "Président du Conseil général": [
-      "Auberson Edmond"
-    ],
-    "Secrétaire": [
-      "Reymond Frs."
-    ],
-    "Syndic": [
-      "Tissot Albert"
-    ],
-    "Municipaux": [
-      "Auberson Constant",
-      "Durgnat Olivier",
-      "André Charles",
-      "Mayet John",
-      "Rosselat Maurice",
-      "Treboux O."
-    ],
-    "Agriculteurs": [
-      "André Charles",
-      "André, hoirie",
-      "André Louis-Abram",
-      "Annen Lucien",
-      "Gonin Louis",
-      "Henrioux Ami",
-      "Mayet John",
-      "Monnard Alfred",
-      "Racca Barthélemy",
-      "Rossellat Elie",
-      "Tissot Albert",
-      "Tissot Marcel",
-      "Treboux Octave",
-      "Turrian Ami"
-    ],
-    "Associations mutualistes de retraite": [
-      "Reymond F."
-    ],
-    "Auberges": [
-      "Eindiguer Eug.",
-      "Orlandi Angelo",
-      "Turrian Ami"
+    "Banque": [
+      "Banque cantonale vaudoise",
+      "Fontannaz Lucien"
     ],
     "Bazar": [
-      "Durgnat Olivier",
-      "Sesseli Aïda et Maria"
+      "Schacher Jean"
     ],
-    "Boulanger": [
-      "Wutrich-Didion Elisa"
+    "Blanchisseuses": [
+      "Deprez-Descombaz",
+      "Demonaco sœurs",
+      "Ponnaz Ch.",
+      "Rod-Delessert"
     ],
-    "Bois (comm. de)": [
-      "Treboux frères"
+    "Bois de chauffage": [
+      "Chollet Louis",
+      "Nicolier Jules"
     ],
-    "Charpentiers": [
-      "Barbieri Léon et fils",
-      "Treboux Eugène"
+    "Bouchers": [
+      "Ganty Marc",
+      "Parisod John"
     ],
-    "Charron": [
-      "Olivier Eugène"
+    "Boulangers": [
+      "Coderey Jules",
+      "Cœytaux Emile",
+      "Despraz Hri",
+      "Diserens T.",
+      "Grobéty Oscar",
+      "Marthaler Albert"
+    ],
+    "Cafés": [
+      "Bolomey Frédéric",
+      "Bron-Domenjoz",
+      "Chebance Henri",
+      "Cotting-Châtelan",
+      "Gross-Ganty E.",
+      "Lambelet Charles",
+      "Regamey",
+      "Margairaz Gustave",
+      "Meury Jules",
+      "Paschoud Clémence",
+      "Rubin Robert"
+    ],
+    "Cafés sans alcool": [
+      "Auberge du Singe Abstinent"
+    ],
+    "Camionneur": [
+      "Bolomey R. T."
+    ],
+    "Cercle": [
+      "Cercle de l'Union"
+    ],
+    "Charcutiers": [
+      "Gay F. T.",
+      "Helfer Emile",
+      "Mellier, Vve",
+      "Parisod John"
+    ],
+    "Charpentier": [
+      "Hänggi J."
+    ],
+    "Chaussures (march. de)": [
+      "Hoffmann Sophie",
+      "Schacher Jean"
+    ],
+    "Chef de gare": [
+      "Hämmerli Albert"
+    ],
+    "Chef de section": [
+      "Ganty Charles"
+    ],
+    "Coiffeurs": [
+      "Bastian Berthe",
+      "Gilliéron Isaac",
+      "Muller Gustave"
+    ],
+    "Combustibles": [
+      "Cuendet H. R."
+    ],
+    "Comestibles": [
+      "Chappuis Fanny"
     ],
     "Commission scolaire": [
-      "Durgnat Olivier"
+      "Bessat Henri",
+      "Augsburger Philippe",
+      "Blanc D.",
+      "Paschoud J.",
+      "Dentan Alfred",
+      "Morier G.",
+      "Lavanchy Marcel"
     ],
-    "Cordonnier": [
-      "Schmid Alfred"
+    "Cordonniers": [
+      "Bohler Louis",
+      "Bolomey Jules",
+      "Brodard Marc",
+      "Marguerat Louis",
+      "Pierozzi A.",
+      "Ravida J."
     ],
-    "Crèmerie-épicerie": [
-      "Brun Violette",
-      "Treboux-Gaillard Maurice",
-      "Weber Anna"
+    "Documentation commerciale": [
+      "Bureau d'études de documentation commerciale et industrielle",
+      "A. Boivin"
     ],
-    "Elevage d'animaux à fourrure": [
-      "Les Animaux à fourrure, S. A.",
-      "Ch. Poulin"
+    "Dentiste": [
+      "Parisod L. F."
     ],
-    "Entrepreneur": [
-      "Treboux Mce."
+    "Electriciens": [
+      "Gilliéron Franç",
+      "Herren Alfred",
+      "Lavanchy H. T."
     ],
-    "Epicerie, mercerie, tabacs": [
-      "Didion, Vve de Maurice",
-      "Durgnat-Olivier",
-      "Treboux Maurice",
-      "Wutrich-Didion Elisa"
+    "Entrepreneurs": [
+      "Buche F.",
+      "Cuennet Louis",
+      "Gay-Colin Aloïs",
+      "Marquard F. T."
     ],
-    "Forestiers": [
-      "Bovay Lucien",
-      "Rossellat Eugène",
-      "Rossellat Maurice"
+    "Epiceries": [
+      "Bastian Ernest",
+      "Bolomey Berthe",
+      "Bron O.",
+      "Chappuis Fanny",
+      "Clerc Ulysse",
+      "Crisinel Ernest",
+      "Détraz Henri",
+      "Gaudard-Muller",
+      "Jaccottet Ch.",
+      "Monnier Gustave",
+      "Penseyres Vve",
+      "Picconi Laure",
+      "Prahin Henri"
     ],
-    "Garages": [
-      "André Louis",
-      "Treboux Alb."
+    "Etoffes": [
+      "Grote-Fischer Henri"
     ],
-    "Hôtels-pensions": [
-      "Hôtel de la Poste",
-      "Eindiguer Eug.",
-      "Hôtel de l'Observatoire",
-      "Hôtel Auberson (S.A.)",
-      "Hôtel Capt",
-      "Rossellat Elise, Vve."
+    "Facteurs": [
+      "Bron Louis",
+      "Paschoud Louis"
     ],
-    "Inspecteur du bétail": [
-      "Treboux Oct."
+    "Ferblantiers-couvreurs": [
+      "Boudry Julien",
+      "Picconi Maximin"
     ],
-    "Instituteurs": [
-      "Reymond François",
-      "Treboux Emma",
-      "Trolliet Suzanne"
+    "Fers (march. de)": [
+      "Cuendet Hri"
     ],
-    "Laiterie": [
-      "Urweider Emile"
+    "Filtres": [
+      "Cuénoud frères"
     ],
-    "Menuisiers": [
-      "Barbieri Léon",
-      "Treboux E."
+    "Fromages": [
+      "Blatti Armand",
+      "Helfer Emile",
+      "Laiterie de Lutry"
     ],
-    "Officier d'état civil": [
-      "Reymond Fçois."
+    "Fruits et primeurs": [
+      "Chappuis Fanny",
+      "Bolomey Berthe"
     ],
-    "Pasteur": [
-      "Mingot Edouard"
+    "Géomètres": [
+      "Favre Roger",
+      "Thonney & Bettems"
     ],
-    "Pension-famille": [
-      "Sesseli Aïda et Maria",
-      "Pension Brun"
+    "Graines potagères": [
+      "Bastian Ern.",
+      "Bolomey Berthe"
     ],
-    "Poste": [
-      "Jaquenoud Alfred"
+    "Greffeurs de plants américains": [
+      "Bessat Henri",
+      "Chavan Frédéric",
+      "Diserens Auguste",
+      "Dentan Alfred",
+      "Parisod Ernest",
+      "Paschoud Albert",
+      "Richard Marcel",
+      "Rod Jules"
     ],
-    "Scierie": [
-      "Treboux frères"
+    "Gypsiers": [
+      "Ambrosino Jean",
+      "Bastian",
+      "Bolomey Edouard",
+      "Margairaz Roger"
     ],
-    "Sociétés": [
-      "du Grand Hôtel de l'Observatoire",
-      "de Ste-Madeleine de la Croisette",
-      "d'embellissement",
-      "de tir",
-      "de chant Chorale"
+    "Horloger": [
+      "Huguenin Henri"
     ]
   }
 }

@@ -1,200 +1,241 @@
 {
-  "GRANDSON": {
-    "Mécaniciens": [
-      "Glardon-Grobet A.",
-      "Robert René"
+  "DEMORET": {
+    "Autorités communales": [
+      "Jaquier Arnold",
+      "Jaquier Louis",
+      "Jaquiéry Robert",
+      "Baatard Arthur",
+      "Jaquiéry Adrien",
+      "Bovay Constant",
+      "Baatard Emile",
+      "Schmidtmann Jean",
+      "Vienet Henri",
+      "Bovay Ed."
     ],
-    "Médecin-chirurgien": [
-      "Bidlingmeyer J. T."
+    "Agriculteurs.": [
+      "Baatard François",
+      "Baatard Jules",
+      "Baatard Constant",
+      "Baumgartner Jean",
+      "Bovay Aimé",
+      "Bovay Aug.",
+      "Bovay Auguste de Louis",
+      "Bovay Alexis",
+      "Bovay Emile",
+      "Bovay François",
+      "Bovay Julien",
+      "Bovay Constant",
+      "Bürri Robert",
+      "Cruchet Paul",
+      "Ding Joseph",
+      "Falquet Jules",
+      "Jaquier Louis",
+      "Jaquier Arnold",
+      "Jaquiéry Edward",
+      "Jaquiéry frères",
+      "Jaquiéry Louis",
+      "Jaquiéry Rob.",
+      "Jaquiéry Adr.",
+      "Krieger Adrien",
+      "Meystre Aimé",
+      "Thuillard William",
+      "Vienet Henri"
     ],
-    "Menuisiers": [
-      "Cavin & Candaux",
-      "Crausaz Emile",
-      "Margot Henri"
+    "Boulanger.": [
+      "Cœytaux Edmond"
     ],
-    "Mercerie": [
-      "Colomb Fernand",
-      "Denger Gotth.",
-      "Kiener Fanny",
-      "Roulet Jules"
+    "Charcuterie.": [
+      "Vienet Henri"
     ],
-    "Meubles": [
-      "Ingilby Hri",
-      "Margot H.",
-      "Troxler Henri"
+    "Charpentier.": [
+      "Golay Henri"
     ],
-    "Meunier": [
-      "Moulin agricole"
+    "Commission scolaire.": [
+      "Bovay Aimé",
+      "Thuillard William",
+      "Vienet Henri"
     ],
-    "Notaires": [
-      "Crosasso Jean",
-      "Duvoisin Léon",
-      "Michaud Fçois"
+    "Electricien.": [
+      "Jaquiéry William"
     ],
-    "Objets divers (vente et achat)": [
-      "Hirschy Henri"
+    "Epicerie, mercerie.": [
+      "Cœytaux Edm.",
+      "Vienet Henri"
     ],
-    "Officier d'état-civil": [
-      "Guilloud Gustave",
-      "Cand Emile"
+    "Fourches (fab. de).": [
+      "Baatard Arthur"
     ],
-    "Pasteurs": [
-      "Ferrari Eugène",
-      "Vautier Edouard"
+    "Inspecteur du bétail.": [
+      "Baatard Franç."
     ],
-    "Pécheurs": [
-      "Dénéréaz Emile. père",
-      "Groux Henri",
-      "Tallichet A."
+    "Instituteurs.": [
+      "Schmidtmann Jean",
+      "Baatard Jeanne"
     ],
-    "Pharmacien": [
-      "Francey Aloys"
+    "Maréchal.": [
+      "Bovay Auguste"
     ],
-    "Pierriste": [
-      "Michoud Aloïs"
+    "Scieur.": [
+      "Jaquier Arnold"
     ],
-    "Police (commissaire de)": [
-      "Charbon Hector",
-      "Apothéloz Justin"
+    "Sociétés.": [
+      "de laiterie",
+      "de la machine à battre",
+      "Syndicat d'élevage"
     ],
-    "Postes": [
-      "Gacon Louis"
+    "Téléphoniste.": [
+      "Vienet Henri"
     ],
-    "Poterie": [
-      "Ledermann Elise",
-      "Kaeser Félix"
-    ],
-    "Primeurs et fleurs": [
-      "Gogniat-Junod L."
-    ],
-    "Produits chimiques": [
-      "Pilet & Piaget"
-    ],
-    "Quincaillerie": [
-      "Glardon Alfred"
-    ],
-    "Repasseuses": [
-      "Chabloz Anna",
-      "Malherbes-Heuby Anna",
-      "Roy-Cottens Elise"
-    ],
-    "Sage-femme": [
-      "Ray-Genicoud Louise"
-    ],
-    "Scieur": [
-      "Ray Louis"
-    ],
-    "Selliers": [
-      "Ingilby Henri",
-      "Troxler Henri"
-    ],
-    "Serrurier": [
-      "Houst Georges"
-    ],
-    "Sociétés": [
-      "des Amis du Tir",
-      "de l'Abbaye des Mousquetaires",
-      "de chant l'Espérance",
-      "de musique",
-      "de gymnastique",
-      "de secours mutuels (section de Grandson)",
-      "de développement",
-      "du Cercle des Ouvriers",
-      "de l'Usine électrique des Clées",
-      "de laiterie des Tuileries",
-      "Sauvetage du lac",
-      "Foot-Ball-Club",
-      "Section de la Croix-Bleue",
-      "Société suisse des Samaritains, section de Grandson",
-      "Chœur de dames Cæcilia",
-      "Gymnastique des hommes",
-      "Société coopérative et viticole",
-      "Société d'alpage du Petit Beau-Regard",
-      "Fonds de l'Infirmerie des cercles de Grandson et de Concise"
-    ],
-    "Tailleuses": [
-      "Beausire Marie",
-      "Despland Adèle",
-      "Despland-Meylan",
-      "Devenoge, femme de Ch.",
-      "Riener Fanny"
-    ],
-    "Taxis": [
-      "Cand frères",
-      "Robert René"
-    ],
-    "Télégraphe et téléphone": [
-      "Michel Marie"
-    ],
-    "Tonnelier": [
-      "Paul Alfred"
-    ],
-    "Vannerie": [
-      "Glardon-Grobet A."
-    ],
-    "Vélos-Motos": [
-      "Robert René"
-    ],
-    "Vins (march. de)": [
-      "Charlet Maurice",
-      "Rossier Ulysse"
-    ],
-    "Divers": [
-      "de Blonay Godefroy",
-      "Vautier-Schopfer Jules"
+    "Poste.": [
+      "Varidel Edmond"
     ]
   },
-  "BONVILLARS": {
-    "Autorités communales": [
-      "Duvoisin Cl.",
-      "Gilliand Robert"
+  "DONNELOYE": {
+    "Autorités communales.": [
+      "Lavanchy Edouard",
+      "Billaud Marius",
+      "Viquerat Paul",
+      "Bezençon Louis",
+      "Billaud Louis",
+      "Corthésy Constant",
+      "Ferrot Louis",
+      "Golaz Denis",
+      "Carrard William"
     ],
-    "Syndic": [
-      "Duvoisin Maurice"
+    "Agriculteurs.": [
+      "Bezençon Justin",
+      "Bezençon Julien",
+      "Bezençon Ls",
+      "Billaud Auguste",
+      "Billaud Paul",
+      "Corthésy Emile",
+      "Courvoisier Henri",
+      "Durussel Fidéli",
+      "Durussel Julien",
+      "Ferrot Louis",
+      "Gavillet Constant",
+      "Gavillet Jean",
+      "Gilgen Ulrich",
+      "Grin Robert",
+      "Magnenat Louis",
+      "Rosset Samuel",
+      "Rossier Louis",
+      "Viquerat Eugène",
+      "Willener Louis"
     ],
-    "Municipaux": [
-      "Jaquier Jaques",
-      "Martin François",
-      "Cochand Charles",
-      "Favre Frédéric",
-      "Jaquier Michel",
-      "Correven Marc",
-      "Meigniez Denis",
-      "Tharin Ernest"
+    "Assurance-vieillesse. Associations mutualistes de retraite.": [
+      "Besse Edouard"
     ],
-    "Huissier": [
-      "Homberger Jn."
+    "Aubergistes.": [
+      "Duc Rosa",
+      "Pahud"
     ],
-    "Agriculteurs": [
-      "Corthésy Léon",
-      "Correven Marc",
-      "Duvoisin David",
-      "Duvoisin Denis",
-      "Duvoisin Ernest",
-      "Egli Charles",
-      "* Fardel Ch.",
-      "Favre Michel",
-      "* Favre Eugène",
-      "Favre Edouard",
-      "Favre Ernest",
-      "Favre Frédéric",
-      "Jaquier Edmond",
-      "Jaquier Michel",
-      "Jaquier Maurice",
-      "Maire Léopold",
-      "Martin Fs",
-      "Meigniez Denis",
-      "Milliet Henri",
-      "Paris Elise",
-      "Ramseyer Eugène",
-      "Ray Jean",
-      "Ryser René",
-      "Schmutz Christian",
-      "* Steiner Louis"
+    "Blanchisseuse.": [
+      "Durussel E."
     ],
-    "Amodiateurs": [
-      "Gander",
-      "Vve Seiler Fritz"
+    "Boulanger.": [
+      "Besson A."
+    ],
+    "Charcuteries.": [
+      "Carrard Berthe",
+      "Duc Henri"
+    ],
+    "Charpentiers": [
+      "Billaud Ls, fils",
+      "Billaud Marius"
+    ],
+    "Charrons.": [
+      "Rosset Alexandre",
+      "Wagnières Julien"
+    ],
+    "Commission scolaire.": [
+      "Corthésy Em.",
+      "Viquerat Paul",
+      "Billaud François",
+      "Carrard William",
+      "Golaz Denis"
+    ],
+    "Cordonnier.": [
+      "Durussel Louis"
+    ],
+    "Electricien.": [
+      "Genet Vict."
+    ],
+    "Entrepreneurs.": [
+      "Ceppi & Saivetto",
+      "Agustoni Georges"
+    ],
+    "Epiceries.": [
+      "Billaud Zimmermann Georges",
+      "Carrard Berthe",
+      "Niggeler Walter"
+    ],
+    "Etoffes.": [
+      "Heger J.",
+      "Niggeler Walter"
+    ],
+    "Farine, son et maïs.": [
+      "Besson A."
+    ],
+    "Fromages (march. de).": [
+      "Pfister J."
+    ],
+    "Garagiste.": [
+      "Musy Frank"
+    ],
+    "Gypserie et peinture.": [
+      "Ferrari Ed."
+    ],
+    "Horloger.": [
+      "Billaud François"
+    ],
+    "Inspecteur du bétail.": [
+      "Durussel Hri"
+    ],
+    "Instituteurs.": [
+      "Besse Edouard",
+      "Lavanchy Edouard",
+      "Bettex Irène"
+    ],
+    "Jardinier.": [
+      "Duc Henri"
+    ],
+    "Laiterie.": [
+      "Pfister Jean"
+    ],
+    "Maréchal.": [
+      "Roulier Arnaud"
+    ],
+    "Mécaniciens.": [
+      "Billaud Constant",
+      "Monge Eugène",
+      "Musy Frank"
+    ],
+    "Officier d'état-civil.": [
+      "Billaud Franç."
+    ],
+    "Pasteur.": [
+      "Bertalot Elie"
+    ],
+    "Pierriste.": [
+      "Bezençon Alfred"
+    ],
+    "Poste.": [
+      "Billaud Elisa"
+    ],
+    "Scieur.": [
+      "Golaz Félix"
+    ],
+    "Sellier.": [
+      "Jordan Félicien"
+    ],
+    "Sociétés.": [
+      "de laiterie de Donneloye",
+      "des amis du tir",
+      "des maîtres-charpentiers, menuisiers et ébénistes du Gros de Vaud",
+      "Section vaudoise d'agriculture",
+      "Section de la Croix-Bleue",
+      "Syndicat d'élevage"
     ]
   }
 }

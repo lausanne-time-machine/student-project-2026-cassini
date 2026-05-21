@@ -1,101 +1,152 @@
 {
-  "NYON": {
-    "Agents d'affaires patentés": [
-      "Genton Eugène"
+  "AUBERSON": {
+    "Nickeleurs.": [
+      "Ferrari Nomine",
+      "Paillard E. & Cie (S. A.)",
+      "Thorens Hermann, S. A."
     ],
-    "Agence immobilière": [
-      "\"LA RUCHE\" Mérinat & Dutoit"
+    "Pignons (fab. de).": [
+      "Reuge Al. & Cie.",
+      "Yancké Camille"
     ],
-    "Agriculteurs": [
-      "Ammann Adolphe",
-      "Baumgartner Johann",
-      "Billard Ernest",
-      "Bourgeois Louis",
-      "Cérésole Adrien",
-      "Chopard Jean-Alexandre",
-      "Delacrétaz E.",
-      "Destraz Henri",
-      "Félix Henri",
-      "Gallay Auguste",
-      "Girardet Jules fils",
-      "Girardet William",
-      "Graf Johann",
-      "Juvet Georges",
-      "Lude Marc",
-      "Lude Frédéric",
-      "Olivet Alphonse",
-      "Pasche Julien",
-      "Thévoz Ernest"
+    "Tourneur.": [
+      "Sueur Ch."
     ],
-    "Allumettes (fab. d')": [
-      "Société de la Fabrique d'allumettes Diamond"
+    "Vis sans fin (fab. de).": [
+      "Bornand Maurice",
+      "Paillard E. & Cie (S. A.)"
     ],
-    "Ameublements-tissus": [
-      "Graber Robert",
-      "Müller Ed.",
-      "Noguet Louis",
-      "Roux frères",
-      "Völter Wilhelm"
+    "Fabricants et commerce d'": [
+      "Bornand Oscar",
+      "Jaccard Alexis",
+      "Jaccard-Addor Constant",
+      "Py-Aubert C.",
+      "Reuge Al. & Cie."
     ],
-    "Antiquaire": [
-      "Cristin Georges"
+    "Fournitures.": [
+      "Sueur Marc",
+      "Leresche Eugène",
+      "Martin A.-Louis",
+      "Reuge Al. & Cie."
     ],
-    "Apiculture (articles pour)": [
-      "Durand Antoine"
+    "Echappements à cylindres.": [
+      "Jaccard-Junod"
     ],
-    "Appareils sanitaires pour chambres de bains et W.-C.": [
-      "Tavelli & Bruno. S. A."
+    "Embottages.": [
+      "Gueissaz Jules"
     ],
-    "Appareilleurs": [
-      "Batisse Aug.",
-      "Baudet Fernand",
-      "Commune de Nyon (Service des eaux et du gaz)",
-      "Durand-Kocher Edouard",
-      "Favre A.",
-      "Gamberoni Angel",
-      "Huber Albert",
-      "Longchamp Aloïs",
-      "Paillex Ernest",
-      "Rossi Fernand"
+    "Monteur de boites.": [
+      "Cuendet Edouard"
     ],
-    "Architectes": [
-      "Dorier Louis & Fils",
-      "Falconnier Jean",
-      "Genoud Louis",
-      "Hessenmuller Louis",
-      "Säuberlin Ernest"
+    "Petite mécanique (fab. de).": [
+      "Margot Albert et E.",
+      "Paillard E. & Cie (S. A.)",
+      "Thorens Hermann, S. A."
     ],
-    "Armes (fabr. d')": [
-      "Rochat A."
+    "Pierristes.": [
+      "Bovay Jules",
+      "Dériaz",
+      "Frommer",
+      "Jaccard Edouard",
+      "Robellaz-Sueur Jules",
+      "Sueur Albert",
+      "Sueur Alfred"
     ],
-    "Asile de jeunes filles": [
-      "Aigroz Joséphine",
-      "Badan Esther"
+    "Pignons, tiges, roues": [
+      "Victoria S. A."
     ],
-    "Assurances (agents)": [
-      "La Suisse",
-      "Assurance mutuelle cantonale",
-      "Fontolliet Louis",
-      "Bâloise (la)",
-      "Gonet & Cie",
-      "Le Genevoise-Vie",
-      "Guignard Julien",
-      "Helvétia (accidents, vol, etc.)",
-      "Rochat Charles",
-      "Société suisse d'assurances générales (vie)",
-      "Société de Banque suisse",
-      "Société suisse de secours mutuels Helvétia",
-      "Huber A.",
-      "Union (vie)",
-      "Cujean Félix",
-      "Winterthour (La)",
-      "Roy François",
-      "Zurich (la)",
-      "Rindlisbacher Charles"
+    "Rhabilleurs.": [
+      "Jaccard Jules",
+      "Jaccard-Junod Jules",
+      "Margot Jules"
+    ],
+    "Ressorts (fab. de).": [
+      "Beck Léon"
+    ],
+    "Vis et décolletages.": [
+      "Margot Albert & E."
+    ],
+    "Agent d'affaires.": [
+      "Margot Louis"
+    ],
+    "Agriculteurs.": [
+      "Barraud Jules",
+      "Baud Ate",
+      "Besse Arthur",
+      "Blanalt Ch.",
+      "Bornand Maurice",
+      "Bornand Ami",
+      "Bornand Edouard",
+      "Bornand Etienne",
+      "Bornand René",
+      "Cuendet frères",
+      "Cuendet Héli",
+      "Cuendet Louis",
+      "Cuendet Paul-Auguste",
+      "Cuendet Philippe",
+      "Dupertuis Louis",
+      "Gonthier Paul",
+      "Gonthier Emile",
+      "Gonthier Hermann",
+      "Gueissaz André",
+      "Gueissaz Jules",
+      "Gueissaz-Margot Edouard",
+      "Guye Paul",
+      "Jaccard-Thévenaz, Vve",
+      "Jaccard Emile",
+      "Jaccard-Thuillard Ls",
+      "Jaccard Sam.",
+      "Jaccard Aug.",
+      "Jaques Const.",
+      "Jaques Félix",
+      "Jaques Gust.",
+      "Jaques Louis",
+      "Jaques Adrien",
+      "Joseph Eugène",
+      "Joseph Ls",
+      "Margot Alfred",
+      "Margot Daniel",
+      "Margot E. & Cie",
+      "Margot Philippe",
+      "Martin Albert",
+      "Martin Francis",
+      "Martin Louis",
+      "Martin Félix",
+      "Martin Albert",
+      "Paillard Charles",
+      "Paillard Justin",
+      "Paillard-Perrier Henri",
+      "Paillard-Jaccard",
+      "Recordon Daniel",
+      "Reymond Henri"
+    ],
+    "Articles de ménage et quincaillerie.": [
+      "Martin Francis",
+      "Société de consommation",
+      "Martin-Clément Emile"
     ],
     "Assurance-vieillesse": [
-      "Mutualité scolaire de retraite",
-      "Duruz P."
+      "Associations mutualistes de retraite",
+      "Jaques-Jaccard S., Mme"
+    ],
+    "Articles agricoles.": [
+      "Martin Frcis."
+    ],
+    "Bazar.": [
+      "Margot Et. & C."
+    ],
+    "Bestiaux (march. de).": [
+      "Blanalt Ch.",
+      "Guye César",
+      "Jaques Ct."
+    ],
+    "Blanchisseuse-repasseuse.": [
+      "Pahud-Burri Louise"
+    ],
+    "Bois (march. de).": [
+      "Addor Charles",
+      "Bornand Edouard",
+      "Jaccard Louis"
     ]
   }
 }

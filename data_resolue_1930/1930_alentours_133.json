@@ -1,224 +1,178 @@
 {
-  "GLAND": {
-    "Buraliste postal": [
-      "Rayroux Emile"
+  "EPESSES": {
+    "Vignerons-propriétaires": [
+      "laz Ernest",
+      "Fonjallaz Ls",
+      "Mercanton Charles",
+      "Möri Emile",
+      "Ponnaz Constant",
+      "Ponnaz Paul",
+      "Potterat Jean",
+      "Pouly Ulysse",
+      "Weber Henri"
     ],
-    "Charcutier": [
-      "Spahni Emile"
+    "Vins (march. de).": [
+      "Bovard Louis",
+      "Bron Victor",
+      "Contesse Henri",
+      "Held & Cie.",
+      "Strauss Albert",
+      "Testuz Jules"
     ],
-    "Charron": [
-      "Vernez Louis"
+    "Divers.": [
+      "Fauquex-Mercanton, dame",
+      "Forsthoff-Fonjallaz Otto"
     ],
-    "Chef de gare": [
-      "Pittier Auguste"
+    "Voiturier.": [
+      "Pellet Auguste"
     ],
-    "Clinique": [
-      "Etablissement Physiothérapique du Léman, La Lignière"
+    "Autorités communales.": [
+      "Massy Albert",
+      "Fonjallaz Sam"
     ],
-    "Combustibles (comm. de)": [
-      "Aëgerter Louis"
+    "Syndic:": [
+      "Corboz Samuel"
     ],
-    "Commission scolaire": [
-      "Aegerter Ls",
-      "Caboussat J."
+    "Municipaux:": [
+      "Duboux Léon",
+      "Fonjallaz Louis",
+      "Fonjallaz Paul",
+      "Fonjallaz Frédéric",
+      "Rouge Philippe",
+      "Duboux Eug.",
+      "Paley Emile"
     ],
-    "Cordonniers": [
-      "Beck Charles",
-      "Bellay Ami"
+    "Agent de police.": [
+      "Paley Emile"
     ],
-    "Ecole particulière": [
-      "« Les Rayons, » Gland"
+    "Agriculteurs.": [
+      "Barraud Alb.",
+      "Bovard Louis"
     ],
-    "Entrepreneurs": [
-      "Boletti Baptiste",
-      "Ronchi Albrt.",
-      "Ronchi & Pellegrino",
-      "Vercellin & fils"
+    "Artiste peintre.": [
+      "Muret Albert"
     ],
-    "Epicerie": [
-      "Charrière Paul",
-      "Rey Albert",
-      "Reymond Ch.",
-      "Zimmermann Jos."
+    "Boulanger.": [
+      "Société coopérative"
     ],
-    "Facteurs": [
-      "Maire Alf.",
-      "Maire Ls."
+    "Buraliste postal.": [
+      "Chambaz Louise"
     ],
-    "Fontainier": [
-      "Bottin Maurice"
+    "Café.": [
+      "Cercle d'Epesses",
+      "Laurent Emile"
     ],
-    "Fourrages": [
-      "Dill Octave"
+    "Charcutier.": [
+      "Paschoud Emile"
     ],
-    "Futailles en fer": [
-      "Horisberger & Cie"
+    "Commission scolaire.": [
+      "Fonjallaz Ls",
+      "Fonjallaz-Liardet, Mme",
+      "Meystre"
     ],
-    "Gypsier-peintre": [
-      "Mosetti Emile"
+    "Cordonnier.": [
+      "Massarotti Charles"
     ],
-    "Hôtel": [
-      "Voir Clinique"
+    "Couturières.": [
+      "Gaillard Suzanne, Mme",
+      "Paley-Capt Elise",
+      "Kaisermann Marthe"
     ],
-    "Inspecteur du bétail": [
-      "Bovy Aloïs"
+    "Epicerie, mercerie.": [
+      "Bezençon-Delessert",
+      "Fonjallaz Victor",
+      "Paley Robert"
     ],
-    "Instituteurs": [
-      "Bettembos André",
-      "Reymond Marthe",
-      "Dutruit Marthe"
+    "Gypsiers.": [
+      "Ambrosino Joseph",
+      "Paltenghi Jean"
     ],
-    "Laitier": [
-      "Pilloud Edouard"
+    "Inspecteurs du bétail.": [
+      "Parisod Aloïs",
+      "Bovard Paul"
     ],
-    "Maréchal": [
-      "Favre Lucien & fils"
+    "Instituteurs.": [
+      "Paquier Gustave-Louis",
+      "Fonjallaz-Fonjallaz Elisa"
     ],
-    "Matériaux de construction": [
-      "Bottin Maurice",
-      "Monti Laurent"
+    "Laitier.": [
+      "Hegg Henri fils"
     ],
-    "Mécanicien": [
-      "Guex Maurice"
+    "Lingère.": [
+      "Fonjallaz Anna"
     ],
-    "Pasteur": [
-      "Jovet William"
+    "Pépiniériste autorisé.": [
+      "Fonjallaz Pl."
     ],
-    "Pêcheurs": [
-      "Blondel Jules",
-      "Fayet Charles",
-      "Livraghi Albert"
+    "Poudre d'os (engrais) (Fabr. de).": [
+      "Gfeller Otto"
     ],
-    "Produits alimentaires": [
-      "Phag, fabrique de produits alimentaires hygiéniques, La Lignière"
+    "Rentière.": [
+      "Sénard Marcelle"
     ],
-    "Produits alimentaires pour le bétail": [
-      "Langer Paul"
+    "Repasseuses.": [
+      "Dutruz Julia, dame",
+      "Genton Marguerite"
     ],
-    "Rentiers": [
-      "Batsholz",
-      "Bugnon Alb.",
-      "Paderewski",
-      "Pernod Fritz et Maurice",
-      "Zucchelli, Mme.",
-      "Vaney-Burnier Gust."
+    "Sellier-tapissier.": [
+      "Gaillard Oswald"
     ],
-    "Repasseuse": [
-      "Marguerat Jeanne"
+    "Sociétés.": [
+      "Coopérative de consommation",
+      "Fonjallaz Hermann",
+      "Rouge Philippe"
     ],
-    "Scierie": [
-      "Scierie de Gland, S. A."
+    "Téléphone communal.": [
+      "Paley-Capt Elise, Mme"
     ],
-    "Serruriers": [
-      "Favre Lucien & fils"
+    "Vignerons.": [
+      "Delessert Aloïs",
+      "Fonjallaz Victor",
+      "Genton Ed.",
+      "Grand Georges",
+      "Légeret Victor",
+      "Mounoud Jean-Louis",
+      "Rey Joseph",
+      "Rohrbach, Vve et fils",
+      "Wälchli Jean",
+      "Wannaz Louis"
     ],
-    "Sociétés": [
-      "de fromagerie",
-      "Electrique de la Côte (usine en Avouillons)",
-      "Philanthropique de la Lignière",
-      "Compagnie du Chemin de fer électrique Gland-Begnins",
-      "Sanatorium du Léman"
+    "Vins.": [
+      "Fonjallaz-Fonjallaz Frédéric",
+      "Fonjallaz Gustave & Cie., A. Massy, succ.",
+      "Massy Albert, succ. de Gust Fonjallaz & Cie."
     ],
-    "Tailleuses": [
-      "Bex Adèle",
-      "Breggi, dame",
-      "Dufey Lse."
-    ],
-    "Télégraphe et téléphone": [
-      "Aegerter Elisa"
-    ],
-    "Voiturier-camionneur": [
-      "Aegerter Ls"
-    ],
-    "Volailles (comm. de)": [
-      "Hörisberger Jean"
-    ]
-  },
-  "GRENS": {
-    "Autorités communales": [
-      "Miaz Alfred",
-      "Miaz Antoine",
-      "Brocher Arthur",
-      "Bidaux Charles",
-      "Miaz Albert",
-      "Noverraz Marius",
-      "Tecon Eugène",
-      "Miaz Jules",
-      "Corbaz René"
-    ],
-    "Agriculteurs": [
-      "Bidaux Charles",
-      "Charrière Henri",
-      "Brocher Arthur",
-      "Miaz Albert",
-      "Miaz Jules",
-      "Tecon Eugène"
-    ],
-    "Apiculteur": [
-      "Duboux Eug., Vve."
-    ],
-    "Commission scolaire": [
-      "Brocher Arthur"
-    ],
-    "Couturière": [
-      "Noverraz Marie"
-    ],
-    "Epicerie, mercerie, tabacs": [
-      "Noverraz François"
-    ],
-    "Ingénieur": [
-      "Bonnet William"
-    ],
-    "Inspecteur du bétail": [
-      "Noverraz Marius"
-    ],
-    "Instituteur": [
-      "Corbaz René"
-    ],
-    "Laitier": [
-      "Laiteries genevoises réunies"
-    ],
-    "Peseur": [
-      "Baudraz Fernand"
-    ],
-    "Poste et téléphone": [
-      "Noverraz Marius"
-    ],
-    "Sociétés": [
-      "de battage Chéserex-Grens",
-      "de fromagerie de Grens et Signy"
-    ],
-    "Téléphone public": [
-      "Postes"
-    ],
-    "Divers": [
-      "Simond Fréd."
-    ]
-  },
-  "LA RIPPE": {
-    "Autorités communales": [
-      "Berlie Charles",
-      "Gautier Henri",
-      "Gautier Louis",
-      "Girod Marc",
-      "Melly Charles",
-      "Berlie Henri",
-      "Berlie John",
-      "Berlie Jules",
-      "Chouet Alfred",
-      "Melly Fernand",
-      "Girod Ami"
-    ],
-    "Agriculteurs": [
-      "Chouet Alfred",
-      "Hermenjat Henri",
-      "Hermenjat Ls",
-      "Hermenjat Paul",
-      "Melly Armand",
-      "Melly Ferdinand"
-    ],
-    "Amodiateur": [
-      "Melly Armand"
+    "Vignerons-propriétaires.": [
+      "Blanc François",
+      "Bovard Aimé",
+      "Bovard Eugie",
+      "Bovard Ls",
+      "Butticaz Alfred",
+      "Butticaz Gust., fils",
+      "Chappuis Henri",
+      "Chappuis Charles",
+      "Chappuis Oscar",
+      "Corboz Samuel",
+      "Cossy Aimé",
+      "Delessert Aloïs",
+      "Duboux-Bovard Eug.",
+      "Duboux Ern.",
+      "Duboux Léon",
+      "Fauquex Eugène",
+      "Fonjallaz Marie",
+      "Fonjallaz-Fonjallaz Frédéric",
+      "Fonjallaz Georges de Fritz",
+      "Fonjallaz Pl-Emmanuel",
+      "Fonjallaz, hoirie d'Eugène",
+      "Fonjallaz Benjamin",
+      "Fonjallaz Herm.",
+      "Fonjallaz Julien",
+      "Fonjallaz Ulysse",
+      "Fonjallaz, hoirie de Const.",
+      "Gay, hoirie de feu J.-Daniel",
+      "Lambelet Florian",
+      "Massy Albert",
+      "Mégroz Auguste"
     ]
   }
 }

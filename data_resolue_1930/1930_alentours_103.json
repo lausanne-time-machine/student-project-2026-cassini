@@ -1,210 +1,115 @@
 {
-  "SAINT-CIERGES": {
-    "Tailleuses": [
-      "Freymond Olive",
-      "Jaccoud Laure"
+  "Sainte-Croix": {
+    "Encadreurs.": [
+      "Basset Louis",
+      "Cuendet Eugène",
+      "De Nicolas Louis",
+      "Paillard Louis"
     ],
-    "Téléphoniste": [
-      "Grin Léon"
+    "Entrepreneurs.": [
+      "Bornand Arthur",
+      "Cantaluppi Joseph",
+      "Canzarini Dominique",
+      "Ceppi & Maggi",
+      "Cottini, Vve de Pierre",
+      "Francioli Emile",
+      "Francioli Ernest",
+      "Gerber Albert",
+      "Margot Fernand",
+      "Meraldi Attilio",
+      "Ottone Alfred",
+      "Ferrari Armand",
+      "Thévenaz Adrien"
     ],
-    "Cycles": [
-      "Versel Albert"
-    ]
-  },
-  "SARZENS": {
-    "Autorités communales": [
-      "Desarzens Jules",
-      "Corthésy Constant",
-      "Desarzens Emile",
-      "Badoux Adrien",
-      "Desarzens Georges",
-      "Corthésy Ele",
-      "Pichonnaz Ernest",
-      "Corthésy Constant",
-      "Desarzens Georges"
+    "Epicerie, mercerie, tabacs.": [
+      "Addor René",
+      "Bahon Oscar",
+      "Bissat-Bissat Marcel",
+      "Favre Jules",
+      "Golay Berthe",
+      "Hofer-Jaccard Fritz",
+      "Huguenin-Mermod Ch.",
+      "Jaccard-Mutrux Ls",
+      "Jaccard-Piaget Eugène",
+      "Jaccard-du Grand Laura",
+      "Junod Emile",
+      "Junod-Gaillard",
+      "Junod Hélène",
+      "Lador-Bornand Pl",
+      "Margot-Ducret, Vve",
+      "Martin-Jaccard David",
+      "Mercure, S. A.",
+      "Mutrux A., fils",
+      "Paillard Henri",
+      "Paillard Paul",
+      "Piolino G. & J.",
+      "Robellaz-Sueur Jules",
+      "Société coopérative de consommation l'Avenir",
+      "Thévenaz Jules-Ls"
     ],
-    "Agriculteurs": [
-      "Badoux Adrien",
-      "Corthésy Ele et Const.",
-      "Desarzens Aug.",
-      "Desarzens Eug.",
-      "Desarzens Ulysse",
-      "Desarzens Ulysse-Daniel",
-      "Desarzens frères",
-      "Emery Alfred",
-      "Ganière Henri",
-      "Guex Julien",
-      "Ogay Jules",
-      "Pichonnaz Alfred",
-      "Pichonnaz frères"
+    "Etoffes.": [
+      "Jaccard-du Grand Laura",
+      "Jaques-Margot Eug.",
+      "Junod-Gaillard",
+      "Martin-Jaccard David",
+      "Paillard Paul",
+      "Piolino G. & J.",
+      "Société coopérative de consommation l'Avenir",
+      "Wanner Martin"
     ],
-    "Associations mutualistes de retraite": [
-      "Chevalley C. Mme"
+    "Ferblantiers-couvreurs-appareillage.": [
+      "Gautschy Walther",
+      "Scalabrini Henri"
     ],
-    "Charpentier": [
-      "Chevalley Fernand"
+    "Fers et métaux.": [
+      "Jaccard-Mutrux Ls",
+      "Joseph Eug., Vve",
+      "Leresche Eugène",
+      "Martin Louis"
     ],
-    "Commission scolaire": [
-      "Desarzens Ul.",
-      "Desarzens Jules",
-      "Desarzens Georges"
+    "Fonderie.": [
+      "Jaccard frères L. et F."
     ],
-    "Couturière": [
-      "Pichonnaz Lina"
+    "Fourrages.": [
+      "Cherpillod Alfred"
     ],
-    "Inspecteur du bétail": [
-      "Desarzens Eugène"
+    "Fromages (gros).": [
+      "Jaccard-Piaget Eug.",
+      "Junod-Gaillard C.",
+      "Mutrux A., fils"
     ],
-    "Institutrice": [
-      "Chevalley-Enning Clara"
+    "Fruits et légumes.": [
+      "Dutoit Ami",
+      "Gagnaux Adèle",
+      "Gognat Luc",
+      "Junod Emile"
     ],
-    "Lingère": [
-      "Pichonnaz-Desarzens"
+    "Géomètre.": [
+      "Mermod John-E."
     ],
-    "Poste": [
-      "Desarzens Georges"
+    "Gypsiers et peintres.": [
+      "Ferrari Armand",
+      "Gerber Albert",
+      "Meraldi, dame",
+      "Ottone Alfred"
     ],
-    "Sociétés": [
-      "de fromagerie. R.",
-      "du battoir à blé. R."
+    "Hôtels et pensions.": [
+      "Hôtel d'Espagne, Stehlé Franz",
+      "Hôtel de France, Jaccard Oscar",
+      "Hôtel du Jura, Mermod Alfred, Vve",
+      "Grand Hôtel des Rasses et Grand Hôtel, S. A.",
+      "Hôtel Beau-Site, Bolens Vve",
+      "Hôtels Beau-Regard et Mont-Fleury",
+      "Hôtel des Alpes, Junod-Champod Benjamin",
+      "Hôtel Beau-Séjour, Neuenschwander Armand"
     ],
-    "Téléphoniste": [
-      "Desarzens Georges"
-    ]
-  },
-  "SOTTENS": {
-    "Autorités communales": [
-      "Besson Alexis",
-      "Pasche Jean",
-      "Pelet Edouard",
-      "Porchet Constant",
-      "Vuagniaux Const.",
-      "Dubrit René",
-      "Porchet Ernest",
-      "Dubrit René"
+    "Imprimeur.": [
+      "Bornand & Geneux"
     ],
-    "Agriculteurs": [
-      "Augsburger Auguste",
-      "Besson Emile",
-      "Besson Héli",
-      "Braillard frères",
-      "Décosterd Henri",
-      "Dubrit Adrien",
-      "Dubrit Daniel",
-      "Dubrit hoirie",
-      "Dubrit John",
-      "Ducret Pierre",
-      "Jotterand Henri",
-      "Lemat hoirie",
-      "Nobs Elise",
-      "Pasche Emile",
-      "Pelet Edouard",
-      "Pelet Héli",
-      "Porchet Constant",
-      "Porchet Emile",
-      "Porchet hoirie d'Eugène",
-      "Porchet Louis",
-      "Porchet Lucien",
-      "Vuagniaux Constant"
-    ],
-    "Assurance cantonale contre l'incendie": [
-      "Pelet Ed."
-    ],
-    "Assurance cantonale contre la grêle": [
-      "Pelet E."
-    ],
-    "Café": [
-      "Germond Henri"
-    ],
-    "Commission scolaire": [
-      "Pelet Edouard",
-      "Porchet Constant",
-      "Besson Alexis"
-    ],
-    "Cordonnier": [
-      "Ducret Ulysse"
-    ],
-    "Epicerie": [
-      "Pasche-Chevalley"
-    ],
-    "Fourches et râteaux (fab. de)": [
-      "Braillard John"
-    ],
-    "Inspecteur du bétail": [
-      "Porchet Const."
-    ],
-    "Instituteur": [
-      "Depierraz Augustin",
-      "Mme Porchet Pauline"
-    ],
-    "Maréchal": [
-      "Stutzmann-Golay Etienne"
-    ],
-    "Poste": [
-      "Dubrit René"
-    ],
-    "Sociétés": [
-      "de fromagerie. R.",
-      "Syndicat agricole. R.",
-      "Société du battoir à grain. R.",
-      "de tir",
-      "Assurance du bétail"
-    ],
-    "Téléphone public": [
-      "Lemat Edmond"
-    ]
-  },
-  "SYENS": {
-    "Autorités communales": [
-      "Mottaz Henri",
-      "Mottaz Louis",
-      "Duc William",
-      "Peytregnet Const.",
-      "Crausaz Héli",
-      "Cavin Ulysse",
-      "Ballif Arthur",
-      "Mottaz Ls",
-      "Mottaz Fritz",
-      "Monge David"
-    ],
-    "Agriculteurs": [
-      "Cavin Eugène",
-      "Cavin Emile",
-      "Duc William",
-      "Ganière Octave",
-      "Knuchel frères",
-      "Metraux frères",
-      "Mottaz Henri",
-      "Mottaz Jules",
-      "Mottaz Louis",
-      "Pfister Gottlieb",
-      "Porchet Julien"
-    ],
-    "Commission scolaire": [
-      "Mottaz Louis",
-      "Crausaz Héli"
-    ],
-    "Couturière": [
-      "Porchet-Weibel Mme"
-    ],
-    "Epicerie": [
-      "Mottaz Henri"
-    ],
-    "Inspecteur du bétail": [
-      "Crausaz Héli"
-    ],
-    "Instituteurs": [
-      "Jacquerod Georges",
-      "Mottaz-Binggeli Rose"
-    ],
-    "Laitier": [
-      "Ballimann Fritz"
-    ],
-    "Meunier": [
-      "Ballif Arthur"
-    ],
-    "Poste": [
-      "Mottaz Henri"
+    "Inspecteurs du bétail.": [
+      "Margot Louis",
+      "Martin Constant",
+      "Jaccard Emile"
     ]
   }
 }

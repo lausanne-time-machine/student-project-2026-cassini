@@ -1,156 +1,198 @@
 {
-  "VALLORBE": {
-    "Mesureur-juré.": [
-      "Falcy Adrien"
+  "LULLY": {
+    "Autorités communales": [
+      "Chevillard Ulysse",
+      "Mingard Robert",
+      "Ogay Alfred",
+      "Bally Robert",
+      "Chabloz Auguste",
+      "Jacot Ch.",
+      "Solliard Constant",
+      "Flaction Jules",
+      "Chabloz Auguste"
     ],
-    "Meubles.": [
-      "Kohler Werner",
-      "Scheurer Albert"
+    "Agriculteurs": [
+      "Blanchard Emmanuel",
+      "Chabloz Aug.",
+      "Châtelain Alfr.",
+      "Chevillard Ulysse",
+      "Desplands Oscar",
+      "Devillard Alexis",
+      "Duc Marcel",
+      "Dupuis Chs",
+      "Jacot Chs",
+      "Mingard Robert",
+      "Mutzenberg François",
+      "Ogay Alfred",
+      "Petit Henri",
+      "Pidoux Edmond",
+      "Schärer Gottlieb",
+      "Solliard Constant",
+      "Solliard Jules-Rodolphe",
+      "Petit Fernand"
     ],
-    "Modes.": [
-      "Pasche-Nobs, dame",
-      "Roy Emile"
+    "Aubergiste": [
+      "Cochet Gustave"
     ],
-    "Musique (instruments de).": [
-      "Glardon-Grobet Alfred"
+    "Charron": [
+      "Rogivue, Vve & fils"
     ],
-    "Musique (leçons de).": [
-      "Biolley-Glardon, Mme",
-      "Cerf Mrs, Institut"
+    "Commission scolaire": [
+      "Chabloz Auguste",
+      "Petit Ernest"
     ],
-    "Notaire.": [
-      "Jaillet Gustave"
+    "Epicerie": [
+      "Tissot Jean"
     ],
-    "Officier d'état-civil.": [
-      "Chaulmontet Marius"
+    "Inspecteur du bétail": [
+      "Chevillard Ul."
     ],
-    "Outils (fab. d').": [
-      "Leresche & Cie"
+    "Institutrice": [
+      "Genton Nelly"
     ],
-    "Outils et manches pour entreprises (vente de).": [
-      "Jaquet S. & H. (S. A.)"
+    "Maréchal": [
+      "Rogivue Ch."
     ],
-    "Papeteries.": [
-      "Friedrich Henri",
-      "Kohler-Scheurer E. T."
+    "Mécanicien": [
+      "Rogivue Ch."
     ],
-    "Pasteurs.": [
-      "Berthoud Henri",
-      "Peter Marcel",
-      "Serex Victor"
+    "Poste": [
+      "Petermann Henriette, Vve."
     ],
-    "Pêcheurs.": [
-      "Bickel Ch.",
-      "Falcy Marcel",
-      "Vallotton-Amey Alfred",
-      "Vallotton Emile",
-      "Regamey Pierre"
+    "Téléphoniste": [
+      "Tissot Jean"
+    ]
+  },
+  "LUSSY": {
+    "Autorités communales": [
+      "Anken Edmond",
+      "Gonvers Julien",
+      "Desponds Alfred",
+      "Anken Auguste",
+      "Gonvers Auguste",
+      "Crottaz Fernand",
+      "Leutwyler Gottfried",
+      "Crottaz Henri",
+      "Anken William",
+      "Mercier Eugène"
     ],
-    "Pensions ouvrières.": [
-      "Bäumle-Amey E.",
-      "Rolliker Ruth",
-      "Lanv Alma"
+    "Agriculteurs": [
+      "Buchet Henri",
+      "Gex Auguste"
     ],
-    "Pharmaciens.": [
-      "Addor Ernest"
+    "Amodiateur": [
+      "Bonzon Aloïs"
     ],
-    "Fabrique d'ampoules stériles pour injections hypodermiques.": [
-      "Grandchamp Louis"
+    "Mutualité scolaire de retraite": [
+      "Girardet G."
     ],
-    "Photographe.": [
-      "Deriaz Marcel"
+    "Boucher": [
+      "Paquier Eugène"
     ],
-    "Pierristes.": [
-      "Falcy Samuel",
-      "Glardon-Matthey Paul",
-      "Guignard-Rochat Jules"
+    "Café": [
+      "Vionnet Emile"
     ],
-    "Police.": [
-      "Paccaud Emile",
-      "Hochstaettler Robert",
-      "Glardon Gaston",
-      "Rothen André",
-      "Jaillet Rob."
+    "Charron": [
+      "Panchaud Adrien"
     ],
-    "Pompiers.": [
-      "Magnenat Ch."
+    "Commission scolaire": [
+      "Bungener Félix",
+      "Anken William",
+      "Crottaz Fernand"
     ],
-    "Quincaillerie.": [
-      "Glardon Robert",
-      "Jaquet S. & H. (S. A.)"
+    "Epicerie": [
+      "Echaud Clara",
+      "Mercier Eugène"
     ],
-    "Relieur.": [
-      "Zipper Aloïs"
+    "Huilier": [
+      "André Robert"
     ],
-    "Représentants.": [
-      "Baumann H.",
-      "Noverraz Ch."
+    "Inspecteur du bétail": [
+      "Crottaz Ls"
     ],
-    "Sages-femmes.": [
-      "Leresche Adrienne",
-      "Matthey Léa"
+    "Instituteurs": [
+      "Girardet Charles",
+      "Chaudet Edmée"
     ],
-    "Scieries.": [
-      "Comptoir de bois. S. A.",
-      "Scierie de Vallorbe, S. A."
+    "Justice de paix": [
+      "Gonvers Henri",
+      "Mercier Eug.",
+      "Crottat Louis"
     ],
-    "Sellier.": [
-      "Kohler Werner"
+    "Laitier": [
+      "Bertholet Ch."
     ],
-    "Serruriers.": [
-      "Glardon Emile",
-      "Leresche Jean",
-      "Viotti & fils"
+    "Pasteur": [
+      "Bungener Félix"
     ],
-    "Sociétés.": [
-      "Cercle de Vallorbe",
-      "d'électrochimie. usine du Day",
-      "électrique du Châtelard",
-      "des usines des Grands Crêts",
-      "des usines métallurg. de Vallorbe",
-      "des carbures du Day",
-      "Coopérat. de consommation",
-      "Forges du Creux",
-      "Militaire « L'Abbaye »",
-      "Fondation Jules Chavannes",
-      "Catholique romaine",
-      "Gymnastique",
-      "Fromagerie de la Concorde",
-      "Tempérance: Avenir et Croix-Bleue",
-      "Union chrétienne de jeunes gens",
-      "Société suisse de la Clématéite",
-      "Caisse de pensions des Usines métallurgiques",
-      "Sous-officiers",
-      "Chorale des Cheminots",
-      "Fanfare Avenir",
-      "Chorale Persévérance",
-      "Feuille d'Avis de Vallorbe",
-      "Vélo-Club",
-      "Union des soc. de tir",
-      "Union du personnel de la Gare",
-      "« L'Union », Société coop. de consommation des employés français de la gare de Vallorbe",
-      "Vallorbe Sports",
-      "Société Française",
-      "Société des Pêcheurs",
-      "Armes de Guerre",
-      "Avant-Garde du Mont-d'Or",
-      "Société du battoir à grains",
-      "Union économique du personnel fédéral",
-      "Moto-Club du Jura Vaudois"
+    "Pépiniéristes": [
+      "Anken Edmond",
+      "Anken William"
     ],
-    "Taillandiers.": [
-      "Estoppey Paul",
-      "Leresche & Cie"
+    "Poste": [
+      "Vionnet Ernest"
     ],
-    "Tailleurs.": [
-      "Genier P.",
-      "Locher Adolphe",
-      "Ringenberg Werner"
+    "Sociétés": [
+      "Desponds Alfred"
     ],
-    "Tailleuses.": [
-      "Auberson Emilie",
-      "Besson-Bichet dame",
-      "Jaccard-Stalder"
+    "Tailleuse": [
+      "Chaudet Edmée"
+    ],
+    "Téléphoniste": [
+      "Delessert Louis"
+    ]
+  },
+  "MONNAZ": {
+    "Autorités communales": [
+      "Rochat Marcel",
+      "Duruz André",
+      "Duruz Laurent",
+      "Guillemin René",
+      "Rochat Francis",
+      "Dumuid Albert",
+      "Rochat François"
+    ],
+    "Agriculteurs": [
+      "Bissat Charles",
+      "Bissat Emile",
+      "Christen Alfred",
+      "Cornut Eugène",
+      "Cornut Gustave",
+      "Cruchon Alex.",
+      "Cruchon Alfr. T.",
+      "Dufour Albert",
+      "Dufour Alfred",
+      "Dumuid Alb.",
+      "Dumuid Emile",
+      "Dumuid Eugène",
+      "Duruz André",
+      "Duruz Laurent",
+      "Guillemin Charles",
+      "Guillemin René",
+      "Rochat François",
+      "Rochat Jules",
+      "Rochat Gustave",
+      "Rochat Louis",
+      "Rochat Marcel",
+      "Rochat Samuel"
+    ],
+    "Commission scolaire": [
+      "Cruchon Alex."
+    ],
+    "Epicerie": [
+      "Cruchon Alexandre"
+    ],
+    "Inspecteur du bétail": [
+      "Dumuid Alb. fils"
+    ],
+    "Poste": [
+      "Rochat Francis"
+    ],
+    "Rentier": [
+      "de Freudenreich Edmond"
+    ],
+    "Télégraphe et téléphone": [
+      "Dumuid Louise"
     ]
   }
 }

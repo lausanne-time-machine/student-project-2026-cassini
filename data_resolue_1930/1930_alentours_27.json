@@ -1,240 +1,189 @@
 {
-  "Le Brassus": {
-    "Pierres fines (fabr. de)": [
-      "frères & Cie (S. A.)",
-      "Reymond Auguste",
-      "Robert Arthur"
+  "RENNAZ": {
+    "Pensionnats": [
+      "Ramel Louisa",
+      "Reber Ern.",
+      "Tille-Berruex Frida",
+      "Vittoz Noëlle",
+      "Zemp Anna",
+      "Nicolier, hoirie d'Emile"
     ],
-    "Quantièmes": [
-      "Aubert-Piguet A."
+    "Charpentiers": [
+      "Jordan Henri",
+      "Perreten Alfred",
+      "Perreten-Moulin Victor",
+      "Perreten John"
     ],
-    "Régleurs": [
-      "Aubert-Piguet A.",
-      "Audemars Léon",
-      "Audemars Albert",
-      "Meylan Adolphe",
-      "Menétrey Paul fils",
-      "Piguet Robert",
-      "Sémon Wm."
+    "Chefs de gare à l'A. S. D.": [
+      "Jaquerod John T",
+      "Pernet-Tille, Suzanne"
     ],
-    "Remontoirs (fab. de)": [
-      "Golay Alfred",
-      "Reymond Henri-Salomon"
-    ],
-    "Repassages": [
-      "Aubert-Piguet A.",
-      "Golay Alfred",
-      "Leresche Maurice",
-      "Piguet Léopold"
-    ],
-    "Roues (tailleurs de)": [
-      "Golay F.",
-      "Meylan Paul-Alfred"
-    ],
-    "Taillage en tous genres": [
-      "Meylan Paul-Alfred"
-    ],
-    "Sertisseurs et pierristes": [
-      "Aubert Roland",
-      "Capt Fritz",
-      "Dépraz Wilhelm",
-      "Golay Samuel",
-      "Meylan Ed.-W.",
-      "Piguet frères & Cie (S. A.)",
-      "Piguet Auguste",
-      "Reymond Auguste"
-    ],
-    "Vis (polissage de)": [
-      "Meylan Germaine",
-      "Piguet-Meylan Lucie"
-    ],
-    "Divers": [
-      "Rochat Ch."
-    ]
-  },
-  "Orient": {
-    "Conseil administratif": [
-      "Meylan Alfred",
-      "Lugrin Paul",
-      "Lecoultre John",
-      "Massy"
-    ],
-    "Agriculteurs": [
-      "Bassin Maurice",
-      "Baud Alfred",
-      "Baud Gabriel",
-      "Benoit Jules",
-      "Berney Théodore",
-      "Berney Elie",
-      "Capt Chs",
-      "Capt Constant",
-      "Capt Léon",
-      "Capt Js-Ami",
-      "Capt Ulysse",
-      "Chabod Moïse",
-      "Clerc Edm.",
-      "Fressineau, les fils de Paul",
-      "Golay André-Emile",
-      "Golay Paul",
-      "Golay William",
-      "Guignard Henri",
-      "Humbert John",
-      "Lugrin Paul",
-      "Meylan Albert",
-      "Meylan Ami-Henri",
-      "Meylan Arnold",
-      "Meylan Emile",
-      "Meylan Ernest",
-      "Nicole Gaspard",
-      "Reymond Robert",
-      "Rochat Emile",
-      "Simond François",
-      "Vallon Charles"
-    ],
-    "Allumeurs d'électricité (fab. d')": [
-      "Capt-Lecoultre Ernest"
-    ],
-    "Asile communal": [
-      "Piguet Adam"
-    ],
-    "Assurances": [
-      "< La Genevoise >",
-      "< La Winterthour >",
-      "Vionnet I."
-    ],
-    "Assurance-vieillesse": [
-      "Associations mutualistes de retraite",
-      "Rochat R."
-    ],
-    "Boisselier": [
-      "Capt Léon"
-    ],
-    "Bois (march. de)": [
-      "Capt Léon"
-    ],
-    "Boucher-charcutier": [
-      "Rochat-Berney, Louis"
-    ],
-    "Boulanger-pâtissier": [
-      "Martin-Hoffer"
-    ],
-    "Bûcherons": [
-      "Baud Alfred",
-      "Chabod Amédée",
-      "Reymond Marcel"
-    ],
-    "Café": [
-      "Viola Henri"
-    ],
-    "Chapellerie": [
-      "Pellet-Simond Aug."
-    ],
-    "Chasseurs": [
-      "Guignard Charles",
-      "Aubert Marcel",
-      "Reymond Hector"
-    ],
-    "Chaudronnier": [
-      "Sabatier Jean"
-    ],
-    "Cigares et tabacs": [
-      "Coopérative",
-      "Pellet-Simon Auguste"
-    ],
-    "Coiffeur": [
-      "Caillet Maurice"
+    "Chef de section": [
+      "Busset Edouard"
     ],
     "Commission scolaire": [
-      "Guignard Marc",
-      "Reymond Arthur"
+      "Tille Jules",
+      "Busset Eugène"
     ],
     "Cordonniers": [
-      "Eggmann Ulrich",
-      "Piguet Henri"
+      "Fromentin Auguste",
+      "Nicolier Jules"
     ],
-    "Draineur": [
-      "Piguet Henri"
+    "Couturières": [
+      "Nicolier-Gallaz Laure",
+      "Nicolier Louisa",
+      "Roch-Jordan Susanne"
     ],
-    "Epiceries": [
-      "Martin Georges",
-      "Pellet-Simond Aug.",
-      "Coopérative"
+    "Electricien": [
+      "Masson Maurice"
     ],
-    "Fromages et vacherins (fab. de)": [
-      "Golay Paul",
-      "Meylan François"
+    "Entrepreneurs-maçons": [
+      "Monacco Jacques"
     ],
-    "Garde-forestier": [
-      "Capt Eug.-Adolphe"
+    "Epiciers": [
+      "Dufresne Frida",
+      "Favre Olivier",
+      "Girod Armand",
+      "Favre-Isabel Emile",
+      "Moillen-Pichard Fanny",
+      "Nicolier, Veuve d'Auguste",
+      "Pernet-Morerod Armand",
+      "Société coopérative générale de consommation"
     ],
-    "Graines potagères": [
-      "Pellet-Simond"
+    "Etoffes": [
+      "Dufresne Edmond",
+      "Favre Olivier",
+      "Moillen, hoirs d'Emile"
     ],
-    "Gypserie et peinture": [
-      "Guarichetti"
+    "Géomètre": [
+      "Busset Eug."
     ],
-    "Horlogers-bijoutiers": [
-      "Clerc Charles",
-      "Meylan-Capt Emile"
+    "Guides": [
+      "Reber Ernest",
+      "Jordan Paul",
+      "Pernet Armand",
+      "Reber Albert"
     ],
-    "Hôtel": [
-      "Viola Hri"
+    "Horlogers": [
+      "Berruex Alexis",
+      "Genillard Alexandre"
     ],
-    "Inspecteur du bétail": [
-      "Goy-Baud Ernest"
+    "Hôtels (maîtres d')": [
+      "Pichard Franck",
+      "Buchs F.",
+      "Henchoz Robert",
+      "Morex-Tille, hoirie",
+      "Schneiter-Pellet Paul",
+      "Perrochon, hoirs",
+      "Wursten-Moillen Samuel"
+    ],
+    "Inspecteurs du bétail": [
+      "Genillard Emile",
+      "Jaquerod Vincent"
     ],
     "Instituteurs": [
-      "Pithon Juste",
-      "Capt Louise",
-      "Rochat Rose"
+      "Badan Marcel",
+      "Chapalay Ct.",
+      "Henchoz Georges",
+      "Beauverd Fernand",
+      "Beauverd Berthold",
+      "Oguey Louise"
     ],
-    "Laitier": [
-      "Meylan François"
+    "Justice de paix": [
+      "Busset Emile",
+      "Nicolier Alex.",
+      "Pichard-Morerod Jules",
+      "Favre Robert",
+      "Treina-Jaquerod Georges",
+      "Pichard Henri",
+      "Corboz Louis"
     ],
-    "Machines à coudre": [
-      "Golay, Vve"
+    "Maréchaux": [
+      "Ansermet Auguste"
+    ],
+    "Médecin": [
+      "Mündler Ernest"
     ],
     "Menuisiers": [
-      "Golay François",
-      "Meylan David"
+      "Perreten Emmanuel",
+      "Perreten John",
+      "Perreten Victor"
     ],
-    "Pêcheurs": [
-      "Baud Eugène",
-      "Capt Hector",
-      "Guignard Charles",
-      "Guignard Emile",
-      "Meylan Ami",
-      "Meylan David",
-      "Meylan Hector",
-      "Robert Samuel"
+    "Mercerie": [
+      "Bonzon Jules",
+      "Favre Olivier",
+      "Favre-Isabel Emile",
+      "Moillen-Pichard Fanny",
+      "Nicolier, Vve d'Auguste",
+      "Pernet-Morerod A. R."
     ],
-    "Poste": [
-      "Clerc Henri",
-      "Clerc Henri"
+    "Officier d'état-civil": [
+      "Chapalay Constant",
+      "Busset Emile"
     ],
-    "Primeurs": [
-      "Bove F."
+    "Pasteurs": [
+      "Grellet Francis",
+      "Laufer Maurice"
+    ],
+    "Pensions d'été": [
+      "Pichard-Busset Frank",
+      "Busset Eugène",
+      "Pension Jolimont",
+      "Pension du Mousion",
+      "Pension Victoria",
+      "Henchoz Robert",
+      "Chalet suisse",
+      "La Printanière",
+      "Moillen C."
+    ],
+    "Photographie (appareils)": [
+      "Decaux Gustave",
+      "Zürcher Alfred"
+    ],
+    "Poste (dép. de)": [
+      "Tille Jules"
+    ],
+    "Scieurs": [
+      "Busset frères",
+      "Henchoz Robert",
+      "Jordan Hri",
+      "Perreten Victor",
+      "Tille Jules",
+      "Treina Georges"
     ],
     "Sociétés": [
-      "Chorale",
-      "Laiterie",
-      "Coopérative"
+      "Stand des Diablerets",
+      "Association immobilière des Jeans",
+      "Fromagerie du Plan",
+      "du Cordon-Vert",
+      "du Cordon Rouge et Vert",
+      "Syndicat agricole des Diablerets",
+      "Syndicat agricole Ormonts-dessus",
+      "Militaire de tir aux armes de guerre",
+      "de la Sentinelle",
+      "de chant l'Echo des Diablerets",
+      "L'Instrumentale des Diablerets",
+      "Section de la Croix-Bleue",
+      "de la cabane des Diablerets",
+      "Corporation de la Montagne de Marnex",
+      "de chant « La Chorale des Diablerets »",
+      "de chant Chœur mixte « L'Avenir »",
+      "Ski-Club des Diablerets",
+      "Ski-Club « Meilleret »",
+      "Sporting-Club des Diablerets"
     ],
-    "Tailleuses": [
-      "Capt-Golay Emilie",
-      "Meylan sœurs"
+    "Téléphoniste": [
+      "Tille Alexis"
     ],
-    "Tissus": [
-      "Coopérative",
-      "Pellet-Simond A."
+    "Télégraphistes": [
+      "Gallaz Emmanuel",
+      "Bureau de postes"
     ],
-    "Verrerie": [
-      "Martin Georges"
-    ],
-    "Vins (comm. de)": [
-      "Lugrin Paul",
-      "Meylan Arnold",
-      "Piguet Urbain"
+    "Voituriers": [
+      "Buchs, hoirie de Fritz",
+      "Pichard Alexis",
+      "Treina Georges",
+      "Treina Marcel"
     ]
   }
 }

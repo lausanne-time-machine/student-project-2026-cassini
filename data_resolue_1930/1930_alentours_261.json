@@ -1,111 +1,87 @@
 {
-  "VILLE DE VEVEY": {
-    "Sociétés de musique": [
-      "Instrumentale de Vevey-Tour-de-Peilz",
-      "Fanfare de la Croix-Bleue",
-      "Société des laitiers de Vevey",
-      "Vevey - Ancienne",
-      "Jeunes-Patriotes",
-      "d'hommes",
-      "Club alpin suisse, Section de Jaman",
-      "La Soldanelle",
-      "Foot-Ball Vevey Young Boys F. C.",
-      "Société d'escrime",
-      "Le Vétéran",
-      "La Sennelle",
-      "Club de l'Aviron",
-      "Société des sports, club athlétique",
-      "Syndicat des vignerons des cercles de Vevey, La Tour et Corsier"
+  "DISTRICT DE PAYERNE": {
+    "Préfet": [
+      "Cornamusaz Fritz"
     ],
-    "Socques (fab. de).": [
-      "Hausherr Ernest",
-      "Manufacture veveysanne de socques et pantoufles (S.A.)"
+    "Substitut": [
+      "Zbinden Erest"
     ],
-    "Soieries.": [
-      "Dauner François",
-      "Soieries Gerber"
+    "Receveur": [
+      "Reber Ed."
     ],
-    "Tabacs et cigares (march. de)": [
-      "Agnetti-Lambrigger Rosalie, Vve",
-      "Boraley Charles",
-      "Cuendet Emile",
-      "Darbellay sœurs",
-      "Delabays, Mlle",
-      "Delisle Jules",
-      "Dériaz Emm.",
-      "Ferrari Antonie",
-      "Gaille Robert",
-      "Gasser G. fils",
-      "Gentil V.",
-      "Guillaume Vital",
-      "Hämmer F. & Cie",
-      "Holl Charles",
-      "Laurent Gustave",
-      "Patthey Maurice",
-      "Roussy Rosine",
-      "Rapin Frédéric",
-      "Rigassi Albert",
-      "Rigassi Edouard",
-      "Savoca P.",
-      "Schleuniger Albert",
-      "Scholer G.",
-      "Sterky Louise",
-      "Sunichis Henri",
-      "von der Aa Jeanne",
-      "de Weck Albert",
-      "Wyler Albert"
+    "Conservateur du registre foncier": [
+      "Pradervand Michel"
     ],
-    "Tailleurs.": [
-      "Bischoff & Rosenberg",
-      "Borghi Antoine",
-      "Cantatore F.",
-      "Cantatore David",
-      "Degrandi Pierre",
-      "Francia Sereno",
-      "Gehret Henri",
-      "Grote H. & fils",
-      "Guzzetti V.",
-      "Hagenbach Jules",
-      "de Känel Ch.",
-      "Keller-Jakob Emile",
-      "Lenzen Pierre",
-      "Magro G.",
-      "Muller Max",
-      "Reitenspiess Ch.",
-      "Sanguini A.",
-      "Trachsel Rodolphe"
+    "Voyer du IXe arrondissem.": [
+      "Clot Charles"
     ],
-    "Tanneurs.": [
-      "Tannerie de Vevey (S.A.)",
-      "Gottreux Ad."
+    "Commandant du IIIe arrondissement militaire": [
+      "Mayor Gustave"
     ],
-    "Tapis (march. de).": [
-      "Brunschwig A.",
-      "Bury Henri",
-      "Légeret Ch.",
-      "Schopper frères et sœur",
-      "Schwob Lucien"
+    "Tribunal de district": [
+      "Berthoud Ferdinand",
+      "Rossat Gustave",
+      "Cherbuin-Jan Edouard",
+      "Rapin Albert",
+      "Jayet Louis",
+      "Laurent Robert"
     ],
-    "Tapissiers.": [
-      "Bavaud, Vve",
-      "Bellan E.",
-      "Binello L.",
-      "Déglon Louis-Henri",
-      "Duperrex J.",
-      "Hurni Arnold",
-      "Leuba Fritz",
-      "Linder Maurice",
-      "Marlettaz Frères",
-      "Martin D.",
-      "Monhart Gustave",
-      "Noir G.",
-      "Pilloud F.",
-      "Schopper frères et sœur",
-      "Studer E.",
-      "Wittum Guillaume"
+    "Poursuites et faillites": [
+      "Wullschleger Louis"
+    ]
+  },
+  "VILLE DE PAYERNE": {
+    "Président du Conseil communal": [
+      "Capt Marius"
     ],
-    "Technicien.": [
-      "Dufev O."
+    "Secrétaire": [
+      "Burmeister Albert",
+      "Niffenegger Ch."
+    ],
+    "Syndic": [
+      "Cornaz Ferdinand"
+    ],
+    "Municipaux": [
+      "Nicod-Caille Louis",
+      "Bosset Louis",
+      "Jomini Henri",
+      "Schaub-Cherbuin G.",
+      "Savary Alfred",
+      "Zbinden Ernest"
+    ],
+    "sous-secrétaire": [
+      "Ney Ernest"
+    ],
+    "Boursier": [
+      "Doudin Conrad"
+    ],
+    "Agent d'affaires patenté": [
+      "Chabloz Auguste"
+    ],
+    "Abattoirs": [
+      "Guggi Ad."
+    ],
+    "Affichage": [
+      "Société générale d'affichage"
+    ],
+    "Agriculteurs": [
+      "Addor Paul",
+      "Assal Alfred",
+      "Bossy-Cherbuin Jules",
+      "Bossy-Vallotton François",
+      "Bossy-Fivaz Ernest",
+      "Caille Jules",
+      "Caille Henri",
+      "Cherbuin Ernest",
+      "Cherbuin-Burri Émile",
+      "Cherbuin Henri",
+      "Cherbuin Isaac",
+      "Crisinel Ernest",
+      "Crisinel-Bossy John",
+      "Decorges Henri",
+      "De Dompierre César",
+      "De Dompierre Daniel",
+      "De Dompierre Philippe"
     ]
   }
 }

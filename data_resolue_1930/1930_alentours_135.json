@@ -1,195 +1,213 @@
 {
-  "OLLON": {
-    "Boulangers": [
-      "Chamorel Félix",
-      "Cand Rob.",
-      "Favre César",
-      "Heiz-Hess Hermann",
-      "Jaggi Ch., hoirie",
-      "Joly Edgar",
-      "Pache Ami"
+  "FOREL": {
+    "Autorités communales.": [
+      "Léderrey Samuel",
+      "Chappuis Oscar"
     ],
-    "Briqueterie": [
-      "Croptier, les hoirs"
+    "Syndic": [
+      "Léderrey Eugène"
     ],
-    "Buralistes postaux": [
-      "Amiguet Henri",
-      "Anex Agnès",
-      "Anex Samuel",
-      "Jaccard René",
-      "Michet Pl.",
-      "Jacquemin-Wehrli Anne"
+    "Municipaux": [
+      "Riccard Armand",
+      "Testuz O.",
+      "Michoud Henri",
+      "Crot Constant",
+      "Chappuis René",
+      "Gorjat Ls."
     ],
-    "Carrières (exploitation de)": [
-      "Borloz Arnold",
-      "Société des carrières de St-Triphon et Collombey"
+    "Agriculteurs.": [
+      "Bovet Ls",
+      "Bron Henri",
+      "Burnier Fritz",
+      "Chappuis Oscar",
+      "Duboux",
+      "Fonjallaz René",
+      "Henny Abram",
+      "Jaques Aimé",
+      "Lederrey Samuel",
+      "Michoud Henri",
+      "Pantet Alfred",
+      "Cordey",
+      "Pasche Louis",
+      "Porchet Henri",
+      "Ramseyer Gottfried"
     ],
-    "Charpentiers": [
-      "Amiguet Félix",
-      "Bovon Ls",
-      "Dulex Gust.",
-      "Jaquerod Hri",
-      "Pittier François",
-      "Pittier H."
+    "Mutualité scolaire de retraite.": [
+      "Rouge F."
     ],
-    "Charrons": [
-      "Basset François",
-      "Blanc Henri",
-      "Hauenstein G.",
-      "Roud Alphonse"
+    "Auberges et cafés.": [
+      "Bron Elisa",
+      "Capt-Cardinaux E.",
+      "Cuénoud Aloïs",
+      "Blondel Ernest",
+      "Garin Louis",
+      "Reymond Frieda"
     ],
-    "Chaussures (march. de)": [
-      "Curchod Edmond",
-      "Mages Henri"
+    "Avocat.": [
+      "Gorgerat Ch."
     ],
-    "Chefs de gares": [
-      "Chambovey Gust.",
-      "Antenen Edmond",
-      "Amiguet Louis",
-      "Delacrétaz"
+    "Carriers.": [
+      "Chollet Juste"
     ],
-    "Chef de section": [
-      "Greyloz Adolphe"
+    "Charpentier.": [
+      "Marguerat Aimé"
     ],
-    "Cigares et tabacs": [
-      "Aegerter Gottlieb",
-      "Croptier Jos.",
-      "Curchod E.",
-      "Jaquemin Ernest"
+    "Commission scolaire.": [
+      "Michoud Hri",
+      "Gorjat René"
     ],
-    "Coiffeur": [
-      "Weck F."
+    "Cordonniers.": [
+      "Chappuis Marcel",
+      "Guex Oscar"
     ],
-    "Combustibles": [
-      "Bertarionne Louis",
-      "Callias A. H. (S. A.)",
-      "Diserens François",
-      "Monod-Bussard V."
+    "Electricien.": [
+      "Testuz O. T."
     ],
-    "Commission scolaire": [
-      "Bercier René",
-      "Kalbfuss A."
+    "Entrepreneurs.": [
+      "Panico et fils"
     ],
-    "Cordonniers": [
-      "Chiochetti Angélo",
-      "Mages Henri",
-      "Manini Jaques",
-      "Morerod",
-      "Rouiller Louis"
+    "Epicerie, mercerie.": [
+      "Crot Jeanne",
+      "Egger Alfred",
+      "Garin Louis",
+      "Thibaud frères"
     ],
-    "Couturières": [
-      "Chambovey",
-      "Cardis Louise",
-      "Gaud Louise",
-      "von Gruningon Antoinette",
-      "Jacot-Chambovey, dame",
-      "Joly-Eggen Marcelle",
-      "Parlier Ida"
+    "Facteurs.": [
+      "Chappuis John",
+      "Michoud Henri"
     ],
-    "Couvreur": [
-      "Naef Robert"
+    "Ferblantier.": [
+      "Rapin Louis"
     ],
-    "Dentiste": [
-      "Schwarb André"
+    "Inspecteurs du bétail.": [
+      "Noverraz Arthur",
+      "Duboux Louis"
     ],
-    "Crèmerie-Tea-Room": [
-      "Robert Paul"
+    "Instituteurs.": [
+      "Guignard Adr.",
+      "Rouge François",
+      "Martin, Mlle"
     ],
-    "Draperies": [
-      "Baudin Suzanne",
-      "Pernollet"
+    "Institut de jeunes gens.": [
+      "Schneebeli Alfred"
     ],
-    "Entrepreneurs": [
-      "Cantova Baptiste",
-      "Mérinat Emile",
-      "Ronchi César"
+    "Laiterie.": [
+      "Egger Alfred"
     ],
-    "Epiciers": [
-      "Borloz Sylvie",
-      "Chamorel Félix",
-      "Coopérative de consommation",
-      "Cottier Marius",
-      "Ourchod Edmond",
-      "Heiz-Hess Hermann",
-      "Jaggi Christian, hoirie",
-      "Jaquemin Ernest",
-      "Monod-Bussard Vincent",
-      "Moret Suzanne",
-      "Pache Ami",
-      "Pidoux Albert",
-      "Schärer Emile"
+    "Machines agricoles.": [
+      "Léderey Samuel"
     ],
-    "Ferblantiers": [
-      "Dormond Louis",
-      "Dormond Paul",
-      "Næf R."
+    "Maréchal.": [
+      "Testuz Oscar"
     ],
-    "Fers": [
-      "Anex-Jaggi",
-      "Curchod Edmond"
+    "Matériaux de construction.": [
+      "Panico et fils"
     ],
-    "Fruits et légumes": [
-      "Moreillon Suz., Veuve",
-      "Perret Samuel",
-      "Richard E.",
-      "Rossi-Décaillet"
+    "Mécanicien-serrurier.": [
+      "Testuz O. T."
     ],
-    "Géomètre breveté": [
-      "Amiguet Edouard"
+    "Pasteur.": [
+      "Epars Louis"
     ],
-    "Gypsiers": [
-      "Motto Basile",
-      "Polonghini Maxime"
+    "Produits viticoles.": [
+      "Léderrey Eugène"
     ],
-    "Horlogerie-Bijouterie": [
-      "Eberhardt",
-      "Thiébaud Vital"
+    "Poste.": [
+      "Kronsbein-Lavanchy Eugène"
     ],
-    "Hôtels-pensions": [
-      "Amiguet Pierre",
-      "de Rin A.",
-      "Pension Minerva",
-      "Bohren C.",
-      "Pension du Cerf",
-      "Pension du Chamois",
-      "Chalet Rose",
-      "Pension Chalet Eugénie",
-      "Roud-Renggli Marie",
-      "Pension Chalet Marguerite",
-      "Hôtel Belvédère",
-      "Lichtenberger W. & Gilg M.",
-      "Chalet de l'Enfance",
-      "Rochat Aimée",
-      "Hôtel Victoria",
-      "Hochuli-Gerber Elise",
-      "Pension Bellevue",
-      "Barraud E.",
-      "Pension Gentiana",
-      "Besson A.",
-      "Pension Jolimont",
-      "Clerc & Lambelet, demoiselles",
-      "Hôtel Beeau-Site",
-      "J. Kehrli",
-      "Pension Old India",
-      "Machoud J.",
-      "Pension du Raisin",
-      "Dulex Ernest",
-      "Société des Hôtels de Villars",
-      "Grand Hôtel",
-      "Muveran",
-      "Bellevue",
-      "Villars-Palace",
-      "Bucher Louis",
-      "Pension-Famille Frautschy Elise",
-      "Pension Roud",
-      "Beau Soleil",
-      "Mlle Ferrier",
-      "Chal. Henriette",
-      "Kupferschmied, Mlle",
-      "Les Pervenches",
-      "Moreillon dame",
-      "« Alpina »",
-      "Rapaz, Mme"
+    "Rentiers.": [
+      "Buttin Louis T.",
+      "Choppard-Butticaz Paul"
+    ],
+    "Représentant.": [
+      "Gorjat Fernand"
+    ],
+    "Sociétés.": [
+      "Association des propriétaires d'eau du Pont de Pierre",
+      "Société de laiterie",
+      "de laiterie du Tronchet",
+      "de chant <La Vigneronne>",
+      "de la jeunesse",
+      "Syndicat agricole des Monts de Lavaux",
+      "Section de la Croix-Bleue",
+      "Fanfare de Grandvaux"
+    ],
+    "Tailleur.": [
+      "Lavanchy Auguste"
+    ],
+    "Téléphone communal.": [
+      "Capt Emile"
+    ],
+    "Tricotage à la machine.": [
+      "Giddey Hélène"
+    ],
+    "Vignerons.": [
+      "Beroud Emile",
+      "Bessat Louis",
+      "Chappuis Aimé",
+      "Chappuis Isaac",
+      "Chappuis Oscar",
+      "Chaubert Eugène",
+      "Crot Charles",
+      "Crot Constant",
+      "Crot Isaac",
+      "Duboux Jules",
+      "Gindroz Aimé",
+      "Gorjat Aloïs",
+      "Gorjat Frédéric",
+      "Gorjat René",
+      "Jomini frères",
+      "Léderrey Eugène",
+      "Monney Alf.",
+      "Palaz Georges",
+      "Parisod Alfred",
+      "Ponnaz Henri",
+      "Riccard Armand",
+      "Riccard Julien",
+      "Riccard Marius",
+      "Serex Louis",
+      "Testuz Oscar"
+    ],
+    "Vins vaudois.": [
+      "Léderrey Eug.",
+      "Parisod Robert"
+    ],
+    "Voituriers.": [
+      "Bovet Louis",
+      "Jomini"
+    ]
+  },
+  "LUTRY": {
+    "Autorités communales.": [
+      "Buche François",
+      "Deprez Albert"
+    ],
+    "Syndic": [
+      "Baatard Charles"
+    ],
+    "Municipaux": [
+      "Bron William",
+      "Bessat Henri",
+      "Conne Maurice",
+      "Diserens Charles",
+      "Mathier Charles",
+      "Bolomey Charles"
+    ],
+    "Affichage.": [
+      "Société générale d'affichage"
+    ],
+    "Agents de police.": [
+      "Chollet Louis",
+      "Dessauges Alfred"
+    ],
+    "Agriculteurs et vignerons.": [
+      "Aguet, César",
+      "Aguet Henri",
+      "Aguet Jules",
+      "Bessat Henri",
+      "Bolomey Charles",
+      "Bolomey Louis de Daniel",
+      "Bor"
     ]
   }
 }

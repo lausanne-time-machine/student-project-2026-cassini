@@ -1,119 +1,235 @@
 {
-  "Ville de Nyon": {
-    "Cordonniers.": [
-      "Page Jules",
-      "Primon Ferdinand",
-      "Rosset François",
-      "Vaglio Josué",
-      "Versel Ernest"
+  "BELMONT-SUR-LAUSANNE": {
+    "Sociétés": [
+      "de laiterie. R.",
+      "de développement",
+      "du poids public",
+      "Fusiliers de Belmont.",
+      "Chant La Concorde",
+      "Tir aux armes de guerre",
+      "d'agriculture. R.",
+      "Union chrétienne de jeunes gens",
+      "de musique « L'Avenir »"
     ],
-    "Corsets.": [
-      "Baumann M."
+    "Téléphoniste": [
+      "Mage Jean"
+    ]
+  },
+  "CHESEAUX": {
+    "Autorités communales": [
+      "Joyet Ami",
+      "Regamey Maurice",
+      "Cottier Henri",
+      "Ponnaz Henri",
+      "Puthod Maurice",
+      "Rochat Aug.",
+      "Binggeli Hri fils",
+      "Peytrequin Constant",
+      "Fonjallaz Ed."
     ],
-    "Coutelier.": [
-      "Besson Simon",
-      "Bornand-Bertrand fils",
-      "Schertlin, Mlle."
+    "Agriculteurs": [
+      "Bezençon Gustave",
+      "Châtelard.",
+      "Bieri Rod.",
+      "Binggeli Hri feu F.",
+      "Binggeli Hri",
+      "Binggeli Louis",
+      "Binggeli Samuel",
+      "Bolomey Marcel",
+      "Borgeaud Alfred",
+      "Burli William",
+      "Cottier Hri",
+      "Cottier Fernand",
+      "Delacuisine Albert",
+      "Delacuisine Alfred",
+      "Delacuisine Ami",
+      "Duperret Hermann",
+      "Emery Alf.",
+      "Emery Const.",
+      "Emery Louis",
+      "Favre Louis. T.",
+      "Fleury Louis",
+      "Gringet Henri",
+      "Hämmerli J.",
+      "Henrioud Robert",
+      "Joyet Charles",
+      "Joyet Ami",
+      "Joyet Emile",
+      "Joyet Eugène",
+      "Joyet Léonard",
+      "Joyet Ls ff. Jean",
+      "Michon Aug. et Fern.",
+      "Petit Ct. T.",
+      "Peytrequin Osc.",
+      "Perrochon Chs",
+      "Regamey Aug.",
+      "Regamey Edouard",
+      "Regamey Maurice",
+      "Rochat Auguste",
+      "Thuillard Alfred",
+      "Troyon Ami",
+      "Troyon Robert",
+      "Zehnder."
     ],
-    "Couvreurs.": [
-      "Baudet Fernand",
-      "Durand A.",
-      "Paillex Ernest",
-      "Pitto Laurent",
-      "Preti Jules",
-      "Rossi Fernand.",
-      "Tschanen Walter"
+    "Aubergistes": [
+      "Binggeli Charles",
+      "Monnier Emile",
+      "Porchet Constant"
     ],
-    "Crémeries.": [
-      "Gerber Alfred",
-      "Knechtli Max"
+    "Boisselier": [
+      "Chapuis G."
     ],
-    "Curé.": [
-      "Sesti Léon."
+    "Charrons": [
+      "Cevey John",
+      "Magnenat Georges."
     ],
-    "Cycles. — Motos.": [
-      "Cherpit Henri",
-      "Favre Alfred",
-      "Favre Georges fils",
-      "Huber Albert",
-      "Jeanneret Maurice",
-      "Rapp Alphonse"
+    "Charpentier": [
+      "Regamey Constant."
     ],
-    "Denrées coloniales.": [
-      "Comptoir agricole S.A.",
-      "Granger Marc",
-      "Ruey Daniel"
+    "Chef de gare": [
+      "Jauslin Edouard. T."
     ],
-    "Dentistes.": [
-      "Heinrich Arnold",
-      "Hellmüller Ernest",
-      "Isler Georges",
-      "Jacot-Descombes Bernard",
-      "Riesen William",
-      "Rochty Henri"
+    "Commission scolaire": [
+      "Müller Francis",
+      "Joyet Charles"
     ],
-    "Distillateurs.": [
-      "Bossotto Jean",
-      "Distillerie du Léman, S. A.",
-      "Gerber"
+    "Epiceries": [
+      "Binggeli Charles",
+      "Bolomey",
+      "Vve de Louis. R.",
+      "Puthod-Clerc Léa."
     ],
-    "Draperies et nouveautés.": [
-      "Au Louvre",
-      "Francina & Co",
-      "Lob Salomon"
+    "Ferblantier": [
+      "Blanchet Henri."
     ],
-    "Drogueries.": [
-      "Furrer Emile",
-      "Gabus-Plojoux & Cie",
-      "Kuffer Félix",
-      "Gamboni V. & sœur",
-      "Kæppeli Hermann"
+    "Huilerie": [
+      "Thonney Auguste."
     ],
-    "Eaux gazeuses.": [
-      "Bossotto Jean",
-      "Zwahlen Franç., Vve"
+    "Inspecteur du bétail": [
+      "Gringet Henri."
     ],
-    "Ebénistes.": [
-      "Bertossa Eugène",
-      "Graber Robert",
-      "Roux frères",
-      "Zeender frères"
+    "Instituteurs": [
+      "Fonjallaz Edouard",
+      "Reymond Berthe."
     ],
-    "Ecoles particulières.": [
-      "Gonet, Dlle",
-      "Roy M., Dlle"
+    "Maçon": [
+      "Barialti Salvator."
     ],
-    "Ecrins (fabrique d')": [
-      "Maire Paul"
+    "Maréchal": [
+      "Wyss Louis-David."
     ],
-    "Electriciens.": [
-      "Bally Louis",
-      "Compagnie vaudoise des forces de Joux",
-      "Durand Charles",
-      "Favre Alfred",
-      "Huber Albert",
-      "Services industriels de la Commune",
-      "Société électrique de la Côte"
+    "Médecin": [
+      "Rivier Paul. T."
     ],
-    "Encadreurs-Vitriers.": [
-      "Arcioli-Besson Emma.",
-      "Peter Charles"
+    "Moulin": [
+      "Pasche Ernest. RT."
     ],
-    "Engrais chimiques.": [
-      "Berlie Frédéric",
-      "Comptoir agricole S. A.",
-      "Deprez & Cie, S. A."
+    "Pasteurs": [
+      "Bersier Emile",
+      "Muller Francis"
     ],
-    "Entrepreneurs de maçonnerie.": [
-      "Bertholet Alphonse",
-      "Bidal Charles",
-      "Moggio François",
-      "Angel Godi",
-      "Perrin Jules",
-      "Péry Joseph",
-      "Rigoni Charles",
-      "Quadri Virginio",
-      "Rigoni Anselme"
+    "Poste": [
+      "Emery Albert. T."
+    ],
+    "Rentier": [
+      "Ponnaz Henri."
+    ],
+    "Scieur": [
+      "Thonney Aug."
+    ],
+    "Sociétés": [
+      "Immobilière de Cheseaux. R.",
+      "Laiterie. R."
+    ],
+    "Tailleuses": [
+      "Epitaux Alice et Jeanne",
+      "Groux Julie",
+      "Mercanton Rose",
+      "Sahli Lina."
+    ],
+    "Téléphoniste": [
+      "Peytrequin Jenny."
+    ]
+  },
+  "CRISSIER": {
+    "Autorités communales": [
+      "Folner Maurice",
+      "Brun Samuel",
+      "Bovay Adrien",
+      "Rawyler Edouard",
+      "Bussy Ernest",
+      "Chautems Jules",
+      "Blondel Alb.",
+      "Blanc Marcel",
+      "Bussy Henri. T."
+    ],
+    "Agent de police": [
+      "Freiss Albert."
+    ],
+    "Agriculteurs": [
+      "Blondel Emile",
+      "Blondel Franc.",
+      "Bovey Adrien",
+      "Bovay Emile",
+      "Bussy Alfred",
+      "Bussy Henri",
+      "Cordey Marcel",
+      "Dind Gustave",
+      "Petit Albert",
+      "Rawyler Edouard",
+      "Richard Edouard",
+      "Richard Lucien."
+    ],
+    "Apiculteurs": [
+      "Blondel Emile",
+      "Demont François."
+    ],
+    "Appareilleur": [
+      "Huguet A. T."
+    ],
+    "Architecte": [
+      "Blanc Marcel."
+    ],
+    "Mutualité scolaire de retraite": [
+      "Bussy F."
+    ],
+    "Battoirs à grains": [
+      "Rochat Aug. R.",
+      "Vittoz John."
+    ],
+    "Boulangers": [
+      "Rochat Jules",
+      "Würsten Ed."
+    ],
+    "Bureau de poste": [
+      "Bussy Charles."
+    ],
+    "Cafés": [
+      "Cerottini",
+      "Henry Paul",
+      "Cevey-Favre",
+      "Weibel Verena. R."
+    ],
+    "Carrons et tuyaux en ciment (fab. de)": [
+      "Rod & Cie. T."
+    ],
+    "Charpentier": [
+      "Lauener Fritz. RT."
+    ],
+    "Charron": [
+      "Meylan E."
+    ],
+    "Commission scolaire": [
+      "Folner Maurice",
+      "Mayor",
+      "Bussy Henri",
+      "Blondel Robert",
+      "Bovay Ad."
+    ],
+    "Entrepreneurs": [
+      "Baudrocco Igino",
+      "Bobba frères T.",
+      "Magistri Bernard."
     ]
   }
 }

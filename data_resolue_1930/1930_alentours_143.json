@@ -1,126 +1,89 @@
 {
-  "Ville d'Orbe": {
-    "Inspecteur forestier.": [
-      "Moreillon M."
+  "VILLE DE MORGES": {
+    "Autorités communales": [
+      "De Goumoëns, Preillonnaz",
+      "Cuénod Eugène",
+      "Coderey Gustave",
+      "Warnery Pierre",
+      "Monod Henri",
+      "André Alfred",
+      "Rattaz Ami",
+      "Roulet Henri",
+      "Burdet Charles",
+      "Kahn Charles"
     ],
-    "Instituteurs secondaires.": [
-      "Chevallier Gustave",
-      "Meylan Paul",
-      "Poget Walther",
-      "Tétaz Gust.",
-      "Tüscher Julien",
-      "Bartré Georgette",
-      "Pittet Céline"
+    "Affichage": [
+      "Société générale d'affichage"
     ],
-    "Instituteurs primaires.": [
-      "Deriaz Robert",
-      "Gonthier Emile",
-      "Aubert Paul",
-      "Pidoux Henri"
+    "Agence agricole": [
+      "Serex Charles"
     ],
-    "Institutrices primaires.": [
-      "Brandt-Grobéty Renée",
-      "Champod Esther",
-      "Chevallier-Freymond Léa",
-      "Chiolero Marguerite",
-      "Estoppey Suzanne",
-      "Fehlmann Marguerite",
-      "Guex Berthe",
-      "Magnin Lucy",
-      "Pahud Yvonne",
-      "Roy Odette",
-      "Schneiter-Ramponi Alice"
+    "Agence de journaux": [
+      "Naville & Cie"
     ],
-    "Jardiniers.": [
-      "Berthiez Ed.",
-      "Vallotton Ulysse"
+    "Agents d'affaires patentés": [
+      "Bovard Julien",
+      "Peitrequin Ch."
     ],
-    "Journal.": [
-      "Jaques Eugène"
+    "Agriculteurs": [
+      "Cordey Lucien",
+      "Ecole d'Agriculture",
+      "Jaquinet Adolphe",
+      "Juat Charles",
+      "Kratzer Emile",
+      "Millioud Louis"
     ],
-    "Justice de paix.": [
-      "Béguelin Marcel",
-      "Martin Julien",
-      "Meylan Eugène",
-      "Favre Alfred",
-      "Laurent Auguste",
-      "Chevalier Louis",
-      "Schneiter Henri"
+    "Antiquités": [
+      "Nicolier Jules"
     ],
-    "Laitiers.": [
-      "Conod Eugène",
-      "Demont-Gindroz Olive",
-      "Etter Albert"
+    "Architectes": [
+      "André frères",
+      "de Freudenreich Jacques",
+      "Kahn Ch.",
+      "Kraemer V."
     ],
-    "Librairies.": [
-      "Jaques Eugène",
-      "Velay Albert"
+    "Armurier": [
+      "Baumann Alfred"
     ],
-    "Lingères.": [
-      "Porchet Suzanne"
+    "Arsenal (directeur)": [
+      "Chevalier Samuel"
     ],
-    "Machines agricoles.": [
-      "Beauverd Emile"
+    "Articles de ménage": [
+      "Rieben Emile",
+      "Vuffray E."
     ],
-    "Machines à coudre.": [
-      "Auberson Henri",
-      "Grandjean Jules",
-      "Pidoux & Miauton"
+    "Asile": [
+      "Hospice des Oisillons"
     ],
-    "Maréchaux.": [
-      "Ecoffey frères",
-      "Rauchle Ernest"
+    "Assurances": [
+      "La Suisse",
+      "Bâloise (la)",
+      "Concordia (vie)",
+      "Phénix (vie) et Cologne (accidents)",
+      "Société suisse d'assurance contre la grêle",
+      "Société suisse d'assurances générales",
+      "Société vaudoise de secours mutuels",
+      "Société suisse de secours mutuels (maladie) Helvétia",
+      "Vita (vie)",
+      "Zurich (la)"
     ],
-    "Matériaux de construction.": [
-      "Beauverd Emile"
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite"
     ],
-    "Mécaniciens": [
-      "Auberson Henri",
-      "Grandjean Jules",
-      "Pidoux & Miauton"
+    "Atelier de construction mécanique": [
+      "Etablissements Sim (S. A.)"
     ],
-    "Médecins.": [
-      "Barraud J.",
-      "Bezençon C.",
-      "Mœhrlen W."
+    "Automobiles": [
+      "Bonnevaux A.",
+      "Etablissements Sim (S. A.)",
+      "Favez L.",
+      "Clarer-Laffely W.",
+      "Ramuz Ch.",
+      "Saurer, S. A."
     ],
-    "Menuisiers-ébénistes.": [
-      "Addor & Jaquier",
-      "Bourgeois Gustave",
-      "Hoffmann-Cuhat Henri",
-      "Parqueterie d'Aigle",
-      "Huber Albert",
-      "Kuffer Henri",
-      "Sterchi Eugène",
-      "Tallichet Alfred",
-      "Wenger Emile"
-    ],
-    "Menuisiers.": [
-      "PARQUETERIE D'AIGLE"
-    ],
-    "Mercerie, bonneterie, lainerie.": [
-      "Auberson Léa",
-      "Dupuis Fernand"
-    ],
-    "Meuniers.": [
-      "Moulins Rod (S. A.)",
-      "Wimmisberg",
-      "Lambert Luc.",
-      "Bezençon Hri & Bousson Louis"
-    ],
-    "Modistes.": [
-      "Lugeon-Huber A.",
-      "Meylan Emmy"
-    ],
-    "Notaires.": [
-      "Giroud & Pittet",
-      "Richard Louis"
-    ],
-    "Officier d'état-civil.": [
-      "Chevallier Louis"
-    ],
-    "Parquets.": [
-      "Beauverd Emile"
+    "Aviculteurs": [
+      "Pilloud Léonard",
+      "Yersin Emilie"
     ]
   }
 }

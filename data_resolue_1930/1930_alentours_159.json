@@ -1,252 +1,243 @@
 {
-  "ROMAINMÔTIER": {
-    "Agriculteurs": [
-      "Besson Aloïs",
-      "Besson Jules",
-      "Bonard Ls. T.",
-      "Boulaz Paul",
-      "Perreaud Emile, père et fils",
-      "Perreaud Gustave",
-      "Cuenez Louis",
-      "Reignier Louis"
-    ],
-    "Amodiateur": [
-      "Bonard Louis"
-    ],
-    "Apiculteurs": [
-      "Abrezol Louis",
-      "Bonard Louis",
-      "Boulaz César",
-      "Genier Valéria",
-      "Poschung Robert",
-      "Reymond Emile"
-    ],
-    "Asile des petites familles": [
-      "Fleury Xavier"
-    ],
-    "Assurance-vieillesse": [
-      "Associations mutualistes de retraite de Romainmôtier et Envy",
-      "Buxcel R."
-    ],
-    "Auberges et cafés": [
-      "Bonard Eugène",
-      "Boulaz Armand",
-      "Sordet Marie, Vve"
-    ],
-    "Bains": [
-      "Besson Maria"
-    ],
-    "Banques": [
-      "Caisse d'épargne cantonale vaudoise",
-      "Crédit Foncier Vaudois",
-      "Poschung Robert"
-    ],
-    "Blanchisseuses": [
-      "Kohler Louise",
-      "Mütsch Cécile"
-    ],
-    "Bois (march. de)": [
-      "Ciana Antoine",
-      "Guignard Jean & Paul"
-    ],
-    "Boulangers-pâtissiers": [
-      "Descombes Louis",
-      "Zahnd, hoirs d'Em."
-    ],
-    "Buraliste postale et centrale téléphonique": [
-      "Dufeu Alice"
-    ],
-    "Camionneurs": [
-      "Besson Aloïs",
-      "Guignard Edmond"
-    ],
-    "Cantonnier": [
-      "Glayre Rodolphe"
-    ],
-    "Chapellerie": [
-      "Poschung Bertha"
-    ],
-    "Charpentiers": [
-      "Diserens Henri",
-      "Diserens Paul"
-    ],
-    "Chaussures (march. de)": [
-      "Léonard Gustave",
-      "Poschung Bertha"
-    ],
-    "Chef de section": [
-      "Bonard Louis"
-    ],
-    "Coiffeur": [
-      "Kohler Charles"
-    ],
-    "Commission scolaire Romainmôtier et Envy": [
-      "Jaccard Henri",
-      "March Harry"
-    ],
-    "Couturière": [
-      "Meyer Léonie"
-    ],
-    "Cordonnier": [
-      "Reignier Henri"
-    ],
-    "Crèmerie": [
-      "Meyer Léonie"
-    ],
-    "Electricien": [
-      "Dufeu Jean"
-    ],
-    "Entrepreneurs": [
-      "Borgazzi Eugène et Alexandre"
-    ],
-    "Epicerie, mercerie, tabacs": [
-      "Ciana Maria",
-      "Léonard Gust.",
-      "Poschung Bertha",
-      "Wehrly Rose"
-    ],
-    "Facteur postal": [
-      "Poschung Robert"
-    ],
-    "Ferblantiers": [
-      "Fiandra J.",
-      "Martinelli Pierre"
-    ],
-    "Forces de Joux": [
-      "Lindner Charles"
-    ],
-    "Garde-forestier": [
-      "Boulaz Gustave"
-    ],
-    "Garde-police": [
-      "Destraz Albert"
-    ],
-    "Gendarme": [
-      "Détraz Albert"
-    ],
-    "Gypsier-peintre": [
-      "Ciana Humbert"
-    ],
-    "Hôtel": [
-      "Boulaz Armand"
-    ],
-    "Infirmerie Contesse": [
-      "Cornu Georges",
-      "Boulaz Louis"
+  "CHIGNY": {
+    "Huissier municipal": [
+      "George Marcel"
     ],
     "Inspecteur du bétail": [
-      "Perreaud Emile, père"
-    ],
-    "Instituteurs": [
-      "Buxcel Raymond",
-      "Ruegger Marie",
-      "Schüle Sylvie"
-    ],
-    "Jardiniers": [
-      "Borgeaud François",
-      "Duperrex Adolphe"
-    ],
-    "Justice de paix": [
-      "Curtet Jules",
-      "Conod Ami",
-      "Monnier Albert",
-      "Candaux Louis-Alfred",
-      "Berthoud Hri-Sel",
-      "Pittet Francis",
-      "Reignier Abram"
-    ],
-    "Laitier-fromager": [
-      "Baudat Aimé"
-    ],
-    "Machines et outils (fab. de)": [
-      "Etablissem. Ch. Maillefer (S. A.)"
-    ],
-    "Maréchaux": [
-      "Boulaz César et Emile"
-    ],
-    "Masseur": [
-      "Monnay David"
-    ],
-    "Mécanicien (motos, vélos)": [
-      "Boulaz Emile"
+      "Galay Louis"
     ],
     "Médecin": [
-      "Cornu Georges"
+      "Forel François"
     ],
-    "Modiste": [
-      "Poschung Bertha"
+    "Rentier": [
+      "Borel Henri"
     ],
-    "Musée": [
-      "March Harry",
-      "Sergy Georges",
-      "Pallen, Mme"
+    "Société": [
+      "S. A. d’exploitations et d’améliorations foncières"
     ],
-    "Notaire": [
-      "Pittet Francis"
+    "Vignerons": [
+      "Aubert Georges",
+      "Buchilly André",
+      "Francfort Alf.",
+      "Georges Aug.",
+      "Magnin Auguste"
+    ]
+  },
+  "CLARMONT": {
+    "Président du Conseil général": [
+      "Reymond Paul"
     ],
-    "Officier d'état-civil": [
-      "Reignier Abr."
+    "Secrétaire": [
+      "Golaz Louis",
+      "Amaron L."
     ],
-    "Pasteurs": [
-      "Favre Gustave",
-      "Rambert Jean"
+    "Syndic": [
+      "Golaz Henri"
     ],
-    "Pêcheur": [
-      "Burnens-Poras, Eug."
+    "Municipaux": [
+      "Vidoudez Georges",
+      "Berthet Henri",
+      "Moret René",
+      "Cretegny William"
     ],
-    "Pensions": [
-      "Boulaz Arm.",
-      "Jaccard Henri",
-      "Monnay David",
-      "Rambert M."
+    "Boursier": [
+      "Golaz Ls."
     ],
-    "Pharmacien": [
-      "Pahud Ch."
+    "Amodiateur": [
+      "Vidoudez Georges"
     ],
-    "Pisciculteur": [
-      "March Harry"
+    "Apiculteur": [
+      "Amaron Léon"
     ],
-    "Rentiers": [
-      "Bonard Berthe",
-      "Bonard Marie",
-      "Buxcel Edmond",
-      "Benoit Marie",
-      "Duperrex Adolphe",
-      "Gloor Jenny",
-      "Jaccard Justine",
-      "Rochaz Math.",
-      "Stutz Paul"
+    "Mutualité scolaire de retraite": [
+      "Amaron L."
     ],
-    "Repasseuse": [
-      "Mütsch Cécile"
+    "Commission scolaire": [
+      "Corthésy Ernest",
+      "Grandchamp Paul",
+      "Golaz Henri"
     ],
-    "Sage-femme": [
-      "Bille Jeanne"
+    "Epicerie": [
+      "Vidoudez Alice"
     ],
-    "Scierie et parquets": [
-      "Guignard Jean & Paul. S. A."
+    "Inspecteur du bétail": [
+      "Cretegny Wm"
     ],
-    "Sellier-tapissier": [
-      "Bonard Ulysse"
+    "Instituteur": [
+      "Amaron Léon"
     ],
-    "Serrurier": [
-      "Abrezol Louis"
+    "Laitier": [
+      "Fiechter Marcel"
+    ],
+    "Poste": [
+      "Schopfer Lina"
+    ],
+    "Société": [
+      "de fromagerie"
+    ],
+    "Vignerons": [
+      "Berguer Fernand",
+      "Berthet Henri",
+      "Cretegny W.",
+      "Fiechter Jacob",
+      "Golay Henri",
+      "Reymond Paul",
+      "Schopfer Jules",
+      "Viande Paul",
+      "Vidoudez Georges"
+    ]
+  },
+  "COLOMBIER": {
+    "Président du Conseil général": [
+      "Matthey Lucien"
+    ],
+    "Secrétaire": [
+      "Perretten Ed.",
+      "Chauvet Louis"
+    ],
+    "Syndic": [
+      "Testuz Octave"
+    ],
+    "Municipaux": [
+      "Desmeules Arthur",
+      "Prior Isaac",
+      "Rochat Gustave",
+      "Monnet Alfred"
+    ],
+    "Boursier": [
+      "Chauvet Albert"
+    ],
+    "Agriculteurs": [
+      "Bastardot, hoirie",
+      "Baumgartner F.",
+      "Berguer Henri",
+      "Chauvet A. et E.",
+      "Chauvet Louis",
+      "Clerc Alexis",
+      "Clerc Gustave",
+      "Delay frères",
+      "Desmeules Arthur",
+      "Dumauthioz, hoirie",
+      "Gobeli Jean",
+      "Linder Charles",
+      "Linder François",
+      "Monachon Henri",
+      "Penel Henri",
+      "Perreten Edouard",
+      "Prior Isaac",
+      "Rochat Alfred",
+      "Rochat Henri"
+    ],
+    "Apiculteurs": [
+      "Chauvet Louis",
+      "Perretten Benjamin"
+    ],
+    "Associations mutualistes de retraite": [
+      "Meylan Ch."
+    ],
+    "Aubergiste": [
+      "Rojard Albert"
+    ],
+    "Bétail (march. de)": [
+      "Prior Isaac"
+    ],
+    "Chef de section": [
+      "Clerc Gustave"
+    ],
+    "Commission scolaire": [
+      "Grandchamp Paul",
+      "Rochat Gust.",
+      "Desmeules Arthur"
+    ],
+    "Epicerie, mercerie": [
+      "Cretegny Paul"
+    ],
+    "RT": [
+      "Haudenschild Gottfried"
+    ],
+    "Entrepreneur": [
+      "Demicheli Arthur"
+    ],
+    "Inspecteur du bétail": [
+      "Pinguely Jles."
+    ],
+    "Instituteurs": [
+      "Meylan Charles",
+      "Meylan Jeanne"
+    ],
+    "Juge": [
+      "Henry Arn."
+    ],
+    "Assesseurs": [
+      "Testuz Octave",
+      "Schmidely Gustave",
+      "Henry Alfred"
+    ],
+    "Greffier": [
+      "Linder Armand"
+    ],
+    "Laitier": [
+      "Nyffenegger Gottfried"
+    ],
+    "Maréchal": [
+      "Barrelet Marcel"
+    ],
+    "Poste": [
+      "Rochat Gustave"
+    ],
+    "Revendeuse": [
+      "Racine Elise"
     ],
     "Sociétés": [
-      "de laiterie",
-      "du poids public de la Gare",
-      "pour le développement de Romainmôtier",
-      "de l'Abbaye « L'Etoile du Jura »",
-      "de tir « Armes de guerre »",
-      "de musique « La Lyre du Nozon »",
-      "de chant",
-      "Section de la Société de secours en cas de décès « La Fraternité »",
-      "« L'Aurore »",
-      "Sections de la Croix-Bleue et de l'Espoir",
-      "Fondation Cunier, pour l'hygiène",
-      "Fondation Abr.-Elie Rochat pour études universitaires",
-      "Fondation Eugène Rochaz pour courses scolaires",
-      "Fonds des vitraux du temple"
+      "de fromagerie",
+      "Syndicat agricole",
+      "des Eaux"
+    ],
+    "Téléphoniste": [
+      "Rojard Albert"
+    ],
+    "Vignerons": [
+      "Depping François",
+      "Durand Edouard",
+      "Rochat Auguste"
+    ]
+  },
+  "DENENS": {
+    "Président du Conseil général": [
+      "Gillabert Jean"
+    ],
+    "Secrétaire": [
+      "Ormond Louis",
+      "Jacot Gustave"
+    ],
+    "Syndic": [
+      "Cotty Fernand"
+    ],
+    "Municipaux": [
+      "Reymond Philippe",
+      "Sauty Albert",
+      "Perey Victor",
+      "Bachelard Agénor"
+    ],
+    "Boursier": [
+      "Sauty Emile"
+    ],
+    "Agriculteurs": [
+      "Bachelard Auguste",
+      "Cotty Fernand",
+      "Cotty Philippe",
+      "Gillabert Jean",
+      "Gilgen Henri",
+      "Jacot Jules",
+      "Laurent Charles",
+      "Metzger Justin",
+      "Perey Vict.",
+      "Pernet Lucien",
+      "Reymond Philippe",
+      "Sauty Albert",
+      "Sauty Constant",
+      "Sauty Louis",
+      "Sauty Nancy"
     ]
   }
 }

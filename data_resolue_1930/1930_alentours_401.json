@@ -1,237 +1,170 @@
 {
-  "SAINT-BARTHELEMY": {
-    "Meuniers-scieurs.": [
-      "Favre Alfred et Louis"
+  "Ville d'Yverdon": {
+    "Voituriers.": [
+      "Petitpierre Fritz",
+      "Pittet Ele.",
+      "Reichler Henri",
+      "Ubersax Rod.",
+      "von Allmen F.",
+      "Zavallone Antoine"
+    ],
+    "Divers.": [
+      "Aeschlimann Henri",
+      "Bach, dame",
+      "Besson-Roy G.",
+      "Besson J.",
+      "Besson P.",
+      "Besson-Röthlisberger",
+      "Borel Ernest",
+      "Buffat C.",
+      "Castella Ed.",
+      "Chabloz A.",
+      "Cornaz H.",
+      "Cornu Ch.",
+      "Decker François",
+      "Du Bois de Guimps",
+      "Etter J.",
+      "Farine J.",
+      "Genillod J.",
+      "Girardet Ch.",
+      "Grandjean Edm.",
+      "Hinderer Hermann",
+      "Hirzel-Hofmann Lse",
+      "Jaquiéry E., Mme.",
+      "Jayet Aloïs",
+      "Kasser-Pillichody Ch.",
+      "Martin Georges",
+      "Masraff, famille",
+      "Mauler H.",
+      "Oberson E.",
+      "Pache-Bujard M.",
+      "Paschoud A.",
+      "Péclard Hri",
+      "Péclard-Emery J.",
+      "Piguet Ch.",
+      "Pilicier Ch.",
+      "Pilicier Mathilde",
+      "Pillichody-Butin",
+      "Perrin-Schmidt J.",
+      "Pointet-Steiner",
+      "Rapin L.",
+      "Renaud H.",
+      "Schwaar-Porret F.",
+      "Steuri H.",
+      "Stump E.",
+      "Thorens Ed.",
+      "Vautier, Mlle."
+    ]
+  },
+  "ARRISSOULES": {
+    "Autorités communales.": [
+      "Gudit Jules",
+      "Gallandat Maurice",
+      "Gudit Alexis",
+      "Gudit Denis",
+      "Gudit Victor",
+      "Pochon Octave",
+      "Gudit Ami"
+    ],
+    "Agriculteurs.": [
+      "Gallandat Maurice",
+      "Gudit Ami",
+      "Gudit Alexis",
+      "Gudit Const.",
+      "Gudit Jules",
+      "Gudit Louis",
+      "Gudit Paul",
+      "Pahud Victor",
+      "Pochon Octave"
+    ],
+    "Commission scolaire.": [
+      "Vermeil, pasteur",
+      "Gudit Ami",
+      "Pochon Octave"
+    ],
+    "Institutrice.": [
+      "Ray Odette, Mlle."
+    ],
+    "Peseur de lait.": [
+      "Gudit Denis"
+    ],
+    "Rentiers.": [
+      "Gudit Constant",
+      "Gudit Marie"
     ],
     "Société.": [
-      "de fromagerie de Saint-Barthélémy-Bretigny. R.",
-      "Syndicat agricole. R."
+      "de laiterie. R."
     ],
-    "Tailleuses.": [
-      "Favre Anne",
-      "Favre Bernadette",
-      "Limaat Cécile"
-    ],
-    "Téléphoniste.": [
-      "Favre Joseph"
+    "Transport-Camionneur.": [
+      "Gudit Ami"
     ]
   },
-  "SUGNENS": {
+  "BELMONT-SUR-YVERDON": {
     "Autorités communales.": [
-      "Jaccoud Adrien",
-      "Brochon Louis"
-    ],
-    "Syndic": [
-      "Brochon Paul"
-    ],
-    "Municipaux": [
-      "Brochon William",
-      "Vauthey Gustave",
-      "Jaton Héli",
-      "Vauthey Ernest"
-    ],
-    "Secrétaire": [
-      "Jaccoud Alexis"
-    ],
-    "Boursier": [
-      "Brochon William"
-    ],
-    "Huissier": [
-      "Vauthey Hri."
+      "Chevalier Jules",
+      "Grin Alexis",
+      "Grin Charles",
+      "Dupuis And.",
+      "Henrioud Henri",
+      "Henrioud Charles",
+      "Grin Max",
+      "Grin Arthur",
+      "Pilloud Fritz",
+      "Henrioud Fernand",
+      "Dupuis Edouard",
+      "Dupuis André"
     ],
     "Agriculteurs.": [
-      "Brochon frères",
-      "Brochon William",
-      "Buffat François",
-      "Desarzens Ed.",
-      "Dutoit Ulrich",
-      "Girardet Edouard",
-      "Jaccoud Adrien",
-      "Jaccoud Alfred, de Henri",
-      "Jaccoud Elie",
-      "Vauthey Alexis",
-      "Vauthey Ernest"
-    ],
-    "Mutualité scolaire de retraite.": [
-      "Monod G."
-    ],
-    "Bétail (march. de).": [
-      "Dutoit Albert"
-    ],
-    "Buraliste postale.": [
-      "Veuve Brochon Louise"
-    ],
-    "Café.": [
-      "Dutoit Albert"
-    ],
-    "Charpentiers.": [
-      "Hertig père & fils"
-    ],
-    "Commission scolaire.": [
-      "Jaton Héli",
-      "Moreillon R.",
-      "Jaccoud Alexis"
-    ],
-    "Epicerie. mercerie.": [
-      "Gindroz Rosa"
-    ],
-    "Inspecteur du bétail.": [
-      "Brochon William"
-    ],
-    "Instituteurs.": [
-      "Monod Gustave",
-      "Vauthey Aline"
-    ],
-    "Laitier.": [
-      "Neuschwander Paul"
-    ],
-    "Maréchal.": [
-      "Neuenschwander Louis"
-    ],
-    "Repasseuse.": [
-      "Jaccoud Rosa"
-    ],
-    "Sociétés.": [
-      "de laiterie. R.",
-      "Syndicat agricole. R."
-    ],
-    "Téléphoniste.": [
-      "Gindroz Rosa"
-    ]
-  },
-  "VILLARS-LE-TERROIR": {
-    "Autorités communales.": [
-      "Pittet Félix",
-      "Mændly Jules"
-    ],
-    "Syndic": [
-      "Mettraux Alphonse"
-    ],
-    "Municipaux": [
-      "Besson Héli",
-      "Pittet Joseph de Casimir",
-      "Pittet Joseph d'Alfred",
-      "Pittet Gustave",
-      "Pittet Alphonse",
-      "Juriens François"
-    ],
-    "Secrét.": [
-      "Dutoit Adrien"
-    ],
-    "Boursier": [
-      "Dutoit Joseph"
-    ],
-    "Huissier": [
-      "Allaz Adrien"
-    ],
-    "Agriculteurs.": [
-      "Berney Elisa",
-      "Besson frères",
-      "Dupuis Alfred",
-      "Juriens Félix",
-      "Juriens Isidore",
-      "Mettraux Adrien",
-      "Pittet Alexandre",
-      "Pittet Adrien, feu Bernard",
-      "Pittet Casimir, ffeu Lucien",
-      "Pittet Félix, ffeu Lucien"
+      "Bruand Arnold",
+      "Burdet Eugène",
+      "Chevalier Jules",
+      "Chevalier Emile",
+      "Duc John",
+      "Dupuis Fern.",
+      "Dupuis Const.",
+      "Dupuis Marius",
+      "Dupuis J.",
+      "Gauthey Marcel",
+      "Gilliéron Arm.",
+      "Grin Ernest",
+      "Grin Eugène",
+      "Grin Fritz",
+      "Grin Edouard",
+      "Grin Emile",
+      "Grin Henri",
+      "Grin Jules d'Albert",
+      "Grin Justin",
+      "Grin Juste",
+      "Grin Louis",
+      "Grin Constant",
+      "Grin Max",
+      "Grin Albert",
+      "Grin Ch.",
+      "Grin Marcel",
+      "Grin Arthur",
+      "Grin Alexis",
+      "Grin Paul",
+      "Henrioud Chs",
+      "Henrioud Eug.",
+      "Henrioud Fritz",
+      "Henrioud Paul",
+      "Henrioud Will.",
+      "Hofer Gust.",
+      "Jaccoud Maur.",
+      "Jaccoud Marie, Vve",
+      "Jaton Aimé",
+      "Loup Eugène",
+      "Loup César",
+      "Loup Edouard",
+      "Martin Eugène",
+      "Martin Jean",
+      "Pilloud Fritz",
+      "Vonnez Louis",
+      "Vulliamoz Louis"
     ],
     "Apiculteurs.": [
-      "Besson Constant",
-      "Dutoit Jos.",
-      "Gardaz Emmanuel",
-      "Jurien Félix",
-      "Mettraux Alphonse",
-      "Maendly Jules",
-      "Rochat Constant"
-    ],
-    "Bétail (march. de).": [
-      "Allaz Henri, de Marc",
-      "Pittet Ernest",
-      "Pittet Joseph, d'Alfred",
-      "Pittet Nicolas"
-    ],
-    "Boulanger.": [
-      "Pittet Alfred"
-    ],
-    "Cafés.": [
-      "Perisset François",
-      "Pittet Emile"
-    ],
-    "Charpentiers.": [
-      "Perisset François",
-      "Pittet Gustave",
-      "Pittet Henri feu Victor"
-    ],
-    "Charron.": [
-      "Mettraux Alfred"
-    ],
-    "Cordonniers.": [
-      "Allaz Adrien",
-      "Mettraux Marc"
-    ],
-    "Commission scolaire.": [
-      "Gremaud François",
-      "Dutoit Joseph"
-    ],
-    "Curé.": [
-      "Abbé Gremaud François"
-    ],
-    "Dentiste.": [
-      "Pittet Jos., d'Héliodore"
-    ],
-    "Epicerie, mercerie, tabacs.": [
-      "Dutoit Joseph",
-      "Perisset François",
-      "Pittet Nicolas"
-    ],
-    "Inspecteur du bétail.": [
-      "Pittet Henri, d'Auguste"
-    ],
-    "Instituteurs.": [
-      "Maendly Jules",
-      "Allaz Rosine",
-      "Gardaz Agathe"
-    ],
-    "Maréchal.": [
-      "Dutoit Henri"
-    ],
-    "Porcs (march. de).": [
-      "Allaz Alfred",
-      "Allaz Henri",
-      "Pittet Ernest",
-      "Pittet Marc",
-      "Pittet Nicolas"
-    ],
-    "Poste.": [
-      "Allaz Marc"
-    ],
-    "Sage-femme.": [
-      "Pittet Célestine"
-    ],
-    "Sociétés.": [
-      "de la machine à battre. R.",
-      "Fromagerie et laiterie. R.",
-      "Fromagerie du Buron. R.",
-      "Syndicat agricole. R.",
-      "Caisse du Crédit mutuel. R."
-    ],
-    "Tailleuses.": [
-      "Allaz Rose",
-      "Mettraux Alphonsine",
-      "Pittet Angèle"
-    ],
-    "Téléphone public.": [
-      "Café du Midi"
-    ]
-  },
-  "VILLARS-TIERCELIN": {
-    "Autorités communales.": [
-      "Payot Arthur",
-      "Rittener Fernand"
-    ],
-    "Syndic": [
-      "Viret Hermann"
+      "Grin Arthur",
+      "Vulliamoz Gustave"
     ]
   }
 }

@@ -1,212 +1,204 @@
 {
-  "SAINT-CERGUE": {
-    "Télégraphiste et téléphoniste": [
-      "Jaquenoud Alfred"
+  "Lutry": {
+    "Horticulteurs": [
+      "Burdet Louis",
+      "Burnier Victor",
+      "Chavan Frédéric",
+      "Duvoisin Alfred",
+      "Rickli Maurice",
+      "Chavan Fréd."
     ],
-    "Voituriers": [
-      "André Louis-Abram",
-      "André Ch.",
-      "André, hoirie",
-      "Gonin Louis",
-      "Mayet John",
-      "Monnard Alfred",
-      "Tissot Marcel"
+    "Hôtel": [
+      "Chebance Henri"
     ],
-    "Divers": [
-      "Burhop E.",
-      "Denis F.",
-      "Eindiguer Eug.",
-      "Poujoulat P."
-    ]
-  },
-  "LA CURE": {
-    "Aubergistes": [
-      "Arbez Jules",
-      "Paget-Blanc Clarisse, Vve de Paul",
-      "Tissot Marie, Vve de Raymond"
+    "Ingénieurs": [
+      "Bettems & Thonney",
+      "Kernen Gustave"
     ],
-    "Buraliste-télégraphiste": [
-      "Junod Charles"
+    "Inspecteurs du bétail": [
+      "Diserens-Blanc Henri",
+      "Dentan Emile",
+      "Lavanchy Marcel",
+      "Lambelet Charles"
     ],
-    "Epicerie, mercerie, tabacs": [
-      "Arbez Jules",
-      "Chevassus Félix",
-      "Monnier Agathe",
-      "Paget-Blanc Clarisse, Vve de Paul",
-      "Vandelle, Vve de Léon",
-      "Vandelle Prudent, fils de Gabriel",
-      "Vandelle Prud."
+    "Institut": [
+      "Favre-Grandjean Ch.",
+      "Jomini Jean-Marc"
     ],
-    "Forestier": [
-      "Bovay Lucien"
-    ],
-    "Divers": [
-      "Vandelle Jules"
-    ]
-  },
-  "SIGNY": {
-    "Autorités communales": [
-      "Steiner Paul",
-      "Miaz Julien",
-      "Crausaz Eugène",
-      "Baumgartner Robert",
-      "Miaz Charles",
-      "Pariat Louis",
-      "Blanchard François",
-      "Miaz Julien",
-      "Pariat L."
-    ],
-    "Agriculteurs": [
-      "Baumgartner Robert",
-      "Blanchard François",
-      "Crausaz Eug.",
-      "Guisan Henri",
-      "Miaz Chs",
-      "Pariat Georges",
-      "Pariat Louis",
-      "Parisod Alfred",
-      "Tecon Jules"
-    ],
-    "Aubergiste": [
-      "Glaus-Thuner G."
-    ],
-    "Bureau de poste": [
-      "Miaz Louise, Vve."
-    ],
-    "Commission scolaire": [
-      "Miaz Charles"
-    ],
-    "Epicerie": [
-      "Dubois Jeanne"
-    ],
-    "Inspecteur du bétail": [
-      "Jaton Lucien"
-    ],
-    "Instituteur": [
-      "Corbaz René"
-    ],
-    "Laitier": [
-      "Baudraz François"
-    ],
-    "Maréchal": [
-      "Blanchard Eugène"
-    ],
-    "Société": [
-      "de fromagerie de Grens et Signy",
-      "S. A. pour entreprises agricoles et forestières"
-    ],
-    "Téléphone": [
-      "Glaus-Thuner G."
-    ],
-    "Vignerons": [
-      "Blanchard Emile",
-      "Hählen Louis",
-      "Steiner Paul"
-    ]
-  },
-  "TANNAY": {
-    "Autorités communales": [
-      "Dutoit François",
-      "Coderay Jules",
-      "Cottier Albert",
-      "Semoroz Ami",
-      "Perrottet Emile",
-      "Dutoit Louis",
-      "Baatard Ls",
-      "Baud Samuel",
-      "Semoroz César",
-      "Aubert Julien"
-    ],
-    "Agriculteurs": [
-      "Baud Samuel",
-      "Buffat Alphonse",
-      "Coderey Ch.",
-      "Cottier Albert",
-      "Dutoit François",
-      "Hermenjat John",
-      "Jeanloz Charles",
-      "Sauty Marcel",
-      "Semoroz Ami",
-      "Semoroz César"
-    ],
-    "Aubergistes": [
-      "Guignet Emile",
-      "Perretten Louis"
-    ],
-    "Entrepreneur": [
-      "Simond Julien"
-    ],
-    "Epicerie": [
-      "Perrottet Emile"
-    ],
-    "Inspecteur du bétail": [
-      "Coderey Charles"
+    "Institut-famille": [
+      "Baatard Ch."
     ],
     "Instituteurs": [
-      "Besté Adrien",
-      "Guldenschu Marcelle"
+      "Monod Robert",
+      "Kuffer Maurice",
+      "Perrenoud Edmond",
+      "Emery Ch.",
+      "Steiner Albert",
+      "Perriaz Cécile",
+      "Coderrey Jeanne",
+      "Epplé Georges",
+      "Guichard René",
+      "Steiner, dame",
+      "Hartmann Nelly",
+      "Janin Mathilde",
+      "Simonin Jeanne"
     ],
-    "Machines agricoles": [
-      "Hermenjat John"
+    "Jardiniers": [
+      "Blanc Paul",
+      "Crausaz",
+      "Rossier Fritz",
+      "Rickli Maurice"
+    ],
+    "Justice de paix du cercle": [
+      "Marguerat Jules",
+      "Burnier Victor",
+      "Paschoud Charles",
+      "Lavanchy-Décombaz Ls",
+      "Béraneck Charles",
+      "Conne M.",
+      "Marguerat Charles"
+    ],
+    "Laines": [
+      "Stoklassa-Chapuis Charles",
+      "La Lainière"
+    ],
+    "Laiteries": [
+      "Blatti Armand",
+      "Helfer Ele.",
+      "Laiterie de Lutry"
+    ],
+    "Lingères": [
+      "Bataillard L.",
+      "Delessert Pauline"
+    ],
+    "Maçons": [
+      "Bastian Paul",
+      "Cuennet Louis"
+    ],
+    "Maréchaux": [
+      "Ganty Albert",
+      "Hartmann",
+      "Lavanchy François",
+      "Rappaz Alfred"
+    ],
+    "Matelassière": [
+      "Bastian-Cordey. dame"
     ],
     "Mécaniciens": [
-      "Dutoit L. & Cie"
+      "Barman Séraphin",
+      "Lavanchy A."
     ],
-    "Rentier": [
-      "Duvillard Juliette"
+    "Médecin": [
+      "Décombaz Henri"
     ],
-    "Divers": [
-      "Duvillard Alice",
-      "Cottier Louisa",
-      "Longchamp Berthe"
-    ]
-  },
-  "TRELEX": {
-    "Autorités communales": [
-      "Duboulet Alfred",
-      "Javet Héli",
-      "Bory Ami",
-      "Duboulet Louis",
-      "Aegerter Charles",
-      "Morax Alfred",
-      "Golaz Gustave",
-      "Eberhardt Edouard",
-      "Vanat Auguste",
-      "Galé Ch.",
-      "Amiguet Elie"
+    "Menuisiers": [
+      "Castella Arnold",
+      "Décosterd Edouard",
+      "Parisod Albert",
+      "Rouiller Joseph"
     ],
-    "Agent de police": [
-      "Moret Alfred"
+    "Mercerie, lainerie": [
+      "Bastian Ern. R.",
+      "Bastian Jules",
+      "Crisinel Ernest",
+      "Détraz Henri. R.",
+      "Gay-Crosier Louis",
+      "Hoffmann Sophie",
+      "Prahin Henri",
+      "Schacher Jean. R."
     ],
-    "Agriculteurs": [
-      "Aebi Alb.",
-      "Aegerter Ch.",
-      "Berney Ami",
-      "Bolay William",
-      "Bory Ami",
-      "Bory John",
-      "Bossey Alph.",
-      "Bossey Charles",
-      "Chollet Louis",
-      "Desponds Charles",
-      "Duboulet Alfred",
-      "Duboulet Ami",
-      "Dumartheray Marc",
-      "Eberhardt Edouard",
-      "Galé Auguste",
-      "Galé Charles",
-      "Galé François",
-      "Galé John",
-      "Golaz Gustave",
-      "Guignet Henri",
-      "Javet Héli",
-      "Moinat frères",
-      "Morax Alfred",
-      "Morax Ls",
-      "Ravenel John",
-      "Reichenbach Ls",
-      "Urfer Jean",
-      "Zaug Alfred"
+    "Mesureur-juré": [
+      "Rappaz Alfred"
+    ],
+    "Notaires": [
+      "Buche Paul",
+      "Conne Maurice"
+    ],
+    "Officier d'état civil": [
+      "Conne Maurice"
+    ],
+    "Papeterie": [
+      "Bron-Bolomey Oscar"
+    ],
+    "Passementier": [
+      "Hinkelmann Nicolas"
+    ],
+    "Pasteur": [
+      "Hoffer Max"
+    ],
+    "Pêcheurs": [
+      "Gay François",
+      "Grivel Jules"
+    ],
+    "Peintres (artistes)": [
+      "Blanc Maurice",
+      "Rambert Charles"
+    ],
+    "Pépiniéristes": [
+      "Burnier Victor",
+      "Chavan Frédéric",
+      "Duvoisin Alfred",
+      "Paschoud Albert"
+    ],
+    "Pensionnats de demoiselles": [
+      "Béraneck L.-C.",
+      "Rufer",
+      "Mesdemoiselles"
+    ],
+    "Pharmaciens": [
+      "Grande Pharmacie de Lavaux",
+      "Gérok Frédéric"
+    ],
+    "Poste": [
+      "Paschoud-Viret Charles"
+    ],
+    "Quincaillerie et verrerie": [
+      "Cuendet Henri"
+    ],
+    "Relieur-encadreur": [
+      "Nicolier Jules"
+    ],
+    "Sage-femme": [
+      "Cornut Louise"
+    ],
+    "Savon": [
+      "Savonnerie de l'Avenir, S. A."
+    ],
+    "Sellier": [
+      "Brodard Marc"
+    ],
+    "Serruriers": [
+      "Ganty Alb.",
+      "Rappaz Alfred"
+    ],
+    "Sociétés": [
+      "Association viticole",
+      "Association mutuelle des Vignerons Lutry-Paudex",
+      "Association des Vignerons de Savuit",
+      "Musique : Chœur de dames",
+      "Union chorale de Lutry",
+      "Union instrumentale",
+      "Tir : Société de tir aux armes de guerre",
+      "Société des fusiliers",
+      "Les Mousquetaires de Lutry",
+      "Militaire et l'Union des jeunes gens",
+      "Réunion d'automne",
+      "de laiterie",
+      "Immobilière de la Lutryve",
+      "Immobilière de Lutry",
+      "de fromagerie-laiterie de Corsy-Conversion",
+      "de laiterie-fromagerie d'Escherin",
+      "de sauvetage sur le lac Léman",
+      "de chant l'Espérance",
+      "pour le développement de Lutry",
+      "Foncière du Châtelard",
+      "Section de la Croix-Bleue",
+      "Union chrétienne",
+      "Distillerie de Lutry",
+      "Syndicat agricole Corsy-Conversion"
+    ],
+    "Tabacs en feuilles": [
+      "Jasinski"
     ]
   }
 }

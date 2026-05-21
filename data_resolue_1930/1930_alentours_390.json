@@ -1,242 +1,127 @@
 {
-  "BOLLENS": {
-    "Agriculteurs": [
-      "Gachet Henri",
-      "Gachet Paul",
-      "Guex Henri",
-      "Henrioud Xavier",
-      "Matthey Jules",
-      "Pelot Edouard",
-      "Porchet Eugène",
-      "Thélin Emile"
-    ],
-    "Battoir à blé.": [
-      "Commune"
-    ],
-    "Bétail (march de).": [
-      "Despont Jos. T."
-    ],
-    "Cafetier.": [
-      "Despont Emile"
-    ],
-    "Charpentier.": [
-      "Gachet Louis"
-    ],
-    "Charron.": [
-      "Despont Lucien"
-    ],
-    "Commission scolaire mixte.": [
-      "Fatio Fritz",
-      "Guex Henri",
-      "Gachet Arnold"
-    ],
-    "Cordonnier.": [
-      "Despont Marc"
-    ],
-    "Epicerie, mercerie, tabacs.": [
-      "Bavaud Louis",
-      "Dory frère et sœur"
-    ],
-    "Garde-forestier.": [
-      "Thélin Henri"
-    ],
-    "Gravière cantonale.": [
-      "Baudet Alfred",
-      "Dony Emile"
-    ],
-    "Inspecteur du bétail.": [
-      "Guex Henri"
-    ],
-    "Instituteur.": [
-      "Bally Georges"
-    ],
-    "Laiterie.": [
-      "Laiterie agricole"
-    ],
-    "Maréchal.": [
-      "Despont Ernest"
-    ],
-    "Poste.": [
-      "Despont Joseph"
-    ],
-    "Ramoneur.": [
-      "Derbelay Jean"
-    ],
-    "Sociétés.": [
-      "de fromagerie",
-      "Syndicat agricole"
-    ],
-    "Téléphoniste.": [
-      "Despont Joseph"
-    ]
-  },
-  "BOTTENS": {
-    "Autorités communales.": [
-      "Guignard Lucien",
-      "Jorand Henri"
-    ],
-    "Syndic.": [
-      "Nicod Paul"
-    ],
-    "Municipaux.": [
-      "Longchamp Placide",
-      "Tzaut Aimé, de Daniel",
-      "Longchamp Henri",
-      "Gindroz Ls",
-      "Panchaud Léon",
-      "Aguet Emile"
-    ],
-    "Secrétaire.": [
-      "Bavaud Alfred"
-    ],
-    "Boursier.": [
-      "Longchamp Auguste"
-    ],
-    "Agriculteurs.": [
-      "Bavaud Alfred",
-      "Bavaud Ernest",
-      "Bavaud Gustave",
-      "Bavaud Hri",
-      "Bavaud Isid.",
-      "Bavaud Marcel",
-      "Dupraz Emmanuel",
-      "Ecoffey Joseph",
-      "Gindroz frères",
-      "Guggisberg, hoirie",
-      "Guignard Ls",
-      "Guignard Lucien",
-      "Guignard Edouard de Jules",
-      "Guignard Henri",
-      "Guignard Louis de Samuel",
-      "Henneberger François",
-      "Jaton Auguste",
-      "Jaton Edouard",
-      "Jaton Emile",
-      "Jorand Placide",
-      "Longchamp Auguste",
-      "Longchamp Matthieu",
-      "Longchamp Léon",
-      "Longchamp Placide",
-      "Longchamp Vital",
-      "Luginbühl Gottlieb",
-      "Martin Auguste",
-      "Meylan Aimé",
-      "Meylan Aug.",
-      "Meylan Edouard",
-      "Meylan Henri",
-      "Nicod frères",
-      "Nicod Paul",
-      "Panchaud Alfred, de Simon",
-      "Panchaud frères d'Henri",
-      "Panchaud Auguste",
-      "Panchaud Casimir",
-      "Panchaud Léon",
-      "Penseyres Robert",
-      "Pillet Edouard",
-      "Rochat Paul",
-      "Tzaut Aimé de Daniel",
-      "Tzaut Aimé de David",
-      "Tzaut Henri",
-      "Vincent frères"
-    ],
-    "Assurance-vieillesse": [
-      "Mutualité scolaire de retraite (Réformés)",
-      "Zahnd C.",
-      "Mutualité scolaire de retraite (catholiques)",
-      "Jorand H."
-    ],
-    "Bestiaux (marchand de).": [
-      "Gindroz Aimé",
-      "Nicod Léon",
-      "Rochat Paul"
-    ],
-    "Cafés.": [
-      "Bavaud Gustave",
-      "Monney Louis"
-    ],
-    "Charpentier.": [
-      "Longchamp Placide"
+  "Ville d'Yverdon": {
+    "Charpentiers.": [
+      "Beauverd & Bécherraz",
+      "Brunner & Décoppet",
+      "Forestier Auguste",
+      "Grandguillaume Eug."
     ],
     "Charrons.": [
-      "Martin Auguste",
-      "Martin Jules"
+      "Marendaz Edouard",
+      "Margairaz John",
+      "Monti Candido",
+      "Stettler Walter"
+    ],
+    "Chaussures (march. de).": [
+      "Bonnet René fils",
+      "Cagna Ls",
+      "Finkbeiner Albert",
+      "Gatolliat Albert",
+      "Heubi E.",
+      "Walther-Bloch, les fils de",
+      "Weill Emile"
+    ],
+    "Chaux et ciments.": [
+      "Decoppet Pierre",
+      "Dubath Ch.",
+      "Dubath Frédéric",
+      "Eternod Pierre",
+      "Monti Auguste"
+    ],
+    "Chef de gare.": [
+      "Aguet John"
     ],
     "Chef de section.": [
-      "Nicod Alfred"
+      "Schmidhauser Marcel"
     ],
-    "Commission scolaire catholique.": [
-      "Marthe Henri",
-      "Nicod Paul",
-      "Longchamp Aug.",
-      "Panchaud Léon"
+    "Chevaux (march. de).": [
+      "Bloch, les fils de Jacques",
+      "Brunschwig Léon",
+      "Goldschmidt Edm.",
+      "Levaillant Paul"
     ],
-    "Commission scolaire protestante.": [
-      "Tzaut Aimé, de Daniel",
-      "Guignard Lucien",
-      "Meylan Charles",
-      "Gindroz Louis",
-      "Vincent Jules"
+    "Chiffons.": [
+      "Mottaz Ed.",
+      "Viallate Maurice"
     ],
-    "Cordonniers.": [
-      "Bavaud Robert",
-      "Bavaud Vital"
+    "Cidre (fabr. de).": [
+      "Société pour l'utilisation des fruits"
     ],
-    "Curé.": [
-      "Marthe Henri"
+    "Cinématographes.": [
+      "Martin Edouard",
+      "Martin Edouard",
+      "Salle Bel-Air, S. A."
     ],
-    "Entrepreneurs.": [
-      "Conti Auguste",
-      "Meda Emile"
+    "Coiffeurs et coiffeuses.": [
+      "Dänzer-Villars",
+      "Fague Ch.",
+      "Geneux-Doron L.",
+      "Jaton Paulette",
+      "Grandjean Emile",
+      "Giroud-Kehrly H.",
+      "Jauch H.",
+      "Krienbühl Aloys",
+      "Leuenberger Robert",
+      "Marendaz-Kohler Jeanne",
+      "Mercier Charles",
+      "Michod E.",
+      "Michoud Ed.",
+      "Monneron Fernand",
+      "Musy Aimé",
+      "Paschoud Yvette",
+      "Perret Paul",
+      "Pittet Andrée",
+      "Striberni Arnold",
+      "Vaucher G., Dlle",
+      "Vulliamy E."
     ],
-    "Epicerie, mercerie, tabacs.": [
-      "Allaz Ernest",
-      "Panchaud Victor"
+    "Combustibles.": [
+      "Cuendet & Martin",
+      "Decoppet Pierre",
+      "Dubath Frédéric",
+      "Dubois Paul",
+      "Eternod Pierre",
+      "Jaquillard A.",
+      "Monti Auguste, fils",
+      "Petitat Emile",
+      "Petitpiere Fritz",
+      "Robellaz Louis"
     ],
-    "Garde de triage.": [
-      "Panchaud Victor"
+    "Comestibles.": [
+      "Capelli Marius, fils",
+      "Colom Raymon",
+      "Losio, Mme",
+      "Pavid François",
+      "Quiblier Chs."
     ],
-    "Inspecteur du bétail.": [
-      "Longchamp Vital"
+    "Commission d'apprentissage": [
+      "Decker Emile",
+      "Moser Henri"
     ],
-    "Instituteurs.": [
-      "Jorand Henri",
-      "Zahnd Const.",
-      "Nicod Marie",
-      "Aguet Jenny"
+    "Commission scolaire.": [
+      "Chapuis Henri",
+      "Chapuis Samuel",
+      "Comte Ferdinand",
+      "Decoppet Horace",
+      "Fischer Ernest",
+      "Kramer Henri",
+      "Piguet Charles",
+      "Tschumy A.",
+      "Verdan Edouard",
+      "Willer Adrien",
+      "Vodoz Charles",
+      "Mmes Flaction",
+      "Pillichody-Buttin",
+      "Roy-Tophel"
     ],
-    "Justice de paix du cercle.": [
-      "Thuillard Charles",
-      "Gindroz Aloïs",
-      "Dégy Jules",
-      "Mivelaz Placide",
-      "Mermoud Ernest",
-      "Bavaud Alfred",
-      "Verboux Louis"
-    ],
-    "Laitier.": [
-      "Burkhalter Alexandre"
-    ],
-    "Maréchal.": [
-      "Martin Casimir"
-    ],
-    "Menuisier.": [
-      "Duvoisin",
-      "Pralong Placide"
-    ],
-    "Pasteur.": [
-      "Mundler Alfred"
-    ],
-    "Sage-femme.": [
-      "Bavaud Emma"
-    ],
-    "Sociétés.": [
-      "Ancienne laiterie",
-      "Nouvelle laiterie",
-      "Immobilière de Bottens",
-      "Syndicat agricole",
-      "Société de la machine à battre",
-      "Section de la Croix-Bleue",
-      "Syndicat d'alpage et d'élevage"
+    "Confections.": [
+      "Bachelin Eug.",
+      "Brunschwig Fernand",
+      "Golay Paul",
+      "Gonset-Henrioud P., S. A.",
+      "Grands Magasins Réunis, S. A.",
+      "Guggenheim Salomon",
+      "Les Fils Walther-Bloch, S. A."
     ]
   }
 }

@@ -1,236 +1,254 @@
 {
-  "Montreux": {
-    "Maréchal.": [
-      "Cottier Jean"
+  "GRANGES": {
+    "Commission scolaire": [
+      "Barbey Georges",
+      "Duc Maurice",
+      "Golaz Henri",
+      "Desmeules Julien",
+      "Golaz Louis"
     ],
-    "Marchand de bois.": [
-      "Amaron Aloïs"
+    "Cordonniers": [
+      "Cachin Marcel",
+      "Cosandey Henri",
+      "Gander Gottlieb"
     ],
-    "Mécaniciens.": [
-      "Brot Julien, fils",
-      "Estoppey-Marti Victor",
-      "Porret Valentin"
+    "Coutellerie": [
+      "Savary E."
     ],
-    "Officier d'état civil.": [
-      "Rochat John"
+    "Draperie": [
+      "Galay-Terrin Louis",
+      "Pavarin Antoine"
     ],
-    "Pasteur.": [
-      "Barblan Otto"
+    "Encadrements": [
+      "Savary A.",
+      "Wenger Henri"
     ],
-    "Poëlier.": [
-      "Estoppey-Marti Victor"
+    "Entrepreneurs": [
+      "Catelani Adelino",
+      "Clot Ernest",
+      "Jossevel Auguste",
+      "Righetti Paul",
+      "Repetti N."
     ],
-    "Professeur de piano.": [
-      "Bosson Laura Mlle."
+    "Epicerie, mercerie": [
+      "Chabloz V. R.",
+      "Desmeules François",
+      "Gilliéron Alfred",
+      "Jayet Marie",
+      "Miéville Céline",
+      "Pavarin Antoine",
+      "Senn-Vidoudez Charles",
+      "Tenthorey Jules"
     ],
-    "Sage-femme.": [
-      "Clerc, Mme."
+    "Ferblantiers": [
+      "Perret Charles",
+      "Bidiville Charles"
     ],
-    "Scieries.": [
-      "Brot Julien",
-      "Champendal Henri",
-      "Crédit mutuel d'Apples"
+    "Fers et quincaillerie": [
+      "Desmeules François",
+      "Gilliéron Alfred"
     ],
-    "Selliers.": [
-      "Cochet Ami",
-      "Robellaz H."
+    "Fourches et râteaux (fab. de)": [
+      "Durussel Emile"
     ],
-    "Serruriers.": [
-      "Brot Julien, fils",
-      "Estoppey-Marti Victor"
+    "Grains (nég. en)": [
+      "Grands-Moulins (Société foncière et industrielle)"
     ],
-    "Sociétés.": [
-      "Fromagerie d'Apples",
-      "Tir aux armes de guerre",
-      "de Développement",
+    "Gypsiers-peintres": [
+      "Gilliand Arsène",
+      "Jossevel Auguste",
+      "Righetti Paul",
+      "Repetti N."
+    ],
+    "Horloges d'églises": [
+      "Crot Léon, fils"
+    ],
+    "Horloger": [
+      "Crot Féréol"
+    ],
+    "Hôtels": [
+      "Corminbœuf Marc",
+      "Grossrieder Othmar"
+    ],
+    "Huiliers": [
+      "Grands-Moulins",
+      "Duc Ed."
+    ],
+    "Inspecteur du bétail": [
+      "Nicod Albert"
+    ],
+    "Inspecteur des viandes": [
+      "Bovay C.",
+      "Nicod Alb."
+    ],
+    "Inspecteur des denrées alimentaires": [
+      "Nicod Auguste"
+    ],
+    "Instituteurs": [
+      "Oulevey Paul",
+      "Badan Armand",
+      "Nicod Suzanne",
+      "Perrin Charlotte",
+      "Schmutz Anna"
+    ],
+    "Justice de paix du cercle": [
+      "Galay-Terrin Louis",
+      "Duc Octave",
+      "Nicod Adolphe",
+      "Rossat-Nicod Louis",
+      "Vauthey Ulysse",
+      "Barbey Georges",
+      "Senn Charles"
+    ],
+    "Laitier": [
+      "Neuenschwander Jacob"
+    ],
+    "Lingère": [
+      "Jayet Marie"
+    ],
+    "Machines à battre": [
+      "Grands-Moulins",
+      "Société du Battoir"
+    ],
+    "Maréchal": [
+      "Mahon Maurice"
+    ],
+    "Matériaux de construct.": [
+      "Galay L."
+    ],
+    "Mécaniciens": [
+      "Savary Ami",
+      "Savary Constant",
+      "Weber Ami"
+    ],
+    "Médecin": [
+      "Golaz Henri"
+    ],
+    "Menuisiers": [
+      "Buttex Charles",
+      "Doudin Ernest",
+      "Roux Emile",
+      "Wenger Henri"
+    ],
+    "Mercerie": [
+      "Desmeules François",
+      "Galay-Terrin Louis",
+      "Gilliéron Alfred",
+      "Jayet Marie",
+      "Miéville Céline",
+      "Senn Charles",
+      "Tenthorey J."
+    ],
+    "Meunier": [
+      "Grands-Moulins (Société foncière et industrielle)"
+    ],
+    "Modes": [
+      "Pelet Madeleine"
+    ],
+    "Musique (leçons de)": [
+      "Nicod G.",
+      "Oulevey Paul",
+      "Zintgraf Marg. et Marie"
+    ],
+    "Notaire": [
+      "Nicod Marcel"
+    ],
+    "Officier d'état-civil": [
+      "Barbey Georges"
+    ],
+    "Pasteur": [
+      "Vacat"
+    ],
+    "Pharmacien": [
+      "Zintgraf Jules"
+    ],
+    "Pierristes": [
+      "Potterat Jules",
+      "Terrin Alice",
+      "Scheurer Louis"
+    ],
+    "Poêlier": [
+      "Bourloud L."
+    ],
+    "Poste": [
+      "Desmeules Adolphe"
+    ],
+    "Poudre d'os (fab. de)": [
+      "Duc Edm."
+    ],
+    "Sage-femme": [
+      "Bovey"
+    ],
+    "Scieurs": [
+      "Cosendey Adrien",
+      "Duc Edmond",
+      "Grands-Moulins"
+    ],
+    "Sel (débitant de)": [
+      "Barbey Gustave"
+    ],
+    "Selliers": [
+      "Bidiville Raoul",
+      "Dizerens Emile"
+    ],
+    "Sociétés": [
+      "Société immobilière de fromagerie",
+      "de laiterie",
+      "Foncière et industrielle des Grands Moulins",
+      "de l'Echo de la Lembaz",
+      "Gymnastique",
+      "de musique, fanfare",
+      "de couture",
+      "de tir aux armes de guerre",
+      "Union chrétienne de jeunes gens",
+      "Union cadette",
+      "Eclaireurs",
+      "Section de la Croix-Bleue",
       "Syndicat agricole",
+      "Crédit mutuel",
+      "Société d'agriculture",
+      "Caisse d'assurance mutuelle chevaline agricole",
       "Syndicat d'élevage",
-      "Société de l'Estivage",
-      "Caisse Raiffeisen",
-      "Chœur d'hommes",
-      "Groupe des Sélectionneurs d'Apples et environs",
-      "Fédération laitière du Pied du Jura"
+      "Société du battoir"
     ],
-    "...teuse.": [
-      "Perrazzi Clémence"
+    "Tailleuse": [
+      "Barbey Milda",
+      "Blanc Hélène",
+      "Pasche, sœurs",
+      "Roux Julie",
+      "Tenthorey Emma",
+      "Terrin Eugénie",
+      "Weber-Dufey"
     ],
-    "Télégraphiste.": [
-      "Henchoz Victor"
+    "Tapissiers": [
+      "Bidiville Raoul",
+      "Diserens Emile"
     ],
-    "Vélocipèdes.": [
-      "Brot Julien, fils",
-      "Estoppey-Marti Victor",
-      "Porret Valentin"
+    "Téléphone": [
+      "Desmeules Ad."
+    ],
+    "Télégraphiste": [
+      "Desmeules Adolphe"
+    ],
+    "Tuyaux et produits en ciment": [
+      "Desmeules frères"
+    ],
+    "Vétérinaire": [
+      "Bovay-Clément Constant"
+    ],
+    "Vins": [
+      "Desmeules François",
+      "Gilliéron Alfred",
+      "Senn Charles"
+    ],
+    "Vélocipèdes": [
+      "Savary Ami"
     ]
   },
-  "BALLENS": {
-    "Autorités communales.": [
-      "Testaz Benjamin",
-      "Viallon Ph. fils"
-    ],
-    "Syndic": [
-      "Zbinden William"
-    ],
-    "Municipaux": [
-      "Maillard-Rosset Charles",
-      "Convers Gust.",
-      "Mayor Jules",
-      "Vallotton Jules",
-      "Zbinden Charles",
-      "Oppeliger Henri",
-      "Schopfer Ulysse"
-    ],
-    "Agriculteurs.": [
-      "Champendal François",
-      "Convers Gustave",
-      "Convers John",
-      "Convers Jules",
-      "Croisier Alphonse",
-      "Croisier Arnold",
-      "Croisier Auguste",
-      "Croisier Jules",
-      "Croisier Louis",
-      "Croisier William",
-      "Decollogny Bernard",
-      "Gouffon John",
-      "Mayor Ernest",
-      "Mayor Jules",
-      "Monod Arthur",
-      "Oppeliger Henri",
-      "Roch Auguste",
-      "Roch Jules",
-      "Roch William",
-      "Viallon Louis",
-      "Zbinden William"
-    ],
-    "Amodiateurs.": [
-      "Roch Aug.",
-      "Roch Octave"
-    ],
-    "Associations mutualistes de retraite.": [
-      "Mœsching Auguste"
-    ],
-    "Aubergistes.": [
-      "Oppeliger Hélène, Vve.",
-      "Vallotton Jules"
-    ],
-    "Bois (march. de).": [
-      "Zbinden Henri"
-    ],
-    "Boulangerie.": [
-      "Prodolliet Jules"
-    ],
-    "Charrons.": [
-      "Piguet Charles",
-      "Testaz Ulysse"
-    ],
-    "Commission scolaire.": [
-      "Oppeliger Henri",
-      "Gouffon John"
-    ],
-    "Cordonnier.": [
-      "Bischoff Jean"
-    ],
-    "Entrepreneurs.": [
-      "Monod Arthur fils",
-      "Zanchi Pierre-Charles"
-    ],
-    "Epicerie, mercerie, tabacs.": [
-      "Prodolliet Jules",
-      "Viallon Philippe"
-    ],
-    "Inspecteur du bétail.": [
-      "Champendal Henri"
-    ],
-    "Instituteurs.": [
-      "Mœsching Auguste",
-      "Barraud Violette"
-    ],
-    "Justice de paix du cercle.": [
-      "Viallon Philippe",
-      "Baudin Octave",
-      "Burnet Albert",
-      "Fazan Maurice",
-      "Bugnoux Henri",
-      "Croisier Louis"
-    ],
-    "Machines agricoles.": [
-      "Allamand Ls, fils"
-    ],
-    "Maçon.": [
-      "Monod Arthur fils"
-    ],
-    "Maréchaux.": [
-      "Allamand Ernest et fils"
-    ],
-    "Menuisiers.": [
-      "Maillard Ch.",
-      "Vallotton Auguste"
-    ],
-    "Notaire.": [
-      "Croisier Louis"
-    ],
-    "Officier d'état civil.": [
-      "Cœndoz Paul"
-    ],
-    "Pasteur.": [
-      "Vuille Paul"
-    ],
-    "Poste.": [
-      "Testaz Benjamin"
-    ],
-    "Scieur.": [
-      "Zbinden Henri"
-    ],
-    "Sociétés.": [
-      "de fromagerie",
-      "Syndicat agricole et d'élevage"
-    ],
-    "Téléphoniste.": [
-      "Vallotton Marie"
-    ]
-  },
-  "BEROLLE": {
-    "Autorités communales.": [
-      "Besson Alfred",
-      "Fleury Arthur"
-    ],
-    "Syndic": [
-      "Burnet Albert"
-    ],
-    "Municipaux": [
-      "Mattile William",
-      "Meylan Désiré",
-      "Fleury Maurice",
-      "Monnard Albert",
-      "Muller Octave",
-      "Besson Robert"
-    ],
-    "Agriculteurs.": [
-      "Besson Adrien",
-      "Besson Alfred",
-      "Besson Aloïs",
-      "Besson Chs",
-      "Besson Henri",
-      "Besson Justin",
-      "Besson Louis",
-      "Besson, hoirie de William",
-      "Besson frères",
-      "Burnet Albert",
-      "Burnet Gustave",
-      "Burnet Louis",
-      "Burnet Paul",
-      "Dauphin Eugène",
-      "Dauphin Gustave",
-      "Fleury Albert",
-      "Fleury Dauphin Auguste",
-      "Fleury Maxime",
-      "Lecoultre Henri",
-      "Mattile William",
-      "Meylan Désiré",
-      "Meylan Léonard",
-      "Monnard frères",
-      "Mattile Waldemar"
+  "HENNIEZ-LES-BAINS": {
+    "Autorités communales": [
+      "Rouge M.",
+      "Fahrni Léon"
     ]
   }
 }

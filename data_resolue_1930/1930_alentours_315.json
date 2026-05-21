@@ -1,105 +1,105 @@
 {
-  "MONTREUX": {
-    "Colonies de vacances.": [
-      "d'assurance mutuelle pour le bétail dans la commune des Planches, Châtelard et Veytaux. R.",
-      "Montreusienne de culture physique.",
-      "Syndicat d'élevage du bétail. R.",
-      "Syndicat d'élevage de Glion et environs. R.",
-      "Syndicat d'élevage et d'amélioration des races caprine, ovine, porcine de Montreux et environs. R.",
-      "Union chrétienne de jeunes gens et salle de lecture",
-      "Union fraternelle des Cuisiniers. R.",
-      "Vélo-Club de Montreux."
+  "Ville de Vevey": {
+    "Cafés de tempérance.": [
+      "Gehrig Fréd.",
+      "Genoud François",
+      "Jaquier Robert",
+      "Jordan Eugène",
+      "Morvand René",
+      "Overney François",
+      "Terrettaz E.",
+      "Vernaz Rosa",
+      "Wexler Joseph"
     ],
-    "Soieries": [
-      "Bloch Léon",
-      "Brun H.",
-      "Gass, Mme",
-      "Gaudard & Cie",
-      "Gerber J.",
-      "Stebler Elise",
-      "Wertheimer-Bloch",
-      "Wirz Alwin (gros)"
+    "Cafés torréfiés": [
+      "Kaiser, société",
+      "Mercure, société",
+      "Von Auw A., fils"
     ],
-    "Sports": [
-      "International Sports-Club"
+    "Caisses (fabrique de)": [
+      "Berger Ph."
     ],
-    "Sténo-dactylographie": [
-      "Blanc-Curtin V.",
-      "Gardel Alf.",
-      "Marmillod Emma"
+    "Caoutchouc (articles en)": [
+      "Barraud F.",
+      "Tapernoux F."
     ],
-    "Surveillance": [
-      "Sécuritas (S. A.)"
+    "Carrosserie-Tôlerie": [
+      "Buisson André",
+      "Milliéry Théodore"
     ],
-    "Tableaux (anciens et modernes)": [
-      "Guyer-Halblutzel Susanne"
+    "Cartonnages (fabr. de)": [
+      "Säuberlin & Pfeiffer, S. A.",
+      "Société de l'imprimerie et lithographie Klausfelder",
+      "Tissot frères"
     ],
-    "Tailleurs": [
-      "Allison, The English Taylor",
-      "Berger A.",
-      "Bron Emile",
-      "Bron Robert",
-      "Dvorak J., (p. dames)",
-      "Feige G.",
-      "Felchlin Martin",
-      "Gnade-Lenoir",
-      "Henchoz Ls.",
-      "Hoffmann R.",
-      "Jelineck Ch.",
-      "Kravanja Francis",
-      "Kubli L.",
-      "Lustenberger Jos.",
-      "Maggi J.",
-      "Magnant Aug.",
-      "Maier & Cie",
-      "Mancia Ubaldo (dames)",
-      "Mason-Cretier",
-      "Mason Giovanni",
-      "Moore O.",
-      "Olchansky N.",
-      "Omodei Louis",
-      "Ongaro",
-      "Pianta Albert",
-      "Plüss Frédéric",
-      "Renner Georges",
-      "Schmelzlé Anna",
-      "Schmid Hri.",
-      "Schrömges Peter",
-      "Sommer Robert",
-      "Stebler Ch.",
-      "Strub G.",
-      "Valchar J.",
-      "Wild Nicolas",
-      "Wittrich Jacob"
+    "Carrelages": [
+      "Rouiller frères & Ducret"
     ],
-    "Tapis": [
-      "Berger A.",
-      "Perotti A."
+    "Carrosserie-Peinture": [
+      "Schmitz frères"
     ],
-    "Tapissiers": [
-      "Altorfer Ed.",
-      "Berger A.",
-      "Bleul Oscar",
-      "Desplands L.",
-      "Lévy Benjamin, « Au Petit Bénéfice »",
-      "de Siebenthal R.",
-      "Faucherre Paul",
-      "Henchoz L.",
-      "Kammerer L.",
-      "Kohler E. & Cie",
-      "Lefort G.",
-      "Maillard Louis",
-      "Maillefer A.",
-      "Nicollier A.",
-      "Pillonel A.",
-      "Pope Henry",
-      "Rutishauser Eug. et Küpfer",
-      "Scheuzger A.",
-      "Suter Louis",
-      "Tabord-Samer M.",
-      "Viquerat A.",
-      "Zwahlen Ernest",
-      "Zaugg Jean"
+    "Cartons (fab. de)": [
+      "Schelling Ulr. & Cie"
+    ],
+    "Casquettes et bérets (fab. de)": [
+      "Bickart & Cie"
+    ],
+    "Cercles": [
+      "Cercle libéral",
+      "Cercle du Léman",
+      "Cercle démocratique",
+      "Cercle du Marché"
+    ],
+    "Cercueils et couronnes": [
+      "Burky fils"
+    ],
+    "Chapeaux (fabr. de)": [
+      "Maison « Marcelle »"
+    ],
+    "Chapeliers": [
+      "Aux Chapeaux Paris, S. A.",
+      "Brunschwig, hoirie",
+      "Bruschi Adolphe",
+      "Jablonski W.",
+      "Maison « Marcelle »",
+      "Ringger & Wild",
+      "Tauxe-Dewas J.",
+      "Trachsel frères",
+      "Zanone A."
+    ],
+    "Charcutiers": [
+      "Bardet Louis, fils",
+      "Bovard A.",
+      "Chappuis Julie",
+      "Favre Albert",
+      "Käsermann Jean",
+      "Leupin Emile",
+      "Maillard Constant",
+      "Marmy Ernest",
+      "Pfeiffer frères",
+      "Raeber P.",
+      "Sommer frères",
+      "Stouky Jean",
+      "Stuby Emile"
+    ],
+    "Charpentiers": [
+      "Monney Jules et fils",
+      "Paccaud Henri"
+    ],
+    "Charrons": [
+      "Moser R."
+    ],
+    "Chaudronniers": [
+      "Monbaron",
+      "Tapernoux Fernand",
+      "Weiss Jacques"
+    ],
+    "Chauffage central": [
+      "Desclouds Charles fils",
+      "Eultgen-Gasser H.",
+      "S. A. Emile Pastore",
+      "Visconti Henri",
+      "Werner & Margot"
     ]
   }
 }

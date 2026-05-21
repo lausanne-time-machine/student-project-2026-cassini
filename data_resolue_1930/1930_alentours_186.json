@@ -1,124 +1,228 @@
 {
-  "VILLE DE PAYERNE": {
-    "Draps (filature de).": [
-      "Gingins-Berger Adèle"
+  "LUCENS": {
+    "Laitier": [
+      "Condenserie"
     ],
-    "Draperie, étoffes et toilerie.": [
-      "Aux Galeries Vaudoises",
-      "Brunschwig Paul",
-      "Dresco & Cie.",
-      "Gingins-Berger Adèle",
-      "Gunzburger & Meyer",
-      "Husson-Gingins J.",
-      "Rossier-Pahud H.",
-      "Tissot Henri"
+    "Maréchal": [
+      "Giroud Eugène"
     ],
-    "Droguerie.": [
-      "Genier Adrien",
-      "Walther Richard, Pharmacie et Droguerie de l'Abbatiale"
+    "Poste": [
+      "Badoux Adrienne"
     ],
-    "Eaux minérales.": [
-      "Brughera Eug.",
-      "Decorges Eugène",
-      "Caves Réunies, S. A.",
-      "Rapin Albert"
+    "Sociétés": [
+      "de la fromagerie",
+      "du battoir à blé",
+      "Syndicat agricole",
+      "Assurance du bétail"
     ],
-    "Electricité.": [
-      "Entreprises électr. fribourgeoises"
+    "Téléphoniste": [
+      "Crausaz Pierre"
     ],
-    "Entrepreneurs en bâtiments.": [
-      "Barbonesi Jules",
-      "Battaini Louis",
-      "Frigerio Pierre",
-      "Marucco A.",
-      "Repetti Jean",
-      "Rossier Eugène et Louis, Clavignon",
-      "Rossi frères",
-      "Sartore Antoine",
-      "Savary Alfred",
-      "Schaub & Cie."
+    "Autorités communales": [
+      "Rey Jean",
+      "Rochat Eugène",
+      "Ballif Emile",
+      "Peytregnet Gust.",
+      "Charbonney Ernest",
+      "Lecoultre Arthur",
+      "Briod Edouard",
+      "Wenger Emile",
+      "Michod Aloïs"
     ],
-    "Epicerie.": [
-      "Bersier-Michaud Marcel",
-      "Borel Anna, Vve.",
-      "Clerc-Brocard Ad.",
-      "Colomb Eugène",
-      "Comte-Rapin C.",
-      "Cuérel Auguste",
-      "Favre Jules",
-      "Gaiani frères",
-      "Genier Adrien",
-      "Goutte Antoine",
-      "Hulliger Albert",
-      "Jöhr Ernest",
-      "Jomini Henri fils",
-      "Jomini-Husson Benjamin",
-      "Kaiser & Co",
-      "Mercure (S.A.)",
-      "Otz-Suter Marie, Vve.",
-      "Paré-Leuenberger Ida",
-      "Perrin Fernand",
-      "Perrin-Ryser Henri",
-      "Petitpierre Ch.. S. A.",
-      "Plumettaz Georges",
-      "Rapo Corneille",
-      "Righetti Léon",
-      "Savary-Schwab E.",
-      "Société coopér. de consommation",
-      "Vonnez et Savary, dames"
+    "Agriculteurs": [
+      "Ballif Emile",
+      "Ballif Henri",
+      "Bessaud Jules",
+      "Bourgeois Octave",
+      "Briod Ami",
+      "Briod Daniel",
+      "Buzzi Charles",
+      "Chauffard Jules",
+      "Dubois Louis",
+      "Germond Eugène",
+      "Krummen Emile",
+      "Krummen Fritz",
+      "Michod Charles",
+      "Michod, hoirs de Constant",
+      "Michod Jean-Samuel",
+      "Michod frères Aloïs et Arthur",
+      "Pidoux Constant",
+      "Rey Jean",
+      "Ribet frères",
+      "Ribet Eugène de Jean",
+      "Schneider Albert",
+      "Schneider Robert",
+      "Spycher Alb.",
+      "Steck Louis",
+      "Trolliet L.",
+      "Wenger William"
     ],
-    "Farine lactée.": [
-      "Société Nestlé and Anglo Swiss Condensed Milk Co. O. Dommen, Dr."
+    "Auberges et cafés": [
+      "Cherpillod Jean",
+      "Michod David",
+      "Fauquex Alexis",
+      "Pittet-Bessat Maurice",
+      "Holzer Joseph",
+      "Gentil William",
+      "Pluviaux Marie",
+      "Vuillermin Emile",
+      "Vaney Ed."
     ],
-    "Ferblantiers-appareilleurs.": [
-      "Doudin Gustave",
-      "Groux César",
-      "Perret A.",
-      "Perretten-Girard Alph.",
-      "Ryser-Perrin Ed.",
-      "Zumbach Emile"
+    "Assurances": [
+      "Bâloise (la) Vie",
+      "Société suisse de secours mutuels Helvétia",
+      "Chollet Charles"
     ],
-    "Fers et métaux.": [
-      "Favre & Cie (S.A.)",
-      "Girardin-Muller E.",
-      "Liechti Albert",
-      "Rapin-Hubler Louis",
-      "Rapin Octave",
-      "Zuberbühler"
+    "Associations mutualistes de retraite": [
+      "Ballif A."
     ],
-    "Filature de laine.": [
-      "Gingins-Berger Adèle"
+    "Banque": [
+      "Crédit Mutuel de Lucens, (S. A.)"
     ],
-    "Fontainiers.": [
-      "Doudin Gustave",
-      "Leuenberger-Jomini Paul",
-      "Peretten Alphonse"
+    "Bétail (march. de)": [
+      "Favre Albert"
     ],
-    "Fleurs (mag. de).": [
-      "Addor Fred."
+    "Bière (dépôt de)": [
+      "Brasserie du Cardinal de Fribourg",
+      "Gavillet Aimé"
     ],
-    "Fourrages.": [
-      "Germond Henri",
-      "Savary Léon",
-      "Vallotton Aloïs",
-      "Widmer E."
+    "Blanchisseuse-repasseuse": [
+      "Butty-Dafflon, dame",
+      "Emery Lina",
+      "Ruchat-Strickler Marie, Mme",
+      "Tzaud-Roulin, Mme"
     ],
-    "Fourrures-Pelleteries.": [
-      "Mauvilly-Mouquin M."
+    "Bois (march. de)": [
+      "Trolliet Louis",
+      "Vaney Ed."
     ],
-    "Fripier.": [
-      "Gris Oscar",
-      "Moser Henri"
+    "Bouchers": [
+      "Boucherie sociale",
+      "Favre Ed."
     ],
-    "Fromages (comm. de).": [
-      "Auberson Héli",
-      "Bächler Ernest",
-      "Husson-Rapin Henri",
-      "Meylan Arnold",
-      "Penseyres Oscar",
-      "Perrin Ed.",
-      "Rapin Albert",
-      "Société de laiterie"
+    "Boulangers": [
+      "Ganty Antoine",
+      "Kung Otto",
+      "Luder-Krummen E.",
+      "Michod, hoirs d'Ed.",
+      "Mottaz Victor"
+    ],
+    "Cigares et tabacs (Voir aussi Auberges et Epiceries)": [
+      "Huwiler W.-Joseph"
+    ],
+    "Chapellerie": [
+      "Meyer Fern."
+    ],
+    "Charcutiers": [
+      "Charles Constant",
+      "Favre Ed.",
+      "Monnard Ls."
+    ],
+    "Charpentiers": [
+      "Badoux Aloïs",
+      "Bettex Paul",
+      "Bovay Emile"
+    ],
+    "Charrons": [
+      "Badoux Robert",
+      "Pichonnat Jules"
+    ],
+    "Chaussures": [
+      "Regamey Joséphine"
+    ],
+    "Chaux et ciments": [
+      "Ferrini François",
+      "Zaretti Emmanuel"
+    ],
+    "Chef de gare": [
+      "Grin Jean"
+    ],
+    "Chef de section": [
+      "Gros Gustave"
+    ],
+    "Chiffons et divers": [
+      "Fauquex Alex."
+    ],
+    "Coiffeurs": [
+      "Brand Elisabeth (dames)",
+      "Gros Gustave",
+      "Maag G.",
+      "Potterat Aloïs",
+      "Ribet Paul",
+      "Thomäe-Rod Al., dame"
+    ],
+    "Commandant du feu": [
+      "Ballif Albert"
+    ],
+    "Commission scolaire": [
+      "Rochat E.",
+      "Lecoultre Arthur",
+      "Légeret Maurice",
+      "Rey Jean",
+      "Cornaz Hri"
+    ],
+    "Constructeurs-mécaniciens": [
+      "Bunter frères & Jornod fls.",
+      "Duperrex Robert",
+      "Tanner Chs"
+    ],
+    "Cordonniers": [
+      "Aeberhard J.",
+      "Frossard Constant",
+      "Marti",
+      "Pottz G."
+    ],
+    "Couvreur": [
+      "Tzaud Alfred"
+    ],
+    "Draperie": [
+      "Meyer F."
+    ],
+    "Droguerie": [
+      "Lezian Jean"
+    ],
+    "Electrogravure (Etablissements d')": [
+      "Etablissements d'Electrogravure"
+    ],
+    "Engrais chimiques": [
+      "Société d'agriculture",
+      "Zaretti E."
+    ],
+    "Entrepreneurs": [
+      "Montangero Aug. et Louis",
+      "Ferrini-Durussel François",
+      "Zaretti Emmanuel"
+    ],
+    "Epiceries": [
+      "Clot-Morandi Albert",
+      "Gros Louis",
+      "Guignard René",
+      "Leeizan Jean",
+      "Giron Louis",
+      "Coopérative de consommation",
+      "Panchaud Luc"
+    ],
+    "Facteurs": [
+      "Bourgeois A.",
+      "Cheseaux Olivier",
+      "Strikler Th., fils"
+    ],
+    "Ferblantier": [
+      "Cavin Eugène"
+    ],
+    "Fers et clouterie": [
+      "Coopérat. de consommation",
+      "Giron Louis",
+      "Guignard René"
+    ],
+    "Graines": [
+      "Coopérative de consommation",
+      "Durussel Edouard",
+      "Geiser Otto",
+      "Giron Louis"
+    ],
+    "Gypsiers-peintres": [
+      "Montangero A. L. & E."
     ]
   }
 }

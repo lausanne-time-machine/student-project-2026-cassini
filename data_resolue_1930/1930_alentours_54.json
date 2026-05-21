@@ -1,117 +1,246 @@
 {
-  "VILLE DE MORGES": {
-    "Couturières": [
-      "Lehni Clara",
-      "Mingard-Cretegny",
-      "Rayroud",
-      "Ruegsegger",
-      "Schleicher sœurs",
-      "Schmid Marie",
-      "Thibault-Schmid",
-      "Tronchet Marie",
-      "Truan A. & B.",
-      "Tzaut Mlle",
-      "Willy Blanche"
+  "Ville de Cossonay": {
+    "Boulangers-pâtissiers": [
+      "Doxat Louis",
+      "Rod Henri",
+      "Ronchetti Georges"
     ],
-    "Denrées coloniales en gros": [
-      "Demaurex frères",
-      "Gachet Louis",
-      "Vve Jean von Auw & fils"
+    "Câbles électriques": [
+      "Société anonyme des Câbleries et Tréfileries"
     ],
-    "Dentistes": [
-      "Boudry-Laidrich A.",
-      "Curchod J.-P.",
-      "Miche Jean",
-      "Schneeberger Th."
+    "Caisse d'épargne": [
+      "Vionnet Albert",
+      "Ansermier Henri"
     ],
-    "Distillateurs": [
-      "Les fils Salina-Gamboni",
-      "Produits Henri Girard, S. A."
+    "Camionneurs": [
+      "Bovay Emile",
+      "Perret-Gentil Philippe"
+    ],
+    "Chapelleries": [
+      "Ansermier Henri",
+      "Dénéréaz frères"
+    ],
+    "Charpentiers": [
+      "Martin Sam.",
+      "Petter Paul",
+      "Rochat H., fils"
+    ],
+    "Charrons": [
+      "Margot-Guibert François",
+      "Rod Edouard"
+    ],
+    "Chaussures (march. de)": [
+      "Ansermier Henri",
+      "Dénéréaz frères",
+      "Zumsteg G."
+    ],
+    "Chef de gare": [
+      "Rochat William"
+    ],
+    "Chef de section": [
+      "Gendarmerie"
+    ],
+    "Cinéma": [
+      "Société du Casino"
+    ],
+    "Coiffeurs": [
+      "Guex Alf.",
+      "Guex H. Mme",
+      "Luthi J.",
+      "Matthey O."
+    ],
+    "Cordonniers": [
+      "Aubert Isaac",
+      "Nicollerat Jean",
+      "Zumsteg G."
+    ],
+    "Dentiste": [
+      "Vautier Ed."
     ],
     "Draperies": [
-      "Chabloz Henri",
-      "Meyer frères & Cie",
-      "Meyer Sylvain",
-      "Nicole W.",
-      "Savary & Brunner",
-      "Schmoll Alfred"
-    ],
-    "Droguerie": [
-      "Gachet Jules",
-      "Giroud Samuel",
-      "Traber-Krüger",
-      "Von Auw & Cie",
-      "Vve Jean von Auw & fils"
+      "Dénéréaz frères"
     ],
     "Eaux gazeuses": [
-      "Serex Louis",
-      "Soutter Ad."
+      "Roy Henri"
     ],
-    "Ecole cantonale d'agriculture de Marcelin": [
-      "M. Chavan",
-      "Mlle Rouffy"
-    ],
-    "Ecole particulière": [
-      "Viquerat Olga"
-    ],
-    "Electriciens": [
-      "Forces de Joux",
-      "Fauconnet E.",
-      "Zogmal Victor",
-      "Zurcher Ed."
-    ],
-    "Engrais chimiques": [
-      "Serex Charles"
+    "Electricien": [
+      "Boillet Charles"
     ],
     "Entrepreneurs": [
-      "Chiocca Jacques",
-      "Decarmine Pierre",
-      "Demenga E.",
-      "Morisetti P.",
-      "Mottaz Pierre",
-      "Pellegrino frères",
-      "Piaget Georges Vve & Cie",
-      "Stevenin B.",
-      "Tosi Aug."
+      "Bertola Aug.",
+      "Ramoni Louis"
     ],
-    "Epiceries, primeurs": [
-      "Beyeler, Mlle",
-      "Brousoz Célestin",
-      "Consommation",
-      "Descombes M.",
-      "Dietehlm-Trachsel A.",
-      "Dumas-Dériaz E.",
-      "Ethenoz William",
-      "Favey Louis",
-      "Folly, Vve",
-      "Gachet Louis",
-      "Giroud Samuel",
-      "Golay William",
-      "Jaquemettaz Emile",
-      "Jayet Charles",
-      "Kohly Sophie",
-      "Lavanchy Rod.-Henri",
-      "Lelourdy Emile",
-      "Linder Charles",
-      "Moraz Charles",
-      "Mullener Charles",
-      "Neuhaus Aloïs",
-      "Nicolet Jules, Vve",
-      "Pernet Laurent",
-      "Piguet A.",
-      "Regamey Jules",
-      "Schenk Oscar",
-      "Velan-Gægel",
-      "Vve Jean von Auw & fils",
-      "Von Auw & Cie"
+    "Engrais chimiques": [
+      "Bally Emile",
+      "Société d'agriculture",
+      "G. Chantrens"
     ],
-    "Fabricant de vinaigre": [
-      "Morax Louis"
+    "Epicerie": [
+      "Borgeaud Albert",
+      "Curchod Ad.",
+      "Dénéréaz frères",
+      "Monnier Alb.",
+      "Perretten Auguste",
+      "Schopfer Henriette"
     ],
-    "Ferblantiers-couvreurs": [
-      "Angiono Emile",
-      "Barmaverain Emile",
-      "Gachet Charles & Hugonnet Louis fils M."
+    "Equarrisseur": [
+      "Vionnet Sam."
+    ],
+    "Ferblantier": [
+      "Guignard Henri"
+    ],
+    "Fers": [
+      "Dénéréaz frères"
+    ],
+    "Garages": [
+      "Blanc Aloïs",
+      "Meystre Emile"
+    ],
+    "Géomètres officiels": [
+      "Baudet Marcel",
+      "Thibaud Ch."
+    ],
+    "Geôlier": [
+      "Cruchon John"
+    ],
+    "Gérants": [
+      "Guibert Marcel",
+      "Savary Henri"
+    ],
+    "Graines": [
+      "Borgeaud Albert",
+      "Dénéréaz frères",
+      "Monnier Albert"
+    ],
+    "Gypsiers": [
+      "Casotto Ernest",
+      "Lodari René",
+      "Motta Robert"
+    ],
+    "Horlogers": [
+      "Chanson Jean",
+      "Salomon Emile"
+    ],
+    "Hôtels": [
+      "Hôtel d'Angleterre",
+      "Coeytaux Albert",
+      "Hôtel de la Couronne",
+      "Coeytaux, Vve d'Ern.",
+      "Hôtel de l'Union",
+      "Roy Jules",
+      "Hôtel du Cerf",
+      "Magnin-Bernard Eugène"
+    ],
+    "Imprimeur": [
+      "Jacquemard Ernest"
+    ],
+    "Inspecteurs du bétail": [
+      "Despland Jn",
+      "Thibaud Jules"
+    ],
+    "Inspecteur forestier": [
+      "Grivaz Fr."
+    ],
+    "Instituteurs primaires": [
+      "Burdet Jacques",
+      "Golay Georges",
+      "Maeder Fritz",
+      "Desponds Amélie",
+      "Chantrens Gabrielle",
+      "Rochat Fanny",
+      "Visinand Rosa"
+    ],
+    "Jardinier": [
+      "Manigley Emile"
+    ],
+    "Journal": [
+      "Journal de Cossonay",
+      "Jacquemard Ernest"
+    ],
+    "Justice de paix du cercle": [
+      "Schmidt-Martin J. T.",
+      "Gleyre Ernest",
+      "Lavanchy Aloys",
+      "Bettems William",
+      "Jaquier Adrien",
+      "Lavanchy William",
+      "Badan Ernest"
+    ],
+    "Laiteries": [
+      "Laiterie de Cossonay",
+      "Simond Charles",
+      "Laiterie d'Alens",
+      "Simond René"
+    ],
+    "Limes (retaillage de)": [
+      "Falcy C.",
+      "Magnenat Louis"
+    ],
+    "Lingères": [
+      "Desponds Amélie",
+      "Guillemin",
+      "Manigley-Conrad"
+    ],
+    "Machines agricoles": [
+      "Borgeaud Albert",
+      "Dénéréaz frères",
+      "Desplands François"
+    ],
+    "Matériaux de construction": [
+      "Bally Emile",
+      "Grands Moulins"
+    ],
+    "Maréchal": [
+      "Minder Jacob"
+    ],
+    "Mécanicien": [
+      "Despland Franç."
+    ],
+    "Médecins": [
+      "Guilloud E.",
+      "Mayor Jean"
+    ],
+    "Menuisiers": [
+      "Conrad E.",
+      "Martin Samuel",
+      "Rochat Henri et Charles"
+    ],
+    "Merciers": [
+      "Curchod Ad.",
+      "Dénéréaz frères",
+      "Martelli Baptiste",
+      "Monnier Albert",
+      "Perretten Auguste",
+      "Schopfer Henriette"
+    ],
+    "Meuniers": [
+      "Grands Moulins de Cossonay, S. A.",
+      "Chevalier frères"
+    ],
+    "Notaires": [
+      "Badan Ern.",
+      "Bolens Marius",
+      "Guibert Marcel"
+    ],
+    "Officier d'état-civil": [
+      "Savary Henri"
+    ],
+    "Pasteur": [
+      "Piotet Paul"
+    ],
+    "Pensions": [
+      "Epars",
+      "Rubattel Lina"
+    ],
+    "Pharmaciens": [
+      "Archinard Paul",
+      "Houlmann Henri"
+    ],
+    "Poste": [
+      "Bernev Charles",
+      "Bonzon Auguste",
+      "Manigley Adr.",
+      "Margot Emile"
     ]
   }
 }

@@ -1,105 +1,236 @@
 {
-  "Ville de Nyon": {
-    "Automobiles.": [
-      "Ballabey E.",
-      "Dufour-Félix E.",
-      "Eicher Jean",
-      "Louis Albert",
-      "Schenkel A.",
-      "Sauter Ferdinand",
-      "Zwahlen Paul",
-      "Thévenoz & Remund",
-      "Weill frères"
+  "AUBERSON": {
+    "Boîtes d'écoles (fab. de).": [
+      "Joseph Paul"
     ],
-    "Avocats.": [
-      "Baup Jean",
-      "Bonnard Ls & H.",
-      "Dupraz Louis",
-      "Prod'hom Louis"
+    "Bouchers-charcutiers": [
+      "Bornand Ch.",
+      "Guye César",
+      "Jaccard Samuel"
     ],
-    "Bains.": [
-      "Bains du Lac",
-      "Bains publics des Trois Jetées",
-      "Société des bains"
+    "Boulangers-pâtissiers": [
+      "A. Bornand & Cie.",
+      "Jaques Louis",
+      "Société de consommation"
     ],
-    "Banques.": [
-      "Banque cantonale vaudoise",
-      "Caisse d'épargne de Nyon",
-      "Société de Banque suisse",
-      "Gonet & Cie",
-      "Union Vaudoise du Crédit"
+    "Bûcheron": [
+      "Jaccard-Giroud Ed."
     ],
-    "Bateaux (location de)": [
-      "Canel Charles",
-      "Favre François"
+    "Cafés, cercles": [
+      "Charnaux Juste",
+      "Barbezat",
+      "Cercle Industriel",
+      "Côte Camille"
     ],
-    "Bazar.": [
-      "Kæppeli Hermann",
-      "Le Louvre"
+    "Charnières (fab. de).": [
+      "Jaccard Numa"
     ],
-    "Bestiaux (march. de).": [
-      "Baud-Lude Marc",
-      "Dupraz John",
-      "Gintzburger Samuel",
-      "Graf Jean",
-      "Kunz Charles",
-      "Monod Edouard",
-      "Parmelin Henri & Piguet Auguste",
-      "Pécoud Robert"
+    "Charpentiers-menuisiers": [
+      "Gueissaz Jules",
+      "Joseph Henri",
+      "Joseph Paul"
     ],
-    "Bibliothèque populaire.": [
-      "Favre Fernand"
+    "Chaussures (mag. de).": [
+      "Gonthier John",
+      "Margot E. & C.",
+      "Société de consommation"
     ],
-    "Bière (dépôts de).": [
-      "Brasserie du Cardinal",
-      "Brasserie de St-Jean"
+    "Coiffeurs": [
+      "Gueissaz Emile",
+      "Jaccard Hermann"
     ],
-    "Blanchisseuses-repasseuses.": [
-      "Bacchetta-Chabod, dame",
-      "Dessauges-Morier, dame",
-      "Buanderie",
-      "Feurer, Mlle",
-      "Péry-Baur, dame",
-      "Quayzin, dame",
-      "Würst, dame"
+    "Commission scolaire": [
+      "Bornand-Golaz Auguste",
+      "Gueissaz André",
+      "Margot Etienne"
     ],
-    "Bois (comm. de).": [
-      "Berlie Frédéric",
-      "Raffini frères",
-      "Rousselet frères",
-      "Teysseire & Cie"
+    "Cordonniers": [
+      "Gonthier John",
+      "Guye Paul",
+      "Pantet Emile"
     ],
-    "Boissons sans alcool (fabr. de).": [
-      "Aro"
+    "Coupe-verre (fab. de).": [
+      "Jaccard Léon",
+      "Reymond William"
     ],
-    "Bonneterie — Tricotages.": [
-      "Brunner Martha",
-      "Rossier Hélène"
+    "Couturières": [
+      "Cuendet-Joseph Ida",
+      "Gueissaz Nelly",
+      "Recordon Laura",
+      "Recordon-Margot Rosalie"
     ],
-    "Bouchers.": [
-      "Baud-Lude Marc",
-      "Bertschi Jules",
-      "Chomety Joseph",
-      "Emery Charles",
-      "Künz, Vve de Ch.",
-      "Schneiter Ferdinand",
-      "Tissot André"
+    "Dentiste": [
+      "Jaccard-Cuendet Ami"
     ],
-    "Boulangers.": [
-      "Aubry Léon",
-      "Burri Paul",
-      "Calame Edouard",
-      "Jaquier Emile",
-      "Frieden Jacob",
-      "Genoux-Cailler Robert",
-      "Genoux Emile",
-      "Jan Edmond",
-      "Lador Marc",
-      "Matthey-Planche Fritz",
-      "Wormser Henri"
+    "Denrées coloniales": [
+      "A. Bornand & Cie.",
+      "Margot Et. & C."
     ],
-    "Boulons (fab. de).": [
-      "Kocher F. & Cie"
+    "Ebénistes-menuisiers": [
+      "Jaccard Ele",
+      "Jaques E. & Cie.",
+      "Joseph Henri"
+    ],
+    "Encadreurs": [
+      "Joseph Paul",
+      "Joseph Henri"
+    ],
+    "Entrepreneur": [
+      "Lanfranchini Rob."
+    ],
+    "Epicerie, mercerie": [
+      "A. Bornand & Cie.",
+      "Charnaux Juste",
+      "Côte Camille",
+      "Margot Constant",
+      "Margot Et. & C.",
+      "Martin-Clément Emile",
+      "Société de consommation d'Auberson"
+    ],
+    "Fromages (gros)": [
+      "Bornand & Cie.",
+      "Margot Et. & C."
+    ],
+    "Gérances": [
+      "Margot-Reymond L."
+    ],
+    "Inspecteur du bétail": [
+      "Jaccard Emile"
+    ],
+    "Instituteur": [
+      "Meylan Maurice"
+    ],
+    "Institutrices": [
+      "Margot-Junod Thérèse",
+      "Gonthier Marie",
+      "Deriaz Marguerite"
+    ],
+    "Laiterie": [
+      "Guye César"
+    ],
+    "Maçonnerie": [
+      "Lanfranchini Robert"
+    ],
+    "Mécaniciens": [
+      "Jaccard Arthur",
+      "Jaccard Léon, S. A. R.",
+      "Jaccard Louis",
+      "Jaccard Numa"
+    ],
+    "Modiste": [
+      "Jaques Rose"
+    ],
+    "Pension d'étrangers": [
+      "Bornand Julie"
+    ],
+    "Porcs (comm. de).": [
+      "Bornand-Jaccard Emile",
+      "Guye César",
+      "Margot Philippe"
+    ],
+    "Poste, télégraphe et téléphone": [
+      "Bornand Arthur"
+    ],
+    "Quincaillerie": [
+      "Martin-Clément Emile"
+    ],
+    "Renseignements": [
+      "Margot-Reymond Louis"
+    ],
+    "Sage-femme": [
+      "Desponds Andrée"
+    ],
+    "Scierie": [
+      "Addor Jules"
+    ],
+    "Sellier": [
+      "Pantet Emile"
+    ],
+    "Serrures": [
+      "Margot J.-L."
+    ],
+    "Skis (fab. de).": [
+      "Joseph Paul"
+    ],
+    "Sociétés": [
+      "du Cercle industriel",
+      "des Armes-Réunies",
+      "Immobilière des Granges",
+      "Coopérative de consommation de l'Auberson",
+      "des Eaux",
+      "de fromagerie",
+      "de gymnastique",
+      "Section de la Croix-Bleue",
+      "Syndicat d'élevage",
+      "Vélo-Club 1924",
+      "La Jurassienne",
+      "Auto-transports, S. A."
+    ],
+    "Tissus": [
+      "Consommation"
+    ],
+    "Tourneur sur bois": [
+      "Jaccard Aug."
+    ],
+    "Vins (march. de).": [
+      "Bornand Charles",
+      "Margot-Cuendet Ami",
+      "Margot E. & Cie.",
+      "Société de Consommation"
+    ],
+    "Vis (fab. de).": [
+      "Jaccard Louis"
+    ],
+    "Voituriers": [
+      "Auto-Transports S. A.",
+      "Bornand Ch.",
+      "Bornand Edouard",
+      "Jaques Constant",
+      "Jaccard-Thuillard Ls."
+    ],
+    "Courtier": [
+      "Gueissaz André"
+    ],
+    "Echappements (cylindre)": [
+      "Besse Gustave",
+      "Gueissaz James"
+    ],
+    "Etuis et écrins": [
+      "Jaccard Emile",
+      "Jaques Auguste"
+    ],
+    "Rhabilleurs": [
+      "Gueissaz James"
+    ],
+    "Boîtes (fab. de)": [
+      "Cuendet John-E.",
+      "Gueissaz André",
+      "Jaccard-Thévenaz",
+      "Margot-Cuendet Ami"
+    ],
+    "Claviers": [
+      "Jaccard Louis",
+      "Margot Emile",
+      "Vve Margot Louis"
+    ],
+    "Ebénisterie": [
+      "Jaccard Emile",
+      "Jaques Auguste"
+    ],
+    "Pièces à musique (fournit. pour)": [
+      "Cuendet Edouard",
+      "Jaccard Louis"
+    ],
+    "Rhabilleur en musique": [
+      "Baud Aug."
+    ],
+    "Rouleaux (fab. de)": [
+      "Cuendet Ed.",
+      "Jaccard-Winkler Jules"
+    ],
+    "Vis sans fin et ébauches (fab. de)": [
+      "Cuendet Ed.",
+      "Jaccard Louis"
     ]
   }
 }

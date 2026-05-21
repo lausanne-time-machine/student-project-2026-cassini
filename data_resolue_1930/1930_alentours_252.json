@@ -1,95 +1,209 @@
 {
-  "Ville de Vevey": {
-    "Justice de paix.": [
-      "Chappuis Ls.",
-      "Margot Aug.",
-      "Monod Eug.",
-      "Narbel Charles",
-      "Vuadens Ed.",
-      "Dubuis Gérard",
-      "Hegglin Georges"
+  "CHATILLENS": {
+    "Scierie.": [
+      "Jayet John"
     ],
-    "Laineries.": [
-      "Bayard, Mlles",
-      "Frey-Wicki Jeanne",
-      "Dæppen, hoirs de Frédéric",
-      "Dormond Jules",
-      "Meyer Frieda",
-      "Pilet Marguerite Mlle",
-      "Recordon Mathilde",
-      "Zanone A."
+    "Société.": [
+      "de laiterie de Châtillens et Vuibroye"
     ],
-    "Lait condensé (fab. de).": [
-      "Nestlé & Anglo-Swiss Condensed Milk Co"
+    "Vannerie.": [
+      "Bader Jacob"
+    ]
+  },
+  "CHESALLES-SUR-ORON": {
+    "Autorités communales.": [
+      "Varidel Alexis",
+      "Varidel Henri",
+      "Corboz Alexis",
+      "Cardinaux Constant",
+      "Gilliéron Victor",
+      "Etter Samuel",
+      "Pilet Louis",
+      "Maillard Ulysse",
+      "Varidel David"
     ],
-    "Laiterie (articles pour).": [
-      "Margot Aug."
+    "Agriculteurs.": [
+      "Cardinaux Constant",
+      "Cardinaux Daniel",
+      "Corboz Alexis",
+      "Corboz Emile",
+      "Corboz Ernest",
+      "Corboz Louis",
+      "Etter Samuel",
+      "Gilliéron Henri",
+      "Gilliéron Victor",
+      "Jan Jules",
+      "Maillard Aimé",
+      "Maillard Armand",
+      "Maillard Emile",
+      "Maillard Ulysse",
+      "Pasche Frédéric",
+      "Stalder Jean",
+      "Terrapon Alfred",
+      "Varidel Alexis",
+      "Varidel Henri"
     ],
-    "Laiteries.": [
-      "Bertholet Emile",
-      "Bornand Albert",
-      "Chopard-Keusen Louis",
-      "Daunis Marie",
-      "Davet Isidore",
-      "Dubath Ilma",
-      "Fédération laitière du Léman",
-      "Ginier Auguste",
-      "Grosjean Alfred",
-      "Martin Charles",
-      "Moser Ernest",
-      "Neuverth & Villard",
-      "Rapin Marcel",
-      "Rapin Emile",
-      "Rochat Henri",
-      "Rossier Emma",
-      "Schmid Alfred",
-      "Schumacher Jean",
-      "Tachet Henri"
+    "Epicerie.": [
+      "Arnoldi Adèle",
+      "Maillard Emile"
     ],
-    "Librairies.": [
-      "Belperrin Maurice",
-      "Capt Ch..",
-      "Delafontaine J.",
-      "Payot & Cie",
-      "Säuberlin & Pfeiffer",
-      "Société de l'imprimerie et lithographie Klausfelder"
+    "Inspecteur du bétail.": [
+      "Gilliéron Victor"
     ],
-    "Lingerie.": [
-      "Dormond J.",
-      "Bayard J. & E.",
-      "Beetschen Marc",
-      "Bono Célestin",
-      "Brunschwig Clément",
-      "Currat Brigitte",
-      "Frey-Wicki A.",
-      "Leresche René",
-      "Lux Maximilien",
-      "Margot-Courvoisier Madeleine",
-      "Pilet Marguerite",
-      "Schwob Lucien",
-      "Zbinden Aline"
+    "Instituteur.": [
+      "Pilet Louis"
     ],
-    "Lingères.": [
-      "Flouck Emma",
-      "Friedrich Lydia",
-      "Grand Marie",
-      "Schaerer, Mlle",
-      "de Siebenthal Marie, Mlle",
-      "Schenkel, Mlle",
-      "Tschan Marguerite",
-      "Wyler M.. Mlle"
+    "Laitier.": [
+      "Bischof Adolphe"
     ],
-    "Linoléums.": [
-      "Légeret Charles"
+    "Pasteur.": [
+      "Schutz Charles"
     ],
-    "Liqueurs.": [
-      "Bitter des Espersiers (S.A.)",
-      "Claivaz François-Louis. Veuve",
-      "Rossier Marthe"
+    "Scieur.": [
+      "Maillard Emile"
     ],
-    "Lithographes.": [
-      "Säuberlin & Pfeiffer (S. A.)",
-      "Société de l'imprimerie et lithographie Klausfelder"
+    "Sociétés.": [
+      "Caisse de Crédit mutuel de Chesalles-Oron",
+      "de laiterie",
+      "Syndicat agricole et d’élevage",
+      "Syndicat d'alpage"
+    ],
+    "Téléphoniste.": [
+      "Maillard Emile"
+    ]
+  },
+  "CORCELLES-LE-JORAT": {
+    "Autorités communales.": [
+      "Chenevard Jules",
+      "Duperrex Arnold",
+      "Porchet Robert",
+      "Porchet Constant",
+      "Ramuz Jules",
+      "Porchet John",
+      "Porchet Jean-Louis",
+      "Porchet Henri-Louis",
+      "Burdet Alfred",
+      "Porchet Alexis"
+    ],
+    "Agriculteurs.": [
+      "Cavin Lucien",
+      "Chenevard Auguste",
+      "Chenevard Emile",
+      "Chevalley frères",
+      "Diserens Constant",
+      "Freymond frères",
+      "Gavillet Ernest",
+      "Porchet Ernest",
+      "Porchet Eugène",
+      "Porchet Henri",
+      "Porchet John",
+      "Porchet Jules",
+      "Porchet Gust. T.",
+      "Porchet Léonard",
+      "Porchet Lucien",
+      "Porchet Julien",
+      "Porchet-Gessenay Louis",
+      "Ramuz Alfred",
+      "Viret Emile"
+    ],
+    "Assurance-vieillesse.": [
+      "Associations mutualistes de retraite",
+      "Chevalley A."
+    ],
+    "Aubergistes.": [
+      "Chaubert Frédéric",
+      "Gilliéron Louis",
+      "Porchet Louis"
+    ],
+    "Bois (march. de).": [
+      "Porchet Félix. T.",
+      "Ramuz Jules",
+      "Ramuz Louis"
+    ],
+    "Blanchisseuse.": [
+      "Porchet Eugénie"
+    ],
+    "Boulangerie.": [
+      "Chaubert Fréd."
+    ],
+    "Carrier.": [
+      "Porchet Léonard"
+    ],
+    "Charpentiers.": [
+      "Dind Th.",
+      "Martinet Alfred"
+    ],
+    "Charrons.": [
+      "Cavin Aloïs",
+      "Chenevard Henri"
+    ],
+    "Commission scolaire.": [
+      "Burdet A.",
+      "Porchet J.-Ls."
+    ],
+    "Couturière.": [
+      "Porchet Eugénie"
+    ],
+    "Epiceries.": [
+      "Lassueur Marie",
+      "Penseyres Jenny"
+    ],
+    "Fourches et râteaux.": [
+      "Bertholet Samuel"
+    ],
+    "Garde-forestier de triage.": [
+      "Porchet Ulysse"
+    ],
+    "Gravière.": [
+      "Freymond Jules"
+    ],
+    "Inspecteur du bétail.": [
+      "Porchet-Steiner Louis"
+    ],
+    "Instituteurs.": [
+      "Chevalley Alexis",
+      "Chenevard Marguerite"
+    ],
+    "Laitier.": [
+      "Mollet Jacob"
+    ],
+    "Lingère.": [
+      "Penseyres Jenny"
+    ],
+    "Mécanicien.": [
+      "Chenevard Jules. T."
+    ],
+    "Officier d'état civil.": [
+      "Chenevard Ele."
+    ],
+    "Poste.": [
+      "Duperrex Arnold"
+    ],
+    "Rentier.": [
+      "Ramuz Héli"
+    ],
+    "Scieur.": [
+      "Société du Moulin agricole"
+    ],
+    "Sociétés.": [
+      "de fromagerie",
+      "de tir (Union fédérale)",
+      "du Moulin agricole",
+      "Caisse locale d'assurance du bétail"
+    ],
+    "Téléphone.": [
+      "Auberge communale"
+    ],
+    "Volailles (comm. de).": [
+      "Chenevard Elisa",
+      "Porchet Alfred",
+      "Regamey Eugénie"
+    ]
+  },
+  "CULLAYES": {
+    "Autorités communales.": [
+      "Devaud Emile",
+      "Bezençon Albert"
     ]
   }
 }

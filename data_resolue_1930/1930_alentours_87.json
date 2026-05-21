@@ -1,120 +1,232 @@
 {
-  "Moudon": {
-    "Marbriers": [
-      "Faucherre Henri"
+  "VUARRENS": {
+    "Municipaux": [
+      "Sauvageat Aimé",
+      "Guex Alexis",
+      "Huguenet Marius",
+      "Perret Héli",
+      "Besson Alfred",
+      "Bovay Louis",
+      "Buffat Emile",
+      "Brot Jules",
+      "Piot Alfred",
+      "Thonney Alfred"
     ],
-    "Maréchaux": [
-      "Golay Louis",
-      "Herzog Christian",
-      "Dutoit Ernest"
+    "Boursier": [
+      "Viret Arthur",
+      "Buffat Héli"
     ],
-    "Massages": [
-      "Pape L., dame"
+    "Secrétaire": [
+      "Viret Ls",
+      "Jaccaud Louis",
+      "Magnenat Albert"
     ],
-    "Matériaux de construction": [
-      "Dalioli Ernest",
-      "Delmatti & fils",
-      "Protti Victor"
+    "Huissier": [
+      "Viret Fernand",
+      "Tardy Aimé"
     ],
-    "Mécaniciens": [
-      "Dutoit Ernest",
-      "Herzog Christian",
-      "Steck Louis"
+    "Agriculteurs": [
+      "Dufour Héli-Oscar",
+      "Huguenet Victor",
+      "Jaccaud Auguste",
+      "Jaccaud Jules",
+      "Jaccaud frères",
+      "Mange Louis",
+      "Möry G.",
+      "Perret Héli",
+      "Viret Aimé",
+      "Viret Alfr.",
+      "Viret Ernest-Elie",
+      "Viret Héli",
+      "Viret Pierre-Elie",
+      "Barbey Constant",
+      "Barbey Héli",
+      "Besson Alfred",
+      "Besson Ern.",
+      "Besson Ls",
+      "Blanc Ls",
+      "Bovay Ls",
+      "Brot Const.",
+      "Brot Emile",
+      "Brot Fritz",
+      "Brot Georges",
+      "Brot William",
+      "Buffat Auguste-Louis",
+      "Buffat Alphonse",
+      "Buffat Charles",
+      "Buffat Edouard",
+      "Buffat Emile",
+      "Buffat Eugène",
+      "Buffat Jean",
+      "Buffat John",
+      "Buffat Julien",
+      "Buffat Jules-Samuel",
+      "Buffat Louis",
+      "Buffat Henri",
+      "Buffat Paul",
+      "Courvoisier Alfred",
+      "Courvoisier Const.",
+      "Duvoisin Ed",
+      "Favez Lucien",
+      "Fiaux Adrien",
+      "Gasser Jules",
+      "Gasser Maurice",
+      "Gonet Elie",
+      "Gonet Héli",
+      "Gonet Henri",
+      "Gonin Lucien",
+      "Jaccaud Louis",
+      "Jaton Oscar",
+      "Jaunin Ls",
+      "Kölliker Ch.",
+      "Laurent Frs-Ls",
+      "Monnier Hri",
+      "Narbel Constant",
+      "Narbel Emile",
+      "Narbel Louis",
+      "Piot Alfred",
+      "Piot Edouard",
+      "Piot Georges",
+      "Peytrequin Emile",
+      "Philippin Arthur",
+      "Schönmann Walter",
+      "Tardy Aimé",
+      "Tardy Juste",
+      "Thierry Eugène",
+      "Thierry Alfred",
+      "Thierry Paul",
+      "Thomas Fernand",
+      "Thonney Auguste",
+      "Thonney Alfred",
+      "Thonney Emile",
+      "Thuillard Ct.",
+      "Viret Alfred",
+      "Vulliamoz frères"
     ],
-    "Médecins": [
-      "Guex Louis",
-      "Mack Jean",
-      "Payot Francis"
+    "Auberge": [
+      "Viret William"
     ],
-    "Menuisiers": [
-      "Charpilloz Albert",
-      "Eichenberger Otto",
-      "Fléchelle Henri",
-      "Ricca Elise",
-      "PARQUETERIE D'AIGLE"
+    "Buraliste postal": [
+      "Viret Hermann"
     ],
-    "Mercerie": [
-      "Braillard Rose",
-      "Bettex-Pahud Elise",
-      "Déglon Marthe",
-      "Desmeules Alphonse",
-      "Faucherre-Domenjoz Clara",
-      "Fivaz G.",
-      "Pache Louis",
-      "Pittet Eugène"
+    "Commission scolaire": [
+      "Sauvageat Aimé",
+      "Viret Alfred",
+      "Viret Louis",
+      "Barbey Héli",
+      "Favez Lucien"
     ],
-    "Meubles (march. de)": [
-      "Eichenberger Otto",
-      "Müller Jean",
-      "Pahud Armand"
+    "Couturière": [
+      "Cachin Emma"
     ],
-    "Meuniers": [
-      "Aubert William",
-      "Baillif Jaques",
-      "Moulin agricole Moudon, S. A."
+    "Epicerie, mercerie": [
+      "Jaccaud Ed.",
+      "Sauvageat Rosa",
+      "Brot Aimé",
+      "Buffat Gustave",
+      "Magnenat Marcel"
     ],
-    "Modistes": [
-      "Debétaz Jeanne",
-      "Martinetti Rose",
-      "Pape, dame"
+    "Inspecteur du bétail": [
+      "Viret Gustave"
     ],
-    "Musique (professeur de)": [
-      "Eichenberger Elisabeth"
+    "Instituteurs": [
+      "Pavot Arthur",
+      "Viret Adèle",
+      "Blanc Louis",
+      "Magnenat-Wölfli Marthe"
     ],
-    "Notaires": [
-      "Becholey Eugène",
-      "Ducret & Vacheron",
-      "Emery Fernand"
+    "Maréchal": [
+      "Duboux Paul",
+      "Bourquin Oscar"
     ],
-    "Officier d'état-civil": [
-      "Grec Henri"
+    "Menuisier": [
+      "Viret Lucien"
     ],
-    "Opticien": [
-      "Doriot Hilaire-Ch."
+    "Scieur": [
+      "Miéville Emile"
     ],
-    "Pasteurs": [
-      "Baroni Victor",
-      "Thilo Ernest",
-      "Burnier Jean"
+    "Sociétés": [
+      "de laiterie et de fromagerie",
+      "Syndicat d'alpage",
+      "du battoir à blé",
+      "de tir",
+      "de chant",
+      "des laiteries de Vuarrens et Vuarrengel",
+      "Syndicat agricole et d'élevage",
+      "de lecture",
+      "d'agriculture",
+      "Société du pressoir"
     ],
-    "Pâtissiers": [
-      "Clot Henri",
-      "Cossy Charles",
-      "Chuat. A.",
-      "Dänzer Samuel",
-      "Luginbühl E.",
-      "Hofmann E.",
-      "Voruz Charles",
-      "Voruz, Veuve"
+    "Téléphoniste": [
+      "Viret William"
     ],
-    "Pêcheur": [
-      "Pidoux Emile"
+    "Président du Conseil général": [
+      "Barbey Héli"
     ],
-    "Pension alimentaire": [
-      "Guillet, dame",
-      "La Gerbe de Blé, Décosterd",
-      "Voruz Ernest"
+    "Syndic": [
+      "Thierry Paul"
     ],
-    "Pension de demoiselles": [
-      "Ruch Vve de Henri"
+    "Mutualité scolaire de retraite": [
+      "Blanc L."
     ],
-    "Pharmaciens": [
-      "Pharmacie Moudonnoise, S. A.",
-      "Feihl Willy"
+    "Auto-Transports": [
+      "Magnenat Marcel"
     ],
-    "Photographie": [
-      "Cherpillod Albert",
-      "Trolliet Ernest"
+    "Boulanger": [
+      "Magnenat Marcel"
     ],
-    "Pierristes": [
-      "Briod-Thonney André",
-      "Caffi Richard",
-      "Mérina, S. A.",
-      "Pinferetti F.",
-      "Pidoux Emile",
-      "Percerie, S. A.",
-      "Righini A.",
-      "Sueur Charles"
+    "Café": [
+      "Monnier Henri"
+    ],
+    "Charcuterie": [
+      "Buffat Gustave"
+    ],
+    "Charron": [
+      "Philippin Arthur"
+    ],
+    "Chef de section": [
+      "Perret Denis"
+    ],
+    "Engrais chimiques": [
+      "Magnenat Albert",
+      "Magnenat Eugène"
+    ],
+    "Entrepreneur-maçon": [
+      "Péclard Armand"
+    ],
+    "Inspecteurs du bétail": [
+      "Brot Fritz",
+      "Besson L."
+    ],
+    "Juge": [
+      "Ducret Charles"
+    ],
+    "Assesseurs": [
+      "Jaunin Héli",
+      "Mercier Emile",
+      "Barbey Héli",
+      "Stoudmann Edouard"
+    ],
+    "Greffier": [
+      "Wagnière Gustave"
+    ],
+    "Laitiers": [
+      "Roulier Julien",
+      "Stauffer Jean"
+    ],
+    "Officier d'état civil": [
+      "Buffat Eugène"
+    ],
+    "Pasteur": [
+      "Wanner Th."
+    ],
+    "Tailleuses": [
+      "Péclard Louisa",
+      "Perrin Emma"
+    ],
+    "Téléphone": [
+      "Auberge communale",
+      "Laiterie de Vuarrengel"
     ]
   }
 }

@@ -1,210 +1,167 @@
 {
-  "EPALINGES": {
-    "Epiceries": [
-      "Crot Pauline",
-      "Forestier Ernest",
-      "Minotti Mme",
-      "Rochat Jules fils",
-      "Vallotton-Cerf Charles",
-      "Wilkens Judith",
-      "Barraud Cécile",
-      "Baumgartner Rob.",
-      "Décrind Marie",
-      "Déglon Henri",
-      "Diserens Robert",
-      "Meister-Jacques"
-    ],
-    "Gypsiers-peintres": [
-      "Locca & fils",
-      "Rovasotto Jean"
-    ],
-    "Industrie": [
-      "Baumgartner & Cie",
-      "Comptoir des produits cupriques S. A.",
-      "Francillon et Cie",
-      "Acétylène dissous, S. A."
-    ],
-    "Inspecteurs du bétail": [
-      "Meylan Ed.",
-      "Favrat François",
-      "Porchet Auguste"
-    ],
-    "Instituteurs": [
-      "Bussy Fernand",
-      "Lambelet Jeanne",
-      "Cuénoud Blanche",
-      "Rochat Hélène",
-      "Thévenaz Emilie",
-      "Bussy Eugénie"
-    ],
-    "Jardiniers": [
-      "Blanc-Chave Louis",
-      "Blanc-Lehmann Gérard",
-      "Dupuis Charles"
-    ],
-    "Maisons de santé": [
-      "Fontanellaz Albert",
-      "Richard-Ducret C."
-    ],
-    "Maréchal": [
-      "Menétrey Adrien"
-    ],
-    "Menuisier": [
-      "Viredaz Henri"
-    ],
-    "Meunier": [
-      "Rochat Auguste"
-    ],
-    "Pasteur": [
-      "Mayor Louis"
-    ],
-    "Produits alimentaires": [
-      "Badan & Cie."
-    ],
-    "Représentants": [
-      "Guibert S.",
-      "Piguet Charles"
-    ],
-    "Scieurs": [
-      "Rochat Auguste",
-      "Scierie de Sorge",
-      "Vittoz John"
-    ],
-    "Sel (débit de)": [
-      "Forestier E."
-    ],
-    "Sellier": [
-      "Richard Alfred"
-    ],
+  "DENENS": {
     "Sociétés": [
-      "d'assurance du bétail",
-      "de bibliothèque",
-      "de fromagerie",
-      "Militaire La Sentinelle",
-      "de tir aux Armes de guerre",
-      "Syndicat agricole",
-      "Comptoir Industriel et Commercial S. A."
+      "Association de l'Institut catholique",
+      "Fanfare de Lavey",
+      "Etablissement cantonal",
+      "Société coopérative immobilière des Cheminots de St-Maurice",
+      "Société de la Laiterie",
+      "Chœur d'hommes de Lavey"
     ],
-    "Tailleuses": [
-      "Martin Eugénie",
-      "Moudon Julie",
-      "Narbel Marguerite",
-      "Potterat Alma",
-      "Richard Lina"
+    "Téléphonistes": [
+      "Ecuyer Edmond",
+      "Pasche Ed."
     ],
-    "Téléphoniste": [
-      "Forestier Ernest"
+    "Vins (march. de)": [
+      "Chesaux Lucien",
+      "Pasche Ed. fils"
     ],
-    "Vigneron": [
-      "Bussy Edouard"
-    ],
-    "Divers": [
-      "de Stieteneron Ed."
-    ],
+    "Voituriers-charretiers": [
+      "Deladoey Théophile",
+      "Guillat Edouard",
+      "Jaquemet Jean",
+      "Pasche Ed. fils"
+    ]
+  },
+  "LEYSIN": {
     "Autorités communales": [
-      "Reymond Auguste",
-      "Corbaz Charles"
+      "Roulet Benjamin",
+      "Tacheron Jules",
+      "Genier Alfred",
+      "Dr de Reynier",
+      "Neveu Alfred",
+      "Perret Marcel",
+      "Rufenacht Emile",
+      "Dulex Pierre",
+      "Tauxe Marius",
+      "Bezançon",
+      "Hillebrand Marcel"
     ],
-    "Syndic": [
-      "Favrat Charles"
+    "Affichage": [
+      "Soc. générale d'affichage"
     ],
-    "Municipaux": [
-      "Diserens Oscar",
-      "Bezençon Gust.",
-      "Delacrausaz Ls.",
-      "Mermier Paul"
+    "Assesseur de la justice de paix": [
+      "Antoine Jules"
     ],
-    "Secrétaire": [
-      "Reymond Louis"
+    "Bureau officiel de renseignements": [
+      "Riant-Chalet"
     ],
-    "Boursier": [
-      "Pache Louis"
+    "Agents d'affaires patentés": [
+      "CHABLOZ CH."
     ],
-    "Huissier": [
-      "Porchet Aug."
-    ],
-    "Appareilleurs-électriciens": [
-      "Béboux Chs",
-      "Nicolas Maurice",
-      "Reymond Emile"
-    ],
-    "Associations mutualistes de retraite": [
-      "Reymond M."
+    "Agents de police": [
+      "Bezançon Henri",
+      "Ischer Henri",
+      "Ansermet Gustave",
+      "Rossire Arnold"
     ],
     "Agriculteurs": [
-      "Beeri Maurice",
-      "Blanc-Potterat",
-      "Blanc Alfred",
-      "Chollet Alfred",
-      "Chapuis Eugène",
-      "Diserens Oscar",
-      "Favrat Ernest",
-      "Favrat Frs",
-      "Favrat Gustave",
-      "Favrat Louis",
-      "Martin Ed., hoirie",
-      "Pache Gustave",
-      "Pache Vincent",
-      "Pache-Delacrausaz Emile",
-      "Regamey Henri",
-      "Rouge Henri"
+      "Dufresne Aug.",
+      "Dupertuis Emile",
+      "Genier Alfred",
+      "Krumel Louis",
+      "Maricot Alfred",
+      "Maricot Paul",
+      "Neveu Auguste",
+      "Tauxe Arthur",
+      "Tauxe Georges",
+      "Tauxe Jean",
+      "Tauxe Paul",
+      "Tauxe-Dufresne Alfred",
+      "Vaudroz-Humbert Eug.",
+      "Vaudroz-Massard",
+      "Vaudroz Paul",
+      "Warpelin Jean",
+      "Warpelin Gustave"
     ],
-    "Aubergistes": [
-      "Chavan Paul",
-      "Gerber Frédéric",
-      "Jotterand Georges",
-      "Viquerat-Curchod Marius"
+    "Ameublements": [
+      "Hurter, dame"
     ],
-    "Blanchisseuses": [
-      "Blanc Julia",
-      "Chapuis & Junod",
-      "Corbaz sœurs",
-      "Genicoud"
+    "Appareilleurs": [
+      "Cordey Ulrich",
+      "Eisenberg Elie",
+      "Scheiwein Jean"
     ],
-    "Bouchers-charcutiers": [
-      "Baumgartner Robert",
-      "Béboux Ernest",
-      "Blanc Charles",
-      "Porchet Auguste",
-      "Regamey Henri"
+    "Architectes": [
+      "Kuhn R.",
+      "Panchaud Edmond"
     ],
-    "Boulangeries": [
-      "Déglon Henri",
-      "Diserens Robert",
-      "Meister Jacques"
+    "Assurances": [
+      "La Zurich",
+      "Comptoir d'Escompte de Genève",
+      "La Genevoise (vie)"
     ],
-    "Charpentiers": [
-      "Kammermann Emile",
-      "Michon Eug.",
-      "Pache Charles & Marcel",
-      "Pasche Alf."
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Jeanloz"
     ],
-    "Charrons": [
-      "Béboux Charles",
-      "Delacrétaz Maurice",
-      "Nicolas Maurice",
-      "Regamey Louis"
+    "Automobiles": [
+      "Favre César",
+      "Gassmann frères",
+      "Peytregnet Fernand",
+      "Stäubli Jean",
+      "Vaudroz J."
     ],
-    "Cliniques": [
-      "Clinique Sylvana",
-      "Pavillon pour tuberculeux",
-      "La Sapinière",
-      "Clinique des Dailles"
+    "Bandagiste": [
+      "Roulet Benjamin"
     ],
-    "Commission scolaire": [
-      "Diserens Oscar",
-      "Mermier Paul",
-      "Reymond Louis"
+    "Banques": [
+      "Comptoir d'Escompte de Genève",
+      "Crédit Foncier Vaudois",
+      "Barroud-Mottier Eugène"
     ],
-    "Entrepreneurs": [
-      "Monti-Pache Victor",
-      "Pache Charles & Marcel"
+    "Bazars": [
+      "Bruno Julie, Vve.",
+      "Dentella Rose",
+      "Dubois & Cie",
+      "Ernst Emile",
+      "Jaccard-Schmitz G.",
+      "Grand Bazar du Village",
+      "Bazar Excelsior, Nock-Haeberli Bruno",
+      "Raabe Max.",
+      "Sunier Pauline"
     ],
-    "Fourches et rateaux (fab. de)": [
-      "Goumaz Louis"
+    "Bière (dépôt de)": [
+      "Besse Alfred",
+      "Castella Paul"
     ],
-    "Garde-forêts": [
-      "Pache Gustave"
+    "Bijoutiers": [
+      "Biland Olga",
+      "Martin Hortense",
+      "Merlin-Zaugg A."
+    ],
+    "Blanchisseries": [
+      "Buanderie du Feydey",
+      "Burnier Gabriel",
+      "Chevalley-Nuesch Clara",
+      "Krumel Ls",
+      "Luty-Junod",
+      "Noeding-Knebel",
+      "Seitz, dame",
+      "Treina, Mme.",
+      "Viglino B."
+    ],
+    "Bois (march. de)": [
+      "Riehen E. et Cie",
+      "Tauxe Jean",
+      "Tauxe Georges",
+      "Scierie des Ergères",
+      "Vaudroz Marie"
+    ],
+    "Bonneterie": [
+      "Lüscher Th."
+    ],
+    "Bouchers": [
+      "Dupertuis Marcel",
+      "Maricot Paul",
+      "Suter E.-Ch."
+    ],
+    "Boulangers": [
+      "Besse Louis",
+      "Boulangerie Moderne, S. A.",
+      "Dufresne Jules",
+      "Schägerl Aloïs",
+      "Trittibach Otto"
     ]
   }
 }

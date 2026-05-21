@@ -1,233 +1,114 @@
 {
-  "LA SARRAZ": {
-    "Médecin": [
-      "Curchod Henri",
-      "Dr Rochat Paul",
-      "Dr Reist Willy"
+  "Montreux": {
+    "Mercerie": [
+      "Maison de Tricots, Knitting House, (S. A.)",
+      "Malera M., dame",
+      "Margot A. & C.",
+      "Minola Marcel",
+      "Mury Louise",
+      "Raemy-Merlin Anna",
+      "Rambert Marie",
+      "Rothfeld-Bapst Anne",
+      "Rusillon Louise",
+      "Schmocker Jean",
+      "Schüpbach F.",
+      "Stebler Elise",
+      "Talon-Duplan Mme",
+      "Tuscher Ernest",
+      "Vuerchoz, dame",
+      "Vuitel Marie-Louise",
+      "Whitley William",
+      "Zurcher-Heimgartner"
     ],
-    "Menuisiers-ébénistes": [
-      "Chauvet frères",
-      "Crozet",
-      "Desmeules Théophile",
-      "Isely André",
-      "Marchand Victor"
+    "Mesureur-juré du Cercle.": [
+      "Aellen S."
     ],
-    "Meuniers": [
-      "Chabloz L. & Co"
+    "Meubles de bureaux.": [
+      "Gardel Alfred"
     ],
-    "Modiste": [
-      "Velay Amélie-Charlotte"
+    "Meubles.": [
+      "Albini N.",
+      "Altorfer Ed.",
+      "Berger A.",
+      "Buzzi",
+      "Despland Gust.",
+      "Dunker",
+      "Held Albert & Cie, Menuiserie Modèle",
+      "Henchoz",
+      "Martin G.-R.",
+      "Pope H.-G.",
+      "Suter Louis",
+      "Tabord M.",
+      "Viquerat A.",
+      "Wolfer Auguste"
     ],
-    "Notaire": [
-      "Delacuisine Edouard"
+    "Meubles en jonc.": [
+      "Société anonyme de Produits en rotin",
+      "Hurbin Henri",
+      "Messmer Albert",
+      "Messmer id."
     ],
-    "Officier d'état civil": [
-      "Delacuisine E."
+    "Meunier.": [
+      "Dizerens L."
     ],
-    "Organiste": [
-      "Ogiz Marika, Mlle."
+    "Modistes.": [
+      "Beck, Mlle",
+      "Chalons Madeleine",
+      "Dutoit-Depallens, dame",
+      "Fémina-Modes, W. Jablonski",
+      "Hermann-Fuhrer Emma",
+      "Jaccard Germaine",
+      "Jonneret F.",
+      "Le Claire Laure",
+      "Maison Jeanne",
+      "Matthey, Mme",
+      "Meier Catherine",
+      "Moos Jeanne",
+      "Rambert Marie",
+      "Rieder, Mme",
+      "Sera, Mlle",
+      "Schüpbach F.",
+      "Stetter Hélène",
+      "Taroni J, dame",
+      "Tridondani Jacynthe",
+      "Walther Henry & Cie., S. A.",
+      "Wertheimer-Bloch P."
     ],
-    "Pasteurs": [
-      "Brasseler Louis",
-      "Bonnard Fritz"
+    "Musique (magasins de).": [
+      "Drabsch L.",
+      "Fœtisch frères, S. A.",
+      "Räuber frères",
+      "Strauer H."
     ],
-    "Peintre en voitures": [
-      "Vallotton Hri."
-    ],
-    "Pharmacien": [
-      "Anselmier Rob."
-    ],
-    "Pisciculture": [
-      "Knebel Jean"
-    ],
-    "Poêliers-fumistes": [
-      "Bouverat Albert",
-      "Kaeser Albert",
-      "Velay Henri"
-    ],
-    "Poste, télégraphe et téléphone": [
-      "Michaud Alfred",
-      "Bonzon Gust.",
-      "Schmidt Rod."
-    ],
-    "Sage-femme": [
-      "Guignard Blanche"
-    ],
-    "Selliers-tapissiers": [
-      "Kervand Alfred",
-      "Penseyres Alfred",
-      "Penseyres Rob. fils"
-    ],
-    "Serruriers": [
-      "Bouverat Albert",
-      "Kaeser Albert",
-      "Velay Henri"
-    ],
-    "Sociétés": [
-      "d'agriculture de La Sarraz",
-      "de fromagerie",
-      "Caisse de Crédit Mutuel du Cercle",
-      "Les Joyeux Cyclistes",
-      "La Sarraz Sports et Art",
-      "du tennis",
-      "Instrumentale",
-      "Orchestre",
-      "Gymnastique",
-      "de tir aux Armes de Guerre",
-      "Abbaye des Carabiniers",
-      "de tir La Nouvelle Cartouche",
-      "Syndicat agricole",
-      "Section de la Croix-Bleue",
-      "Chœur d'hommes",
-      "Tanneries de La Sarraz S. A."
-    ],
-    "Tailleurs": [
-      "Meyer Jean"
-    ],
-    "Tailleuses": [
-      "Bærtschi-Cuhat Louisa",
-      "Collet Louise"
-    ],
-    "Tannerie": [
-      "Tanneries de La Sarraz S. A."
-    ],
-    "Teinturerie (dépôts de)": [
-      "Cuhat Hri",
-      "Hirzer Vve",
-      "Marchand V.",
-      "Meyer Jean"
-    ],
-    "Téléphone public": [
-      "Guignard Jean"
-    ],
-    "T. S. F": [
-      "Huguenin Maurice"
-    ],
-    "Toilerie": [
-      "Cuhat Henri",
-      "Knebel Ch.",
-      "Rossi Victor"
-    ],
-    "Vélos": [
-      "Baudraz Paul",
-      "Jaccard Jules"
-    ],
-    "Vétérinaire": [
-      "Vacat."
-    ],
-    "Vins (marchands de)": [
-      "Koch J.",
-      "Petitpierre S. A.",
-      "Rossi Victor",
-      "Schopfer Edm.",
-      "Thélin Charles fils"
-    ],
-    "Voituriers": [
-      "Besson Henri",
-      "Jaccard Jules",
-      "Rochat Jules",
-      "Stebler Henri"
-    ],
-    "Divers": [
-      "Chabloz Edmond",
-      "Demée",
-      "Faessler B.",
-      "Scholten Ed.",
-      "Vontobler Henri"
-    ]
-  },
-  "L'ISLE": {
-    "Président du Conseil communal": [
-      "Vacat."
-    ],
-    "Vice-président": [
-      "Cloux Walther"
-    ],
-    "Secrétaire": [
-      "Bernard Fernand",
-      "Vulliens Jules"
-    ],
-    "Syndic": [
-      "Favre L.-Aimé"
-    ],
-    "Municipaux": [
-      "Bernard Gustave",
-      "Jousson Auguste",
-      "Cloux-Capt Ele",
-      "Cloux Adrien",
-      "Faillettaz Hri",
-      "Desponds Ch."
-    ],
-    "Boursier": [
-      "Falquet Auguste"
-    ],
-    "Huissier": [
-      "Gruaz Charles"
-    ],
-    "Commission scolaire": [
-      "Jousson Auguste",
-      "Bernard Gustave",
-      "Cloux Walther",
-      "Gruaz-Bennett",
-      "Chautems Paul"
-    ]
-  },
-  "La Coudre": {
-    "Agriculteurs": [
-      "Baudat Louis",
-      "Cloux Walther",
-      "Cloux-Freymond",
-      "Cloux, hoirie de Pierre",
-      "Cloux Lucien"
-    ],
-    "Amodiateur": [
-      "Rochat Emile"
-    ],
-    "Bétail (march. de)": [
-      "Ueltschi Armand"
-    ],
-    "Cafetier": [
-      "Rochat William"
-    ],
-    "Charpentier": [
-      "Jousson, hoirs de John-Henri"
-    ],
-    "Epicerie": [
-      "Bertoni"
-    ],
-    "Inspecteur du bétail": [
-      "Cloux Walther"
-    ],
-    "Institutrice": [
-      "Renaud Hélène"
-    ],
-    "Laitier": [
-      "Jousson Auguste"
-    ],
-    "Maçon": [
-      "Bertoni P."
-    ],
-    "Pension d'été": [
-      "Gruaz Henri"
-    ],
-    "Poste": [
-      "Cloux Walther"
-    ],
-    "Société": [
-      "de fromagerie"
-    ],
-    "Téléphoniste": [
-      "Cloux Ch., dame"
-    ]
-  },
-  "Villars-Bozon": {
-    "Agriculteurs": [
-      "Desponds Ch.",
-      "Faillettaz Gve",
-      "Faillettaz Henri",
-      "Longchamp Ls",
-      "Martin-Gruaz",
-      "Strasser Willy"
+    "Musique (prof. de).": [
+      "Académie de musique, G. Vuille-Helbing, Dr",
+      "Conservatoire de Montreux, de Ribaupierre Dr",
+      "Bard Isabelle",
+      "Bopp Ed.",
+      "Bopp id.",
+      "Bopp-Sarot D., Mme",
+      "Champion René",
+      "Collomb-Dutoit Florence",
+      "Combe, Mme et Mlle",
+      "Cossard-Leland A.",
+      "de Ribaupierre, Mlle",
+      "de Ribaupierre Emile",
+      "Feustel-Mamin",
+      "Furer Robert",
+      "Held Thécla",
+      "Hillært Th.",
+      "Lengobardi Alphonse",
+      "Lowicki Boris",
+      "Malera-Tauxe, Mme",
+      "Otto Odette",
+      "Pelottieri Oscar",
+      "Serieyx Aug.",
+      "Stanley-Wise",
+      "Stocker R.-Hedwige",
+      "Sutermeister Sophie",
+      "Sutermeister H.",
+      "Waldever-Wendling Mad.",
+      "Wötzel R."
     ]
   }
 }

@@ -1,235 +1,178 @@
 {
-  "BELMONT-SUR-LAUSANNE": {
-    "Sociétés": [
-      "de laiterie. R.",
-      "de développement",
-      "du poids public",
-      "Fusiliers de Belmont.",
-      "Chant La Concorde",
-      "Tir aux armes de guerre",
-      "d'agriculture. R.",
-      "Union chrétienne de jeunes gens",
-      "de musique « L'Avenir »"
+  "LAVEY-MORCLES": {
+    "Maréchal": [
+      "Vurlod Charles",
+      "Bocherens Jules"
     ],
-    "Téléphoniste": [
-      "Mage Jean"
-    ]
-  },
-  "CHESEAUX": {
+    "Menuisier": [
+      "Kohly Jean"
+    ],
+    "Officier d'état civil": [
+      "Amiguet Js"
+    ],
+    "Pasteur": [
+      "Savary Pierre",
+      "de la Harpe Henri"
+    ],
+    "Pensions": [
+      "Hôtel Gryon-Bellevue",
+      "Pension Bois-Gentil",
+      "Hôtel de la Poste",
+      "Hôtel Beau-Séjour (anc. pension Morel)",
+      "Pens. du Chalet",
+      "Pension des Pars",
+      "Pension Bois-Gentil",
+      "Pension Broyon",
+      "Pension des Sapins",
+      "Pension d'enfants"
+    ],
+    "Sage-femme": [
+      "Anex Hélène",
+      "Jordan-Cherix, dame"
+    ],
+    "Scierie": [
+      "Kohly Jean"
+    ],
+    "Sociétés": [
+      "Chœur d'hommes",
+      "Syndicat agricole",
+      "Société des forces motrices de l'Avançon",
+      "Société de laiterie",
+      "Société des carrières de pierres",
+      "Société de crédit mutuel",
+      "Syndicat d'élevage de la race porcine, caprine, ovine",
+      "Société d'embellissement",
+      "Société de tir Argentine",
+      "Le Renard argenté"
+    ],
+    "Tailleurs": [
+      "Amiguet Aug.",
+      "Verboven Joseph"
+    ],
+    "Tapissier": [
+      "Anex François"
+    ],
+    "Télégraphiste et téléphoniste communal": [
+      "Henry Ernest"
+    ],
+    "Thé-café-chocolat": [
+      "Anex Henri",
+      "Saussaz Louise"
+    ],
     "Autorités communales": [
-      "Joyet Ami",
-      "Regamey Maurice",
-      "Cottier Henri",
-      "Ponnaz Henri",
-      "Puthod Maurice",
-      "Rochat Aug.",
-      "Binggeli Hri fils",
-      "Peytrequin Constant",
-      "Fonjallaz Ed."
+      "Berthoud Louis",
+      "Jaquet Charles",
+      "Pasche François",
+      "Chesaux Albert",
+      "Ecuyer Edmond",
+      "Guillat Charles",
+      "Jordan Henri",
+      "Pasche Edouard, fils",
+      "Deslex Louis"
     ],
     "Agriculteurs": [
-      "Bezençon Gustave",
-      "Châtelard.",
-      "Bieri Rod.",
-      "Binggeli Hri feu F.",
-      "Binggeli Hri",
-      "Binggeli Louis",
-      "Binggeli Samuel",
-      "Bolomey Marcel",
-      "Borgeaud Alfred",
-      "Burli William",
-      "Cottier Hri",
-      "Cottier Fernand",
-      "Delacuisine Albert",
-      "Delacuisine Alfred",
-      "Delacuisine Ami",
-      "Duperret Hermann",
-      "Emery Alf.",
-      "Emery Const.",
-      "Emery Louis",
-      "Favre Louis. T.",
-      "Fleury Louis",
-      "Gringet Henri",
-      "Hämmerli J.",
-      "Henrioud Robert",
-      "Joyet Charles",
-      "Joyet Ami",
-      "Joyet Emile",
-      "Joyet Eugène",
-      "Joyet Léonard",
-      "Joyet Ls ff. Jean",
-      "Michon Aug. et Fern.",
-      "Petit Ct. T.",
-      "Peytrequin Osc.",
-      "Perrochon Chs",
-      "Regamey Aug.",
-      "Regamey Edouard",
-      "Regamey Maurice",
-      "Rochat Auguste",
-      "Thuillard Alfred",
-      "Troyon Ami",
-      "Troyon Robert",
-      "Zehnder."
+      "Ballay Emile",
+      "Berney François",
+      "Bioley, hoirie",
+      "Bonzon François",
+      "Chesaux Albert",
+      "Chesaux Aimé",
+      "Chesaux-Darbellay",
+      "Chesaux Gabriel",
+      "Deladœy Théophile",
+      "Deslex Alph.",
+      "Evard Alfred",
+      "Gandet Claude",
+      "Guillat Edouard",
+      "Jacquemet Jean",
+      "Jordan Félix",
+      "Jordan Joseph",
+      "Pasche Ed.",
+      "Pochon Joseph",
+      "Ponnaz Henri",
+      "Wœffray Louis"
     ],
-    "Aubergistes": [
-      "Binggeli Charles",
-      "Monnier Emile",
-      "Porchet Constant"
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Société mutualiste de retraite"
     ],
-    "Boisselier": [
-      "Chapuis G."
+    "Assurance-Grêle cantonale": [
+      "Chesaux Albert"
     ],
-    "Charrons": [
-      "Cevey John",
-      "Magnenat Georges."
+    "Bains": [
+      "Grand Hôtel"
     ],
-    "Charpentier": [
-      "Regamey Constant."
+    "Blanchisseuse": [
+      "Chesaux Marguerite"
     ],
-    "Chef de gare": [
-      "Jauslin Edouard. T."
+    "Bois (march. de)": [
+      "Chesaux Albert"
+    ],
+    "Boulanger": [
+      "Chollet Charles"
+    ],
+    "Bureaux des postes": [
+      "Mlle Cottet",
+      "Chesaux Aimée"
+    ],
+    "Cafés-restaurants et pensions": [
+      "Chesaux Lucien",
+      "Croset-Gay",
+      "Grischting Théodule",
+      "Ecuyer Edmond",
+      "Pasche Edouard"
+    ],
+    "Commandant du feu": [
+      "Jordan Félix"
     ],
     "Commission scolaire": [
-      "Müller Francis",
-      "Joyet Charles"
+      "Buffat Henri",
+      "Michoud Adrien",
+      "Pasche Ed., fils",
+      "Jordan Henri",
+      "Chesaux Aimée, Mlle"
+    ],
+    "Cordonnier": [
+      "Chesaux Auguste"
+    ],
+    "Couturières": [
+      "Kaufmann Rose",
+      "Mme Sidler"
+    ],
+    "Entrepreneur": [
+      "Ecuyer Edmond",
+      "Gritti Angelo"
     ],
     "Epiceries": [
-      "Binggeli Charles",
-      "Bolomey",
-      "Vve de Louis. R.",
-      "Puthod-Clerc Léa."
+      "Bonvin Joseph",
+      "Deslex Alphonse",
+      "Montangero",
+      "Société de consommation"
     ],
-    "Ferblantier": [
-      "Blanchet Henri."
+    "Fortifications": [
+      "Hausamann",
+      "Klunge",
+      "Major Weber Otto",
+      "Major Long Constant",
+      "Colonel de Cocatrix"
     ],
-    "Huilerie": [
-      "Thonney Auguste."
+    "Hôtels et pensions": [
+      "Etablissement thermal cantonal de Lavey",
+      "Hôtel de Morcles",
+      "Pension-rest. des Fortifications",
+      "Hôtel-pension"
     ],
     "Inspecteur du bétail": [
-      "Gringet Henri."
+      "Jordan Félix"
     ],
     "Instituteurs": [
-      "Fonjallaz Edouard",
-      "Reymond Berthe."
-    ],
-    "Maçon": [
-      "Barialti Salvator."
-    ],
-    "Maréchal": [
-      "Wyss Louis-David."
+      "Berthoud Louis",
+      "Jaquemet Isabelle",
+      "Ogay Roger",
+      "Berthoud Marcelle"
     ],
     "Médecin": [
-      "Rivier Paul. T."
-    ],
-    "Moulin": [
-      "Pasche Ernest. RT."
-    ],
-    "Pasteurs": [
-      "Bersier Emile",
-      "Muller Francis"
-    ],
-    "Poste": [
-      "Emery Albert. T."
-    ],
-    "Rentier": [
-      "Ponnaz Henri."
-    ],
-    "Scieur": [
-      "Thonney Aug."
-    ],
-    "Sociétés": [
-      "Immobilière de Cheseaux. R.",
-      "Laiterie. R."
-    ],
-    "Tailleuses": [
-      "Epitaux Alice et Jeanne",
-      "Groux Julie",
-      "Mercanton Rose",
-      "Sahli Lina."
-    ],
-    "Téléphoniste": [
-      "Peytrequin Jenny."
-    ]
-  },
-  "CRISSIER": {
-    "Autorités communales": [
-      "Folner Maurice",
-      "Brun Samuel",
-      "Bovay Adrien",
-      "Rawyler Edouard",
-      "Bussy Ernest",
-      "Chautems Jules",
-      "Blondel Alb.",
-      "Blanc Marcel",
-      "Bussy Henri. T."
-    ],
-    "Agent de police": [
-      "Freiss Albert."
-    ],
-    "Agriculteurs": [
-      "Blondel Emile",
-      "Blondel Franc.",
-      "Bovey Adrien",
-      "Bovay Emile",
-      "Bussy Alfred",
-      "Bussy Henri",
-      "Cordey Marcel",
-      "Dind Gustave",
-      "Petit Albert",
-      "Rawyler Edouard",
-      "Richard Edouard",
-      "Richard Lucien."
-    ],
-    "Apiculteurs": [
-      "Blondel Emile",
-      "Demont François."
-    ],
-    "Appareilleur": [
-      "Huguet A. T."
-    ],
-    "Architecte": [
-      "Blanc Marcel."
-    ],
-    "Mutualité scolaire de retraite": [
-      "Bussy F."
-    ],
-    "Battoirs à grains": [
-      "Rochat Aug. R.",
-      "Vittoz John."
-    ],
-    "Boulangers": [
-      "Rochat Jules",
-      "Würsten Ed."
-    ],
-    "Bureau de poste": [
-      "Bussy Charles."
-    ],
-    "Cafés": [
-      "Cerottini",
-      "Henry Paul",
-      "Cevey-Favre",
-      "Weibel Verena. R."
-    ],
-    "Carrons et tuyaux en ciment (fab. de)": [
-      "Rod & Cie. T."
-    ],
-    "Charpentier": [
-      "Lauener Fritz. RT."
-    ],
-    "Charron": [
-      "Meylan E."
-    ],
-    "Commission scolaire": [
-      "Folner Maurice",
-      "Mayor",
-      "Bussy Henri",
-      "Blondel Robert",
-      "Bovay Ad."
-    ],
-    "Entrepreneurs": [
-      "Baudrocco Igino",
-      "Bobba frères T.",
-      "Magistri Bernard."
+      "Petitpierre Laurent"
     ]
   }
 }

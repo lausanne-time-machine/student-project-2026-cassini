@@ -1,232 +1,229 @@
 {
-  "VUARRENS": {
-    "Municipaux": [
-      "Sauvageat Aimé",
-      "Guex Alexis",
-      "Huguenet Marius",
-      "Perret Héli",
-      "Besson Alfred",
-      "Bovay Louis",
-      "Buffat Emile",
-      "Brot Jules",
-      "Piot Alfred",
-      "Thonney Alfred"
+  "BELMONT-SUR-YVERDON": {
+    "Associations mutualistes de retraite": [
+      "Clerc Ed."
     ],
-    "Boursier": [
-      "Viret Arthur",
-      "Buffat Héli"
+    "Bois (marchand de)": [
+      "Grin Louis"
     ],
-    "Secrétaire": [
-      "Viret Ls",
-      "Jaccaud Louis",
-      "Magnenat Albert"
-    ],
-    "Huissier": [
-      "Viret Fernand",
-      "Tardy Aimé"
-    ],
-    "Agriculteurs": [
-      "Dufour Héli-Oscar",
-      "Huguenet Victor",
-      "Jaccaud Auguste",
-      "Jaccaud Jules",
-      "Jaccaud frères",
-      "Mange Louis",
-      "Möry G.",
-      "Perret Héli",
-      "Viret Aimé",
-      "Viret Alfr.",
-      "Viret Ernest-Elie",
-      "Viret Héli",
-      "Viret Pierre-Elie",
-      "Barbey Constant",
-      "Barbey Héli",
-      "Besson Alfred",
-      "Besson Ern.",
-      "Besson Ls",
-      "Blanc Ls",
-      "Bovay Ls",
-      "Brot Const.",
-      "Brot Emile",
-      "Brot Fritz",
-      "Brot Georges",
-      "Brot William",
-      "Buffat Auguste-Louis",
-      "Buffat Alphonse",
-      "Buffat Charles",
-      "Buffat Edouard",
-      "Buffat Emile",
-      "Buffat Eugène",
-      "Buffat Jean",
-      "Buffat John",
-      "Buffat Julien",
-      "Buffat Jules-Samuel",
-      "Buffat Louis",
-      "Buffat Henri",
-      "Buffat Paul",
-      "Courvoisier Alfred",
-      "Courvoisier Const.",
-      "Duvoisin Ed",
-      "Favez Lucien",
-      "Fiaux Adrien",
-      "Gasser Jules",
-      "Gasser Maurice",
-      "Gonet Elie",
-      "Gonet Héli",
-      "Gonet Henri",
-      "Gonin Lucien",
-      "Jaccaud Louis",
-      "Jaton Oscar",
-      "Jaunin Ls",
-      "Kölliker Ch.",
-      "Laurent Frs-Ls",
-      "Monnier Hri",
-      "Narbel Constant",
-      "Narbel Emile",
-      "Narbel Louis",
-      "Piot Alfred",
-      "Piot Edouard",
-      "Piot Georges",
-      "Peytrequin Emile",
-      "Philippin Arthur",
-      "Schönmann Walter",
-      "Tardy Aimé",
-      "Tardy Juste",
-      "Thierry Eugène",
-      "Thierry Alfred",
-      "Thierry Paul",
-      "Thomas Fernand",
-      "Thonney Auguste",
-      "Thonney Alfred",
-      "Thonney Emile",
-      "Thuillard Ct.",
-      "Viret Alfred",
-      "Vulliamoz frères"
-    ],
-    "Auberge": [
-      "Viret William"
-    ],
-    "Buraliste postal": [
-      "Viret Hermann"
-    ],
-    "Commission scolaire": [
-      "Sauvageat Aimé",
-      "Viret Alfred",
-      "Viret Louis",
-      "Barbey Héli",
-      "Favez Lucien"
-    ],
-    "Couturière": [
-      "Cachin Emma"
-    ],
-    "Epicerie, mercerie": [
-      "Jaccaud Ed.",
-      "Sauvageat Rosa",
-      "Brot Aimé",
-      "Buffat Gustave",
-      "Magnenat Marcel"
-    ],
-    "Inspecteur du bétail": [
-      "Viret Gustave"
-    ],
-    "Instituteurs": [
-      "Pavot Arthur",
-      "Viret Adèle",
-      "Blanc Louis",
-      "Magnenat-Wölfli Marthe"
-    ],
-    "Maréchal": [
-      "Duboux Paul",
-      "Bourquin Oscar"
-    ],
-    "Menuisier": [
-      "Viret Lucien"
-    ],
-    "Scieur": [
-      "Miéville Emile"
-    ],
-    "Sociétés": [
-      "de laiterie et de fromagerie",
-      "Syndicat d'alpage",
-      "du battoir à blé",
-      "de tir",
-      "de chant",
-      "des laiteries de Vuarrens et Vuarrengel",
-      "Syndicat agricole et d'élevage",
-      "de lecture",
-      "d'agriculture",
-      "Société du pressoir"
-    ],
-    "Téléphoniste": [
-      "Viret William"
-    ],
-    "Président du Conseil général": [
-      "Barbey Héli"
-    ],
-    "Syndic": [
-      "Thierry Paul"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Blanc L."
-    ],
-    "Auto-Transports": [
-      "Magnenat Marcel"
-    ],
-    "Boulanger": [
-      "Magnenat Marcel"
-    ],
-    "Café": [
-      "Monnier Henri"
-    ],
-    "Charcuterie": [
-      "Buffat Gustave"
+    "Cafetier": [
+      "Vuillamoz Gustave"
     ],
     "Charron": [
-      "Philippin Arthur"
+      "Gauthey Henri"
     ],
-    "Chef de section": [
-      "Perret Denis"
+    "Commission scolaire": [
+      "Chevalier Jules",
+      "Dupuis Fern."
     ],
-    "Engrais chimiques": [
-      "Magnenat Albert",
-      "Magnenat Eugène"
+    "Cordonnier": [
+      "Mello Constant"
     ],
-    "Entrepreneur-maçon": [
-      "Péclard Armand"
+    "Epicerie": [
+      "Henrioud Nancy"
+    ],
+    "Fourches et râteaux (fab. de)": [
+      "Loup Eugène"
     ],
     "Inspecteurs du bétail": [
-      "Brot Fritz",
-      "Besson L."
+      "Grin Julien",
+      "Martin Jean"
     ],
-    "Juge": [
-      "Ducret Charles"
+    "Inspecteur des viandes": [
+      "Dupuis Fernand"
     ],
-    "Assesseurs": [
-      "Jaunin Héli",
-      "Mercier Emile",
-      "Barbey Héli",
-      "Stoudmann Edouard"
+    "Instituteurs": [
+      "Clerc Ed.",
+      "Clerc Marguerite"
     ],
-    "Greffier": [
-      "Wagnière Gustave"
+    "Justice de paix du cercle": [
+      "Pitton Henri",
+      "Henry Victor",
+      "Carrel Jules",
+      "Pellaux Armand",
+      "Vulliamoz Gustave",
+      "Burla Maurice"
     ],
-    "Laitiers": [
-      "Roulier Julien",
-      "Stauffer Jean"
+    "Laitier": [
+      "Gurtner Samuel"
     ],
-    "Officier d'état civil": [
-      "Buffat Eugène"
+    "Lingères": [
+      "Gauthey Julie",
+      "Rossier Elise",
+      "Tacheron Louise"
     ],
-    "Pasteur": [
-      "Wanner Th."
+    "Officier d'Etat civil": [
+      "Jaccoud Maur."
     ],
-    "Tailleuses": [
-      "Péclard Louisa",
-      "Perrin Emma"
+    "Porcs (march. de)": [
+      "Henrioud Charles"
+    ],
+    "Poste": [
+      "Henrioud Roger"
+    ],
+    "Sociétés": [
+      "de laiterie de Belmont. R.",
+      "de laiterie du Villaret. R.",
+      "du battoir à blé",
+      "d'agriculture. R.",
+      "du Poids public",
+      "d'assurance du bétail",
+      "Syndicat d'assainissement des marais",
+      "Grin John.",
+      "Le Chœur d'hommes"
+    ],
+    "Tailleur": [
+      "Meylan"
     ],
     "Téléphone": [
-      "Auberge communale",
-      "Laiterie de Vuarrengel"
+      "Dépôt des postes"
+    ]
+  },
+  "BIOLEY-MAGNOUX": {
+    "Autorités communales": [
+      "Pahud Alfred",
+      "Groux Marcel",
+      "Pahud Robert",
+      "Pahud Sam.",
+      "Perey Armand",
+      "Groux Constant",
+      "David Louis",
+      "Duruz Edouard",
+      "Burnand Fernand",
+      "Pahud William",
+      "Groux Marcel"
+    ],
+    "Agriculteurs": [
+      "Burnand Alfred",
+      "Burnand Ulysse",
+      "Curchod Edmond",
+      "David François",
+      "David Victor",
+      "Duruz Jules",
+      "Groux Alfred",
+      "Groux Constant",
+      "Groux Marcel",
+      "Groux Paul",
+      "Jaquiéry Henri",
+      "Kunz Fr.",
+      "Maire frères",
+      "Pahud Alfred",
+      "Pahud Denis",
+      "Pahud Gustave",
+      "Pahud Paul",
+      "Pahud Robert",
+      "Pahud Emile. T.",
+      "Perey Louis",
+      "Vuagniaux Arthur"
+    ],
+    "Aubergiste": [
+      "Favrod Henri. T."
+    ],
+    "Bois (comm. de)": [
+      "Perey Armand"
+    ],
+    "Charpentier": [
+      "Pahud Héli"
+    ],
+    "Commission scolaire": [
+      "Pahud William",
+      "Groux Constant",
+      "Burnand Ulysse"
+    ],
+    "Epiceries": [
+      "Groux Alphonse",
+      "Pahud Eugénie"
+    ],
+    "Forgeron": [
+      "Duruz Edouard"
+    ],
+    "Inspecteur du bétail": [
+      "Groux Constant"
+    ],
+    "Instituteurs": [
+      "Aubert Paul",
+      "Vuagniaux-Pahud Aline"
+    ],
+    "Menuisier": [
+      "Pahud Emile"
+    ],
+    "Poste": [
+      "Pahud William"
+    ],
+    "Scierie": [
+      "Perey Armand"
+    ],
+    "Sociétés": [
+      "de laiterie. R.",
+      "Tir aux armes de guerre. R.",
+      "Moulin agricole. R.",
+      "Battoir à grain. R.",
+      "Bibliothèque",
+      "Assurance du bétail bovin",
+      "Syndicat d'élevage. R."
+    ],
+    "Téléphoniste": [
+      "Pahud Eugénie"
+    ]
+  },
+  "CHAMBLON": {
+    "Autorités communales": [
+      "Cornu Louis",
+      "Ogay Philippe",
+      "Porchet Auguste. T.",
+      "von Gunten Jules",
+      "Cornu Ernest",
+      "Tétaz Emile",
+      "Rindlisbacher Adolphe",
+      "Thévenaz Georges",
+      "Martinet Adrien"
+    ],
+    "Agriculteurs": [
+      "Bangerter Gottfried",
+      "Besson Ulysse",
+      "Chevalley Emile",
+      "Ogay Philippe",
+      "Pilloud André",
+      "Rindlisbacher Adolphe"
+    ],
+    "Assurance cantonale contre l'incendie": [
+      "Porchet Aug. T."
+    ],
+    "Mutualité scolaire de retraite": [
+      "Thévenaz G."
+    ],
+    "Café": [
+      "Meister Anna"
+    ],
+    "Commission scolaire": [
+      "Cornu Ernest",
+      "J. von Gunten"
+    ],
+    "Inspecteur du bétail": [
+      "Martinet Adr."
+    ],
+    "Instituteur": [
+      "Thévenaz Georges"
+    ],
+    "Jardinier-fleuriste": [
+      "von Gunten Jules et fils"
+    ],
+    "Pépiniériste": [
+      "von Gunten Jules"
+    ],
+    "Sociétés": [
+      "de laiterie. R.",
+      "du battoir à blé. R.",
+      "de tir"
+    ],
+    "Téléphone": [
+      "Porchet Aug."
+    ],
+    "Viticulteur": [
+      "Porchet Auguste"
+    ],
+    "Usine de pompage de l'eau pour Yverdon": [
+      "Genier C."
     ]
   }
 }

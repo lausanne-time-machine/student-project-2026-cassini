@@ -1,143 +1,248 @@
 {
-  "VILLETTE": {
-    "Téléphonistes": [
-      "Farner Alfred",
-      "Dufour Vincent",
-      "Piccard Julia",
-      "Moille Margot"
-    ],
-    "Président du Conseil général": [
-      "Parisod Henri"
-    ],
-    "Secrétaire": [
-      "Forney Lucien",
-      "Giroud Jean-Louis"
-    ],
-    "Syndic": [
-      "Testuz Henri"
-    ],
-    "Municipaux": [
-      "Parisod Ernest",
-      "Dance Adolphe",
-      "Giroud Henri",
-      "Cuénoud Robert"
-    ],
-    "Boursier": [
-      "Giroud Henri"
+  "CONSTANTINE": {
+    "Agriculteurs": [
+      "Loup Auguste",
+      "Loup-Bessard Léon",
+      "Loup Louis",
+      "Loup-Monney Léon",
+      "Martin Eugène",
+      "Monnier Charles",
+      "Parisod Aimé",
+      "Pauli Rodolphe",
+      "Thomet Ernest",
+      "Tuscher Charles-Marc",
+      "Wullième Edmond",
+      "Wullième Gabriel"
     ],
     "Mutualité scolaire de retraite": [
-      "Jaques G."
+      "Margot E."
     ],
-    "Bricelets (fabr. de)": [
-      "Widmer Jean"
+    "Cafetier": [
+      "Parisod - Freiburghaus Léon"
     ],
-    "Cafés": [
-      "Chollet Ernest",
-      "Hegg Henri"
-    ],
-    "Charron": [
-      "Cuénoud Ernest"
+    "Commerce de bétail": [
+      "Eberhart Fritz"
     ],
     "Commission scolaire": [
-      "Desfayes Hri",
-      "Dance Adolphe",
-      "Dovat Ernest"
+      "Hug Henri",
+      "Graf E.",
+      "Parisod Aimé"
     ],
-    "Conservateur du R. F.": [
-      "Parisod H."
+    "Entrepreneurs en bâtiments": [
+      "Ramella & Cie"
     ],
-    "Cordonnier": [
-      "Gillard Oscar"
-    ],
-    "Epiceries, boulangeries": [
-      "Bovard Antoinette",
-      "Henchoz Alexis",
-      "Porta Charles"
+    "Epicerie": [
+      "Gentizon-Loup Léon"
     ],
     "Inspecteur du bétail": [
-      "Cuénoud Robert"
+      "Gentizon Auguste"
     ],
     "Instituteur": [
-      "Jaques Gustave"
+      "Margot Edouard"
     ],
-    "Lingère": [
-      "Amaudruz Louise"
+    "Laitier": [
+      "Kunz Fritz"
     ],
-    "Maraîcher": [
-      "Pavillard Louis"
+    "Maison de repos": [
+      "Asile de Constantine"
     ],
-    "Menuisier": [
-      "Bastian Alfred"
+    "Médecin": [
+      "Graf E."
     ],
-    "Pêcheur": [
-      "Parisod Henri"
+    "Officier d'état civil": [
+      "Bessat Jules"
+    ],
+    "Pasteur": [
+      "Hug Henri"
+    ],
+    "Pionnier": [
+      "Gentizon Robert"
+    ],
+    "Propriétaire": [
+      "Hubert Henri"
     ],
     "Sociétés": [
-      "Fromagerie « Espérance »",
-      "Chœur mixte",
-      "de jeunesse"
+      "de laiterie",
+      "Moulin agricole"
     ],
-    "Téléphone": [
-      "Chollet Ernest",
-      "Hegg Henri"
-    ],
-    "Vignerons": [
-      "Brossy",
-      "Béboux Aug.",
-      "Cardinaux Vincent",
-      "Chollet Auguste",
-      "Dance Adolphe",
-      "Dance Constant",
-      "Desfayes Henri",
-      "Desfayes Vincent",
-      "Détraz Constant",
-      "Forney Louis",
-      "Gorjat Henri",
-      "Grandjean François",
-      "Joly Aimé",
-      "Margairaz Marcel",
-      "Noverraz, Vve de Const.",
-      "Noverraz Henri",
-      "Parisod Ernest",
-      "Parisod Ch.",
-      "Piccard Emile",
-      "Piccard Aloïs",
-      "Porta Bernard",
-      "Porta Louis",
-      "Riccard Louis",
-      "Testuz Ch.",
-      "Testuz Paul"
-    ],
-    "Vins (et bouteilles)": [
-      "Desfayes Vincent"
+    "Téléphoniste": [
+      "Parisod-Freiburghaus Olga"
     ]
   },
-  "DISTRICT DE MORGES": {
-    "Préfet": [
-      "Cuérel Alfred"
+  "CUDREFIN": {
+    "Autorités communales": [
+      "Gutknecht Ernest",
+      "Richard Paul"
     ],
-    "Substitut": [
-      "Serex Charles"
+    "Syndic": [
+      "Vassaux Alfred"
     ],
-    "Receveur": [
-      "Cuénod Aloïs"
+    "Municipaux": [
+      "Richard Henri",
+      "Mosimann Maurice",
+      "Desaules Ernest"
     ],
-    "Conservateur du registre foncier": [
-      "Piguet Marius"
+    "Boursier": [
+      "Treyvaud Georges"
     ],
-    "Voyer du IIe arrondissement": [
-      "Burnier Paul"
+    "Secrétaire": [
+      "Vassaux Lucien",
+      "Richard Paul"
     ],
-    "Tribunal de district": [
-      "Pilet Ed.",
-      "Allamand-Colomb Louis",
-      "Bonzon Louis",
-      "Buenzod Benjamin",
-      "Magnollay Auguste",
-      "Gonvers Ernest"
+    "Agriculteurs": [
+      "Barth Fritz",
+      "Barth frères",
+      "Blaser Frédéric",
+      "Christinat Eugène",
+      "Cornaz Ernest",
+      "Crisinel Charles",
+      "Fontanellaz Roger",
+      "Gutknecht Ernest",
+      "Jaunin Paul",
+      "Milliet Fritz",
+      "Mosimann frères",
+      "Mosimann Ele",
+      "Reuille Emile",
+      "Reuille J.-J.",
+      "Reuille Marcel",
+      "Richard Emile",
+      "Richard Heni",
+      "Richard Paul",
+      "Treyvaud Ed.",
+      "Treyvaud Marie",
+      "Tschannen Jean",
+      "Vacheron Charles",
+      "Vassaux Alf.",
+      "Vassaux Lucien",
+      "Vassaux Samuel"
     ],
-    "Poursuites et faillites": [
-      "Druey Edouard"
+    "Assurances": [
+      "Nicod Emile"
+    ],
+    "Associations mutualistes de retraite": [
+      "Corthésy J."
+    ],
+    "Aubergistes": [
+      "Bardet-Donnier",
+      "Hôtel de Ville",
+      "Cachin Daniel"
+    ],
+    "Bétail (march. de)": [
+      "Gränicher Kurt",
+      "Richard Jean"
+    ],
+    "Bouchers": [
+      "Christinat Ernest",
+      "Gränicher Kurt",
+      "Joseph Félix"
+    ],
+    "Boulanger": [
+      "Richard Georges"
+    ],
+    "Charpentiers": [
+      "Baumann Arthur",
+      "Baumann Fritz"
+    ],
+    "Charrons": [
+      "Bucher Gustave",
+      "Kaufmann Willy",
+      "von Gunten Edouard"
+    ],
+    "Chef de section": [
+      "Treyvaud Paul"
+    ],
+    "Combustibles": [
+      "Thoutberger Ern."
+    ],
+    "Commission scolaire": [
+      "Vassaux Alf.",
+      "Gutknecht Ernest",
+      "Treyvaud Ls",
+      "Enz Max",
+      "Vassaux Samuel"
+    ],
+    "Cordonniers": [
+      "Bertolini Guillaume",
+      "Haenggeli Fréd.",
+      "Vassaux Robert"
+    ],
+    "Entrepreneurs": [
+      "Thoutberger & Etter"
+    ],
+    "Epicerie, mercerie": [
+      "Richard Georges"
+    ],
+    "Fabrique de meubles": [
+      "Hoffer Emile"
+    ],
+    "Fourrages": [
+      "Richard Henri"
+    ],
+    "Ferblantier": [
+      "Magnin Auguste"
+    ],
+    "Huilier": [
+      "Vassaux Samuel"
+    ],
+    "Inspecteur du bétail": [
+      "Richard Louis"
+    ],
+    "Instituteurs": [
+      "Corthésy Jean",
+      "Courvoisier Jean",
+      "Treyvaud Maria"
+    ],
+    "Jardiniers": [
+      "Guinand Henri",
+      "Steiner Jean"
+    ],
+    "Justice de paix du cercle": [
+      "Loup René",
+      "Delorme Paul",
+      "Grandjean Bern.",
+      "Monney-Vessaz Charles",
+      "Vessaz Emile",
+      "Nicod-Matthey Emile"
+    ],
+    "Laitiers": [
+      "Gerber & Cie"
+    ],
+    "Machine à battre": [
+      "Vassaux & Cie"
+    ],
+    "Maréchaux": [
+      "Kaufmann Willy",
+      "Matthey Arn."
+    ],
+    "Meunier": [
+      "Blaser Fritz"
+    ],
+    "Officier d'état-civil": [
+      "Treyvaud Paul"
+    ],
+    "Pasteur": [
+      "Basset Emmanuel"
+    ],
+    "Pensionnat de jeunes gens": [
+      "Nicod-Matthey Emile"
+    ],
+    "Photographe": [
+      "Nicod-Matthey E."
+    ],
+    "Rentier": [
+      "de Perrot Fréd."
+    ],
+    "Scieur": [
+      "Baumann Arthur"
+    ],
+    "Sellier": [
+      "Richard Louis"
+    ],
+    "Sociétés": [
+      "de laiterie",
+      "d'agriculture",
+      "du battoir à grain",
+      "Chœur d'hommes"
     ]
   }
 }

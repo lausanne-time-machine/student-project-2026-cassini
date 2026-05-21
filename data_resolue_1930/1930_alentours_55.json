@@ -1,118 +1,231 @@
 {
-  "VILLE DE MORGES": {
-    "Ferblantiers-couvreurs": [
-      "Hugonnet Louis père",
-      "Richard frères",
-      "Rohr Edouard"
+  "Ville de Cossonay": {
+    "Poudre et munitions (débit de).": [
+      "Monnier A."
     ],
-    "Fers et métaux": [
-      "Rieben Emile",
-      "Vuffray Ernest; Mme"
+    "Quincaillerie.": [
+      "Curchod Ad. T.",
+      "Dénéréaz frères. RT.",
+      "Monnier Albert. R."
     ],
-    "Fondeurs": [
-      "Salathé Emile"
+    "Relieur.": [
+      "Beyeler Rodolphe."
     ],
-    "Fontainiers": [
-      "Rohr Edouard"
+    "Sage-femme.": [
+      "Rochat-Neuschwander, dame."
     ],
-    "Fourrages et paille": [
-      "Serex Charles"
+    "Scierie.": [
+      "Bähni Victor"
     ],
-    "Fromages": [
-      "Grande Laiterie",
-      "Jacquemettaz Emile",
-      "Kernen frères",
-      "Metzker Justin"
+    "Selliers-tapissiers.": [
+      "Grob et fils",
+      "Zimmermann Ch."
     ],
-    "Garde-malades": [
-      "Brunner, Mme",
-      "Merminod E."
+    "Serrurier-appareilleur.": [
+      "Bernard Rod.",
+      "Furrer Emile"
     ],
-    "Gaz (gérant du)": [
-      "Lambert Edouard",
-      "Perusset Jules"
+    "Sociétés.": [
+      "Société des Amis du district de Cossonay. R.",
+      "Funiculaire C.-G. R.",
+      "Casino. R.",
+      "Fromagerie d'Alens. R.",
+      "Fromagerie de Cossonay. R.",
+      "des usines de la Venoge. R.",
+      "Caisse d'épargne. R.",
+      "Orchestre",
+      "Corps de musique de la Ville",
+      "La Chorale",
+      "Section de la Croix-Bleue",
+      "immobilière",
+      "féd. de gymnastique",
+      "Battoir à blé .R.",
+      "Féd. agricole vaudoise (société coopérative). R.",
+      "Coopérative de consommation de Cossonay-Gare. R.",
+      "Syndicat pour l'amélioration du bétail bovin",
+      "Syndicat chevalin du Pied du Jura.",
+      "vaudoise d'agriculture",
+      "Amélioration du petit bétail",
+      "Syndicat d'élevage porcin",
+      "Section d'éclaireurs",
+      "Immobilière du Château."
     ],
-    "Geôlier": [
-      "Pasche Louis"
+    "Tailleurs.": [
+      "Dénéréaz frères. RT.",
+      "Girardet Ch.",
+      "Rod Lucien-Ch."
     ],
-    "Géomètres brevetés": [
-      "Bonnaz M.",
-      "Buchet Louis",
-      "Jaton Alfred & fils"
+    "Tailleuses.": [
+      "Bernard-Chanson",
+      "Borel Rose",
+      "Burnand-Desponds Marguerite",
+      "Corday, Vve",
+      "Desponds Marthe",
+      "Motta Olga",
+      "Peter Emilie",
+      "Reymond Yvonne",
+      "Savary-Monnard Olga."
     ],
-    "Gérants": [
-      "Chappuis P.",
-      "Bovard Julien",
-      "Cuénod Eugène",
-      "Jaquinet Adolphe",
-      "Kindler C.",
-      "Ratatz Ami",
-      "Reymond A."
+    "Téléphones publics.": [
+      "Sauser Emile"
     ],
-    "Grains et farines": [
-      "Favre Albert",
-      "Jaccoud & Cie",
-      "Perrin Jules"
+    "Tonnelier.": [
+      "Grieder Arn. RT."
     ],
-    "Graines fourragères et potagères": [
-      "Dupraz Constant",
-      "Ravay-Favre B.",
-      "Serex Ch., fils",
-      "Société Coopérative de Consommation",
-      "Tschirren Hermann"
+    "Vannerie.": [
+      "Dénéréaz frères. RT.",
+      "Monnier Albert. RT."
     ],
-    "Graisses et huiles alimentaires et industrielles": [
-      "Von Auw & Cie",
-      "Vve Jean von Auw & fils",
-      "Redard & Cie, S. A."
+    "Vélos.": [
+      "Blanc Aloïs. RT.",
+      "Meystre Emile",
+      "Séchaud Louis."
     ],
-    "Graveur": [
-      "Martin E."
+    "Vétérinaires.": [
+      "Liardet J. T.",
+      "Stalder Henri. T."
     ],
-    "Gypsiers": [
-      "Chiocca J.",
-      "Demenga R.",
-      "Guala Albert",
-      "Laffely-Grisel",
-      "Magada Louis",
-      "Motta Pierre",
-      "Pittet Louis",
-      "Valzino Michel"
+    "Vins (march. de).": [
+      "Dénéréaz frères. RT.",
+      "Miéville Emile. RT."
     ],
-    "Horlogers": [
-      "Golaz F.",
-      "Golaz Emile",
-      "Lecoultre H.",
-      "Margot J.",
-      "Wuilleumier Lucien"
+    "Voituriers.": [
+      "Cœytaux Louise, Vve",
+      "Müller Henri."
+    ]
+  },
+  "BETTENS": {
+    "Président du Conseil général": [
+      "Gachet Eugène"
     ],
-    "Hôtels": [
-      "Bock-Falb Georges",
-      "Decarmine Pierre",
-      "Goumaz E.",
-      "Steffen Aloïs",
-      "Schmidt Louis"
+    "Secrétaire": [
+      "Clavel Georges.",
+      "Boulard Henri"
     ],
-    "Huilerie": [
-      "Jaccoud & fils"
+    "Syndic": [
+      "Fontannaz Héli."
     ],
-    "Huissiers": [
-      "Tappi Héli",
-      "Grossen Jean",
-      "Poyet Samuel",
-      "Pasche Louis"
+    "Municipaux": [
+      "Freymond Constant",
+      "Magnin Louis",
+      "Fontannaz Jules",
+      "Dubrit Georges"
     ],
-    "Imprimeurs": [
-      "Lavanchy Edouard",
-      "Trabaud François",
-      "Maibach Ernest"
+    "Boursier": [
+      "Grussel Ernest."
     ],
-    "Infirmerie": [
-      "Rue des Pâquis"
+    "Agriculteurs.": [
+      "Dubrit Georges",
+      "Freymond Constant",
+      "Gachet frères",
+      "Magnin Louis."
     ],
-    "Inspecteurs du bétail": [
-      "Dottrens Louis",
-      "Serex Ch."
+    "Associations mutualistes de retraite.": [
+      "Mabille A."
+    ],
+    "Aubergiste.": [
+      "Peyrolaz Adrien. R."
+    ],
+    "Bétail (march. de).": [
+      "Gachet Eug. R."
+    ],
+    "Commission scolaire.": [
+      "Dessemontet",
+      "Magnin Louis",
+      "Grussel Ernest"
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Cœytaux Alfred. RT.",
+      "Gachet Marie"
+    ],
+    "Fermiers.": [
+      "Dubrit Ernest."
+    ],
+    "Inspecteur du bétail.": [
+      "Clavel Const."
+    ],
+    "Instituteurs.": [
+      "Mabille Adrien",
+      "Clavel Rosa."
+    ],
+    "Maréchal.": [
+      "Schiffmann Charles."
+    ],
+    "Poste.": [
+      "Jaquier Georges"
+    ],
+    "Sociétés.": [
+      "Caisse Raiffeisen. R.",
+      "de la machine à battre. R.",
+      "Syndicat agricole. R."
+    ],
+    "Tailleuses.": [
+      "Clavel-Chamot, Rosa",
+      "Peyrolaz Aimée."
+    ],
+    "Téléphoniste.": [
+      "Gachet Marie"
+    ],
+    "Vaches (march. de).": [
+      "Gachet Eug."
+    ]
+  },
+  "BOURNENS": {
+    "Président du Conseil général": [
+      "Grivel Charles"
+    ],
+    "Secrétaire": [
+      "Vindayer Charles.",
+      "Piot Georges"
+    ],
+    "Syndic": [
+      "Rossier Louis."
+    ],
+    "Municipaux": [
+      "Bocion Louis",
+      "Porchet Ernest",
+      "Rossier Ch.",
+      "Simond Paul"
+    ],
+    "Boursier": [
+      "Bocion Louis"
+    ],
+    "Huissier": [
+      "Porchet William."
+    ],
+    "Agriculteurs.": [
+      "Bocion Ami",
+      "Bocion Robert",
+      "Bocion Victor",
+      "Borgaud hoirie d'E.",
+      "Dubrit Henri",
+      "Grivel frères",
+      "Magnenat David",
+      "Pache Emile",
+      "Pache Ernest",
+      "Parchet Ernest",
+      "Rossier Charles",
+      "Rossier Louis",
+      "Simond Auguste."
+    ],
+    "Mutualité scolaire de retraite.": [
+      "Destraz M."
+    ],
+    "Aubergiste.": [
+      "Rochat Edward"
+    ],
+    "Charpentiers.": [
+      "Blanchoud Adrien",
+      "Mory Casimir."
+    ],
+    "Charron.": [
+      "Porchet Henri."
+    ],
+    "Commission scolaire.": [
+      "Piot Georges."
+    ],
+    "Epicerie.": [
+      "Bocion-Piot."
     ]
   }
 }

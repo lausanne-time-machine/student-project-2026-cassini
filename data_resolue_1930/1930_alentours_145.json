@@ -1,163 +1,102 @@
 {
-  "Ville d'Orbe": {
-    "Sociétés": [
-      "Société foncière d'Orbe",
-      "» de gymnastique « Jeunes Pa-",
-      "» « Foot-ball Club »",
-      "» « Tennis Club »",
-      "» du gaz d'Orbe",
-      "» de Secours mutuels Helvétia (section)",
-      "» vaudoise de Secours mutuels (section)",
-      "» des Vaudoises",
-      "Section de la Croix-Bleue",
-      "» de l'Espoir"
+  "Ville de Morges": {
+    "Bûcherons.": [
+      "Cruchon Jules",
+      "Gruaz L. & fils"
     ],
-    "Tabacs et cigares.": [
-      "Bourgeois Clémence",
-      "Capt Louis",
-      "Conod A.",
-      "Dupuis-Jaton Adèle",
-      "Gudit Julia",
-      "Jaques Eugène",
-      "Ramelet Emile"
+    "Cafés.": [
+      "Besson F.",
+      "Bezençon-Duboux R.",
+      "Bock-Falb Georges",
+      "Hilpert Rosa, Vve",
+      "Bourgeois Charles",
+      "Chammartin A.",
+      "Chaney Catherine",
+      "Decarmine Pierre",
+      "Goumaz Edouard",
+      "Jaccard-Pasche, Vve",
+      "Jotterand Méry, Vve",
+      "Mariot Robert",
+      "Moraz Emile",
+      "Salathé-Kirschmann Marie",
+      "Schmidt Louis",
+      "Steffen A.",
+      "Straub-Gilliard M.",
+      "Thévenot Jean-Marie",
+      "Thévoz-Dind Gustave",
+      "Zbinden A."
     ],
-    "Tailleurs.": [
-      "Bricchi Charles",
-      "Nicolin Jules",
-      "Ramelet Emile"
+    "Cafés sans alcool.": [
+      "Guidoux-Despland"
     ],
-    "Tanneurs": [
-      "Schwille, Vve de Charles"
+    "Cafés torréfiés.": [
+      "Demaurex Frères",
+      "Redard & Cie.",
+      "Société Kaiser"
     ],
-    "Tapissiers:": [
-      "Combe-Hützner Louis",
-      "Duvoisin Charles",
-      "Gourbach Charles",
-      "Tallichet Alfred"
+    "Carrelages.": [
+      "Morisetti Silvio"
     ],
-    "Téléphone public.": [
-      "Bureau du télégraphe"
+    "Carrossiers.": [
+      "Jaccoud Georges",
+      "Leder Alfred",
+      "Scheidegger Louis",
+      "Rochat Gustave"
     ],
-    "Tonnelier:": [
-      "Erni Adolphe",
-      "Krebs Emile"
+    "Cercle.": [
+      "Cercle de l'Avenir"
     ],
-    "Tricot à la machine.": [
-      "Chevalier M."
+    "Cercueils.": [
+      "Arnold Edmond",
+      "Nicolier Jules"
     ],
-    "Vélos.": [
-      "Auberson Henri",
-      "Grandjean Jules",
-      "Pidoux & Miauton"
+    "Chapeliers.": [
+      "Bloch, les fils",
+      "Meyer Sylvain",
+      "Piccard Ernest",
+      "Reymond-Duflon Ch.",
+      "Vernet-Bernard Clémence, Vve"
     ],
-    "Vérificateur des poids et mesures": [
-      "Huber Rodolphe"
+    "Charbon, coke, houille, anthracite.": [
+      "Bettex Justin",
+      "Duperrex Paul",
+      "Grobéty & Cie",
+      "Jaccoud & fils",
+      "Société coopérative",
+      "Thury François",
+      "Usine à gaz",
+      "Oppliger François"
     ],
-    "Vétérinaires.": [
-      "Charles Jean",
-      "Develey C."
+    "Charcutiers.": [
+      "Balimann Franz",
+      "Gehri René",
+      "Jeanrenaud Georges",
+      "Käsermann Louis",
+      "Metzker Justin",
+      "Neuhaus Henri",
+      "Perrin Robert"
     ],
-    "Vins (march. de).": [
-      "Demaria Ch.",
-      "Kundig A."
+    "Charpentiers.": [
+      "Blanchard Charles",
+      "Blanchard Henri & fils",
+      "Manera Ant. & fils"
     ],
-    "Violon (maîtresses de)": [
-      "Dériaz, Dlle",
-      "Lambert, Dlle"
+    "Charrons.": [
+      "Kocher Charles",
+      "Rochat Gust.",
+      "Scheidegger Louis"
     ],
-    "Vitrier.": [
-      "Wenger Emile"
+    "Chaussures (mag. de).": [
+      "Bloch, les fils",
+      "Chaussures modernes S. A.",
+      "Christinet P.",
+      "Cuendet Joseph",
+      "Fessler E. fils & Cie",
+      "Meyer Sylvain",
+      "Schmoll Alfred"
     ],
-    "Voituriers.": [
-      "Dupuis Justin",
-      "Tallichet Henri",
-      "Testori Ange"
-    ],
-    "Divers.": [
-      "Barraud-Roth J.",
-      "Cuénod B.",
-      "Dupuis E.",
-      "Lambert M.",
-      "Schaffner Ch.",
-      "Turtaz Jules",
-      "Turtaz L., Dlle",
-      "Streit J.",
-      "Cornaz R.",
-      "Decollogny R.",
-      "Stappung E.",
-      "Fornerod R.",
-      "Ducraux F.",
-      "Raccoursier H."
-    ]
-  },
-  "L'ABERGEMENT": {
-    "Président du Conseil général": [
-      "Besse Paul"
-    ],
-    "Secrétaire": [
-      "Meylan William",
-      "Meylan Jules"
-    ],
-    "Syndic": [
-      "Grasset Louis"
-    ],
-    "Municipaux": [
-      "Meylan Maurice",
-      "Meylan Camille",
-      "Gauthey Fern.",
-      "Pinard Ami"
-    ],
-    "Boursier": [
-      "Crausaz Albert"
-    ],
-    "Huissier": [
-      "Paux Auguste"
-    ],
-    "Agriculteurs.": [
-      "Besse Eug.",
-      "Braillard Jules",
-      "Briod",
-      "Chevalier Ls",
-      "Conod Ulysse",
-      "Crausaz Charles",
-      "Gauthey frères",
-      "Gauthey Louis",
-      "Gauthey Ulysse",
-      "Grasset Louis",
-      "Habegger Albert",
-      "Herbez Henri",
-      "Jaccard Fritz",
-      "Jaccard Jules",
-      "Magnin Emile",
-      "Meylan Alb.",
-      "Meylan William",
-      "Meylan Maurice",
-      "Paux Auguste",
-      "Paux Jules",
-      "Paux Louis",
-      "Pinard Ami",
-      "Roy"
-    ],
-    "Amodiateurs.": [
-      "Pinard frères"
-    ],
-    "Aubergistes.": [
-      "Gaillard Edmond",
-      "Herbez Jules"
-    ],
-    "Bois (march. de).": [
-      "Vuillerminaz Camille"
-    ],
-    "Charpentier.": [
-      "Gaillard Ami"
-    ],
-    "Commission scolaire.": [
-      "Paux Louis",
-      "Paux Auguste",
-      "Meylan Jules"
-    ],
-    "Cordonnier.": [
-      "Paux Eugène"
+    "Chaussures (produits d'entretien)": [
+      "Furmoto & Solitaire, S. A."
     ]
   }
 }

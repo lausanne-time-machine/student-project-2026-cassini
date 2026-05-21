@@ -1,233 +1,228 @@
 {
-  "CHAMPVENT": {
-    "Président du Conseil général": [
-      "Chautems John"
+  "APPLES": {
+    "Divers.": [
+      "lière. R.",
+      "Musique Echo du Chêne.",
+      "Electrique d'Aubonne",
+      "Girod Olivier",
+      "Vignes d'Aubonne. R.",
+      "Section de la Croix-Bleue",
+      "Cercle de l'Amitié. R.",
+      "La Chorale",
+      "gymn. hommes et gymn. Fédérale",
+      "Chêne Foot-Ball Club",
+      "Syndicat d'élevage. R.",
+      "Bains publics. R.",
+      "Chœur de dames",
+      "Bretagne Marc-Antoine",
+      "Burnet C.",
+      "Burnet F.",
+      "Chomton Olivier",
+      "Crinsoz, Vve d'E.",
+      "de Mestral Henri",
+      "Gavre Aug.",
+      "Félix Eug.",
+      "Liardet Lina, Veuve",
+      "Magnenat Louis",
+      "Moënnat Henri",
+      "Moinat Ch.",
+      "Rochat Paul",
+      "de Tscharner Elisa",
+      "Vautier Alfred",
+      "Zimmer Emma"
     ],
-    "Secrétaire": [
-      "Chautems Camille",
-      "Branche Louis"
+    "Tabacs et cigares.": [
+      "Cruchon Alfred",
+      "Chappuis Robert. T.",
+      "Dallenbach Théophile",
+      "Frey-Grosjean Olive",
+      "Lincio Alfred. T.",
+      "Magnenat Gustave",
+      "Martin André. RT.",
+      "Mermoud Gustave. RT.",
+      "Matthey-Stuber Berthe",
+      "Pellet Judith",
+      "Perrin Charles",
+      "Tardy Marie",
+      "Uldry Ad. RT.",
+      "Waridel Pierre. RT. 61."
     ],
-    "Syndic": [
-      "Chevalier Charles"
+    "Tailleurs.": [
+      "Cœndoz Louis",
+      "Delapierre Jules",
+      "Surbeck J., Vve."
     ],
-    "Municipaux": [
-      "Decrausaz Emile",
-      "Chautems Fernand",
-      "Chapuis Samuel",
-      "Chapuis Charles"
+    "Tapissiers.": [
+      "Caillet Jules",
+      "Hugonnet A.",
+      "Metzner-Junod. R."
     ],
-    "Boursier": [
-      "Binggeli Albert"
+    "Télégraphiste.": [
+      "Daxelhofer Octavie. T."
     ],
-    "Agriculteurs": [
-      "Branche Samuel",
-      "Chapuis Charles",
-      "Chapuis Samuel",
-      "Chautems Charles",
-      "Chautems François",
-      "Chautems Jules",
-      "Chautems Louis",
-      "Chevalier Agénor",
-      "Chevalier Chs",
-      "Decrausaz Emile",
-      "Füri Sam.",
-      "Glauser Chs-A.",
-      "Hämmerli Fritz",
-      "Hierzeler",
-      "Hodel Adolphe",
-      "Jaton Alphonse",
-      "Jeanmonod Henri",
-      "Jeanneret Paul-Numa",
-      "Kocher Fritz",
-      "Mayor Auguste",
-      "Monnier Armand",
-      "Patthey Louis",
-      "Rouiller Louis",
-      "Rouiller Lucien",
-      "Schild Gottfried",
-      "Urfer Samuel",
-      "Viret Constant"
+    "Toilerie et tissus.": [
+      "Agassis-Rochat E. R.",
+      "Nerfin Paul. RT."
     ],
-    "Mutualité scolaire de retraite": [
-      "Liardon A."
+    "Tonneliers.": [
+      "Lædermann Alexis",
+      "Serex Louis",
+      "Winkelmann Emile."
     ],
-    "Société mutualiste de retraite": [
-      "Rouiller Edm."
+    "Vélocipèdes.": [
+      "Cuendet D. R.",
+      "Durussel Georges",
+      "Wehrly Jn. T"
     ],
-    "Aubergistes": [
-      "Chautems Charles"
+    "Vétérinaire.": [
+      "Trottet Etienne. T."
     ],
-    "Bétail (march. de)": [
-      "Hierzeler Ch."
+    "Vins (nég. en).": [
+      "Association viticole",
+      "Favre Auguste. R.",
+      "Loup Ls"
+    ],
+    "Voituriers.": [
+      "Chevalier F. RT."
+    ],
+    "Autorités communales.": [
+      "Besson Jaques. T.",
+      "Nicod Edouard.",
+      "Decollogny-Paschoud Henri. T.",
+      "Decollogny Robert",
+      "Meldem Jules",
+      "Baud Fernand",
+      "Fazan Henri.",
+      "Pantet Alfred",
+      "Jotterand Ls"
+    ],
+    "Agriculteurs.": [
+      "Baud Ch. T.",
+      "Baud Louis. T.",
+      "Besson Adrien. T.",
+      "Bourcoud Emile",
+      "Cochet Adrien",
+      "Cochet John",
+      "Champendal Hri",
+      "Decollogny Samuel",
+      "Devenoge frères",
+      "Dubois Ch.",
+      "Dubois Jules",
+      "Fazan Ed. T.",
+      "Fazan Henri",
+      "Fazan Maurice",
+      "Fazan Robert",
+      "Goy Constant",
+      "Lüthy Gottlob",
+      "Mingard Charles",
+      "Meldem frères",
+      "Oeschli Gottfried",
+      "Rochat frères."
+    ],
+    "Apiculteurs.": [
+      "Amaron Alois. T.",
+      "Baud William",
+      "Besson Adrien. T.",
+      "Besson Jacq. T.",
+      "Decollogny Henri",
+      "Delessert Ami",
+      "Henriod L. fils. T.",
+      "Zwahlen Ed."
+    ],
+    "Appareilleurs.": [
+      "Carlin Désiré. RT.",
+      "Estoppey-Marti Vict. RT.",
+      "Rochat John."
+    ],
+    "Architecte.": [
+      "Hepp C. T."
+    ],
+    "Assurance-vieillesse Associations mutualistes de retraite.": [
+      "Nicod E."
+    ],
+    "Aubergistes.": [
+      "Cavin-Vallon Aimé. R.",
+      "Fazan-Hirschy A."
     ],
     "Boulanger": [
-      "Crottaz Julie"
+      "Delacrétaz Henri."
     ],
-    "Charpentier": [
-      "Branche Louis"
+    "Buraliste postal.": [
+      "Henchoz Victor."
     ],
-    "Chef de section": [
-      "Chautems Jules"
+    "Cantonnier.": [
+      "Demont Marcel."
     ],
-    "Commission scolaire": [
-      "Branche Ls",
-      "Chautems-Chapuis Jules",
-      "Chevalier Charles"
+    "Charpentier-menuisier.": [
+      "Jotterand Louis. RT."
     ],
-    "Cordonniers": [
-      "Jeanneret Guillaume"
+    "Charrons.": [
+      "Decollogny Alfred",
+      "Henriod Louis, fils."
     ],
-    "Distillateur": [
-      "Rouiller Jules-Louis"
+    "Chaussures (march. de).": [
+      "Bourcoud M. T.",
+      "David Adalbert. T.",
+      "Lassueur W., Mme. RT."
     ],
-    "Electricité": [
-      "Société électrique des Clées"
+    "Chef de gare.": [
+      "Delessert Ami."
     ],
-    "Entrepreneur": [
-      "Lietta Salvator"
+    "Chef d'exploitation du B.-A.-M.": [
+      "Groux Emile. T."
     ],
-    "Epicerie, mercerie": [
-      "Crottaz Julie",
-      "Crottaz Albertine",
-      "Marendaz Eugène"
+    "Chef de section.": [
+      "Baud Charles. T."
     ],
-    "Garde de triage": [
-      "Junod Robert"
+    "Commission scolaire.": [
+      "Barblan",
+      "Fazan Maurice",
+      "Fazan Ed. T.",
+      "Meldem Jules",
+      "Groux Emile. T."
     ],
-    "Inspecteur du bétail": [
-      "Chautems Fernand"
+    "Cordier.": [
+      "Meldem Adrien."
     ],
-    "Instituteurs": [
-      "Liardon Adrien",
-      "Cand Juliette"
+    "Cordonnier.": [
+      "Oeschli Gottfried."
     ],
-    "Juge": [
-      "Marendaz-Roulet Edmond"
+    "Entrepreneurs.": [
+      "Mazzone Jean. T.",
+      "Méda Clément."
     ],
-    "Assesseurs": [
-      "Marendaz Paul",
-      "Porchet Auguste",
-      "Pilliard Eugène",
-      "Viguet Henri"
+    "Epicerie, mercerie, tabacs.": [
+      "Bourcoud Marcel. RT.",
+      "David Adalbert. RT.",
+      "Lassueur W., Mme. R."
     ],
-    "Greffier": [
-      "Chautems Jules"
+    "Ferblantiers.": [
+      "Carlin Désiré. RT."
     ],
-    "Maréchal": [
-      "Müller Emile"
+    "Fromages.": [
+      "Société de fromagerie d'Apples. R."
     ],
-    "Officier d’état-civil": [
-      "Burdet Alfrd"
+    "Gardes-forestiers.": [
+      "Besson Adrien. T.",
+      "Besson Jacques. T."
     ],
-    "Pasteur": [
-      "Delisle Paul"
+    "Gypsier.": [
+      "Gnerro Emile."
     ],
-    "Rentiers": [
-      "Burdet Elise",
-      "de Coppet Elise",
-      "Doxat Aymon",
-      "Chevalier de Stuers"
+    "Imprimerie.": [
+      "Clerc Julie."
     ],
-    "Sociétés": [
-      "de fromagerie",
-      "du battoir à grain",
-      "de jeunesse",
-      "de chant La Récréation",
-      "de musique l’Avenir",
-      "Section de la Croix-Bleue"
+    "Inspecteur du bétail.": [
+      "Cochet John."
     ],
-    "Tailleuse": [
-      "Chevaleir Blanche"
+    "Instituteurs.": [
+      "Bourcoud Madame",
+      "Nicod Edouard",
+      "Nicod-Chantrens Germaine",
+      "Zwahlen Ed."
     ],
-    "Téléphone": [
-      "Corset Honoré",
-      "Marendaz"
-    ],
-    "Vignerons": [
-      "Burnier Emile",
-      "Burki Ed.",
-      "Chevalier Emile",
-      "Jeanmonod Henri"
-    ]
-  },
-  "CHANÉAZ": {
-    "Président du Conseil général": [
-      "Bovay Auguste"
-    ],
-    "Secrétaire": [
-      "Bovay Louis",
-      "Bassin Paul"
-    ],
-    "Syndic": [
-      "Cornu Héli"
-    ],
-    "Municipaux": [
-      "Bovay Justin",
-      "Bovay William",
-      "Bovay Julien",
-      "Bovay Olivier"
-    ],
-    "Boursier": [
-      "Bovay William"
-    ],
-    "Agriculteurs": [
-      "Bovay Auguste",
-      "Bovay Olivier",
-      "Bovay Eugène",
-      "Bovay Louis",
-      "Bovay Maurice",
-      "Bovay William",
-      "Bovay Sylvain",
-      "Héritier Louis",
-      "Cornu Héli",
-      "Schertenleib Alcide"
-    ],
-    "Charron": [
-      "Bovay Philippe"
-    ],
-    "Commission scolaire": [
-      "Cornu Héli",
-      "Centlivres Eugène",
-      "Bovay Julien"
-    ],
-    "Epicerie": [
-      "Bovay Sylvain"
-    ],
-    "Inspecteur du bétail": [
-      "Centlivres Eugène"
-    ],
-    "Instituteurs": [
-      "Bassin Paul",
-      "Jaguier Berthe"
-    ],
-    "Menuisier": [
-      "Bovay Justin"
-    ],
-    "Poste": [
-      "Bovay Héli"
-    ],
-    "Sociétés": [
-      "de fromagerie"
-    ],
-    "Tailleur": [
-      "Bovay Jules"
-    ],
-    "Téléphoniste": [
-      "Bovay Sylvain"
-    ]
-  },
-  "CHAVANNES-LE-CHÊNE": {
-    "Président du Conseil général": [
-      "Gottraux Herb."
-    ],
-    "Secrétaire": [
-      "Breitenstein Ulysse"
-    ],
-    "Syndic": [
-      "Pochon Ulysse"
-    ],
-    "Municipaux": [
-      "Chevalley Henri"
+    "Machines à battre.": [
+      "Syndicat agricole d'Apples."
     ]
   }
 }

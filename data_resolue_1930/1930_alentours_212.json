@@ -1,112 +1,241 @@
 {
-  "Château-d'Œx": {
-    "Lingères": [
-      "Isoz-Stern Anna"
+  "COINSINS": {
+    "Propriétaires": [
+      "Burckhardt M.",
+      "Guebhart, dame",
+      "Pulver, Mme"
     ],
-    "Lingerie-soierie": [
-      "Borst-Morier Sophie",
-      "Dost-Villiger Emerentia",
-      "Gétaz Suzanne"
+    "Société": [
+      "de fromagerie de Vich et Coinsins"
     ],
-    "Machines à coudre": [
-      "Klingert A."
+    "Téléphoniste": [
+      "Magnin Charles"
+    ]
+  },
+  "COMMUGNY": {
+    "Président du Conseil général": [
+      "Polencent Ch."
     ],
-    "Marbrier": [
-      "Bordini D."
+    "Secrétaire": [
+      "Decré Marcel",
+      "Hermenjat Jacques"
     ],
-    "Maréchaux": [
-      "Burri Adrien",
-      "Hadorn Frédéric",
-      "Morier Aloïs",
-      "Morier Samuel",
-      "Mottier Vincent"
+    "Syndic": [
+      "Vulliet Louis"
     ],
-    "Masseur": [
-      "Morier Edouard"
+    "Municipaux": [
+      "Claris Georges",
+      "Decurnex Aimé",
+      "Rouge Ernest",
+      "Guichoud Charles"
     ],
-    "Matériaux de construction": [
-      "Jornayvaz Arthur",
-      "Soc. de construction H. Rosat",
-      "Turrian A. & Cie",
-      "Burnand frères"
+    "Boursier": [
+      "Decré Jules"
     ],
-    "Médecins": [
-      "Delachaux Constant",
-      "Gilliard David",
-      "Grivel Marc",
-      "de Wyss Edouard"
+    "Garde-police et huissier municipal": [
+      "Buclin Albert"
+    ],
+    "Agriculteurs": [
+      "Buclin Ernest",
+      "Burnat",
+      "Claris Charles",
+      "Decré Marcel",
+      "Decré Georges",
+      "Decré Jules",
+      "Decurnex Aimé",
+      "Fazan Charles",
+      "Golaz frères",
+      "Guignard Charles",
+      "Guichoud Philippe",
+      "Hermenjat Charles",
+      "Hermenjat frères",
+      "Hermenjat Ls.",
+      "Hoffer Ami",
+      "Kuonen Edouard",
+      "Lanz",
+      "Luquiens Louis",
+      "Luquiens Marc",
+      "Magnenat Victor",
+      "Martin frères",
+      "Pittet François",
+      "Polencent Ch.",
+      "Steffen Alfred",
+      "Steffen Gottlieb",
+      "Thomann David",
+      "Thomann Paul",
+      "Truand",
+      "Ulmann Fritz",
+      "Varonnier Ls",
+      "Vulliet Louis"
+    ],
+    "Amodiateurs": [
+      "Decré frères",
+      "Hermenjat Louis"
+    ],
+    "Aubergistes": [
+      "Lanz Alfr.",
+      "Roch"
+    ],
+    "Buraliste postal": [
+      "Moille François"
+    ],
+    "Bureau d'affaires": [
+      "Andreaea"
+    ],
+    "Charpentiers": [
+      "Rouge & fils"
+    ],
+    "Commission scolaire": [
+      "Gindraux Jules",
+      "Decré Jules",
+      "Decré Marcel"
+    ],
+    "Cordonnier": [
+      "Kamerzin Henri"
+    ],
+    "Couturières": [
+      "Fazan Jenny",
+      "Pellegrin Louise",
+      "Ravroud Amile"
+    ],
+    "Entrepreneurs": [
+      "Rouge Théoph. & fils"
+    ],
+    "Epiceries": [
+      "Scheublin Ch.",
+      "Schmidt Alfred"
+    ],
+    "Inspecteurs du bétail": [
+      "Claris Charles",
+      "Hermenjat Charles"
+    ],
+    "Instituteurs": [
+      "Ogay Robert",
+      "Blazer dame"
+    ],
+    "Laiterie": [
+      "Pittet François"
+    ],
+    "Limes (aiguiseur de)": [
+      "Kohler Fréd."
+    ],
+    "Maréchal": [
+      "Wehrli Louis"
     ],
     "Menuisiers": [
-      "Cottier Ami",
-      "Cicognani",
-      "Gétaz Ch. fils",
-      "Häfeli Paul",
-      "Moll",
-      "Soc. de construction H. Rosat",
-      "Turrian Alexis",
-      "Wehren Edm."
+      "Rouge & fils"
     ],
-    "Mercerie": [
-      "Chabloz",
-      "Chapalay Marie",
-      "Gétaz Susanne",
-      "Gonset-Henrioud, S. A.",
-      "Henchoz-Clavel Alfred E."
+    "Pasteur": [
+      "Gindraux J.-A."
     ],
-    "Modistes": [
-      "Borst Sophie",
-      "Gonset-Henrioud, S. A."
+    "Rentiers": [
+      "Andréaë Arnold",
+      "Decré Jules",
+      "Grivel Louis",
+      "Hermenjat Louisa",
+      "Kraft Charles, père",
+      "Monnerat C., Vve",
+      "Natural Henri",
+      "Pidoux J."
     ],
-    "Musique (instruments de)": [
-      "Juvet Charles-Emile",
-      "Klingert Marie-Louise",
-      "Morier Charles-Ami"
+    "Scieur": [
+      "Gauthey Oscar"
     ],
-    "Notaires": [
-      "Favrod-Coune Charles, fils",
-      "Paschoud Eugène",
-      "Rossier Ernest"
+    "Sociétés": [
+      "de la fromagerie de Commugny",
+      "Société des Eaux Commugny-Myes"
     ],
-    "Officier d'état-civil": [
-      "Morier-Genoud Philippe"
+    "Téléphone": [
+      "Dépôt des postes"
     ],
-    "Opticien": [
-      "Juvet Charles-Emile",
-      "Perret René"
+    "Divers": [
+      "Andreae, Dr.",
+      "Golaz C., Mme",
+      "Guichoud Charles",
+      "Loup, Mme",
+      "Maier-Archinard E.",
+      "Thomann P.",
+      "Marnex"
+    ]
+  },
+  "COPPET": {
+    "Président du Conseil général": [
+      "Bréthaut Roger"
     ],
-    "Pasteurs": [
-      "Curtet Charles",
-      "Grenier Paul",
-      "Jaccard Paul",
-      "Maillard Frédéric",
-      "Porret Pierre"
+    "Secrétaire": [
+      "Gilliéron Roger",
+      "Velen Julien"
     ],
-    "Pensions d'étrangers": [
-      "Berthod P., Mme",
-      "Borgeaud, Mme.",
-      "Clausen, Mlles",
-      "Chabloz A. & A.",
-      "de Kænel, Vve d'Ami",
-      "Demont A.",
-      "Droz Maurice",
-      "Ehrat E.",
-      "Favre, Mlle",
-      "Juvet Charles-Emile, Prima-Flora.",
-      "Lea Violet. Mme",
-      "Lecoultre, Mlle.",
-      "Mollien Ernest",
-      "Grand Hôtel, S. A., Indergand A., dir.",
-      "Mottier Ernest",
-      "Pension Morier, Rosat Samuel, propr.",
-      "Pension Victoria, S. Roch-Henchoz.",
-      "Rayroud Louise",
-      "Passard & Bullet",
-      "Hôtel de l'Ours, Gossweiler Ch.",
-      "Widmer-Creux"
+    "Syndic": [
+      "Collioud Marc"
     ],
-    "Pharmaciens": [
-      "Gétaz Charles-Emile",
-      "Lavanchy Charles-Jules"
+    "Municipaux": [
+      "Baierlé Marc",
+      "Meylan Adr.",
+      "Antonietti Humbert",
+      "Mayor Henri",
+      "Bory Robert",
+      "Mercier Edmond"
+    ],
+    "Boursier": [
+      "Tillmann Charles"
+    ],
+    "Agriculteurs": [
+      "Collioud Marc",
+      "Duvillard Arnold",
+      "Duvillard Eugène",
+      "Déléamont Alfred",
+      "Martin François"
+    ],
+    "Assesseur": [
+      "Baierlé Emile"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Roulet C."
+    ],
+    "Auberges et cafés": [
+      "Dura Paul",
+      "Cretenoud",
+      "Muller Eugène",
+      "Vallotton"
+    ],
+    "Boucher": [
+      "Widmer Jean"
+    ],
+    "Boulangers": [
+      "Anken René",
+      "Wyden Fl."
+    ],
+    "Broderies-dentelles": [
+      "Grandchamp Jane"
+    ],
+    "Buraliste postal": [
+      "Favre Ernest"
+    ],
+    "Carrossier": [
+      "Steiner F."
+    ],
+    "Charpentiers-menuisiers": [
+      "Favre E.",
+      "Michard Jean-Louis"
+    ],
+    "Charron": [
+      "Steiner F."
+    ],
+    "Chef de station": [
+      "Deléderrev"
+    ],
+    "Coiffeur": [
+      "Velen Julien"
+    ],
+    "Combustibles": [
+      "Bertoncini Paul",
+      "Steiner Fritz"
+    ],
+    "Commission scolaire": [
+      "Baierlé Marc",
+      "Velen Julien",
+      "Tillmann Charles"
     ]
   }
 }

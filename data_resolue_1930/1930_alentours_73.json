@@ -1,198 +1,225 @@
 {
-  "LULLY": {
-    "Autorités communales": [
-      "Chevillard Ulysse",
-      "Mingard Robert",
-      "Ogay Alfred",
-      "Bally Robert",
-      "Chabloz Auguste",
-      "Jacot Ch.",
-      "Solliard Constant",
-      "Flaction Jules",
-      "Chabloz Auguste"
-    ],
+  "Ville d'Echallens": {
     "Agriculteurs": [
-      "Blanchard Emmanuel",
-      "Chabloz Aug.",
-      "Châtelain Alfr.",
-      "Chevillard Ulysse",
-      "Desplands Oscar",
-      "Devillard Alexis",
-      "Duc Marcel",
-      "Dupuis Chs",
-      "Jacot Chs",
-      "Mingard Robert",
-      "Mutzenberg François",
-      "Ogay Alfred",
-      "Petit Henri",
-      "Pidoux Edmond",
-      "Schärer Gottlieb",
-      "Solliard Constant",
-      "Solliard Jules-Rodolphe",
-      "Petit Fernand"
+      "Pittet Marcel",
+      "Pittet Pierre",
+      "Richoz Ant. T.",
+      "Thibaud Clément"
     ],
-    "Aubergiste": [
-      "Cochet Gustave"
+    "Assurances.": [
+      "La Suisse"
     ],
-    "Charron": [
-      "Rogivue, Vve & fils"
+    "Assurance-vieillesse.": [
+      "Société mutualiste de retraite",
+      "Pache E."
     ],
-    "Commission scolaire": [
-      "Chabloz Auguste",
-      "Petit Ernest"
+    "Assurances (agences d')": [
+      "La Genevoise",
+      "Planchoud Hri",
+      "Assurance cantonale contre la grêle",
+      "Longchamps Ls"
     ],
-    "Epicerie": [
-      "Tissot Jean"
+    "Autos.": [
+      "Markert Louis",
+      "Pittet Valentin"
     ],
-    "Inspecteur du bétail": [
-      "Chevillard Ul."
+    "Banques.": [
+      "Banque cantonale vaudoise",
+      "Maccaud Ls",
+      "Crédit Yverdonnois",
+      "Veyre",
+      "Union vaudoise du crédit",
+      "Pittet Gustave"
     ],
-    "Institutrice": [
-      "Genton Nelly"
+    "Bestiaux (march. de).": [
+      "Brochon Jules",
+      "Magnenat Jules",
+      "Jordan Eugène",
+      "Jordan Julien",
+      "Maccaud Emile",
+      "Pittet Auguste",
+      "Pittet Pierre",
+      "Seligmann Benoît",
+      "Thibaud Clément",
+      "Vernaz Ami"
     ],
-    "Maréchal": [
-      "Rogivue Ch."
+    "Bière (dépôt de).": [
+      "Devolz Gustave",
+      "brasser. du Cardinal"
     ],
-    "Mécanicien": [
-      "Rogivue Ch."
+    "Bijoutier.": [
+      "Courvoisier Hermann"
     ],
-    "Poste": [
-      "Petermann Henriette, Vve."
+    "Blanchisseuses.": [
+      "Gartmann Anna",
+      "Rumo Emilie",
+      "Martin Anna"
     ],
-    "Téléphoniste": [
-      "Tissot Jean"
-    ]
-  },
-  "LUSSY": {
-    "Autorités communales": [
-      "Anken Edmond",
-      "Gonvers Julien",
-      "Desponds Alfred",
-      "Anken Auguste",
-      "Gonvers Auguste",
-      "Crottaz Fernand",
-      "Leutwyler Gottfried",
-      "Crottaz Henri",
-      "Anken William",
-      "Mercier Eugène"
+    "Bois (march. de).": [
+      "Allaz frères",
+      "Delacrétaz Lucien"
     ],
-    "Agriculteurs": [
-      "Buchet Henri",
-      "Gex Auguste"
+    "Bouchers.": [
+      "Brochon Jules",
+      "Jauslin Georges",
+      "Vernaz Ami"
     ],
-    "Amodiateur": [
-      "Bonzon Aloïs"
+    "Boulangers.": [
+      "Curchod Gustave",
+      "Curchod Ls",
+      "Favre Oscar",
+      "Millioud Emile"
     ],
-    "Mutualité scolaire de retraite": [
-      "Girardet G."
+    "Brevets d'invention.": [
+      "Flesch L.",
+      "Pahud J.-D."
     ],
-    "Boucher": [
-      "Paquier Eugène"
+    "Bureau d'affaires.": [
+      "Chevallaz Fernand"
     ],
-    "Café": [
-      "Vionnet Emile"
+    "Cafés.": [
+      "Juriens Marie",
+      "Devolz Alfred",
+      "Favre Charles",
+      "Brochon Ernest",
+      "Favre Etienne",
+      "Gottofrey François",
+      "Jordan Daniel",
+      "Pittet Auguste",
+      "Bezençon Emmanuel",
+      "Rochat Paul"
     ],
-    "Charron": [
-      "Panchaud Adrien"
+    "Camionneurs.": [
+      "Bovey Edmond",
+      "Curchod-Jodan Louis",
+      "Devolz Gustave",
+      "Piguet Jules"
     ],
-    "Commission scolaire": [
-      "Bungener Félix",
-      "Anken William",
-      "Crottaz Fernand"
+    "Cercueils.": [
+      "Jaccottet Vincent",
+      "Jordan Denis"
     ],
-    "Epicerie": [
-      "Echaud Clara",
-      "Mercier Eugène"
+    "Chapelleries.": [
+      "Gaillard Emile",
+      "Gugger Ernest",
+      "Pittet Marie. R."
     ],
-    "Huilier": [
-      "André Robert"
+    "Charcutiers.": [
+      "Despont Henri",
+      "Jauslin-Jaccard Georges",
+      "Richoz Antoine"
     ],
-    "Inspecteur du bétail": [
-      "Crottaz Ls"
+    "Charpentier.": [
+      "Barraud Edouard"
     ],
-    "Instituteurs": [
-      "Girardet Charles",
-      "Chaudet Edmée"
+    "Charrons.": [
+      "Dépierraz Marcel",
+      "Vauthey Eugène"
     ],
-    "Justice de paix": [
-      "Gonvers Henri",
-      "Mercier Eug.",
-      "Crottat Louis"
+    "Chaussures.": [
+      "Baud Maria",
+      "Devolz Ern.",
+      "Falcy-Fornerod",
+      "Magnenat Louis"
     ],
-    "Laitier": [
-      "Bertholet Ch."
+    "Chaux et ciments.": [
+      "Bezençon & Vauthey"
     ],
-    "Pasteur": [
-      "Bungener Félix"
+    "Chef de gare.": [
+      "Ducommun Robert"
     ],
-    "Pépiniéristes": [
-      "Anken Edmond",
-      "Anken William"
+    "Chef de section.": [
+      "Brochon Ernest"
     ],
-    "Poste": [
-      "Vionnet Ernest"
+    "Chiffons.": [
+      "Francfort J."
     ],
-    "Sociétés": [
-      "Desponds Alfred"
+    "Cigares et tabacs.": [
+      "Baud & Crausaz",
+      "Bezençon & Vauthey",
+      "Dutoit, Vve. R.",
+      "Erhard Joseph",
+      "Falcy-Fornerod",
+      "L'Haire Maurice",
+      "Magnenat Louis",
+      "Martin Alfred",
+      "Nicod Eugène"
     ],
-    "Tailleuse": [
-      "Chaudet Edmée"
+    "Coiffeurs.": [
+      "Erhard Joseph",
+      "L'Haire Maurice",
+      "Martin Alfred"
     ],
-    "Téléphoniste": [
-      "Delessert Louis"
-    ]
-  },
-  "MONNAZ": {
-    "Autorités communales": [
-      "Rochat Marcel",
-      "Duruz André",
-      "Duruz Laurent",
-      "Guillemin René",
-      "Rochat Francis",
-      "Dumuid Albert",
-      "Rochat François"
+    "Combustibles.": [
+      "Bezençon & Vauthey",
+      "Devolz Gustave"
     ],
-    "Agriculteurs": [
-      "Bissat Charles",
-      "Bissat Emile",
-      "Christen Alfred",
-      "Cornut Eugène",
-      "Cornut Gustave",
-      "Cruchon Alex.",
-      "Cruchon Alfr. T.",
-      "Dufour Albert",
-      "Dufour Alfred",
-      "Dumuid Alb.",
-      "Dumuid Emile",
-      "Dumuid Eugène",
-      "Duruz André",
-      "Duruz Laurent",
-      "Guillemin Charles",
-      "Guillemin René",
-      "Rochat François",
-      "Rochat Jules",
-      "Rochat Gustave",
-      "Rochat Louis",
-      "Rochat Marcel",
-      "Rochat Samuel"
+    "Commission scolaire du Collège communal.": [
+      "Clerc Samuel",
+      "Laurent Eug."
     ],
-    "Commission scolaire": [
-      "Cruchon Alex."
+    "Commission scolaire réformée.": [
+      "Grin Edmond",
+      "Mayor Paul"
     ],
-    "Epicerie": [
-      "Cruchon Alexandre"
+    "Commission scolaire catholique.": [
+      "Longchamp Louis",
+      "Grognuz Marcel"
     ],
-    "Inspecteur du bétail": [
-      "Dumuid Alb. fils"
+    "Confiseurs-pâtissiers.": [
+      "Dentan Alfred",
+      "Favre Osc.",
+      "Gardaz frères"
     ],
-    "Poste": [
-      "Rochat Francis"
+    "Cordonniers.": [
+      "Buinoud Joseph",
+      "Mettraux Paul",
+      "Schüpbach Henri"
     ],
-    "Rentier": [
-      "de Freudenreich Edmond"
+    "Courtepointières.": [
+      "Chappuis Fanny",
+      "Maurer-Devolz M."
     ],
-    "Télégraphe et téléphone": [
-      "Dumuid Louise"
+    "Curé.": [
+      "Longchamp Louis"
+    ],
+    "Dentiste.": [
+      "Schupp Charles-H."
+    ],
+    "Draperies et nouveautés.": [
+      "Allasia Alfred",
+      "Baud & Crausaz",
+      "Rochat Emile",
+      "Wyler Salomon"
+    ],
+    "Droguistes.": [
+      "Bezençon & Vauthey",
+      "Falcy-Fornerod"
+    ],
+    "Eaux gazeuses (fab. d').": [
+      "Rochat Eugène"
+    ],
+    "Electricité.": [
+      "Société des forces de Joux et de l'Orbe"
+    ],
+    "Equarrisseur.": [
+      "Willommet Henri"
+    ],
+    "Engrais chimiques.": [
+      "Bezençon & Vauthey"
+    ],
+    "Entrepreneurs en bâtiments.": [
+      "Mergozzi & Garoni",
+      "Tatti Henri",
+      "Ferrini & Méda"
+    ],
+    "Epicerie.": [
+      "Baud & Crausaz",
+      "Bezençon & Vauthey",
+      "Dutoit, Vve. R.",
+      "Falcy Louis",
+      "Magnenat Louis",
+      "Nicod Eugène"
     ]
   }
 }

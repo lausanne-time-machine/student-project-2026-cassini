@@ -1,102 +1,214 @@
 {
-  "Ville d'Orbe": {
-    "Appareilleurs": [
-      "Alvazzi Auguste",
-      "Cochard Auguste",
-      "Combe Georges",
-      "Reguin Frédéric",
-      "Rogivue Léon"
+  "GRYON": {
+    "Commission militaire Romande et Foyers des Travailleurs": [
+      "Luginbuhl Charles"
     ],
-    "Appareils sanitaires": [
-      "Alvazzi Auguste"
+    "Commission scolaire": [
+      "Simon Emile",
+      "Luginbuhl Charles",
+      "Chappuis Aloïs"
     ],
-    "Architecte": [
-      "Magnin M. O."
+    "Boulanger": [
+      "Jaccard Louis"
     ],
-    "Assurance mobilière cantonale": [
-      "Thomas Henri"
+    "Café": [
+      "Hochuli-Reymondin Louisa"
     ],
-    "Assurances": [
-      "La Suisse, Vie, Accidents, Rentes",
-      "La Genevoise",
-      "Bernard G.",
-      "Société suisse de Secours mutuels Helvétia",
-      "Société vaudoise de secours mutuels"
+    "Charcuterie": [
+      "Cordey"
     ],
-    "Assurance-vieillesse": [
-      "Associations mutualistes de retraite",
-      "Genthier Emile"
+    "Chef de gare": [
+      "Gilliéron Alexis"
     ],
-    "Automobiles-Garages": [
-      "Auberson Henri",
-      "Pidoux & Miauton"
+    "Chef de section": [
+      "Testuz Francis"
     ],
-    "Banques": [
-      "Banque cantonale vaudoise",
-      "Crédit Yverdonnois",
-      "Union vaudoise du Crédit"
+    "Cordonnier": [
+      "Nicolas E."
     ],
-    "Bazars": [
-      "Bloch Edmond, Bazar Vaudois",
-      "Cottier-Boudry Lucie",
-      "Meyer Marx, au Louvre",
-      "Gonseth-Henrioud P. S.A."
+    "Couturière": [
+      "Revaz Louise"
+    ],
+    "Epicerie, tabacs": [
+      "Cordey Fanny",
+      "Jaccard Louis"
+    ],
+    "Géomètre": [
+      "Luginbuhl Charles"
+    ],
+    "Greffier de paix": [
+      "Peyrollaz Ls."
+    ],
+    "Inspecteur du bétail": [
+      "Bron Robert"
+    ],
+    "Instituteurs": [
+      "Besuchet Gustave",
+      "Wichoud Marguerite"
+    ],
+    "Menuisier": [
+      "Jaunin Henri"
+    ],
+    "Meunier": [
+      "Minoterie coopérative du Léman"
+    ],
+    "Modes": [
+      "Prahin Violette"
+    ],
+    "Poste et télégraphe": [
+      "Beausire Marie"
+    ],
+    "Représentant": [
+      "Chappuis Gustave"
+    ],
+    "Sociétés": [
+      "de laiterie de Rivaz",
+      "Caisse de Crédit mutuel"
+    ],
+    "Vignerons": [
+      "Chevalley Robert",
+      "Fonjallaz Herm.",
+      "Fonjallaz Léon",
+      "Leyvraz frères",
+      "Simon Emile",
+      "Testuz Francis",
+      "Testuz frères"
+    ],
+    "Vins (march. de)": [
+      "Chappuis-Décombaz",
+      "Chaudet Emile",
+      "Pinget Ad. & fils",
+      "Testuz Francis",
+      "Testuz frères"
+    ],
+    "Divers": [
+      "Paillard Frank"
+    ]
+  },
+  "SAINT-SAPHORIN-LAVAUX": {
+    "Autorités communales": [
+      "Ruchonnet Charles",
+      "Pitton Edouard",
+      "Cossy Francis",
+      "Genton Louis",
+      "Meylan Paul",
+      "Paillard Frank",
+      "Rogivue Alfred",
+      "Genton Hri",
+      "Pitton Edouard",
+      "Gilliéron Ls."
+    ],
+    "Associations mutualistes de retraite": [
+      "Pitton Ed."
     ],
     "Bétail (march. de)": [
-      "Meylan Henri",
-      "Picard Isaac & fils"
+      "Forney Jeannot"
     ],
-    "Blanchisseuses-repasseuses": [
-      "Gadina, dame",
-      "Porchet Alice",
-      "Portmann, dame",
-      "Varidel Elise"
-    ],
-    "Bois (comm. de.)": [
-      "Addor & Jaquier",
-      "Tallichet Charles"
-    ],
-    "Boissellerie": [
-      "Conod A.",
-      "Mercier, Vve de F."
-    ],
-    "Bouchers": [
-      "Berger Ch.",
-      "Matthys Gott.",
-      "Meylan Henri",
-      "Michaud Ernest",
-      "Berger Charles",
-      "Viguet John"
-    ],
-    "Boulangers": [
-      "Gimmel Samuel",
-      "Dessous-l'Eglise Adrien",
-      "Mercier Robert",
-      "Perrin Ernest",
-      "Schneiter Louis, fils",
-      "Société coopérative",
-      "Weber Th."
-    ],
-    "Brevets d'invention": [
-      "Flesch L.",
-      "Pahud J.-D."
-    ],
-    "Brasseurs": [
-      "Brasserie d'Orbe et d'Aigle réunies",
-      "Fertig frères, S. A."
+    "Boulanger": [
+      "Association coop. villageoise"
     ],
     "Cafés": [
-      "Collet Henri",
-      "Delgrosso Henri",
-      "Dubois Héli, café de l'Ecusson Vaudois",
-      "Dupuis Valentine, Vve.",
-      "Estoppey William, Cor de Chasse",
-      "Grivat, Vve, café du Cerf",
-      "Hutzner L., La Charrue",
-      "Lambert Emile",
-      "Matthey Léon",
-      "Renevey Louis",
-      "Reymond Ami"
+      "Dénéréaz Charles",
+      "Légeret Julie"
+    ],
+    "Chef de section": [
+      "Testuz Francis"
+    ],
+    "Commission scolaire": [
+      "Vaney Alfred",
+      "Rogivue Alfred",
+      "Penard Robert"
+    ],
+    "Electricien": [
+      "Société électrique Vevey-Montreux"
+    ],
+    "Entrepreneur": [
+      "Dégruffy Victor"
+    ],
+    "Epicerie": [
+      "Association coopérative villageoise"
+    ],
+    "Facteur postal": [
+      "Genton Henri"
+    ],
+    "Inspecteurs du bétail": [
+      "Chappuis Ed.",
+      "Degruffy Victor"
+    ],
+    "Instituteurs": [
+      "Pitton Edouard",
+      "Genton Albertine"
+    ],
+    "Jardiniers": [
+      "Meylan Paul",
+      "Samson frères"
+    ],
+    "Justice de Paix": [
+      "Varnéry Mc",
+      "Palley Alfred",
+      "Chappuis Vincent",
+      "Chevalley Louis",
+      "Chappuis Henri",
+      "Gilliéron Willy"
+    ],
+    "Pasteur": [
+      "Vaney Alfred"
+    ],
+    "Poste": [
+      "Kormann E."
+    ],
+    "Rentiers": [
+      "Bischoff Théoph.",
+      "Ruchonnet Cécile"
+    ],
+    "Serruriers-maréchaux": [
+      "Genton Ls",
+      "Trincard Louis"
+    ],
+    "Sociétés": [
+      "Laiterie de Lignières",
+      "Laiterie de Saint-Saphorin",
+      "Caisse de crédit mutuel (Raiffeisen)",
+      "Association coop. villageoise"
+    ],
+    "Tailleuses": [
+      "Ruchonnet Julie",
+      "Ruchonnet Emilie",
+      "Tauxe Louise"
+    ],
+    "Vignerons": [
+      "Alder Henri",
+      "Amstein Louis",
+      "Beroud Henri",
+      "Bernet Charles",
+      "Blanc Victor",
+      "Bron Hri",
+      "Chappuis-Morel",
+      "Chevalley Edouard",
+      "Chevalley Henri",
+      "Chevalley Paul",
+      "Cossy Francis",
+      "Dénéréaz Ch.",
+      "Dénéréaz Emile",
+      "Dénéréaz Eugène",
+      "Détraz frères",
+      "Genton Emile",
+      "Genton Henri",
+      "Genton Louis",
+      "Gilliéron Aloïs",
+      "Grandchamp Henri",
+      "Guichoud Albert",
+      "Jaccard Oscar",
+      "Mauch Adolphe",
+      "Palley Alfred",
+      "Palley Samuel",
+      "Penard Henri",
+      "Pinget Emile",
+      "Regamey-Bovey Louis",
+      "Rogivue A.",
+      "Ruchonnet Charles",
+      "Ruchonnet Louis",
+      "Ruchonnet Michel"
     ]
   }
 }

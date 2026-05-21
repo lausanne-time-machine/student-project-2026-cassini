@@ -1,222 +1,82 @@
 {
-  "Le Sentier": {
-    "Repassages": [
-      "Golay Marcel",
-      "Lecoultre Henri-Frédéric",
-      "Piguet-Berney Louis"
+  "VILLE DE VEVEY": {
+    "Agence agricole.": [
+      "Margot Aug."
     ],
-    "Ressorts, timbres (fab. de.)": [
-      "Aubert Julien et Constant"
+    "Abattoirs.": [
+      "von der Aa Auguste"
     ],
-    "Sertisseurs": [
-      "Nicole Arnold",
-      "Piguet Auguste",
-      "S. A. Aubert & Cie"
+    "Affichage.": [
+      "Société générale d’affichage"
     ],
-    "Tailleur de roues et découpages": [
-      "Lecoultre Marcel"
-    ]
-  },
-  "Le Solliat": {
-    "Agriculteurs": [
-      "Capt Ami-Constant",
-      "Capt Ferdinand",
-      "Piguet Albert",
-      "Piguet Ferdinand",
-      "Reymond Jean"
+    "Agents d’affaires patentés.": [
+      "Cailler Ch.",
+      "Jordan Aloïs"
     ],
-    "Assurance-vieillesse": [
-      "Nicole Henri"
+    "Agences immobilières.": [
+      "Allas A., Mme",
+      "Beauverd David",
+      "de la Harpe E. (S. A.)",
+      "Demierre Auguste",
+      "Dénéréaz Gustave",
+      "Jaquerod Louis",
+      "Monod E.",
+      "Noguet Jean",
+      "Penard Adrien",
+      "Union de Banques Suisses"
     ],
-    "Boissellerie": [
-      "Dépraz César"
+    "Agences de publicité.": [
+      "Société de l’Imprimerie et lithographie Klausfelder",
+      "Maillard Charles",
+      "Zahnd Marcel",
+      "Orell-Füssli",
+      "Publicitas S. A."
     ],
-    "Buraliste postal": [
-      "Capt William"
+    "Agences de voyages.": [
+      "de la Harpe E. (S. A.)",
+      "Vacheron J."
     ],
-    "Café": [
-      "Vve Guignard-Piguet Henri"
+    "Agriculteurs-Vignerons.": [
+      "Chamorel Jules",
+      "Demierre, hoirs d’Aug.",
+      "Ducraux Edouard",
+      "Emery François",
+      "Gafner Christian",
+      "Genton-Palez François",
+      "Grobéty Marius",
+      "Puenzieux Eugène",
+      "Richard Paul",
+      "Roux Henri",
+      "Veillard Lambert"
     ],
-    "Chef de section": [
-      "Capt Elie"
+    "Aiguilles à tricoter (fab. d’).": [
+      "Bachmann Jacob"
     ],
-    "Epicerie, mercerie, tabacs": [
-      "Reymond H. fils"
+    "Antiquaires.": [
+      "Dick Ch.",
+      "Guhl Ernest",
+      "Mausli Ls-Ernest",
+      "Poncioni Zaccharia",
+      "Seiler Auguste"
     ],
-    "Garde-forestier": [
-      "Capt Eugène"
+    "Apiculteur.": [
+      "Balissat A.",
+      "Mäder Numa"
     ],
-    "Inspecteur du bétail": [
-      "Capt Henri"
+    "Appareillage électrique.": [
+      "Spälti fils & Cie."
     ],
-    "Institutrice": [
-      "Capt Lucie"
-    ],
-    "Juge au tribunal": [
-      "Meylan-Capt Elc."
-    ],
-    "Laitier": [
-      "Binggeli Ph."
-    ],
-    "Professeur": [
-      "Aubert Samuel"
-    ],
-    "Rentiers": [
-      "Aubert William",
-      "Reymond François",
-      "Reymond Paul"
-    ],
-    "Sociétés": [
-      "de la Fontaine",
-      "de la Fontaine",
-      "immobilière",
-      "des eaux Golisse-Solliat",
-      "de l'intérêt public",
-      "de fromagerie",
-      "Syndicat agricole Solliat-Sentier"
-    ],
-    "Vétérinaire": [
-      "Meylan Paul"
-    ],
-    "Vins (march. de)": [
-      "Meylan Ed."
-    ],
-    "Divers": [
-      "Reymond Hector"
-    ]
-  },
-  "LE LIEU": {
-    "Autorités communales": [
-      "Meylan Jean",
-      "Rochat Marcel"
-    ],
-    "Syndic": [
-      "Aubert Edouard"
-    ],
-    "Municipaux": [
-      "Aubert Jean",
-      "Rochat Jules",
-      "Rochat Jules-Jérémie",
-      "Piguet Alf.",
-      "Dépraz Elie",
-      "Rochat Alphonse"
-    ],
-    "Secrétaire": [
-      "Buffat Albert"
-    ],
-    "Boursier": [
-      "Dépraz William"
-    ],
-    "Agriculteurs": [
-      "Aubert Henri",
-      "Cart Eugène",
-      "Cart Emile",
-      "Dépraz César",
-      "Dépraz Charles",
-      "Dépraz Elie",
-      "Dépraz Emile",
-      "Dépraz Henri",
-      "Rochat Emile",
-      "Guignard John",
-      "Guignard Jules",
-      "Guignard Siméon",
-      "Lecoultre Ch.",
-      "Longchamp Alexis",
-      "Lugrin Elie",
-      "Meylan Albert",
-      "Meylan Emile",
-      "Meylan Jean",
-      "Meylan Robert",
-      "Nicole Henri",
-      "Piguet Alfred",
-      "Reymond Elie"
-    ],
-    "Amodiateurs": [
-      "Dépraz Charles",
-      "Dépraz Emile",
-      "Reverchon Marie"
-    ],
-    "Assurance": [
-      "Rochat Alphonse"
-    ],
-    "Assurance-vieillesse": [
-      "Rochat Alph."
-    ],
-    "Bois (march. de)": [
-      "Aubert Henri"
-    ],
-    "Boisseliers": [
-      "Dépraz Robert",
-      "Guignard Jules-Barthélemy",
-      "Guignard Alix"
-    ],
-    "Boulangers": [
-      "Bielser",
-      "Rochat Charles"
-    ],
-    "Cafés": [
-      "Dépraz César",
-      "Jetzer",
-      "Rochat Louis"
-    ],
-    "Chapellerie": [
-      "Guignard, Mlle"
-    ],
-    "Charbons": [
-      "Meylan Jean"
-    ],
-    "Charbons et bois de chauffage": [
-      "Aubert Henri"
-    ],
-    "Charcutier": [
-      "Nicole Adrien"
-    ],
-    "Charpentiers": [
-      "Longchamp Alexis",
-      "Pithon Albert"
-    ],
-    "Chef de gare": [
-      "Jaques Numa"
-    ],
-    "Chef de section": [
-      "Aubert Jean"
-    ],
-    "Commission scolaire": [
-      "Rochat Ch.-Ls."
-    ],
-    "Draperies": [
-      "Guignard-Jordan John",
-      "Guignard Marguerite",
-      "Piguet & Cie"
-    ],
-    "Entrepreneurs-maçons": [
-      "Papa P.",
-      "Zappelloni & Zenoni"
-    ],
-    "Epicerie. mercerie": [
-      "Dépraz Paul",
-      "Guignard-Jordan John",
-      "Guignard Marguerite",
-      "Piguet & Cie",
-      "Rochat Charles"
-    ],
-    "Fabrique": [
-      "Le Vieux Moutier S.A."
-    ],
-    "Ferronnerie": [
-      "Guignard-Jordan John",
-      "Piguet & Cie"
-    ],
-    "Forestiers communaux": [
-      "Rochat James",
-      "Meylan Henri",
-      "Reymond Elie"
-    ],
-    "Hôtel": [
-      "Jetzer"
-    ],
-    "Inspecteur du bétail": [
-      "Meylan Wilfred"
+    "Appareilleurs.": [
+      "Chollet, hoirs d’Albert",
+      "Crot Emile",
+      "Desclouds Alfred",
+      "Desclouds Charles fils",
+      "Erens J.",
+      "Eultgen H.",
+      "Enzen Charles et fils",
+      "Furno Pierre",
+      "Jeanrenaud Georges",
+      "Pastore & Cie."
     ]
   }
 }

@@ -1,74 +1,176 @@
 {
-  "MONTREUX": {
-    "Assurances.": [
-      "Bureau général d'assurances",
-      "Concordia (vie)",
-      "Genevoise (vie)",
-      "Mex Alph.",
-      "Société vaudoise de Secours mutuels (maladie)",
-      "Société de secours mutuels Helvetia",
-      "Urbaine (L')",
-      "Winterthur (La)",
-      "Zurich (La)"
+  "VILLARS-BRAMARD": {
+    "Agriculteurs": [
+      "Duc Lina",
+      "Duc Octave",
+      "Duc Jules",
+      "Fattebert Alfred",
+      "Fattebert Henri",
+      "Gentil Félix",
+      "Paccaud Louis",
+      "Pittet Arthur",
+      "Pittet Léonard",
+      "Oulevey Edmond",
+      "Oulevey Robert",
+      "Vernez Héli",
+      "Wist Agénor"
     ],
-    "Assurance-vieillesse.": [
+    "Aubergiste": [
+      "Mülhauser Balthasar"
+    ],
+    "Commission scolaire": [
+      "Oulevey Robert",
+      "Duc Alfred",
+      "Duc André"
+    ],
+    "Epicerie": [
+      "Fattebert Blanche"
+    ],
+    "Inspecteur du bétail": [
+      "Duc Octave"
+    ],
+    "Instituteurs": [
+      "Renaud Ami",
+      "Nicole Lucie"
+    ],
+    "Poste": [
+      "Pittet Pauline"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "du four",
+      "du battoir à blé"
+    ],
+    "Téléphone": [
+      "Mülhauser Balthasar"
+    ]
+  },
+  "VILLARZEL": {
+    "Autorités communales": [
+      "Thévenaz Albert",
+      "Corthésy Jules",
+      "Mayor Jules",
+      "Rossier André",
+      "Bersier Louis",
+      "Bersier André",
+      "Rubattel Alfred",
+      "Joliquin Louis",
+      "Joliquin Jean",
+      "Rossier Henri",
+      "Rossier Auguste"
+    ],
+    "Agriculteurs": [
+      "Bersier Alfred",
+      "Bersier André",
+      "Bersier Gustave",
+      "Bersier Louis et Albert",
+      "Bersier Marcel",
+      "Bize Jules",
+      "Bonjour-Joliquin F.",
+      "Cachin Albert",
+      "Cornut Jules",
+      "Cornut Ls",
+      "Corthésy Jules",
+      "Joliquin Jean",
+      "Joliquin-Blanc Ul.",
+      "Léchaire Jean",
+      "Maeder Emile",
+      "Mayor Jules",
+      "Rossier Auguste",
+      "Rossier André",
+      "Rossier Edmond",
+      "Rossier Jules",
+      "Rossier Jules-Louis",
+      "Rossier Marcel",
+      "Rossier-Trolliet Hri",
+      "Rubattel Alfred. T.",
+      "Zahnd, hoirie."
+    ],
+    "Assurance-vieillesse": [
+      "Société mutualiste de retraite",
+      "Rossier A.",
       "Mutualité scolaire de retraite",
-      "Société mutualiste de retraite"
+      "Thévenaz A."
     ],
-    "Auto-cars-Excursions.": [
-      "Beihl J.-A.",
-      "Callias A.",
-      "Montreux-Transports, S. A.",
-      "Francey Ed., S. A.",
-      "Marquis G.",
-      "Pickfords Ltd.",
-      "Vacheron J."
+    "Aubergiste": [
+      "Olivier Emile"
     ],
-    "Automobiles, cycles. — Garages.": [
-      "Allamand V.",
-      "Auto-Ecole, Mosimann E.",
-      "Auto-Stand-Garage S. A.",
-      "Balissat A.",
-      "Millasson Chs",
-      "Beihl André.",
-      "Broyon P.",
-      "Cycle-Hall, Haas A. fils",
-      "Detwyler A.",
-      "Eichenberger Walter",
-      "Garage du Kursaal, F. Junod, direct.",
-      "Gailland frères",
-      "Francey Ed. (S. A.)",
-      "Garage Moderne Territet-Montreux, S. A.",
-      "Gardel A.",
-      "Goël L. & Lehmann P.",
-      "Gudel Albert",
-      "Incerti G.",
-      "Jauslin Ch.",
-      "Marquis Gustave",
-      "Montreux-Transports, S. A.",
-      "Morerod Eug.",
-      "Ramuz Ch., S. A.",
-      "Ramseyer Jean",
-      "Renault",
-      "Rochat Alphonse",
-      "Savioz Ch.",
-      "Schöri C.",
-      "Sessler A.",
-      "Schueler Ern.",
-      "Turrian Emile.",
-      "Visinand Daniel",
-      "Yersin Gabriel"
+    "Bétail (march. de)": [
+      "Joliquin-Blanc Ulysse"
     ],
-    "Avocats — Juristes.": [
-      "Abravanel Gaston",
-      "Cuénet Roger",
-      "Guhl H. & Hirzel E.",
-      "de Muralt J., Panchaud & Veyrassat A.",
-      "Chessex L.",
-      "de Sinner O.",
-      "Krafft Agénor",
-      "Leresche Armand",
-      "Ott H."
+    "Charpentier": [
+      "Joliquin Henri"
+    ],
+    "Commission de l'école primaire supérieure": [
+      "Mayor Jules",
+      "Maeder Emile"
+    ],
+    "Commission scolaire": [
+      "Rossier André",
+      "Rossier Marcel",
+      "Rubattel Alfred",
+      "Rod Jules",
+      "Bersier Alf."
+    ],
+    "Cordonnier": [
+      "Bize David"
+    ],
+    "Epicerie, mercerie": [
+      "Cachin-Cornut Marie",
+      "Joliquin-Blanc Usse."
+    ],
+    "Fourches (fab. de)": [
+      "Cornut Jules"
+    ],
+    "Inspecteur du bétail": [
+      "Rossier Julien"
+    ],
+    "Instituteurs": [
+      "Dentan Victor",
+      "Thévenaz Albert",
+      "Thévenaz Jeanne"
+    ],
+    "Laitier": [
+      "Zurcher Walter"
+    ],
+    "Machines à battre": [
+      "Bersier Alfr.",
+      "Joliquin Henri",
+      "Société du battoir Villarzel-Sédeilles-Rossens"
+    ],
+    "Maréchal": [
+      "Dussin Henri"
+    ],
+    "Officier d'état-civil": [
+      "Thévenaz Albert"
+    ],
+    "Pasteur": [
+      "Rod Jules"
+    ],
+    "Poste (bureau de)": [
+      "Joliquin Paul"
+    ],
+    "Scierie": [
+      "Joliquin Henri"
+    ],
+    "Sociétés": [
+      "Crédit mutuel",
+      "de fromagerie et laiterie",
+      "du battoir",
+      "d'assurance du bétail",
+      "Syndicat agricole",
+      "Société de jeunesse"
+    ],
+    "Téléphone": [
+      "Cachin-Cornut Marie"
+    ],
+    "Divers": [
+      "Bize-Gagnière Vve",
+      "Bize Vve d'Henri",
+      "Joliquin Ulysse",
+      "Rossier-Joliquin Marie",
+      "Rubattel Julie",
+      "Rubattel Marie"
     ]
   }
 }

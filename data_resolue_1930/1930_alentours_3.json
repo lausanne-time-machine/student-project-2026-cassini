@@ -1,117 +1,238 @@
 {
-  "SAINTE-CROIX": {
-    "Ingénieurs": [
-      "Brandt Jean",
-      "Buchs Pierre",
-      "Campiche Hoirie",
-      "Campiche Georges, Vve",
-      "Cuendet Armand",
-      "Geneux Fritz",
-      "Jaccard Arnold",
-      "Jaccard Ch.",
-      "Jaccard frères",
-      "Jaccard frères",
-      "Jaccard-Simon Chs",
-      "Joseph Gérald",
-      "Junod E.",
-      "Junod-Margot Chs",
-      "Lardelli Ed.",
-      "Margot Daniel",
-      "Mermod-Gaillard Arthur",
-      "Mermod frères",
-      "Recordon Charles",
-      "Recordon Auguste",
-      "Sulliger Eugène"
+  "VILLE D'AIGLE": {
+    "Fers et métaux": [
+      "Jaquerod Jeanne, Vve"
     ],
-    "Ameublements.": [
-      "Jaccard Marcel",
-      "Lassueur Ernest",
-      "Monti Louis",
-      "Urech Rodolphe"
+    "Fromages": [
+      "Chevallaz Julien",
+      "Reren sœurs, laiterie de Villeneuve"
     ],
-    "Appareils électriques.": [
-      "Gloor Ernest",
-      "Junod-Gaillard",
-      "Lassueur L.",
-      "Longo Paul",
-      "Roulet Edmond",
-      "Schaedler C.",
-      "Usine des Clées"
+    "Garde-forestier": [
+      "Marlétaz Vincent"
     ],
-    "Apiculteurs.": [
-      "Gueissaz Paul",
-      "Joseph Eugène",
-      "Marchand Arthur"
+    "Gypsiers-peintres": [
+      "Caldelari Achille",
+      "Chenaux Alfr. T.",
+      "Preti Angel"
     ],
-    "Architectes.": [
-      "Braun Charles",
-      "Jaccard Marius",
-      "Vetter Jean"
+    "Horlogers": [
+      "Mathez Humbert",
+      "Voumard Joseph"
     ],
-    "Asile.": [
-      "Asile des vieillards de Ste-Croix"
+    "Hôtels-Pensions": [
+      "Hôtel Byron",
+      "Kœhler",
+      "Hôtel du Port",
+      "Rüegger Jacob",
+      "Hôtel du Raisin",
+      "Ametter, hoirie",
+      "Hôtel de Ville",
+      "Ruchti, Vve de Jean"
     ],
-    "Armurier.": [
-      "Joseph Robert"
+    "Ingénieur": [
+      "Chenaux Henri"
     ],
-    "Assurances (Vie).": [
-      "La Suisse",
-      "Bâloise (la)",
-      "La Genevoise (Vie)",
-      "Nationale Suisse (transport)",
-      "Patria (vie)",
-      "La Winterthour",
-      "La Zurich (accidents)",
-      "Société suisse d'assurances générales sur la vie humaine"
+    "Instituteurs primaires": [
+      "Nicolier Henri",
+      "Mennet Louis",
+      "Fauquex Jules",
+      "Luthy Marg.",
+      "Delapraz Elisa",
+      "Lecoultre Gérald",
+      "Rosset Elisa"
     ],
-    "Assurance-vieillesse": [
-      "Associations mutualistes de retraite"
+    "Jardiniers": [
+      "Bettens Constant",
+      "Colomb Aloïs",
+      "Senf Hermann"
     ],
-    "Automobiles Garages et auto-taxis": [
-      "Ferrari & Monti",
-      "Jaccard Oscar",
-      "Joseph Maison",
-      "Garage des Remparts",
-      "Jeanmonod André",
-      "Société Auto-transports de Ste-Croix, S. A.",
-      "Thorens Henri"
+    "Justice de paix du cercle": [
+      "Chabloz Louis",
+      "Geist André",
+      "Ponnaz Charles",
+      "Guay Henri",
+      "Borloz Jean",
+      "Favre Charles",
+      "Rosset Albert"
     ],
-    "Banques.": [
-      "Banque cantonale vaudoise",
-      "Caisse d'épargne",
-      "Crédit foncier vaudois",
-      "Crédit Yverdonnois"
+    "Laitiers": [
+      "Nicolet-Lambelet Gustave",
+      "Pieren, Mlles",
+      "Steiner Constant",
+      "Société de laiterie, Crêt"
     ],
-    "Bazars.": [
-      "Addor René",
-      "Jaccard Dora",
-      "Gloor H. & A., Mlles",
-      "Jaccard sœurs",
-      "Martin-Jaccard David",
-      "Wanner M."
+    "Librairie": [
+      "Buttet Henri"
     ],
-    "Bétail (march. de).": [
-      "Bissat Ernest",
-      "Joseph Hélène",
-      "Lanzarini Dominique",
-      "Lanzarini Marcel",
-      "Thévenaz Albert"
+    "Lingère": [
+      "Veillard Elisabeth"
     ],
-    "Bière (dépôts de).": [
-      "Junod César-Eug.",
-      "Margot Louis"
+    "Machines à coudre et vélos": [
+      "Cossetto & Hutzli",
+      "Dubois Auguste",
+      "Mathez H.",
+      "Ruchet André"
     ],
-    "Bois (march. de).": [
-      "Besse-Widmer Emile",
-      "Jaccard Georges",
-      "Mermod frères",
-      "Thévenaz Adrien"
+    "Marbriers": [
+      "Société des carrières d'Arvel"
     ],
-    "Bouchers et charcutiers.": [
-      "Aegerter Emile",
-      "Bornand Adrien",
-      "Campiche Georges",
-      "Cuendet Herm."
+    "Maréchal": [
+      "Pittet François"
+    ],
+    "Matériaux de construction": [
+      "Derocrete, S. A."
+    ],
+    "Médecin": [
+      "Jean-Mairet Edouard"
+    ],
+    "Menuisiers": [
+      "Moret Edouard",
+      "Zulauf frères"
+    ],
+    "Mercerie": [
+      "Leproux-Nicolet M. R.",
+      "Nicolet-Mages Henri",
+      "Valinod-Masson Fr."
+    ],
+    "Musique (prof. de)": [
+      "Chenaux, dame",
+      "Lecoultre Méry",
+      "Rosset Elisa"
+    ],
+    "Notaires": [
+      "Dubuis Emile",
+      "Greyloz Adolphe"
+    ],
+    "Officier d'état-civil": [
+      "Senf Hermann"
+    ],
+    "Papetier": [
+      "Buttet Hri"
+    ],
+    "Pasteur": [
+      "Péclard Emmanuel"
+    ],
+    "Pêcheurs": [
+      "Nicolet Adrien",
+      "Nicolet Jean",
+      "Zulauf frères",
+      "Zulauf Gustave"
+    ],
+    "Pédicure": [
+      "Dalloz, Mme"
+    ],
+    "Pensionnats": [
+      "Chillon-Collège",
+      "Pym Alexandre"
+    ],
+    "Pharmacien": [
+      "Favre Paul"
+    ],
+    "Primeurs": [
+      "Casini Pierre",
+      "Tessoni François"
+    ],
+    "Représentants": [
+      "Desvoignes Paul",
+      "Konig Ed.",
+      "Mauron Alfred"
+    ],
+    "Sage-femme": [
+      "Marchand A., dame"
+    ],
+    "Scierie": [
+      "Wenger frères"
+    ],
+    "Selliers": [
+      "Nicolet Emile",
+      "Nicollier Samuel"
+    ],
+    "Serruriers": [
+      "Emery Alex.",
+      "Pache J"
+    ],
+    "Sociétés": [
+      "de chant La Chorale",
+      "de gymnastique",
+      "de tir le Cordon Bleu et l'Espérance",
+      "de laiterie du Crêt",
+      "de musique « La Cécilienne »",
+      "Le Sauvetage",
+      "Association viticole",
+      "de Propriétaires viticoles",
+      "Union Chrétienne"
+    ],
+    "Tailleurs": [
+      "Gatti Raphaël",
+      "Oehrli Aloïs"
+    ],
+    "Télégraphiste": [
+      "Dupertuis Edouard"
+    ],
+    "Téléphone public": [
+      "Nouveau collège",
+      "Poste de police"
+    ],
+    "Vins (march. de)": [
+      "Association viticole",
+      "Duflon Louis",
+      "Favre Ch.",
+      "Glapey Henri",
+      "Clos des Moines S. A.",
+      "Puenzieux Aug.",
+      "Société de propriétaires viticulteurs"
+    ],
+    "Volailles et lapins": [
+      "Bonzon Alfred"
+    ],
+    "Voituriers": [
+      "Blaser Georges",
+      "Nicollier Henri",
+      "Thomas Eugène"
+    ]
+  },
+  "YVORNE": {
+    "Autorités communales": [
+      "Ansermoz-Perret Chs",
+      "Gex Louis",
+      "Minod Charles",
+      "Cropt Louis",
+      "Dubuis-Petitmermet Hri",
+      "Perréaz Georges",
+      "Ansermoz Robert",
+      "Blanc Edouard",
+      "Ansermoz Aloïs",
+      "Perret Alfred"
+    ],
+    "Agriculteurs et vignerons": [
+      "Annen Christian",
+      "Ansermoz Eugène",
+      "Ansermoz Georges",
+      "Ansermoz Jules",
+      "Ansermoz Louis",
+      "Ansermoz-Perret",
+      "Barbay Edm.",
+      "Blanc Edouard",
+      "Borloz Aug.",
+      "Boven Franç.",
+      "Crosasso Franç. et Roger",
+      "Deladœy Chs",
+      "Deladœy F.",
+      "Défayes Alb.",
+      "Dubuis André",
+      "Dubuis-Perret",
+      "Dufresne Jules",
+      "Dupertuis Félix",
+      "Durgniat Aug.",
+      "Durgniat Hri",
+      "Durgniat Jules",
+      "Gilliéron Jules",
+      "Grosjean Samuel",
+      "Grosjean-Tabord",
+      "Isoz Félix",
+      "Isoz Jean",
+      "Isoz René",
+      "Maret Ar"
     ]
   }
 }

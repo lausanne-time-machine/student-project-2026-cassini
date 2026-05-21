@@ -1,103 +1,101 @@
 {
-  "Montreux": {
-    "Quincaillerie.": [
-      "Lilla Ch.-J.",
-      "Linsig Georges",
-      "Miauton E. & Cie",
-      "Reymond Louis",
-      "Rochat Auguste",
-      "Walther Henry-S. & Cie (S.A.)"
+  "VILLE DE VEVEY": {
+    "Bonneterie.": [
+      "Currat Brigitte",
+      "Dæppen & Cie",
+      "Ducret-Conne Alice",
+      "Dormond Jules",
+      "Frey-Wicky A.",
+      "Lux Max",
+      "Meyer F.",
+      "Pilet Marguerite",
+      "Rudaz Gustave",
+      "Trachsel frères",
+      "Walther Henry-S. & Cie (S.A)",
+      "Wyler M.",
+      "Zanone A.",
+      "Lavanchy Samuel",
+      "Payot Hri",
+      "Pilloud Célestin",
+      "Renaud Samuel",
+      "Rithner Mme",
+      "Schlachter E.",
+      "Schwab Jean",
+      "Walder Jacob",
+      "Weber Ernest"
     ],
-    "Radiologie": [
-      "Mack J."
+    "Bouchers": [
+      "Bovard A.",
+      "Buhler R.",
+      "Champerlin P.",
+      "Charrière E.",
+      "Cuendet A.",
+      "Favre Albert",
+      "Hagmann Edwin",
+      "Krieger Ernest",
+      "Lehmann Gottfried",
+      "Leupin Emile fils",
+      "Maillard Constant",
+      "Mariethoud Louis",
+      "Marmillod G.",
+      "Pfeiffer Charles",
+      "Raeber P.",
+      "Sommer frères",
+      "Stouky Jean",
+      "Stuby Emile"
     ],
-    "Radiophonie": [
-      "Duvanel F. & fils",
-      "Chevalley A."
+    "Boulangers-pâtissiers": [
+      "Ammann William",
+      "Bussy-Durieu",
+      "Cuenoud René",
+      "Déglon William",
+      "Delapraz A.",
+      "Dutoit Ulysse",
+      "Gaberel Edouard",
+      "Gehrig F.",
+      "Goy Marcel",
+      "Hofschneider Willy",
+      "Jaquier Robert",
+      "La Ménagère",
+      "Lambert Gustave"
     ],
-    "Ramoneurs": [
-      "Montet Frédéric",
-      "Paillex Isaïe"
+    "Brevets d'invention": [
+      "Flesch L.",
+      "Pahud J.-D."
     ],
-    "Recaoutchoutage (voir Vulcanisation)": [
-      "Schlaeppi Marc"
+    "Broderies": [
+      "Barraud F.",
+      "Bayard Sœurs",
+      "Bachmann L.",
+      "Ellès Clara",
+      "Gauverit",
+      "Herzog Rosalie",
+      "Leresche René",
+      "Lux Max",
+      "Marti Irma",
+      "Pilet Marg."
     ],
-    "Rédacteurs": [
-      "Croisier Henri",
-      "Friedländer M.",
-      "Margot Ch.-Gab."
+    "Brosses (fab. de)": [
+      "Burkart O."
     ],
-    "Régisseurs": [
-      "Furer Pierre"
+    "Bureau des Etrangers": [
+      "Emery J."
     ],
-    "Relieurs": [
-      "Gautschy Frédéric",
-      "Gugelmeier C.",
-      "Vuichoud Gustave"
+    "Bureaux de placement": [
+      "Bureau officiel de renseignements gratuits",
+      "Home (Le) des jeunes filles",
+      "Kursner M.",
+      "Mader Jules",
+      "Office communal de placement"
     ],
-    "Représentants": [
-      "Berendsen Max L.",
-      "Bianchi Luigi",
-      "Callias André",
-      "Delerse Louis",
-      "d'Oyley Raoul",
-      "Dufour F.",
-      "Fehr Maurice",
-      "Nicati & Felchlin",
-      "Oehninger E., S. A.",
-      "Perdrisat Louis",
-      "Randin Henri",
-      "Zeltner W."
+    "Cabinets de lecture": [
+      "Bibliothèque publique",
+      "Payot & Cie"
     ],
-    "Sable (exploitation de)": [
-      "Bonjour L.",
-      "Margairaz H."
-    ],
-    "Restaurants": [
-      "La Cloche"
-    ],
-    "Sages-femmes": [
-      "Burdet-Dénéréaz Lina",
-      "Chappuis-Cherix",
-      "Cochard-Lehmann L.",
-      "Dénéréaz Elise",
-      "Dunkel-Butty Henriette",
-      "Goël Berthe et Juliette",
-      "Rochat Mlle",
-      "Rouge Adèle"
-    ],
-    "Scieurs": [
-      "Dufour Ls.",
-      "Monnier Et. & Cie",
-      "Mottier Adèle",
-      "Muller Edouard",
-      "Mury Ch.",
-      "Ramseier",
-      "de Siebenthal Clément",
-      "Weber P."
-    ],
-    "Sculptures sur bois": [
-      "Anderegg Th. fils",
-      "Ritschard Chr."
-    ],
-    "Sculpteurs sur ivoire": [
-      "Imobersteg E.",
-      "Werner Georg."
-    ],
-    "Sculpture-marbrerie": [
-      "Borlat E.",
-      "Ducret Paul"
-    ],
-    "Skis": [
-      "Lefort G.",
-      "Bornand Sports",
-      "Och frères"
-    ],
-    "Selliers": [
-      "Berger A.",
-      "Bleul Oscar",
-      "Déglon Louis",
-      "Lefort Guillaume"
+    "Cafés": [
+      "Association viticole de La Tour de Peilz",
+      "Barbanera Jean",
+      "Bæchler Vve"
     ]
   }
 }

@@ -1,120 +1,218 @@
 {
-  "Ville de Moudon": {
+  "OULENS": {
+    "Epicerie, mercerie, tabacs": [
+      "Burnens Alfred. R.",
+      "Clavel-Rochat Fréd. R."
+    ],
+    "Inspecteur du bétail": [
+      "Vulliamy Jles."
+    ],
+    "Instituteurs": [
+      "Dupuis Edouard",
+      "Thomas Marguerite"
+    ],
+    "Maçons": [
+      "Chollet Auguste",
+      "Perrazzi Pierre"
+    ],
+    "Maréchal": [
+      "Cochet Louis.",
+      "Emch André. T."
+    ],
+    "Pasteur": [
+      "Dessemontet Constant.",
+      "Gaillard Jean-Jacques"
+    ],
+    "Peintre en porcelaine": [
+      "Vogel Madeleine."
+    ],
+    "Sociétés": [
+      "du battoir à blé",
+      "de fromagerie. R.",
+      "Syndicat agricole et d'élevage. R.",
+      "Crédit mutuel. R.",
+      "de la fromagerie. R.",
+      "anonyme de la machine à battre le blé. R.",
+      "Crédit Mutuel. R.",
+      "Syndicat agricole. R.",
+      "Société du battoir roulant. R.",
+      "de chant Harmonie des Champs",
+      "Section de la Croix-Bleue."
+    ],
+    "Tailleuses": [
+      "Clavel Eléonore",
+      "Clavel Louisa",
+      "Pidoux Berthe",
+      "Vulliamy Rosa"
+    ],
+    "Tailleuse": [
+      "Dufour-Péclard Marie."
+    ],
+    "Téléphoniste": [
+      "Germond Emma.",
+      "Thierry Emile."
+    ],
+    "Préposé à l'assurance-grêle": [
+      "Pidoux Albert."
+    ],
+    "Sellier": [
+      "Daenzer Frédéric."
+    ]
+  },
+  "PAILLY": {
+    "Autorités communales": [
+      "Pahud Albert.",
+      "Cruchet Constant."
+    ],
+    "Syndic": [
+      "Péclard-Courvoisier Louis."
+    ],
+    "Municipaux": [
+      "Courvoisier William",
+      "Emch André",
+      "Deriaz Georges",
+      "Métraux Alf.",
+      "Péclard Ls d'A.",
+      "Péclard Edward"
+    ],
+    "Secrétaire": [
+      "Pidoux Albert"
+    ],
+    "Boursier": [
+      "Courvoisier Roger"
+    ],
+    "Huissier": [
+      "Braillard André."
+    ],
     "Agriculteurs": [
-      "Jan Daniel",
-      "Jossevel Louis",
-      "Löffel Albert.",
-      "Martin frères",
-      "Meylan frères",
-      "Mischler frères",
-      "Monachon Emile.",
-      "Nicod Alfred",
-      "Olivier Henri",
-      "Roux Jules",
-      "Schenk Christian",
-      "Stauffer Ernest",
-      "Thonney Eugène",
-      "Trolliet Maurice",
-      "Wicht Pierre-Paul",
-      "Wütrich Jean",
-      "Wyler Ernest",
-      "Wyttenbach Ernest."
+      "Barraud Denis",
+      "Chaillet frères",
+      "Courvoisier William",
+      "Ruchet",
+      "Deriaz Louis",
+      "Gonet Jacques",
+      "Métraux Alfred",
+      "Pahud Albert",
+      "Péclard René",
+      "Péclard-Courvoisier",
+      "Péclard-Jeanmonod",
+      "Perrin frères",
+      "Perrin Louis",
+      "Piot frères"
     ],
-    "Ameublements (Voir Meubles)": [
-      "Müller Jean"
+    "Amodiateurs": [
+      "Piot et Courvoisier",
+      "Simond"
     ],
-    "Architecte": [
-      "Bertolini Louis"
+    "Société mutualiste de retraite": [
+      "Menétrey Agénor"
     ],
-    "Articles de voyage": [
-      "Bertholet Ernest.",
-      "Ehrsam Jaques.",
-      "Jaggi & Rayroux Sœurs.",
-      "Hermann René"
+    "Aubergistes": [
+      "Jordan Gust.",
+      "Antiglio Marius"
     ],
-    "Assortiments": [
-      "Galeries Vaudoises"
+    "Bétail (comm. de)": [
+      "Bettex Jules."
     ],
-    "Assurances": [
-      "La Suisse",
-      "Assurance mobilière cantonale",
-      "La Bâloise",
-      "La Genevoise",
-      "Stuttgart",
-      "La Winterthour",
-      "La Zurich"
+    "Boulanger": [
+      "Chevalley Charles. R."
     ],
-    "Assurance-vieillesse": [
-      "Associations mutualistes de retraite."
+    "Buraliste postal": [
+      "Thierry Emile. T."
     ],
-    "Automobiles (fournitures et répar.)": [
-      "Desmeules Marcel",
-      "Dutoit Ernest.",
-      "Rubin E.",
-      "Kormann Oscar."
+    "Charpentier": [
+      "Frauche Victor."
     ],
-    "Auto-Taxis — Autocars — (voir aussi Autos)": [
-      "Gris Alexis.",
-      "Magne Maurice.",
-      "Ruch Jean."
+    "Commission scolaire": [
+      "Péclard Oscar",
+      "Menétrey Agénor"
     ],
-    "Banques": [
-      "Agassiz & Cie",
-      "Banque cantonale vaudoise",
-      "Banque populaire de la Broye",
-      "Caisse d'épargne du district de Moudon",
-      "Union Vaudoise du Crédit"
+    "Entrepreneur": [
+      "Péclard Jules."
     ],
-    "Batteuses": [
-      "Besson & Cie",
-      "Chalet Julien"
+    "Epicerie, mercerie": [
+      "Chevalley Charles. R.",
+      "Menétrey Agénor. RT."
     ],
-    "Bazars": [
-      "Lob Elie.",
-      "Pache Louis",
-      "Jaggi & Rayroux",
-      "Steck"
+    "Inspecteur du bétail": [
+      "Pahud Albert."
     ],
-    "Bestiaux (march. de)": [
-      "Blanc David",
-      "Bloch Isaac.",
-      "Bloch-Weil Th.",
-      "Chassot Emile",
-      "Dreyfuss Lazare.",
-      "Eyer Robert.",
-      "Goumaz",
-      "Lévy frères",
-      "Lob Elie."
+    "Instituteurs": [
+      "Gauthey Robert",
+      "Kohler Marguerite."
+    ]
+  },
+  "PENTHEREAZ": {
+    "Autorités communales": [
+      "Collet Ulysse",
+      "Mercier Elie."
     ],
-    "Blanchisseuses": [
-      "Chapuis Marguerite",
-      "Cherpillod A.",
-      "Dalioli-Gillard Elise.",
-      "Daum Rosa.",
-      "Genier-Dutoit Elise.",
-      "Giddey-Rossier Méry.",
-      "Guignet Louise.",
-      "Richardet-Cavin, Berthe."
+    "Syndic": [
+      "Mayor Jules."
     ],
-    "Bois (march. de)": [
-      "Bosco A. & fils.",
-      "Eichenberger Otto.",
-      "Mercanton Emile",
-      "Monachon Emile.",
-      "Chalet Julien",
-      "S. A. d'Injection.",
-      "Scieries réunies Payerne-Moudon (S.A.)"
+    "Municipaux": [
+      "Mercier Henri",
+      "Mercier Gustave",
+      "Mercier Emile",
+      "Millioud René",
+      "Collet Aloïs",
+      "Dupuis Gustave"
     ],
-    "Bois imprégnés": [
-      "S. A. d'Injection."
+    "Secrétaire": [
+      "Collet Louis"
     ],
-    "Bouchers": [
-      "Marendaz R.",
-      "Goumaz J. T.",
-      "Peter Samuel."
+    "Boursier": [
+      "Collet Ulysse"
     ],
-    "Boulangers": [
-      "Badoux Auguste."
+    "Huissier": [
+      "Millioud Charles."
+    ],
+    "Agriculteurs": [
+      "Autier Edouard",
+      "Borgeaud Henri",
+      "Borgeaud Frères",
+      "Bovay Lucien",
+      "Collet Jles",
+      "Collet frères",
+      "Collet Aug.",
+      "Dupuis Gust.",
+      "Dupuis hoirie",
+      "Favez Edouard",
+      "Flaction Jules",
+      "Jaquier Aimée",
+      "Mayor Chs",
+      "Mayor Jules",
+      "Mayor Léonard",
+      "Mercier Fidély",
+      "Mercier Emile",
+      "Mercier Augusta",
+      "Mercier Alfred",
+      "Emile",
+      "Mercier Jules",
+      "Mercier Gustave",
+      "Mercier Denis",
+      "Mercier Hri",
+      "Mercier Elie.",
+      "Millioud Denis",
+      "Millioud Jules",
+      "Millioud René.",
+      "Millioud Edward",
+      "Millioud Jules",
+      "Millioud Lucien",
+      "Péclard Constant",
+      "Perrin Cécile",
+      "Potterat Henri",
+      "Ryser Jean",
+      "Viret Léonie",
+      "Elise"
+    ],
+    "Amodiateurs": [
+      "Autier Edouard. T.",
+      "Mercier Denis. R.",
+      "Mercier Fidély. RT."
+    ],
+    "Associations mutualistes de retraite": [
+      "Alisson Henri"
     ]
   }
 }

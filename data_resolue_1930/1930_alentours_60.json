@@ -1,115 +1,236 @@
 {
-  "VILLE DE MORGES": {
-    "Produits pour le bétail.": [
-      "Ecoffey Ad."
+  "FERREYRES": {
+    "Inspecteur du bétail": [
+      "Pingoud Lucien"
     ],
-    "Professeurs au Collège.": [
-      "Warnery Jules",
-      "Berger Richard",
-      "Chevalley René",
-      "Cruchet Paul",
-      "Friderici Germaine",
-      "Gaillard Ami",
-      "Gauthey René",
-      "Rumpf Paul",
-      "Kupfer Emile",
-      "Landry Marie",
-      "Liardon Suzanne",
-      "Paux Robert",
-      "Schneider Charles",
-      "Vittel Max",
-      "Warnery Marthe"
+    "Instituteur": [
+      "Auberson Jules"
     ],
-    "Professeurs de musique.": [
-      "André Marg.",
-      "Curchod, Mlle",
-      "Maibach R.",
-      "Rochedieu Emile",
-      "Thury Julie, Mlle",
-      "Yersin Emile"
+    "Laitier": [
+      "Benz Samuel"
     ],
-    "Professeurs de natation et de gymnastique.": [
-      "Gauthey René",
-      "Thury Julie"
+    "Menuisiers": [
+      "Chauvet Ern. et Ele."
     ],
-    "Quincaillerie.": [
-      "Bloch-Weill, les fils",
-      "Guala Paul",
-      "Meyer S.",
-      "Rieben Emile",
-      "Richard frères",
-      "Rohr Edouard",
-      "Vuffray Ernest, dame"
+    "Rentiers": [
+      "Burdet Fanny",
+      "Michaud Alfred",
+      "Michaud Fanny"
     ],
-    "Ramoneur.": [
-      "Barmaverain Joseph"
+    "Sociétés": [
+      "de fromagerie",
+      "Battoir à grains",
+      "Syndicat agricole"
+    ]
+  },
+  "GOLLION": {
+    "Autorités communales": [
+      "Chanel John"
     ],
-    "Receveur.": [
-      "Cuénod Aloys"
+    "Syndic": [
+      "Viret William"
     ],
-    "Relieurs.": [
-      "Egli Jean",
-      "Emery Alexandre",
-      "Rouilly Charles fils"
+    "Municipaux": [
+      "Mange Daniel",
+      "Berney Henri",
+      "Viret Ami",
+      "Chanel Lucien",
+      "Pelichet Alphonse",
+      "Viret Elie"
     ],
-    "Repasseuses.": [
-      "Blanc Marie",
-      "Christin Lucie",
-      "Cometta-Laffely, dame",
-      "Grivel Elisa",
-      "Guala Marie",
-      "Magada, dame",
-      "Moor, Vve",
-      "Rolaz-Reymond Marguerite",
-      "Wilhelm Louise"
+    "Agriculteurs": [
+      "Barillier Alfred et fils",
+      "Barillier Louis",
+      "Baudet William",
+      "Berney Henri",
+      "Chabanel John",
+      "Chabanel Jules",
+      "Chabanel W.",
+      "Chanel John",
+      "Chenaux Auguste",
+      "Chenaux Louis fils",
+      "Chenaux Maurice",
+      "Curchod Edouard",
+      "Gremay frères",
+      "Mange Daniel",
+      "Mange, hoirs de Louis",
+      "Maulaz François",
+      "Maulaz Laurent",
+      "Monachon, hoirs de Constant",
+      "Monachon Henri",
+      "Pelichet Armand",
+      "Pelichet Alphonse",
+      "Viret Alexis",
+      "Viret Ami",
+      "Viret Elie",
+      "Viret Emile",
+      "Viret William"
     ],
-    "Représentants de commerce.": [
-      "André & Coste",
-      "Bornand G.-A.",
-      "Degailler Henri fils",
-      "Gerber G.",
-      "Jacot E.",
-      "Oulevay fils",
-      "Post Maurice",
-      "Rœder Philippe",
-      "Thévenot J.-M."
+    "Apiculteurs": [
+      "Chenaux Fernand",
+      "Chenaux Maurice",
+      "Decrausaz Alfred",
+      "Savoie Casimir",
+      "Viret William"
     ],
-    "Sabotiers.": [
-      "Cochard Joseph",
-      "Cuendet Joseph",
-      "Vuffray Henri"
+    "Mutualité scolaire de retraite": [
+      "Rochat J."
     ],
-    "Sages-femmes.": [
-      "Ciocca Rosa",
-      "Maillard, Mme",
-      "Merminod E."
+    "Aubergistes": [
+      "Dubois Henri",
+      "Viret Elie"
     ],
-    "Scieries.": [
-      "Cavin-Ducret L...",
-      "Martinelli Eugène"
+    "Boissellerie": [
+      "Gauthey Henri"
     ],
-    "Sel (débit de).": [
-      "Piguet Albert"
+    "Boucher": [
+      "Curchod Jules"
     ],
-    "Selliers.": [
-      "Jaccoud Georges",
-      "Leder A.",
-      "Perréaz Frédéric"
+    "Boulanger": [
+      "Borgeaud Ami"
     ],
-    "Serruriers.": [
-      "Affolter Charles",
-      "Déglon Emile",
-      "Ernst Frédéric fils",
-      "Lorimier Numa",
-      "Rosset Georges",
-      "Stadlin Ch. & fils"
+    "Cantonniers": [
+      "Curchod Edouard",
+      "Curchod Jules"
     ],
-    "Sociétés.": [
-      "Abbaye de l'Arc",
-      "Abbaye des Amis de Morges",
-      "Association mutuelle des vignerons",
-      "Bibliothèque de Morges",
-      "Bourse allemande"
+    "Commission scolaire": [
+      "Chenaux Maurice",
+      "Pelichet Maurice",
+      "Viret Ami. fils"
+    ],
+    "Couturières": [
+      "Meystre Léa",
+      "Millioud Blanche",
+      "Séchaud Charlotte"
+    ],
+    "Entrepreneur": [
+      "Martinelli Jaques"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Borgeaud Ami",
+      "Paquier Alfred"
+    ],
+    "Fourches et rateaux (fab. de)": [
+      "Jaquier Louis"
+    ],
+    "Inspecteur du bétail": [
+      "Viret Ami fils"
+    ],
+    "Instituteurs": [
+      "Rochat Justin",
+      "Muller Emilie"
+    ],
+    "Laitiers": [
+      "Fiechter Fritz",
+      "Simond Léon"
+    ],
+    "Maréchal": [
+      "Morier Albert"
+    ],
+    "Meunier": [
+      "Usine agricole du Moulinet",
+      "Savoie Casimir"
+    ],
+    "Parc avicole": [
+      "Höhn Auguste-Louis"
+    ],
+    "Poste": [
+      "Paquier Louis"
+    ],
+    "Sage-femme": [
+      "Chenaux Adèle"
+    ],
+    "Sellier": [
+      "Mauerhofer Charles"
+    ],
+    "Sociétés": [
+      "de fromagerie de Gollion",
+      "de fromagerie de Mussel",
+      "du battoir",
+      "Syndicat agricole",
+      "Armes de guerre",
+      "de chant",
+      "de gym.",
+      "Crédit mutuel Raiffeisen"
+    ],
+    "Téléphoniste": [
+      "Viret Elie"
+    ],
+    "Vignerons": [
+      "Chanel Charles",
+      "Chenaux Oscar",
+      "Curchod Jules",
+      "Curchod Ed",
+      "Decrausaz-Curchod Benjamin",
+      "Vallotton Jules"
+    ]
+  },
+  "GRANCY": {
+    "Autorités communales": [
+      "Devantay Armand",
+      "Rochat Edmond"
+    ],
+    "Syndic": [
+      "Devantay Rodolphe"
+    ],
+    "Municipaux": [
+      "Monnet Adr. fils",
+      "Monnet François",
+      "Demont Marius",
+      "David Arnold",
+      "Lavenex Emile",
+      "Clerc Marius"
+    ],
+    "Agriculteurs": [
+      "Bally Emile",
+      "Chauvy Charles",
+      "Clerc, hoirie",
+      "Clerc Henri",
+      "Clerc Ch.",
+      "Devantay Marius",
+      "Devantay Paul",
+      "Devantay Rod.",
+      "Lavenex Alfred",
+      "Moinat Alfred",
+      "Moinat Jean",
+      "Monnet François",
+      "Nicollier",
+      "Tissot frères",
+      "Tissot-Guex"
+    ],
+    "Amodiateurs": [
+      "Moinat Jean",
+      "Devantay Rod."
+    ],
+    "Boulanger": [
+      "Peter Robert"
+    ],
+    "Cafetiers": [
+      "Jaton, Veuve",
+      "Schenkel Arthur"
+    ],
+    "Charpentiers": [
+      "Gachet Emile",
+      "Roulet William"
+    ],
+    "Charron": [
+      "Panchaud John"
+    ],
+    "Commission scolaire": [
+      "Devantay Armand",
+      "Tissot Robert"
+    ],
+    "Couturière": [
+      "Devantay Alice"
+    ],
+    "Distillateur": [
+      "Moret Charles"
+    ],
+    "Epicerie, mercerie": [
+      "Guigger, Vve."
+    ],
+    "Inspecteur du bétail": [
+      "Devantay Camille"
     ]
   }
 }

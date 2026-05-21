@@ -1,240 +1,103 @@
 {
-  "Ville d'Avenches": {
-    "Relieur-encadreur": [
-      "Pfeiffer Osw."
+  "Montreux": {
+    "Cafés-restaurants.": [
+      "Piantanida Marg.",
+      "Pilloud Silvestre",
+      "Piller, Vve de Pierre",
+      "Perroud F.",
+      "Platzer-Vogt, Mme",
+      "Ponti R.",
+      "Progin Ed.",
+      "Raemy L.",
+      "Regamey, Mme",
+      "Remy Charles",
+      "Restaurant du Gr. Hôtel",
+      "Rey Gustave",
+      "Riva Attilio",
+      "Rognon Mce",
+      "Schär Alexandre",
+      "Schaller Ls",
+      "Scheidegger",
+      "Schöri J. & Cie",
+      "Thierfelder, Mlle",
+      "Thuillard Ch.",
+      "Tornay E.",
+      "Viquerat John",
+      "Wunderlich, Vve",
+      "Yersin Adr.",
+      "Zagnoli Auguste",
+      "Zagnoli J.",
+      "Zaninetta U."
     ],
-    "Renseignements commerciaux": [
-      "Faucherre Marcel",
-      "Aeschlimann Auguste"
+    "Cafés-Restaurants sans alcool.": [
+      "Bertholet, Mme",
+      "Hofer Sœurs",
+      "La Cloche (Hôtel-restaurant), S. A.",
+      "Meier-Monti Ch.",
+      "Masson Jean",
+      "Pernet Marc",
+      "Walther-Buxcel N."
     ],
-    "Ressorts, râcles à tondre les draps (fab. de)": [
-      "Lecoultre G."
+    "Cafés torréfiés (Voir aussi Epicerie).": [
+      "Kaiser (Sté)"
     ],
-    "Sage-femme": [
-      "Guisan, Dlle."
+    "Camionneurs et déménageurs. voir aussi Voituriers.": [
+      "Allamand J.",
+      "Baumann Emile",
+      "Bonnet & Cie, S. A.",
+      "Braita Jean & fils",
+      "Cœndet Henri",
+      "Callias A.-H., Soc. An.",
+      "Deppen David",
+      "Francey Ed., (S. A.)",
+      "Gindroz Daniel",
+      "Masson frères",
+      "Millasson Charles",
+      "Montreux-Transports, S. A.",
+      "Ramseyer G., Vve",
+      "Stein",
+      "Thévenaz G.",
+      "Wirz Alfred",
+      "Wirz Charles"
     ],
-    "Scierie": [
-      "Pradervand Ed."
+    "Cannage de chaises.": [
+      "Aubort Henri",
+      "Costa, Vve de Noël"
     ],
-    "Selliers": [
-      "Charmey Alb.",
-      "Revelly Albert"
+    "Canots-automobiles.": [
+      "Chevallay & Cie",
+      "Vacheron J."
     ],
-    "Serrurier": [
-      "Hug Fritz"
+    "Caoutchouc (articles en).": [
+      "Grezet Alfred",
+      "Laval-Golay",
+      "Régis Ernest",
+      "Vogt Maurice"
     ],
-    "Sociétés": [
-      "« Aventica » (S. A.)",
-      "Société Suisse pour l'industrie des pierres fines",
-      "Steiner Max",
-      "Tir des Bourgeois",
-      "Laiterie d'Avenches",
-      "Communauté israélite",
-      "de la Chapelle",
-      "de développement",
-      "Pidoux Adolphe",
-      "Syndicat agricole",
-      "Coopérat. de consommation",
-      "de gymnastique",
-      "de tir l'Aventicienne",
-      "Sect. de la Croix-Bleue",
-      "Chœur d'hommes suisse allemand (« Eintracht »)",
-      "Orchestre de la Ville",
-      "Musique La Lyre",
-      "Immob. de constructions",
-      "Fonered Ls.",
-      "Orphellinat de la Broye",
-      "de Weiss Alb.",
-      "Moulin agricole",
-      "Association agricole de distillerie"
+    "Carreaux et revêtements.": [
+      "Gétaz, Romang, Ecoffey (S. A.)"
     ],
-    "Tabacs et cigares": [
-      "Favre Louise",
-      "Berger-Gilliard Suzanne",
-      "Besson Marcel",
-      "Ludy Lucien",
-      "Rubattel Aline",
-      "Sieber Charles"
+    "Carrossiers.": [
+      "Bleul Oscar",
+      "Dumuid Roul",
+      "Emery J.",
+      "Ramseyer-Graf Jean",
+      "Saudan Léon",
+      "Talon Jules"
     ],
-    "Tailleur de pierres": [
-      "Michel Camille"
+    "Cartes postales (édition).": [
+      "Phototypie Co., S. A."
     ],
-    "Tailleurs": [
-      "Jägerlehner",
-      "Maeder Alfr.",
-      "Ryser Samuel",
-      "Vallon Emile"
+    "Cercueils.": [
+      "Bonnet Ernest & Cie",
+      "Hausermann A.",
+      "Mottier Adèle",
+      "Pompes funèbres générales, S. A."
     ],
-    "Tailleuses": [
-      "Beausire-Zahn Rosa",
-      "Kaesermann, dame",
-      "Revelly Julie"
-    ],
-    "Tapissier-décorateur": [
-      "Muller A."
-    ],
-    "Télégraphe": [
-      "Chuard Eugène"
-    ],
-    "Téléphone": [
-      "Bureau officiel public"
-    ],
-    "Tonnelier": [
-      "Schönenberger Samuel"
-    ],
-    "Tourbe (exploitation)": [
-      "Tourbières communales d'Avenches"
-    ],
-    "Tourneur": [
-      "Berguer Julien"
-    ],
-    "Vélos": [
-      "Burgy Ed.",
-      "Christinat Marcel"
-    ],
-    "Vétérinaire": [
-      "Pidoux Adolphe"
-    ],
-    "Vins (marchands de)": [
-      "Golay Paul",
-      "Schrecker Frédéric"
-    ],
-    "Voiturier": [
-      "Kaesermann Walter"
-    ],
-    "Volailles": [
-      "Cantaluppi Ch."
-    ]
-  },
-  "BELLERIVE": {
-    "Volailles": [
-      "Autobus",
-      "Téléphone et télégraphe",
-      "Asile de Vieillards de la Vallée de la Broye"
-    ],
-    "Président du Conseil communal": [
-      "Tombez Jean"
-    ],
-    "Secrétaire": [
-      "Grandjean Aloïs"
-    ],
-    "Syndic": [
-      "Bessard Marc"
-    ],
-    "Municipaux": [
-      "Grandjean Auguste",
-      "Tombez Maurice",
-      "Jannin Francois",
-      "Paul Louis",
-      "Berthoud Alf.",
-      "Grandjean Olivier"
-    ],
-    "Agriculteurs": [
-      "Bessard Julien",
-      "Besson Francois",
-      "Besson Jules",
-      "Grandjean Bernard",
-      "Parisod Paul",
-      "Paul Louis"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Mme S. Paul"
-    ],
-    "Banque": [
-      "Agence banque populaire de la Broye",
-      "Bessard Marc"
-    ],
-    "Café": [
-      "Guignard Paul"
-    ],
-    "Charron": [
-      "Berthoud Aug."
-    ],
-    "Chauffeur": [
-      "Guignard Paul"
-    ],
-    "Commission scolaire": [
-      "Grandjean Bernard",
-      "Tombez Alfr."
-    ],
-    "Couturière": [
-      "Besson Mathilde"
-    ],
-    "Epicerie": [
-      "Vacheron Louise"
-    ],
-    "Inspecteur du bétail": [
-      "Grandjean Auguste"
-    ],
-    "Maréchal": [
-      "Grandjean Bernard"
-    ],
-    "Sociétés": [
-      "Société du battoir électrique Bellerive, S. A.",
-      "Syndicat d'élevage bovin du Vully"
-    ],
-    "Viticulteurs": [
-      "Grandjean Georges",
-      "Paul Léon",
-      "Vacheron Louis"
-    ]
-  },
-  "Cotterd": {
-    "Agriculteurs": [
-      "Girard Marcel",
-      "Jaunin François"
-    ],
-    "Boisselier": [
-      "Fasnacht Walther"
-    ],
-    "Café": [
-      "Marti Fritz"
-    ],
-    "Instituteurs": [
-      "Basset Armand",
-      "Paul-Porchet Sophie"
-    ],
-    "Laitier": [
-      "Balzli Emile"
-    ],
-    "Pasteur": [
-      "Meyer Ernest"
-    ],
-    "Société": [
-      "Laiterie de Cotterd"
-    ],
-    "Viticulteur": [
-      "Berthoud Alfred"
-    ]
-  },
-  "Salavaux": {
-    "Agriculteurs": [
-      "Bessard Arnold",
-      "Bessard Henri",
-      "Bessard Max",
-      "Grandjean Max",
-      "Tombez Mce"
-    ],
-    "Apiculteurs": [
-      "Grandjean Olivier",
-      "Keller Louise"
-    ],
-    "Appareilleur": [
-      "Barraud Louis"
-    ],
-    "Auberges et cafés": [
-      "Rieben Edouard",
-      "Vincent Paul"
-    ],
-    "Bétail": [
-      "Hurni Fritz"
-    ],
-    "Bouchers": [
-      "Stuky",
-      "Vanner"
-    ],
-    "Boulanger": [
-      "Grandjean Olivier"
+    "Chapeliers.": [
+      "A l'Innovation",
+      "Beda Pierre",
+      "Cantarini Edwige"
     ]
   }
 }

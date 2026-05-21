@@ -1,218 +1,109 @@
 {
-  "TREYCOVAGNES": {
-    "Autorités communales": [
-      "Comte Louis fils",
-      "Bovay Charles",
-      "Moser Ernest",
-      "König Werner",
-      "Balzli Edouard fils",
-      "Baudat Dav.",
-      "Bovay Jules",
-      "Moser Ernest",
-      "Aegler Adolphe",
-      "Bovay Jules"
+  "Montreux": {
+    "Municipalité": [
+      "Anderegg Théophile",
+      "Bonard",
+      "Chevalley Henri"
     ],
-    "Agriculteurs": [
-      "Aegler Adolphe",
-      "Balzli Charles",
-      "Balzli Edouard, père",
-      "Baudat frères",
-      "Berney Maurice",
-      "Bovay Jules",
-      "Comte Alfred",
-      "Comte Ls",
-      "Comte Maurice",
-      "Cordey Hri",
-      "Groux Frédéric",
-      "Jeanneret Constant",
-      "Moser Gottlieb",
-      "Petitpierre Jules",
-      "Pillonel John",
-      "Truan Emile"
+    "Conseil administratif du cercle": [
+      "Kuès Paul",
+      "Cochard Ulysse",
+      "Puenzieux Albert",
+      "Masson Charles",
+      "Maron Robert",
+      "Blanc Oscar",
+      "Chessex Henri",
+      "Puenzieux Albert",
+      "Chevalley Henri",
+      "Monnet Alex."
     ],
-    "Mutualité scolaire de retraite": [
-      "Favre J."
+    "Bureaux officiels de renseignements de Montreux et environs": [
+      "Société de Développement"
     ],
-    "Aubergiste": [
-      "Balzli Edouard fils"
+    "Bureau de renseignements": [
+      "Sprintz Henri"
     ],
-    "Buraliste postal": [
-      "Berney Louis"
-    ],
-    "Carrier": [
-      "Petitpierre Jules"
+    "Bureau d'assistance publique et Asile de nuit du cercle": [
+      "Bureau",
+      "Thévenaz Jules"
     ],
     "Commission scolaire": [
-      "Bovay Jules",
-      "Berney Maurice",
-      "Comte Maurice"
+      "Villard Louis",
+      "Rossé Emmanuel",
+      "Favre Jules",
+      "Jaquet Ed.",
+      "Burnens Alexis",
+      "Mercanton Félix",
+      "Pilivet Jules",
+      "Chessex Alexis",
+      "Tauxe-Berthex",
+      "Blanc Léon",
+      "Thibaud Paul",
+      "Fugli, Mme",
+      "Mayor, Mme."
     ],
-    "Entrepreneurs": [
-      "Ferrini Emile",
-      "Petitpierre Jules"
+    "Directeur des Ecoles primaires": [
+      "Vullioud Jules"
     ],
-    "Epicerie, tabacs": [
-      "Zwahlen Jean"
+    "Médecin scolaire": [
+      "Lestchinsky Alexandre"
     ],
-    "Inspecteur du bétail": [
-      "Comte Maurice"
+    "Justice de paix du cercle": [
+      "Masson Eug.",
+      "Chessex Lucien",
+      "Michel Louis",
+      "Vincent Emile",
+      "Favre Jules",
+      "Cartier Henri"
     ],
-    "Instituteur": [
-      "Favre Jules"
+    "Feu (service du)": [
+      "Masson Eugène",
+      "Pilet Charles",
+      "Blanc Léon",
+      "Margot Charles"
     ],
-    "Laitier": [
-      "Zwahlen Otto"
+    "Police": [
+      "Byrde David"
     ],
-    "Maréchal-forgeron": [
-      "Berney Henri"
+    "Abattoirs": [
+      "Abattoirs du Cercle",
+      "Montandon Henri",
+      "Ravussin Henri"
     ],
-    "Pain (dépôt de)": [
-      "Zwahlen Jean"
+    "Administration postale": [
+      "Borcard Jules",
+      "Mayor A.",
+      "Goin M.",
+      "Faucherre",
+      "Maillard E.",
+      "Bettens",
+      "Broyon L.",
+      "Burnens Alexis",
+      "Holzli Charles",
+      "Reutler J.",
+      "Spicher C.",
+      "Wulliamoz Aug."
     ],
-    "Pépiniériste et apiculteur": [
-      "Comte Henri"
+    "Affichage": [
+      "Société générale d'affichage"
     ],
-    "Rentier": [
-      "Baatard Pierre"
+    "Agence commerciale": [
+      "Furer Pierre"
     ],
-    "Société": [
-      "de laiterie"
+    "Agence immobilière": [
+      "Furer Pierre"
     ],
-    "Sucrerie d'Aarberg": [
-      "König Werner"
+    "Agence de location": [
+      "Furer Pierre",
+      "Légeret Ch.",
+      "Puenzieux Alb.",
+      "Veillard Henri"
     ],
-    "Téléphone, station communale": [
-      "Moser Ernest"
-    ]
-  },
-  "URSINS": {
-    "Autorités communales": [
-      "Bovay Albert",
-      "Tacheron Albert",
-      "Tacheron Constant",
-      "Burdet Auguste",
-      "Bovay Armand",
-      "Bettex Armand",
-      "Baudin François",
-      "Bovay Edouard",
-      "Brechon Const.",
-      "Bovay Maurice",
-      "Burdet Aug."
-    ],
-    "Agriculteurs": [
-      "Baudin François",
-      "Bettex Armand",
-      "Bovay Albert",
-      "Bovay Armand",
-      "Bovay Denis",
-      "Bovay Edouard",
-      "Bovay Victor",
-      "Bovay Ulysse",
-      "Brechon Const.",
-      "Burdet Aug.",
-      "Burdet Const.",
-      "Burdet Eug.",
-      "Burdet Ewald",
-      "Burdet Octave",
-      "Burdet Victor",
-      "Christin Gustave",
-      "Frauche Constant",
-      "Tacheron Constant",
-      "Tacheron David",
-      "Wagnière Constant"
-    ],
-    "Aubergiste": [
-      "Burdet Octave"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Gaillard R."
-    ],
-    "Commission scolaire": [
-      "Tacheron Albert",
-      "Bovay Maurice",
-      "Bovay Armand"
-    ],
-    "Epicerie": [
-      "Baudin Alice",
-      "Bovay Alice"
-    ],
-    "Fruits et légumes": [
-      "Sarbach Jean. T."
-    ],
-    "Inspecteur du bétail": [
-      "Burdet Const."
-    ],
-    "Instituteurs": [
-      "Gaillard René",
-      "Kasser Isabelle"
-    ],
-    "Laitier": [
-      "Richard Fritz"
-    ],
-    "Maçon": [
-      "Cerutti fils"
-    ],
-    "Machine à battre": [
-      "Société du battoir à grains"
-    ],
-    "Maréchal": [
-      "Waridel Jaques"
-    ],
-    "Officier d'état-civil": [
-      "Guichard Marcel"
-    ],
-    "Pierriste": [
-      "Carrard Henri"
-    ],
-    "Pionnier": [
-      "Pellaux François-Albert"
-    ],
-    "Poste": [
-      "Regnin Aline"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "d'agriculture",
-      "Bibliothèque",
-      "de jeunesse"
-    ],
-    "Téléphoniste": [
-      "Burdet Eugénie"
-    ]
-  },
-  "VALEYRES-SOUS-MONTAGNY": {
-    "Autorités communales": [
-      "Simon Alfred",
-      "Michoud Jean",
-      "Margot Louis",
-      "Pilliard Alfred",
-      "Crot Louis",
-      "Jaggi Maurice",
-      "Pilliard Jules",
-      "Jaggi Maurice"
-    ],
-    "Agriculteurs": [
-      "Chevalley Louis",
-      "Correvon Lucien",
-      "Hänni Fritz",
-      "Martin Constant",
-      "Martin Emmanuel",
-      "Martin Em.",
-      "Michoud Jean",
-      "Pilliard Alfr.",
-      "Pilliard Eugène",
-      "Pilliard François",
-      "Pilliard Hri",
-      "Porraz François",
-      "Porraz Hri",
-      "Schneider Fritz",
-      "Simon Alfred"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Burdet J."
-    ],
-    "Aubergiste": [
-      "Boillet Emma, Vve."
+    "Agence de publicité": [
+      "Kriz Eug.",
+      "Orell-Füssli",
+      "Publicitas S.A.",
+      "Sprintz H."
     ]
   }
 }

@@ -1,212 +1,119 @@
 {
-  "CORSIER": {
-    "Sociétés": [
-      "Cornu. R.",
-      "Société industrielle d'applications mécaniques, S. A. R."
+  "VILLE DE PAYERNE": {
+    "Sociétés.": [
+      "Banque populaire de la Broye",
+      "des tireurs à la cible",
+      "de tir < La Jeune Broyarde >",
+      "» du Grütli allemand",
+      "» < La Campagnarde des Hameaux >",
+      "de tir aux armes de guerre, La Broyarde",
+      "l'Espérance",
+      "l'Harmonie",
+      "Union instrumentale",
+      "l'Avenir",
+      "Cercle démocratique libéral",
+      "Cercle de la Reine Berthe",
+      "anonyme des Tourbières d'Yverdon",
+      "vaudoise de secours mutuels",
+      "franç. de secours mutuels",
+      "la Fraternité",
+      "laiterie de Payerne",
+      "laiterie de Vers chez Perrin",
+      "de gymnastique",
+      "de Jeunesse Payernoise",
+      "la Ruche (logem. ouvriers)",
+      "le Chalet (Club Alpin)",
+      "usiniers du Corrençon",
+      "Amies de la Jeune Fille, comité du Vieux",
+      "des sous-officiers",
+      "d'agriculture",
+      "battoir à grains (Alph. Plumettaz",
+      "de patinage",
+      "distillerie agricole. Payerne-Corcelles",
+      "italienne de secours mutuels de Payerne et de la vallée de la Broye",
+      "typographique payernoise",
+      "catholiques de Payerne",
+      "immobilière payernoise",
+      "pour l'achat en commun des tabacs bruts suisses",
+      "Section de la Croix-Bleue",
+      "Syndicat agricole",
+      "Société du pâturage des Seytorées",
+      "Syndicat d'élevage bovin des hameaux de Payerne",
+      "Union chrétienne de jeunes gens"
     ],
-    "Téléphone": [
-      "Giroud Marcel"
+    "Socques (fab. de).": [
+      "Gloor Charles",
+      "Laurent Jules",
+      "Siegrist-Liniger Th."
     ],
-    "Voyer": [
-      "Ledermann Samuel"
+    "Tabacs bruts en feuilles.": [
+      "Weber & Cie",
+      "Fivaz & Cie",
+      "Frossard J. & Cie, S. A.",
+      "Perrin Emile, S. A."
     ],
-    "Divers": [
-      "Bercher Ls",
-      "Bloch Albert",
-      "Brunet-Rogivue Henri",
-      "Dapples E.",
-      "Dormont J.",
-      "David R.",
-      "de Montet Ch.",
-      "de Muralt-Feer J.",
-      "de Meuron",
-      "Du Bochet Blanche",
-      "Glauser H.",
-      "Hamilton, Mlle",
-      "Huguenin O.",
-      "Kramer O.",
-      "Mayor-Delapraz",
-      "Monod",
-      "Schellenbaum Herm."
+    "Tabacs, cigares (manufactures de).": [
+      "Fivaz & Cie",
+      "Frossard J. & Co., S. A.",
+      "Weber & Cie"
     ],
-    "Autorités communales": [
-      "Maillard Fr.",
-      "Cavillier Emile"
+    "Tabacs et cigares.": [
+      "Ischy-Savary Ls",
+      "Clerc-Brocard Adolphe",
+      "Colomb Eugène",
+      "Comte-Rapin Ct.",
+      "Jöhr Ernest",
+      "Jomini Louis",
+      "Morgenegg E.",
+      "Perrin frères (gros)",
+      "Perrin Fernand",
+      "Perrin-Ryser Henri",
+      "Savary-Battaini Elise",
+      "Savary-Schwab E."
     ],
-    "Syndic": [
-      "Dutoit-de Joffrey Gustave"
+    "Tailleurs.": [
+      "Bigler Rodolphe",
+      "Bosshard Robert",
+      "Cherbuin Albert",
+      "Doudin César",
+      "Walter Edouard"
     ],
-    "Municipaux": [
-      "Delafontaine Ch.",
-      "Cuénod Jules",
-      "Pilet-Cochard Hri",
-      "Volet Francois"
+    "Tailleuses.": [
+      "Bovet-Jomini Alice",
+      "Chaudet",
+      "Rossier-Delaurens",
+      "Ehrsam-Cibis F.",
+      "Galley Cécile",
+      "Gilland Eugénie",
+      "Givel-Arrighi Charlotte",
+      "Gris Marie",
+      "Groux Marguerite",
+      "Guignet",
+      "Humbert-Prince C.",
+      "Jan-Guiger",
+      "Jomini",
+      "Jomini-Jan",
+      "Krieg-Cherbuin",
+      "Möschberger Marie",
+      "Ruchti Dora",
+      "Ryser Frida"
     ],
-    "Secrétaire": [
-      "Clerc Jules"
+    "Tanneur.": [
+      "Serex-Jomini"
     ],
-    "Agent de police": [
-      "Jan Jules"
+    "Tapissiers.": [
+      "Cherbuin Paul",
+      "Ehrsam Emile",
+      "Fiaux Félix",
+      "Germond Frédéric",
+      "Jomini-Ruérat Louis"
     ],
-    "Agriculteurs": [
-      "Amstein Jules",
-      "Bachmann Léon",
-      "Barbey Charles",
-      "Barbey Henri-Daniel",
-      "Barbey Jean-François",
-      "Barbey Jules-François",
-      "Barbey Louis",
-      "Bettens Aloïs",
-      "Bettens Jean",
-      "Blanc Henri",
-      "Bonny Charles",
-      "Boulenaz Emile",
-      "Buffat Aloys",
-      "Buffat Oscar",
-      "Bürki Ernest",
-      "Bürki Robert",
-      "Burnier Henri",
-      "Chaubert Eug.",
-      "Chaubert Gabriel",
-      "Chaubert Jules",
-      "Chavannes Robert-Eugène",
-      "Cherpillod Gustave",
-      "Chevallier Henri",
-      "Cochard Julien",
-      "Conne Albert",
-      "Conne Henri",
-      "Conne Léon",
-      "Cossy Ferdinand",
-      "Cuénod Aloïs",
-      "Cuénod Emile",
-      "Cuénod François",
-      "Cuénod Jules",
-      "Delafontaine Charles",
-      "Delafontaine Jules",
-      "Dovat Victor",
-      "Dubuis Félix",
-      "Dutoit Gustave",
-      "Emery Marie",
-      "Emery Samuel",
-      "Genoud Jules",
-      "Genoud Edouard",
-      "Genoud Olivier",
-      "Gilgen Ed.",
-      "Gilgen Emile",
-      "Gonseth Henri",
-      "Grognuz Georges",
-      "Grognuz Paul",
-      "Gandchamp Henri",
-      "Herminjard Aloys",
-      "Herminjard Auguste",
-      "Herminjard Camille",
-      "Herminjard Oscar",
-      "Jordan Ch.",
-      "Miéville Emile",
-      "Murisier Charles",
-      "Neyroud Marius",
-      "Pilet Jean",
-      "Pilet Henri",
-      "Pilet Louis",
-      "Pilet Robert",
-      "Poget Charles",
-      "Poget John",
-      "Portmann Aloïs",
-      "Portmann Robert",
-      "Ruchti Charles",
-      "Rufenacht Paul",
-      "Rufenacht Rose, Vve de Louis",
-      "Riser Fritz",
-      "Staehli, Vve de Ferdinand"
+    "Teinturiers.": [
+      "Gingins Louis",
+      "Perrin-Ryser Henri"
     ],
-    "Apiculteurs": [
-      "Dutoit Gustave",
-      "Magnenat Francis"
-    ],
-    "Architecte": [
-      "Volet François"
-    ],
-    "Armurier": [
-      "Heer Charles"
-    ],
-    "Assurances (inspecteur)": [
-      "Langenbach Louis"
-    ],
-    "Assurance-vieillesse": [
-      "Mutualité scolaire de retraite"
-    ],
-    "Boucher": [
-      "Cornuz Ernest"
-    ],
-    "Boulangers": [
-      "Herminjard Arnold",
-      "Reymond Robert"
-    ],
-    "Cafetiers": [
-      "Association Vinicole de Corsier",
-      "Cuénod Jules",
-      "Taverney Alfred",
-      "Herren-Gilgen Jean"
-    ],
-    "Charpentiers": [
-      "Volet H. et ses fils"
-    ],
-    "Charretier": [
-      "Villiger Robert"
-    ],
-    "Comptable": [
-      "Duofur Jules"
-    ],
-    "Cordonniers": [
-      "Jomini Hri",
-      "Simon Henri"
-    ],
-    "Electriciens": [
-      "Delafontaine César",
-      "Gottraux André"
-    ],
-    "Entrepreneurs": [
-      "Pari Louis",
-      "Pilet, frères"
-    ],
-    "Epiceries": [
-      "Hold Augusta",
-      "Herminjard Arnold",
-      "Lehnherr Fritz",
-      "Reymond Robert",
-      "Rietschy Chs. R.",
-      "Rochat Edouard",
-      "Taverney Anna"
-    ],
-    "Ferblantier": [
-      "Ferrari Edouard"
-    ],
-    "Gypsiers": [
-      "Gentilini Laurent",
-      "Goletta Auguste"
-    ],
-    "Horloger": [
-      "Chovin Henri"
-    ],
-    "Inspecteurs du bétail": [
-      "Barbey Ls",
-      "Magnenat Francis"
-    ],
-    "Instituteurs": [
-      "Emery Henri",
-      "Maillard Fritz",
-      "Musy Alestin",
-      "Maillard-Péclard Rose",
-      "Grand Liliane",
-      "Malherbe Odette"
-    ],
-    "Justice de paix": [
-      "Forestier Louis",
-      "Delafontaine Ch.",
-      "Taverney Henri",
-      "Taverney-Fonjallaz Emmanuel",
-      "Monod Robert",
-      "Marcuard Robert"
+    "Télégraphe et Téléphone.": [
+      "Jacquat Henri"
     ]
   }
 }

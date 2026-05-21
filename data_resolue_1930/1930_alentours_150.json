@@ -1,217 +1,124 @@
 {
-  "BAULMES": {
-    "Entrepreneurs": [
-      "Bollini & Cie.",
-      "Ciana Jean-Baptiste"
+  "Ville de Morges": {
+    "Marchand grainier.": [
+      "Tschinen H."
     ],
-    "Epicerie, mercerie, tabacs": [
-      "Guignet Edouard",
-      "Margot Félix",
-      "Reichenbach Théophile",
-      "Société coopérative de consommation",
-      "Menétrey Augusta"
+    "Machines à coudre.": [
+      "Buchet Louisa",
+      "Chabloz Henri",
+      "Golaz Franz",
+      "Mottaz Victor"
     ],
-    "Ferblantiers": [
-      "Collet Ch., fils",
-      "Mottaz Emile"
+    "Marbriers.": [
+      "André frères",
+      "Plantaz Louis"
     ],
-    "Gardes de triage": [
-      "Deriaz Marc",
-      "Randin Auguste"
+    "Maréchaux.": [
+      "Kocher Charles",
+      "Rochat Gust.",
+      "Scheidegger Louis"
     ],
-    "Géomètre breveté": [
-      "Mermod John"
+    "Masseurs.": [
+      "Glayre Justin",
+      "Lauber E.",
+      "Nicoud-Bussy dame"
     ],
-    "Gypsier": [
-      "Bollini Jean"
+    "Matelassières.": [
+      "Chauvet Fanny",
+      "Crausaz Marie"
     ],
-    "Inspecteur du bétail": [
-      "Dériaz Juste"
+    "Matériaux de construction.": [
+      "Morisetti Pierre",
+      "Piaget Georges Vve & Cie",
+      "Decarmine Pierre"
     ],
-    "Inspecteur forestier": [
-      "Favez Prosper"
+    "Mécaniciens.": [
+      "Bœsiger Armand",
+      "Buchet Louisa",
+      "Déglon Emile",
+      "Favez Louis",
+      "Friedrich Ele",
+      "Juilland Edouard",
+      "Mottaz Victor",
+      "Ramuz Charles"
     ],
-    "Instituteurs": [
-      "Ravussin Ernest",
-      "Menétrey André",
-      "Ravussin Marguerite",
-      "Deriaz Marguerite",
-      "Clerc Julienne",
-      "Clerc, Mme"
+    "Médecins.": [
+      "Adert Maur.",
+      "Aeschlimann Boris",
+      "Forel F.",
+      "Gagnebin Marius",
+      "Masson Raoul",
+      "Warnery Pierre"
     ],
-    "Justice de paix": [
-      "Dériaz Henri",
-      "Ravey Gust.",
-      "Gaillard Numa",
-      "Deriaz Julien",
-      "Martinet Louis",
-      "Cachemaille Alfred"
+    "Menuisiers.": [
+      "Arnold Edmond",
+      "Blanchard Charles",
+      "Blanchard Henri & fils",
+      "Chauvet Théodore",
+      "Engler frères",
+      "Manera Antoine & fils",
+      "Nicolier Jules",
+      "Ramuz Georges",
+      "Ruegsegger Alfred"
     ],
-    "Laitier": [
-      "Pérusset Charles"
+    "PARQUETERIE D'AIGLE": [
+      "PARQUETERIE D'AIGLE"
     ],
-    "Liqueurs diverses (fabr. de)": [
-      "Chappuis Marius"
+    "Mercerie.": [
+      "Baum",
+      "Chabloz Henri",
+      "Ethenoz William",
+      "Favez Louis",
+      "Jaccard-Michel A.",
+      "Jayet Charles",
+      "Linder-Mayor Rose",
+      "Martin Blanche",
+      "Meyer Sylvain",
+      "Savary & Brunner",
+      "Seewer Marguerite",
+      "Vernet-Bernard Clémence, Vve"
     ],
-    "Maréchaux": [
-      "Bertschy Alexandre",
-      "Mabille David"
+    "Meubles (march. de).": [
+      "Engler, Vve de Ch.",
+      "Engler Frères",
+      "Linder François",
+      "Moyard Henri",
+      "Nicolier Jules"
     ],
-    "Médecin": [
-      "Roulier William"
+    "Meuniers.": [
+      "Jaccoud & fils"
     ],
-    "Menuisiers": [
-      "Collet Maurice",
-      "Dériaz Albert"
+    "Modelage mécanique.": [
+      "Girod W."
     ],
-    "Moulin": [
-      "Pérusset Ch."
+    "Modistes.": [
+      "Anklin-Moser B.",
+      "Desponds Renée",
+      "Fonjallaz-Emery A.",
+      "Klose-Despland",
+      "Maquelin Augusta",
+      "Pernet L.",
+      "Reymond-Duflon",
+      "Tzaud, dame"
     ],
-    "Officier d'état-civil": [
-      "Dériaz Julien"
+    "Moutarde (fab. de).": [
+      "Von Auw & Cie"
     ],
-    "Pasteurs": [
-      "Prod'hom Roger",
-      "Henzi J."
+    "Musée.": [
+      "Musée du Vieux Morges"
     ],
-    "Photographe": [
-      "Dériaz Armand"
+    "Naturaliste-préparateur.": [
+      "Millioud Jean"
     ],
-    "Quincaillerie": [
-      "Reichenbach Théophile"
+    "Notaires.": [
+      "Buchet Louis",
+      "Cuénod Eugène",
+      "Gonvers Ernest",
+      "Kindler C.",
+      "Rattaz A."
     ],
-    "Sage-femme": [
-      "Cornu Emma"
-    ],
-    "Savon pour vitres": [
-      "Chappuis Marius"
-    ],
-    "Scieurs": [
-      "Berger Fréd.",
-      "Pérusset Ch.-Henri-Victor"
-    ],
-    "Serrurier": [
-      "Gailloud Constant"
-    ],
-    "Sociétés": [
-      "de laiterie centrale",
-      "Militaire",
-      "du poids public",
-      "Cercle du Jura",
-      "Immobilière",
-      "des chaux et ciments",
-      "de chant La Concorde",
-      "Section de la Croix-Bleue",
-      "Syndicat agric.",
-      "Société d'agriculture Baulmes-Vuitebœuf",
-      "Société de gymnastique",
-      "Section d'éclaireurs unionistes",
-      "Caisse communale d'apprentissage et d'étude",
-      "de musique L'Espérance"
-    ],
-    "Télégraphiste": [
-      "Dériaz Léon"
-    ],
-    "Usine de chaux et ciments": [
-      "Martin Henri",
-      "Buffat André"
-    ],
-    "Vaisselle-verrerie": [
-      "Dupasquier Marie"
-    ],
-    "Vélos, taxis": [
-      "Ravussin G.",
-      "Isler Collet Otto"
-    ],
-    "Vins (march. de)": [
-      "Deriaz Rob"
-    ]
-  },
-  "BAVOIS": {
-    "Autorités communales": [
-      "Agassis Louis",
-      "Agassis Alexis",
-      "Agassis Emile",
-      "Carrel Henri",
-      "Gobalet Alfred",
-      "Oulevay Louis",
-      "Agassiz Alfred",
-      "Rochat Georges",
-      "Oulevay Paul",
-      "Monnay Charles"
-    ],
-    "Amodiateurs": [
-      "Agassis G. T.",
-      "Carrel Louis",
-      "Gobalet frères"
-    ],
-    "Assurance-vieillesse": [
-      "Robellaz O."
-    ],
-    "Aubergistes": [
-      "Crottaz Eug.",
-      "Denys Charles"
-    ],
-    "Boulanger": [
-      "Oulevay Marc"
-    ],
-    "Commission scolaire": [
-      "Agassis Emile",
-      "Oulevay Emile"
-    ],
-    "Epicerie, mercerie, tabacs": [
-      "Agassis-Carrel Emile",
-      "Agassis Juste-Louis",
-      "Bezençon Charles",
-      "Kohly Elise",
-      "Vulliamy Charles"
-    ],
-    "Inspecteurs du bétail": [
-      "Roulin Ulysse",
-      "Hermin Adolphe"
-    ],
-    "Instituteurs": [
-      "Robellaz Olivier",
-      "Robellaz Jeanne"
-    ],
-    "Maréchaux": [
-      "Roulin Lucien",
-      "Turin Louis"
-    ],
-    "Poste": [
-      "Rochat Georges"
-    ],
-    "Sage-femme": [
-      "Wahl Clara"
-    ],
-    "Sociétés": [
-      "des agriculteurs de Bavois",
-      "de fromagerie du Coudray et de Cache-Bollin",
-      "du battoir à grains",
-      "de tir",
-      "Syndicat agricole"
-    ],
-    "Tailleuses": [
-      "Charles Jeanne",
-      "Jeanmairet Juliette"
-    ],
-    "Téléphone public": [
-      "Rochat, dame"
-    ],
-    "Divers": [
-      "Agassiz Emile"
-    ]
-  },
-  "BOFFLENS": {
-    "Autorités communales": [
-      "Duruz Lucien",
-      "Fauchez Julien",
-      "Clerc Frédéric",
-      "Berthoud Eugène",
-      "Berthoud François",
-      "Charles Isaac",
-      "Berthoud Pierre-Henri",
-      "Glavre Jean"
+    "Officier d'état-civil.": [
+      "Rattaz Ami"
     ]
   }
 }

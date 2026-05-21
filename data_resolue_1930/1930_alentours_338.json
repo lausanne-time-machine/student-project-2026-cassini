@@ -1,229 +1,88 @@
 {
-  "BELMONT-SUR-YVERDON": {
-    "Associations mutualistes de retraite": [
-      "Clerc Ed."
-    ],
-    "Bois (marchand de)": [
-      "Grin Louis"
-    ],
-    "Cafetier": [
-      "Vuillamoz Gustave"
-    ],
-    "Charron": [
-      "Gauthey Henri"
-    ],
-    "Commission scolaire": [
-      "Chevalier Jules",
-      "Dupuis Fern."
-    ],
-    "Cordonnier": [
-      "Mello Constant"
-    ],
-    "Epicerie": [
-      "Henrioud Nancy"
-    ],
-    "Fourches et râteaux (fab. de)": [
-      "Loup Eugène"
-    ],
-    "Inspecteurs du bétail": [
-      "Grin Julien",
-      "Martin Jean"
-    ],
-    "Inspecteur des viandes": [
-      "Dupuis Fernand"
-    ],
-    "Instituteurs": [
-      "Clerc Ed.",
-      "Clerc Marguerite"
-    ],
-    "Justice de paix du cercle": [
-      "Pitton Henri",
-      "Henry Victor",
-      "Carrel Jules",
-      "Pellaux Armand",
-      "Vulliamoz Gustave",
-      "Burla Maurice"
-    ],
-    "Laitier": [
-      "Gurtner Samuel"
-    ],
-    "Lingères": [
-      "Gauthey Julie",
-      "Rossier Elise",
-      "Tacheron Louise"
-    ],
-    "Officier d'Etat civil": [
-      "Jaccoud Maur."
-    ],
-    "Porcs (march. de)": [
-      "Henrioud Charles"
-    ],
-    "Poste": [
-      "Henrioud Roger"
-    ],
-    "Sociétés": [
-      "de laiterie de Belmont. R.",
-      "de laiterie du Villaret. R.",
-      "du battoir à blé",
-      "d'agriculture. R.",
-      "du Poids public",
-      "d'assurance du bétail",
-      "Syndicat d'assainissement des marais",
-      "Grin John.",
-      "Le Chœur d'hommes"
-    ],
-    "Tailleur": [
-      "Meylan"
-    ],
-    "Téléphone": [
-      "Dépôt des postes"
-    ]
-  },
-  "BIOLEY-MAGNOUX": {
-    "Autorités communales": [
-      "Pahud Alfred",
-      "Groux Marcel",
-      "Pahud Robert",
-      "Pahud Sam.",
-      "Perey Armand",
-      "Groux Constant",
-      "David Louis",
-      "Duruz Edouard",
-      "Burnand Fernand",
-      "Pahud William",
-      "Groux Marcel"
-    ],
-    "Agriculteurs": [
-      "Burnand Alfred",
-      "Burnand Ulysse",
-      "Curchod Edmond",
-      "David François",
-      "David Victor",
-      "Duruz Jules",
-      "Groux Alfred",
-      "Groux Constant",
-      "Groux Marcel",
-      "Groux Paul",
-      "Jaquiéry Henri",
-      "Kunz Fr.",
-      "Maire frères",
-      "Pahud Alfred",
-      "Pahud Denis",
-      "Pahud Gustave",
-      "Pahud Paul",
-      "Pahud Robert",
-      "Pahud Emile. T.",
-      "Perey Louis",
-      "Vuagniaux Arthur"
-    ],
-    "Aubergiste": [
-      "Favrod Henri. T."
-    ],
-    "Bois (comm. de)": [
-      "Perey Armand"
-    ],
-    "Charpentier": [
-      "Pahud Héli"
-    ],
-    "Commission scolaire": [
-      "Pahud William",
-      "Groux Constant",
-      "Burnand Ulysse"
-    ],
-    "Epiceries": [
-      "Groux Alphonse",
-      "Pahud Eugénie"
-    ],
-    "Forgeron": [
-      "Duruz Edouard"
-    ],
-    "Inspecteur du bétail": [
-      "Groux Constant"
-    ],
-    "Instituteurs": [
-      "Aubert Paul",
-      "Vuagniaux-Pahud Aline"
-    ],
-    "Menuisier": [
-      "Pahud Emile"
-    ],
-    "Poste": [
-      "Pahud William"
-    ],
-    "Scierie": [
-      "Perey Armand"
-    ],
-    "Sociétés": [
-      "de laiterie. R.",
-      "Tir aux armes de guerre. R.",
-      "Moulin agricole. R.",
-      "Battoir à grain. R.",
-      "Bibliothèque",
-      "Assurance du bétail bovin",
-      "Syndicat d'élevage. R."
-    ],
-    "Téléphoniste": [
-      "Pahud Eugénie"
-    ]
-  },
-  "CHAMBLON": {
-    "Autorités communales": [
-      "Cornu Louis",
-      "Ogay Philippe",
-      "Porchet Auguste. T.",
-      "von Gunten Jules",
-      "Cornu Ernest",
-      "Tétaz Emile",
-      "Rindlisbacher Adolphe",
-      "Thévenaz Georges",
-      "Martinet Adrien"
-    ],
-    "Agriculteurs": [
-      "Bangerter Gottfried",
-      "Besson Ulysse",
-      "Chevalley Emile",
-      "Ogay Philippe",
-      "Pilloud André",
-      "Rindlisbacher Adolphe"
-    ],
-    "Assurance cantonale contre l'incendie": [
-      "Porchet Aug. T."
-    ],
-    "Mutualité scolaire de retraite": [
-      "Thévenaz G."
-    ],
-    "Café": [
-      "Meister Anna"
-    ],
-    "Commission scolaire": [
-      "Cornu Ernest",
-      "J. von Gunten"
-    ],
-    "Inspecteur du bétail": [
-      "Martinet Adr."
-    ],
-    "Instituteur": [
-      "Thévenaz Georges"
-    ],
-    "Jardinier-fleuriste": [
-      "von Gunten Jules et fils"
-    ],
-    "Pépiniériste": [
-      "von Gunten Jules"
-    ],
-    "Sociétés": [
-      "de laiterie. R.",
-      "du battoir à blé. R.",
-      "de tir"
-    ],
-    "Téléphone": [
-      "Porchet Aug."
-    ],
-    "Viticulteur": [
-      "Porchet Auguste"
-    ],
-    "Usine de pompage de l'eau pour Yverdon": [
-      "Genier C."
+  "Ville de Vevey": {
+    "Divers.": [
+      "Pfeiffer Georges",
+      "Pfeiffer Paul",
+      "Pilet Jules",
+      "Pittard Frédéric",
+      "Platel Paul",
+      "Plumettaz O.",
+      "Rapin Ch.",
+      "Recordon Edouard",
+      "Recordon Benjamin",
+      "Revillard Ch.",
+      "Reymond Gaston",
+      "Richard-Davel L.",
+      "Richon",
+      "Rieder",
+      "Rimathé Th.",
+      "Rinsoz Ls",
+      "Ritter E.",
+      "Ritzmann E.",
+      "Robert-Mack Paul",
+      "Rochat Emile",
+      "Rochat Henri",
+      "de Rodt Henri",
+      "Rodondi Jean-G.",
+      "Rodondi-Hofer",
+      "Rohner W.",
+      "Rolli Ch.",
+      "Rosset R.",
+      "Rosset-Klausfelder",
+      "Rossier Alfred",
+      "Rossier Emile",
+      "Rossier William",
+      "Rouiller Aug.",
+      "Roy Jules",
+      "Roy Mathilde",
+      "Roy, Mlle, Emilie",
+      "Salles Ad.",
+      "Säuberlin, Mme, Vve d'Albert",
+      "Scheidegger Jean",
+      "Schellenbaum Hermann",
+      "Schiltknecht Ernest",
+      "Schneider Ernest",
+      "Schmidli Jean",
+      "Schnyder Joseph",
+      "Schwar",
+      "Seiler Auguste",
+      "Seiler, Mme, Vve",
+      "Serex Edouard",
+      "Söderquist & Fournier, Dlles",
+      "Emeraude",
+      "Spälti J.",
+      "Sterki Jacques",
+      "Stoller J.",
+      "Strittmatter Walter",
+      "Starrak F.-B., Mme",
+      "Tacheron L. Mme",
+      "Taverney Aug",
+      "Taverney Henri",
+      "Taverney Charles",
+      "Taverney Paul",
+      "Teuscher H.",
+      "Tobler W.",
+      "Truan A.",
+      "Trummer Albert",
+      "Turin Paul",
+      "Vane F. Sir",
+      "Vaudan-Payot",
+      "Vauthey Edouard",
+      "Vez Emilien",
+      "Vionnet Henri",
+      "Vodoz Emile",
+      "von der Aa, Auguste",
+      "Vuadens Edouard",
+      "Vulliémoz Louis",
+      "Wätjen, Mme",
+      "Weber Charles",
+      "Weber-Peter E.",
+      "Wetli-Combaz E.",
+      "Widmer-Merkle F.",
+      "Witz Jean",
+      "Wolff, Vve d'Alexandre",
+      "Wuilleumier Jules",
+      "Wunderlich Fr."
     ]
   }
 }

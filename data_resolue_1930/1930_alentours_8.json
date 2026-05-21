@@ -1,128 +1,107 @@
 {
-  "Sainte-Croix": {
-    "Pensionnats pour jeunes filles.": [
-      "Jaccard Sœurs",
-      "Junod Alfred"
+  "BEX": {
+    "Autorités communales": [
+      "Paillard Charles",
+      "Nicod André"
     ],
-    "Pensions-familles": [
-      "Cand Edmond"
+    "Syndic": [
+      "Borel Charles"
     ],
-    "Pensions bourgeoises.": [
-      "Bornand-Egli Eugène",
-      "Cercle Démocratique",
-      "Lassueur Aug.",
-      "Thorens Henri",
-      "Junod Edouard",
-      "Krebs Henri",
-      "Neuenschwander A.",
-      "Pittet Paul",
-      "Rumley Ami",
-      "Weber, Mesdames",
-      "Zurbrugg Ephraïm"
+    "Municipaux": [
+      "Ravy Félix",
+      "Chollet Robert",
+      "Péclard Elie",
+      "Renaud Henri",
+      "Genet Emile",
+      "Ruchet Gustave"
     ],
-    "Pharmacien.": [
-      "Peter Jean"
+    "Secrétaire": [
+      "Gillard François"
     ],
-    "Photographes.": [
-      "Joseph",
-      "Rochat Paul"
+    "Boursier": [
+      "Concastre Ernest"
     ],
-    "Poêliers.": [
-      "Burnens Marc",
-      "Gueissaz Charles"
+    "Police": [
+      "Pichard Henri",
+      "Cherix Marc"
     ],
-    "Poste et télégraphe.": [
-      "Klein Charles",
-      "Junod Georges",
-      "Junod Bertha",
-      "Roulet Edmond"
+    "Huissier": [
+      "Pichard Henri"
     ],
-    "Préfet.": [
-      "Junod Albert"
+    "Administrateur postal": [
+      "Pittier G."
     ],
-    "Professeur de musique": [
-      "Jaccard Marguerite",
-      "Mellana Louis",
-      "Thorens Marie",
-      "Thorens Marthe"
+    "Affichage": [
+      "Soc. générale d'affichage"
     ],
-    "Quincaillerie.": [
-      "Jaccard-Mutrux Ls.",
-      "Joseph Eug., Vve",
-      "Martin Louis"
+    "Agents d'affaires patentés": [
+      "Chabloz Ch.",
+      "Jacot W."
     ],
-    "Ramoneur.": [
-      "Pitton Arthur"
+    "Agriculteurs": [
+      "Blum A.",
+      "Cherix Benjamin",
+      "Genet Louis",
+      "Gsponen F.",
+      "Missilier Albert",
+      "Mösching, Ch.",
+      "Martin César",
+      "Nicollerat Emile de Jean",
+      "Richard Henri",
+      "Ruchet-Ruchet Gustave"
     ],
-    "Relieurs.": [
-      "Basset Louis",
-      "Paillard Louis"
+    "Apiculteurs": [
+      "Borel Marguerite",
+      "Péclard Elie"
     ],
-    "Repasseuses-blanchisseuses.": [
-      "Chollet Alice",
-      "Cuendet-Muller",
-      "Gonthier Marie",
-      "Jaques Adrienne",
-      "Mellana, dame",
-      "Mouquin Rose"
+    "Appareilleurs": [
+      "Bollat Alex",
+      "Fontannaz Henri",
+      "Sangrouber Ch.",
+      "Tinturier Jules"
     ],
-    "Restaurants.": [
-      "Le Foyer"
+    "Architectes": [
+      "Borel Charles"
     ],
-    "Sages-femmes.": [
-      "Calame Julie",
-      "Jaccard Julie"
+    "Articles de voyages": [
+      "Borgognon L."
     ],
-    "Scieurs.": [
-      "Bourquin Louis",
-      "Jaccard Alfred",
-      "Jaccard Georges",
-      "Jaques Ami",
-      "Mermod frères",
-      "Thévenaz Adrien"
+    "Assurances": [
+      "La Suisse",
+      "Bonzon Ernest",
+      "Jacot W.",
+      "Long Théo.",
+      "Genevoise (vie)",
+      "Houriet Georges",
+      "Zurich-Accidents",
+      "Vita"
     ],
-    "Selliers.": [
-      "Urech Rod."
+    "Associations mutualistes de retraite": [
+      "Dupraz R."
     ],
-    "Serruriers.": [
-      "Burnens Marc",
-      "Gueissaz Ch."
+    "Automobiles": [
+      "Croset Paul",
+      "Guignet Constant",
+      "Rahm Em.",
+      "Viscardi Achille",
+      "Viscardi & Cie",
+      "Zuchuat Germain"
     ],
-    "Sociétés.": [
-      "Bureau officiel de renseignements",
-      "Bornand John",
-      "Société de développement",
-      "» du Cercle démocratique",
-      "» immobilière de Ste-Croix",
-      "» du Musée",
-      "» de construction",
-      "» de construction « Bellevue », Ste-Croix",
-      "» immobilière de l'Arnon",
-      "» anonyme du Stand",
-      "» des Eaux de Ste-Croix",
-      "» de fromagerie de La Chaux",
-      "» de laiterie de Ste-Croix",
-      "» de laiterie du Chalet du Rocher",
-      "» de laiterie de La Sagne",
-      "» mutuelle de secours au décès « La Prévoyante »",
-      "» coopérative de consommation « l'Avenir »",
-      "» des salles de lecture",
-      "» catholique de Ste-Croix",
-      "» de foot-ball",
-      "» du Stand et des Chasseurs",
-      "» des sports d'hiver",
-      "» de gymnastique",
-      "» de gymnastique des hommes",
-      "Officiers",
-      "Sous-officiers",
-      "Syndicats d'élevage Ste-Croix",
-      "Section de la Croix-Bleue",
-      "Section de l'Avenir",
-      "Union chrétienne",
-      "Union instrumentale",
-      "Ski-Club",
-      "Vélo-Club",
-      "Helvétienne"
+    "Aviculteur": [
+      "Haller A."
+    ],
+    "Bains": [
+      "Grand-Hôtel de Bex et Etablissement Thermal",
+      "Köhler Paul"
+    ],
+    "Banque et change": [
+      "Banque de Bex",
+      "Yersin Numa",
+      "Jaquenod Fernand"
+    ],
+    "Bazars": [
+      "Baltiser Jacob",
+      "Cherix-Buffat Edouard"
     ]
   }
 }

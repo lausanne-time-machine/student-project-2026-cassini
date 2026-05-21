@@ -1,117 +1,217 @@
 {
-  "Ville de Vevey": {
+  "VALLORBE": {
+    "Banques": [
+      "Banque canton. vaudoise",
+      "Martin Eugène",
+      "Crédit Foncier et Caisse d'Epargne cantonale",
+      "Matthey Auguste",
+      "Union Vaudoise du Crédit",
+      "Jaillet Gustave"
+    ],
+    "Bazar": [
+      "Friedrich Henri"
+    ],
+    "Bétail (march. de)": [
+      "Goy François",
+      "Grivaz Baptiste",
+      "Indermühle Jules",
+      "Merminod Louis"
+    ],
+    "Bière": [
+      "Nardi Antoine",
+      "Fertig frères (S.A.)"
+    ],
+    "Bijoutier": [
+      "Girardet Paul"
+    ],
+    "Blanchisseuses-repasseuses": [
+      "Falcy. dame",
+      "Goy Constance",
+      "Goy. dame",
+      "Schlæppi. dame",
+      "Zuttel. dame"
+    ],
+    "Bois (march. de)": [
+      "Collet Jules",
+      "Indermühle Js."
+    ],
+    "Boisselier": [
+      "Laffely E."
+    ],
+    "Bouchers": [
+      "Blanchong Félicien",
+      "Etter Emile",
+      "Michod P."
+    ],
+    "Boulangers-pâtissiers": [
+      "Apothéloz Marius",
+      "Société coopérative de consommation",
+      "Grobéty-Truan Samuel",
+      "Vallotton-Weigeli Hri.",
+      "Wegmuller Rod."
+    ],
+    "Brevets d'invention": [
+      "L. Flesch",
+      "Pahud J.-D."
+    ],
+    "Bûcherons": [
+      "Dally Alfred & Bolomey Ulysse",
+      "Maulaz S.",
+      "Salvi Louis-Arthur"
+    ],
+    "Buraliste postal": [
+      "Matthey Eug."
+    ],
+    "Cafés": [
+      "Anderegg Cécile",
+      "Albicker Christian",
+      "Vautravers Louis",
+      "Duvoisin Louisa",
+      "Geiger Aug.",
+      "Indermühle Georges",
+      "Indermühle Jules",
+      "Jaillet-Dupuis A.",
+      "Michot-Viret Jules",
+      "Nicolet Emile",
+      "Ramel Louis",
+      "Rascol René",
+      "Roux Marie",
+      "Sala Lina",
+      "Truan André",
+      "Vallotton Eug.",
+      "Zellweger-Regamey, dame et Dlle."
+    ],
+    "Café-chocolat": [
+      "Kölliker Ruth"
+    ],
+    "Caisses (fabrique de)": [
+      "Comptoir de bois. S. A."
+    ],
+    "Cercueils": [
+      "Paccaud Emile"
+    ],
+    "Cercle": [
+      "Cercle de Vallorbe",
+      "Morerod Robert"
+    ],
+    "Charcuteries": [
+      "Blanchong Félicien",
+      "Etter Emile",
+      "Indermühle Jules",
+      "Michod Paul",
+      "Truan Fritz"
+    ],
+    "Charpentiers": [
+      "Addor Jules & Cie",
+      "Ryser fils"
+    ],
+    "Charrons": [
+      "Ruegger Albert, père",
+      "Ruegger Albert, fils",
+      "Schmucki-Lugrin Albert"
+    ],
+    "Chaussures": [
+      "Estoppey-Truan. R.",
+      "Ferreux L.",
+      "Soc. coopérative de consommation"
+    ],
+    "Chaux hydraulique (fab. de)": [
+      "Société des usines des Grands Crêts",
+      "Glardon Alfred"
+    ],
+    "Chef de gare": [
+      "Beguelin Alfred"
+    ],
+    "Chef de section": [
+      "Golay Jules"
+    ],
+    "Chiffons": [
+      "Fédi Pierre"
+    ],
+    "Cigares et tabacs": [
+      "Friedrich Henri",
+      "Estoppey-Truan. R.",
+      "Falcy-Auberson J.",
+      "Girardet P.",
+      "Jaques-Jaccard Ch.",
+      "Malley Marguerite, Vve."
+    ],
+    "Ciment (march. de)": [
+      "Grobéty Adr.",
+      "Société des usines des Grands Crêts"
+    ],
+    "Clous et chaines (fab. de)": [
+      "Vallotton Adr."
+    ],
+    "Coiffeurs": [
+      "Cerf Jean",
+      "Cottier Charles",
+      "Ferraglia Marg. (dames)",
+      "Girardet P. R.",
+      "Mantz A.",
+      "Oulevay Ch., Mme (dames)",
+      "Ringgenberg Alice (dames)",
+      "Ringgenberg Werner"
+    ],
+    "Combustibles": [
+      "Jaquet William",
+      "Société coopérative de consommation"
+    ],
+    "Commission scolaire": [
+      "Kampmann André Dr",
+      "Morerod R.",
+      "Jaillet-Combe. Mme.",
+      "Jaquet Henri",
+      "Martin Marcel",
+      "Martin Henri",
+      "Glardon de Riaz (dame)"
+    ],
+    "Confections": [
+      "Genier Paul",
+      "Locher Adolphe",
+      "Matthey Léa",
+      "Maus frères & Cie",
+      "Roy Emile"
+    ],
+    "Confiseur-pâtissier": [
+      "Voir Boulangers"
+    ],
     "Cordonniers": [
-      "Constantino Pierre",
-      "Cretton J.",
-      "Cristuib-Grizzi Jean",
-      "Droux Lucien",
-      "Frosio David",
-      "Gabusi Pietro",
-      "Gianetto Biagio",
-      "Gollinucci A. fils",
-      "Haller R.",
-      "Hasler Benedikt",
-      "Hoffmann Otto",
-      "von Kænel J.-Gottlieb",
-      "Loosli R.",
-      "Nicole Ed.",
-      "Pankofer A. (S. A.)",
-      "Ravida François et fils",
-      "Salino J.",
-      "Sauter Ernest",
-      "Sciobéret Albert",
-      "Uldry Auguste",
-      "Vitanza Joseph",
-      "Wettli Johann",
-      "Weber A..",
-      "Zanone Alexandre",
-      "Zanone Jean"
+      "Buffo Bernard",
+      "Cerf Louis",
+      "Giommoni Eugène",
+      "Mingard F.",
+      "Margaroli",
+      "Monticelli Attilio"
     ],
-    "Fournitures pour cordonniers.": [
-      "Gauvrit Pierre",
-      "Wettli Jean"
+    "Constructeur": [
+      "Jaquet-Lamy L."
     ],
-    "Corsets (fab. de).": [
-      "Bugnet, dame",
-      "Burki-Althaus",
-      "Straub Marie, dame"
+    "Coutellerie": [
+      "Jaquet S. & H. (S. A.)",
+      "Leresche & Cie"
     ],
-    "Cotons cardés et ouates (manuf. de).": [
-      "Kohler, hoirs d'Alexandre"
+    "Curé": [
+      "Jaquet A."
     ],
-    "Courroies de transmission.": [
-      "Tannerie de Vevey, S. A."
+    "Cycles et autos": [
+      "Béguin Emile",
+      "Bruni Constant",
+      "Lambrigger Antoine",
+      "Roy Jules"
     ],
-    "Couteliers.": [
-      "Molliat Jules",
-      "Prucker Ida",
-      "Schertlin Jean"
+    "Dentistes": [
+      "Dupuis César",
+      "Pautex Jean"
     ],
-    "Couturières.": [
-      "Bachelard, Mme",
-      "Begert Ida",
-      "Beltrami sœurs",
-      "Byrde-Mäder, Mme",
-      "Chambettaz Ad., dame",
-      "Christ Yvonne",
-      "Delafontaine, Mlle",
-      "Fasel, dame",
-      "Fatio F., dame",
-      "Fischer Emma",
-      "Fovanna, dame",
-      "Fuchs-Genton Hélène",
-      "Fuchs Cécile et Mark Emma",
-      "Gallina Adélaïde, dame",
-      "Gétaz-Légeret, Mme",
-      "Grütter sœurs",
-      "Kopp Caroline",
-      "Légeret-Baud, Mme",
-      "Lehmann Alice",
-      "Mayer-Bettig",
-      "Meylan Jeanne-Rose",
-      "Neyroud Judith",
-      "Pilet-Juchli, dame",
-      "Philippon sœurs",
-      "Pointet Marguerite",
-      "Realini, sœurs",
-      "Rouiller V., Mlle",
-      "Ryser, Mme",
-      "Sauge, Mlle",
-      "Savioz Marie",
-      "Siegrist, Mlle",
-      "Stehli Caroline",
-      "Vallon Juliette",
-      "Vanthey Julie, dame"
+    "Diction": [
+      "Jaillet Aimée"
     ],
-    "Couturières pour garçons.": [
-      "Gétaz-Gugerli, Vve",
-      "Mottaz Blanche",
-      "Siegrist Marie, Mlle",
-      "Tissot sœurs",
-      "Vernone A.",
-      "Weinmann Lina, Mlle"
+    "Douanes suisses": [
+      "Rochat"
     ],
-    "Couvertures pour camions et autos.": [
-      "Guinand Bernard"
-    ],
-    "Couvreurs.": [
-      "Erens J.",
-      "Ferrari Ed.",
-      "Jeanrenaud Georges",
-      "Noir Joseph",
-      "Tagini J..",
-      "Wirz Fritz",
-      "Wirz-Baumann Jules"
-    ],
-    "Crèmeries.": [
-      "Cottier Lucien",
-      "Dardel, Vve",
-      "Graf-Gehring",
-      "Hofschneider Willy",
-      "Jaquier Robert",
-      "Schneider Hans",
-      "Vernaz Rosa",
-      "Wydler Robert"
+    "Eaux gazeuses et liqueurs": [
+      "Magnenat-Truan Ch."
     ]
   }
 }

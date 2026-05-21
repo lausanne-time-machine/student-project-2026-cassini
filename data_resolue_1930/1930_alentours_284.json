@@ -1,87 +1,123 @@
 {
-  "Montreux": {
-    "Avocats — Juristes.": [
-      "Pilivet Jules",
-      "Vollenweider J."
+  "DISTRICT DU PAYS-D'ENHAUT": {
+    "Préfet": [
+      "Dubuis Alphonse"
     ],
-    "Bactériologiste": [
-      "de Stoutz William"
+    "Substitut": [
+      "Bovay Ls",
+      "Chabloz Ami"
     ],
-    "Bains": [
-      "Bains du Lac",
-      "Bains publics de l'Hôtel Splendid",
-      "David A.",
-      "Grands Bains",
-      "Montreux-Plage"
+    "Receveur": [
+      "Henchoz Ele"
     ],
-    "Bandagistes-orthopédistes": [
-      "Laval-Golay",
-      "Vogt Maurice"
+    "Conservateur du registre foncier": [
+      "Dubuis-Martin J."
     ],
-    "Banques": [
-      "Banque Populaire Suisse",
-      "Banque cantonale vaudoise",
-      "Banque de Montreux",
-      "Comptoir d'Escompte de Genève",
-      "Collet Maurice",
-      "Union de Banques Suisses"
+    "Voyer du XIIIe arrondissement": [
+      "Ganty-Berney Louis"
     ],
-    "Bars": [
-      "Pavillon des Sports",
-      "Au Perroquet",
-      "Kursaal de Montreux"
+    "Tribunal de district": [
+      "Barraud Hermann",
+      "Paschoud Eugène",
+      "Baux Louis",
+      "Rayroud Alexis",
+      "Marmillod-Henchoz Ami",
+      "Turrian Victor",
+      "Simon Alfred"
     ],
-    "Bas": [
-      "Zurcher-Heimgartner E.",
-      "Hoffmann C."
+    "Poursuites et faillites": [
+      "Bigler Marcel"
+    ]
+  },
+  "CHATEAU-D'OEX": {
+    "Président du Conseil communal": [
+      "Morier-Genoud Gabriel"
     ],
-    "Bateaux (constructeurs de)": [
-      "Chevalley Marc"
+    "Secrétaire": [
+      "Lavanchy Charles",
+      "Morier-Genoud Philippe"
     ],
-    "Bateaux automobiles (loueurs de)": [
-      "Baatard & Perruchoud",
-      "Cochard Ch.",
-      "Roth A.",
-      "Vacheron J."
+    "Syndic": [
+      "Favrod-Coune Ch. fils"
     ],
-    "Bazars": [
-      "Anderegg Th.",
-      "Bazar Anglais",
-      "Bodenmann",
-      "Breuer & Cie",
-      "Cermesoni",
-      "Cottier-Bardet A.",
-      "Cuénoud & Cie",
-      "Clastres Pierre",
-      "Erranti R.",
-      "Ferrario Alfred",
-      "Gautschy Frédéric",
-      "Gloor-Tissot Clara",
-      "Lecoultre-Seitz J.-H.",
-      "Lilla Ch.-J.",
-      "Meyer César",
-      "Muller Paul",
-      "Peretti A.",
-      "Dreyfuss Blanche",
-      "Reiss & Cie",
-      "Ritschard Marguerite",
-      "Salvador Pierre"
+    "Municipaux": [
+      "Isoz Henri",
+      "Chabloz-Scherer Ami",
+      "Gétaz-Ramel Louis",
+      "Henchoz Isaac",
+      "Chapalay Elisée",
+      "Pilet-Bertholet Alfred"
     ],
-    "Bétail (comm. de)": [
-      "Pastore Louis",
-      "Oesch Fritz"
+    "Boursier": [
+      "Roch Charles"
     ],
-    "Bibliothèques": [
-      "Bibliothèque de la Société industrielle et commerciale",
-      "Bibliothèque du Musée",
-      "Bibliothèque de l'Union chrétienne",
-      "Bibliothèque Anglaise",
-      "Bibliothèque Française",
-      "Faist C.-B.",
-      "Heinisch",
-      "Librairie Payot & Cie",
-      "Rapaz",
-      "Salle des réunions"
+    "Agent de police": [
+      "Turrian D."
+    ],
+    "Affichage": [
+      "Société générale d'affichage"
+    ],
+    "Agent d'affaires patenté": [
+      "Chabloz Ch."
+    ],
+    "Agriculteurs": [
+      "Allamand-Lenoir Louis",
+      "Auberson John",
+      "Baux-Desquartiers L.",
+      "Berthod Ernest",
+      "Blum Emile",
+      "Bornet Paul",
+      "Bricod Aloïs",
+      "Chapalay David",
+      "Chapalay Samuel",
+      "Chapalay Henri",
+      "Dæntzer Fritz",
+      "Descoulaves Pierre",
+      "Desquartiers Constant",
+      "Favre-Joliquin John",
+      "Gétaz-Ramel",
+      "Henchoz Isaac",
+      "Henchoz John",
+      "Henchoz-Isoz Henri",
+      "Henchoz-Roch Benjamin",
+      "Henchoz-Rosat Edouard",
+      "Henchoz-Pilet Clément",
+      "Henchoz-Yersin L.",
+      "Isoz David",
+      "Isoz-Bertholet Alfred",
+      "Karlen-Turrian S.",
+      "Kiener Emile, père et fils",
+      "Lenoir Joël et David",
+      "Lenoir Samuel, fils",
+      "Linder-Rosat Samuel",
+      "Morier-Lenoir Aloïs",
+      "Morier-Karlen Henri",
+      "Mottier-Gétaz Isaac",
+      "Mottier-Roch Odoni",
+      "Mottier Samuel",
+      "Mottier Alfred",
+      "Mottier-Cottier Aloïs",
+      "Mottier David",
+      "Mottier Oscar",
+      "Mottier, hoirs.",
+      "Mottier-Lempen E.",
+      "Müller Pierre",
+      "Pilet Eugène",
+      "Ramel Auguste",
+      "Ramel Edouard",
+      "Raynaud Emile",
+      "Roch-Henchoz Emile",
+      "Roch-Lenoir Emile",
+      "Roch-Leu Louis",
+      "Roch-Roch Alfred",
+      "Rosat-Chabloz Victor",
+      "Rosat Henri",
+      "Rosat-Mottier, hoirie d'Ami.",
+      "Rossier Paul",
+      "Schenk Gottfried",
+      "Tille Auguste",
+      "Zulauff-Henchoz Louis",
+      "Zulauff Ami"
     ]
   }
 }

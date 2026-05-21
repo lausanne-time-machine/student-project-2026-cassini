@@ -1,234 +1,120 @@
 {
-  "ROPRAZ": {
-    "Téléphoniste": [
-      "Gilliéron Marius",
-      "Pasche Adolphe"
+  "VILLE DE MOUDON": {
+    "Poêliers": [
+      "Dubrit Alphonse",
+      "Jaquiéry Henri"
     ],
-    "Tuyaux en ciment": [
-      "Gabella frères"
-    ],
-    "Tailleurs de pierres": [
-      "Devaud Emile",
-      "Maury Alexis"
-    ]
-  },
-  "SERVION": {
-    "Président du Conseil général": [
-      "Pasche Louis"
-    ],
-    "Secrétaire": [
-      "Moillen Ernest",
-      "George Louis"
-    ],
-    "Syndic": [
-      "Pasche Frédéric"
-    ],
-    "Municipaux": [
-      "Devaud Hri",
-      "George Ulysse",
-      "Pasche Constant",
-      "Destraz Charles"
-    ],
-    "Boursier": [
-      "Destraz Ch."
-    ],
-    "Agriculteurs": [
-      "Baumgartner Fritz",
-      "Charmey Eugène",
-      "Charmey Jules",
-      "Colomb Paul",
-      "Delessert Louis",
-      "Destraz Charles",
-      "Devaud Emile",
-      "Devaud Henri",
-      "Favez frères",
-      "Fawer, hoirie de Ls",
-      "George, hoirie de Hri",
-      "George frères",
-      "George Ls",
-      "Gilliéron-Buttet Louis",
-      "Gilliéron Emile",
-      "Gilliéron Victor",
-      "Jaquier Louis",
-      "Pasche Albert",
-      "Pasche Constant",
-      "Pasche-Cuendet Frédéric",
-      "Pasche-Droz Frédéric",
-      "Pouly Henri"
-    ],
-    "Apiculteurs": [
-      "Charmey Jules",
-      "Colomb Jean",
-      "Destraz Charles",
-      "George Albert",
-      "George Frédéric",
-      "Guignet Ami"
-    ],
-    "Associations mutualistes de retraite": [
-      "Moillen E."
-    ],
-    "Aubergistes": [
-      "Pasche Constant",
-      "Pasche Frédéric"
-    ],
-    "Boulanger": [
-      "Pognant Narcisse"
-    ],
-    "Bois (march. de)": [
-      "Fawer frères",
-      "Pasche Constant"
-    ],
-    "Charpentiers": [
-      "Charmey Jules",
-      "Gilliéron Emile"
-    ],
-    "Commission scolaire": [
-      "Devaud Henri",
-      "Vernaud Max",
-      "Collomb Jean"
-    ],
-    "Cordonnier": [
-      "Burgdorfer Jacob"
-    ],
-    "Entrepreneur-carrier": [
-      "Devaud Em."
-    ],
-    "Epicerie, mercerie": [
-      "Pognant Narcisse"
-    ],
-    "Inspecteur du bétail": [
-      "Jaquier Louis"
-    ],
-    "Instituteurs": [
-      "Moillen Ernest",
-      "Moillen Emma"
-    ],
-    "Maçon": [
-      "Maury Alexis"
+    "Police": [
+      "Corthésy Félix",
+      "Hennard Ernest"
     ],
     "Poste": [
-      "Pasche Adolphe"
+      "Berdoz Alfred"
     ],
-    "Sage-femme": [
-      "Fawer Clara"
+    "Poteaux": [
+      "S. A. d'injection"
     ],
-    "Scierie": [
-      "George, hoirie d'Henri"
+    "Poterie": [
+      "Blanc, Vve de Louis",
+      "Cuany, Mme",
+      "Jaggi & Rayroux sœurs",
+      "Pittet Eugène"
+    ],
+    "Poudre (dépôt de)": [
+      "Bettex-Pahud Elise"
+    ],
+    "Poudre d'os naturelle": [
+      "Braillard Victor",
+      "Chelles Alexis"
+    ],
+    "Primeurs": [
+      "Bovay F. dame",
+      "Degoudron Louise",
+      "Guex-Rothen, Vve",
+      "Mayor-Viret Louis"
+    ],
+    "Quincaillerie": [
+      "Besson Gustave",
+      "Braillard F. & fils",
+      "Cherpillod Albert",
+      "Faucherre Louis",
+      "Jaggi & Rayroux sœurs",
+      "Pittet Eugène"
+    ],
+    "Ramoneurs": [
+      "Dutoit Auguste et Maurice"
+    ],
+    "Relieurs": [
+      "Faucherre Arnold",
+      "Perrier Frank"
+    ],
+    "Renseignements commerciaux": [
+      "Bertolini V.",
+      "Chapuis Louis",
+      "Cherpillod Emile",
+      "Déglon Ulysse",
+      "Mottaz Emile",
+      "Vuichoud Alfred",
+      "Zahnd L."
+    ],
+    "Sages-femmes": [
+      "Rod-Badoux Louise",
+      "Schneider Marguerite"
+    ],
+    "Scieries": [
+      "Scieries réunies Payerne-Moudon (S. A.)",
+      "Fischer A.",
+      "Mercanton Emile"
+    ],
+    "Selliers": [
+      "Bertholet Ernest",
+      "Dutoit Paul",
+      "Hermann René"
+    ],
+    "Sépultures": [
+      "Corthésy Félix"
+    ],
+    "Serruriers": [
+      "Dubrit Alphonse",
+      "Steck Louis",
+      "Steck Aloïs, père"
     ],
     "Sociétés": [
-      "Immobilière de laiterie et fromagerie",
-      "Militaire de Servion et Ferlens",
-      "d'assurance du bétail",
-      "de tir aux armes de guerre"
-    ]
-  },
-  "LES TAVERNES": {
-    "Président du Conseil général": [
-      "Chappuis Paul"
+      "Assurance mutuelle chevaline des Cercles de Moudon, Lucens et communes voisines",
+      "L'Abeille",
+      "Association du Vieux Moudon",
+      "Chambre des pauvres habitants",
+      "Coopérative de consommation",
+      "Distillerie agricole",
+      "Fédération suisse des fabricants de fromages à pâte molle",
+      "Infirmerie du district",
+      "L'Orchestre de Moudon",
+      "de laiterie",
+      "de la laiterie nouvelle",
+      "d'agriculture",
+      "des Amis du progrès agricole",
+      "des Armes Réunies",
+      "de gymnastique",
+      "de chant La Lyre",
+      "dramatique L'Arc-en-Ciel",
+      "de tir du Cordon vert et blanc",
+      "pour le développement de Moudon",
+      "des volontaires du district de Moudon (tir)",
+      "militaire (tir aux armes de guerre)",
+      "de pisciculture",
+      "d'assurance contre les pertes du bétail",
+      "des intérêts catholiques dans les districts de Moudon et d'Oron",
+      "ornithologique",
+      "du Moulin agricole",
+      "Syndicat d'élevage du bétail",
+      "Section de la Croix-Bleue",
+      "Union chrétienne de jeunes gens",
+      "Union instrumentale"
     ],
-    "Secrétaire": [
-      "Pasche Samuel",
-      "Rogivue Ch."
-    ],
-    "Syndic": [
-      "Sonnay Albert"
-    ],
-    "Municipaux": [
-      "Chappuis Aug.",
-      "Leyvraz Emile",
-      "Ducros Henri",
-      "Sonnay Paul"
-    ],
-    "Boursier": [
-      "Dufey Charles"
-    ],
-    "Agriculteurs": [
-      "Chapuis Pl.",
-      "Duffey Henri",
-      "Glauser Fritz, Dausaz",
-      "Jan Fr.",
-      "Leyvraz Aloïs",
-      "Leyvraz Victor",
-      "Pasche Sam.",
-      "Rogivue Charles",
-      "Rogivue Emile",
-      "Rogivue Henri",
-      "Rossier Ch.",
-      "Rossier, hoirie",
-      "Sonnay, hoirie, au Saley",
-      "Sonnay Louis, à la Dausaz",
-      "Sonnay Louis, aux Rafforts",
-      "Vioget Emile"
-    ],
-    "Carrière de grès dur": [
-      "Sonnay Louis"
-    ],
-    "Commission scolaire": [
-      "Pasche Sam.",
-      "Rogivue Ch."
-    ],
-    "Entrepreneur-maçon": [
-      "Ducros Henri"
-    ],
-    "Inspecteur du bétail": [
-      "Rogivue Ch."
-    ],
-    "Institutrice": [
-      "Jomini Louise"
-    ],
-    "Laitier": [
-      "Gilliard Ernest"
-    ],
-    "Société": [
-      "de laiterie"
-    ],
-    "Tonnelier": [
-      "Sonnay L."
-    ],
-    "Téléphone": [
-      "Dépôt des postes"
-    ],
-    "Usine": [
-      "Moulin et scierie d'Haut-Crêt",
-      "Cornuz Louis"
-    ]
-  },
-  "LES THIOLEYRES": {
-    "Président du Conseil général": [
-      "Chevalley Charles"
-    ],
-    "Secrétaire": [
-      "Décosterd Charles"
-    ],
-    "Syndic": [
-      "Rittener Alexis"
-    ],
-    "Municipaux": [
-      "Chevalley Henri",
-      "Rittener Adrien",
-      "Décosterd Albert",
-      "Wulliamoz Daniel"
-    ],
-    "Boursier": [
-      "Chevalley Victor"
-    ],
-    "Agriculteurs": [
-      "Blanc Henri",
-      "Chappuis Adolphe",
-      "Chappuis Albert",
-      "Chaubert Henri",
-      "Chevalley Charles",
-      "Chevalley Henri",
-      "Chevalley Victor",
-      "Cordey Ernest",
-      "Décosterd Henri",
-      "Delisle Emile",
-      "Félix Aloïs",
-      "Glauser Fritz",
-      "Mounoud Jules",
-      "Rittener Eugène",
-      "Rittener Henri",
-      "Souter Jean"
+    "Tabacs et cigares. Voir Epicerie.": [
+      "Chapuis-Faucherre Louis",
+      "Cibis Franz",
+      "Fivaz & fils"
     ]
   }
 }

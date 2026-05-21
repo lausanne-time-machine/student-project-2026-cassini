@@ -1,115 +1,175 @@
 {
-  "Sainte-Croix": {
-    "Encadreurs.": [
-      "Basset Louis",
-      "Cuendet Eugène",
-      "De Nicolas Louis",
-      "Paillard Louis"
+  "FERREYRES": {
+    "Machines à coudre": [
+      "Chablaix Eug."
     ],
-    "Entrepreneurs.": [
-      "Bornand Arthur",
-      "Cantaluppi Joseph",
-      "Canzarini Dominique",
-      "Ceppi & Maggi",
-      "Cottini, Vve de Pierre",
-      "Francioli Emile",
-      "Francioli Ernest",
-      "Gerber Albert",
-      "Margot Fernand",
-      "Meraldi Attilio",
-      "Ottone Alfred",
-      "Ferrari Armand",
-      "Thévenaz Adrien"
+    "Maraîchers": [
+      "Cheseaux Louis",
+      "Maret Maurice",
+      "Martin F.",
+      "Peroud Henri"
     ],
-    "Epicerie, mercerie, tabacs.": [
-      "Addor René",
-      "Bahon Oscar",
-      "Bissat-Bissat Marcel",
-      "Favre Jules",
-      "Golay Berthe",
-      "Hofer-Jaccard Fritz",
-      "Huguenin-Mermod Ch.",
-      "Jaccard-Mutrux Ls",
-      "Jaccard-Piaget Eugène",
-      "Jaccard-du Grand Laura",
-      "Junod Emile",
-      "Junod-Gaillard",
-      "Junod Hélène",
-      "Lador-Bornand Pl",
-      "Margot-Ducret, Vve",
-      "Martin-Jaccard David",
-      "Mercure, S. A.",
-      "Mutrux A., fils",
-      "Paillard Henri",
-      "Paillard Paul",
-      "Piolino G. & J.",
-      "Robellaz-Sueur Jules",
-      "Société coopérative de consommation l'Avenir",
-      "Thévenaz Jules-Ls"
+    "Marbrier": [
+      "Gros-Perroud H."
     ],
-    "Etoffes.": [
-      "Jaccard-du Grand Laura",
-      "Jaques-Margot Eug.",
-      "Junod-Gaillard",
-      "Martin-Jaccard David",
-      "Paillard Paul",
-      "Piolino G. & J.",
-      "Société coopérative de consommation l'Avenir",
-      "Wanner Martin"
+    "Maréchaux": [
+      "Capré Jules",
+      "Naef & Hägler",
+      "Treina P."
     ],
-    "Ferblantiers-couvreurs-appareillage.": [
-      "Gautschy Walther",
-      "Scalabrini Henri"
+    "Matériaux de construction": [
+      "Gétaz, Romang, Ecoffey, S. A., Matériaux de construction, à Aigle.",
+      "Matériaux et produits en ciment armé, S. A."
     ],
-    "Fers et métaux.": [
-      "Jaccard-Mutrux Ls",
-      "Joseph Eug., Vve",
-      "Leresche Eugène",
-      "Martin Louis"
+    "Mécaniciens": [
+      "Blanc frères",
+      "Chablaix-Ischi Eug.",
+      "Dupraz E.",
+      "Henchoz H.",
+      "Ischy Aimé",
+      "Lanz Franz",
+      "Rohner",
+      "Weiss Emile"
     ],
-    "Fonderie.": [
-      "Jaccard frères L. et F."
+    "Médecins": [
+      "Cuttat G.",
+      "Joly A.",
+      "Siegrist Hans",
+      "Soutter W."
     ],
-    "Fourrages.": [
-      "Cherpillod Alfred"
+    "Menuisiers": [
+      "Muller Ch. T.",
+      "Sehallenberger Th.",
+      "Seewer E."
     ],
-    "Fromages (gros).": [
-      "Jaccard-Piaget Eug.",
-      "Junod-Gaillard C.",
-      "Mutrux A., fils"
+    "Mercerie et bonneterie": [
+      "Andrey-Gottreux Augustine",
+      "Barbay Th., Vve",
+      "Dubuis sœurs & Girard M.",
+      "Mottier-Gonseth Aline",
+      "Soutter-Chausson Marguerite",
+      "Tanniger Ch."
     ],
-    "Fruits et légumes.": [
-      "Dutoit Ami",
-      "Gagnaux Adèle",
-      "Gognat Luc",
-      "Junod Emile"
+    "Meubles": [
+      "Collet-Marguerat & Sœur",
+      "Luscher A."
     ],
-    "Géomètre.": [
-      "Mermod John-E."
+    "Modistes": [
+      "Alber Hulda",
+      "Béboux Marguerite",
+      "Mauss frères"
     ],
-    "Gypsiers et peintres.": [
-      "Ferrari Armand",
-      "Gerber Albert",
-      "Meraldi, dame",
-      "Ottone Alfred"
+    "Moulins": [
+      "Soutter I. & Cie"
     ],
-    "Hôtels et pensions.": [
-      "Hôtel d'Espagne, Stehlé Franz",
-      "Hôtel de France, Jaccard Oscar",
-      "Hôtel du Jura, Mermod Alfred, Vve",
-      "Grand Hôtel des Rasses et Grand Hôtel, S. A.",
-      "Hôtel Beau-Site, Bolens Vve",
-      "Hôtels Beau-Regard et Mont-Fleury",
-      "Hôtel des Alpes, Junod-Champod Benjamin",
-      "Hôtel Beau-Séjour, Neuenschwander Armand"
+    "Moutarde (fabr. de)": [
+      "Fabrique de la moutarde d'Aigle Reitzel & Cie, Rochebord."
     ],
-    "Imprimeur.": [
-      "Bornand & Geneux"
+    "Notaires": [
+      "Dubuis E.",
+      "Genet Ed. & Paul",
+      "Genillard Albert"
     ],
-    "Inspecteurs du bétail.": [
-      "Margot Louis",
-      "Martin Constant",
-      "Jaccard Emile"
+    "Officier de l'état civil": [
+      "Moret, Aug."
+    ],
+    "Organiste": [
+      "Drapel Olga"
+    ],
+    "Papetiers": [
+      "Amiguet Emile",
+      "Merle Jeanne, Mlle"
+    ],
+    "Parquets (fab. de)": [
+      "Parqueterie d'Aigle, Kernen A., direct."
+    ],
+    "Parapluies (march. de)": [
+      "Favrod-Coune Aug.",
+      "Lavanchy Henri",
+      "Niklès-Tauxe Gust."
+    ],
+    "Pasteurs": [
+      "Augsbourger Emmanuel",
+      "Gretillat Robert",
+      "Fleury Paul",
+      "Rockenbach R."
+    ],
+    "Patinage (place de)": [
+      "Kernen Aloïs, président."
+    ],
+    "Peintre (voitures, enseignes, etc.)": [
+      "Knutti Edouard"
+    ],
+    "Pépiniéristes": [
+      "Chablaix Albert",
+      "Pousaz",
+      "Cottier André",
+      "Hauser Paul",
+      "Moret G.-Ad.",
+      "Rau André"
+    ],
+    "Pharmaciens": [
+      "Bornand Rémy",
+      "Ducrey Emile"
+    ],
+    "Photographes": [
+      "Juvet Blanche"
+    ],
+    "Poids et mesures": [
+      "Bertholet Samuel"
+    ],
+    "Poterie": [
+      "Denoréaz-Oguey O.",
+      "Favrod-Coune",
+      "Nicklès Gustave",
+      "Stroubhardt H.",
+      "Tanniger-Burnier F."
+    ],
+    "Poudre (débit de)": [
+      "Urech Rodolphe"
+    ],
+    "Produits en ciment armé": [
+      "Produits en ciment armé",
+      "Gétaz, Romang, Ecoffey, S. A., successeurs de Emile Martignier à Aigle."
+    ],
+    "Professeur de musique": [
+      "Jordan N., Mme"
+    ],
+    "Ramoneur": [
+      "Rossier Aug."
+    ],
+    "Relieurs": [
+      "Amiguet Emile",
+      "Borloz-Comtesse Jules"
+    ],
+    "Représentants": [
+      "Chaubert O.",
+      "Junod Marcel"
+    ],
+    "Sages-femmes": [
+      "Dormond L., Mlle",
+      "Monod-Ansermier dame",
+      "Rouge-Picot, dame"
+    ],
+    "Scieries": [
+      "Clavadetscher Jean",
+      "Kaufmann Alexandre",
+      "Parqueterie d'Aigle, Kernen Aloïs, directeur.",
+      "Usine du Molage",
+      "Waidel Ezéchiel",
+      "Vernaud Charles"
+    ],
+    "Selliers": [
+      "Brélaz Oscar",
+      "Muller, hoirs d'Eug.",
+      "Pittet Louis"
+    ],
+    "Serruriers": [
+      "Cordey Paul et fils",
+      "Ferrari E.",
+      "Girard Louis",
+      "Neef & Hägler",
+      "Pittet Paul"
     ]
   }
 }

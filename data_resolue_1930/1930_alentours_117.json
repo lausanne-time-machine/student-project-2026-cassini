@@ -1,123 +1,199 @@
 {
-  "Ville de Nyon": {
-    "Mécaniciens.": [
-      "Bally Louis",
-      "Dufour-Félix Eug.",
-      "Eicher Hans",
-      "Favre Alfred",
-      "Favre Georges fils",
-      "Jeanneret Maurice",
-      "Louis Albert",
-      "Rapp Alphonse",
-      "Sauter Ferdinand"
+  "LES BIOUX": {
+    "Sociétés": [
+      "de fromagerie de l'Abbaye. R.",
+      "Section de la Croix-Bleue",
+      "de gymnastique",
+      "Auto transport (A. V. J.)",
+      "de fromagerie du Bas des Bioux. R.",
+      "de fromagerie",
+      "Chorale.",
+      "de gymnastique",
+      "d'orchestre",
+      "Syndicat agricole. R.",
+      "Tir de campagne. R.",
+      "Les Grenadiers (société de tir). R."
     ],
-    "Médecins.": [
-      "Forel Oscar-Louis",
-      "Gonet Ernest",
-      "Jomini Albert",
-      "Monastier André",
-      "Piotet G.",
-      "Sauvin-Thury Ph.",
-      "Schranz Alfred",
-      "Steinhauslin Henri"
+    "Téléphone communal": [
+      "Hôtel de Ville",
+      "Berney Charles",
+      "Rochat Charles",
+      "Berney Paul"
     ],
-    "Menuisiers.": [
-      "Antonioli Jean",
-      "Bochaton Emile",
-      "Buvelot Adolphe",
-      "Champin Pierre",
-      "Dorier Henri",
-      "Delay Paul",
-      "Dorier Albert",
-      "Golay Julien",
-      "Roux frères",
-      "Zeender frères"
+    "Voituriers": [
+      "S. A. Berney Louis-Ami",
+      "Berney-Clerget Ami",
+      "Clerget Henri",
+      "Golay Alfred",
+      "Rochat Alfred",
+      "Rochat Léopold",
+      "Berney David",
+      "Berney Marcel",
+      "Capt Emile",
+      "Rochat André",
+      "Rochat Paul-Henri"
     ],
-    "Mercerie.": [
-      "Baumann Marguerite",
-      "Le Louvre",
-      "Lob Salomon",
-      "Martin & Co.",
-      "Quiblier Lucien",
-      "Reymond Hélène",
-      "Rossier Hélène"
+    "Autorités communales": [
+      "Berney Charles",
+      "Guignard Samuel",
+      "Berney Marcel",
+      "Berney David",
+      "Berney William",
+      "Reymond Firmin",
+      "Rochat Jean-Fs",
+      "Berney Charles"
     ],
-    "Meubles.": [
-      "Bertinotti Constant",
-      "Cristin Georges, fils (meubles antiq.)",
-      "Graber Robert",
-      "Noguet Louis",
-      "Muller Ed.",
-      "Roux frères",
-      "Völter Willy"
+    "Ameublements": [
+      "Golay-Meylan Hri"
     ],
-    "Modistes.": [
-      "Chaillet, Mlle",
-      "Claudet L.",
-      "Crochat Julie",
-      "Gilliéron-Gonthier, dame",
-      "Kapp Blanche et Frieda",
-      "Press Lucie"
+    "Agriculteurs": [
+      "Aubert John",
+      "Aubert Juste",
+      "Aubert Marc-Aug.",
+      "Aubert Paul",
+      "Berney Ch.",
+      "Berney David",
+      "Berney Pl-Julien",
+      "Berney Ls-Frs",
+      "Berney Eugène",
+      "Berney William",
+      "Guignard, hoirs de Js.",
+      "Reymond Chs-Hri",
+      "Reymond Jean-Frs.",
+      "Reymond Jean-Dan.",
+      "Reymond Ls",
+      "Reymond Samuel, hoirs",
+      "Rochat Elie",
+      "Rochat Florian",
+      "Rochat Jules-Ami",
+      "Rochat Louis-Ami",
+      "Rochat Marius",
+      "Rochat Louis de David",
+      "Rochat-Guignard François, hoirs",
+      "Rochat Léon"
     ],
-    "Musée.": [
-      "Commission du Musée (Vacat)"
+    "Amodiateurs de montagnes": [
+      "Berney Louis-Frs et fils",
+      "Rochat Elie",
+      "Syndicat agricole, Grand-Essert"
     ],
-    "Notaires.": [
-      "Bonzon Ernest",
-      "Burnier André",
-      "Dupraz Adolphe & Perrier Georges",
-      "Fillettaz Emile"
+    "Aubergiste": [
+      "Reymond-Vider",
+      "Berney Hélène"
     ],
-    "Œufs (comm. d').": [
-      "Lizon-au-Cire Albert",
-      "Schærer, Vve de Jacques & fille"
+    "Blanchisseuses": [
+      "Aubert Jeanne",
+      "Berney Camille",
+      "Guex-Rochat, Mme."
     ],
-    "Officier d'état-civil.": [
-      "Thomas Jules"
+    "Boisselier": [
+      "Benoît Louis"
     ],
-    "Outils agricoles.": [
-      "Boldrini & Cie",
-      "Veuillet, Vve de François"
+    "Boucher": [
+      "Rochat Charles"
     ],
-    "Outils d'horlogerie.": [
-      "Dumont P. fils & Cie"
+    "Boulangers": [
+      "Berney Léopold, hoirs"
     ],
-    "Papeteries.": [
-      "Aubert-Kallenberg Eugène",
-      "Aubert Suzanne, Mlle",
-      "Chapallaz Henri",
-      "Froidevaux Armand",
-      "Peter Charles"
+    "Camionneur": [
+      "Berney Edouard"
     ],
-    "Papiers peints.": [
-      "Kæppeli Hermann",
-      "Peter Charles"
+    "Cantonnier": [
+      "Golaz Albert"
     ],
-    "Parapluies.": [
-      "Arcioli-Besson Emma",
-      "Bardet, dame",
-      "Pinget François",
-      "Weill Jules"
+    "Coiffeur": [
+      "Berney Auguste"
     ],
-    "Pasteurs.": [
-      "Montandon Albert",
-      "Rittmeyer Charles",
-      "Wyrsch Arnold"
+    "Commission scolaire": [
+      "Berney Armand",
+      "Reymond Marcel"
     ],
-    "Pâtisserie (Voir aussi Confiseurs).": [
-      "Genoux Robert",
-      "Jan Edmond",
-      "Jaquier Emile",
-      "Matthey-Planche Fritz",
-      "Moser Ernest",
-      "Wormser Henri"
+    "Chaussures (mag. de)": [
+      "Golaz-Guignard Louisa",
+      "Rochat Isaac, hoirs"
     ],
-    "Péages fédéraux.": [
-      "Piguet Louis"
+    "Cordonnier": [
+      "Cordey Henri"
     ],
-    "Pédicures.": [
-      "Dumont Paul",
-      "Reymond Const."
+    "Entrepreneurs": [
+      "Berney William",
+      "Cantova Joseph"
+    ],
+    "Epicerie": [
+      "Berney Léopold",
+      "Golaz Henri, Vve. R.",
+      "Reymond Jean-Daniel",
+      "Rochat-Guignard L."
+    ],
+    "Farine. Son. Maïs. Tourteaux, etc.": [
+      "Berney P. J."
+    ],
+    "Garde-forestier": [
+      "Rochat Jean-Frs."
+    ],
+    "Grains (march. de)": [
+      "Reymond Jean-Daniel"
+    ],
+    "Inspecteurs du bétail": [
+      "Rochat Ls, de David",
+      "Berney Charles"
+    ],
+    "Instituteurs": [
+      "Guignard Samuel",
+      "Guignard Julie",
+      "Reymond Marie"
+    ],
+    "Laitiers": [
+      "Golay Paul",
+      "Rochat Marcel"
+    ],
+    "Lingerie et broderie": [
+      "Rochat Nelly"
+    ],
+    "Maréchal-serrurier": [
+      "Berney Aug."
+    ],
+    "Mécanicien": [
+      "Campiche Jean"
+    ],
+    "Menuisiers": [
+      "Berney William",
+      "Guignard Henri"
+    ],
+    "Mercerie": [
+      "Golaz Henri, Vve. R.",
+      "Reymond J.-Dan.",
+      "Rochat Léon Mme."
+    ],
+    "Pensions d'étrangers": [
+      "Berney Hélène"
+    ],
+    "Poste": [
+      "Berney Charles",
+      "Rochat Jules",
+      "Reymond Léopold"
+    ],
+    "Renseignements": [
+      "Berney L.-Franç.",
+      "Rochat Jean Fs."
+    ],
+    "Sage-femme": [
+      "Rochat-Sordet L."
+    ],
+    "Serpettes (fab. de)": [
+      "Reymond Jean-Daniel"
+    ],
+    "Serrurier": [
+      "Berney Aug."
+    ],
+    "Tailleuses": [
+      "Rochat Lydia",
+      "Rochat-Guignard Emma",
+      "Rochat, Vve d'Isaac"
+    ],
+    "Vélos": [
+      "Rochat-Guignard Léon",
+      "Schouway Joseph"
     ]
   }
 }

@@ -1,94 +1,114 @@
 {
-  "MONTREUX": {
-    "Vignerons": [
-      "Bron G.",
-      "Buhrer André",
-      "Collaboration Pharmaceutique, S. A.",
-      "Gaillard A.-Th.",
-      "Holbek-Engelmann Victor",
-      "Lecoultre Ch.",
-      "Marti",
-      "Pharmacie Schmidt",
-      "Poirier Fréd.",
-      "Schiess C."
+  "Ville de Vevey": {
+    "Bas.": [
+      "Bayard S. et E., Mlles.",
+      "Doléjal Mathilde",
+      "Lux M.",
+      "Pilet Marguerite",
+      "Zanone A."
     ],
-    "Philatélie (articles de).": [
-      "Guyer-Halblützel H., Vve."
+    "Bateaux (constructeurs de).": [
+      "Dénéréaz Louis"
     ],
-    "Photographes.": [
-      "Dufaux Henri",
-      "Erismann F.",
-      "Fransioli Bernard",
-      "Haeki Hermann",
-      "Maier M.",
-      "Michel Louis",
-      "Phototypie Co, S. A.",
-      "Photo-House, Stœcklin Ern.",
-      "Revmond S.",
-      "Schlemmer Rod.",
-      "Tornow Gérard"
+    "Bateaux (loueurs de).": [
+      "Oberli Ernest",
+      "Perrier-Ramelet Augusta",
+      "Dénéréaz Louis"
     ],
-    "Photographie (fournitures pour la).": [
-      "Comptoir suisse de photographie",
-      "Fransioli Bernard",
-      "Haecki H.",
-      "Muller Emile"
+    "Bazars": [
+      "Grand bazar français",
+      "Bloch Georges",
+      "Hébert, Vve",
+      "Hurter J., Mlle",
+      "Leuenberger Jean",
+      "Roussy Rosine",
+      "Walther Henry-S. & Cie (S.A.)."
     ],
-    "Pianos.": [
-      "Drabsch",
-      "Fœtisch frères, S. A.",
-      "Räuber frères",
-      "Strauer"
+    "Bétail (march. de).": [
+      "Lévy-Bloch",
+      "Stuby Emile"
     ],
-    "Pneumatiques et Vulcanisation.": [
-      "Schlaeppi Marc"
+    "Beurre et œufs.": [
+      "Blank Louis-Ernest",
+      "Chopard Louis-Albert",
+      "Fédération laitière du Léman",
+      "Gay Eugène",
+      "Jost Albert",
+      "Neuwerth & Villars",
+      "Rapin Marcel",
+      "Rossier E.",
+      "Sauty R.",
+      "Schneider Alfred"
     ],
-    "Poêliers.": [
-      "Aeschlimann W.",
-      "Berthet E.",
-      "Grognuz Marius",
-      "Paillex Isaïe"
+    "Bière (dépôts de).": [
+      "Friedrich & Cie",
+      "Ledermann Aug.",
+      "Rossier, Vve d'Auguste"
     ],
-    "Police.": [
-      "Byrde David"
+    "Bijouterie (march. de).": [
+      "Dick Ch.",
+      "Domenjoz Fr.",
+      "Dubois Edm.",
+      "Gascard Arthur",
+      "Godat Ch.-H.",
+      "Guignard Henri fils",
+      "Juvet H. & E.. frères",
+      "Leuenberger Jean",
+      "Matthey Ch.",
+      "Mersmann B.",
+      "Seiler Aug., fils"
     ],
-    "Porcelaines et cristaux.": [
-      "Béard Henri",
-      "Clément Ph.",
-      "Dériaz Louis",
-      "Gachoud-Dind E.",
-      "Henchoz Albert",
-      "Reymondin Henri",
-      "Tzaut-Serex, Vve"
+    "Biscuits, bricelets.": [
+      "Bussy-Durieux",
+      "Diserens Charles",
+      "Petter S.",
+      "Rithner, Mme",
+      "Stoller J."
     ],
-    "Porcherie.": [
-      "Société de la Porcherie, S. A."
+    "Bitter (fabr. de).": [
+      "Bitter des Espersiers, S. A."
     ],
-    "Produits alimentaires.": [
-      "Brun Henri",
-      "Zürcher A. & Cie"
+    "Blanchisseuses-repasseuses.": [
+      "Abbé-Descaroux, dame",
+      "Blanchisserie Idéale (S.A.)",
+      "Bron-Clerc, dame",
+      "Brunisholz, Mme",
+      "Champrenaud, Vve",
+      "Cupelin. R.. Mme",
+      "Déléchat Marie",
+      "Dufour-Jaquemet, Mme",
+      "Gasser, dame",
+      "Joly, dame",
+      "Martinelli L.",
+      "Minacci, dame",
+      "Peissard, dame",
+      "Piantino M.. Dlle",
+      "Pipy-Grand, dame",
+      "Rapin M., Mme",
+      "Réguin Sœurs",
+      "Rinsoz B., Mme",
+      "Sésia, A., Mme"
     ],
-    "Professeur de rythmique.": [
-      "Bouët, Mlle"
+    "Bois (commerce de).": [
+      "Bosco Julien",
+      "Collombet & Cie",
+      "de Roll Constant",
+      "Gétaz, Romang, Ecoffey (S. A.)"
     ],
-    "Professeurs de langues.": [
-      "Mattei Jeanne",
-      "Olivetti G.",
-      "Longchamp B.",
-      "Renkevitz F.-B.",
-      "Waldeyer-Wendling, Mme",
-      "Watson E.-M."
+    "Bois de socques (fab. de).": [
+      "Joyet Ed."
     ],
-    "Professeur de peinture.": [
-      "Heller M., Dlle"
+    "Boissellerie.": [
+      "Ducret Emile",
+      "Wunderlin A."
     ],
-    "Quincaillerie.": [
-      "Billeter Marc",
-      "Breuer & Cie",
-      "Dériaz Ls",
-      "Egloff-Ritschard Ernest",
-      "Gloor-Tissot C., Mme",
-      "Junod Ami"
+    "Bonneterie.": [
+      "A la Mercière, Dormond J.",
+      "Bayard J. & E.",
+      "Beetschen Marc",
+      "Brugger Emma",
+      "Brunschwig Adolphe",
+      "Brunschwig C."
     ]
   }
 }

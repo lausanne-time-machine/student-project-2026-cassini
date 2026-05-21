@@ -1,113 +1,214 @@
 {
-  "PAYERNE": {
-    "Menuisiers": [
-      "Chaudet Louis",
-      "Doudin Eugène",
-      "Duperrex Frédéric",
-      "Jomini Eugène",
-      "Jomini Paul",
-      "Kolly César",
-      "Moser Henri",
-      "Perrin Ad.",
-      "Perrin-Ryser Henri",
-      "Sommerer Emile"
+  "OGENS": {
+    "Autorités communales": [
+      "Hauser Paul",
+      "Pahud Edouard",
+      "Pahud-Gavillet Jules",
+      "Riond Aimé",
+      "Riond Maurice",
+      "Trolliet Edmond",
+      "Mercier Louis",
+      "Mercier Ulysse",
+      "Pahud Edouard"
     ],
-    "Mercerie": [
-      "Aux Galeries Vaudoises",
-      "Bladt P.",
-      "Assal-Baudet Louisa",
-      "Brunschwig Philippe",
-      "Cherbuin Eugénie",
-      "Colomb Eugène",
-      "Cuérel Auguste",
-      "Ducry Ursule",
-      "Jomini-Husson",
-      "Goutte Antoine",
-      "Gunzburger & Meyer",
-      "Indermuhle Alfred",
-      "Mestral & Righetti",
-      "Rossier-Pahud H.",
-      "Rothlisberger-Indermuhle-Roth, dame",
-      "Schwab-Wintsch S.",
-      "Savary-Schwab Emma",
-      "Chevroulet, dame"
+    "Agriculteurs": [
+      "Amy Louis",
+      "Chevalley Henri",
+      "Freiss Arm.",
+      "Genier Julianne",
+      "Hauser Paul",
+      "Jaquier Héli",
+      "Jaquier Ulysse",
+      "Jaunin Auguste",
+      "Pahud Aimé",
+      "Pahud Armand",
+      "Pahud Emile et Ulysse",
+      "Pahud Maxi",
+      "Pahud Victor",
+      "Pahud-Audemars Alex.",
+      "Pahud-Dubois Jules",
+      "Pahud-Gavillet Jules",
+      "Pidoux Ernest",
+      "Riond Aimé",
+      "Riond Héli",
+      "Riond Maurice",
+      "Roth Fritz",
+      "Trolliet La."
     ],
-    "Meubles": [
-      "Germond Frédéric",
-      "Hermann-Savary Marie, Vve d'Edouard",
-      "Kolly César",
-      "Sommerer Emile"
+    "Aubergistes": [
+      "Stalder Emile",
+      "Raymond Julie"
+    ],
+    "Boulanger": [
+      "Pahud-Meyer Julie et fils"
+    ],
+    "Buraliste postal": [
+      "Lagnaz Paul"
+    ],
+    "Commission scolaire": [
+      "Pahud-Gavillet Jules",
+      "Trolliet Edouard",
+      "Pahud Edouard"
+    ],
+    "Entrepreneur": [
+      "Tonacini Florentin"
+    ],
+    "Epicerie, mercerie": [
+      "Meystre Edmond",
+      "Pahud-Meyer Julie",
+      "Riond Ida"
+    ],
+    "Fers et quincaillerie": [
+      "Grandchamp John"
+    ],
+    "Forgeron": [
+      "Cosanday"
+    ],
+    "Inspecteur du bétail": [
+      "Pahud Victor"
+    ],
+    "Instituteur": [
+      "Mercier Ulysse"
     ],
     "Meunier": [
-      "Wicht Gustave"
+      "Moulin agricole"
     ],
-    "Modes": [
-      "Aux Galeries Vaudoises",
-      "Bladt P.",
-      "Cherbuin Eugénie",
-      "Otz, Dlle",
-      "Spielmann M."
+    "Scieur": [
+      "Johner"
     ],
-    "Motos": [
-      "Ischy-Savary Ls.",
-      "Magnenat-Caille Emile",
-      "Maffiolini Jean"
+    "Sociétés": [
+      "de fromagerie",
+      "du battoir à grains"
     ],
-    "Notaires": [
-      "Bersier & Laurent",
-      "Demiéville Edouard"
+    "Tailleuses": [
+      "Décorges Bertha",
+      "Meystre Marguerite",
+      "Pahud-Audemars"
+    ]
+  },
+  "OULENS-SUR-MOUDON": {
+    "Autorités communales": [
+      "Rey Louis",
+      "Vernez Eugène",
+      "Rey Edouard",
+      "Rey Alfred",
+      "Bigler Fritz",
+      "Rey Alfred",
+      "Rey Justin"
     ],
-    "Œufs (comm. de)": [
-      "Rapin-Silmo Marcel"
+    "Agriculteur": [
+      "Bize Charles"
     ],
-    "Officier d'état-civil": [
-      "Matter Louis"
+    "Cantonnier": [
+      "Pidoux Justin"
     ],
-    "Organistes": [
-      "Assal Marie",
-      "Wahlen Blanche"
+    "Commission scolaire": [
+      "Rey Alfred",
+      "Bigler Fritz"
     ],
-    "Outils agricoles (fabr.)": [
-      "Liechti Albert"
+    "Inspecteur du bétail": [
+      "Rey Alfred"
     ],
-    "Papeterie": [
-      "Aux Galeries Vaudoises",
-      "Bladt P.",
-      "Clerc-Brocard Ad.",
-      "Husson Jules",
-      "Ischy-Savary Ls.",
-      "Jomini Louis",
-      "Savary-Battaini Elise",
-      "Vuilleumier P.-A."
+    "Institutrice": [
+      "Meiller Marguer. Mme"
     ],
-    "Parapluies": [
-      "Bersier-Michaud Marcel",
-      "Ischy-Savary Ls.",
-      "Spielmann M.",
-      "Viani Ant."
+    "Société": [
+      "de fromagerie et laiterie"
     ],
-    "Parquets": [
-      "Burdet Louis"
+    "R.": [
+      "Syndicat agricole et d'élevage"
+    ]
+  },
+  "PEYRES-POSSENS": {
+    "Autorités communales": [
+      "Pelet Henri",
+      "Délessert Louis",
+      "Pelet Oscar",
+      "Annen Edouard",
+      "Pittet Aloïs",
+      "Curchod Edouard",
+      "Chaillet Chs.",
+      "Gilliéron Adolphe",
+      "Jaquier Aimé"
     ],
-    "Pasteurs": [
-      "Courvoisier Maxime",
-      "Guise Hans",
-      "Panchaud Paul",
-      "Tripod Maurice"
+    "Agriculteurs": [
+      "Annen Edouard",
+      "Cavin Edouard",
+      "Curchod Edouard",
+      "Chaillet Charles",
+      "Delessert Louis",
+      "Guex Elie",
+      "Jaquier Edouard",
+      "Jaquier Félix",
+      "Jaquier Julien",
+      "Krauchthaler Fritz",
+      "Pelet Oscar",
+      "Pittet Alfred",
+      "Pittet Aloïs",
+      "Uebersax Fritz",
+      "Viret Aimé"
     ],
-    "Pâtissiers": [
-      "Baumgartner Fritz",
-      "Porchet Robert",
-      "Guggi Robert",
-      "Husson Henri",
-      "Jaquier Henri",
-      "Neuhaus Eugène",
-      "Rossier-Groux Henri",
-      "Tappy Ernest"
+    "Bétail (march. de)": [
+      "Chaillet Rob."
     ],
-    "Pensionnats": [
-      "Assal-Leuenberger",
-      "Jomini-Decorges Ch.-Fr."
+    "Cafés": [
+      "Chaillet Charles",
+      "Pittet frères"
+    ],
+    "Cantonnier": [
+      "Jaquier Emile"
+    ],
+    "Commission scolaire": [
+      "Gilliéron Adolphe"
+    ],
+    "Cordonnier": [
+      "Lagnaz André"
+    ],
+    "Couturière": [
+      "Savary Eugénie"
+    ],
+    "Dépôt de poste": [
+      "Pelet Lina"
+    ],
+    "Epicerie et tabacs": [
+      "Chaillet Ch."
+    ],
+    "Gravières": [
+      "Emile Favre"
+    ],
+    "Inspecteur du bétail": [
+      "Jaquier Alfr."
+    ],
+    "Instituteur": [
+      "Moret André"
+    ],
+    "Mécanique à battre": [
+      "Guex Jules"
+    ],
+    "Société": [
+      "de fromagerie"
+    ],
+    "Téléphoniste": [
+      "Chaillet Charles"
+    ],
+    "Transports autos": [
+      "Gasser frères"
+    ],
+    "Tuilerie": [
+      "Gasser frères"
+    ]
+  },
+  "PREVONLOUP": {
+    "Autorités communales": [
+      "Paccaud Héli",
+      "Clot Adolphe",
+      "Paccaud Oscar",
+      "Corthésy Fernand",
+      "Corthésy Henri",
+      "Paccaud Const.",
+      "Paccaud Octave",
+      "Paccaud Henri",
+      "Clot Adolphe"
     ]
   }
 }

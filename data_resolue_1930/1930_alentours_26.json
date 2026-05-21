@@ -1,173 +1,181 @@
 {
-  "Le Brassus": {
-    "Modiste": [
-      "Piguet Mina"
-    ],
-    "Officier d'état-civil": [
-      "Golay Gabriel"
-    ],
-    "Papetiers": [
-      "Golay E.",
-      "Meylan-Leresche H.-F."
-    ],
-    "Pasteurs": [
-      "Béboux Albert",
-      "Mundler Otto"
-    ],
-    "Pêcheurs": [
-      "Delacrétaz Albert",
-      "Goy Charles",
-      "Goy Marcel",
-      "Meylan Pierre",
-      "Meylan Robert"
-    ],
-    "Poêlier-fumiste": [
-      "Aubert René"
-    ],
-    "Poste": [
-      "Piguet Théodore"
-    ],
-    "Quincaillerie": [
-      "Golay Edouard",
-      "Meylan-Rochat Marie"
-    ],
-    "Renseignements commerciaux": [
-      "Rochat-Meier P."
-    ],
-    "Relieurs": [
-      "Dallève Alfred",
-      "Golay Edouard"
-    ],
-    "Représentant": [
-      "Scierie électrique du Brassus, S. A."
-    ],
-    "Scieries": [
-      "Dautaz-Arbez, Vve",
-      "Golay Albert",
-      "Reymond Henri",
-      "Scierie électrique du Brassus. S. A."
-    ],
-    "Sellier": [
-      "Berney Charles"
-    ],
-    "Serruriers-fumistes": [
-      "Aubert René",
-      "Nicole Eugène"
-    ],
-    "Service des eaux": [
-      "Piguet Louis-Elisée"
-    ],
-    "Skis (fabricants de)": [
-      "Meylan hoirs",
-      "Piguet Alfr.",
-      "Zeberli Edmond"
-    ],
-    "Sociétés": [
-      "de fromagerie du Brassus",
-      "de l'Asile du Marchairuz",
-      "Immobilière l'Union",
-      "Chorale",
-      "Instrumentale",
-      "de gymnastique",
-      "Edelweiss",
-      "de tir de campagne",
-      "Croix-Bleue",
-      "Union chrétienne",
-      "Syndicat agricole du Brassus",
-      "Coopérative de consommation",
-      "Caisse d'Epargne et de Crédit mutuel",
-      "Cercle des Amis",
-      "Gymnastique hommes",
-      "Gymnastique dames",
-      "Ski-Club"
-    ],
-    "Tabacs et cigares": [
-      "Berney & Cie",
-      "Dalloz Eugène",
-      "Guignard-Reymond Louis",
-      "Meylan-Leresche Hri-François",
-      "Pasche Elisabeth",
-      "Piguet Mina",
-      "Société coopérative"
-    ],
-    "Tailleur": [
-      "Troyon Jules"
-    ],
-    "Tapissier": [
-      "Berney Charles"
-    ],
-    "Télégraphiste et téléphoniste": [
-      "Meylan, Vve d'Edouard"
-    ],
-    "Vacherins (marchands de)": [
-      "Piguet David-Auguste",
-      "Société de laiterie"
-    ],
-    "Vélocipèdes": [
-      "Boillet",
-      "Rochat Julien"
-    ],
-    "Vins (march. de)": [
-      "Aubert Paul",
-      "Golay Adolphe",
-      "Ochsner Hermann",
-      "Piguet Jean",
-      "Piguet Marius"
+  "ORMONT-DESSUS": {
+    "Usine électrique": [
+      "Soc. des Forces motrices de la Grande Eau"
     ],
     "Voituriers": [
-      "Audemars Henri",
-      "Aubert Eugène et fils",
-      "Golay Ami",
-      "Golay Henri",
-      "Guignard Albert",
-      "Le coultre-Vautier H.",
-      "Meylan Henri",
-      "Meylan Henri",
-      "Meylan William",
-      "Ochsner Herm.",
-      "Pesenti Louis",
-      "Piguet Frédéric",
-      "Piguet Marius",
-      "Reymond Etienne",
-      "Reymond Julien",
-      "Rochat Charles",
-      "Reymond-Lecoultre Henri"
+      "Ginier Alfred",
+      "Hubert-Ziegler, Veuve"
     ],
-    "Divers": [
-      "Piguet-Rochat Henri"
+    "Agriculteurs": [
+      "Ansermoz Albert",
+      "Ansermoz David",
+      "Ansermoz Paul",
+      "Berruex Alexis",
+      "Berruex Emile",
+      "Berruex François",
+      "Berruex Jean",
+      "Berruex Jules",
+      "Berruex Paul",
+      "Berruex-Gingen Jean",
+      "Berruex-Pichard Alexis",
+      "Bonzon Eugène",
+      "Busset Alfred",
+      "Busset Alfred fils",
+      "Busset Alexandre",
+      "Busset Edouard",
+      "Busset Emile",
+      "Busset Eug.",
+      "Busset Robert",
+      "Favre Alex.",
+      "Favre les fils de Const.",
+      "Favre Emile",
+      "Favre Henri",
+      "Favre Samuel",
+      "Favre-Pernet Vincent",
+      "Gallaz Vincent",
+      "Genillard Ernest",
+      "Genillard Eugène",
+      "Genillard frères",
+      "Gilliand Théophile",
+      "Isabel Vincent",
+      "Isabel-Favre Vincent",
+      "Mermod William",
+      "Moillen Alexis",
+      "Moillen Alexis fils",
+      "Moillen Fernand",
+      "Moillen hoirie d'Emile",
+      "Moillen Jules",
+      "Moillen Jules fils",
+      "Morerod Eugène de Jean",
+      "Morerod-Ansermoz Eugène",
+      "Morerod-Favre Emile",
+      "Morerod-Isabel Emile",
+      "Morex Aug.",
+      "Moulin Jules",
+      "Moulin Paul",
+      "Nicolier Alexandre",
+      "Nicolier François",
+      "Nicolier frères, les Rochers",
+      "Nicolier hoirie d'Emile",
+      "Nicolier Jules",
+      "Nicolier Vincent",
+      "Nicolier-Favre Emile",
+      "Pernet-Gerber Henri",
+      "Pernet-Pichard Jules",
+      "Pernet-Reber Jules",
+      "Pernet-Tille Eugène",
+      "Pernet-Treina Emile",
+      "Pichard Auguste",
+      "Pichard Emile",
+      "Pichard Henri",
+      "Pichard Henri fils",
+      "Pichard-Ansermod Albert",
+      "Pichard Frank",
+      "Pichard-Jordan François",
+      "Pichard-Moillen Henri",
+      "Pichard Robert",
+      "Pichard-Morerod Jules",
+      "Pilet Albert",
+      "Pilet-Nicolier Albert",
+      "Treina Georges"
     ],
-    "Montres terminées": [
-      "Audemars, Piguet & Cie, S. A.",
-      "Piguet-Capt Paul",
-      "The C. H. Meylan Watch Co."
+    "Assurance-vieillesse": [
+      "Associations mutualistes de retraite",
+      "Chapalay C."
     ],
-    "Horlogerie en blanc": [
-      "Meylan Paul-A.",
-      "Piguet, les fils de Louis-Elisée"
+    "Auberges et cafés": [
+      "Buchs hoirie",
+      "Corboz Louis, fils",
+      "Morex-Tille, hoirie",
+      "Nicolier, Vve d'Auguste",
+      "Bertholet Adrien",
+      "Schneiter-Pellet Marie",
+      "Wursten-Moillen Samuel",
+      "Tille Alfred"
     ],
-    "Bijouterie, argenterie, orfèvrerie": [
-      "Piguet Emile-Gustave"
+    "Appareilleurs": [
+      "Ansermoz Fr. et Favre Emile"
     ],
-    "Cadraturiers": [
-      "Audemars Adolphe",
-      "Piguet, les fils de Louis-Elisée"
+    "Bazars": [
+      "Dufresne-Hubert",
+      "Favre Olivier",
+      "Pernet Armand"
     ],
-    "Chronographes": [
-      "Goy Georges-Hri",
-      "Simond Louis"
+    "Blanchisseuses": [
+      "Ansermoz Aline",
+      "Gallaz Sophie",
+      "Perreten Louise"
     ],
-    "Fraises (fab. de)": [
-      "Meylan Paul-Alfred"
+    "Bois (march. de)": [
+      "Busset frères",
+      "Henchoz Robert",
+      "Tille frères et sœur",
+      "Tille Jules R.",
+      "Treina Georges"
     ],
-    "Horlogerie (fourn. pour)": [
-      "Meylan Paul-A."
+    "Boisseliers": [
+      "Jordan Constant",
+      "Jordan François"
     ],
-    "Pierres fines (fabr. de)": [
-      "Capt Marius",
-      "Dépraz Wilhelm",
-      "Meylan Albert",
-      "Meylan Edouard-William",
-      "Piguet"
+    "Boulangers": [
+      "Genillard Ernest",
+      "Girod Armand",
+      "Moillen Constant",
+      "Nicollier, Vve d'Auguste"
+    ],
+    "Chalets (location de)": [
+      "Amiguet Lse",
+      "Ansermoz Dd",
+      "Ansermoz Fs-Jn",
+      "Berruex Jules",
+      "Berruex-Gingen Jean",
+      "Berruex frères",
+      "Berruex-Pernet Frs",
+      "Berruex-Pichard Alexis",
+      "Busset Eugène",
+      "Busset Emile",
+      "Busset-Moulin Robert",
+      "Busset-Daccord Emlie",
+      "Dupertuis-Pichard Nancy",
+      "Favre Alexandre",
+      "Favre-Berruex Robert",
+      "Favre-Pernet Vincent",
+      "Favre Marie-Sophie",
+      "Fromentin Jules",
+      "Gallaz",
+      "Gallaz Rosine",
+      "Genillard Alexandre",
+      "Genillard Eugène",
+      "Genillard frères",
+      "Gingen Léopold",
+      "Hauswirth Félix",
+      "Isabel hoirs d'Auguste",
+      "Moillen Alexis",
+      "Moillen Alexis fils",
+      "Moillen Constant",
+      "Moillen Jules",
+      "Morerod Adèle",
+      "Morerod, hoirie de David",
+      "Morerod Eugène",
+      "Morerod-Moillen Eugène",
+      "Morerod Jean",
+      "Morex Auguste",
+      "Nicolier-Dorner, hoirie d'Alexandre",
+      "Nicolier François",
+      "Nicolier-Gallaz Jules",
+      "Nicolier Jules",
+      "Nicolier Louise",
+      "Pernet-Moulin Auguste",
+      "Pernet Edouard",
+      "Perreten Alb.",
+      "Pichard Albert",
+      "Pichard Emile",
+      "Pichard Isaline",
+      "Pichard Jules",
+      "Pichard-Ansermoz Albert",
+      "Pichard Auguste",
+      "Pernet Alexis"
     ]
   }
 }

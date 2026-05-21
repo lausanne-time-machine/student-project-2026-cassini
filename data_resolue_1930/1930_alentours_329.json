@@ -1,118 +1,255 @@
 {
-  "Ville d'Yverdon": {
+  "AUBONNE": {
+    "Greffe de paix": [
+      "Dumont Mce."
+    ],
+    "Gypsiers": [
+      "Deléchat J. et fils",
+      "Locca Pierre et fils",
+      "Montangero Jean"
+    ],
+    "Horlogerie": [
+      "Berney Th.",
+      "Cuendet Dan. fils",
+      "Guignard René",
+      "l'Eglantine",
+      "Piguet Fr.-Ls"
+    ],
+    "Hôtels": [
+      "Hôtel de la Couronne",
+      "Dallenbach Th.",
+      "Hôtel du Lion d'Or",
+      "Perrin Charles"
+    ],
+    "Imprimerie": [
+      "Imprimerie du Jura",
+      "L. Eberhard & Cie."
+    ],
+    "Infirmerie": [
+      "Route de Féchy"
+    ],
+    "Ingénieurs": [
+      "Bettems Frédéric",
+      "Roveray",
+      "Simon Charles"
+    ],
+    "Inspecteur du bétail": [
+      "Croisier L."
+    ],
+    "Inspecteur forestier": [
+      "Berthoud"
+    ],
+    "Inspecteur de police": [
+      "Daxelhofer Hector"
+    ],
+    "Instituteurs primaires": [
+      "Anken Cécile",
+      "Carmentrand Berthe",
+      "Hédiger Jeanne",
+      "Henrioud Léa",
+      "Leresche André",
+      "Metzener Louis"
+    ],
+    "Instituteurs secondaires": [
+      "Rosset Daniel",
+      "Ansermoz Pierre",
+      "Hurter Pauline",
+      "Vallon Henriette",
+      "Gauthey Robert",
+      "Yersin Adolphe",
+      "Margot Paul",
+      "Aubert Daniel"
+    ],
+    "Jardiniers": [
+      "Bovey E.",
+      "Cordey-Aubert Michel",
+      "Gasser Albert",
+      "Trévelin",
+      "Terry Gve."
+    ],
+    "Journaux": [
+      "Journal d'Aubonne",
+      "Vittoz",
+      "Imprimerie",
+      "F. Trabaud"
+    ],
+    "Jura Vaudois": [
+      "L. Eberhard & Cie."
+    ],
+    "Justice de paix du cercle": [
+      "Barbay Alfred",
+      "Bettems Julien",
+      "Burnier Henri",
+      "Cart Jules",
+      "Rosset Arthur",
+      "Dumont Maurice"
+    ],
+    "Laitiers": [
+      "Bassin Rob.",
+      "Perret Jules"
+    ],
     "Librairies": [
-      "Baatard Henri",
-      "Gonthier, Vve & fils",
-      "Wagnières Jules-Henri",
-      "Wuille Louis, fils"
+      "Pellet J.",
+      "Vittoz Juliette"
     ],
     "Lingères": [
-      "Peter, dame",
-      "Redard E.. Dlle",
-      "Tétaz Adèle",
-      "Wirz M."
+      "Cuérel G.",
+      "Grosjean-Pellet Alexandrine",
+      "Wissler Julie"
     ],
-    "Literie (Nettoyage de)": [
-      "Buser & fils"
+    "Loge maçonnique": [
+      "(La Constance)",
+      "Guignard Jules"
     ],
     "Machines à coudre": [
-      "Borel Ls",
-      "Compagnie Singer (S. A.)",
-      "Porta Eugène"
-    ],
-    "Machines à écrire (fab. de)": [
-      "Marque Hermès, E. Paillard & Cie (S. A.)"
-    ],
-    "Machines agricoles": [
-      "Crozat & Roux",
-      "Freymond Adr.",
-      "Marti Fritz. S. A.",
-      "Mottaz John",
-      "Paillard Ch."
-    ],
-    "Maison de repos": [
-      "Bezençon Eugène"
-    ],
-    "Malles (fab. de)": [
-      "de Siebenthal, Vve d'Henri"
-    ],
-    "Marbriers-sculpteurs": [
-      "Dupuis L.",
-      "Monti Auguste",
-      "Rothen Charles"
+      "Cuendet Daniel",
+      "Wehrli Jean"
     ],
     "Maréchaux": [
-      "Cochet Alexandre",
-      "Grieshaber Charles",
-      "Hack Louis",
-      "Monti Candide",
-      "Pittet Ernest",
-      "Tacheron E.",
-      "Späth Ernest",
-      "Witschi Jean."
+      "Debonneville Aloïs",
+      "Perrin J."
     ],
-    "Massage": [
-      "Berguer L.",
-      "Favre Georges"
-    ],
-    "Maraîchers": [
-      "Burdet Edmond",
-      "Moccand Samuel",
-      "Stauffer Alfred",
-      "Stauffer Charles, fils"
+    "Matelassiers": [
+      "Hugonnet-Tripod",
+      "Henry-Renaud Berthe",
+      "Jaquenoud Clara",
+      "Metzner-Junod"
     ],
     "Matériaux de construction": [
-      "Decoppet Pierre",
-      "Dubath Chs",
-      "Dubath Frédéric",
-      "Eternod Pierre",
-      "Grandguillaume Eugène",
-      "Monti Aug., fils"
+      "Chavannes Auguste",
+      "Chavannes Marcel"
     ],
     "Mécaniciens": [
-      "Auberson Jules",
-      "Calame Ch.",
-      "Ecole professionnelle",
-      "Lindic-Mooser A.",
-      "Paillard E. & Cie",
-      "Paillard Charles",
-      "Rauss R.",
-      "Spaeth Louis",
-      "Tschumy Albert",
-      "Verdan Edouard",
-      "Widmer Alph."
+      "Chapuis P.",
+      "Détraz Louis",
+      "Schaer Jaques"
     ],
-    "Mécanicien-dentiste": [
-      "Roussy L."
+    "Mécanique (ateliers de tournage)": [
+      "Moynat A.",
+      "Piguet L.-fs."
     ],
     "Médecins": [
-      "André",
-      "Chapuis-Müllenbach Samuel",
-      "Cuendet S.",
-      "Hafner Max",
-      "Pache Henri-Ls",
-      "Pérusset Georges",
-      "Pérusset G.-F. fils",
-      "Vodoz Paul-L.",
-      "Vuarraz, Dr",
-      "Welti Rodolphe"
+      "Bergier Alf.",
+      "Guder Roger"
     ],
-    "Menuisiers-ébénistes": [
-      "Beauverd & Bécherraz",
-      "Berçot G.",
-      "Brunner & Décoppet",
-      "Ciboldi André",
-      "Delorme frères",
-      "Fiorenza G.",
-      "Forestier Auguste",
-      "Helfer Robert",
-      "Mério Antoine",
-      "Pittet H. & fils",
-      "Porret C.",
-      "Reymond H. & Toberer",
-      "Stettler W.",
-      "Weiss Emile",
-      "Zundt Joseph"
+    "Menuisiers": [
+      "André Marcel",
+      "Metzner-Junod C."
+    ],
+    "Mercerie": [
+      "Agassis-Rochat E.",
+      "Palaz Elise",
+      "Waridel Pierre"
+    ],
+    "Meubles": [
+      "Metzner Junod",
+      "Ct",
+      "Nerfin Paul"
+    ],
+    "Meuniers": [
+      "Muller Emile",
+      "Pasche-Charrière O.",
+      "Société du Moulin",
+      "Henry Laurent"
+    ],
+    "Modistes": [
+      "Chenuz Marguerite",
+      "Wehrly Renée"
+    ],
+    "Notaires": [
+      "Bujard Emile",
+      "Rolaz Jules"
+    ],
+    "Mesureur-juré": [
+      "Favre Auguste"
+    ],
+    "Officier d'état-civil": [
+      "Merminod Edmond",
+      "Bartré Daniel"
+    ],
+    "Orfèvre": [
+      "Cuendet Daniel, fils"
+    ],
+    "Papeteries": [
+      "Pellet Judith",
+      "Vittoz Juliette",
+      "Waridel Pierre"
+    ],
+    "Papeterie en gros": [
+      "Eberhard Georges"
+    ],
+    "Pasteurs": [
+      "Borle Maurice",
+      "Bonnard Maurice",
+      "Rosset Daniel"
+    ],
+    "Pharmacien": [
+      "Eppinger Paul"
+    ],
+    "Photographe": [
+      "Calame Ed."
+    ],
+    "Peintre (artiste)": [
+      "Hermenjat A."
+    ],
+    "Pensions": [
+      "Calcagni",
+      "Charrière Lydie",
+      "Gobeli"
+    ],
+    "Pierriste": [
+      "Piguet Emile"
+    ],
+    "Porcelaine et verrerie": [
+      "Lincio Alfr.",
+      "Magnenat Gustave",
+      "Uldry Adolphe"
+    ],
+    "Poterie": [
+      "Cruchon Alfred",
+      "Frey Olive",
+      "Magnenat Gustave",
+      "Lincio Alfred",
+      "Uldry Adolphe"
+    ],
+    "Poudrerie de la Confédération suisse": [
+      "Louis Magnenat"
+    ],
+    "Ramoneur": [
+      "Clément Auguste"
+    ],
+    "Relieur": [
+      "Eberhard G."
+    ],
+    "Repasseuses": [
+      "Bertholet Henriette",
+      "Enderlin A.",
+      "Gaillard Louise",
+      "Magnenat Berthe",
+      "Winkelmann Anna"
+    ],
+    "Représentants": [
+      "Grosjean-Pellet Pl",
+      "Müller Paul « Diphenso »"
+    ],
+    "Sages-femmes": [
+      "Cornaz",
+      "Davoët"
+    ],
+    "Selliers-carrossiers": [
+      "Caillet Jules et fils",
+      "Cuérel Paul"
+    ],
+    "Serruriers": [
+      "Bartré G.",
+      "Grosjean Paul",
+      "Truan Jules-Emile"
+    ],
+    "Sociétés": [
+      "d'Agriculture de la Côte",
+      "Amis Réunis",
+      "Association viticole",
+      "du Moulin"
     ]
   }
 }

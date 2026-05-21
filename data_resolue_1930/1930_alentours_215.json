@@ -1,224 +1,248 @@
 {
-  "ROUGEMONT": {
-    "Aubergiste": [
-      "Massard Lina"
-    ],
-    "Boulangerie, épicerie": [
-      "Maillefer",
-      "Pilet-Rittner Louis"
-    ],
-    "Charpentiers": [
-      "Isoz frères"
-    ],
-    "Distillateur": [
-      "Favre Vincent"
-    ],
-    "Maréchal": [
-      "Pilet Henri de David"
-    ],
-    "Matelassier": [
-      "Pilet Samuel"
-    ],
-    "Autorités communales": [
-      "Bovay Louis",
-      "Wuthrich Samuel"
-    ],
+  "EYSINS": {
     "Syndic": [
-      "Gétaz Daniel"
+      "Haldimann Julien"
     ],
     "Municipaux": [
-      "Yersin-Linder Louis",
-      "Bovay Alfred",
-      "Yersin Victor",
-      "Saugy Alexis",
-      "Yersin Samuel",
-      "de Siebenthal Alfred"
+      "Granger Julien",
+      "Pasche Emile",
+      "Chenaux Fernand",
+      "Martignier Paul"
     ],
     "Secrétaire": [
-      "Oesch Ami"
+      "Baudraz Alfred"
     ],
     "Boursier": [
-      "Bovay David"
+      "Olivier Louis"
     ],
-    "Agriculteurs-éleveurs": [
-      "Andrist David",
-      "Andrist Ernest",
-      "Annen Gottfried",
-      "Annen Jean",
-      "Balsiger frères",
-      "Balsiger Jean",
-      "Baux Ad.",
-      "Blatti Jean",
-      "Blum Charles",
-      "Blum Gottfried",
-      "Bovay Auguste",
-      "Bovay Ernest",
-      "Bovay Louis",
-      "Bovay Paul",
-      "Cottier Ch.",
-      "Cottier Jean-Louis",
-      "Cottier Olivier",
-      "de Siebenthal Alfred",
-      "Dänzer Hermann",
-      "Favre-Perrod David",
-      "Favre-Perrod Gabriel",
-      "Gander Emile",
-      "Henchoz Louis",
-      "Morier-Genoud Paul",
-      "Morier-Genoud Alfr.",
-      "Oesch Vincent",
-      "Rayroud Paul",
-      "Roch-Rayroud Ami",
-      "Rossier-Saugy Paul",
-      "Roussy Louis",
-      "Roussy Auguste",
-      "Saugy Alexis",
-      "Saugy-Meige Adrien",
-      "Saugy Onésime",
-      "Saugy Adr.",
-      "Saugy Ls-Dd",
-      "Saugy-Blatti Ls",
-      "Saugy Vict.-Aug.",
-      "Saugy-Bovay Ls",
-      "Saugy David-Alfred",
-      "Saugy Arnold",
-      "Saugy Olivier",
-      "Schwitzguébel Ami",
-      "Schwitzguébel Hoirie",
-      "Schwitzguébel Jules",
-      "Schwitzguébel Paul",
-      "Schwitzguébel Robert",
-      "Theiler Adolphe",
-      "Thönnen Jacob",
-      "Turrian Alfred",
-      "Turrian Emile",
-      "Wutrich Jean",
-      "Yersin-Dänzer David",
-      "Yersin-de Siebenthal Louis",
-      "Yersin-Rossier Paul",
-      "Yersin Victor",
-      "Zurcher Edouard"
+    "Agriculteurs": [
+      "André Ami",
+      "Bachelard Louis. T.",
+      "Bader Veuve",
+      "Bolay Aloïs. T.",
+      "Brélaz Alfred",
+      "Chenaux Fernand",
+      "Demont Eugène",
+      "Dupontet Marc",
+      "Ebinger Albert",
+      "Gigy Charles",
+      "Granger Julien",
+      "Haldimann Albert",
+      "Haldimann Julien",
+      "Hautier Ami",
+      "Jordan Paul",
+      "Liechti Alfred",
+      "Martignier Paul",
+      "Olivier Alphonse",
+      "Pasche frères",
+      "Perret James",
+      "Rochat Gustave",
+      "Spöri Jacob",
+      "Staeblé Hans",
+      "Stüki Fritz",
+      "Tappaz Georges. T.",
+      "Turrian Auguste"
     ],
-    "Assurance cantonale contre l'incendie": [
-      "Bovay David"
-    ],
-    "Assurance-vieillesse. Mutualité scolaire de retraite": [
-      "Wuthrich S."
+    "Mutualité scolaire de retraite": [
+      "Baudin. G."
     ],
     "Aubergistes": [
-      "Cottier-Andrist P.",
-      "Gerber Louise",
-      "Mange Aloïs",
-      "Marlétaz Marcel",
-      "Yersin Victor"
+      "Olivier Louis"
     ],
-    "Bazars": [
-      "Dolder Pauline",
-      "Saugy Sophie"
+    "Battoir à blé et huilerie": [
+      "Olivier Alphonse"
     ],
-    "Bétail (march. de)": [
-      "Balsiger frères",
-      "Balsiger Jean",
-      "Blum Charles",
-      "Blum Gottfried",
-      "Dänzer Herm.",
-      "Rossier-Saugy Paul",
-      "Schläppi Jacob",
-      "Schwitzguébel-Bovay Ami"
+    "Charcutier": [
+      "Olivier Louis"
     ],
-    "Blanchisseuses": [
-      "Crot Ida",
-      "Messerly Bertha",
-      "Schwitzguébel Lina"
+    "Charpente et menuiserie": [
+      "Chabloz père et fils"
     ],
-    "Bois (march. de)": [
-      "Cottier Maurice",
-      "Rossier Louis-David"
+    "Charron": [
+      "Fuhrer Gaspard"
     ],
-    "Bouchers": [
-      "Boo Arnold",
-      "Yersin Gustave"
+    "Chef de station": [
+      "Baudraz Alfred"
     ],
-    "Boulangers": [
-      "Bovay-Mottier Ls",
-      "De Siebenthal Alfred",
-      "Matti-Blum Ern.",
-      "Rochat Louis"
-    ],
-    "Charpentier": [
-      "Duperrex Charles"
-    ],
-    "Château": [
-      "Tuck W.-H."
-    ],
-    "Chaussures": [
-      "Cottier-Morier, Vve. R."
-    ],
-    "Chef de section": [
-      "Saugy David"
-    ],
-    "Coiffeur": [
-      "Gerber G. fils"
+    "Commandant corps des pompiers": [
+      "Dupontet Marc"
     ],
     "Commission scolaire": [
-      "Oesch A.",
-      "Cottier Paul"
+      "Larpin Alfr.",
+      "Wyrsch Arnold",
+      "Granger Julien"
     ],
-    "Cordier": [
-      "Saugy André"
+    "Entrepreneur": [
+      "Paltani Joseph"
     ],
-    "Cordonniers": [
-      "Menoud Alphonse",
-      "Saugy Ami",
-      "Saugy Louis"
+    "Epicerie, mercerie": [
+      "Olivier-Pinguely L. RT."
     ],
-    "Couvreurs": [
-      "Duperrex Louis",
-      "Lenoir David",
-      "Mottier Ls.",
-      "Remy Auguste",
-      "Saugy David",
-      "Saugy Jules-Auguste",
-      "Schwartz Alfred"
+    "Inspecteur du bétail": [
+      "Olivier Alph."
     ],
-    "Denrées-fourrages": [
-      "Saugy-Knuchel Victor",
-      "de Siebenthal Alfred"
+    "Instituteurs": [
+      "Baudin Gustave",
+      "Miauton-Chappuis Renée"
     ],
-    "Entrepreneurs": [
-      "Duperrex Chs",
-      "Ellena Alexandre"
+    "Laitier": [
+      "Schnebeli Emile fils. R."
     ],
-    "Epicerie": [
-      "Bovay-Mottier Ls",
-      "Cottier-Morier, Vve",
-      "de Siebenthal Alf.",
-      "Dolder Pauline",
-      "Matti-Blum Ernest",
-      "Saugy Victor",
-      "Schmidt-Hutzli, Vve",
-      "Yersin Louise",
-      "Yersin-Bovay, sœurs"
+    "Poste": [
+      "Baudraz Alfred"
     ],
-    "Etoffes, confections": [
-      "de Siebenthal Alfred",
-      "Saugy Sophie"
+    "Société": [
+      "de Laiterie d'Eysins",
+      "Bolay Aloïs"
     ],
-    "Ferblantier-appareilleur": [
-      "Remy Auguste",
-      "Mottier Louis"
+    "Télégraphe et téléphone": [
+      "Olivier Ls."
     ],
-    "Guide patenté": [
-      "Yersin Charles"
+    "Divers": [
+      "André A."
+    ]
+  },
+  "FOUNEX": {
+    "Ecole nouvelle « La Châtaigneraie »": [
+      "Schwartz-Buys"
     ],
-    "Hôtels et pensions": [
-      "Cottier-Andrist P.",
-      "Cottier Charles",
-      "Cottier-Saugy",
-      "Cottier Emma",
-      "Marlétaz Marcel",
-      "Gangloff, Dlle",
-      "Saugy Adrien"
+    "Autorités communales": [
+      "Polencent Hri",
+      "Guichoud René"
+    ],
+    "Syndic": [
+      "Deblüe Charles"
+    ],
+    "Municipaux": [
+      "Vulliez Paul",
+      "Henchoz Charles",
+      "Nerfin Const.",
+      "Dejoux Charles"
+    ],
+    "Secrétaire": [
+      "Guichoud Georges"
+    ],
+    "Boursier": [
+      "Guignard Julien"
+    ],
+    "Agriculteurs": [
+      "Balmer Charles et Fritz",
+      "Bezuchet Maurice",
+      "Carrard Henri",
+      "Cavin Marcel",
+      "Deblüe Alfred",
+      "Deblüe Charles",
+      "Deblüe Emile",
+      "Deblüe Ern.",
+      "Deblüe Marc",
+      "Dejoux Const.",
+      "Favre Jules",
+      "Guichoud Georges",
+      "Hédiguer Ed.",
+      "Henchoz Charles",
+      "Hertig Gottlieb",
+      "Kilchherr Hans",
+      "Kuonen Romain",
+      "Mandry Paul",
+      "Nerfin Constant",
+      "Nerfin Octave",
+      "Polencent Henri",
+      "Quiblier César",
+      "Rossier Auguste",
+      "Rossier Henri",
+      "Singy Fernand",
+      "Veluz Paul",
+      "Vulliez Paul. T."
+    ],
+    "Apiculteurs": [
+      "Quiblier César"
+    ],
+    "Assurance": [
+      "La Générale (accidents)",
+      "Nerfin Marcel"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Ferrari Lucien"
+    ],
+    "Société mutualiste de retraite « Le Laurier »": [
+      "Béboux Marguerite"
+    ],
+    "Aubergiste": [
+      "Joos Paul"
+    ],
+    "Bétail (march. de)": [
+      "Mandry Paul. R."
+    ],
+    "Charcutier": [
+      "Helfer Frédéric"
+    ],
+    "Chef de section": [
+      "Guichoud Edouard"
+    ],
+    "Commission scolaire": [
+      "Guichoud Edouard",
+      "Henchoz Charles",
+      "Deblüe Emile"
+    ],
+    "Curé": [
+      "Piotton Pierre-Joseph-Jaques"
+    ],
+    "Ecole ménagère": [
+      "« La Roseraie »",
+      "Rittmeyer, Mme, Dr"
+    ],
+    "Epicerie, mercerie": [
+      "Guignard Julien"
+    ],
+    "Inspecteurs du bétail": [
+      "Nerfin Constant",
+      "Deblüe Alfred"
+    ],
+    "Instituteurs": [
+      "Ferrari Lucien",
+      "Béboux Marguerite"
+    ],
+    "Jardiniers": [
+      "Giron François",
+      "Mistéli Joseph",
+      "Pilloud Emile"
+    ],
+    "Laitier": [
+      "Schneebeli Albert"
+    ],
+    "Maréchal": [
+      "Vullioud Ernest"
+    ],
+    "Pensions": [
+      "Carrard Henri",
+      "Fiandra Edouard. T."
+    ],
+    "Pépiniéristes": [
+      "Dutruy Gustave. T.",
+      "Guichoud Georges"
+    ],
+    "Poste": [
+      "Guichoud Georges"
+    ],
+    "Rentiers": [
+      "Brandt R.",
+      "De Pulido Maie",
+      "Caillat, Vve",
+      "Deblüe Alfred",
+      "Duvillard G.",
+      "Forget Albert",
+      "Moppert Gustave",
+      "Nerfin Marc",
+      "Notz, Vve d'Albert. T.",
+      "Picot Albert"
+    ],
+    "Sociétés": [
+      "de fromagerie. R.",
+      "de St-Robert. R."
+    ],
+    "Téléphones": [
+      "Auberge communale",
+      "Deblüe Marc"
     ]
   }
 }

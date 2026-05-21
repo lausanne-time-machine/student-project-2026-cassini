@@ -1,194 +1,94 @@
 {
-  "LES CLÉES-LA RUSSILLE": {
-    "Autorités communales": [
-      "Blanchet Aug.",
-      "Corbaz André",
-      "Blanchet Louis",
-      "Pichonnat Henri",
-      "Lambercy Jean",
-      "Blanchet Jean-Louis",
-      "Conod Ami",
-      "Conod John",
-      "Mermoud Jules"
+  "VILLE DE MORGES": {
+    "Sociétés.": [
+      "Foot-Ball Club.",
+      "Forward F.-C.",
+      "La Concorde.",
+      "Caisse de secours de l'Union ouvr.",
+      "Club athlétique.",
+      "Club Nautique Morgien.",
+      "Fonds du bataillon des Sapeurs-pompiers.",
+      "Orchestre l'«Harmonie».",
+      "Ligue suisse pour le travail.",
+      "Sim (S. A.).",
+      "Soc. d'agriculture",
+      "Soc. coopér. de consommation.",
+      "Soc. de la Gde Laiterie de Morges.",
+      "Société immobilière de Morges.",
+      "Société industrielle et commerciale.",
+      "Société de secours mutuels des ouvriers de Morges.",
+      "Société française de secours mutuels.",
+      "Société des bains du lac.",
+      "Société de l'Ecole supérieure.",
+      "Société de l'Ecole professionnelle.",
+      "Société du local pour le culte évangélique allemand.",
+      "Société de chant «Jeune Helvétie».",
+      "Société des usiniers du Curbit",
+      "Société des usines de la Morges.",
+      "Société hippique du Léman.",
+      "Société fédérale de gymnastique.",
+      "Société de gymnastique des hommes.",
+      "Société fédérale des sous-officiers.",
+      "Société des officiers.",
+      "Société des patrons maréchaux Aubonne, Morges et environs.",
+      "Société de développement.",
+      "Société des Jeunes Patriotes.",
+      "Société de la Croix-Bleue.",
+      "Société du Vieux Morges.",
+      "Syndicat agricole.",
+      "Union chrétienne de Jeunes Gens.",
+      "Union Instrumentale.",
+      "Vélo-Club."
     ],
-    "Agriculteurs": [
-      "Baltensweiler Emile",
-      "Blanchet Eugène",
-      "Blanchet, hoirs de Gustave",
-      "Blanchet Henri",
-      "Blanchet Louis",
-      "Conod, enfants d'Alfred",
-      "Conod Francis",
-      "Conod Georges",
-      "Conod John",
-      "Genier Alfred",
-      "Lambercy Jean",
-      "Jaccard Henriette",
-      "Pichonnat Samuel",
-      "Rochat Daniel"
+    "Tailleurs de pierres.": [
+      "André H. et A.",
+      "Plantaz Louis"
     ],
-    "Aubergiste": [
-      "Saugy Ida"
+    "Tailleurs.": [
+      "Bossler Ph.",
+      "Dieterle Auguste",
+      "Gräser Frédéric",
+      "Ilten H.",
+      "Meyer frères",
+      "Nicolaï Henri",
+      "Picard Ernest"
     ],
-    "Apiculteurs": [
-      "Conod Benjamin",
-      "Mermoud Jules"
+    "Tanneurs.": [
+      "Tannerie de Morges S. A."
     ],
-    "Commission scolaire": [
-      "Conod Benjamin",
-      "Lambercy Jean",
-      "Conod Gustave"
+    "Tapissiers.": [
+      "Engler, Vve de Ch.",
+      "Gay Auguste",
+      "Leder A.",
+      "Linder F.",
+      "Moyard Henri",
+      "Perréaz Fréd.",
+      "Vioget Fernand"
     ],
-    "Couturière pour hommes": [
-      "Cornut, dame"
+    "Taxis": [
+      "Lœrtscher Marcel"
     ],
-    "Electricien": [
-      "Baer Frédéric"
+    "Teinturiers.": [
+      "Dieterle Auguste",
+      "Maurer M. et Dlles",
+      "Rolaz-Reymond Marguerite",
+      "Schaefer Fr."
     ],
-    "Epicerie, mercerie": [
-      "Conod-Baudat Ida"
+    "Thés.": [
+      "André Emilie"
     ],
-    "Garde forestier de triage": [
-      "Conod Charles"
+    "Tissus divers.": [
+      "Chabloz Henri",
+      "Jaccard-Michel A., hoirs",
+      "Meyer frères",
+      "Meyer Sylvain",
+      "Picard Ernest",
+      "Schmoll Alfred",
+      "Vernet-Bernard Clémence, Vve."
     ],
-    "Inspecteurs du bétail": [
-      "Conod Francis",
-      "Conod Edmond"
-    ],
-    "Instituteurs": [
-      "Corbaz André",
-      "Duflon Rachel"
-    ],
-    "Lingère": [
-      "Mermoud Esther"
-    ],
-    "Maçon": [
-      "Néri Henri"
-    ],
-    "Sociétés": [
-      "de laiterie des Clées",
-      "du battoir à grains",
-      "de laiterie de La Russille",
-      "du pressoir de la Russille",
-      "de pisciculture et de pêcheurs à la ligne",
-      "de l'Usine électrique des Clées"
-    ],
-    "Téléphones publics": [
-      "auberge communale",
-      "Conod Charles"
-    ],
-    "Voiturier": [
-      "Conod Francis"
-    ]
-  },
-  "CORCELLES-SUR-CHAVORNAY": {
-    "Autorités communales": [
-      "Gorin Emile",
-      "Léonnard Alfred",
-      "Magnin Héli",
-      "Léonnard Edouard",
-      "Werly Ernest",
-      "Werly Eugène",
-      "Girard Louis",
-      "Werly Charles",
-      "Magnin Charly",
-      "Girard Charles",
-      "Léonnard Fernand"
-    ],
-    "Agriculteurs et vignerons": [
-      "Audrain frères",
-      "Charles Emile",
-      "Favre Alfred",
-      "Favre Eugène",
-      "Girard Auguste",
-      "Girard Louis",
-      "Gorin Ulysse",
-      "Gorin Louis",
-      "Jaquier Constant",
-      "Jaquier Emile",
-      "Jaquier Jules",
-      "Léonnard frères",
-      "Magnin Alfred",
-      "Magnin Charly",
-      "Magnin Héli",
-      "Magnin Louis",
-      "Meyer Nicolas",
-      "Perret Louis",
-      "Perrier Armand",
-      "Werly Adrien",
-      "Werly Alfred",
-      "Werly Charles",
-      "Werly Constant",
-      "Werly Fernand",
-      "Werly Gustave",
-      "Werly Louis"
-    ],
-    "Assesseur": [
-      "Favre Alfred"
-    ],
-    "Associations mutualistes de retraite": [
-      "Dessauges L."
-    ],
-    "Aubergiste": [
-      "Bezençon François"
-    ],
-    "Charron": [
-      "Gorin Emile"
-    ],
-    "Commission scolaire": [
-      "Haussmann",
-      "Gorin Emile",
-      "Werly Alfred",
-      "Werly Adrien",
-      "Léonnard Alfred"
-    ],
-    "Cordonnier": [
-      "Bolomey Jules"
-    ],
-    "Epicerie, mercerie": [
-      "Basset Aimé",
-      "Salomon Hélène",
-      "Girard Charles",
-      "Wuarraz Emma"
-    ],
-    "Garde-forestier": [
-      "Léonnard Alfred"
-    ],
-    "Inspecteur du bétail": [
-      "Gorin Louis"
-    ],
-    "Instituteurs": [
-      "Dessauges Louis",
-      "Dessauges-Besson Marguerite"
-    ],
-    "Maréchal": [
-      "Stoller Ernest"
-    ],
-    "Maison de santé pour maladies mentales": [
-      "Tschantz Rob.",
-      "Tschantz Fern."
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "de couture",
-      "de chant",
-      "de tir",
-      "du poids public",
-      "Synd. agricole",
-      "Société de Jeunesse"
-    ],
-    "Téléphoniste": [
-      "Salomon Hélène"
-    ]
-  },
-  "CROY": {
-    "Autorités communales": [
-      "Cavat Georges",
-      "Chevalier Jean-Louis",
-      "Rochat Louis",
-      "Bonard Georges",
-      "Benoit Alfred",
-      "Reymond Marc"
+    "Tonneliers.": [
+      "Friederich, les fils de B.",
+      "Reithaar Robert"
     ]
   }
 }

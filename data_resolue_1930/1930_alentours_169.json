@@ -1,227 +1,232 @@
 {
-  "ORMONT-DESSOUS": {
-    "Cordonniers": [
-      "Berger Emile",
-      "Cavin Constant",
-      "Roux Ernest"
-    ],
-    "Entrepreneurs": [
-      "Delmonico Jules",
-      "Valle Joseph"
-    ],
-    "Epicerie, mercerie, tabacs": [
-      "Bovard Alphonse",
-      "Corboz Jules",
-      "Fame & Cie.",
-      "Jan Fréd. & Cie."
-    ],
-    "Etoffes": [
-      "Bussy sœurs",
-      "Corboz Jules",
-      "Fame & Cie.",
-      "Grandchamp Emile"
-    ],
-    "Facteurs": [
-      "Jan Julien",
-      "Pasche Victor"
-    ],
-    "Ferblantier": [
-      "Mayor Fritz"
-    ],
-    "Fers et quincaillerie": [
-      "Bach Frédéric",
-      "Jan Fréd. & Cie.",
-      "Mayor Fritz"
-    ],
-    "Géomètre officiel": [
-      "Kissling Henri"
-    ],
-    "Gypsiers": [
-      "Valle frères"
-    ],
-    "Horlogerie": [
-      "Châtelain Paul",
-      "Favre Jules"
-    ],
-    "Horticulteur": [
-      "Kisling Robert"
-    ],
-    "Huissier du tribunal": [
-      "Jan Henri"
-    ],
-    "Inspecteur du bétail": [
-      "Clerc Etienne"
-    ],
-    "Instituteurs": [
-      "Hoffer Henri",
-      "Stoudmann Jules",
-      "Cand Gertrude",
-      "Martinet Germaine"
-    ],
-    "Justice de paix": [
-      "Dufey Henri",
-      "Corboz Alexis",
-      "Chollet Emile",
-      "George Louis",
-      "Rittener Eugène",
-      "Gilliéron Edouard",
-      "Jan Henri"
-    ],
-    "Laitier": [
-      "Hofmann Alfred"
-    ],
-    "Lingères": [
-      "Bussy sœurs",
-      "Grandchamp Elise",
-      "Stettler Emma"
-    ],
-    "Maréchaux": [
-      "Félix U.",
-      "Waridel Jules"
-    ],
-    "Matériaux de construction": [
-      "Valle Joseph"
-    ],
-    "Médecin": [
-      "Menthonnex Pierre"
-    ],
-    "Menuisiers": [
-      "Pahud Charles",
-      "Pasche Edouard",
-      "Stettler Louis"
-    ],
-    "Meuniers": [
-      "Doges Paul",
-      "Moulin agricole (société)"
-    ],
-    "Modiste": [
-      "Berger-Mellet Marie"
-    ],
-    "Notaires": [
-      "Gilliéron Edouard",
-      "Gilliéron William-Sam"
-    ],
-    "Officier d'état civil": [
-      "Jan Frédéric"
-    ],
-    "Organistes": [
-      "Mme Schutz",
-      "Jaquet Robert"
-    ],
-    "Pasteurs": [
-      "Schutz Charles",
-      "Vodoz Alex"
-    ],
-    "Peintres (artistes)": [
-      "Pasche Théodore",
-      "Pasche-Battié"
-    ],
-    "Peintre en voitures": [
-      "Jan H."
-    ],
-    "Pharmacien": [
-      "Martinet Edm."
-    ],
-    "Ramoneur-poêlier": [
-      "Studer Alexandre"
-    ],
-    "Renseignements commerciaux": [
-      "Cavin Alfred",
-      "Gilliéron W. et E.",
-      "Gaillard Gustave"
-    ],
-    "Sage-femme": [
-      "Pasche Marguerite"
-    ],
-    "Scieries": [
-      "Cavin Alfred",
-      "Doges Paul"
-    ],
-    "Selliers-tapissiers": [
-      "Leresche Henri",
-      "Rutishauser Walther"
-    ],
-    "Sociétés": [
-      "Immobilière de la salle de concerts et conférences",
-      "Immobilière de la Concorde",
-      "de laiterie",
-      "Fanfare",
-      "Chorale",
-      "Gymnastique",
-      "Militaire des Amis de la Montagne",
-      "des fusiliers des paroisses d'Oron et de Palézieux",
-      "Section de la Croix-Bleue",
-      "Les Premières Cartouches",
-      "Tir aux Armes de Guerre",
-      "Unions chrétiennes de jeunes gens et jeunes filles",
-      "l'Espoir",
-      "Club montagnard"
-    ],
-    "Tailleur": [
-      "Grandchamp Emile"
-    ],
-    "Tanneur": [
-      "Schlegel, hoirie"
-    ],
-    "Téléphone public": [
-      "Bureau central"
-    ],
-    "Vélos": [
-      "Jan Julien",
-      "Rod William"
-    ],
-    "Vétérinaire": [
-      "Boudry Alexis"
-    ]
-  },
-  "BUSSIGNY-SUR-ORON": {
-    "Autorités communales": [
-      "Stuby Alexis",
-      "Rothen Fritz",
-      "Cardinaux Charles",
-      "Rothen Fritz",
-      "Stuby Jules",
-      "Cardinaux Robert",
-      "Pfister Alfred"
-    ],
+  "TOLOCHENAZ": {
     "Agriculteurs": [
-      "Budry Ami",
-      "Cardinaux Ch.",
-      "Chollet Henri",
-      "Matti Théophile",
-      "Jan-Stuby Rachel",
-      "Pfister Alfred",
-      "Stuby, hoirie de Charles",
-      "Rothen Laurence",
-      "Stuby Jules",
-      "Stuby Théophile",
-      "Cardinaux Charles"
+      "au Vallon",
+      "Mingard Maurice",
+      "Morel Marc",
+      "Panchaud Somuel, hoirie."
     ],
-    "Apiculteur": [
-      "Cardinaux Charles"
+    "Apiculteurs.": [
+      "Borrel Alexis. T.",
+      "Morel Eugène",
+      "Vallon Ernest"
     ],
-    "Mutualité scolaire de retraite de Bussigny et Chesalles": [
-      "Pilet L.."
+    "Aviculture.": [
+      "Paderewska, dame."
     ],
-    "Inspecteur du bétail": [
-      "Stuby Jules"
+    "Commission scolaire.": [
+      "Paux Robert",
+      "Panchaud Marius",
+      "Schneider Ami"
     ],
-    "Rentière": [
-      "Stuby-Morel Cécile"
+    "Ecole des Alpes.": [
+      "Juillerat Edouard. R."
+    ],
+    "Epicerie, tabacs.": [
+      "Gruffel Htte. R."
+    ],
+    "Inspecteur du bétail.": [
+      "Gandillon Jn."
+    ],
+    "Instituteur.": [
+      "Vallon Ernest."
+    ],
+    "Institut de jeunes gens.": [
+      "Juillerat Louis"
+    ],
+    "Jardinier.": [
+      "Morel Eugène."
+    ],
+    "Maraîchers.": [
+      "Mariot",
+      "Hunziker Ls."
+    ],
+    "Pension.": [
+      "Panchaud Antoine, Vve"
+    ],
+    "Poste.": [
+      "Panchaud Emile."
+    ],
+    "Rentiers.": [
+      "de Luze, Vve de Maurice",
+      "Lenoir-Grand Jenny",
+      "Paderewski Ignace"
+    ],
+    "Téléphone public.": [
+      "Gruffel, Vve."
+    ],
+    "Vigneron.": [
+      "Mercet Louis."
+    ],
+    "Viticulteur.": [
+      "Héritier Joseph."
+    ],
+    "Sociétés.": [
+      "de fromagerie. R.",
+      "Syndicat d'élevage. R."
+    ],
+    "Téléphone.": [
+      "Bureau des postes."
     ]
   },
-  "CARROUGE": {
-    "Autorités communales": [
-      "Nicolas Héli",
-      "Jordan Alfred",
-      "Jordan Constant",
-      "Roud Gustave",
-      "Jordan Lucien",
-      "Dubois Ernest",
-      "Desmeules Constant",
-      "Gindroz Jules",
-      "Chapuis Edmond",
-      "Jordan-Durussel Philippe"
+  "VAUX": {
+    "Autorités communales.": [
+      "Schopfer Ch.",
+      "Schmidt Henri",
+      "Stoudmann Henri",
+      "Schmidt Eugène",
+      "Aigroz Paul",
+      "Panchaud Rod.",
+      "Moret Henri",
+      "Panchaud Maurice",
+      "Schopfer Charles"
+    ],
+    "Agriculteurs.": [
+      "Aigroz Paul",
+      "Christen Vve",
+      "Gebhard Jean",
+      "Moret Emile",
+      "Panchaud Rodolphe",
+      "Paquier Henri",
+      "Schmidt Const.",
+      "Schmidt Eug.",
+      "Schmidt Henri",
+      "Schmidt-Coderey",
+      "Schmidt Valentin",
+      "Schopfer Ch.",
+      "Stoudmann Henri",
+      "Trachsel, Vve"
+    ],
+    "Blanchissage.": [
+      "Pahud B."
+    ],
+    "Commission scolaire.": [
+      "Schmidt-Coderey",
+      "Pâquier Emile"
+    ],
+    "Inspecteur du bétail.": [
+      "Moret Henri."
+    ],
+    "Instituteurs.": [
+      "Conne Gilbert",
+      "Chaudet Edmée"
+    ],
+    "Instructeur artillerie.": [
+      "Schmidt Aloïs."
+    ],
+    "Jardinier.": [
+      "Vidoudez Robert."
+    ],
+    "Maréchal.": [
+      "Blanc Henri."
+    ],
+    "Meunier.": [
+      "Bovay Samuel. RT."
+    ],
+    "Rentiers.": [
+      "Forel Louis. T.",
+      "Pâquier Emile."
+    ],
+    "Rentière.": [
+      "Devenoge Julie."
+    ]
+  },
+  "VILLARS-SAINTE-CROIX": {
+    "Autorités communales.": [
+      "Moraz Samuel",
+      "Girardet Louis",
+      "Cuérel Robert",
+      "Dajoz Henri",
+      "Moraz Ernest",
+      "Pache Alb.",
+      "Cuérel François",
+      "Cuanillon Paul",
+      "Cuérel Edm."
+    ],
+    "Agriculteurs.": [
+      "Borgeaud Maurice",
+      "Burla Adolphe",
+      "Cuérel H.-Fr.",
+      "Cuérel H.-Louis",
+      "Cuérel Henri-Jules",
+      "Cuérel, de Ferdinand",
+      "Cuérel ,hoirs de Marius",
+      "Diserens Jules",
+      "Golay Emile",
+      "Moraz Hri",
+      "Moraz Constant",
+      "Moraz Ernest",
+      "Moraz Louis",
+      "Moraz Samuel",
+      "Pache Albert"
+    ],
+    "Apiculteur.": [
+      "Moraz Samuel."
+    ],
+    "Bois (comm. de).": [
+      "Borgeaud Maurice."
+    ],
+    "Commission scolaire.": [
+      "Cuérel Hri-Louis",
+      "Moraz Samuel."
+    ],
+    "Inspecteur du bétail.": [
+      "Moraz Louis."
+    ],
+    "Instituteurs.": [
+      "Cuanillon Pauls",
+      "Montagnon Georgine"
+    ],
+    "Pasteur.": [
+      "Mayor Louis"
+    ],
+    "Société.": [
+      "de laiterie. R."
+    ],
+    "Tailleuse.": [
+      "Pache Marie."
+    ],
+    "Téléphone.": [
+      "Pache Marie."
+    ]
+  },
+  "VILLARS-SOUS-YENS": {
+    "Autorités communales.": [
+      "Lannaz Henri",
+      "Bujard Fernand",
+      "Rossier Eugène",
+      "Grand René",
+      "Favre Albert",
+      "Schmid Théophile",
+      "Grand Aloïs",
+      "Guibert Robert",
+      "Kratzer Aloïs"
+    ],
+    "Boulanger.": [
+      "Lannaz Henri. R T."
+    ],
+    "Briqueterie.": [
+      "Schmid Théophile. RT."
+    ],
+    "Bureau de poste.": [
+      "Favre C."
+    ],
+    "Cafetiers.": [
+      "Hostettler Ulrich",
+      "Dupuis Charles"
+    ],
+    "Charpentier-menuisier.": [
+      "Amaron Aloïs."
+    ],
+    "Chef de section.": [
+      "Grand René."
+    ],
+    "Commission scolaire.": [
+      "Berthet Emile",
+      "Guibert Robert."
+    ],
+    "Cordonnier.": [
+      "Laurent Henri."
     ]
   }
 }

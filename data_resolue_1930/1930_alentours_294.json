@@ -1,115 +1,107 @@
 {
-  "MONTREUX": {
-    "Cordonniers": [
-      "Gutendorfer Georges",
-      "Gysler Ch.",
-      "Horwath Georges",
-      "Jomini Paul",
-      "Joyet E.",
-      "Jungi C.",
-      "Jütz-Baumann",
-      "Küng Marie",
-      "Klaus Ch.",
-      "Lavanchy Charles",
-      "Marchon F.",
-      "May Charles",
-      "Montangero Quentin",
-      "Moser Christian",
-      "Monti J.",
-      "id., L.",
-      "Mora Charles",
-      "Moulins R.",
-      "Niederberger Ch.",
-      "Panzeri G.",
-      "Pasquero Jean",
-      "Peppicelli Vitaliano",
-      "Pittier Marc",
-      "Räuber F.",
-      "Raymond",
-      "Regis Ernest",
-      "Schriewer Jean",
-      "Steuer Emile",
-      "Strickner Franz",
-      "Terranova Joseph",
-      "Tourny Emman.",
-      "Trog C.-A.",
-      "Valazza César",
-      "Veillard Louis",
-      "Weber François",
-      "Würgler F."
+  "VILLE DE ROLLE": {
+    "Préfet": [
+      "Vittel Arthur"
     ],
-    "Corsets.": [
-      "Bussien Ernestine",
-      "Schüpbach F.",
-      "Thévenaz-Isoz O.",
-      "Vogt Maurice",
-      "Weissenberger-Abt",
-      "Zimmermann B."
+    "Substitut": [
+      "Demaurex Henri"
     ],
-    "Cours professionnels, industriels, commerciaux et ménagers.": [
-      "Poirier-Delay L."
+    "Conservateur du registre foncier": [
+      "Delafoge Ami"
     ],
-    "Courtepointière.": [
-      "Pointet"
+    "Receveur": [
+      "Martin Edmond"
     ],
-    "Couteliers.": [
-      "Molliat Th.",
-      "Sollberger Frédéric",
-      "Vogt H.",
-      "Zény B."
+    "Voyer du IIIe arrondissement": [
+      "Dorier Lucien"
     ],
-    "Couturières.": [
-      "Aeschbacher-Maillard",
-      "Allison",
-      "Aubert A.",
-      "Bastardoz Louise",
-      "Betti",
-      "Blum L.",
-      "Boraley",
-      "Chaubert S.",
-      "Chaubert",
-      "Chollet-Sprintz",
-      "Cochard Marie",
-      "Cretenoud",
-      "Croset Julie",
-      "de Monpoly Marguerite",
-      "Décosterd-Copt",
-      "Delaloye",
-      "Dubois Marcelle",
-      "Dufaux Marie",
-      "Dufresne Violette",
-      "Dupertuis Jenny",
-      "Dvorak",
-      "Eggerschwiler Maria",
-      "Fama Eugénie",
-      "Favez Elisa",
-      "Ferrero Jeanne",
-      "Fornara-Rémy Aug.",
-      "Genton Marie",
-      "Germaine",
-      "Gôrmar Clara",
-      "Gilgen Léonie",
-      "Gnerro-Manzini",
-      "Grande Couture Jane, S. A.",
-      "Grognuz",
-      "Gudel-Billod",
-      "Hefti",
-      "Held sœurs",
-      "Josetti Mercédès",
-      "Josy",
-      "Kunzi-Dony E.",
-      "Leinberger-Schmid",
-      "Machonkine",
-      "Maier-Isler",
-      "Maria",
-      "Marmillod",
-      "Maurice",
-      "Mancia",
-      "Mason-Cretier Marie",
-      "Meier Catherine",
-      "Meier & Cie",
-      "Mercédès",
-      "Michaud Louise"
+    "Tribunal de district": [
+      "Pilet Ed.",
+      "Simon Eugène",
+      "Demartines Louis",
+      "Rolaz Louis",
+      "Parmelin Elie",
+      "Chêne Charles"
+    ],
+    "Poursuites et faillites": [
+      "Duport Henri"
+    ],
+    "Président du Conseil communal": [
+      "Yersin Henri"
+    ],
+    "Vice-président": [
+      "Chêne Charles"
+    ],
+    "Secrétaire": [
+      "Nicole Jean",
+      "Peter William"
+    ],
+    "Syndic": [
+      "Fauquex Henri"
+    ],
+    "Municipaux": [
+      "Métral Louis",
+      "Demartines Louis",
+      "Demaurex Henri",
+      "Gay John"
+    ],
+    "Boursier": [
+      "Peter Henri"
+    ],
+    "Huissier": [
+      "Beney Louis"
+    ],
+    "Affichage": [
+      "Société générale d'affichage"
+    ],
+    "Agriculteurs-Vignerons": [
+      "Badan Jules",
+      "Bonjour Louis",
+      "Deruaz-Grosjean",
+      "Duperrex",
+      "Jaggi Henri",
+      "Meylan Edouard",
+      "Treboux Eugène",
+      "Leutwyler Alfred",
+      "Roch Eugène"
+    ],
+    "Agence agricole": [
+      "Serex Charles"
+    ],
+    "Appareils de chauffage et de cuisine": [
+      "Armand Pahud & Cie"
+    ],
+    "Appareilleurs pour eau et gaz": [
+      "Bourgeois Jean",
+      "Cathélaz Edouard",
+      "Imbert Ernest",
+      "Pahud Armand & Cie",
+      "Rochat Henri",
+      "Rusillon Frédéric",
+      "Stalder Ernest",
+      "Wurlod Albert"
+    ],
+    "Architectes": [
+      "Fazan A.",
+      "Simon Eug.",
+      "Teysseire C."
+    ],
+    "Articles en bois (fabr.)": [
+      "Nidecker Henri"
+    ],
+    "Articles de pêche": [
+      "Morerod Eug.",
+      "Scherrer Ed.",
+      "Stalder Fritz"
+    ],
+    "Assurances": [
+      "La Suisse",
+      "La Genevoise",
+      "Guignard Julien",
+      "La Winterthur",
+      "Métral Ls.",
+      "Assurance cantonale contre la grêle",
+      "Rosset Henri"
     ]
   }
 }

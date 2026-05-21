@@ -1,114 +1,112 @@
 {
-  "Ville d'Yverdon": {
-    "Dentistes": [
-      "Savary Ernest",
-      "Sentenac C.-M.",
-      "Vaucher G.-E."
+  "Ville de Vevey": {
+    "Luthier": [
+      "Radrizzani Angelo"
     ],
-    "Directeurs.": [
-      "Abattoirs : Cornu Alfred",
-      "Ateliers des CFF. : Guillemin Georges",
-      "Banque Piguet & Cie, Piguet Chs.",
-      "Collège : Haenny Pierre-Louis",
-      "Crédit Yverdonnois: Grandjean Ed.",
-      "Ecoles primaires: Bettex Aimé",
-      "Ecole professionnelle: Ellgass Georg.",
-      "Société suisse de vis et boulons, Mauler Henri",
-      "Chemin de fer d'Yverdon à Ste-Croix: Jeanneret Edmond",
-      "Journal d'Yverdon : Anex Jean",
-      "Piles Leclanché, S. A., Jayet Aloys",
-      "Police : Jordan Emile",
-      "Services Industriels : Moser Henri",
-      "Travaux publics : Fumey Léon",
-      "Vautier frères S. A. : Duvoisin Chs."
+    "Machines à coudre": [
+      "Baumann Alfred",
+      "Bono Célestin",
+      "Düscher Louis",
+      "Gascard Arthur",
+      "Comp. Singer (S. A.)"
     ],
-    "Distillateurs-liquoristes.": [
-      "Distillerie agricole",
-      "Kern H.",
-      "Roulier François",
-      "Schneider Vve",
-      "Soc. pour l'utilisation des fruits"
+    "Machines à écrire": [
+      "Monnerat, Mlle."
     ],
-    "Draperie.": [
-      "Bachelin Eugène",
-      "Gonset-Henrioud P., S. A.",
-      "Guggenheim Salomon",
-      "Les Fils Walther-Bloch, S. A.",
-      "Pahud-Richardet, Vve d'Hri.",
-      "Piolino Marie",
-      "Roth F.",
-      "Stepaneck Franz"
+    "Marbriers-sculpteurs": [
+      "Cupelin H.",
+      "Realini frères",
+      "Reymond A.",
+      "Rossier Gust."
     ],
-    "Drogueries.": [
-      "Addor Alfred",
-      "Cuérel Const.",
-      "Gander Georges",
-      "Grandjean Aimé"
+    "Maréchal": [
+      "Schenkel Ernest"
     ],
-    "Eaux gazeuses.": [
-      "Favez Ernest",
-      "Merminod J.",
-      "Petitat Emile",
-      "Eaux minérales « Arkina », S. A."
+    "Masseurs": [
+      "Demont Emma",
+      "Demont Robert",
+      "Hunziker-Pasche Ad.",
+      "Hunziker Hélène",
+      "Schweizer M.",
+      "Walter, Vve",
+      "Zurcher M. et Mme"
     ],
-    "Ecoles particulières.": [
-      "Cand, Mme sténo Duployé",
-      "Dubath Louise",
-      "Margot Henriette, Mlle"
+    "Matériaux de construction": [
+      "Gétaz, Romang, Ecoffey, S. A.",
+      "Fabrique de carreaux pour dallages, tuyaux et autres articles en ciment."
     ],
-    "Ecole professionnelle pr mécaniciens et mécaniciens-électriciens": [
-      "Demiéville Jean",
-      "Ellgass Georges",
-      "Bollinger Jacques",
-      "Michod Ch.",
-      "Pillard Constant",
-      "Rossier Jules"
+    "Mécaniciens": [
+      "Auto-Stand, S. A.",
+      "Bettex Frédéric-Charles",
+      "Bourquin A.",
+      "Briffod Charles",
+      "Budry Marius",
+      "Claude Léon",
+      "Claude Paul",
+      "Liewald Max",
+      "Naef J.",
+      "Niquet Louis",
+      "Plumettaz E.",
+      "Savary Ls.",
+      "Spälti fils & Cie.",
+      "Volet Jean."
     ],
-    "Electricité.": [
-      "S. A. Leclanché",
-      "Société de l'usine électrique des Clées",
-      "Pilicier C.",
-      "Spaeth Louis",
-      "Verdan Edouard"
+    "Médecins": [
+      "Bettex Marius",
+      "Buser W.",
+      "Castanié Adrien",
+      "Centurier Henri",
+      "Cuénod Victor",
+      "Dudan A.",
+      "de Montet Ch.",
+      "Frey G.",
+      "de la Harpe R.",
+      "Helg L.",
+      "Isler Walther",
+      "Jomini Pierre",
+      "Maget A.",
+      "Martin Henri",
+      "Miéville Félix",
+      "Miéville Charles",
+      "Narbel Ch.",
+      "Parlato Emile",
+      "Perrier Jules",
+      "Rossier Al.",
+      "Steiner Léon"
     ],
-    "Engrais chimiques.": [
-      "Chevalley Henri",
-      "Dubath Charles",
-      "Dubath Frédéric",
-      "Decoppet Horace",
-      "Fornallaz Jean",
-      "Goy Marcel",
-      "Wutrich W."
+    "Menuisiers": [
+      "Anderson Jeau",
+      "Broggi Georges",
+      "Bron Albert",
+      "Budry Edouard",
+      "Buffat Albert",
+      "Christ O.",
+      "Cornaz Jean",
+      "Fonjallaz William",
+      "Hahn Georges",
+      "Mojonnier",
+      "Mutrux H.",
+      "Paccaud H. & M.",
+      "Paccaud-Rapaz Henri",
+      "Ruchonnet Henri",
+      "Schopper frères et sœurs",
+      "Siegfried Emile",
+      "Schwab Albert, fils",
+      "Uldry Charles",
+      "Wernli Jacob"
     ],
-    "Entrepreneurs.": [
-      "Barmaverain & Gabella",
-      "Beauverd & Bécherraz",
-      "Brunner & Décoppet",
-      "Grandguillaume Eug.",
-      "Mério Antoine",
-      "Michel Albert",
-      "Monti Aug., fils",
-      "Montorfano Angelo",
-      "Moriggia Primo",
-      "Perrin G.",
-      "Petitpierre Jean",
-      "Rigazzi frères",
-      "Soc. coop. du bâtiment"
-    ],
-    "Epices (en gros)": [
-      "Becholey Daniel"
-    ],
-    "Epiceries.": [
-      "Aeschlimann-Ray E.",
-      "Angyal Georgette, Vve",
-      "Auberson, dame",
-      "Bettex Emile",
-      "Chapuis Louise",
-      "Cherpillod Louis",
-      "Chevalley Jenny",
-      "Cochet Jules",
-      "Colomb Clara",
-      "Cuérel Constant"
+    "Mercerie": [
+      "A la Mercière, Dormond J.",
+      "Bayard J. & E.",
+      "Berger Samuel",
+      "Bono C.",
+      "Brugger F.",
+      "Currat Brigitte",
+      "Dæppen & Cie (en gros)",
+      "Dauer François",
+      "Doléjal, Mme",
+      "Ducret-Conne, Mme",
+      "Frey-Wicki A."
     ]
   }
 }

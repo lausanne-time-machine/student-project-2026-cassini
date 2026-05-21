@@ -1,136 +1,112 @@
 {
-  "GOUMOENS-LA-VILLE": {
-    "Agriculteurs.": [
-      "Basset Alfred",
-      "Basset Eug.",
-      "Basset Constant",
-      "Basset Emile",
-      "Basset Jules",
-      "Basset Henri de Ls",
-      "Bezençon Alfred de Ls",
-      "Bezençon Edmond",
-      "Bezençon Edouard",
-      "Bezençon Ernest",
-      "Bezençon Eug.",
-      "Bezençon Ls",
-      "Bezençon R.",
-      "Bissat Emile",
-      "Favre Auguste de Samuel",
-      "Favre Henri, de Samuel",
-      "Jaquier Louis, d'Aimé",
-      "Jaquier Ed.",
-      "Jaquier Eugène",
-      "Jaquier frères",
-      "Jaquier Louis",
-      "Marguerat Benjamin",
-      "Panchaud Louis",
-      "Pittet François",
-      "Rogivue Louis",
-      "Turin Alfred",
-      "Turin Louis"
+  "Ville d'Yverdon": {
+    "Mercerie, bonneterie.": [
+      "Angela Vve d'Etienne",
+      "Berney Emma",
+      "Cochet J.",
+      "Decoppet-Piguet M.",
+      "Delarze E.",
+      "Favez Flora",
+      "Golay Paul",
+      "Gonset-Henrioud P.",
+      "Landolt, Vve de Chs.",
+      "Lorenzelli",
+      "Martin & Co, S. A.",
+      "Monnin Ag.",
+      "Pahud-Richardet, Vve d'Hri.",
+      "Pfenninger Marie",
+      "Progin H.",
+      "Tacheron Julie",
+      "Tarantola A.",
+      "Walther-Bloch (les fils)"
     ],
-    "Amodiateur et md de bétail.": [
-      "Duperrex Jules"
+    "Métaux en gros.": [
+      "Aegerter & Cie."
     ],
-    "Aubergistes.": [
-      "Bezençon Eugène",
-      "Turin Louis fils"
+    "Meubles.": [
+      "Baatard Louis",
+      "Delorme frères",
+      "Combremont G.",
+      "Helfer F.",
+      "Majola Jeanne",
+      "Marendaz Constant",
+      "Monnier Emmanuel",
+      "Reymond H. & Toberer",
+      "Zeller & fils"
     ],
-    "Boulanger.": [
-      "Bezençon Edouard"
+    "Modistes.": [
+      "Bernard Camille",
+      "Brunner Sophie",
+      "Fabrégues Elise",
+      "Guisan-Kramer Laure",
+      "Grands Magasins Réunis",
+      "Walther-Pierrehumbert B."
     ],
-    "Charpentier.": [
-      "Stöckly William"
+    "Moulins.": [
+      "Chevalley Henri",
+      "Fornallaz J.",
+      "Moulin agricole"
     ],
-    "Charron.": [
-      "Basset Georges"
+    "Musique (instr. de).": [
+      "Hoog Sœurs",
+      "Laurent, Mlle.",
+      "Paillard E. & Cie, S. A.",
+      "Pittet, dame",
+      "Vagnières J. H.",
+      "Wyss-Mordasini O., dame"
     ],
-    "Cordonnier.": [
-      "Jaquier Jules"
+    "Musique (leçons de).": [
+      "Bornand G.",
+      "Burnand, Mme",
+      "Cholly, Mlle",
+      "Fischer-Beauverd M.",
+      "Lugrin Madeleine",
+      "Perey M.",
+      "Perret Léon",
+      "Piaget Alfred"
     ],
-    "Couturières.": [
-      "Basset-Dufour, Mme",
-      "Favre Adrienne",
-      "Marguerat-Jaquier, Mme"
+    "Nickelage.": [
+      "Fabrique suisse de vis et boulons (S. A.)",
+      "Leclanché S. A."
     ],
-    "Epicerie, mercerie, tabacs.": [
-      "Basset Ed.",
-      "Marguerat-Bezençon Louis"
+    "Notaires.": [
+      "Cand André",
+      "Decker Charles",
+      "Michaud André",
+      "Péclard Ulysse",
+      "Pilloud John",
+      "Pilloud Robert",
+      "Schmidhauser Marcel",
+      "Servien Prosper-Ls."
     ],
-    "Etoffes.": [
-      "Basset Edouard"
+    "Officier d'état-civil.": [
+      "Vagnières J.",
+      "Cand André"
     ],
-    "Garde de triage.": [
-      "Basset Fernand"
+    "Opticiens.": [
+      "Aeschlimann G.",
+      "Baehler M.",
+      "Wehrli A."
     ],
-    "Inspecteur du bétail.": [
-      "Bissat Emile"
+    "Organiste.": [
+      "Piaget Alfred"
     ],
-    "Instituteurs.": [
-      "Carrard Louis",
-      "Peitrequin Henri"
+    "Papetiers.": [
+      "Baatard Henri",
+      "Gonthier Veuve & fils",
+      "Kramer Ed.",
+      "Vagnières J. H.",
+      "Wuille Louis"
     ],
-    "Laitier.": [
-      "Coopérative Lausanne"
+    "Papiers peints.": [
+      "Baatard Henri",
+      "Vagnières J. H."
     ],
-    "Lingère-repasseuse.": [
-      "Dufour Jenny, Mme."
+    "Parapluies (fab. de).": [
+      "Chapuis Henri"
     ],
-    "Maréchal.": [
-      "Logoz Fçois",
-      "Turin Alfred"
-    ],
-    "Pasteur.": [
-      "Béranger Paul"
-    ],
-    "Poste.": [
-      "Narbel Edouard"
-    ],
-    "Sellier.": [
-      "Yantz Emile"
-    ],
-    "Sociétés.": [
-      "de fromagerie de Goumoëns-la-Ville.",
-      "de la machine à battre.",
-      "Syndicat agricole.",
-      "Crédit mutuel."
-    ],
-    "Téléphone.": [
-      "Marguerat Emilie, Mme."
-    ],
-    "Tricoteuse à la machine.": [
-      "Favre Laure, Mlle."
-    ],
-    "Tuilerie.": [
-      "Bolomey Jules"
-    ],
-    "Divers.": [
-      "Asile des vieillards du Gros de Vaud"
-    ]
-  },
-  "GOUMOENS-LE-JUX": {
-    "Agriculteurs.": [
-      "Auberson Julien",
-      "Gaudard Héli",
-      "Roy Robert"
-    ],
-    "Battoir à blé.": [
-      "Société du battoir Le Coudray-Goumoëns-le-Jux"
-    ]
-  },
-  "MALAPALUD": {
-    "Agriculteurs.": [
-      "Despont Marc",
-      "Longchamp Alfr.",
-      "Longchamp Auguste",
-      "Longchamp François",
-      "Longchamp Gustave",
-      "Longchamp Isidore",
-      "Longchamp Paul",
-      "Pollien Léon"
-    ],
-    "Inspecteur du bétail.": [
-      "Despont M."
+    "Paratonnerres.": [
+      "Baumann Herm."
     ]
   }
 }

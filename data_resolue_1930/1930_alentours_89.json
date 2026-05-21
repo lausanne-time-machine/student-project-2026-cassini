@@ -1,164 +1,188 @@
 {
-  "VILLE DE MOUDON": {
-    "Tabacs et cigares. Voir Epicerie.": [
-      "Lob Elie",
-      "Pache Louis",
-      "Perrier Frank",
-      "Pittet Eug."
+  "VILLE DE GRANDSON": {
+    "Charpentiers": [
+      "Cavin & Candaux"
     ],
-    "Tailleurs.": [
-      "Galbiati-Durussel G.",
-      "Weibel François"
+    "Chaudronnier": [
+      "Colomb Ami"
     ],
-    "Tailleuses.": [
-      "Becker Louise",
-      "Buttet Germaine",
-      "Chatelanat Zélie",
-      "Moser Marie",
-      "Pochon Rose",
-      "Rochat-Diserens A.",
-      "Saillet Adèle"
+    "Chaussures (march. de)": [
+      "Ballis Ch.",
+      "Suter Emile"
     ],
-    "Tapissiers.": [
-      "Bertholet Ernest",
-      "Debétaz Albert",
-      "Kuffer E.",
-      "Muller Jean",
-      "Pahud Armand"
+    "Chef de gare": [
+      "Matthey Emile"
     ],
-    "Teinturerie.": [
-      "Meyer frères & Cie"
+    "Chef de section": [
+      "Cand Frédéric"
     ],
-    "Téléphoniste et télégraphiste.": [
-      "Pasche Oscar"
+    "Cigares et tabacs en gros": [
+      "S.A. Henri Simon fils",
+      "Schindler Werner",
+      "Walter frères S. A. (gros)"
     ],
-    "Tricotages.": [
-      "Müller Frida",
-      "Steck-Dutoit, Vve."
+    "Cigares et tabacs (fabrique de)": [
+      "S. A. Vautier frères & Cie"
     ],
-    "Vélos.": [
-      "Dutoit Ernest",
-      "Rubin Emile"
+    "Cire à cacheter (fab. de)": [
+      "Pilet & Piaget"
     ],
-    "Verrerie-Porcelaines.": [
-      "Jaggi & Rayroux, dames"
+    "Coiffeurs": [
+      "Pavid-Leuenberger Marie",
+      "Sehmann Charles"
     ],
-    "Vétérinaires.": [
-      "Jaccottet A.",
-      "Lavanchy Louis"
+    "Combustibles": [
+      "Cand frères",
+      "Landi Paul"
     ],
-    "Vins.": [
-      "Canals E. & J.",
-      "Voruz Ernest"
+    "Commission scolaire": [
+      "Strehl Ernest",
+      "de Blonay G.",
+      "Schwaar Fernand",
+      "Ischy Emile",
+      "Crosasso Jean",
+      "Bidlingmayer Jules",
+      "Walter Eugène",
+      "Cand Frédéric"
     ],
-    "Voituriers.": [
-      "Cherbuin & Gris",
-      "Faucherre Henri",
-      "Golay Ernest",
-      "Monachon Emile",
-      "Ruch Jean"
+    "Confections": [
+      "Buchmann Rodolphe",
+      "Kiener Fanny"
     ],
-    "Volailles (commerce de).": [
-      "Degoudron Elisa"
+    "Cordonniers": [
+      "Ballis Charles",
+      "Sutter Emile"
     ],
-    "Divers.": [
-      "Briod Rodolphe",
-      "Combaz J., Mme",
-      "Martinetti Mlles",
-      "Pidoux Ernest",
-      "Raccaud Anna"
-    ]
-  },
-  "BERCHER": {
-    "Président du Conseil général": [
-      "Becholey Jules"
+    "Couvreurs": [
+      "Cochand Fernand",
+      "Mermillod Laurent"
     ],
-    "Secrétaire": [
-      "Coquerand Ulysse",
-      "Jaquier Gustave"
+    "Electricité": [
+      "Société de l'usine des Clées",
+      "Mottaz Jules"
     ],
-    "Syndic": [
-      "Coquerand Louis"
+    "Entrepreneurs": [
+      "Ballerini Michel et Albert fils",
+      "Cavin & Candaux",
+      "Faesch Serge",
+      "Ortelli Baptiste",
+      "Walther Fernand"
     ],
-    "Municipaux": [
-      "Millioud Const.",
-      "Gonet William",
-      "Bissat Jules",
-      "Becholey Adolphe",
-      "Thomas René",
-      "Wulliamoz Alb."
+    "Epiceries": [
+      "Capt Denis",
+      "Centlivres Ami",
+      "Colomb Fernand",
+      "Denger Gottfried",
+      "Dubois Bertha",
+      "Henrioud Emile",
+      "Cochet Louisa",
+      "Kaeser Félix",
+      "Ledermann Elise",
+      "Petitpierre Chs., S. A.",
+      "Roulet Louise",
+      "Société yverdonnoise de consommation",
+      "Wagnières Octave"
     ],
-    "Boursier": [
-      "Lambelet Justin"
+    "Etoffes": [
+      "Buchmann Rod.",
+      "Denger Gott.",
+      "Kiener Fanny"
     ],
-    "Huissier": [
-      "Dutoit Hri."
+    "Ferblantier": [
+      "Morisetti Angelo"
     ],
-    "Agriculteurs": [
-      "Becholey Adolphe",
-      "Becholey Alfr.",
-      "Bissat Auguste",
-      "Bovay Paul",
-      "Burnand Constant",
-      "Coquerand André",
-      "Cruchon François",
-      "Dutoit Auguste",
-      "Dutoit-Badoux E.",
-      "Gonet William",
-      "Henry Constant",
-      "Jaccaud frères",
-      "Recordon Ed.",
-      "Recordon Lucien",
-      "Recordon Paul",
-      "Thomas Auguste",
-      "Thomas Jules",
-      "Thomas frères",
-      "Vulliens Marcel",
-      "Wulliamoz Alb."
+    "Fers (march. de)": [
+      "Glardon Alfred"
     ],
-    "Amodiateurs": [
-      "Bovay Paul",
-      "Coquerand Jules"
+    "Fromages": [
+      "Boulaz Georges",
+      "Bulliard Raymond"
     ],
-    "Appareilleurs": [
-      "Florio Benjamin",
-      "Schneider Henri."
+    "Géomètre": [
+      "Meige P."
     ],
-    "Assurances": [
-      "La Genevoise (vie)"
+    "Gérance de rentiers": [
+      "Crosasso Jean",
+      "Duvoisin Léon",
+      "Michaud François-Louis"
     ],
-    "Mutualité scolaire": [
-      "Perrochon Ls"
+    "Graisse industrielle, poix": [
+      "Pilet & Piaget"
     ],
-    "Aubergistes": [
-      "Gutknecht Hermann",
-      "Laurent Marie",
-      "Giroud Elisabeth"
+    "Gypsiers": [
+      "Ballerini Albert fils",
+      "Pozzi Baptiste",
+      "Walther Fernand"
     ],
-    "Banque": [
-      "Crédit Foncier Vaudois",
-      "Bécholey Eug."
+    "Hongreur": [
+      "Fankhauser Jules"
     ],
-    "Bétail (march. de)": [
-      "Gutknecht Hermann"
+    "Horloger-bijoutier": [
+      "Miéville Eug."
     ],
-    "Boulangers": [
-      "Jan Ami.",
-      "Rüpp Rodolphe."
+    "Hôtels": [
+      "Guggisberg O.",
+      "Mohler Adolphe",
+      "Wacker Ami"
     ],
-    "Buraliste postal": [
-      "Clavel Alfred."
+    "Imprimeur": [
+      "Cavin & Cie"
     ],
-    "Caisse d'Epargne": [
-      "Crédit mutuel",
-      "Coquerand Ls",
-      "Bissat Jules"
+    "Inspecteur des boucheries": [
+      "Charbon Hector"
     ],
-    "Cannage de chaises": [
-      "Albert Maurice, dame."
+    "Inspecteurs du bétail": [
+      "Pantet Charles",
+      "Wacker Ami"
     ],
-    "Cantonnier": [
-      "Jaquier Adolphe."
+    "Inspecteur forestier": [
+      "Massy C."
+    ],
+    "Institut de jeunes filles": [
+      "Schwaar Fernand"
+    ],
+    "Instituteurs": [
+      "Jan Ern.",
+      "Rossier Ulysse",
+      "Sénéchaud Marcel",
+      "Giroud Valentine",
+      "Walter Marie-Louise",
+      "Berthoud Marthe",
+      "Jan Germaine"
+    ],
+    "Jardiniers": [
+      "Francfort Louis",
+      "Girod Arnold",
+      "Matthey Roger"
+    ],
+    "Justice de paix du cercle": [
+      "Mayor Arnold",
+      "Banderet Charles",
+      "Maulaz Jules",
+      "Ingilby Henri",
+      "Compondu Aimé",
+      "Crosasso Jean"
+    ],
+    "Laitier": [
+      "Boulaz Georges"
+    ],
+    "Lingères": [
+      "Berger-Studer Rosa",
+      "Guilloud Emma"
+    ],
+    "Machines à coudre": [
+      "Glardon Alfred"
+    ],
+    "Maçons": [
+      "Ballerini Michel et Alb.",
+      "Faesch Serges",
+      "Ortelli Baptiste"
+    ],
+    "Maréchaux": [
+      "Borgeaud Ch."
+    ],
+    "Matériaux de constructions": [
+      "Cavin frères"
     ]
   }
 }

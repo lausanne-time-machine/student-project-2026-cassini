@@ -1,217 +1,195 @@
 {
-  "LE PONT": {
-    "Horlogerie": [
-      "Fabrique d'horlogerie, Valjoux, S. A.",
-      "Contetout Watch & Cie"
+  "OLLON": {
+    "Boulangers": [
+      "Chamorel Félix",
+      "Cand Rob.",
+      "Favre César",
+      "Heiz-Hess Hermann",
+      "Jaggi Ch., hoirie",
+      "Joly Edgar",
+      "Pache Ami"
     ],
-    "Chronographes (fab. de)": [
-      "Valjoux, S. A.",
-      "Rochat Ernest",
-      "Rochat Paul-Hri."
+    "Briqueterie": [
+      "Croptier, les hoirs"
     ],
-    "Echappements": [
-      "Rochat Laurent"
+    "Buralistes postaux": [
+      "Amiguet Henri",
+      "Anex Agnès",
+      "Anex Samuel",
+      "Jaccard René",
+      "Michet Pl.",
+      "Jacquemin-Wehrli Anne"
     ],
-    "Sertissage": [
-      "Guignard Olympe"
+    "Carrières (exploitation de)": [
+      "Borloz Arnold",
+      "Société des carrières de St-Triphon et Collombey"
     ],
-    "Fournitures": [
-      "Rochat Clémence",
-      "Rochat Jules-Louis",
-      "Rochat Numa"
+    "Charpentiers": [
+      "Amiguet Félix",
+      "Bovon Ls",
+      "Dulex Gust.",
+      "Jaquerod Hri",
+      "Pittier François",
+      "Pittier H."
     ],
-    "Horlogerie, bijouterie, vente, réparation": [
-      "Berney Armand",
-      "Reymond Charles"
+    "Charrons": [
+      "Basset François",
+      "Blanc Henri",
+      "Hauenstein G.",
+      "Roud Alphonse"
     ],
-    "Pierristes": [
-      "Hoirs de Berney Elie"
+    "Chaussures (march. de)": [
+      "Curchod Edmond",
+      "Mages Henri"
     ],
-    "Pignons (pivoteurs)": [
-      "Aubert Paul",
-      "Berney James",
-      "Berney Eugène",
-      "Golay William",
-      "Reymond Clément",
-      "Rochat Wilfred",
-      "Rochat Aug.",
-      "Rochat Ch.",
-      "Rochat Elie",
-      "Rochat Laurent",
-      "Rochat Louis-Ami",
-      "Rochat Louis-François",
-      "Rochat Léa",
-      "Rochat Jules-Ami",
-      "Rochat Nelly"
-    ],
-    "Pignons (termineurs)": [
-      "Rochat Alice",
-      "Rochat Clémence"
-    ],
-    "Remontoirs": [
-      "Aubert Juste",
-      "Aubert Pierre"
-    ],
-    "Autorités communales": [
-      "Mouquin Paul",
-      "Rochat Alexandre",
-      "Rochat-Golay Henri",
-      "Mouquin Louis",
-      "Rochat Charles",
-      "Rochat Ami",
-      "Mouquin Louis",
-      "Rochat Adolphe",
-      "Rochat Adr.",
-      "Rochat Georges"
-    ],
-    "Agriculteurs": [
-      "Maire frères",
-      "Mouquin frères",
-      "Rochat Auguste",
-      "Rochat Emile",
-      "Rochat Edouard",
-      "Rochat Henri",
-      "Rochat Alfred",
-      "Rochat J.-David",
-      "Rochat Samuel"
-    ],
-    "Ameublements": [
-      "Walther Robert"
-    ],
-    "Articles de fantaisie": [
-      "Rochat Samuel",
-      "Rochat-Piguet",
-      "Rochat Rachel",
-      "Scherz Marthe"
-    ],
-    "Assurance": [
-      "Société suisse de secours mutuels Helvétia",
-      "James Humberset"
-    ],
-    "Assurance-vieillesse": [
-      "Société mutualiste de retraite",
-      "Rochat J."
-    ],
-    "Blanchisseuses": [
-      "Bolomey",
-      "Falquet"
-    ],
-    "Bois (march. de)": [
-      "Mouquin frères",
-      "Simond Robert"
-    ],
-    "Bouchers": [
-      "Rochat Charles",
-      "Rochat Ernest"
-    ],
-    "Boulangers-pâtissiers": [
-      "Beutler Ernest",
-      "Pellegrinelle J. T."
-    ],
-    "Buraliste postal": [
-      "Rochat Alexandre",
-      "Mouquin Louis"
-    ],
-    "Cafés": [
-      "Burkli Emile",
-      "Rochat, Vve de Godefroi"
-    ],
-    "Charcuteries": [
-      "Rochat Ernest",
-      "Rochat Charles"
-    ],
-    "Chapellerie et chaussures": [
-      "Rochat Adrien T.",
-      "Rochat Ernest"
-    ],
-    "Charpentier": [
-      "Mouquin frères"
+    "Chefs de gares": [
+      "Chambovey Gust.",
+      "Antenen Edmond",
+      "Amiguet Louis",
+      "Delacrétaz"
     ],
     "Chef de section": [
-      "Rochat Numa"
-    ],
-    "Chef de gare": [
-      "Bourquin"
+      "Greyloz Adolphe"
     ],
     "Cigares et tabacs": [
-      "Rochat Rachel",
-      "Rochat Ernest",
-      "Rochat-Piguet A.",
-      "Scherz Marthe"
+      "Aegerter Gottlieb",
+      "Croptier Jos.",
+      "Curchod E.",
+      "Jaquemin Ernest"
     ],
-    "Coiffeurs": [
-      "Humberset James",
-      "Rochat Emile"
+    "Coiffeur": [
+      "Weck F."
     ],
     "Combustibles": [
-      "Simond Robert"
+      "Bertarionne Louis",
+      "Callias A. H. (S. A.)",
+      "Diserens François",
+      "Monod-Bussard V."
     ],
-    "Confiseurs": [
-      "Beutler Ernest",
-      "Pellegrinelli J. T."
+    "Commission scolaire": [
+      "Bercier René",
+      "Kalbfuss A."
     ],
-    "Cordonnier": [
-      "Depraz Emile"
+    "Cordonniers": [
+      "Chiochetti Angélo",
+      "Mages Henri",
+      "Manini Jaques",
+      "Morerod",
+      "Rouiller Louis"
+    ],
+    "Couturières": [
+      "Chambovey",
+      "Cardis Louise",
+      "Gaud Louise",
+      "von Gruningon Antoinette",
+      "Jacot-Chambovey, dame",
+      "Joly-Eggen Marcelle",
+      "Parlier Ida"
+    ],
+    "Couvreur": [
+      "Naef Robert"
     ],
     "Dentiste": [
-      "Hirtzel M."
+      "Schwarb André"
     ],
-    "Distillateurs": [
-      "Killer, Vve",
-      "Rochat, Vve de Godefroi"
+    "Crèmerie-Tea-Room": [
+      "Robert Paul"
+    ],
+    "Draperies": [
+      "Baudin Suzanne",
+      "Pernollet"
     ],
     "Entrepreneurs": [
-      "Mouquin frères"
+      "Cantova Baptiste",
+      "Mérinat Emile",
+      "Ronchi César"
     ],
-    "Epicerie, mercerie": [
-      "Rochat Samuel",
-      "Rochat-Piguet A. R.",
-      "Schertz Marthe"
+    "Epiciers": [
+      "Borloz Sylvie",
+      "Chamorel Félix",
+      "Coopérative de consommation",
+      "Cottier Marius",
+      "Ourchod Edmond",
+      "Heiz-Hess Hermann",
+      "Jaggi Christian, hoirie",
+      "Jaquemin Ernest",
+      "Monod-Bussard Vincent",
+      "Moret Suzanne",
+      "Pache Ami",
+      "Pidoux Albert",
+      "Schärer Emile"
     ],
-    "Etoffes": [
-      "Rochat Samuel"
+    "Ferblantiers": [
+      "Dormond Louis",
+      "Dormond Paul",
+      "Næf R."
     ],
-    "Ferronnerie, etc.": [
-      "Rochat Sam."
+    "Fers": [
+      "Anex-Jaggi",
+      "Curchod Edmond"
     ],
-    "Fromages en gros": [
-      "Rochat-Golay H."
+    "Fruits et légumes": [
+      "Moreillon Suz., Veuve",
+      "Perret Samuel",
+      "Richard E.",
+      "Rossi-Décaillet"
     ],
-    "Garage du Lac de Jour": [
-      "Locatelli et fils"
+    "Géomètre breveté": [
+      "Amiguet Edouard"
     ],
-    "Garde-forestier": [
-      "Rochat Samuel"
+    "Gypsiers": [
+      "Motto Basile",
+      "Polonghini Maxime"
     ],
-    "Glacière du Pont": [
-      "Compte P.-V."
+    "Horlogerie-Bijouterie": [
+      "Eberhardt",
+      "Thiébaud Vital"
     ],
-    "Contre-pivots (march. de)": [
-      "Rochat Numa"
-    ],
-    "Vis (fab. de)": [
-      "Rochat Numa"
-    ],
-    "Hôtels-Pensions": [
-      "Grand Hôtel du Lac de Joux",
-      "Hôtel Modern",
-      "Rochat Jules-Ls.",
-      "Hôtel « Mon Désir »",
-      "Lehmann E.",
-      "Hôtel de la Truite",
-      "Burkli Emile"
-    ],
-    "Inspecteur des montagnes": [
-      "Rochat Alexis"
-    ],
-    "Instituteurs": [
-      "Rochat Jules-David",
-      "Molles Georges",
-      "Addor, Mme"
-    ],
-    "Justice de paix": [
-      "Meylan Jean",
-      "Rochat"
+    "Hôtels-pensions": [
+      "Amiguet Pierre",
+      "de Rin A.",
+      "Pension Minerva",
+      "Bohren C.",
+      "Pension du Cerf",
+      "Pension du Chamois",
+      "Chalet Rose",
+      "Pension Chalet Eugénie",
+      "Roud-Renggli Marie",
+      "Pension Chalet Marguerite",
+      "Hôtel Belvédère",
+      "Lichtenberger W. & Gilg M.",
+      "Chalet de l'Enfance",
+      "Rochat Aimée",
+      "Hôtel Victoria",
+      "Hochuli-Gerber Elise",
+      "Pension Bellevue",
+      "Barraud E.",
+      "Pension Gentiana",
+      "Besson A.",
+      "Pension Jolimont",
+      "Clerc & Lambelet, demoiselles",
+      "Hôtel Beeau-Site",
+      "J. Kehrli",
+      "Pension Old India",
+      "Machoud J.",
+      "Pension du Raisin",
+      "Dulex Ernest",
+      "Société des Hôtels de Villars",
+      "Grand Hôtel",
+      "Muveran",
+      "Bellevue",
+      "Villars-Palace",
+      "Bucher Louis",
+      "Pension-Famille Frautschy Elise",
+      "Pension Roud",
+      "Beau Soleil",
+      "Mlle Ferrier",
+      "Chal. Henriette",
+      "Kupferschmied, Mlle",
+      "Les Pervenches",
+      "Moreillon dame",
+      "« Alpina »",
+      "Rapaz, Mme"
     ]
   }
 }

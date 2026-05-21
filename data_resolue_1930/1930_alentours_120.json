@@ -1,114 +1,190 @@
 {
-  "VILLE DE NYON": {
-    "Sociétés.": [
-      "Grandjean, Mme",
-      "Herbez-Schur Rosa",
-      "Jaquinet Marthe, Mlle",
-      "Jaton-Jaquinet, dame",
-      "Maréchaux Sophie",
-      "Wehrli A., dame",
-      "» de tir de Nyon.",
-      "» » Le Drapeau fédéral.",
-      "Stade nyonnais Foot-ball club.",
-      "espérantiste Nyona Grupo.",
-      "anonyme de la fabrique de vis.",
-      "anonyme Th. Mühlethaler (parfums).",
-      "» philanthropique française.",
-      "» des anciens Zofingiens.",
-      "» italienne de secours mutuels.",
-      "» d'aviculture.",
-      "» d'horticulture de La Côte.",
-      "Section de la Croix-Bleue",
-      "Syndicat agricole",
-      "Syndicat des ouvriers métallurgistes",
-      "» chevalin de Nyon",
-      "Union chrétienne de jeunes gens"
+  "Le Brassus": {
+    "Bois (march. de)": [
+      "Golay Albert",
+      "Golay Henri",
+      "Meylan Henri",
+      "Meylan Pl-David",
+      "Meylan Henri-Samuel",
+      "Scierie Electrique du Brassus, S. A."
     ],
-    "Tabacs et cigares.": [
-      "Berger Edouard",
-      "Froidevaux Armand",
-      "Golay Louis",
-      "Granger Marc (gros)",
-      "Morel Adèle",
-      "Naville et Cie",
-      "Pinget François",
-      "Piguet Auguste",
-      "Portay Antoinette",
-      "Ziörjen Sidonie"
+    "Bouchers": [
+      "Rochat-Berney Louis",
+      "Piguet Paul"
     ],
-    "Tailleurs.": [
-      "Balik Antoine",
-      "Bestrzynski (dames)",
-      "Bleuer Jean",
-      "Décosterd Ed.",
-      "Heim Alexandre",
-      "Richli Jean",
-      "Steiner Henri"
+    "Boulangers-pâtissiers": [
+      "Nicole François",
+      "Renaud Albert"
     ],
-    "Tailleuses.": [
-      "Aebi-Olivier, dame",
-      "Batisse, dame",
-      "Bertholet Caroline",
-      "Bertholet-Bezinge Germaine-Olga",
-      "Bestrzynski L.",
-      "Croisier-Jaquinet Alice",
-      "Declerck Anne",
-      "Dorier Henri, dame",
-      "Golay, dame"
+    "Caisses d'emballage": [
+      "Dautaz-Arbez"
     ],
-    "Tanneurs.": [
-      "Richard Julien & Cie"
+    "Camionneur": [
+      "Audemars Henri",
+      "Meylan Henri-Sam."
     ],
-    "Tapissiers.": [
-      "Curchod Henri",
-      "Graber Robert",
-      "Muller Gottfried",
-      "Muller Edouard",
-      "Noguet Louis",
-      "Vœlter Wilhelm"
+    "Cercueils": [
+      "Guignard"
     ],
-    "Teinturerie.": [
-      "Baechler F. & E. frères",
-      "Manz Eugène",
-      "Maurer A."
+    "Charcutiers": [
+      "Coopérative Brassus",
+      "Guignard-Reymond Ls",
+      "Piguet Paul",
+      "Rochat-Berney Ls"
     ],
-    "Télégraphe et téléphone.": [
-      "Gamboni Louis, chef"
+    "Charpentiers": [
+      "Berney Hri",
+      "Bodenmann Jacob",
+      "Golay François",
+      "Meylan-Lecoultre Henri, hoirie",
+      "Nicole-Besson Em.",
+      "Piguet Alfred",
+      "Zaberli Edmond"
     ],
-    "Tonneliers.": [
-      "Dupontet Alphonse",
-      "Schneider Joseph"
+    "Charrons": [
+      "Zaberli Jean & fils"
     ],
-    "Tourneurs sur bois.": [
-      "Bertinotti Constant",
-      "Lauber Antoine"
+    "Chasseurs": [
+      "Golay Henri",
+      "Piguet Alb.",
+      "Piguet Edouard",
+      "Rochat Henri",
+      "Rochat Charles",
+      "Rochat Louis"
     ],
-    "Tripier.": [
-      "Pfenniger Arnold"
+    "Chaussures": [
+      "Berney & Cie",
+      "Coopérative du Brassus",
+      "Meylan Edmond"
     ],
-    "Verrerie (vente de).": [
-      "Bélaz Ami",
-      "Gamboni V. & sœur",
-      "Frutiger Fritz",
-      "Kæppeli Hermann",
-      "Veuillet, Vve de Franç."
+    "Chef de gare": [
+      "Golay Elisée"
     ],
-    "Vétérinaires.": [
-      "Borel Henri",
-      "Longet William"
+    "Coiffeurs-parfumeurs": [
+      "Pasche Elisabeth",
+      "Piguet-Goy Marguerite"
     ],
-    "Vins (march. de).": [
-      "Bardet Charles",
-      "Dupontet Alphonse",
-      "Golay Paul",
-      "Rigoni Charles",
-      "Rosset-Jan, Vve d'Henri",
-      "Schneider Jos.",
-      "Weder Gustave",
-      "Zwahlen, Vve de F."
+    "Comestibles": [
+      "Coopérative",
+      "Capt Auguste",
+      "Dalloz Eugène",
+      "Guignard Ls",
+      "Golay Edouard",
+      "Meylan-Leresche Henri-François",
+      "Meylan-Rochat M.",
+      "Nicole François"
     ],
-    "Vis (fab. de).": [
-      "Fabrique de vis de Nyon (S.A.)"
+    "Cordonniers": [
+      "Eggmann Jean",
+      "Heitzmann Eug.-François",
+      "Monnier Edgar",
+      "Bartholomé J."
+    ],
+    "Couturières et tailleuses": [
+      "Aubert Ernestine",
+      "Capt Marguerite",
+      "Capt Julie",
+      "Capt-Meylan Hélène",
+      "Piguet Amélie",
+      "Robert Elise"
+    ],
+    "Distillateur": [
+      "Dalloz Eugène"
+    ],
+    "Entrepreneurs (maçons, terrassiers et charpentiers)": [
+      "Aubert Albert",
+      "Berney Henri",
+      "Bianchi Angelo",
+      "Bianchi J. & L.",
+      "Bodenmann",
+      "Magni frères",
+      "Meylan Henri, hoirie",
+      "Molteni Jean",
+      "Pesenti Ls",
+      "Pesenti Pierre",
+      "Pironi frères",
+      "Valceschini Joseph",
+      "Valet Nestor"
+    ],
+    "Epicerie": [
+      "Berney & Cie",
+      "Golay Edouard",
+      "Guignard-Reymond L.",
+      "Meylan-Leresche Henri-François",
+      "Nicole François",
+      "Piguet Mina",
+      "Coopérative"
+    ],
+    "Etoffes": [
+      "Berney & Cie",
+      "Coopérative",
+      "Piguet Mina"
+    ],
+    "Ferblantier": [
+      "Albertano P."
+    ],
+    "Fers (march. de)": [
+      "Berney & Cie"
+    ],
+    "Forestiers": [
+      "Golay Ch.-Ami",
+      "Meylan Alexis",
+      "Meylan Jules",
+      "Meylan Jules",
+      "Meylan Samuel",
+      "Pillichody",
+      "Guignard Edouard",
+      "Vullioud Louis"
+    ],
+    "Fromages (march. de)": [
+      "Audemars, Louis",
+      "Coopérative",
+      "Meylan Henri-Samuel",
+      "Société de Laiterie"
+    ],
+    "Gypsier-peintre": [
+      "Golay Gabriel"
+    ],
+    "Hôtels-pensions": [
+      "Brahier E.",
+      "Jaquenoud Laurent",
+      "Jotterand Ulrich"
+    ],
+    "Inspecteurs du bétail": [
+      "Golay Jean",
+      "Goy Georges-Hri"
+    ],
+    "Instituteurs": [
+      "Cornaz Gustave",
+      "Reymond Maurice",
+      "Cretin-Logoz Yvonne",
+      "Golay Lucile",
+      "Lecoultre Marie",
+      "Golay-Schwar Nelly"
+    ],
+    "Laitier": [
+      "Société de laiterie"
+    ],
+    "Librairies": [
+      "Golay Edouard",
+      "Meylan-Leresche Hri-François"
+    ],
+    "Lingerie": [
+      "Meylan M."
+    ],
+    "Maréchaux": [
+      "Meylan Henri",
+      "Thévoz Robert"
+    ],
+    "Mécaniciens": [
+      "Meylan Paul-Alfred",
+      "Piguet Marius"
+    ],
+    "Menuisiers-ébénistes": [
+      "Berney Hri",
+      "Bodenmann Jacob",
+      "Meylan-Lecoultre, hoirie",
+      "Piguet Alfred"
     ]
   }
 }

@@ -1,64 +1,210 @@
 {
-  "VILLE DE VEVEY": {
-    "Auberges.": [
-      "Hôtel du Guillaume Tell",
-      "Hôtel Friedrich",
-      "Hôtel de tempérance"
+  "CROY": {
+    "Autorités communales": [
+      "Cavat John",
+      "Chevalier Georges",
+      "Cavat Louis de Louis"
     ],
-    "Automobiles et autogarages.": [
-      "Bettex & Salzmann",
-      "Bovay André",
-      "Bovay Robert",
-      "Bovay Marcel",
-      "Bourquin A.",
-      "Briffod Ch.",
-      "Claude Léon",
-      "Claude Paul",
-      "Dettwiller Alfred",
-      "Ducret Gust.",
-      "Fuchs J.",
-      "Kundig & Cie",
-      "Liewald Fritz",
-      "Maquelin Ch.",
-      "Pittet & Morvant",
-      "Pouly Henri",
-      "Taverney Robert",
-      "Volet Jean",
-      "Vulliens E.",
-      "Vulliens Henri"
+    "Agriculteurs": [
+      "Benoît Auguste",
+      "Bonard Auguste",
+      "Bonard Georges",
+      "Cavat Georges",
+      "Cavat Louis",
+      "Cavat Louis-Emile",
+      "Chevalier Emile",
+      "Chevalier Georges",
+      "Chalet Henri",
+      "Golaz Georges",
+      "Leresche Alfred",
+      "Magnenat Justin",
+      "Rochat Alfred",
+      "Rochat Charles",
+      "Rochat Louis"
     ],
-    "Automobiles (appareils de contrôle).": [
-      "Le Controlographe, S. A."
+    "Amodiateurs": [
+      "Cavat & Bonard"
     ],
-    "Avocats.": [
-      "Paschoud Henri",
-      "Secretan Charles",
-      "Sillig Ed. & Turin"
+    "Associations mutualistes de retraite": [
+      "Sergy G."
     ],
-    "Bâches et couvertures (fabr. de)": [
-      "Guinand Bernard"
+    "Aubergistes": [
+      "Bonard Eug.",
+      "Magnenat Max",
+      "Sordet Robert"
     ],
-    "Bains.": [
-      "Bains du Lac",
-      "Vevey-Corseaux Plage.",
-      "Buanderie et bains",
-      "Bains des Alpes"
+    "Bois de construction": [
+      "Magnenat frères",
+      "Rochat Louis"
     ],
-    "Balanciers.": [
-      "Briffod Ch."
+    "Buraliste postal": [
+      "Roy Julia"
     ],
-    "Bandagistes.": [
-      "Barraud François"
+    "Charretiers": [
+      "Rochat Charles",
+      "Sordet Robert"
     ],
-    "Banques.": [
-      "Banque cantonale vaudoise",
-      "Banque fédérale",
-      "Caisse d’épargne Monod A.",
-      "Crédit du Léman",
-      "Comptoir d'Escompte de Genève",
-      "de Palézieux & Cie",
-      "Union de Banques Suisses",
-      "Union vaudoise du Crédit"
+    "Charron": [
+      "Magnenat Henri"
+    ],
+    "Chef de gare": [
+      "Jaccard Louis"
+    ],
+    "Commission scolaire": [
+      "Benoît Alfred",
+      "Ciana Edmond"
+    ],
+    "Couturières": [
+      "Magnenat Marie",
+      "Rochat Rose"
+    ],
+    "Entrepreneurs": [
+      "Ciana Henri",
+      "Paltani Michel"
+    ],
+    "Epicerie, mercerie": [
+      "Bonard Marie",
+      "Ciana Henri",
+      "Paltani Michel"
+    ],
+    "Hôtel": [
+      "Sordet Robert"
+    ],
+    "Inspecteur du bétail": [
+      "Rochat Aimé"
+    ],
+    "Instituteurs": [
+      "Sergy Georges",
+      "Horisberg Emma"
+    ],
+    "Laitier": [
+      "Treboux Paul"
+    ],
+    "Machines agricoles": [
+      "Reymond Marc"
+    ],
+    "Maréchal-constructeur": [
+      "Reymond Marc"
+    ],
+    "Masseur": [
+      "Monnay David"
+    ],
+    "Menuisier": [
+      "Rochat Louis"
+    ],
+    "Meuniers": [
+      "Moulin de la Foule",
+      "Cusin Samuel",
+      "Syndicat agricole des Grands Moulins"
+    ],
+    "Pêcheurs": [
+      "Bonard Arm.",
+      "Golaz Henri"
+    ],
+    "Pierriste (marchand)": [
+      "Guignard Ch."
+    ],
+    "Scieur": [
+      "Magnenat frères"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "Syndicat agric. des Grands Moulins",
+      "Société du battoir à grains",
+      "Syndicat agricole"
+    ]
+  },
+  "ENVY": {
+    "Autorités communales": [
+      "Reymond François",
+      "Diserens Louis",
+      "Rochaz Eugène",
+      "Bonard Louis",
+      "Ecuyer Paul",
+      "Chanson Aloïs",
+      "Poschung Robert"
+    ],
+    "Agriculteurs": [
+      "Chanson Aloïs",
+      "Diserens Aimé",
+      "Ecuyer Armand",
+      "Ecuyer Aloïs",
+      "Ecuyer Paul",
+      "Hautier Julien",
+      "Reymond Henri",
+      "Soumi Emile"
+    ],
+    "Amodiateur": [
+      "Reymond Henri"
+    ],
+    "Commission scolaire Romainmôtier-Envy": [
+      "Jaccard Henri",
+      "March Harry"
+    ],
+    "Inspecteur du bétail": [
+      "Hautier Julien"
+    ]
+  },
+  "JURIENS": {
+    "Autorités communales": [
+      "Grandjean Auguste",
+      "Hautier Alfred",
+      "Carmentrand Constant",
+      "Benoît Alphonse",
+      "Hautier Florian",
+      "Carmentrand Armand",
+      "Hautier Armand",
+      "Grandjean Jules",
+      "Grandjean Hri",
+      "Curtet Jules-Henri",
+      "Grandjean Lucien"
+    ],
+    "Agriculteurs": [
+      "Benoît Ulysse",
+      "Bonzon Fernand",
+      "Christen Léon",
+      "Curtet Albert",
+      "Grandjean Elie",
+      "Grandjean Louis",
+      "Grandjean Lucien",
+      "Grandjean Vital",
+      "Hautier Louis",
+      "Hautier Pierre"
+    ],
+    "Apiculteurs": [
+      "Carmentrand Constant",
+      "Carmentrand Jenny",
+      "Carmentrand Lucien",
+      "Candaux Gustave",
+      "Curtet Aloïs",
+      "Curtet Georges",
+      "Hautier Henri d'Emile"
+    ],
+    "Associations mutualistes de retraite": [
+      "Michaud L."
+    ],
+    "Aubergiste": [
+      "Badan Marc"
+    ],
+    "Bois (march. de)": [
+      "Carmentrand Vital",
+      "Christen Léon",
+      "Grandjean Félix",
+      "Grandjean Jules"
+    ],
+    "Boisselier": [
+      "Curtet Armand"
+    ],
+    "Forêts": [
+      "Curtet Albert"
+    ],
+    "Buraliste postal": [
+      "Kirchofer Berthe"
+    ],
+    "Commission scolaire": [
+      "Favre Gustave",
+      "Benoît Alphonse",
+      "Hautier Alfred"
     ]
   }
 }

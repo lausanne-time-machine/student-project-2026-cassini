@@ -1,87 +1,243 @@
 {
-  "DISTRICT DE PAYERNE": {
-    "Préfet": [
-      "Cornamusaz Fritz"
+  "BRENLES": {
+    "Agriculteurs": [
+      "Corthésy Paul",
+      "Durussel Oscar",
+      "Frossard Emile",
+      "Ganières Constant",
+      "Ganières Jules",
+      "Ganières Marcel",
+      "Gavin Constant",
+      "Gavin Emile",
+      "Gavin Ls",
+      "Germond Eugène",
+      "Muri Christian",
+      "Pidoux Héli",
+      "Rod Jules",
+      "Senn Edmond",
+      "Senn Maurice",
+      "Senn Ulysse"
     ],
-    "Substitut": [
-      "Zbinden Erest"
+    "Associations mutualistes de retraite": [
+      "Chevalley C., Mme"
     ],
-    "Receveur": [
-      "Reber Ed."
+    "Aubergistes": [
+      "Léchaire Paul",
+      "Senn Ulysse"
     ],
-    "Conservateur du registre foncier": [
-      "Pradervand Michel"
+    "Boulanger": [
+      "Poletti Eugène"
     ],
-    "Voyer du IXe arrondissem.": [
-      "Clot Charles"
+    "Commission scolaire": [
+      "Corthésy Paul",
+      "Corthésy Edouard",
+      "Senn Ulysse"
     ],
-    "Commandant du IIIe arrondissement militaire": [
-      "Mayor Gustave"
+    "Cordonnier": [
+      "Chassot Alphonse"
     ],
-    "Tribunal de district": [
-      "Berthoud Ferdinand",
-      "Rossat Gustave",
-      "Cherbuin-Jan Edouard",
-      "Rapin Albert",
-      "Jayet Louis",
-      "Laurent Robert"
+    "Epicerie, mercerie": [
+      "Blanc Henri"
     ],
-    "Poursuites et faillites": [
-      "Wullschleger Louis"
+    "Inspecteur du bétail": [
+      "Gavin Louis"
+    ],
+    "Instituteurs": [
+      "Jacot Hector",
+      "Corthésy-Masson Amélie"
+    ],
+    "Maréchal": [
+      "Porchet Ernest"
+    ],
+    "Poste": [
+      "Senn Nancy"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "Association du battoir",
+      "Syndicat agricole"
+    ],
+    "Téléphoniste": [
+      "Poletti Eugène"
     ]
   },
-  "VILLE DE PAYERNE": {
-    "Président du Conseil communal": [
-      "Capt Marius"
+  "BUSSY-SUR-MOUDON": {
+    "Président du Conseil général": [
+      "Braissant Louis"
     ],
     "Secrétaire": [
-      "Burmeister Albert",
-      "Niffenegger Ch."
+      "Ducret Henri"
     ],
     "Syndic": [
-      "Cornaz Ferdinand"
+      "Meystre Constant"
     ],
     "Municipaux": [
-      "Nicod-Caille Louis",
-      "Bosset Louis",
-      "Jomini Henri",
-      "Schaub-Cherbuin G.",
-      "Savary Alfred",
-      "Zbinden Ernest"
+      "Lagnaz Alexis",
+      "Piot Frédéric",
+      "Augsburger Ulysse",
+      "Jossevel Octave"
     ],
-    "sous-secrétaire": [
-      "Ney Ernest"
+    "Secrét.": [
+      "Lagnaz Jean"
     ],
     "Boursier": [
-      "Doudin Conrad"
-    ],
-    "Agent d'affaires patenté": [
-      "Chabloz Auguste"
-    ],
-    "Abattoirs": [
-      "Guggi Ad."
-    ],
-    "Affichage": [
-      "Société générale d'affichage"
+      "Braillard Auguste"
     ],
     "Agriculteurs": [
-      "Addor Paul",
-      "Assal Alfred",
-      "Bossy-Cherbuin Jules",
-      "Bossy-Vallotton François",
-      "Bossy-Fivaz Ernest",
-      "Caille Jules",
-      "Caille Henri",
-      "Cherbuin Ernest",
-      "Cherbuin-Burri Émile",
-      "Cherbuin Henri",
-      "Cherbuin Isaac",
-      "Crisinel Ernest",
-      "Crisinel-Bossy John",
-      "Decorges Henri",
-      "De Dompierre César",
-      "De Dompierre Daniel",
-      "De Dompierre Philippe"
+      "Augsburger Elise",
+      "Augsburger Jules",
+      "Balmer Charles",
+      "Bigler frères",
+      "Delisle Hri",
+      "Ducret Henri",
+      "Ducret Julien",
+      "Durussel Alfred",
+      "Durussel Ch.",
+      "Durussel Fern.",
+      "Jossevel Arn.",
+      "Jossevel Octave",
+      "Kreutzer Yvan",
+      "Lagnaz Jean",
+      "Meystre Constant",
+      "Meystre Henri",
+      "Pidoux, hoirie d'Alfred",
+      "Piot Frédéric",
+      "Porchet Samuel",
+      "Stelz Jules",
+      "Thonney Alexis",
+      "Thonney Jules",
+      "Veyre Jules",
+      "Vifian Jean"
+    ],
+    "Société mutualiste de retraite": [
+      "Braissant Ls"
+    ],
+    "Bétail (md de)": [
+      "Bourquin Charles"
+    ],
+    "Beurre et fromage": [
+      "Balimann Adolphe"
+    ],
+    "Café": [
+      "Bigler Christian"
+    ],
+    "Charpentier": [
+      "Kreutzer Yvan"
+    ],
+    "Commission scolaire": [
+      "Jossevel Octave",
+      "Augsburger Ulysse",
+      "Lagnaz Jean"
+    ],
+    "Facteur": [
+      "Jossevel Fritz"
+    ],
+    "Inspecteur du bétail": [
+      "Piot Frédéric"
+    ],
+    "Instituteur": [
+      "Braissant Louis"
+    ],
+    "Laitier": [
+      "Thonney Alfred"
+    ],
+    "Sociétés": [
+      "du battoir à blé",
+      "de laiterie"
+    ],
+    "Téléphoniste": [
+      "Bigler Christian"
+    ]
+  },
+  "CHAPELLE": {
+    "Président du Conseil général": [
+      "Mingard John"
+    ],
+    "Secrétaire": [
+      "Mingard Jules",
+      "Besson-Porchet Héli"
+    ],
+    "Syndic": [
+      "Besson Jules"
+    ],
+    "Municipaux": [
+      "Veyre Constant",
+      "Guignet Alfred",
+      "Mingard Emile",
+      "Mingard Const.",
+      "Guignard Paul",
+      "Jaton Ernest"
+    ],
+    "Boursier": [
+      "Mingard Ernest"
+    ],
+    "Agriculteurs": [
+      "Besson Edouard",
+      "Besson Emile, de Jean",
+      "Besson, hoirie de Jules",
+      "Besson Jules",
+      "Besson Ami",
+      "Besson-Freymond Héli",
+      "Besson-Porchet Héli",
+      "Bovay Henri",
+      "Cavin Adrien",
+      "Cavin Jules",
+      "Chapallaz Henri",
+      "Cordey Auguste",
+      "Cordey Ulysse",
+      "Gilliand Emile",
+      "Gilliéron Alfred",
+      "Guex Alphonse",
+      "Guex Ernest",
+      "Guignard Paul",
+      "Guignet Charles",
+      "Guignet Jules-Alfred",
+      "Jaton Alfred",
+      "Jaton Alphonse",
+      "Jaton Ernest",
+      "Jaton Héli",
+      "Jaton Louis",
+      "Magnenat Henri",
+      "Martin Héli",
+      "Mingard Ami",
+      "Mingard Oscar",
+      "Mingard Const.",
+      "Mingard Edmond",
+      "Mingard Emile",
+      "Mingard Ern.",
+      "Mingard, hoirie",
+      "Mingard John",
+      "Mingard Louis",
+      "Mingard Lucien",
+      "Pache Eugène",
+      "Pache Félix",
+      "Pache Jean",
+      "Pache Jean-Chs",
+      "Sauvageat Paul",
+      "Sonnay Justin",
+      "Stubi Henri",
+      "Trolliet David",
+      "Trolliet, hoirie de Maurice",
+      "Veyre Constant",
+      "Veyre Jules",
+      "Veyre Louis",
+      "Zurcher Fritz"
+    ],
+    "Associations mutualistes de retraite": [
+      "Lagnel F."
+    ],
+    "Aubergistes": [
+      "Besson Héli",
+      "Trolliet Emma, Vve"
+    ],
+    "Boucher": [
+      "Pache Jean"
+    ],
+    "Buraliste postal et téléphone central": [
+      "Jaton-Cornu Eugénie"
+    ],
+    "Cantonnier": [
+      "Cordey Louis"
     ]
   }
 }

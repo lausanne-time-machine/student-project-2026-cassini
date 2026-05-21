@@ -1,102 +1,232 @@
 {
-  "Ville de Nyon": {
-    "Brevets d'invention.": [
-      "Pahud J.-D."
+  "La Chaux": {
+    "Agriculteurs": [
+      "Bornand Auguste",
+      "Campiche Louis",
+      "Gueissaz Ami",
+      "Jaccard",
+      "Jaccard Eug.",
+      "Jaccard",
+      "Jaccard Henri",
+      "Jaccard",
+      "Jaccard Const.",
+      "Jaccard Jules",
+      "Jaccard-Margot Louis",
+      "Joseph Edmond",
+      "Martin Alfred",
+      "Martin Constant",
+      "Martin Pierre",
+      "Mermod Edouard",
+      "Mermod Henri",
+      "Mutrux Jules",
+      "Nicollier frères",
+      "Paillard Auguste",
+      "Paillard Albert",
+      "Paillard Edouard",
+      "Rogli William",
+      "Sottaz Fritz"
     ],
-    "Bureaux de placement.": [
-      "Leutwyler Erwin",
-      "Zbinden Ernest",
-      "Maret Clara, Mme."
+    "Bois (march. de)": [
+      "Martin Constant"
     ],
-    "Cafés.": [
-      "Abrezol-Miéville Louis",
-      "Bertholet Louis",
-      "Bertoncini Daniel",
-      "Bolay Louis",
-      "Champin P.",
-      "Cherix, Vve d'Henri",
-      "Cortellini Louise",
-      "Emery Léa, Vve",
-      "Fankhauser Eugène",
-      "Favre François",
-      "Guignard Louis",
-      "Husson Henri",
-      "Leutwyler Erwin",
-      "Loriol Ch.",
-      "Meder Théodore",
-      "Maire Georges-Arthur",
-      "Méroth-Isch Emma",
-      "Nazarre Alexandre",
-      "Reyrenn Alfred",
-      "Rochat David-Lucien",
-      "Roschi Victor",
-      "Rosé Hermann",
-      "Röthlisberger Gottfried",
-      "Sandoz Georges",
-      "Visio A.",
-      "Rigoni Anselme"
+    "Café": [
+      "Bühler Louis",
+      "Cercle Populaire"
     ],
-    "Cafés de tempérance.": [
-      "Gerber Emile"
+    "Commission scolaire": [
+      "Campiche Jules"
     ],
-    "Camionnage.": [
-      "Francelet Alf.",
-      "Picot François et fils",
-      "Zwahlen Paul"
+    "Epicerie": [
+      "Société de consommation"
     ],
-    "Carrossiers.": [
-      "Barbey frères",
-      "Forestier Albert",
-      "Lauber & ses fils",
-      "Volter Willy",
-      "Weder Gustave"
+    "Horlogerie": [
+      "Jaccard-Margot Louis"
     ],
-    "Cartes postales illustrées (éditeurs de)": [
-      "Lüscher Jacques",
-      "Schlegel Hermann"
+    "Inspecteur du bétail": [
+      "Martin Constant"
     ],
-    "Cercueils.": [
-      "Borgognon Ed."
+    "Instituteurs": [
+      "Desponds Pierre",
+      "Schneider Berthe"
     ],
-    "Chapeaux.": [
-      "Au Louvre",
-      "Balik Antoine",
-      "Cerf, Vve d'Arthur",
-      "Dreyfus René",
-      "Lob Salomon",
-      "Rindlisbacher Marceline",
-      "Weill Jules"
+    "Laiterie": [
+      "Guye César"
     ],
-    "Charcutiers.": [
-      "Chométy Joseph",
-      "Galé Arthur",
-      "Kirschmann Ls",
-      "Ruchti-Huber Alexandre",
-      "Schneiter Ferdinand",
-      "Yersin Charles"
+    "Pasteur": [
+      "Estoppey Auguste"
     ],
-    "Charpentiers.": [
-      "Delay Paul",
-      "Golay Julien",
-      "Rosé frères"
+    "Poste": [
+      "Gonthier David"
     ],
-    "Charretiers.": [
-      "Francelet Alfred",
-      "Hirzig Pierre",
-      "Picot François et fils"
+    "Téléphone": [
+      "Cercle Populaire"
     ],
-    "Charrons.": [
-      "Lauber Antoine"
+    "Voituriers": [
+      "Auto-Transports La Chaux, S. A. RT.",
+      "Martin Constant",
+      "Martin Pierre"
+    ]
+  },
+  "La Vraconnaz": {
+    "Agriculteurs": [
+      "Barth Alfred",
+      "Barth Gottfried",
+      "Bornand Louis",
+      "Graf Henri",
+      "Gueissaz Edouard",
+      "Jaccard-Graf Ami",
+      "Jaccard John",
+      "Jaccard Justin",
+      "Leuba-Gallant Albert",
+      "Nicolier Vve et fils",
+      "Péguiron Alfr.",
+      "Sueur Lsa Vve et fils",
+      "Winkler Emile",
+      "Winkler Jean"
     ],
-    "Chaudronniers.": [
-      "Baudet Fernand",
-      "Geisseler Henri",
-      "Picchiottino Giacomo",
-      "Rastello Dominique",
-      "Wehrli Alfred"
+    "Bois (march. de)": [
+      "Addor Jules",
+      "Jaccard Alfred"
     ],
-    "Chaussures.": [
-      "Balik Antoine"
+    "Café": [
+      "Jaquier Ernest"
+    ],
+    "Cantonnier": [
+      "Belet Adrien"
+    ],
+    "Instituteur": [
+      "Reymond Paul"
+    ],
+    "Laiterie": [
+      "Mevlan"
+    ],
+    "Pierriste": [
+      "Simonin L."
+    ],
+    "Poste": [
+      "Jaccard Philippe"
+    ],
+    "Porcs (md de)": [
+      "Mevlan"
+    ],
+    "Scierie": [
+      "Jaccard Alfred"
+    ],
+    "Téléphone": [
+      "Margot Georges"
+    ]
+  },
+  "VAUGONDRY": {
+    "Président du Conseil général": [
+      "Paillard Arth."
+    ],
+    "Secrétaire": [
+      "Gander Alfred",
+      "Bovay Eugène"
+    ],
+    "Syndic": [
+      "Gander Albert"
+    ],
+    "Municipaux": [
+      "Paillard Ernest",
+      "Gander Alfred"
+    ],
+    "Boursier": [
+      "Favrat Emile"
+    ],
+    "Agriculteurs": [
+      "Bornoz Maur.",
+      "Favrat Emile",
+      "Gander Alb.",
+      "Gander Alfred",
+      "Gander Charles",
+      "Paillard Arthur",
+      "Perret Alfred",
+      "Simon Oscar"
+    ],
+    "Amodiateur": [
+      "Gander Charles"
+    ],
+    "Bûcherons": [
+      "Enggist Hermann",
+      "Gaille Hubert",
+      "Périllard Louis"
+    ],
+    "Cantonnier": [
+      "Tharin Jules"
+    ],
+    "Commission scolaire": [
+      "Gander Albert",
+      "Paillard Ernest"
+    ],
+    "Inspecteur du bétail": [
+      "Paillard Arth."
+    ]
+  },
+  "VILLARS-BURQUIN": {
+    "Président du Conseil général": [
+      "Simon Numa"
+    ],
+    "Secrétaire": [
+      "Duvoisin Auguste"
+    ],
+    "Syndic": [
+      "Duvoisin Alfred"
+    ],
+    "Municipaux": [
+      "Simon Robert",
+      "Maulaz Jules-Aug.",
+      "Simon Louis",
+      "Ray Jules"
+    ],
+    "Secrét.": [
+      "Guenot Edouard"
+    ],
+    "Boursier": [
+      "Favre Ernest"
+    ],
+    "Agriculteurs": [
+      "Duvoisin Alfred",
+      "Hausamann Alexandre",
+      "Hausamann Oscar",
+      "Maulaz Jules-Auguste",
+      "Maulaz Edmond",
+      "Maulaz Francis",
+      "Ray Aug.-Louis",
+      "Ray Ls",
+      "Ray Louis-Edouard",
+      "Ray Fernand",
+      "Ray Olivier",
+      "Ray-Baatard Auguste",
+      "Roulet Arthur",
+      "Roulet Ernest",
+      "Simon Louis",
+      "Simon Numa"
+    ],
+    "Associations mutualistes de retraite": [
+      "Schenkel Lucien"
+    ],
+    "Assesseur": [
+      "Maulaz Jules"
+    ],
+    "Auberges": [
+      "Cercle des Amis",
+      "Duvoisin Alfred",
+      "Simon Numa"
+    ],
+    "Boisselier": [
+      "Périllard Ami"
+    ],
+    "Charron": [
+      "Guenot Eugène-Edouard"
+    ],
+    "Chef de section": [
+      "Duvoisin Auguste"
+    ],
+    "Commission scolaire": [
+      "Simon Numa",
+      "Meyer",
+      "Ray Marcel"
     ]
   }
 }

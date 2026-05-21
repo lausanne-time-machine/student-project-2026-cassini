@@ -1,98 +1,243 @@
 {
-  "MONTREUX": {
-    "Agences de voyages et de tourisme.": [
-      "Agence générale de voyages E. Schnitzler",
-      "Bucher & Co.",
-      "American-Express Co.",
-      "Callias A.",
-      "Comp. Int. des Wagons-Lits",
-      "George Lunn's Tours Ltd.",
-      "Montreux-Tourist Office (R. Hahn)",
-      "Pickfords Ltd",
-      "Polytechnic Tours",
-      "Suisse-Britannique",
-      "Vacheron J."
+  "SASSEL": {
+    "Commission scolaire": [
+      "Cosendai-Bersier Paul",
+      "Fivaz César",
+      "Dufey Paul"
     ],
-    "Agence d'émigration.": [
-      "Callias A.",
-      "Rentsch Walter",
-      "Thos Cook & Son",
-      "Légeret Chs.",
-      "Schnitzler Eric",
-      "Vacheron J.",
-      "Voyages A. Kuoni, S. A."
+    "Epicerie": [
+      "Baerisywl Aimé",
+      "Dufey Alida"
     ],
-    "Agriculteurs-Vignerons.": [
-      "Aubort Emile",
-      "Aubort Auguste",
-      "Besson André",
-      "Besson Julien",
-      "Brousoz André",
-      "Brousoz Albert",
-      "Blanc Ami",
-      "Blanc Gustave",
-      "Blanc Louis",
-      "Blanc Victor",
-      "Borloz Auguste",
-      "Chevalley Marius",
-      "Chevalley Edmond",
-      "Chevalley Adrien",
-      "Chevalley Félix",
-      "Chevalley Emmanuel",
-      "Chevalley Edouard",
-      "Chevalley Constant",
-      "Cochard Auguste",
-      "Cochard Victor",
-      "Cochard Lina, Veuve",
-      "Cochard Julie, Veuve",
-      "Cochard-Masson Clément",
-      "Cochard-Vieland Ls",
-      "Cuénet Marcel",
-      "Delacrétaz Félix",
-      "Dubuis Henri",
-      "Dubochet Alexandre",
-      "Ducret Emile",
-      "Dufaux Eugène",
-      "Dufaux Armand",
-      "Dufaux Louis",
-      "Dufaux Octave",
-      "Dufour Eugène",
-      "Dufour Alex.",
-      "Dufour Arthur",
-      "Dufour Auguste",
-      "Dufour Louis",
-      "Dufour Louis",
-      "Favrod Jules",
-      "Fontannaz",
-      "Francey L.",
-      "Francey Philippe",
-      "Genevey Victor",
-      "Gonet Henri",
-      "Jaeger Cochard",
-      "Jordan Henri",
-      "Jordan Louis",
-      "Maillard Paul",
-      "Martin Joseph",
-      "Masson Henri",
-      "Masson Jean",
-      "Masson Louis",
-      "Masson Louis",
-      "Mayor Ernest",
-      "Mayor-Rambert Eugène",
-      "Michel Louis",
-      "Michel Louis",
-      "Monnet Auguste",
-      "Monnet Clément",
-      "Monnet Jules",
-      "Monnet Louis",
-      "Monod Louis",
-      "Morier Victor",
-      "Perret H., hoirie",
-      "Perrod, Veuve de Jules",
-      "Pfeiffer-Aubort Henri",
-      "Pilet Ch.",
+    "Inspecteur du bétail": [
+      "Durussel Jules"
+    ],
+    "Instituteurs": [
+      "Berger André",
+      "May Madeleine"
+    ],
+    "Machine à battre": [
+      "Commune"
+    ],
+    "Maréchal": [
+      "Ballif Louis"
+    ],
+    "Poste": [
+      "Fivat Maurice"
+    ],
+    "Sociétés": [
+      "de fromagerie et laiterie. R.",
+      "Syndicat agricole. R.",
+      "Crédit mutuel de Sassel (Caisse Raiffeisen). R."
+    ],
+    "Tailleuses": [
+      "Cosandey Mina",
+      "Dufey Marie"
+    ],
+    "Téléphone": [
+      "Pinte de l'Etoile"
+    ]
+  },
+  "SEDEILLES": {
+    "Autorités communales": [
+      "Goumaz Arthur",
+      "Bersier Jean"
+    ],
+    "Syndic": [
+      "Goumaz Paul"
+    ],
+    "Municipaux": [
+      "Morattel Ls",
+      "Goumaz E. R.",
+      "Miéville Alb.",
+      "Morattel Oscar",
+      "Cornut Alfred",
+      "Savary Ele."
+    ],
+    "Agriculteurs": [
+      "Cachin Charles",
+      "Cornut Alfred",
+      "Curchod Henri",
+      "Dayras Alfred",
+      "Goumaz Adolphe",
+      "Goumaz Adr.",
+      "Goumaz Louis",
+      "Goumaz Ulysse",
+      "Morattel Louis",
+      "Morattel Marcel",
+      "Pages Ernest",
+      "Pages Gustave",
+      "Pages frères",
+      "Peytregnet Robert",
+      "Roux Oscar",
+      "Savary Henri"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Lagraz A."
+    ],
+    "Société mutualiste de retraite": [
+      "Rossier A."
+    ],
+    "Aubergiste": [
+      "Mauroux Reym."
+    ],
+    "Bétail (march. de)": [
+      "Goumaz Adrien"
+    ],
+    "Charron": [
+      "Glannaz Alexandre"
+    ],
+    "Commission scolaire": [
+      "Goumaz Arthur",
+      "Cornut Alfred"
+    ],
+    "Entrepreneurs-maçons": [
+      "Magistrini André",
+      "Salomon Ernest"
+    ],
+    "Epicerie": [
+      "Juvet Juliette"
+    ],
+    "Fourches et rateaux (fabr. de)": [
+      "Cornut Alfred",
+      "Dayras Alf."
+    ],
+    "Inspecteur du bétail": [
+      "Goumaz Ar."
+    ],
+    "Instituteur": [
+      "Lagnaz Alfred"
+    ],
+    "Laitier": [
+      "Perrin Edouard"
+    ],
+    "Menuisier": [
+      "Goumaz Henri"
+    ],
+    "Poste": [
+      "Chassot Henri"
+    ],
+    "Rentiers": [
+      "Goumaz Ulysse",
+      "Morattel Oscar"
+    ],
+    "Sociétés": [
+      "de fromagerie. R.",
+      "du battoir à blé. R.",
+      "Syndicat agricole. R.",
+      "Caisse d'assurance du bétail bovin"
+    ],
+    "Tailleur": [
+      "Pages C."
+    ],
+    "Tailleuses": [
+      "Morattel Lucie"
+    ],
+    "Téléphone public": [
+      "Morattel Lucie"
+    ]
+  },
+  "SEIGNEUX": {
+    "Autorités communales": [
+      "Vauthey Hector",
+      "Déglon Aloïs"
+    ],
+    "Syndic": [
+      "Vauthey Adolphe"
+    ],
+    "Municipaux": [
+      "Wist Hri",
+      "Schwab Ernest",
+      "Vauthey Armand",
+      "Pittet Armand",
+      "Trolliet Emile",
+      "Pasche Robert"
+    ],
+    "Huissier et garde-police": [
+      "Vauthey Jules"
+    ],
+    "Agriculteurs": [
+      "Cachin Aloïs",
+      "Cachin Emile",
+      "Cachin Frédéric",
+      "Cachin Fritz",
+      "Cachin Arthur",
+      "Cachin Ulysse",
+      "Corthésy Octave",
+      "Cosandey Emile",
+      "Dovat William",
+      "Pasche Félix",
       "Pittet Emile",
-      "Tauxe Ulysse"
+      "Pittet Eugène",
+      "Pittet Louis",
+      "Pittet Jules",
+      "Schwab Ernest",
+      "Tenthorey Eugène",
+      "Trolliet Alfred",
+      "Trolliet Emile",
+      "Vauthey Alfred",
+      "Vauthey Jean",
+      "Vauthey Louis",
+      "Vauthey Ulysse",
+      "Wist Jules"
+    ],
+    "Apiculteurs": [
+      "Ballif Adrien",
+      "Bovey Oscar",
+      "Cachin Arthur",
+      "Dovat William",
+      "Jaquier Jules",
+      "Tenthorey Eug.",
+      "Trolliet Emile",
+      "Vauthey Adolphe",
+      "Wist Henri"
+    ],
+    "Associations mutualistes de retraite": [
+      "Ballif Ad."
+    ],
+    "Aubergiste": [
+      "Vauthey Alfred"
+    ],
+    "Commission scolaire": [
+      "Trolliet-Bovey",
+      "Pasche Robert",
+      "Vauthey Armand"
+    ],
+    "Couturière": [
+      "Cachin Rose"
+    ],
+    "Epiceries, merceries": [
+      "Bettex Rosa",
+      "Cachin Frédéric. R.",
+      "Tenthorey-Mermoud Marie. R."
+    ],
+    "Inspecteur du bétail": [
+      "Vauthey Ul."
+    ],
+    "Instituteurs": [
+      "Ballif Adrien",
+      "Rochat Hélène"
+    ],
+    "Maréchal": [
+      "Bovey Fernand"
+    ],
+    "Meunier": [
+      "Trolliet Henri"
+    ],
+    "Scieur": [
+      "Trolliet Henri"
+    ],
+    "Sellier": [
+      "Cachin Aimé"
+    ],
+    "Sociétés": [
+      "de fromagerie. R.",
+      "Crédit agricole. R.",
+      "Syndicat agricole. R.",
+      "Assurance du bétail"
+    ],
+    "Téléphoniste": [
+      "Vauthey Alfred"
     ]
   }
 }

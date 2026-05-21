@@ -1,215 +1,218 @@
 {
-  "NOVALLES": {
-    "Agriculteurs": [
-      "der Rodolphe",
-      "Marchand Georges",
-      "Mermod Georges",
-      "Perriraz Armand",
-      "Schori Rodolphe",
-      "Simon frères",
-      "Recordon frères",
-      "Stämpfli Jacob",
-      "Taillefert Reynold"
+  "VALEYRES-SOUS-MONTAGNY": {
+    "Commission scolaire.": [
+      "Christin Alfr.",
+      "Margot Louis",
+      "Groux Alfred"
     ],
-    "Apiculteur": [
-      "Mayor Arnold"
+    "Couturière.": [
+      "Marendaz Jeanne, Mlle."
     ],
-    "Assurance-vieillesse": [
-      "Pahud M.",
-      "Pahud Mme"
+    "Couvreurs.": [
+      "Marendaz Eugène, père et fils"
     ],
-    "Café": [
-      "Blanc Gustave"
+    "Epiceries.": [
+      "Boillet Eugène",
+      "Pilliard Adèle"
     ],
-    "Commission scolaire": [
-      "Cousin Eug."
+    "Inspecteur du bétail.": [
+      "Simon Alf."
     ],
-    "Dépositaire postal": [
-      "Viguet Lina"
+    "Instituteur.": [
+      "Burdet Jules"
     ],
-    "Inspecteur du bétail": [
-      "Périllard Arm."
+    "Laitier.": [
+      "Gaberel Jacob. T."
     ],
-    "Institutrice": [
-      "Pahud Marie"
+    "Maréchal": [
+      "Margot Louis"
+    ],
+    "Poste.": [
+      "Margot Rose"
+    ],
+    "Scieur.": [
+      "Jaggi Maurice"
+    ],
+    "Société.": [
+      "de laiterie. R."
+    ],
+    "Station d'étalons.": [
+      "Pilliard Eugène"
+    ],
+    "Téléphone.": [
+      "Café du Raisin. T."
+    ],
+    "Vigneron.": [
+      "Pilliard Henri"
     ]
   },
-  "ONNENS": {
-    "Autorités communales": [
-      "Pahud Gustave",
-      "Dagon Pl.",
-      "Bezençon Robert",
-      "Filleux Marcel",
-      "Dagon Jules",
-      "Paris Victor",
-      "Seiler Gustave",
-      "Dagon Willy",
-      "Homberger Paul"
+  "VALEYRES-SOUS-URSINS": {
+    "Autorités communales.": [
+      "Mayerat René",
+      "Planche Edward",
+      "Urfer Th.",
+      "Beney Justin",
+      "Beney Edw.",
+      "Auberson Ls",
+      "Beney Lucien",
+      "Miéville Lucien",
+      "Beney Louis",
+      "Henry Ernest"
     ],
-    "Agriculteurs": [
-      "Apothéloz Emile",
-      "Apothéloz Eugène",
-      "Bolle Louis",
-      "Dagon Auguste",
-      "Dagon frères",
-      "Dagon-Grobet Jules",
-      "Dagon Michel",
-      "Dagon Paul",
-      "Dagon Rod.",
-      "Filleux Emile",
-      "Filleux Marcel",
-      "Gaille Benjamin",
-      "Gaille Lucien",
-      "Jeanmonod Louis",
-      "Neuhaus Fritz",
-      "Paris Chs",
-      "Perdrisat Samuel",
-      "Robin Louis",
-      "Seiler Gustave",
-      "Wyss F."
+    "Agriculteurs.": [
+      "Auberson Louis",
+      "Beney Clément",
+      "Beney Justin",
+      "Beney Lucien",
+      "Beney Edw.",
+      "Chapuis Gustave",
+      "Grin Alfred",
+      "Grin John",
+      "Henry Alfred",
+      "Henry Louis",
+      "Henry Victor de François",
+      "Miéville Lucien",
+      "Zaugg Frédéric"
     ],
-    "Amodiateur": [
-      "Fillieux Edouard"
+    "Bétail.": [
+      "Horisberg R. T."
     ],
-    "Apiculteurs": [
-      "Gaille Benjamin",
-      "Gaille Lucien",
-      "Lassueur Auguste",
-      "Granges Zacharie"
+    "Charron.": [
+      "Beney René"
     ],
-    "Assurance": [
-      "Haldimand Paul"
+    "Commission scolaire.": [
+      "Henry Ernest",
+      "Planche Edward",
+      "Bréchon Arm."
     ],
-    "Auberges et cafés": [
-      "Bezençon Rob.",
-      "Favre Louis"
+    "Epicerie. mercerie.": [
+      "Henry Elise"
     ],
-    "Assurance-vieillesse": [
-      "Mayor A."
+    "Inspecteur du bétail.": [
+      "Miéville Luc."
     ],
-    "Boulanger": [
-      "Cochard Albin"
+    "Instituteurs.": [
+      "Burdet Elise",
+      "Golay Emile"
     ],
-    "Charpentier": [
-      "Schneeberger Léopold"
+    "Laitier.": [
+      "Strähl Emile"
     ],
-    "Charcutier": [
-      "Pahud-Montandon G."
+    "Machine à battre.": [
+      "Société du battoir à grain. R."
     ],
-    "Charron": [
-      "Reuille Paul"
+    "Maréchal.": [
+      "Frauche Héli"
     ],
-    "Chef de gare": [
-      "Séchaud Jules"
+    "Société.": [
+      "de fromagerie. R."
     ],
-    "Coiffeur": [
-      "Schwab Fritz"
-    ],
-    "Commission scolaire": [
-      "Dagon Michel",
-      "Décurey",
-      "Wäsen Ernest"
-    ],
-    "Cordonnier": [
-      "Rogivue Louis"
-    ],
-    "Couturière": [
-      "Dagon Juliette"
-    ],
-    "Epicerie, mercerie": [
-      "Besia-Dagon Jenny",
-      "Cochard Albin",
-      "Filleux Charles"
-    ],
-    "Inspecteur du bétail": [
-      "Dagon Jules"
-    ],
-    "Instituteurs": [
-      "Mayor Albert",
-      "Haldimann Germaine"
-    ],
-    "Lingère": [
-      "Bontems Clara"
-    ],
-    "Maçon": [
-      "Besia Angel"
-    ],
-    "Menuisier": [
-      "Schneeberger Léopold"
-    ],
-    "Pêcheur": [
-      "Filleux Henri-Louis"
-    ],
-    "Pierristes": [
-      "Dagon Eugène",
-      "Dagon Willy",
-      "Granges Zacharie"
-    ],
-    "Poste": [
-      "Apothéloz Georges"
-    ],
-    "Représentant (assurances)": [
-      "Haldimann Paul"
-    ],
-    "Sociétés": [
-      "R.",
-      "La Centenaire"
-    ],
-    "Vins (march. de)": [
-      "Dagon Rod.-F.",
-      "Filleux Charles",
-      "Seiler Gustave"
-    ],
-    "Voituriers": [
-      "Apothéloz Emile",
-      "Dagon Auguste"
+    "Téléphone.": [
+      "Dépôt des postes."
     ]
   },
-  "PROVENCE": {
-    "Autorités communales": [
-      "Perrin Louis",
-      "Vuillermet Albert",
-      "Favre Gustave",
-      "Gaille Félicien",
-      "Jeanmonod-Gaille Adrien",
-      "Perrin Sylvain",
-      "Favre Louis",
-      "Gaille Armand",
-      "Guillaume Maurice",
-      "Favre Eugène",
-      "Delay Jean"
+  "VILLARS-EPENEY": {
+    "Autorités communales.": [
+      "Potterat Const.",
+      "Vacat.",
+      "Roulier Paul",
+      "Correvon John",
+      "Marendaz Marcel",
+      "Vacat",
+      "Guidoux Alfred"
     ],
-    "Agriculteurs": [
-      "Allisson Auguste",
-      "Favre Eugène",
-      "Favre Louis",
-      "Favre-Gattolliat Ami",
-      "Gaille Ami",
-      "Gaille Ernest",
-      "Gaille Félicien",
-      "Gaille Henri",
-      "Gattolliat André",
-      "Jeanmonod Adrien",
-      "Loup Louis",
-      "Maire Ali",
-      "Perrin Louis",
-      "Vuillermet Alfred"
+    "Agriculteurs.": [
+      "Correvon Julien",
+      "Favre Alfred",
+      "Gondoux Alfred",
+      "Roulier Henri",
+      "Roulier Jean",
+      "Roulier frères",
+      "Mösimann Ernest",
+      "Vuagnaux Emile"
     ],
-    "Amodiateur": [
-      "Guillaume Charles"
+    "Téléphone.": [
+      "Gondoux Alfred."
+    ]
+  },
+  "VILLARS-SOUS-CHAMPVENT": {
+    "Autorités communales.": [
+      "Mayerat Julien",
+      "Urfer Th.",
+      "Vallotton Marcel",
+      "Page Henri",
+      "Pittet Alphonse",
+      "Urfer Pierre"
     ],
-    "Apiculteurs": [
-      "Bolens Aug.",
-      "Glardon Jules",
-      "Jeanmonod Eug."
+    "Agriculteurs.": [
+      "Genaine David",
+      "Niffenegger Jean",
+      "Stauffer Alfred",
+      "Urfer Pierre",
+      "Roy Alfred",
+      "Urfer Pierre"
     ],
-    "Assurance-vieillesse": [
-      "Merminod W.",
-      "Perrin Eug."
+    "Inspecteur du bétail.": [
+      "Genaine Dav."
     ],
-    "Auberges et cafés": [
-      "Guillaume frères",
-      "Mariller André"
+    "Laitier.": [
+      "Urfer Théophile"
+    ],
+    "Tailleur.": [
+      "Vallotton Alfred"
+    ]
+  },
+  "VUGELLES-LA-MOTHE": {
+    "Autorités communales.": [
+      "Marchand Gustave",
+      "Zbinden Louis. fils.",
+      "Zbinden Louis",
+      "Schüpbach Louis",
+      "Gaillard Eug. fils",
+      "Arn Fritz",
+      "Viguet Hri",
+      "Marchand Maurice",
+      "Bertschy Maurice"
+    ],
+    "Agriculteurs.": [
+      "Arn Fritz",
+      "Balmer Henri",
+      "Brand Jean",
+      "Gaillard Eugène fils",
+      "Jaccard Alfred",
+      "Jaccard Justin",
+      "Marchand Arnold",
+      "Nicolet Louis. T.",
+      "Scheidegger Johann",
+      "Viguet Henri. T.",
+      "Zbinden Louis"
+    ],
+    "Apiculteurs.": [
+      "Gaillard E. père",
+      "Marchand Maurice",
+      "Nicolet Auguste",
+      "Schüpbach Louis"
+    ],
+    "Aubergiste.": [
+      "Jaccard Justin"
+    ],
+    "Bétail (comm. de).": [
+      "Viguet Hri. T."
+    ],
+    "Boulanger.": [
+      "Jaccard Samuel. T."
+    ],
+    "Buraliste postal.": [
+      "Devaud Adeline, Mlle. T."
+    ],
+    "Caisses d'emballages.": [
+      "Bonnefoy Zélime. R."
+    ],
+    "Carrière de tuf.": [
+      "Marchand Maur. R."
+    ],
+    "Charpentier.": [
+      "Marchand Gustave"
     ]
   }
 }

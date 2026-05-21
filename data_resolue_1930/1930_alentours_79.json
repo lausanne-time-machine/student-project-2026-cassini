@@ -1,215 +1,228 @@
 {
-  "Leysin": {
-    "Brevets d'invention": [
-      "Flesch L."
+  "ESSERTINES-SUR-YVERDON": {
+    "Agriculteurs": [
+      "Hector",
+      "Gonin Jean",
+      "Gonin Léon",
+      "Gonin Louis",
+      "Gonin Jules",
+      "Gonin Marc",
+      "Jaton Alfred",
+      "Miéville César",
+      "Perret Denis",
+      "Villard"
     ],
-    "Broderies": [
-      "Luscher Théophile"
+    "Architecte.": [
+      "Gabella Ernest"
     ],
-    "Bureaux de placement": [
-      "Bouquet Emile",
-      "Kropf Louis"
+    "Assurance-vieillesse.": [
+      "Favre A."
     ],
-    "Cafés": [
-      "Decrind Marcel",
-      "Dufresne Jules",
-      "Dupertuis M.",
-      "Stäubli Jean",
-      "Lobsiger Jean",
-      "Neveu Alfr.",
-      "Ortelli Jean",
-      "Jekelmann Bernard"
+    "Aubergistes.": [
+      "Falquet Jenny",
+      "Perret Emile",
+      "Joss Ernest"
     ],
-    "Cafés-chocolat": [
-      "Jenzer Charles",
-      "Monnet Emilie"
+    "Automobiles.": [
+      "Gonin Ch."
     ],
-    "Cercueils": [
-      "Burky C.",
-      "Pompes Funèbres de Leysin, S. A."
+    "Boulanger.": [
+      "Grin Octave"
     ],
-    "Chapellerie - chemiserie": [
-      "Luscher Théophile"
+    "Charpentiers.": [
+      "Baldy Louis",
+      "Barraud Constant"
     ],
-    "Charcuterie-comestibles": [
-      "Besse Joseph"
+    "Charrons.": [
+      "Auberson H.",
+      "Decorges Jules"
     ],
-    "Charpentiers": [
-      "Bovon Eug.",
-      "Hauser Emile",
-      "Lombardi Jacques",
-      "Rieben E. & Cie.",
-      "Tille Victor"
+    "Chef de section.": [
+      "Perret Denis"
     ],
-    "Charretiers": [
-      "Drapel Aloïs",
-      "Giobellina Fortuné",
-      "Peytegnet Fernand",
-      "Tauxe René",
-      "Vaudroz Vve d'Henri",
-      "Vaudroz Julien"
+    "Commission scolaire.": [
+      "Gonin Gust.",
+      "Auberson Eugène"
     ],
-    "Chaussures": [
-      "Poggia G.",
-      "Tauss Blanche",
-      "Titmann H. T.",
-      "Vieceli-Tagliaferi Albino"
+    "Cordonniers.": [
+      "Buinoud Joseph",
+      "Favre Fritz"
     ],
-    "Chefs de gare": [
-      "Barrat Alexandre",
-      "Stutzmann Max",
-      "Tabord Alfr."
+    "Epicerie, tabacs.": [
+      "Bornand Arth.",
+      "Grin Octave"
     ],
-    "Chef de section": [
-      "Tabord Paul"
+    "Garde-forestier.": [
+      "Auberson Jean"
     ],
-    "Chimiste": [
-      "Tuscher John"
+    "Gypsier-peintre.": [
+      "Laurent Gustave"
     ],
-    "Cigares et tabacs": [
-      "Basso Isaac",
-      "Bersier Georges",
-      "Bonello-Welten",
-      "Canet Jean",
-      "Chapuis Th.",
-      "Dentella Rose",
-      "Dufresne Jules",
-      "Jaccard Gustave",
-      "Jaccard William",
-      "Lecomte Henri",
-      "Légeret & Cie",
-      "Leuzinger Jean",
-      "Nock Bruno",
-      "Roliat Eugène",
-      "Slisonsky G.",
-      "Tauxe Rose"
+    "Inspecteurs du bétail.": [
+      "Auberson Eugène",
+      "Auberson Jean",
+      "Auberson Adolphe",
+      "Vagnière Charles"
     ],
-    "Cinémas": [
-      "Dubois A.",
-      "Monod Paul"
+    "Instituteurs.": [
+      "Favre Alb.",
+      "Champod Cécile",
+      "Gonin-Paillard Alice",
+      "Sommer Rose"
     ],
-    "Coiffeurs": [
-      "Bednar Bohumil",
-      "Gissler Ch. & Cie",
-      "Raabe Max",
-      "Rothlisberger Albert",
-      "Leuzinger Jean",
-      "Wollmann François"
+    "Juge de paix.": [
+      "Ducret Charles"
     ],
-    "Combustibles": [
-      "Besse Louis",
-      "Besse Denis",
-      "Favre César",
-      "Peyregnet Fernand",
-      "Trummer A. & Cie."
+    "Laitier.": [
+      "Neuschwander Aloïs"
     ],
-    "Commandant du feu": [
-      "Neveu Alfred"
+    "Maçon.": [
+      "Gabella Ernest"
     ],
-    "Commission scolaire": [
-      "Dr Amstad",
-      "Roulet Benjamin"
+    "Maréchaux.": [
+      "Rochat Victor",
+      "Roulier Henri"
     ],
-    "Confections": [
-      "Blanc Marie-Louise",
-      "Galeries Parisiennes",
-      "Hurt Otto",
-      "Luscher Théophile"
+    "Pasteurs.": [
+      "Wanner Th.",
+      "Henzi Jules"
     ],
-    "Confiserie-Pâtisserie-Crèmerie": [
-      "Besse Louis",
-      "Chapuis Th.",
-      "Cerf Jules",
-      "Jaquet Henri",
-      "Kohler Ernest",
-      "Pabst Anton",
-      "Schägerl Aloïs"
+    "Poste.": [
+      "Guex Léon",
+      "Auberson Ernestine"
     ],
-    "Contrôle des denrées": [
-      "Tüscher John"
+    "Rentiers.": [
+      "Amida-Ducret",
+      "Moulin Aug.",
+      "Villard Constant"
     ],
-    "Cordonniers": [
-      "Oguey Ferdinand",
-      "Poggia G.",
-      "Tauss Blanche",
-      "Tittmann H.",
-      "Vieceli-Tagliaferi Albino"
+    "Sage-femme.": [
+      "Auberson-Gonin Elisa"
     ],
-    "Courtepointière": [
-      "Hurter"
+    "Scieur.": [
+      "Auberson Gustave"
     ],
-    "Couturières": [
-      "Capra Candide",
-      "Lecomte",
-      "Machet Joséphine",
-      "Méli Thérèse",
-      "Monnier Henriette",
-      "Montet",
-      "Roth"
+    "Sellier.": [
+      "Schneider Jean"
     ],
-    "Dentistes": [
-      "Barbezat Paul",
-      "Pouzet Louis",
-      "Soutter Charles",
-      "Dr Volet Henri"
+    "Sociétés.": [
+      "Fromagerie de la Robellaz",
+      "Laiterie de Nonfoux",
+      "Fromagerie d'Essertines",
+      "Machines à battre",
+      "Fromagerie d'Epautheyres",
+      "Immobilière de l'Ochettaz",
+      "Echo du Buron",
+      "Syndicat agricole",
+      "Section de la Croix-Bleue",
+      "Société des Eaux",
+      "Tir aux armes de guerre"
     ],
-    "Eaux gazeuses": [
-      "Besse Alfred",
-      "Castella Paul"
+    "Tailleuses.": [
+      "Miéville Germaine",
+      "Schneider Bertha"
     ],
-    "Ecole nouvelle": [
-      "Bouet-Boissonnas"
+    "Téléphoniste.": [
+      "Joss Ernest"
+    ]
+  },
+  "ETAGNIERES": {
+    "Autorités communales.": [
+      "Bovay Ulysse",
+      "Emery Robert",
+      "Crausaz Alfred",
+      "Borgeaud Constant",
+      "Dutoit Adrien",
+      "Martin Maurice",
+      "Emery Const.",
+      "Bocion Albert",
+      "Binggeli Max",
+      "Hubscher Alfred"
     ],
-    "Electriciens": [
-      "Dufresne Sylvius",
-      "Krumel Alb.",
-      "Monod Paul",
-      "Tauxe Alfred",
-      "Société romande d'Electricité"
+    "Agriculteurs.": [
+      "Baudet Jules",
+      "Baudet Ulysse",
+      "Bocion Aloïs",
+      "Bocion Louis",
+      "Borgeaud Victor",
+      "Borgeaud Constant",
+      "Cherpit Ls",
+      "Crausaz Alfred",
+      "Despont Alfred",
+      "Dutoit Adrien",
+      "Emery Ulysse",
+      "Hubscher Alfred",
+      "Isaaz Alfred",
+      "Jaques Louis",
+      "Martin Alexis",
+      "Martin Louis",
+      "Martin Xavier",
+      "Mettraux Etienne",
+      "Pittet Auguste",
+      "Pittet Joseph",
+      "Pittet Olivier",
+      "Pittet Vincent",
+      "Porchet Henri",
+      "Soumy Jules"
     ],
-    "Entrepreneurs": [
-      "Barone & Beverina",
-      "Camandona Emile",
-      "Felli Alfred & Cie."
+    "Asile pour relèvement de buveurs.": [
+      "Bocion Aloïs"
     ],
-    "Epiceries": [
-      "Basso Isaac",
-      "Bersier Georges",
-      "Bonello Welten",
-      "Ernst Em. & Cie",
-      "Jaccard-Sagne William",
-      "Légeret O.",
-      "Mutrux frères",
-      "Rittener Elisa",
-      "Société coopérative de consommation",
-      "Sagne Ch.",
-      "Tauxe Rose",
-      "Vieceli-Tagliaferi Albino"
+    "Blanchisseuse.": [
+      "Sahly Emma"
     ],
-    "Ferblantiers": [
-      "Cordey Ulrich",
-      "Eisenberg Elie",
-      "Scheiwein Jean"
+    "Bouchers.": [
+      "Martin Germain",
+      "Martin Xavier"
     ],
-    "Fleurs (mag. de)": [
-      "Burla E.",
-      "Corthésy Aloïs",
-      "Gros Edouard",
-      "Kaufmann Rosa",
-      "Slisonsky Georges",
-      "Thévoz Mathilde"
+    "Café.": [
+      "Cherpit Louis"
     ],
-    "Garde-forestier": [
-      "Ranzoni Albert"
+    "Commission scolaire.": [
+      "Emery Constant",
+      "Dutoit Adrien"
     ],
-    "Gardes-malades": [
-      "Capt",
-      "Dufresne Elisa",
-      "Groux Louis"
+    "Cordonnier.": [
+      "Daglia Pierre"
     ],
-    "Gérances": [
-      "Bouquet Emile",
-      "Chevalley Otto"
+    "Entrepreneurs.": [
+      "Bariatti",
+      "Godin & Salvator"
+    ],
+    "Epicerie, mercerie, tabacs.": [
+      "Binggeli Georges",
+      "Despont Joseph"
+    ],
+    "Gypserie-peinture.": [
+      "Novarina Alf."
+    ],
+    "Inspecteur du bétail.": [
+      "Bocion Louis"
+    ],
+    "Institutrice.": [
+      "Pittet Claire"
+    ],
+    "Pasteur.": [
+      "Curchod Robert"
+    ],
+    "Poste.": [
+      "Bovey Berthe"
+    ],
+    "Sociétés.": [
+      "de fromagerie",
+      "Section de la Croix-Bleue"
+    ],
+    "Tailleuse.": [
+      "Isaaz Thérèse"
+    ],
+    "Téléphoniste.": [
+      "Binggeli Georges"
+    ]
+  },
+  "FEY": {
+    "Autorités communales.": [
+      "Wagnière Gustave",
+      "Jaunin Emile"
     ]
   }
 }

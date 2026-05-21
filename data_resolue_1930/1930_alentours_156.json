@@ -1,205 +1,255 @@
 {
-  "LIGNEROLLE": {
-    "Sociétés": [
-      "Syndicat d'élevage bovin",
-      "Poids public",
-      "Battoir à grains",
-      "Hôtel de l'Ecusson"
+  "BUCHILLON": {
+    "Président du Conseil général": [
+      "Lachat Charles"
     ],
-    "Voituriers": [
-      "Maillefer Jean",
-      "Nicolet Marc"
-    ]
-  },
-  "MONTCHERAND": {
-    "Autorités communales": [
-      "Moreillon Maurice",
-      "Randin Henri",
-      "Martin Julien",
-      "Nicole Lucien",
-      "Péclard Julien",
-      "Martin Georges",
-      "Perrin Samuel",
-      "Péclard Samuel",
-      "Martin Albert",
-      "Randin Ch."
+    "Secrétaire": [
+      "Perroud Alexandre",
+      "Roulier F."
+    ],
+    "Syndic": [
+      "de Lessert Roger"
+    ],
+    "Municipaux": [
+      "Genoux-Rawyler Ls",
+      "Cœndoz V.",
+      "Perroud F.",
+      "Rawyler Ph."
+    ],
+    "Boursier": [
+      "Perroud Ch."
     ],
     "Agriculteurs": [
-      "Hierzeler Charles",
-      "Manganel François",
-      "Martin Emile",
-      "Martin François",
-      "Nicole Constant",
-      "Nicole Edmond",
-      "Nicole Henri",
-      "Nicole Jean",
-      "Nicole Jules",
-      "Nicole Lucien",
-      "Péclard Jules",
-      "Randin Henri"
+      "Cœndoz V.",
+      "Genoux-Rawyler Louis",
+      "Humbert Henri",
+      "Perroud Charles",
+      "Perroud Fernand",
+      "Perroud Louis"
     ],
-    "Aubergiste": [
-      "Martin Julien"
-    ],
-    "Charpentier": [
-      "Borgeaud Charles"
+    "Cafés": [
+      "Beroud E.",
+      "Fivaz C."
     ],
     "Commission scolaire": [
-      "Martin Albert",
-      "Chédel Marc",
-      "Martin Georges"
+      "Perrin",
+      "Chappuis",
+      "Sonnard U."
     ],
-    "Electricien": [
-      "Chédel M. T."
+    "Couturière": [
+      "Foretay Adèle"
     ],
-    "Epicerie, mercerie": [
-      "Jossevel-Augsbourger",
-      "L'Economie"
-    ],
-    "Fabrique de punaises et horlogerie": [
-      "Gueissaz fils"
-    ],
-    "Forestiers": [
-      "Barbey Auguste",
-      "Moreillon Maur."
+    "Epicerie": [
+      "Genoux-Bonzon Louis"
     ],
     "Inspecteur du bétail": [
-      "Hierzler Ch."
-    ],
-    "Inspecteur forestier": [
-      "Moreillon M."
+      "Genoux-Rawyler, Louis"
     ],
     "Instituteurs": [
-      "Besson Maurice",
-      "Marchand Madeleine, Mlle."
+      "Roulier Frédéric",
+      "Perroud Alice"
     ],
-    "Poste": [
-      "Grobet Paul"
-    ],
-    "Sable (carrières de)": [
-      "Gabella frères",
-      "Reguin Jules"
-    ],
-    "Scieurs": [
-      "Bezençon Pierre",
-      "Siegrist Paul"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "des Volontaires",
-      "du poids public"
-    ],
-    "Transports": [
-      "Gabella & Biola",
-      "Renaud P."
-    ]
-  },
-  "PREMIER": {
-    "Autorités communales": [
-      "Roy Félix",
-      "Candaux Edmond",
-      "Roy Jules-Alfred",
-      "Boulaz Charles",
-      "Candaux Marcel",
-      "Poget Ern.",
-      "Cochet Fern.",
-      "Candaux Léon",
-      "Luthy Alfred",
-      "Candaux Francis"
-    ],
-    "Agriculteurs": [
-      "Boulaz Charles",
-      "Boulaz Louis",
-      "Candaux Alexis",
-      "Candaux Marcel",
-      "Candaux Emile",
-      "Candaux Henri",
-      "Candaux Louis",
-      "Cochet Fernand",
-      "Delevev Louis",
-      "Grandjean René",
-      "Magnenat Ami",
-      "Poget Alfred",
-      "Poget Ern.",
-      "Poget-Cochet Hri",
-      "Poget John",
-      "Roy Emile",
-      "Roy Hri-Louis",
-      "Roy John",
-      "Roy Jules-Alfred",
-      "Reverchon Alfred",
-      "Vindret Louis"
-    ],
-    "Amodiateurs": [
-      "Poget Ernest",
-      "Roy Emile"
-    ],
-    "Apiculteurs": [
-      "Burnand Albert",
-      "Candaux Léon",
-      "Develey Louis"
-    ],
-    "Assesseur": [
-      "Candaux Louis"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Burnand A."
-    ],
-    "Bois (march. de)": [
-      "Candaux Henri",
-      "Cochet Fernand",
-      "Roy John"
-    ],
-    "Commission scolaire": [
-      "M. Favre",
-      "Roy Félix",
-      "Candaux Francis"
-    ],
-    "Couturières": [
-      "Burnand-Candaux Jeanne",
-      "Candaux Berthe",
-      "Poget Marguerite"
-    ],
-    "Entrepreneur": [
-      "Poget-Cochet Emile"
-    ],
-    "Epicerie, mercerie, tabacs": [
-      "Candaux Alexis",
-      "Reverchon Alfred",
-      "Candaux Edmond"
-    ],
-    "Inspect. du bétail": [
-      "Candaux Louis"
-    ],
-    "Instituteurs": [
-      "Burnand Albert",
-      "Poget-Cochet Elisa"
+    "Jardiniers": [
+      "Corthay Ch.",
+      "Rawyler Philippe",
+      "Richard César",
+      "Trottet Edouard"
     ],
     "Laitier": [
-      "Berger Ferdinand"
+      "Diserens Armand"
     ],
-    "Sellier": [
-      "Michel Alphonse"
+    "Pêcheurs": [
+      "Bolomey Jules",
+      "Corthay Edouard",
+      "Corthay Emile",
+      "Lachat Charles",
+      "Lachat Jules",
+      "Rawyler Eugène"
     ],
-    "Sociétés": [
-      "de fromagerie",
-      "Syndicat agricole"
+    "Pensions": [
+      "Pension de la Forêt, Genoux A.",
+      "Pension des Grands Bois, Fivaz C."
+    ],
+    "Pisciculture": [
+      "Etat de Vaud"
+    ],
+    "Poste": [
+      "Corthay François"
+    ],
+    "Société": [
+      "de fromagerie R."
     ],
     "Téléphoniste": [
-      "Querry Félise, Mme."
+      "Genoux-Bonzon, dame"
     ],
-    "Toiles à fromages et articles de fromagerie": [
-      "Candaux Alexis"
+    "Vignerons": [
+      "Corthay Emile",
+      "Corthay Samuel",
+      "Jousson Louis"
+    ],
+    "Divers": [
+      "Frey. Dr",
+      "Perrin Marius",
+      "Rosset-Nyffenegger",
+      "Rochat H.",
+      "Verrey-Renevier. dame"
     ]
   },
-  "RANCES": {
-    "Autorités communales": [
-      "Simonin Albert",
-      "van Dedem Albert",
-      "Randin Ami",
-      "Tétaz Jules",
-      "Randin Robert",
-      "Cottens Aimé"
+  "BUSSIGNY": {
+    "Syndic": [
+      "Barraud Alex."
+    ],
+    "Municipaux": [
+      "Barraud Lucien",
+      "Barraud René",
+      "Rossier Gust.",
+      "Roulet Jules"
+    ],
+    "Secrétaire": [
+      "Rossier Charles"
+    ],
+    "Boursier": [
+      "Gorgerat Constant"
+    ],
+    "Agence commerciale et immobilière": [
+      "Monthoux F."
+    ],
+    "Agriculteurs": [
+      "Barraud Alexandre",
+      "Barraud Alph.",
+      "Barraud Ed.",
+      "Barraud Alb.",
+      "Barraud-Cottier Lucien",
+      "Blanc Henri",
+      "Dutoit Constant",
+      "Burri",
+      "Groux Emile",
+      "Moret Georges",
+      "Moret Ulysse",
+      "Neyret Albert",
+      "Neyret Alfred",
+      "Pittet Gaston",
+      "Pittet Louis",
+      "Reymond Jean",
+      "Rossier Charles",
+      "Roulin Louis.",
+      "Vaney Jules",
+      "Vuerchoz Louis",
+      "Zahner Albert"
+    ],
+    "Apiculteurs": [
+      "Aeberhardt Charles",
+      "Jaquier Charles"
+    ],
+    "Assurance maladie": [
+      "Société suisse de secours mutuels Helvétia",
+      "Spähni A."
+    ],
+    "Assesseur": [
+      "Barraud Alexandre"
+    ],
+    "Auberges et cafés": [
+      "Schaad Charles",
+      "Hôtel de Ville",
+      "Piccard Henri",
+      "café de la Gare",
+      "Pernet Ernest",
+      "café du Raisin",
+      "Chappuis F. Rendez-vous des Amis",
+      "Tauxe Armand",
+      "La Terrasse"
+    ],
+    "Benzine (gros)": [
+      "Lumina S. A."
+    ],
+    "Bétail (march. de)": [
+      "Dutoit Constant"
+    ],
+    "Bois (comm. de)": [
+      "Wyssbrod & Nicollier"
+    ],
+    "Bois de socques": [
+      "Fayet Henri"
+    ],
+    "Boucher": [
+      "Enkerli Adolphe"
+    ],
+    "Boulangers": [
+      "Dussoix Denis.",
+      "Roulet J. R."
+    ],
+    "Briqueterie": [
+      "Barraud & Cie."
+    ],
+    "Buraliste postal": [
+      "Emery Marc."
+    ],
+    "Café sans alcool": [
+      "Perrin A.",
+      "Le Bluet"
+    ],
+    "Camionneurs": [
+      "Monnard François.",
+      "Rivoire D."
+    ],
+    "Charcuterie": [
+      "Decrausaz"
+    ],
+    "Charpentiers-menuisiers": [
+      "Rey Guillaume",
+      "Krayenbühl",
+      "Leyvraz-Zuber H.",
+      "Stauber Emile"
+    ],
+    "Charretiers": [
+      "Moret Auguste",
+      "Piccard Henri"
+    ],
+    "Chef de gare": [
+      "Genet Gustave."
+    ],
+    "Chef de section": [
+      "Pittet Charles"
+    ],
+    "Combustibles": [
+      "Léderrey Henri."
+    ],
+    "Commission scolaire": [
+      "Barraud Mce.",
+      "Gorgerat Constant",
+      "Pittet Charles",
+      "Barraud Albert",
+      "Mayor Henri"
+    ],
+    "Comptoir agricole": [
+      "Gaudard Osc."
+    ],
+    "Cordonniers": [
+      "Decrausaz W.",
+      "Martin Sylv."
+    ],
+    "Editeur": [
+      "Monthoux Fernand."
+    ],
+    "Entrepreneurs": [
+      "Baroni Jean.",
+      "Cerutti Ch."
+    ],
+    "Epicerie, mercerie": [
+      "Barraud Alex.",
+      "Benucci Camille.",
+      "Bessat Henri.",
+      "Gaudard Oscar.",
+      "Kolb Théophile.",
+      "Perret Henri",
+      "Pouy Henri.",
+      "Syndicat des consommateurs"
+    ],
+    "Ferblantier-couvreur": [
+      "Brüllisauer Alb."
+    ],
+    "Gypsier": [
+      "Jalut Louis."
     ]
   }
 }

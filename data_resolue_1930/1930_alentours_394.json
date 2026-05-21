@@ -1,107 +1,122 @@
 {
-  "BEX": {
-    "Autorités communales": [
-      "Paillard Charles",
-      "Nicod André"
+  "VILLE D'YVERDON": {
+    "Imprimeurs": [
+      "Société du Journal d'Yverdon",
+      "Studer Ernest"
     ],
-    "Syndic": [
-      "Borel Charles"
+    "Ingénieurs.": [
+      "Ellgass Georges",
+      "Guillemin Georges",
+      "Isenegger Armand",
+      "König Albert",
+      "Peter Charles",
+      "Verdan Edouard"
     ],
-    "Municipaux": [
-      "Ravy Félix",
-      "Chollet Robert",
-      "Péclard Elie",
-      "Renaud Henri",
-      "Genet Emile",
-      "Ruchet Gustave"
+    "Inspecteur du bétail.": [
+      "Peytregnet Ed."
     ],
-    "Secrétaire": [
-      "Gillard François"
+    "Inspecteur forestier.": [
+      "Comte Ferdinand"
     ],
-    "Boursier": [
-      "Concastre Ernest"
+    "Instituteurs primaires.": [
+      "Bérard Henri",
+      "Bory Ernest",
+      "Chautems Marcel",
+      "Clément Numa",
+      "Delisle Adolphe",
+      "Ducommun Jean",
+      "Hartmann Ernest",
+      "Jaccard Henri",
+      "Lambercy Albert",
+      "Saugy Julien"
     ],
-    "Police": [
-      "Pichard Henri",
-      "Cherix Marc"
+    "Institutrices primaires.": [
+      "Bettex Alice",
+      "Briffod Hélène",
+      "Burdet Berthe",
+      "Burnand Hermance",
+      "Burnens-Rouge Louisa",
+      "Cousin Valentine",
+      "Cuendet Marthe",
+      "Dugon Ida",
+      "Gonthier Mina",
+      "Grandjean Julia",
+      "Jaccaud Marthe",
+      "Jaques Edith",
+      "Masnata Adèle",
+      "Marendaz Eugénie",
+      "Ravais Susanne",
+      "Reber Fanny",
+      "Rippert-Guyaz Blanche",
+      "Rochat Susanne",
+      "Rufener Hélène",
+      "Reymond-Walter Alice",
+      "Robert Geneviève",
+      "Rochat Alice",
+      "Sigrist Ida",
+      "Sigrist Alice",
+      "Vaucher Suzanne"
     ],
-    "Huissier": [
-      "Pichard Henri"
+    "Instituteurs secondaires.": [
+      "Berthoud René",
+      "Bory Ernest",
+      "Bovay Armand",
+      "Bridel Michel",
+      "Droz Alph.",
+      "Hahn Philippe",
+      "Hænny L.",
+      "Michaud Léon",
+      "Ohry Herbert",
+      "Piguet Daniel",
+      "Renaud André"
     ],
-    "Administrateur postal": [
-      "Pittier G."
+    "Institutrices secondaires. (Ecole supérieure.)": [
+      "Berguer Jeanne",
+      "Perelmann Marie",
+      "Strehl Adèle"
     ],
-    "Affichage": [
-      "Soc. générale d'affichage"
+    "Jouets en gros.": [
+      "Becholey Daniel"
     ],
-    "Agents d'affaires patentés": [
-      "Chabloz Ch.",
-      "Jacot W."
+    "Journaux.": [
+      "Journal d'Yverdon (Société du)",
+      "Le Nord Vaudois",
+      "Pages gaies (humoristique)"
     ],
-    "Agriculteurs": [
-      "Blum A.",
-      "Cherix Benjamin",
-      "Genet Louis",
-      "Gsponen F.",
-      "Missilier Albert",
-      "Mösching, Ch.",
-      "Martin César",
-      "Nicollerat Emile de Jean",
-      "Richard Henri",
-      "Ruchet-Ruchet Gustave"
+    "Justice de paix.": [
+      "Pittet Alfred",
+      "Cuérel Constant",
+      "Gasser Jules",
+      "Baatard Henri",
+      "Wasem Edouard",
+      "Decker Charles"
     ],
-    "Apiculteurs": [
-      "Borel Marguerite",
-      "Péclard Elie"
+    "Kiosques à journaux.": [
+      "Naville & Cie (Gare)",
+      "Mutrux, dame",
+      "Trosset Louise, Vve",
+      "Valerio Henri"
     ],
-    "Appareilleurs": [
-      "Bollat Alex",
-      "Fontannaz Henri",
-      "Sangrouber Ch.",
-      "Tinturier Jules"
+    "Laineries, lingerie.": [
+      "Berney Emma",
+      "Delarze E.",
+      "Favez Flora",
+      "Landolt C.",
+      "Pahud-Richardet, Vve d'Hri.",
+      "Pfenninger Marie",
+      "Tacheron Julie"
     ],
-    "Architectes": [
-      "Borel Charles"
-    ],
-    "Articles de voyages": [
-      "Borgognon L."
-    ],
-    "Assurances": [
-      "La Suisse",
-      "Bonzon Ernest",
-      "Jacot W.",
-      "Long Théo.",
-      "Genevoise (vie)",
-      "Houriet Georges",
-      "Zurich-Accidents",
-      "Vita"
-    ],
-    "Associations mutualistes de retraite": [
-      "Dupraz R."
-    ],
-    "Automobiles": [
-      "Croset Paul",
-      "Guignet Constant",
-      "Rahm Em.",
-      "Viscardi Achille",
-      "Viscardi & Cie",
-      "Zuchuat Germain"
-    ],
-    "Aviculteur": [
-      "Haller A."
-    ],
-    "Bains": [
-      "Grand-Hôtel de Bex et Etablissement Thermal",
-      "Köhler Paul"
-    ],
-    "Banque et change": [
-      "Banque de Bex",
-      "Yersin Numa",
-      "Jaquenod Fernand"
-    ],
-    "Bazars": [
-      "Baltiser Jacob",
-      "Cherix-Buffat Edouard"
+    "Laiteries.": [
+      "Centrale laitière",
+      "Fromagerie d'Yverdon",
+      "Genillod Juste",
+      "Hofer Fenand",
+      "Junod-Gerber",
+      "Mollet-Moser",
+      "Quiblier Charles",
+      "Richard F.",
+      "Weber Léon",
+      "Pfister Jean"
     ]
   }
 }

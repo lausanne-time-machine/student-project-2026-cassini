@@ -1,209 +1,245 @@
 {
-  "FIEZ": {
-    "Agriculteurs": [
-      "Bulloz Alexis",
-      "Détraz Alf.",
-      "Fardel Aline, Vve d'Ern.",
-      "Gaille William",
-      "Jeannin Henri",
-      "Lin Emile",
-      "Maire Albert",
-      "Maire Charles",
-      "Maygeoz Alphonse",
-      "Patthey Alfr.",
-      "Patthey Alexis",
-      "Patthey François",
-      "Patthey Maurice",
-      "Quinche Jeanne, Vve d'Alfred",
-      "Quinche Gustave",
-      "Robellaz Louis",
-      "Taillefert Albert"
-    ],
-    "Mutualité scolaire de retraite": [
-      "Besson M.",
-      "Besson Mme"
-    ],
+  "ORZENS": {
     "Aubergiste": [
-      "Buhler Edouard"
+      "Burla Maurice"
     ],
-    "Bois (march. de)": [
-      "Allisson Edouard",
-      "Quinche Gust."
-    ],
-    "Boucher": [
-      "Bulloz Alexis"
-    ],
-    "Boulanger": [
-      "Baud Henri"
+    "Charpentier": [
+      "Burkhardt Ernest"
     ],
     "Cantonnier": [
-      "Amiet Jean"
+      "Burdet Ami"
     ],
-    "Charpentier-menuisier": [
-      "Fleury Joseph"
-    ],
-    "Charron": [
-      "Hodel E."
+    "Couturières": [
+      "Guichard Anita",
+      "Perey Elisa",
+      "Wagnière Thérèse"
     ],
     "Commission scolaire": [
-      "Ray Edmond",
-      "Durussel Aloïs",
-      "Taillefert Jules"
+      "Burla Maurice",
+      "Wagnière Aloïs"
     ],
     "Cordonnier": [
-      "Patthey Aloïs"
-    ],
-    "Entrepreneur": [
-      "Bühler Louis"
-    ],
-    "Epicerie, mercerie": [
-      "Fluckiger Marcel",
-      "Gaillard Henriette"
-    ],
-    "Huilerie": [
-      "Quinche Gustave"
-    ],
-    "Inspecteur du bétail": [
-      "Patthey Alfred"
-    ],
-    "Instituteurs": [
-      "Besson Ernest",
-      "Besson Marie"
-    ],
-    "Jardinier": [
-      "Garin Auguste"
-    ],
-    "Laitier": [
-      "Henry Oscar"
-    ],
-    "Lingère": [
-      "Patthey Juliette"
-    ],
-    "Maréchal": [
-      "Jaccard Arthur"
-    ],
-    "Motocyclettes": [
-      "Fluckiger Marcel"
-    ],
-    "Officier d'état-civil": [
-      "Baud Henri"
-    ],
-    "Pasteur": [
-      "Cousin Eugène"
-    ],
-    "Pensionnat de demoiselles": [
-      "Ray-Haldimand"
-    ],
-    "Pierriste": [
-      "Gaillard Eugène"
-    ],
-    "Poste": [
-      "Maire David"
-    ],
-    "Rentiers": [
-      "Freymond Rose",
-      "Gilliard Edmond",
-      "Gilliard Elisa",
-      "Gilliard John",
-      "Patthey Caroline",
-      "Patthey Louise",
-      "Patthey Maurice",
-      "Quinche Louis",
-      "Ray Edmond"
-    ],
-    "Repasseuse": [
-      "Gerbex-Patthey E."
-    ],
-    "Scieur": [
-      "Allisson Edouard",
-      "Quinche Gustave"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "de tir",
-      "d'agriculture",
-      "du poids public"
-    ],
-    "Tailleur": [
-      "Durussel-Quinche Aloïs"
-    ],
-    "Tailleuses": [
-      "Dijamatovics Elisa",
-      "Kiener Lydie",
-      "Maire-Patthey Augusta"
-    ],
-    "Téléphone": [
-      "La Commune"
-    ],
-    "Vins (march. de)": [
-      "Taillefert J."
-    ],
-    "Vignerons": [
-      "Boulaz Jules",
-      "Carrard Louis",
-      "Détraz Alfred",
-      "Duvoisin Ernest",
-      "Maire Albert",
-      "Musy Edouard"
-    ]
-  },
-  "FONTAINES": {
-    "Agriculteurs": [
-      "Auberson Eugène",
-      "Boulaz Em.",
-      "Boulaz Sylv.",
-      "Charlet Alf.",
-      "Chevalier Aloïs",
-      "Chevalier Jules",
-      "Chevalier Ls",
-      "Chevalier Fçois",
-      "Cruchaud Jonas",
-      "Cruchaux Mce.",
-      "Duvoisin Félix",
-      "Giroud L.",
-      "Guillet Adr.",
-      "Lang Jules",
-      "Roulet Alexis",
-      "Roulet Ed.",
-      "Roulet Félix",
-      "Roulet Louis",
-      "Roulet Georges"
-    ],
-    "Amédiateurs": [
-      "Cruchaud Maurice",
-      "Guillet Adrien"
-    ],
-    "Cafés": [
-      "Payot François",
-      "Giroud Louis"
-    ],
-    "Charpentiers-menuisiers": [
-      "Roulet Gaston",
-      "Roulet Marcel"
-    ],
-    "Coiffeur": [
-      "Obrecht Gabriel"
-    ],
-    "Commission scolaire": [
-      "Cruchaud Maurice",
-      "Roulet Ed.",
-      "Roulet Louis, fils"
+      "Heim William"
     ],
     "Epicerie": [
-      "Société coopérative de consommation"
+      "Vulliamoz Justine",
+      "Wagnière, Vve d'Edouard"
     ],
     "Inspecteur du bétail": [
-      "Roulet Georges"
+      "Perey Louis"
     ],
     "Instituteurs": [
-      "Noverraz Oscar",
-      "Champod-End Marie"
+      "Bolomey Ls",
+      "Pahud Frida",
+      "Pitton Alfred",
+      "Pahud Lina"
     ],
     "Laitier": [
-      "Muller Emile"
+      "Hoffmann Fritz"
+    ],
+    "Lingerie": [
+      "Roulier Lucie"
+    ],
+    "Machine à battre": [
+      "Richardet Gustave",
+      "Soc. du battoir à grains. R.",
+      "Battoir roulant. R."
+    ],
+    "Maçons": [
+      "Schaffner Otto",
+      "Tardy Charles",
+      "Perdrisat Auguste"
     ],
     "Maréchal": [
-      "Banderet Maurice"
+      "Pellaux François"
+    ],
+    "Mécan.-forgeron": [
+      "Lavanchy Paul"
+    ],
+    "Menuisiers": [
+      "Centlivres Justin",
+      "Rosé Eugène",
+      "Vulliemin Edouard"
+    ],
+    "Pasteur": [
+      "Visinand Alexandre"
+    ],
+    "Poste T": [
+      "Chevalley-Bovayt Ls"
+    ],
+    "Rentiers": [
+      "Burdet Alfred",
+      "Cuche Constant"
+    ],
+    "Sociétés": [
+      "de fromagerie. R.",
+      "de la machine à battre le grain. R.",
+      "Syndicat d'élevage. R.",
+      "Battoir roulant. R.",
+      "de fromagerie. R.",
+      "Syndicat agricole. R."
+    ],
+    "Tailleuse": [
+      "Gaillard Marie"
+    ],
+    "Téléphone public": [
+      "Burla Maurice"
+    ],
+    "Téléphone": [
+      "Richardet Lina"
+    ]
+  },
+  "POMY": {
+    "Autorités communales": [
+      "Richardet Gust.",
+      "Miéville Henri"
+    ],
+    "Syndic": [
+      "Pellaux Armand"
+    ],
+    "Municipaux": [
+      "Vulliemin John",
+      "Miéville Constant",
+      "Miéville Jean",
+      "Duvoisin William",
+      "Vulliamoz Maurice",
+      "Pellaux Jean",
+      "Miéville Alfred",
+      "Magnenat François"
+    ],
+    "Agriculteurs": [
+      "Bettex-Richardet Victor",
+      "Chevalley Edouard",
+      "Chevalley Julien",
+      "Chevalley Louis",
+      "Courvoisier Auguste",
+      "Cruchet frères",
+      "Cruchet Jean",
+      "Cuche John",
+      "Duvoisin William",
+      "Henry frères",
+      "Magnenaz frères",
+      "Miéville Hri et Maurice",
+      "Miéville frères",
+      "Miéville Aimé",
+      "Miéville, hoirs d'Aug.",
+      "Miéville John",
+      "Pellaux Armand",
+      "Pellaux Auguste",
+      "Pellaux Ls",
+      "Richardet frères",
+      "Vulliemin Maurice",
+      "Vulliemin Eugène",
+      "Vulliemin François",
+      "Vulliemin John",
+      "Vulliemin frères",
+      "Vulliemin Robert"
+    ],
+    "Aubergistes": [
+      "Cuche John",
+      "Jaquier Edouard"
+    ],
+    "Charpentier": [
+      "Roulier Jules et fils"
+    ],
+    "Charron": [
+      "Vittoz Henri"
+    ],
+    "Commission scolaire": [
+      "Richardet Gustave",
+      "Vernez Louis",
+      "Miéville Alfred",
+      "Miéville John"
+    ],
+    "Cordonnier": [
+      "Despland Léon"
+    ],
+    "Epiceries": [
+      "Ottonin Henri. R.",
+      "Vulliamy-Laurent, Mme."
+    ],
+    "Inspecteur du bétail": [
+      "Miéville Hri"
+    ]
+  },
+  "PRAHINS": {
+    "Autorités communales": [
+      "Jaquier Léon",
+      "Waridel Jules.."
+    ],
+    "Syndic": [
+      "Jaquiéry Aimé"
+    ],
+    "Municipaux": [
+      "Bovay Armand",
+      "Pittet Charles",
+      "Waridel Robert",
+      "Héritier Ernest",
+      "Peytrignet Aimé",
+      "Héritier Georges"
+    ],
+    "Agriculteurs": [
+      "Bovay Armand et Ulysse",
+      "Courvoisier William",
+      "Freymond Victor",
+      "Cosandey Ami",
+      "Héritier frères",
+      "Jaggi Fritz",
+      "Jaquier Léon",
+      "Jaquier Robert",
+      "Jaquiéry Louis",
+      "Pittet Louis",
+      "Waridel Jules",
+      "Waridel Lucien",
+      "Waridel Robert"
+    ],
+    "Aubergiste": [
+      "Mercier Lucien"
+    ],
+    "Cantonnier": [
+      "Peytrignet Aimé"
+    ],
+    "Coiffeur": [
+      "Pittet Charles"
+    ],
+    "Commission scolaire": [
+      "Waridel Lucien",
+      "Jaquiéry Aimé",
+      "Pittet Albert"
+    ],
+    "Epicerie": [
+      "Jaquiéry Renée, Mme. R."
+    ],
+    "Fromage (march. de)": [
+      "Jaquier Edouard"
+    ],
+    "Inspecteur du bétail": [
+      "Waridel Lucien"
+    ],
+    "Instituteur": [
+      "Buxcel Charles"
+    ],
+    "Maréchal": [
+      "Berchier"
+    ],
+    "Poste": [
+      "Pittet Albert"
+    ],
+    "Rentier": [
+      "Jaquier Ulysse"
+    ],
+    "Sociétés": [
+      "Boucherie sociale",
+      "de laiterie. R.",
+      "du poids public. R.",
+      "du Battoir. R.",
+      "Synd. agricole. R."
+    ],
+    "Tailleuse": [
+      "Jaquiéry Elise"
+    ],
+    "Téléphoniste": [
+      "Mercier Lucien"
     ]
   }
 }

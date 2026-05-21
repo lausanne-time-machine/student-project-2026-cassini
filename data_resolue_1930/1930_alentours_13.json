@@ -1,146 +1,218 @@
 {
-  "Bex": {
+  "CHEXBRES": {
+    "Vins (march. de.)": [
+      "Amiguet frères",
+      "Goiran J.",
+      "Société viticole"
+    ],
+    "Volailles": [
+      "Haller Adolphe",
+      "Minel-Giovanna Ls."
+    ],
+    "Divers": [
+      "Buttet J.",
+      "Rauss-Coste M.",
+      "La Fonte Electrique",
+      "Sax Ida",
+      "Meier Robert"
+    ]
+  },
+  "Les Plans-sur-Bex": {
+    "Bazars": [
+      "Morerod-Moreillon",
+      "Ravy Louise"
+    ],
+    "Blanchisseries": [
+      "Grept dame",
+      "Veillon P."
+    ],
+    "Boulangeries": [
+      "Moreillon Jeanne",
+      "Veillon César"
+    ],
+    "Cafés": [
+      "Cottier Julie",
+      "Ravy Félix"
+    ],
+    "Cordonnier": [
+      "Veillon Charles, fils"
+    ],
+    "Epiceries": [
+      "Cottier Julie",
+      "Morerod-Moreillon",
+      "Ravy Louise",
+      "Veillon César"
+    ],
+    "Guides patentés": [
+      "Bernard Phil.",
+      "Marlétaz Pierre",
+      "Moreillon Armand",
+      "Veillon Adrien",
+      "Veillon Félix"
+    ],
+    "Hôtels-pensions": [
+      "Pension Marlétaz",
+      "Marlétaz, Vve de Fr.",
+      "Hôtel-Pension Tanner"
+    ],
+    "Instituteur": [
+      "Maulaz Maurice"
+    ],
+    "Poste et télégraphe": [
+      "Moreillon Maurice"
+    ],
+    "Scierie": [
+      "Marlétaz François"
+    ],
+    "Sociétés": [
+      "Soc. de la Chapelle cathol.",
+      "Ski-club « Plan-Nevé »",
+      "Fanfare « Argentine »",
+      "Société d'intérêt public"
+    ]
+  },
+  "CHESSEL": {
+    "Autorités communales": [
+      "Maurer Ulysse",
+      "Jordan Paul",
+      "Pelfini B.",
+      "Borgeaud Eug.",
+      "Clément Armand",
+      "Echenard Aloïs",
+      "Grob Aloïs",
+      "Deppen Louis",
+      "Banque Populaire Suisse"
+    ],
+    "Agriculteurs": [
+      "Clément Eugène",
+      "Deppen Félix",
+      "Deppen Gustave",
+      "Deppen Louis",
+      "Dupertuis David",
+      "Dupertuis Marc",
+      "Echenard Aloïs",
+      "Echenard Jules",
+      "Echenard Louis",
+      "Grob Edouard",
+      "Guillet Aloïs",
+      "Jordan Paul",
+      "Mathieu Oscar",
+      "Oberson Jean",
+      "Perret Gustave",
+      "Vernier Charles",
+      "Vernier Emile"
+    ],
+    "Apiculteurs": [
+      "Clément Eug.",
+      "Vernier Louis"
+    ],
+    "Architecte-entrepreneur": [
+      "Stark Frs."
+    ],
+    "Bois": [
+      "Echenard Charles"
+    ],
+    "Bureau de poste": [
+      "Borgeaud-Deppen Germaine"
+    ],
+    "Café": [
+      "Vernier Louis"
+    ],
     "Commission scolaire": [
-      "S. F. M. A.",
-      "B.-G. V.-C. et V.-B."
+      "Maurer Ulysse",
+      "Deppen Louis",
+      "Deppen Félix"
     ],
-    "Inspecteur du bétail.": [
-      "Cherix Benjamin",
-      "Nicollerat Jean fils",
-      "Cherix-Croset Félix"
+    "Electricien": [
+      "Dupertuis Marc"
     ],
-    "Instituteurs primaires.": [
-      "Aeschimann David",
-      "Destraz Henri",
-      "Gerber Jean",
-      "Maulaz L.",
-      "Rapaz Marcel",
-      "Regamey L.",
-      "Piguet Jacques",
-      "Tharin Robert"
+    "Epicerie, mercerie, tabacs": [
+      "Vernier Louis"
     ],
-    "Institutrices primaires.": [
-      "Bieler Yvonne",
-      "Amiguet Blanche",
-      "Brot Jeanne",
-      "Chevalley Marg.",
-      "Chessex Madeleine",
-      "Faillettaz Madeleine",
-      "Matthey Elisa",
-      "Pavarino Louise",
-      "Vittoz Marthe"
+    "Inspecteur du bétail": [
+      "Deppen Louis"
     ],
-    "Institutrices d'écoles particulières.": [
-      "Chevalley",
-      "Haemmerlin Lydia"
+    "Instituteurs": [
+      "Duvoisin Armand",
+      "Pilet Elise"
     ],
-    "Instituteurs secondaires.": [
-      "Noverraz Lucien",
-      "Chappuis Liliy",
-      "Nicod André",
-      "Paquier Louis",
-      "Béranger Jean"
+    "Fruits et légumes": [
+      "Borgeaud Eugène",
+      "Echenard Jules",
+      "Grob Ed.",
+      "Guillet Aloïs",
+      "Jordan Paul",
+      "Maurer Ulysse",
+      "Noyer Louis"
     ],
-    "Journaux.": [
-      "Journal de Bex",
-      "Bach Frédéric"
+    "Pépiniériste": [
+      "Echenard Charles"
     ],
-    "Justice de paix du cercle.": [
-      "Pièce Paul",
-      "Cherix-Buffat Edouard",
-      "Anex Philippe",
-      "Deslex Louis",
-      "Yosy Louis",
-      "Jaquenod Fernand",
-      "Cherix Paul"
+    "Porcherie": [
+      "Wolf Emile"
     ],
-    "Laiteries.": [
-      "Blatti André",
-      "Cherix Gabriel",
-      "Laiterie Modèle (S. A.)",
-      "Cropt H."
+    "Société": [
+      "Société de laiterie"
     ],
-    "Libraires.": [
-      "Delémont Marguerite",
-      "Meister Ed.",
-      "Rochat Philippe"
+    "Téléphone, station communale": [
+      "Vernier Louis"
     ],
-    "Lingères.": [
-      "Baud Louise",
-      "Theulaz-Meier Hulda",
-      "Pichard Susanne"
+    "Volailles": [
+      "Dumusc Paul"
+    ]
+  },
+  "CORBEYRIER": {
+    "Autorités communales": [
+      "Dubuis Alfred",
+      "Fontannaz Elie",
+      "Pelfini B.",
+      "Borloz Jules",
+      "Leyvraz Robert",
+      "Pollen Oscar",
+      "Bournoud Ernest",
+      "Dubuis Alf.",
+      "Pollen Aug.",
+      "Tauxe Alfred"
     ],
-    "Lingerie.": [
-      "Ronchi-Berger Marie"
+    "Agriculteurs": [
+      "Ansermoz Eugène",
+      "Bertholet Alexis",
+      "Bonzon Louis",
+      "Bonzon François",
+      "Borloz Alphonse",
+      "Borloz Constant",
+      "Borloz-Sauge Henriette",
+      "Boven Auguste",
+      "Bournoud hoirs d'Hri",
+      "Bournoud Aug.",
+      "Dubuis Alf.",
+      "Leyvraz Numa",
+      "Leyvraz Paul",
+      "Navioz Frédéric",
+      "Nicollier Robert",
+      "Pollen Oscar"
     ],
-    "Liquoriste.": [
-      "Borel Marguerite"
+    "Appareilleur": [
+      "Cropt Henri"
     ],
-    "Machines à coudre.": [
-      "Gillard Luc"
+    "Blanchisseries": [
+      "Cropt Emilie",
+      "Cropt Emma",
+      "Sauge Eugénie"
     ],
-    "Machines parlantes.": [
-      "Gillard Luc"
+    "Boulanger": [
+      "Bertholet Félix"
     ],
-    "Marbrier.": [
-      "Pichard Alexis"
+    "Cafés": [
+      "Bournoud Adolphe",
+      "Stiller E."
     ],
-    "Maréchaux.": [
-      "Chappot Jos.",
-      "Dugon Charles",
-      "Lauraux Emile"
-    ],
-    "Matelassière.": [
-      "Turrian-Muff Angeline"
-    ],
-    "Mécaniciens.": [
-      "de Siebenthal H.",
-      "Gillard Lucien",
-      "Rahm Emile",
-      "Viscardi & Cie",
-      "Viscardi Achille"
-    ],
-    "Médecins.": [
-      "Crisinel Louis",
-      "Chollet R.",
-      "Petitpierre L.",
-      "Vuilleumier Henri"
-    ],
-    "Menuisiers.": [
-      "Aellen G.",
-      "Beranek Marcel",
-      "Deléchat Ern.",
-      "Matthey Aug.",
-      "Ruef J.",
-      "Santagiuliana Ls",
-      "Stauber Ls"
-    ],
-    "Mercerie.": [
-      "Au Louvre (Nouvelles Galeries, S. A.)",
-      "Binder Frédéric",
-      "Chamorel Eugène",
-      "Desplands A.",
-      "Hinden-Deneréaz Julie",
-      "Mages Aline",
-      "Ronchi-Berger Marie"
-    ],
-    "Métallurgie.": [
-      "La Fonte Electrique S. A.)",
-      "Rayss Maur."
-    ],
-    "Meuniers.": [
-      "Grands Moulins d'Aigle Sutter frères",
-      "Schiller Hermann"
-    ],
-    "Modistes.": [
-      "Boll Eug."
-    ],
-    "Musique (prof. de).": [
-      "Bocherens-Cherix Jeanne",
-      "Borel Edith",
-      "Borel Eugénie",
-      "Borel-Morel Marguerite",
-      "Ronca"
+    "Chalets à louer": [
+      "Leyvraz Hri",
+      "Lambert H.",
+      "Tidey-Stuart",
+      "Chalet Fuhrer Ch.",
+      "Michaud D."
     ]
   }
 }

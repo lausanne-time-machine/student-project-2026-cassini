@@ -1,217 +1,241 @@
 {
-  "VALLORBE": {
-    "Banques": [
-      "Banque canton. vaudoise",
-      "Martin Eugène",
-      "Crédit Foncier et Caisse d'Epargne cantonale",
-      "Matthey Auguste",
-      "Union Vaudoise du Crédit",
-      "Jaillet Gustave"
+  "ECUBLENS": {
+    "Justice de paix": [
+      "Ecublens",
+      "Denges",
+      "St-Sulpice",
+      "Bussigny",
+      "Lonay"
     ],
-    "Bazar": [
-      "Friedrich Henri"
+    "Maréchaux.": [
+      "Job",
+      "Ruchat Fritz"
     ],
-    "Bétail (march. de)": [
-      "Goy François",
-      "Grivaz Baptiste",
-      "Indermühle Jules",
-      "Merminod Louis"
+    "Mécanicien.": [
+      "Petit Henri"
     ],
-    "Bière": [
-      "Nardi Antoine",
-      "Fertig frères (S.A.)"
+    "Menuisier.": [
+      "Radice Emile"
     ],
-    "Bijoutier": [
-      "Girardet Paul"
+    "Officier d'état-civil.": [
+      "Ducret Franc."
     ],
-    "Blanchisseuses-repasseuses": [
-      "Falcy. dame",
-      "Goy Constance",
-      "Goy. dame",
-      "Schlæppi. dame",
-      "Zuttel. dame"
+    "Pasteurs.": [
+      "Gaillard Charles",
+      "Rumpf Charles"
     ],
-    "Bois (march. de)": [
-      "Collet Jules",
-      "Indermühle Js."
+    "Pensions.": [
+      "Bæchler Ida",
+      "Masson Louise",
+      "Krieg, Mme",
+      "Valet Louisa, Mlle"
     ],
-    "Boisselier": [
-      "Laffely E."
+    "Poste.": [
+      "Jaquenoud A."
     ],
-    "Bouchers": [
-      "Blanchong Félicien",
-      "Etter Emile",
-      "Michod P."
+    "Poste de police.": [
+      "Fivaz César"
     ],
-    "Boulangers-pâtissiers": [
-      "Apothéloz Marius",
-      "Société coopérative de consommation",
-      "Grobéty-Truan Samuel",
-      "Vallotton-Weigeli Hri.",
-      "Wegmuller Rod."
+    "Représentant.": [
+      "Masson Ernest"
     ],
-    "Brevets d'invention": [
-      "L. Flesch",
-      "Pahud J.-D."
+    "Sellier.": [
+      "Martin Louis"
     ],
-    "Bûcherons": [
-      "Dally Alfred & Bolomey Ulysse",
-      "Maulaz S.",
-      "Salvi Louis-Arthur"
+    "Sociétés.": [
+      "du Battoir à grains",
+      "de laiterie du Pontet et Renges",
+      "Bibliothèque",
+      "Assurance du bétail",
+      "Tir",
+      "Patriotes d'Ecublens",
+      "Chant",
+      "Syndicat agric.",
+      "de gymnastique",
+      "Union chrétienne",
+      "Chœur d'hommes",
+      "de développement",
+      "du battoir"
     ],
-    "Buraliste postal": [
-      "Matthey Eug."
+    "Tailleuse.": [
+      "Grand Aline"
     ],
-    "Cafés": [
-      "Anderegg Cécile",
-      "Albicker Christian",
-      "Vautravers Louis",
-      "Duvoisin Louisa",
-      "Geiger Aug.",
-      "Indermühle Georges",
-      "Indermühle Jules",
-      "Jaillet-Dupuis A.",
-      "Michot-Viret Jules",
-      "Nicolet Emile",
-      "Ramel Louis",
-      "Rascol René",
-      "Roux Marie",
-      "Sala Lina",
-      "Truan André",
-      "Vallotton Eug.",
-      "Zellweger-Regamey, dame et Dlle."
+    "Téléphone (stat. commun.).": [
+      "Mingard Octave",
+      "Musy Emile"
     ],
-    "Café-chocolat": [
-      "Kölliker Ruth"
+    "Divers.": [
+      "Bonzon Louis",
+      "Ducret Elie",
+      "Matthey Louis"
+    ]
+  },
+  "ETOY": {
+    "Autorités communales.": [
+      "Magnollay Ernest",
+      "Buclin Gustave"
     ],
-    "Caisses (fabrique de)": [
-      "Comptoir de bois. S. A."
+    "Syndic": [
+      "Giriens Henri"
     ],
-    "Cercueils": [
-      "Paccaud Emile"
+    "Municipaux": [
+      "Rochat Lucien",
+      "Merminod Ch.",
+      "Giriens Albert",
+      "Lapalud François",
+      "Corthay Alfred",
+      "Buclin A."
     ],
-    "Cercle": [
-      "Cercle de Vallorbe",
-      "Morerod Robert"
+    "Agriculteurs.": [
+      "Bähni Gustave",
+      "Berger Jules",
+      "Buchet Marcel",
+      "Buchet Auguste",
+      "Buchet Vve",
+      "Buchet Vve",
+      "Buchet Julien",
+      "Buchet François",
+      "Buchet Hri",
+      "Buchet Maurice",
+      "Buclin Auguste",
+      "Bonzon Jules",
+      "Charmasson Louis",
+      "Corthay Alexandre",
+      "Corthay Louis",
+      "Corthay frères",
+      "Favre Maurice",
+      "Giriens Ch.",
+      "Giriens Gustave",
+      "Giriens Henri",
+      "Giriens Lucien",
+      "Jaquet Louis",
+      "Joyet Louis",
+      "Lapalud François",
+      "Magnollay Ernest",
+      "Magnollay Fs",
+      "Magnollay Louis",
+      "Pasche Emile",
+      "Perroud Vve",
+      "Richoz Pierre",
+      "Rochat Lucien",
+      "Thury"
     ],
-    "Charcuteries": [
-      "Blanchong Félicien",
-      "Etter Emile",
-      "Indermühle Jules",
-      "Michod Paul",
-      "Truan Fritz"
+    "Appareilleur.": [
+      "Dutoit Paul"
     ],
-    "Charpentiers": [
-      "Addor Jules & Cie",
-      "Ryser fils"
+    "Asiles de l'Espérance.": [
+      "Buchet Charlotte",
+      "Buchet Amélie",
+      "Wuilleumier Georges"
     ],
-    "Charrons": [
-      "Ruegger Albert, père",
-      "Ruegger Albert, fils",
-      "Schmucki-Lugrin Albert"
+    "Assurance cantonale contre l'incendie.": [
+      "Giriens Henri"
     ],
-    "Chaussures": [
-      "Estoppey-Truan. R.",
-      "Ferreux L.",
-      "Soc. coopérative de consommation"
+    "Mutualité scolaire de retraite.": [
+      "Anken L."
     ],
-    "Chaux hydraulique (fab. de)": [
-      "Société des usines des Grands Crêts",
-      "Glardon Alfred"
+    "Société mutualiste de retraite.": [
+      "Buclin Gust."
     ],
-    "Chef de gare": [
-      "Beguelin Alfred"
+    "Aubergistes.": [
+      "Overnay Emile",
+      "Henry, Vve"
     ],
-    "Chef de section": [
+    "Boisselier.": [
+      "Gentizon Henri"
+    ],
+    "Bouchers.": [
+      "Bohren Louis",
+      "Renevier Emile"
+    ],
+    "Boulangers-pâtissiers.": [
+      "Cavin Emile",
+      "Gossweiler Albert"
+    ],
+    "Briqueterie.": [
+      "Stouky Fritz"
+    ],
+    "Charpentier.": [
       "Golay Jules"
     ],
-    "Chiffons": [
-      "Fédi Pierre"
+    "Charron.": [
+      "Nidecker Frédéric"
     ],
-    "Cigares et tabacs": [
-      "Friedrich Henri",
-      "Estoppey-Truan. R.",
-      "Falcy-Auberson J.",
-      "Girardet P.",
-      "Jaques-Jaccard Ch.",
-      "Malley Marguerite, Vve."
+    "Chiffons.": [
+      "Cadestin Auguste"
     ],
-    "Ciment (march. de)": [
-      "Grobéty Adr.",
-      "Société des usines des Grands Crêts"
+    "Commission scolaire.": [
+      "Chapuis Paul",
+      "Garin Henri"
     ],
-    "Clous et chaines (fab. de)": [
-      "Vallotton Adr."
+    "Distillateurs.": [
+      "Giriens Charles & Corthay Ernest"
     ],
-    "Coiffeurs": [
-      "Cerf Jean",
-      "Cottier Charles",
-      "Ferraglia Marg. (dames)",
-      "Girardet P. R.",
-      "Mantz A.",
-      "Oulevay Ch., Mme (dames)",
-      "Ringgenberg Alice (dames)",
-      "Ringgenberg Werner"
+    "Engrais chimiques Martigny.": [
+      "Giriens Henri"
     ],
-    "Combustibles": [
-      "Jaquet William",
-      "Société coopérative de consommation"
+    "Entrepreneurs.": [
+      "Bordini & Monsciani",
+      "Martinella Joseph"
     ],
-    "Commission scolaire": [
-      "Kampmann André Dr",
-      "Morerod R.",
-      "Jaillet-Combe. Mme.",
-      "Jaquet Henri",
-      "Martin Marcel",
-      "Martin Henri",
-      "Glardon de Riaz (dame)"
+    "Epicerie.": [
+      "Beyvin-Baud Ph.",
+      "Cavin Emile",
+      "Gossweiler Albert",
+      "Pion, Vve",
+      "Richard A."
     ],
-    "Confections": [
-      "Genier Paul",
-      "Locher Adolphe",
-      "Matthey Léa",
-      "Maus frères & Cie",
-      "Roy Emile"
+    "Ferblantier.": [
+      "Dutoit Paul"
     ],
-    "Confiseur-pâtissier": [
-      "Voir Boulangers"
+    "Inspecteur du bétail.": [
+      "Berger Jules"
     ],
-    "Cordonniers": [
-      "Buffo Bernard",
-      "Cerf Louis",
-      "Giommoni Eugène",
-      "Mingard F.",
-      "Margaroli",
-      "Monticelli Attilio"
+    "Instituteurs.": [
+      "Anken Louis",
+      "Mayor Juliette"
     ],
-    "Constructeur": [
-      "Jaquet-Lamy L."
+    "Jardiniers.": [
+      "Garin Henri",
+      "Köhli Frédéric"
     ],
-    "Coutellerie": [
-      "Jaquet S. & H. (S. A.)",
-      "Leresche & Cie"
+    "Laitier.": [
+      "Ramseyer Ch."
     ],
-    "Curé": [
-      "Jaquet A."
+    "Maréchal.": [
+      "Corthay Ernest"
     ],
-    "Cycles et autos": [
-      "Béguin Emile",
-      "Bruni Constant",
-      "Lambrigger Antoine",
-      "Roy Jules"
+    "Pasteur.": [
+      "Vittoz Georges"
     ],
-    "Dentistes": [
-      "Dupuis César",
-      "Pautex Jean"
+    "Pension.": [
+      "Du Mont, Dlle"
     ],
-    "Diction": [
-      "Jaillet Aimée"
+    "Pépiniéristes.": [
+      "Lapalud Alexandre",
+      "Rochat Charles"
     ],
-    "Douanes suisses": [
-      "Rochat"
+    "Poste.": [
+      "Buchet Hélène",
+      "Buclin Gustave"
     ],
-    "Eaux gazeuses et liqueurs": [
-      "Magnenat-Truan Ch."
+    "Représentant.": [
+      "Magnollay Ernest"
+    ],
+    "Scierie.": [
+      "Giriens Lucien"
+    ],
+    "Sociétés.": [
+      "Anonyme du Battoir à grain",
+      "Fromagerie « La Centrale »",
+      "Section de la Croix-Bleue",
+      "Abbaye de la St-Jacques d'Etoy",
+      "Tir aux armes de guerre d'Etoy",
+      "de gymnastique",
+      "chant, La Concorde"
+    ],
+    "Tailleuse.": [
+      "Meylan Emma"
     ]
   }
 }

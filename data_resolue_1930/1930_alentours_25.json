@@ -1,190 +1,196 @@
 {
-  "Le Brassus": {
-    "Bois (march. de)": [
-      "Golay Albert",
-      "Golay Henri",
-      "Meylan Henri",
-      "Meylan Pl-David",
-      "Meylan Henri-Samuel",
-      "Scierie Electrique du Brassus, S. A."
+  "ORMONT-DESSOUS": {
+    "Couture (maîtresses de)": [
+      "Tenthorey Elisa",
+      "Cretegny-Berney Germaine",
+      "Dupertuis-Vurlod Lydie",
+      "Mottier-Tille Elise",
+      "Ginier Berthe",
+      "Tille-Mottier Rose"
     ],
-    "Bouchers": [
-      "Rochat-Berney Louis",
-      "Piguet Paul"
+    "Couturières": [
+      "Ansermet Madeleine",
+      "Borloz Elise",
+      "Burnier-Vurlod Cécile",
+      "Hubert Rose"
     ],
-    "Boulangers-pâtissiers": [
-      "Nicole François",
-      "Renaud Albert"
+    "Couvreurs": [
+      "Dupertuis Constant",
+      "Mattélon",
+      "Oguey Auguste",
+      "Oguey Jules"
     ],
-    "Caisses d'emballage": [
-      "Dautaz-Arbez"
+    "Entrepreneurs": [
+      "Carando Jaques",
+      "Guanzini Jean",
+      "Jelmoli Jean",
+      "Oguey Auguste"
     ],
-    "Camionneur": [
-      "Audemars Henri",
-      "Meylan Henri-Sam."
+    "Epiceries": [
+      "Bonzon Charles",
+      "Borloz-Monod Lydie",
+      "Ginier sœurs",
+      "Guex Léa",
+      "Hubert Célina",
+      "Société coopérative",
+      "Hubert, hoirs",
+      "Hubert-Ziegler, Vve",
+      "Pernollet François fils",
+      "Pernollet Paul",
+      "Pittet Rosalie",
+      "Genton Henri",
+      "Tille John"
     ],
-    "Cercueils": [
-      "Guignard"
+    "Etoffes et mercerie": [
+      "Ginier sœurs",
+      "Hubert, Vve",
+      "Borloz-Monod Lydie",
+      "Pernollet Paul"
     ],
-    "Charcutiers": [
-      "Coopérative Brassus",
-      "Guignard-Reymond Ls",
-      "Piguet Paul",
-      "Rochat-Berney Ls"
+    "Farines": [
+      "Bonzon Charles",
+      "Dupertuis Jules-Edouard",
+      "Dupertuis Constant",
+      "Ginier sœurs",
+      "Monod Jules"
     ],
-    "Charpentiers": [
-      "Berney Hri",
-      "Bodenmann Jacob",
-      "Golay François",
-      "Meylan-Lecoultre Henri, hoirie",
-      "Nicole-Besson Em.",
-      "Piguet Alfred",
-      "Zaberli Edmond"
+    "Fers et métaux": [
+      "Bonzon Charles",
+      "Hubert Jules, Veuve",
+      "Pernollet Paul"
     ],
-    "Charrons": [
-      "Zaberli Jean & fils"
+    "Fondeur": [
+      "Ginier Alexis"
     ],
-    "Chasseurs": [
-      "Golay Henri",
-      "Piguet Alb.",
-      "Piguet Edouard",
-      "Rochat Henri",
-      "Rochat Charles",
-      "Rochat Louis"
+    "Gardes-forestiers": [
+      "Hubert Arthur",
+      "Morex Alfred",
+      "Tavernier Constant"
     ],
-    "Chaussures": [
-      "Berney & Cie",
-      "Coopérative du Brassus",
-      "Meylan Edmond"
+    "Home pour enfants": [
+      "Tcherdyuzeff-Aviolat Sylvie"
     ],
-    "Chef de gare": [
-      "Golay Elisée"
+    "Hôtels et pensions": [
+      "Hôtel des Alpes",
+      "Chenaux Henri",
+      "Hôtel-Pension du Col",
+      "Genton Hri",
+      "Hôtel du Cerf",
+      "Muller Jean",
+      "Hôtel du Mont-d'Or",
+      "Tenthorey Henri",
+      "Hôtel de la Couronne"
     ],
-    "Coiffeurs-parfumeurs": [
-      "Pasche Elisabeth",
-      "Piguet-Goy Marguerite"
-    ],
-    "Comestibles": [
-      "Coopérative",
-      "Capt Auguste",
-      "Dalloz Eugène",
-      "Guignard Ls",
-      "Golay Edouard",
-      "Meylan-Leresche Henri-François",
-      "Meylan-Rochat M.",
-      "Nicole François"
-    ],
-    "Cordonniers": [
-      "Eggmann Jean",
-      "Heitzmann Eug.-François",
-      "Monnier Edgar",
-      "Bartholomé J."
-    ],
-    "Couturières et tailleuses": [
-      "Aubert Ernestine",
-      "Capt Marguerite",
-      "Capt Julie",
-      "Capt-Meylan Hélène",
-      "Piguet Amélie",
-      "Robert Elise"
-    ],
-    "Distillateur": [
-      "Dalloz Eugène"
-    ],
-    "Entrepreneurs (maçons, terrassiers et charpentiers)": [
-      "Aubert Albert",
-      "Berney Henri",
-      "Bianchi Angelo",
-      "Bianchi J. & L.",
-      "Bodenmann",
-      "Magni frères",
-      "Meylan Henri, hoirie",
-      "Molteni Jean",
-      "Pesenti Ls",
-      "Pesenti Pierre",
-      "Pironi frères",
-      "Valceschini Joseph",
-      "Valet Nestor"
-    ],
-    "Epicerie": [
-      "Berney & Cie",
-      "Golay Edouard",
-      "Guignard-Reymond L.",
-      "Meylan-Leresche Henri-François",
-      "Nicole François",
-      "Piguet Mina",
-      "Coopérative"
-    ],
-    "Etoffes": [
-      "Berney & Cie",
-      "Coopérative",
-      "Piguet Mina"
-    ],
-    "Ferblantier": [
-      "Albertano P."
-    ],
-    "Fers (march. de)": [
-      "Berney & Cie"
-    ],
-    "Forestiers": [
-      "Golay Ch.-Ami",
-      "Meylan Alexis",
-      "Meylan Jules",
-      "Meylan Jules",
-      "Meylan Samuel",
-      "Pillichody",
-      "Guignard Edouard",
-      "Vullioud Louis"
-    ],
-    "Fromages (march. de)": [
-      "Audemars, Louis",
-      "Coopérative",
-      "Meylan Henri-Samuel",
-      "Société de Laiterie"
-    ],
-    "Gypsier-peintre": [
-      "Golay Gabriel"
-    ],
-    "Hôtels-pensions": [
-      "Brahier E.",
-      "Jaquenoud Laurent",
-      "Jotterand Ulrich"
+    "Imprimeur": [
+      "Pichard Jules"
     ],
     "Inspecteurs du bétail": [
-      "Golay Jean",
-      "Goy Georges-Hri"
+      "Chenaux Hri",
+      "Vurlod Constant",
+      "Vurloz Alexis"
     ],
     "Instituteurs": [
-      "Cornaz Gustave",
-      "Reymond Maurice",
-      "Cretin-Logoz Yvonne",
-      "Golay Lucile",
-      "Lecoultre Marie",
-      "Golay-Schwar Nelly"
+      "Berthoud Alexandre",
+      "Fontannaz Julien",
+      "Lambercy Eugène",
+      "Dupraz Gabriel",
+      "Baudat Henri",
+      "Jomini André"
     ],
-    "Laitier": [
-      "Société de laiterie"
+    "Institutrices": [
+      "Tenthorey-Braissant Elisa",
+      "Cretegny-Berney Germ."
     ],
-    "Librairies": [
-      "Golay Edouard",
-      "Meylan-Leresche Hri-François"
+    "Journal": [
+      "Echo de la Montagne"
     ],
-    "Lingerie": [
-      "Meylan M."
+    "Justice de paix": [
+      "Mottier Ele",
+      "Mermod Ernest",
+      "Oguey Aloïs",
+      "Oguey-Dufresne Jules",
+      "Morex Alf.",
+      "Mermod Félix"
+    ],
+    "Maçons": [
+      "Grosjaques Antoine",
+      "Guanzini Jean",
+      "Jelmoli Jean",
+      "Oguey Auguste"
     ],
     "Maréchaux": [
-      "Meylan Henri",
-      "Thévoz Robert"
+      "Girod Aloïs",
+      "Nicolier Albert",
+      "Oguey Jules"
     ],
     "Mécaniciens": [
-      "Meylan Paul-Alfred",
-      "Piguet Marius"
+      "Nicolier Albert",
+      "Oguey Jules"
     ],
-    "Menuisiers-ébénistes": [
-      "Berney Hri",
-      "Bodenmann Jacob",
-      "Meylan-Lecoultre, hoirie",
-      "Piguet Alfred"
+    "Menuisiers": [
+      "Bonzon-Tille Jules",
+      "Combaz",
+      "Monod Olivier",
+      "Tauxe Constant"
+    ],
+    "Négociants (mercerie, épicerie, etc.)": [
+      "Bonzon Charles",
+      "Genton Henri",
+      "Guex-Dufresne Léa",
+      "Hubert-Tavernier Aug.",
+      "Hubert, Vve de Jules",
+      "Hubert-Ziegler, Vve",
+      "Pittet Rosalie",
+      "Pernollet François",
+      "Pernollet Paul",
+      "Société coopérative"
+    ],
+    "Notaire": [
+      "Chablaix Paul"
+    ],
+    "Officier d'état-civil": [
+      "Monod Alfred"
+    ],
+    "Pasteurs": [
+      "Vacat",
+      "Vittoz Robert"
+    ],
+    "Pension (voir Hôtels)": [
+      "Tcherdyuzeff-Aviolat G."
+    ],
+    "Postes et télégraphes": [
+      "Ginier Alfred",
+      "Hubert-Ziegler, Vve",
+      "Burlet-Mermod",
+      "Tille Jules",
+      "Ansermet Mme"
+    ],
+    "Quincaillerie": [
+      "Bonzon Charles",
+      "Hubert Jules, Veuve",
+      "Pernollet Paul"
+    ],
+    "Scieurs": [
+      "Durgniat Auguste",
+      "Durgniat Marcel",
+      "Mottier Emile",
+      "Vurlod Vinc."
+    ],
+    "Sellier-tapissier": [
+      "Mermod Alfred"
+    ],
+    "Sociétés": [
+      "Caisse de Crédit Mutuel",
+      "Société du tir libre à Ormont-Dessous",
+      "Société des fromageries de Pertuis",
+      "Société des Carabiniers libres des Alpes",
+      "Soc. du Cordon-Rouge",
+      "Syndicat agricole",
+      "Société de tir aux armes de guerre",
+      "Section de la Croix-Bleue",
+      "Société coopérative",
+      "Société d'agriculture",
+      "Syndicat d'élevage"
     ]
   }
 }

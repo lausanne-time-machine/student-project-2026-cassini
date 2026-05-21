@@ -1,189 +1,238 @@
 {
-  "RENNAZ": {
-    "Pensionnats": [
-      "Ramel Louisa",
-      "Reber Ern.",
-      "Tille-Berruex Frida",
-      "Vittoz Noëlle",
-      "Zemp Anna",
-      "Nicolier, hoirie d'Emile"
+  "Leysin": {
+    "Agriculteurs": [
+      "Bize Louis",
+      "Chappuis Emile",
+      "Clot frères",
+      "Clot Adolphe",
+      "Corthésy Fern.",
+      "Corthésy Henri",
+      "Corthésy René",
+      "Dubois Emile",
+      "Jaquees Emile",
+      "Jaton Hrmance",
+      "Paccaud Héli",
+      "Paccaud Henri",
+      "Paccaud Const.",
+      "Paccaud Félix",
+      "Paccaud Oscar",
+      "Pichonnat David. T.",
+      "Zahnd Albert"
     ],
-    "Charpentiers": [
-      "Jordan Henri",
-      "Perreten Alfred",
-      "Perreten-Moulin Victor",
-      "Perreten John"
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Duc J."
     ],
-    "Chefs de gare à l'A. S. D.": [
-      "Jaquerod John T",
-      "Pernet-Tille, Suzanne"
+    "Bétail (march. de)": [
+      "Germond Félix",
+      "Pichonnat Ed."
     ],
-    "Chef de section": [
-      "Busset Edouard"
+    "Café": [
+      "Germond Félix"
+    ],
+    "Charpentier-menuisier": [
+      "Pasche Is."
+    ],
+    "Charron": [
+      "Paccaud Alfred"
     ],
     "Commission scolaire": [
-      "Tille Jules",
-      "Busset Eugène"
+      "Paccaud Henri",
+      "Pacacud Octave"
     ],
-    "Cordonniers": [
-      "Fromentin Auguste",
-      "Nicolier Jules"
+    "Entrepreneur en maçonnerie": [
+      "Protti Paul"
     ],
-    "Couturières": [
-      "Nicolier-Gallaz Laure",
-      "Nicolier Louisa",
-      "Roch-Jordan Susanne"
+    "Epiceries": [
+      "Mägerli Emile",
+      "Paccaud Adolphe"
     ],
-    "Electricien": [
-      "Masson Maurice"
+    "Inspecteur du bétail": [
+      "Paccaud Héli"
     ],
-    "Entrepreneurs-maçons": [
-      "Monacco Jacques"
+    "Instituteur": [
+      "Duc Jean"
     ],
-    "Epiciers": [
-      "Dufresne Frida",
-      "Favre Olivier",
-      "Girod Armand",
-      "Favre-Isabel Emile",
-      "Moillen-Pichard Fanny",
-      "Nicolier, Veuve d'Auguste",
-      "Pernet-Morerod Armand",
-      "Société coopérative générale de consommation"
+    "Menuisier": [
+      "Dubois Prosper"
     ],
-    "Etoffes": [
-      "Dufresne Edmond",
-      "Favre Olivier",
-      "Moillen, hoirs d'Emile"
+    "Poste de gendarmerie": [
+      "Perriraz Jules"
     ],
-    "Géomètre": [
-      "Busset Eug."
+    "Poste": [
+      "Poras Alice"
     ],
-    "Guides": [
-      "Reber Ernest",
-      "Jordan Paul",
-      "Pernet Armand",
-      "Reber Albert"
-    ],
-    "Horlogers": [
-      "Berruex Alexis",
-      "Genillard Alexandre"
-    ],
-    "Hôtels (maîtres d')": [
-      "Pichard Franck",
-      "Buchs F.",
-      "Henchoz Robert",
-      "Morex-Tille, hoirie",
-      "Schneiter-Pellet Paul",
-      "Perrochon, hoirs",
-      "Wursten-Moillen Samuel"
-    ],
-    "Inspecteurs du bétail": [
-      "Genillard Emile",
-      "Jaquerod Vincent"
-    ],
-    "Instituteurs": [
-      "Badan Marcel",
-      "Chapalay Ct.",
-      "Henchoz Georges",
-      "Beauverd Fernand",
-      "Beauverd Berthold",
-      "Oguey Louise"
-    ],
-    "Justice de paix": [
-      "Busset Emile",
-      "Nicolier Alex.",
-      "Pichard-Morerod Jules",
-      "Favre Robert",
-      "Treina-Jaquerod Georges",
-      "Pichard Henri",
-      "Corboz Louis"
-    ],
-    "Maréchaux": [
-      "Ansermet Auguste"
-    ],
-    "Médecin": [
-      "Mündler Ernest"
-    ],
-    "Menuisiers": [
-      "Perreten Emmanuel",
-      "Perreten John",
-      "Perreten Victor"
-    ],
-    "Mercerie": [
-      "Bonzon Jules",
-      "Favre Olivier",
-      "Favre-Isabel Emile",
-      "Moillen-Pichard Fanny",
-      "Nicolier, Vve d'Auguste",
-      "Pernet-Morerod A. R."
-    ],
-    "Officier d'état-civil": [
-      "Chapalay Constant",
-      "Busset Emile"
-    ],
-    "Pasteurs": [
-      "Grellet Francis",
-      "Laufer Maurice"
-    ],
-    "Pensions d'été": [
-      "Pichard-Busset Frank",
-      "Busset Eugène",
-      "Pension Jolimont",
-      "Pension du Mousion",
-      "Pension Victoria",
-      "Henchoz Robert",
-      "Chalet suisse",
-      "La Printanière",
-      "Moillen C."
-    ],
-    "Photographie (appareils)": [
-      "Decaux Gustave",
-      "Zürcher Alfred"
-    ],
-    "Poste (dép. de)": [
-      "Tille Jules"
-    ],
-    "Scieurs": [
-      "Busset frères",
-      "Henchoz Robert",
-      "Jordan Hri",
-      "Perreten Victor",
-      "Tille Jules",
-      "Treina Georges"
+    "Sellier": [
+      "Paccaud Henri"
     ],
     "Sociétés": [
-      "Stand des Diablerets",
-      "Association immobilière des Jeans",
-      "Fromagerie du Plan",
-      "du Cordon-Vert",
-      "du Cordon Rouge et Vert",
-      "Syndicat agricole des Diablerets",
-      "Syndicat agricole Ormonts-dessus",
-      "Militaire de tir aux armes de guerre",
-      "de la Sentinelle",
-      "de chant l'Echo des Diablerets",
-      "L'Instrumentale des Diablerets",
-      "Section de la Croix-Bleue",
-      "de la cabane des Diablerets",
-      "Corporation de la Montagne de Marnex",
-      "de chant « La Chorale des Diablerets »",
-      "de chant Chœur mixte « L'Avenir »",
-      "Ski-Club des Diablerets",
-      "Ski-Club « Meilleret »",
-      "Sporting-Club des Diablerets"
+      "de fromagerie",
+      "Syndicat d'élevage"
     ],
     "Téléphoniste": [
-      "Tille Alexis"
+      "Germond Félix"
+    ]
+  },
+  "ROSSENGES": {
+    "Autorités communales": [
+      "Burger Charles",
+      "Débaz Charles",
+      "Débaz Ulysse",
+      "Débaz Robert",
+      "Morel Ulysse",
+      "Burger Charles",
+      "Isely Gustave",
+      "Morel Ulysse"
     ],
-    "Télégraphistes": [
-      "Gallaz Emmanuel",
-      "Bureau de postes"
+    "Agriculteurs": [
+      "Burger Léon",
+      "Débaz Robert",
+      "Débaz Ulrich",
+      "Dutoit Louis",
+      "Hegg Louis",
+      "Métraux Jules",
+      "Morel Francis",
+      "Morel Ulysse",
+      "Pulver Rodolphe"
     ],
-    "Voituriers": [
-      "Buchs, hoirie de Fritz",
-      "Pichard Alexis",
-      "Treina Georges",
-      "Treina Marcel"
+    "Inspecteur du bétail": [
+      "Burger Charles"
+    ],
+    "Institutrice": [
+      "Maury Madeleine"
+    ],
+    "Sociétés": [
+      "Abbaye de Syens et Rossenges",
+      "de laiterie"
+    ],
+    "Divers": [
+      "Isely Gustave"
+    ],
+    "Observatoire du Jorat": [
+      "Observatoire du Jorat"
+    ]
+  },
+  "SAINT-CIERGES": {
+    "Autorités communales": [
+      "Freymond Arth.",
+      "Dind Armand",
+      "Dind Maurice",
+      "Dind Paul",
+      "Freymond Ami",
+      "Freymond Jean",
+      "Corrençon",
+      "Pahud Henri-Louis",
+      "Dind Némorin",
+      "Heenry Paul",
+      "Pahud René"
+    ],
+    "Agriculteurs": [
+      "Dind Maurice",
+      "Dind Samuel",
+      "Freymond Arth.",
+      "Freymond Henri",
+      "Freymond Jean",
+      "Freymond Julien",
+      "Freymond Héli-Constant",
+      "Freymond-Dind Jules",
+      "Freymond Jean-Eugène",
+      "Freymond Ami",
+      "Freymond Alphonse",
+      "Genier Alcide",
+      "Genier Paul",
+      "Nobs frères",
+      "Pasche John"
+    ],
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Willenegger J.",
+      "Société mutualiste de retraite",
+      "Dind Armand"
+    ],
+    "Battoir à blé": [
+      "Commune de Saint-Cierges"
+    ],
+    "Boulanger": [
+      "Bovay Gustave"
+    ],
+    "Cafés": [
+      "Pasche Paul",
+      "Grin Léon"
+    ],
+    "Charron": [
+      "Dind Armand"
+    ],
+    "Commission scolaire": [
+      "Murset",
+      "Pahud Henri"
+    ],
+    "Electricien": [
+      "Versel Reynold"
+    ],
+    "Epicerie, mercerie": [
+      "Bonatti Félicie",
+      "Henry Paul",
+      "Waridel Constant"
+    ],
+    "Facteur": [
+      "Freymond William"
+    ],
+    "Inspecteurs du bétail": [
+      "Dind Aug.",
+      "Freymond Alphonse"
+    ],
+    "Instituteurs": [
+      "Willenegger Jean",
+      "Schwar-Ravey Marie",
+      "Jaques Edith"
+    ],
+    "Justice de paix": [
+      "Dind Adr.",
+      "Jaccaud Louis",
+      "Montaubion",
+      "Dutoit Alexis",
+      "David Samuel",
+      "Correvon",
+      "Riond Ulysse",
+      "Ogens",
+      "Bécholley Eug.",
+      "Bercher"
+    ],
+    "Laitier": [
+      "Schwab Fritz"
+    ],
+    "Lingère": [
+      "Freymond Léa"
+    ],
+    "Maçon": [
+      "Cardis frères"
+    ],
+    "Maréchaux": [
+      "Martin Louis",
+      "Varidel Constant"
+    ],
+    "Mécanicien-appareilleur": [
+      "Freymond Constant"
+    ],
+    "Officier d'état-civil": [
+      "Dind William"
+    ],
+    "Pasteur": [
+      "Murset Charles"
+    ],
+    "Pensions": [
+      "Pension Bellevue",
+      "Genier Alcide",
+      "Freymond Constant"
+    ],
+    "Sellier-tapissier": [
+      "Lagnaz Victor"
+    ],
+    "Sociétés": [
+      "de fromagerie de Corrençon",
+      "Fromagerie de St-Cierges",
+      "de la Chapelle",
+      "d'assurance contre la mortalité des chevaux"
     ]
   }
 }

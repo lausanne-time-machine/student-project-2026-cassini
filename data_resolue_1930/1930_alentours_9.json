@@ -1,120 +1,184 @@
 {
-  "SAINTE-CROIX": {
-    "Sociétés.": [
-      "Fiorentinella.",
-      "Chant chœur mixte.",
-      "La Lyre, orchestre."
+  "Bex": {
+    "Bétail (commerce de).": [
+      "Lélourdy Emile",
+      "Richard Joseph",
+      "Le Soldat Alexandre",
+      "Mösching Charles"
     ],
-    "Tailleurs.": [
-      "Bonnet Alfred et Emile",
-      "Colombo Angel",
-      "Hellmüller-Monti A.",
-      "Thomann Frédéric"
+    "Bijoutiers.": [
+      "Glanzmann J.",
+      "Rossel-Aguet Werner-Henri"
     ],
-    "Tapissiers.": [
-      "Jaccard Marcel",
-      "Lassueur Ernest",
-      "Urech Rodolphe"
+    "Blanchisseuses.": [
+      "Brède Emma",
+      "Byrde Joséphine-Antoinette",
+      "Deantoni-Maillard Elisa",
+      "Favre Elisa",
+      "Genet Emma"
     ],
-    "Teinturerie (dépôts).": [
-      "Bahon Oscar",
-      "Bonnet Alfr.et Emile",
-      "Jaques-Margot E.",
-      "Mutrux A."
+    "Bois (march. de).": [
+      "Genillard & Cie",
+      "Anex Henri",
+      "Collombet & Cie.",
+      "Cherix frères.",
+      "Morex Félix",
+      "Welten & Cie"
     ],
-    "Tonnelier-Boisselier.": [
-      "Bourgeois Alfred"
+    "Boissellerie.": [
+      "May Marin Max",
+      "Richard Paul."
     ],
-    "Vélos.": [
-      "Jaccard-Mutrux Louis",
-      "Joseph Eug., Vve",
-      "Martin Albert",
-      "Rochat Clément"
+    "Bouchers.": [
+      "Amacher Werner",
+      "David Paul",
+      "Hesslöhl Charles",
+      "Reuter Louis",
+      "Tauxe Henri"
     ],
-    "Vins.": [
-      "Addor René",
-      "Bornand Maurice",
-      "Huguenin-Tharin",
-      "Jaccard Oscar",
-      "Jaccard Arnold",
-      "Junod César-Eugène",
-      "Junod-Gaillard César",
-      "Margot Louis (gros)",
-      "Martin-Jaccard David",
-      "Thorens Henri"
+    "Boulangers.": [
+      "Bernet-Hefti G.",
+      "Hatt Alfred.",
+      "Huber Jean.",
+      "Kunzi Ferdinand",
+      "Pernet Const.",
+      "L'Avenir, Société de Consommation.",
+      "Suter Ernest."
     ],
-    "Vis pour métaux.": [
-      "Bornand Emile",
-      "Lador Adrien",
-      "Margot A. & E."
+    "Brasseries (dépôts de).": [
+      "Brasserie d'Aigle",
+      "Grande Brasserie et Beauregard",
+      "Jaquerod Alexandre."
     ],
-    "Vitrerie.": [
-      "De Nicolas Louis"
+    "Brevets d'invention.": [
+      "Flesch L."
     ],
-    "Voituriers.": [
-      "Addor Louis",
-      "Besse Widmer",
-      "Bezençon A.",
-      "Bornand-Margot Georges",
-      "Campiche Gustave",
-      "Cherpillod Alfred",
-      "Crausaz Robert",
-      "Cruchaud Georges",
-      "Cruchaud Jules",
-      "Jaccard A.",
-      "Jaccard Auguste",
-      "Jaccard Benjamin",
-      "Jaccard-Perrier Ami",
-      "Jaques François",
-      "Junod Albert",
-      "Mermod-Gaillard Arthur"
+    "Briques en plâtre (fab. de).": [
+      "Gips Union S. A."
     ],
-    "Boîtes (fabricants de).": [
-      "Jaccard Alexis",
-      "Lador Adrien",
-      "Lassueur Ed.",
-      "Mutrux Emile",
-      "Reuge Al. & Cie.",
-      "Thorens Hermann, S. A."
+    "Brodeuses.": [
+      "Gerber Anna",
+      "Jacot Irène"
     ],
-    "Blancs (fabricants de).": [
-      "Jaccard John",
-      "Jaccard Robert"
+    "Cafetiers.": [
+      "Anex Jean",
+      "Bocherens Paul",
+      "Butzberger J.",
+      "Calandra Félix",
+      "Chamorel Eugène",
+      "Husmann Franz",
+      "Uldry Pierre-Albert",
+      "Cosandey Ernest",
+      "Held Laura",
+      "Deslex H.",
+      "Luthi Marcel",
+      "Bernasconi Fernand",
+      "Herren Albert",
+      "Kohler Jules-Henri",
+      "Le Soldat Alexandre",
+      "Manni Charles",
+      "Pernet C.",
+      "Pinget Hermann",
+      "Vouilloz Albert",
+      "Vœffray Marie",
+      "Cottier Julie"
     ],
-    "Claviers.": [
-      "Bornand-Cherpillod Jules",
-      "Junod-Jaccard Ami"
+    "Caisserie.": [
+      "Genillard & Cie"
     ],
-    "Ebauches.": [
-      "Jaccard John"
+    "Charcutiers.": [
+      "Amacher Werner",
+      "David Paul",
+      "Hesslöhl Charles",
+      "Reuter Louis",
+      "Tauxe Henri"
     ],
-    "Ebénisterie pour boîtes à musique. et machines parlantes": [
-      "Besté B.",
-      "Jaccard, fils de Gustave",
-      "Jaccard Georges",
-      "Jaccard Robert",
-      "Jaques Arthur",
-      "Karrer Maurice",
-      "Sueur Bertha; Vve",
-      "Sueur Numa",
-      "Thorens Hermann, S. A."
+    "Charpentiers.": [
+      "Genet-Annen",
+      "Jaquier Louis",
+      "Pittier Alb.",
+      "Pittier Henri."
     ],
-    "Fondeurs.": [
-      "Jaccard frères L. et F."
+    "Charretiers.": [
+      "Chabloz Alexis",
+      "Croset Adolphe",
+      "Echenard Jules",
+      "Favre",
+      "Guillard-Ilg Flora",
+      "Nicollerat Paul",
+      "Rahm"
     ],
-    "Fabriques de machines parlantes.": [
-      "Breitler R. P.",
-      "Chanteclair S. A.",
-      "Gramotechnique, S. A.",
-      "Jaccard Alexis",
-      "Jaccard John",
-      "Jurassia (S. A.) Käferstein A.",
-      "Lassueur Ed.",
-      "Paillard E. & Cie (S. A.)",
-      "Thorens Hermann, S. A."
+    "Charrons.": [
+      "Renaud Henri",
+      "Vionnet-Pernet C."
     ],
-    "Métronomes (fab. de).": [
-      "Paillard E. & Cie (S. A.)"
+    "Chaudronniers.": [
+      "Gilliéron Louis."
+    ],
+    "Chaussures (mag. de).": [
+      "Cherix Edouard.",
+      "Marx Paul",
+      "Montangero Michel",
+      "Schluchter Arnold et fils",
+      "Wullschleger D."
+    ],
+    "Chef de gare.": [
+      "Regamey L."
+    ],
+    "Chef de section.": [
+      "La Gendarmerie."
+    ],
+    "Chevaux (march. de).": [
+      "Croset Adolphe."
+    ],
+    "Chiffons.": [
+      "Bernard-Coquoz Herminée Hess"
+    ],
+    "Clôtures et treillages.": [
+      "Cherix frères.",
+      "Pichard J.."
+    ],
+    "Coiffeurs.": [
+      "Breitenmoser Antoine",
+      "Cherix Georges.",
+      "Nicolier Blanche",
+      "Ravy-Breitenmoser Ida."
+    ],
+    "Combustibles.": [
+      "Diserens François, S. A."
+    ],
+    "Commission scolaire.": [
+      "Strehler Hermann"
+    ],
+    "Comptoir Agricole et Industriel.": [
+      "Girod S."
+    ],
+    "Confiseurs.": [
+      "Hatt A.",
+      "Huber Jean",
+      "Vernet H."
+    ],
+    "Constructions métalliques.": [
+      "Leutwyler R.."
+    ],
+    "Cordonniers.": [
+      "Anex Charles",
+      "Bütz L.",
+      "Heitz Wilhelm",
+      "Montangero Michel",
+      "Perrin Casimir",
+      "Schluchter A. et fils.",
+      "Wullschleger D."
+    ],
+    "Couturières.": [
+      "Bourgeois-Chesaux Louisa",
+      "Echenard-Jaquenod Madeleine",
+      "Hemmi",
+      "Parlier-Bocherens Ida",
+      "Pièce Mathilde",
+      "Sangrouber-Mages Augusta",
+      "Savio-Bioley Antonie",
+      "Stauber-Mermod"
     ]
   }
 }

@@ -1,194 +1,215 @@
 {
-  "EPALINGES": {
-    "Inspecteur des viandes.": [
-      "Favrat François"
+  "Leysin": {
+    "Brevets d'invention": [
+      "Flesch L."
     ],
-    "Instituteurs.": [
-      "Guibat Juste",
-      "Delacrétaz Paul",
-      "Guibat, dame",
-      "Blanc Marie"
+    "Broderies": [
+      "Luscher Théophile"
     ],
-    "Maréchal.": [
-      "Monod I."
+    "Bureaux de placement": [
+      "Bouquet Emile",
+      "Kropf Louis"
     ],
-    "Mécaniciens.": [
-      "Reymond Emile",
-      "Corbaz Ch."
+    "Cafés": [
+      "Decrind Marcel",
+      "Dufresne Jules",
+      "Dupertuis M.",
+      "Stäubli Jean",
+      "Lobsiger Jean",
+      "Neveu Alfr.",
+      "Ortelli Jean",
+      "Jekelmann Bernard"
     ],
-    "Menuisiers.": [
-      "Pache Chs & Marcel"
+    "Cafés-chocolat": [
+      "Jenzer Charles",
+      "Monnet Emilie"
     ],
-    "Officier d'état-civil.": [
-      "Diserens Oscar"
+    "Cercueils": [
+      "Burky C.",
+      "Pompes Funèbres de Leysin, S. A."
     ],
-    "Pasteur.": [
-      "Lavanchy Alexandre"
+    "Chapellerie - chemiserie": [
+      "Luscher Théophile"
     ],
-    "Poste.": [
-      "Lienhard Alfred"
+    "Charcuterie-comestibles": [
+      "Besse Joseph"
     ],
-    "Selliers-tapissiers.": [
-      "Regamey Ch."
+    "Charpentiers": [
+      "Bovon Eug.",
+      "Hauser Emile",
+      "Lombardi Jacques",
+      "Rieben E. & Cie.",
+      "Tille Victor"
     ],
-    "Scieur.": [
-      "Corbaz Charles"
+    "Charretiers": [
+      "Drapel Aloïs",
+      "Giobellina Fortuné",
+      "Peytegnet Fernand",
+      "Tauxe René",
+      "Vaudroz Vve d'Henri",
+      "Vaudroz Julien"
     ],
-    "Sociétés.": [
-      "Association du Battoir les Râpes-Epalinges",
-      "Trois sociétés de laiterie",
-      "de chant",
-      "de développement",
-      "de gymnastique",
-      "Syndicat agricole",
-      "Assurance du bétail"
+    "Chaussures": [
+      "Poggia G.",
+      "Tauss Blanche",
+      "Titmann H. T.",
+      "Vieceli-Tagliaferi Albino"
     ],
-    "Tailleuses.": [
-      "Baumgartner-Bécholey Alice",
-      "Blanc Hélène",
-      "Delacrausaz Suzanne",
-      "Laedermann Hélène",
-      "Nicollier Blanche"
+    "Chefs de gare": [
+      "Barrat Alexandre",
+      "Stutzmann Max",
+      "Tabord Alfr."
     ],
-    "Terre à poêliers (comm. de).": [
-      "Pache-Chapuis Gustave"
+    "Chef de section": [
+      "Tabord Paul"
     ],
-    "Voiturier.": [
-      "Pache Chs de Vincent"
+    "Chimiste": [
+      "Tuscher John"
     ],
-    "Divers.": [
-      "Galland",
-      "Mermier P.",
-      "Mercier André",
-      "Regamey Paul",
-      "Rouge Henri"
-    ]
-  },
-  "JOUXTENS-MEZERY": {
-    "Autorités communales.": [
-      "Masson Paul",
-      "Noverraz Marius"
+    "Cigares et tabacs": [
+      "Basso Isaac",
+      "Bersier Georges",
+      "Bonello-Welten",
+      "Canet Jean",
+      "Chapuis Th.",
+      "Dentella Rose",
+      "Dufresne Jules",
+      "Jaccard Gustave",
+      "Jaccard William",
+      "Lecomte Henri",
+      "Légeret & Cie",
+      "Leuzinger Jean",
+      "Nock Bruno",
+      "Roliat Eugène",
+      "Slisonsky G.",
+      "Tauxe Rose"
     ],
-    "Syndic": [
-      "Pavly Constantin"
+    "Cinémas": [
+      "Dubois A.",
+      "Monod Paul"
     ],
-    "Municipaux": [
-      "Charbon Alfred",
-      "Hänni Nicolas",
-      "Jaton Gustave",
-      "Sonnay Aimé",
-      "Blanchard Gustave",
-      "Rüedi Pierre",
-      "Blanchard Gustave"
+    "Coiffeurs": [
+      "Bednar Bohumil",
+      "Gissler Ch. & Cie",
+      "Raabe Max",
+      "Rothlisberger Albert",
+      "Leuzinger Jean",
+      "Wollmann François"
     ],
-    "Agriculteurs.": [
-      "Emery frères",
-      "Emery Louis",
-      "Fiaux Alexis",
-      "Jaton Gustave",
-      "Masson Louis",
-      "Narbel Gustave",
-      "Sonnay Aimé"
+    "Combustibles": [
+      "Besse Louis",
+      "Besse Denis",
+      "Favre César",
+      "Peyregnet Fernand",
+      "Trummer A. & Cie."
     ],
-    "Artiste peintre.": [
-      "Rivier Louis"
+    "Commandant du feu": [
+      "Neveu Alfred"
     ],
-    "Mutualité scolaire de retraite.": [
-      "Ruedi P."
+    "Commission scolaire": [
+      "Dr Amstad",
+      "Roulet Benjamin"
     ],
-    "Bétail (éleveurs de).": [
-      "Emery frères",
-      "Sonnay Aimé"
+    "Confections": [
+      "Blanc Marie-Louise",
+      "Galeries Parisiennes",
+      "Hurt Otto",
+      "Luscher Théophile"
     ],
-    "Commission scolaire.": [
-      "Blanchard Gve",
-      "Hänni Nicolas",
-      "Masson Paul",
-      "Demonterjaud Adrien",
-      "Noverraz Marius"
+    "Confiserie-Pâtisserie-Crèmerie": [
+      "Besse Louis",
+      "Chapuis Th.",
+      "Cerf Jules",
+      "Jaquet Henri",
+      "Kohler Ernest",
+      "Pabst Anton",
+      "Schägerl Aloïs"
     ],
-    "Epicerie, mercerie.": [
-      "Böhner Alice"
+    "Contrôle des denrées": [
+      "Tüscher John"
     ],
-    "Géomètre.": [
-      "Redard Robert"
+    "Cordonniers": [
+      "Oguey Ferdinand",
+      "Poggia G.",
+      "Tauss Blanche",
+      "Tittmann H.",
+      "Vieceli-Tagliaferi Albino"
     ],
-    "Ingénieurs.": [
-      "de Blonay P.",
-      "Redard Robert"
+    "Courtepointière": [
+      "Hurter"
     ],
-    "Inspecteur du bétail.": [
-      "Blanchard Gustave"
+    "Couturières": [
+      "Capra Candide",
+      "Lecomte",
+      "Machet Joséphine",
+      "Méli Thérèse",
+      "Monnier Henriette",
+      "Montet",
+      "Roth"
     ],
-    "Institut.": [
-      "English Preparatory School Allistone B. Willmot"
+    "Dentistes": [
+      "Barbezat Paul",
+      "Pouzet Louis",
+      "Soutter Charles",
+      "Dr Volet Henri"
     ],
-    "Instituteurs.": [
-      "Ruedi Pierre",
-      "Ruedi-Lugeon Marie"
+    "Eaux gazeuses": [
+      "Besse Alfred",
+      "Castella Paul"
     ],
-    "Jardiniers-maraîchers": [
-      "Charbon Alfred",
-      "Emery Louis"
+    "Ecole nouvelle": [
+      "Bouet-Boissonnas"
     ],
-    "Laitier.": [
-      "Société de laiterie de Jouxtens-Mézery"
+    "Electriciens": [
+      "Dufresne Sylvius",
+      "Krumel Alb.",
+      "Monod Paul",
+      "Tauxe Alfred",
+      "Société romande d'Electricité"
     ],
-    "Téléphone public.": [
-      "Böhner Alice"
+    "Entrepreneurs": [
+      "Barone & Beverina",
+      "Camandona Emile",
+      "Felli Alfred & Cie."
     ],
-    "Divers.": [
-      "Rivier Julie",
-      "Rivier-Forel Aug.",
-      "Rivier William",
-      "Comte Frédéric de Pückler",
-      "de Weede"
-    ]
-  },
-  "LE MONT": {
-    "Autorités communales.": [
-      "Lädermann Fernand",
-      "Corbaz Auguste",
-      "Serment André"
+    "Epiceries": [
+      "Basso Isaac",
+      "Bersier Georges",
+      "Bonello Welten",
+      "Ernst Em. & Cie",
+      "Jaccard-Sagne William",
+      "Légeret O.",
+      "Mutrux frères",
+      "Rittener Elisa",
+      "Société coopérative de consommation",
+      "Sagne Ch.",
+      "Tauxe Rose",
+      "Vieceli-Tagliaferi Albino"
     ],
-    "Municipaux": [
-      "Amaudruz Henri",
-      "Belet Maurice",
-      "Chapuis Louis",
-      "Corbaz Auguste",
-      "Menétrey Amédée",
-      "Henneberger Auguste",
-      "Porchet Aloïs",
-      "Corbaz Ulysse"
+    "Ferblantiers": [
+      "Cordey Ulrich",
+      "Eisenberg Elie",
+      "Scheiwein Jean"
     ],
-    "Huissier": [
-      "Blanc Charles"
+    "Fleurs (mag. de)": [
+      "Burla E.",
+      "Corthésy Aloïs",
+      "Gros Edouard",
+      "Kaufmann Rosa",
+      "Slisonsky Georges",
+      "Thévoz Mathilde"
     ],
-    "Agriculteurs.": [
-      "Amaudruz frères",
-      "Amaudruz Eugène",
-      "Amaudruz Lucien",
-      "Barrat Aloïs",
-      "Beeri A.",
-      "Belet Edouard",
-      "Belet Benjamin",
-      "Belet Eug.",
-      "Belet Eug.",
-      "Belet Maur.",
-      "Belet Gve",
-      "Belet Frank",
-      "Belet Ls",
-      "Besançon Jules",
-      "Besençon Louis",
-      "Bovev Fernand",
-      "Chapuis Louis",
-      "Chatelan Ed.",
-      "Corbaz Aloïs",
-      "Corbaz Louis",
-      "Corbaz Ulysse et Julien",
-      "Corbaz Vict.",
-      "Duperret Léonard",
-      "Menétrey Théodore et Emile"
+    "Garde-forestier": [
+      "Ranzoni Albert"
+    ],
+    "Gardes-malades": [
+      "Capt",
+      "Dufresne Elisa",
+      "Groux Louis"
+    ],
+    "Gérances": [
+      "Bouquet Emile",
+      "Chevalley Otto"
     ]
   }
 }

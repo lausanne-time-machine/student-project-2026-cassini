@@ -1,88 +1,122 @@
 {
-  "Sainte-Croix": {
-    "Bouchers et charcutiers.": [
-      "Jaccard Charles",
-      "Jaccard Edouard",
-      "Junod-Jaccard Marcel",
-      "Schenk-Jaccard"
+  "VILLE D'YVERDON": {
+    "Quincaillerie.": [
+      "Carrel L. & C.",
+      "Crozat & Roux",
+      "Decker E.",
+      "Dubath-Gay Em. Vve",
+      "Elikann & Cie",
+      "Freymond Adr.",
+      "Mottaz frères",
+      "Pillevuit Emile"
     ],
-    "Boulangers-Pâtissiers": [
-      "Addor Eugène",
-      "Thomas Emile",
-      "L'Avenir",
-      "Favre Jules",
-      "Hofer-Jaccard",
-      "Junod Louis",
-      "Koch Pierre",
-      "Matthey Georges",
-      "Mutrux"
+    "Ramoneurs.": [
+      "Barmaverain Pierre",
+      "Luginbuhl Alb."
     ],
-    "Brevets d'invention": [
-      "Flesch L.",
-      "Pahud J.-D."
+    "Receveur.": [
+      "Dessemontet Ch."
     ],
-    "Briquets automatiques (fab. de)": [
-      "Thorens Hermann, S. A."
+    "Relieurs.": [
+      "Gonthier René",
+      "Vagnières J.-H.",
+      "Wuille Louis"
     ],
-    "Cafés": [
-      "Addor Anaïs",
-      "Bornand Alfred",
-      "Jaccard Oscar",
-      "Lassueur Aug.",
-      "Lassueur John",
-      "Margot Eva",
-      "Mermod Alf.",
-      "Neuenschwander Armand",
-      "Robellaz-Sueur Jules",
-      "Stehlé Franz",
-      "Thorens Henri",
-      "Urfer Ernest",
-      "Volery Numa"
+    "Renseignements.": [
+      "Gross O.",
+      "Hoog Fernand",
+      "Chapuis Henri"
     ],
-    "Café de tempérance": [
-      "Le Foyer"
+    "Représentants de commerce.": [
+      "Becholey Daniel",
+      "Borel Ls.",
+      "Briod M.",
+      "Bussy Alfred",
+      "Chapuis V.",
+      "Clerc J.",
+      "Décoppet Pierre",
+      "Devaud M.",
+      "Dubath Ch.",
+      "Feller H.",
+      "Fuchs Auguste",
+      "Glauser M. H.",
+      "Gostelli Ed.",
+      "Perroud Julien",
+      "Peter Charles",
+      "Rickli F.",
+      "Ries-Garin Max"
     ],
-    "Caisses d'emballage": [
-      "Crausaz frères",
-      "Jaccard Georges",
-      "Mermod frères",
-      "Thévenaz Adrien"
+    "Ressorts de montres (fab. de).": [
+      "Jacot, Vve de Georges"
     ],
-    "Cannage": [
-      "Cuendet Eugène"
+    "Sables et graviers.": [
+      "Grandguillaume Eug.",
+      "Petitpierre Jules",
+      "Verdan Ed."
     ],
-    "Cartonnages": [
-      "Bornand & Geneux",
-      "Gueissaz-Jaccard",
-      "Jost Jean"
+    "Sages-femmes.": [
+      "Cavin W.",
+      "Perrin, Mme",
+      "Ray Eva"
     ],
-    "Cercle": [
-      "Cercle démocratique"
+    "Savons et lessives (fab. de).": [
+      "L'Aigle (S. A.)",
+      "Péclard frères",
+      "Wasem, Klink & Cie"
     ],
-    "Cercueils": [
-      "Simon"
+    "Scierie mécanique.": [
+      "Favri Vve de Léon",
+      "Maire Ami"
     ],
-    "Chapeliers": [
-      "Addor René",
-      "Margot",
-      "Piolino G. & J.",
-      "Wanner Martin"
+    "Selliers-carrossiers.": [
+      "Combremont Gérald",
+      "Cuérel J.",
+      "Fischer Alfred",
+      "Gilliéron Ulysse",
+      "Perreten Rob.",
+      "Stettler Walther"
     ],
-    "Charrons": [
-      "Graff Christian",
-      "Junod Eugène"
+    "Serruriers.": [
+      "Barraud John",
+      "Bonjour Robert",
+      "Borloz",
+      "Brunner Louis",
+      "Ledermann F.",
+      "Tschuiny Albert"
     ],
-    "Chaussures (magasins de)": [
-      "Bissat Marcel",
-      "Jaccard-du Grand Laura",
-      "Junod-Gaillard",
-      "Mutrux Ami",
-      "Paillard Paul",
-      "Perotti François",
-      "Piolino G. & J."
+    "Sirops (fabricant de).": [
+      "Annen Alfred",
+      "Bécholey Daniel",
+      "Schneider Ed., Vve"
     ],
-    "Chef de gare": [
-      "Cand Ulysse"
+    "Sociétés.": [
+      "Association vaudoise des amodiateurs-éleveurs (alpage)",
+      "Caisse d'épargne et de prévoyance",
+      "Club Alpin",
+      "Club montagnard ouvrier",
+      "Communauté israélite",
+      "Coopérative des ouvriers du bâtirn.",
+      "Corps de musique",
+      "Crédit Yverdonnois",
+      "Fédération des producteurs de lait",
+      "Jeune société immobilière",
+      "Service d'Escompte Yverdon et environs",
+      "Société pour l'amélioration de l'espèce chevaline",
+      "Société Anonyme des Entrepôts",
+      "» de l'école enfantine",
+      "» des Dragons, Guides et Mitrailleurs",
+      "» de développement de la ville",
+      "» de développement du quartier des Cygnes",
+      "» du battoir à grains d'Yverdon et environs",
+      "Fanfare ouvrière L'Avenir",
+      "» d'Aviculture",
+      "Le Cercle littéraire",
+      "Société française philanthropique et Mutuelle",
+      "» de la vieillesse abandonnée",
+      "» industrielle et commerciale",
+      "» yverdonnoise du Vieux",
+      "» de la Bibliothèque publique",
+      "» de la fromagerie"
     ]
   }
 }

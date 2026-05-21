@@ -1,83 +1,266 @@
 {
-  "Château-d'Œx": {
-    "Epicerie": [
-      "Aviolat Cécile",
-      "Berdoz Emile",
-      "Bistoni-Andrey A.",
-      "Chabloz Marcel",
-      "Chapalay Marie",
-      "Coopérative de consommation",
-      "Demaurex-Rosat Frédéric",
-      "Dubuis-Pilet Paul",
-      "Henchoz-Clavel Alfred-E.",
-      "Isoz-Turrian David",
-      "Lenoir Jules",
-      "Lenoir Charles",
-      "Mollien, Vve de Paul",
-      "Morel Henri",
-      "Morier Edouard",
-      "Morier-Genoud B.",
-      "Pilet Louis",
-      "Saugy Ami",
-      "Société de Consommation Château d'Oex"
+  "BEGNINS": {
+    "Agriculteurs": [
+      "Amm Jos.",
+      "Bozonnet Alfr.",
+      "Bozonnet Ch.",
+      "Brandt Paul",
+      "Blazer Jules",
+      "Cavin Ch.",
+      "Cavin Edouard",
+      "Stubi J.",
+      "Grange-Grèche",
+      "Charbonnier Amédée",
+      "Charbonnier Amédée fils",
+      "Christinet Anette",
+      "Champ-Renaud Paul",
+      "Dessiex Hri",
+      "Dumas Olivier",
+      "Gay Louis",
+      "Gervaix Fernand",
+      "Gervaix Louis-Et.",
+      "Gægel Charles",
+      "Grand Charles",
+      "Grand Paul",
+      "Hügli frères",
+      "Perriraz Louis",
+      "Rubli Ernest",
+      "Tallant Ch.",
+      "Tallant Julien",
+      "Wursten Charles"
     ],
-    "Fers": [
-      "Bach Fritz",
-      "Burri Adrien",
-      "Chabloz Marcel",
-      "Dubuis-Pilet Paul",
-      "Henchoz-Yersin Elisa"
+    "Apiculteur": [
+      "Charlet Daniel"
     ],
-    "Ferblantiers-appareilleurs": [
-      "Buensoz Eugène",
-      "Favre Auguste",
-      "Favre Jules et Maurice",
-      "Soldo Louis"
+    "Articles agricoles": [
+      "Michaud & Goy"
     ],
-    "Fleurs naturelles (mag. de)": [
-      "Bricod Paul"
+    "Artiste peintre": [
+      "Stoucky Alfred"
     ],
-    "Fourreur": [
-      "Masur Auguste"
+    "Asiles": [
+      "Asile des Vieillards",
+      "Michot Henri",
+      "Foyer Arménien"
     ],
-    "Garde forestier": [
-      "Pilet-Bornet John",
-      "Mottier-Lempen Emile"
+    "Assurance-vieillesse": [
+      "Mutualité scolaire de retraite",
+      "Jaton M."
     ],
-    "Gardes-malades": [
-      "Chapalay, Mlle.",
-      "Chabloz, Mlle.",
-      "Gétaz, Mlle.",
-      "Morier-Genoud, Mlle."
+    "Auberges et cafés": [
+      "Ogguey Louis",
+      "Ecu de Genève",
+      "Gervaix-Bex Pl.",
+      "Ecu Vaudois",
+      "Bassin F."
     ],
-    "Géomètre officiel": [
-      "Buiard R."
+    "Aviculture": [
+      "Kunzler F."
     ],
-    "Gypsiers": [
-      "Albertone Joseph",
-      "Bernasconi & Cassietti",
-      "Cortellini C.",
-      "Sottaz Marcelin"
+    "Bétail (march. de)": [
+      "Gægel Ch."
     ],
-    "Home d'enfants": [
-      "Brauchlin",
-      "Passard, Dlle."
+    "Blanchisseuses": [
+      "Cavin Louise",
+      "Magnenat Félicie"
     ],
-    "Horlogerie": [
-      "Juvet Charles-Emile",
-      "Morier Charles-Ami",
-      "Perret René",
-      "Renaud Charles"
+    "Bois (march. de)": [
+      "Schacher Ls."
+    ],
+    "Bouchers": [
+      "Bertschy Jules",
+      "Monnet J."
+    ],
+    "Boulangers": [
+      "Isely Ernest",
+      "Lecoultre Henri"
+    ],
+    "Charcutier": [
+      "Loup Louis"
+    ],
+    "Charpentiers": [
+      "Cujean U.",
+      "Fayet Jules"
+    ],
+    "Charron": [
+      "Morin Joseph"
+    ],
+    "Chaussures": [
+      "Gonet Emile",
+      "Michaud & Goy"
+    ],
+    "Coiffeurs": [
+      "Bassin Ernest",
+      "Mosetti Alexandre"
+    ],
+    "Combustibles": [
+      "Challandes Marius"
+    ],
+    "Commission scolaire": [
+      "Rouzeau Jos.",
+      "Dessiex Henri",
+      "Gervaix Fernand",
+      "Mmes Francken",
+      "Dr et Ch. Grand"
+    ],
+    "Confections": [
+      "Michaud & Goy"
+    ],
+    "Cordonniers": [
+      "Dick Frédéric",
+      "Gaggione Jaques",
+      "Janin Emile"
+    ],
+    "Dentiste": [
+      "Riesen M."
+    ],
+    "Entrepreneurs": [
+      "Nicola Ls.",
+      "Salero Pierre"
+    ],
+    "Epiceries": [
+      "Cornaz Léon",
+      "Gonet Emile",
+      "Johner J.-Edmond",
+      "Michod & Goy",
+      "Mosetti H."
+    ],
+    "Ferblantier": [
+      "Matthey Fs."
+    ],
+    "Fers et métaux": [
+      "Michaud & Goy"
+    ],
+    "Gypsiers-peintres": [
+      "Mosetti Louis",
+      "Novarina Pierre"
+    ],
+    "Graines fourragères et potagères": [
+      "Diserens Ch.",
+      "Michaud & Goy"
     ],
     "Hôtels": [
-      "Anderegg",
-      "Hôtel du Parc",
-      "Hôtel des Bains",
-      "Hôtel Beau-Séjour",
-      "Grand-Hôtel, S. A.",
-      "Hôtel-de-Ville",
-      "Hôtel-pension Richemont",
-      "Hôtel-Pension Victoria"
+      "Ecu de Genève",
+      "Oguey",
+      "Ecu Vaudois",
+      "Gervais-Bex Paul"
+    ],
+    "Inspecteur du bétail": [
+      "Henriod Ls."
+    ],
+    "Instituteurs": [
+      "Jaton Marc",
+      "Corboz Clara",
+      "Henriod Louise",
+      "Monnet Hélène"
+    ],
+    "Jardinier": [
+      "Brauch"
+    ],
+    "Justice de paix": [
+      "Brandt Hri",
+      "Blazer Ele",
+      "Caboussat Ami",
+      "Pécoud Jules-Charles",
+      "Prod'hom Albert",
+      "Genevay Edm.",
+      "Henriod Louis"
+    ],
+    "Laitier": [
+      "Laiteries Réunies",
+      "Hornung"
+    ],
+    "Machines agricoles": [
+      "Michaud & Goy"
+    ],
+    "Maréchal": [
+      "Guyoz Jules"
+    ],
+    "Mécanicien": [
+      "Christinet Emile"
+    ],
+    "Médecin": [
+      "Francken William"
+    ],
+    "Menuisiers": [
+      "Bovy Fernand",
+      "Fayet Jules"
+    ],
+    "Meuniers": [
+      "Berger J.",
+      "Cornaz Armand"
+    ],
+    "Modiste": [
+      "Giovanna-Stoucky Marg."
+    ],
+    "Officier d'état civil": [
+      "Dessiex Henri"
+    ],
+    "Outils": [
+      "Michaud & Goy",
+      "Johner Edm."
+    ],
+    "Pasteurs": [
+      "Rouzeau Joseph",
+      "Bron Frédéric"
+    ],
+    "Pharmacien": [
+      "Aubert Aug."
+    ],
+    "Porcs (élevage de)": [
+      "Station Prés de Vaux"
+    ],
+    "Poste": [
+      "Gauthey Carol",
+      "Gaudin Julien",
+      "Sallaz Jules"
+    ],
+    "Primeurs": [
+      "Loup Louis"
+    ],
+    "Professeur de musique": [
+      "Charlet D."
+    ],
+    "Rentières": [
+      "Laurent Elisa",
+      "Rochaix Sophie"
+    ],
+    "Scierie": [
+      "Schacher Louis"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "Suisse d'immigration et de patronage d'orphelins arméniens",
+      "Immobilière de la Croix en Liettaz",
+      "Immobilière de l'église libre",
+      "de tir aux armes de guerre",
+      "de chant Chœur d'hommes",
+      "Littéraire L'Avenir",
+      "Section de la Croix-Bleue",
+      "Syndicat agricole et viticole",
+      "De gymnastique",
+      "Vélo-Club"
+    ],
+    "Tailleur": [
+      "Hugonnet Louis"
+    ],
+    "Tailleuses": [
+      "Christinet Annette",
+      "Dessiex Louise",
+      "Salero Marie"
+    ],
+    "Télégraphiste et téléphoniste": [
+      "Brandt Berthe"
+    ],
+    "Tonnelier": [
+      "Ridweg Charles"
+    ],
+    "Vannerie": [
+      "Michaud & Goy"
+    ],
+    "Vétérinaires": [
+      "Champ-Renaud Pl.",
+      "Perrin E."
     ]
   }
 }

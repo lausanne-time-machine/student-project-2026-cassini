@@ -1,264 +1,121 @@
 {
-  "BIÈRE": {
-    "Coiffeurs": [
-      "Allamand J.",
-      "Benoit Jules",
-      "Gerber E.",
-      "Jotterand Jules",
-      "Kaufmann Walter",
-      "Olivary Eugène"
+  "Ville de Rolle": {
+    "Skis (fabr. de).": [
+      "Nidecker fils"
     ],
-    "Commission scolaire": [
-      "Jotterand-Bellon Edouard",
-      "Jotterand Robert",
-      "Pittet Ed.",
-      "Jotterand Paul",
-      "Mange Octave",
-      "Courvoisier",
-      "Mme Jules Bugnoux",
-      "Burnier-Rossi"
+    "Sociétés.": [
+      "Cercle de la Côte",
+      "Fanfare rolloise",
+      "Nouvelle Société anonyme du gaz",
+      "Société coopérative de consommation",
+      "Société de chant l'Harmonie",
+      "» des Conférences publiques",
+      "» de gymnastique fédérale",
+      "» de gymnastique hommes",
+      "» Nautique",
+      "» charitable de Rolle",
+      "» de Tir des Armes Réunies de la Côte",
+      "» Chœur de Dames",
+      "» de la Prévoyance",
+      "» vaudoise de secours mutuels",
+      "» des Vétérans",
+      "» Bons Templiers",
+      "» de laiterie",
+      "» du chemin de fer électrique Rolle-Gimel",
+      "» des tonneliers de la Côte",
+      "Section de la Croix-Bleue",
+      "Vélo-Club",
+      "Société du Sauvetage",
+      "Société La Côte-Sport",
+      "Société T. S. F.",
+      "Union des Femmes",
+      "Ligue rolloise contre la tuberculose",
+      "Section de la Croix-Rouge",
+      "Section des Samaritains"
     ],
-    "Cordonniers": [
-      "Allamand Paul",
-      "Cogniasse Charles",
-      "Vienny Alexis"
+    "Tailleurs.": [
+      "Ballif J.",
+      "Fatthev Edmond"
     ],
-    "Crédit mutuel": [
-      "Meynet R."
+    "Tapissiers.": [
+      "Favre Henri",
+      "Larpin Alfred",
+      "Moinat Louis"
     ],
-    "Dentistes": [
-      "Huber Paul",
-      "Strudel"
+    "Tartre (march. de).": [
+      "Creteenaud, Vve d'Etienne",
+      "Dissard Damien",
+      "Revaz, Vve de Franç."
     ],
-    "Droguerie": [
-      "Gilliéron Adrien"
+    "Teinturerie.": [
+      "Haussener E."
     ],
-    "Eaux gazeuses": [
-      "Jaquemard Ch."
+    "Tonneliers.": [
+      "Aepli Jean",
+      "Hammel Jacob",
+      "Schmid Georges",
+      "Widmayer Charles"
     ],
-    "Entrepreneurs": [
-      "Gaggio Pierre",
-      "Pasche-Piguet Hip."
+    "Treillageur.": [
+      "Cabrol Maurice"
     ],
-    "Epiceries": [
-      "Dufour-Maret Joseph",
-      "Gilliéron Adrien",
-      "Magnenat Ch.",
-      "Monnier Henri",
-      "Simond frères",
-      "Société coopérative"
+    "Vannerie.": [
+      "Divorne Esther",
+      "Monnard-Margot H.",
+      "Yersin-Rochat B."
     ],
-    "Ferblantiers": [
-      "Dell’Ava Joseph",
-      "Jotterand Maurice"
+    "Vélocipèdes.": [
+      "Gauthey Edmond",
+      "Rusillon Georges",
+      "Rosset Albert",
+      "Ulliel Gaston"
     ],
-    "Fourches et rateaux": [
-      "Autier John"
+    "Vignes américaines.": [
+      "Rosset Henri"
     ],
-    "Garage, taxis": [
-      "Sulliger Félix"
+    "Vins (march. de).": [
+      "Hégi (courtier)",
+      "Held-Perreten",
+      "Lichtensteiger & Cie",
+      "Perrin Gustave",
+      "Schenk & Cie (S. A.)"
     ],
-    "Gardes-forestiers": [
-      "Bugnoux Jules",
-      "Croisier Eugène"
+    "Vitriers.": [
+      "Burnier Jules",
+      "May Alfred",
+      "Mottaz Julien",
+      "Pittet Paul",
+      "Roquerbe Rodolphe",
+      "Zumstein Franz"
     ],
-    "Géomètre breveté": [
-      "Jotterand Aloïs"
+    "Voituriers.": [
+      "Gozel Louis",
+      "Tissot Adrien"
     ],
-    "Gypsiers": [
-      "Estoppey Marius",
-      "Rochat Charles"
-    ],
-    "Horlogers-rhabilleurs": [
-      "Dübuis A.",
-      "Simond F."
-    ],
-    "Hôtels": [
-      "Golaz Jean",
-      "Pittet Maurice"
-    ],
-    "Insp. du bétail": [
-      "Burnier-Rossy Const."
-    ],
-    "Instituteurs": [
-      "Piot Paul",
-      "Meynet Robert",
-      "Stauffer Charles",
-      "Charlet Irène",
-      "Stauffer Alice",
-      "Dutoit Juliette"
-    ],
-    "Instructeurs": [
-      "Gonard",
-      "Hasler Jean",
-      "Hildbrand Wilhelm",
-      "Weidmann Jean"
-    ],
-    "Intendant des casernes": [
-      "Monthoux Henri"
-    ],
-    "Intendant fédéral de l’arsenal": [
-      "Jotterand Aloïs"
-    ],
-    "Jardinier-horticulteur": [
-      "Burnier Auguste"
-    ],
-    "Journaux": [
-      "Feuille d'Avis de Bière"
-    ],
-    "Laitier": [
-      "Soc. de fromagerie"
-    ],
-    "Lingères": [
-      "Jotterand Elise",
-      "Loretti Madeleine"
-    ],
-    "Machines agricoles": [
-      "Rochat frères"
-    ],
-    "Maréchaux": [
-      "Jotterand Albert",
-      "Matter Jacob",
-      "Monthoux John",
-      "Pittet François",
-      "Rochat frères"
-    ],
-    "Mécaniciens": [
-      "Meier Paul",
-      "Sulliger Félix"
-    ],
-    "Médecin": [
-      "Sallin Norbert"
-    ],
-    "Menuisiers": [
-      "Corthésy Paul",
-      "Jotterand Ls",
-      "Pasche Hippolyte"
-    ],
-    "Mercerie": [
-      "Dufour-Maret Joseph",
-      "Gilliéron Adrien",
-      "Monnier Henri",
-      "Simon frères",
-      "Société coopérative"
-    ],
-    "Meuniers": [
-      "Brönimann frères",
-      "Gusthiot Armand"
-    ],
-    "Notaire": [
-      "Croisier Louis"
-    ],
-    "Officier d’état-civil": [
-      "Croisier Louis"
-    ],
-    "Pasteur": [
-      "Courvoisier Jacques"
-    ],
-    "Pharmacien": [
-      "Perret Georges"
-    ],
-    "Photographie": [
-      "Jotterand Arth."
-    ],
-    "Poëlier-fumiste": [
-      "Estoppey Marius"
-    ],
-    "Porcs, (comm. de)": [
-      "Goy frères"
-    ],
-    "Quincaillerie et marchand de fer": [
-      "Gilliéron Adrien"
-    ],
-    "Relieur": [
-      "Monthoux Emile"
-    ],
-    "Repasseuses": [
-      "Corthésy M.",
-      "Dessauges Julie",
-      "Desiebenthal Olga",
-      "Matter M.",
-      "Messiaux Alice",
-      "Sulliger Marguerite"
-    ],
-    "Sages-femmes": [
-      "Besson Louise",
-      "Bonzon Fanny"
-    ],
-    "Scieries": [
-      "Autier John",
-      "Meldem Aloïs",
-      "Meldem Edouard",
-      "Pasche Hippolyte"
-    ],
-    "Sel (débit de)": [
-      "Société coopérative"
-    ],
-    "Selliers": [
-      "Ciana Jean",
-      "Corthésy John",
-      "Jotterand Gédéon",
-      "Monthoux Frédéric",
-      "Monthoux G."
-    ],
-    "Semoirs pour trèfle, luzerne, etc (construct. de)": [
-      "Monthoux-Clere Robert"
-    ],
-    "Serruriers": [
-      "Pittet François",
-      "Rochat frères"
-    ],
-    "Sociétés": [
-      "d’artillerie du Pied du Jura",
-      "de développement",
-      "de fromagerie",
-      "du Battoir à grains",
-      "Syndicat agricole d’alpage",
-      "Syndicat d'élevage et d'amélioration de la race porcine",
-      "de tir, Avant-Garde",
-      "de tir, Pistolet et revolver",
-      "de chant",
-      "de gymnastique",
-      "de musique La Lyre",
-      "Société d’apiculture"
-    ],
-    "Tailleur": [
-      "Métrailler V."
-    ],
-    "Tailleur de pierre": [
-      "Besson Jules"
-    ],
-    "Tailleuses": [
-      "Brocard Edith",
-      "Burnier Berthe",
-      "Corthésy M.",
-      "Dessauges A.",
-      "Jotterand Jenny",
-      "Hasler M.",
-      "Meylan Marie",
-      "Zimmermann Susanne"
-    ],
-    "Tapissier": [
-      "Viennet Jules"
-    ],
-    "Télégraphiste et téléphoniste": [
-      "Renaud Jules"
-    ],
-    "Vélocipèdes": [
-      "Meyer Paul",
-      "Sulliger Félix"
-    ],
-    "Vétérinaires": [
-      "Ansermet Emile",
-      "Eienberger Antoine"
-    ],
-    "Vins (représ. de)": [
-      "Jotterand Jules",
-      "Monthoux-Clerc Rob."
-    ],
-    "Voituriers": [
-      "Jotterand Robert",
-      "Jotterand Vincent"
+    "Divers.": [
+      "Aubert-Renaud Nancy",
+      "Barbezat Maur.",
+      "Rolaz-Jaggi Albert",
+      "Buvelot Louis",
+      "Clerc Louis",
+      "de Saugy Edouard",
+      "de Watteville, Vve de Rodolphe",
+      "du Martheray Rod.. Vve. Bugnaux",
+      "Eynard Rachel",
+      "Gygi Fritz",
+      "Gros, Vve de Louis",
+      "Guiger de Prangins Jeanne",
+      "Jaggi Henri",
+      "Jaquet E.",
+      "Kunkler Edouard",
+      "Le Fort Henri",
+      "Martin-Couvet W.",
+      "Mercier Ad.",
+      "Meylan",
+      "Monod-Van Muyden Jean",
+      "Schaer Max",
+      "Schenk-Rolaz A.",
+      "Simon-Bonnard Eugénie"
     ]
   }
 }

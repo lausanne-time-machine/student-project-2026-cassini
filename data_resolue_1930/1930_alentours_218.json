@@ -1,108 +1,224 @@
 {
-  "VILLE DE ROLLE": {
-    "Assurances": [
-      "Société suisse de secours mutuels Helvétia",
-      "Zurich (la)"
+  "GLAND": {
+    "Buraliste postal": [
+      "Rayroux Emile"
     ],
-    "Assurance-vieillesse.": [
-      "Associations mutualistes de retraite"
+    "Charcutier": [
+      "Spahni Emile"
     ],
-    "Ateliers de construction.": [
-      "Armand Pahud & Cie"
+    "Charron": [
+      "Vernez Louis"
     ],
-    "Automobiles. garages.": [
-      "Fleury Albert",
-      "Gauthey Edmond",
-      "Rosset Albert",
-      "Rusillon Georges",
-      "Sirca, S. A.",
-      "Ulliel G."
+    "Chef de gare": [
+      "Pittier Auguste"
     ],
-    "Banques.": [
-      "Banque cantonale vaudoise",
-      "Société de Banque Suisse",
-      "Gonet & Cie",
-      "Union vaudoise du crédit"
+    "Clinique": [
+      "Etablissement Physiothérapique du Léman, La Lignière"
     ],
-    "Bateaux (constructeurs de).": [
-      "Goël Louis",
-      "Oester Jean"
+    "Combustibles (comm. de)": [
+      "Aëgerter Louis"
     ],
-    "Bazar.": [
-      "Josi Fritz"
+    "Commission scolaire": [
+      "Aegerter Ls",
+      "Caboussat J."
     ],
-    "Bière (dépôt de).": [
-      "Held-Perreten Ch."
+    "Cordonniers": [
+      "Beck Charles",
+      "Bellay Ami"
     ],
-    "Bijoutiers.": [
-      "Droz-Georget G.",
-      "Hurter Jacob"
+    "Ecole particulière": [
+      "« Les Rayons, » Gland"
     ],
-    "Blanchisseuses.": [
-      "Burdet E.",
-      "Crausaz Hélène",
-      "Pichard Maria",
-      "Prenleloup Elise",
-      "Zumstein-Mottaz E."
+    "Entrepreneurs": [
+      "Boletti Baptiste",
+      "Ronchi Albrt.",
+      "Ronchi & Pellegrino",
+      "Vercellin & fils"
     ],
-    "Boissellerie.": [
-      "Dorsier Louis",
-      "Monnard-Margot H."
+    "Epicerie": [
+      "Charrière Paul",
+      "Rey Albert",
+      "Reymond Ch.",
+      "Zimmermann Jos."
     ],
-    "Bonneterie.": [
-      "Au Louvre",
-      "Richard Ida",
-      "Yersin-Rochat B.",
-      "Divorne Esther"
+    "Facteurs": [
+      "Maire Alf.",
+      "Maire Ls."
     ],
-    "Bouchers.": [
-      "Imhof Fréd.",
-      "Sauterel Justine",
-      "Tissot Jules"
+    "Fontainier": [
+      "Bottin Maurice"
     ],
-    "Boulangers.": [
-      "Beck Marc",
-      "Bolliger O.",
-      "Castella Maxime",
-      "Grosjean Robert",
-      "Remund Edmond",
-      "Rochat Eugène"
+    "Fourrages": [
+      "Dill Octave"
     ],
-    "Cafés.": [
-      "Arbel Arsène",
-      "Bonjean-Rolaz Victor",
-      "Bracher Alfred",
-      "Caillachon Arthur",
-      "Cercle de la Côte",
-      "Gugger Jean",
-      "Larpin Marcel",
-      "Larpin Charles Vve",
-      "Larpin Ferdinand",
-      "Manigley Marcel",
-      "Mauron Emile",
-      "Miéville Fern.",
-      "Roth Louis, fils"
+    "Futailles en fer": [
+      "Horisberger & Cie"
     ],
-    "Café-chocolat.": [
-      "Girard Elisabeth",
-      "Grosjean Auguste"
+    "Gypsier-peintre": [
+      "Mosetti Emile"
     ],
-    "Caisses (fab. de).": [
-      "Arbel Arsène, hoirie",
-      "Haldy Albert",
-      "Usine d'imprégnation"
+    "Hôtel": [
+      "Voir Clinique"
     ],
-    "Canneur de chaises.": [
-      "Case J.",
-      "Replica J."
+    "Inspecteur du bétail": [
+      "Bovy Aloïs"
     ],
-    "Cercueils.": [
-      "Pfund Silas"
+    "Instituteurs": [
+      "Bettembos André",
+      "Reymond Marthe",
+      "Dutruit Marthe"
     ],
-    "Chapelleries.": [
-      "Divorne Esther",
-      "Au Louvre",
-      "Yersin-Rochat B."
+    "Laitier": [
+      "Pilloud Edouard"
+    ],
+    "Maréchal": [
+      "Favre Lucien & fils"
+    ],
+    "Matériaux de construction": [
+      "Bottin Maurice",
+      "Monti Laurent"
+    ],
+    "Mécanicien": [
+      "Guex Maurice"
+    ],
+    "Pasteur": [
+      "Jovet William"
+    ],
+    "Pêcheurs": [
+      "Blondel Jules",
+      "Fayet Charles",
+      "Livraghi Albert"
+    ],
+    "Produits alimentaires": [
+      "Phag, fabrique de produits alimentaires hygiéniques, La Lignière"
+    ],
+    "Produits alimentaires pour le bétail": [
+      "Langer Paul"
+    ],
+    "Rentiers": [
+      "Batsholz",
+      "Bugnon Alb.",
+      "Paderewski",
+      "Pernod Fritz et Maurice",
+      "Zucchelli, Mme.",
+      "Vaney-Burnier Gust."
+    ],
+    "Repasseuse": [
+      "Marguerat Jeanne"
+    ],
+    "Scierie": [
+      "Scierie de Gland, S. A."
+    ],
+    "Serruriers": [
+      "Favre Lucien & fils"
+    ],
+    "Sociétés": [
+      "de fromagerie",
+      "Electrique de la Côte (usine en Avouillons)",
+      "Philanthropique de la Lignière",
+      "Compagnie du Chemin de fer électrique Gland-Begnins",
+      "Sanatorium du Léman"
+    ],
+    "Tailleuses": [
+      "Bex Adèle",
+      "Breggi, dame",
+      "Dufey Lse."
+    ],
+    "Télégraphe et téléphone": [
+      "Aegerter Elisa"
+    ],
+    "Voiturier-camionneur": [
+      "Aegerter Ls"
+    ],
+    "Volailles (comm. de)": [
+      "Hörisberger Jean"
+    ]
+  },
+  "GRENS": {
+    "Autorités communales": [
+      "Miaz Alfred",
+      "Miaz Antoine",
+      "Brocher Arthur",
+      "Bidaux Charles",
+      "Miaz Albert",
+      "Noverraz Marius",
+      "Tecon Eugène",
+      "Miaz Jules",
+      "Corbaz René"
+    ],
+    "Agriculteurs": [
+      "Bidaux Charles",
+      "Charrière Henri",
+      "Brocher Arthur",
+      "Miaz Albert",
+      "Miaz Jules",
+      "Tecon Eugène"
+    ],
+    "Apiculteur": [
+      "Duboux Eug., Vve."
+    ],
+    "Commission scolaire": [
+      "Brocher Arthur"
+    ],
+    "Couturière": [
+      "Noverraz Marie"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Noverraz François"
+    ],
+    "Ingénieur": [
+      "Bonnet William"
+    ],
+    "Inspecteur du bétail": [
+      "Noverraz Marius"
+    ],
+    "Instituteur": [
+      "Corbaz René"
+    ],
+    "Laitier": [
+      "Laiteries genevoises réunies"
+    ],
+    "Peseur": [
+      "Baudraz Fernand"
+    ],
+    "Poste et téléphone": [
+      "Noverraz Marius"
+    ],
+    "Sociétés": [
+      "de battage Chéserex-Grens",
+      "de fromagerie de Grens et Signy"
+    ],
+    "Téléphone public": [
+      "Postes"
+    ],
+    "Divers": [
+      "Simond Fréd."
+    ]
+  },
+  "LA RIPPE": {
+    "Autorités communales": [
+      "Berlie Charles",
+      "Gautier Henri",
+      "Gautier Louis",
+      "Girod Marc",
+      "Melly Charles",
+      "Berlie Henri",
+      "Berlie John",
+      "Berlie Jules",
+      "Chouet Alfred",
+      "Melly Fernand",
+      "Girod Ami"
+    ],
+    "Agriculteurs": [
+      "Chouet Alfred",
+      "Hermenjat Henri",
+      "Hermenjat Ls",
+      "Hermenjat Paul",
+      "Melly Armand",
+      "Melly Ferdinand"
+    ],
+    "Amodiateur": [
+      "Melly Armand"
     ]
   }
 }

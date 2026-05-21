@@ -1,210 +1,120 @@
 {
-  "ALLAMAN": {
-    "Autorités communales.": [
-      "Cauderay Alph.",
-      "Cauderay Isaac"
+  "VILLE D'ORBE": {
+    "Distilleries": [
+      "Erni Adolphe",
+      "Krebs Emile"
     ],
-    "Syndic": [
-      "Demont Alfred"
+    "Draperies-Nouveautés": [
+      "Bloch Edmond",
+      "Gilliéron Louis",
+      "Nicolin Jules",
+      "Ramelet Emile"
     ],
-    "Municipaux": [
-      "Cauderay",
-      "Berger Aug.",
-      "Cauderay-Gallay Aug.",
-      "Ethenoz Henri",
-      "Paquier Emile"
+    "Eaux gazeuses et minérales": [
+      "Bousson & Bezençon",
+      "Suri Auguste"
     ],
-    "Secrétaire": [
-      "Paux François"
+    "Engrais chimiques": [
+      "Beauverd Emile",
+      "Bezençon Hri & Bousson Louis"
     ],
-    "Boursier communal": [
-      "Cauderay Alois"
+    "Entrepreneurs": [
+      "Addor Jules & Jaquier",
+      "Castelli Louis",
+      "Castelli J. & Ferrario P.",
+      "Zeni Félix"
     ],
-    "Employé communal": [
-      "Hugonet H."
+    "Epicerie, mercerie": [
+      "Berthoud Louis",
+      "Bonozn Louis",
+      "Conod Albert",
+      "Demont-Gindroz Olive",
+      "Dietrich B.",
+      "Dissard Pierre",
+      "Dupuis Fernand",
+      "Gianoli-Devenoge Mathilde",
+      "Golay-Dällenbach Louisa",
+      "Mercier Lina, Vve.",
+      "Muller Isidore",
+      "Petitpierre Ch., S. A.",
+      "Rosset Eugène",
+      "Roth R.",
+      "Société coopérative de consommation L'Economie",
+      "Sonnay Louis",
+      "Suri Simond-Aug."
     ],
-    "Agriculteurs (voir aussi Vignerons).": [
-      "Cauderay-Ponnaz A.",
-      "Cornaz Léon. T.",
-      "Haemmerli"
+    "Eternit — Explosifs": [
+      "Beauverd Em."
     ],
-    "Apiculteurs.": [
-      "Cornaz Léon. T.",
-      "Paux François",
-      "Rochat Jules",
-      "Trottet M."
+    "Ferblantiers-couvreurs": [
+      "Alvazzi Auguste",
+      "Cossetto M.",
+      "Layaz Oscar",
+      "Rogivue Léon",
+      "Troyon Emile",
+      "Vallotton Lucien"
     ],
-    "Assesseur.": [
-      "Cauderay Louis"
+    "Fers et métaux": [
+      "Ramuz-Bonzon Paul",
+      "Reymond Gustave"
     ],
-    "Associations mutualistes de retraite.": [
-      "Paux F."
+    "Forestier de la ville": [
+      "Barbey Auguste"
     ],
-    "Aubergistes.": [
-      "Demont Emile",
-      "Paquier Emile"
+    "Fromages (march. de)": [
+      "Conod Eugène",
+      "Nerny Louis",
+      "Roth Rodolphe"
     ],
-    "Auto-transports.": [
-      "Demont A."
+    "Géomètres officiels": [
+      "Jomini Paul",
+      "Thomas H."
     ],
-    "Boulangerie-pâtisserie communale.": [
-      "Jaquerod A."
+    "Grains et farines en gros": [
+      "Moulins Rod. (S. A.)",
+      "Bousson & Bezençon"
     ],
-    "Buraliste postal.": [
-      "Pasche Lucien"
+    "Graines fourragères": [
+      "Beauverd Emile",
+      "Bezençon Hri & Bousson Louis",
+      "Rosset Eugène"
     ],
-    "Café de tempérance.": [
-      "Pittet Jean"
+    "Gypsiers": [
+      "Antonietti Alfred",
+      "Antonietti Léon",
+      "Gagliardini E. & Dalberto Jean",
+      "Jaques Ernest",
+      "Jaques Maurice",
+      "Perolini frères"
     ],
-    "Charcutier.": [
-      "Grandchamp"
+    "Hongreur": [
+      "Cochet Jules"
     ],
-    "Cantonnier.": [
-      "Cauderay Albert"
+    "Horlogers": [
+      "Béguelin Marcel",
+      "Brosolasco Louis",
+      "Guignard Francis",
+      "Magnin Luc"
     ],
-    "Charpentier.": [
-      "Pittet Jean"
+    "Hôtels": [
+      "Collet Hri",
+      "Matthey Léon"
     ],
-    "Chef de gare.": [
-      "Crelier Paul"
+    "Huissiers": [
+      "Dupuis Edouard",
+      "Combe Gustave",
+      "Combe Charles"
     ],
-    "Sous-chef": [
-      "Sonnard"
+    "Imprimeries": [
+      "Jaques Eugène",
+      "Ed. Velay Fils"
     ],
-    "Charretier.": [
-      "Paquier Lucien"
+    "Infirmerie": [
+      "Infirmerie"
     ],
-    "Coiffeuse.": [
-      "Caillat Hélène"
-    ],
-    "Combustibles.": [
-      "Demont A."
-    ],
-    "Commission scolaire.": [
-      "Breitenstein E.",
-      "Maurice P",
-      "Cauderay Charles",
-      "Cauderay Alphonse",
-      "Cornaz Henri"
-    ],
-    "Cordonnier.": [
-      "Jaquillard Albert"
-    ],
-    "Couturières.": [
-      "Paquier Louise",
-      "Thélin"
-    ],
-    "Epicerie, mercerie.": [
-      "Cauderay-Canazin. R.",
-      "Geneyne Hélène"
-    ],
-    "Fromages.": [
-      "Freitag Fritz"
-    ],
-    "Gypsiers-peintres.": [
-      "Cauderay-Berger Aug."
-    ],
-    "Inspecteur du bétail.": [
-      "Cauderay Isaac"
-    ],
-    "Instituteurs.": [
-      "Paux François",
-      "André Olive"
-    ],
-    "Jardiniers.": [
-      "Marmet Eugène",
-      "Pion Samuel",
-      "Robert A.",
-      "Sauty François"
-    ],
-    "Laitier.": [
-      "Société de Laiterie"
-    ],
-    "Maçon.": [
-      "Burger Charles"
-    ],
-    "Maréchal.": [
-      "Weber Jacob"
-    ],
-    "Pêcheurs.": [
-      "Anthonet Emile. T.",
-      "Clerc Frédéric",
-      "Pittet Jean"
-    ],
-    "Rentiers, propriétaires.": [
-      "Maurice, hoirs de F.",
-      "Rochat Emile",
-      "Goudet-Revillod H.",
-      "Maurice Pierre",
-      "Revillod André",
-      "Revillod Jacques"
-    ],
-    "Sables et graviers (exploitation de)": [
-      "Paschoud G. T."
-    ],
-    "Sociétés.": [
-      "de laiterie. R.",
-      "de musique",
-      "Jeunesse",
-      "de tir",
-      "Soc. an. des sables et graviers de l'Aubonne"
-    ],
-    "Téléphone.": [
-      "Bureau de poste"
-    ],
-    "T. S. F. (articles de).": [
-      "Demont A."
-    ],
-    "Tuyaux en ciment, briques, planelles (fab. de).": [
-      "Cornaz L. & fils"
-    ],
-    "Viticulteurs et vignerons.": [
-      "Anthonet Hri",
-      "Blanchard L.",
-      "Cauderay Ch.",
-      "Cauderay Alph.",
-      "Cauderay Isaac",
-      "Cauderay Ls de Jules",
-      "Cauderay L.-Frs",
-      "Chanson Emile",
-      "Clerc Jean",
-      "Dirac Joseph",
-      "Eperon Alexandre",
-      "Hugonet Jules",
-      "Lagnel François",
-      "Marmet Eugène",
-      "Paquier Aloys",
-      "Paquier Hri",
-      "Paquier Lucien",
-      "Ribaux Georges",
-      "Rochat Jules",
-      "de Siebenthal Albert",
-      "Pion Ch.",
-      "Thélin Robert",
-      "Villard Louis"
-    ],
-    "Voiturier communal.": [
-      "Paquier Lucien"
-    ]
-  },
-  "BURSINEL": {
-    "Autorités communales.": [
-      "George Julien",
-      "Bolomey Georges"
-    ],
-    "Syndic": [
-      "Monod Jean"
-    ],
-    "Municipaux": [
-      "Blanchard Vincent",
-      "Larpin Gustave",
-      "Widmer Gustave"
-    ],
-    "Secrétaire": [
-      "Béday Adalbert"
-    ],
-    "Boursier": [
-      "Ramel Louis"
+    "Inspecteur du bétail": [
+      "Dupuis Fritz",
+      "Troyon Alfred"
     ]
   }
 }

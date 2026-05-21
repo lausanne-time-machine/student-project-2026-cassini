@@ -1,243 +1,123 @@
 {
-  "SASSEL": {
-    "Commission scolaire": [
-      "Cosendai-Bersier Paul",
-      "Fivaz César",
-      "Dufey Paul"
+  "Ville de Nyon": {
+    "Mécaniciens.": [
+      "Bally Louis",
+      "Dufour-Félix Eug.",
+      "Eicher Hans",
+      "Favre Alfred",
+      "Favre Georges fils",
+      "Jeanneret Maurice",
+      "Louis Albert",
+      "Rapp Alphonse",
+      "Sauter Ferdinand"
     ],
-    "Epicerie": [
-      "Baerisywl Aimé",
-      "Dufey Alida"
+    "Médecins.": [
+      "Forel Oscar-Louis",
+      "Gonet Ernest",
+      "Jomini Albert",
+      "Monastier André",
+      "Piotet G.",
+      "Sauvin-Thury Ph.",
+      "Schranz Alfred",
+      "Steinhauslin Henri"
     ],
-    "Inspecteur du bétail": [
-      "Durussel Jules"
+    "Menuisiers.": [
+      "Antonioli Jean",
+      "Bochaton Emile",
+      "Buvelot Adolphe",
+      "Champin Pierre",
+      "Dorier Henri",
+      "Delay Paul",
+      "Dorier Albert",
+      "Golay Julien",
+      "Roux frères",
+      "Zeender frères"
     ],
-    "Instituteurs": [
-      "Berger André",
-      "May Madeleine"
+    "Mercerie.": [
+      "Baumann Marguerite",
+      "Le Louvre",
+      "Lob Salomon",
+      "Martin & Co.",
+      "Quiblier Lucien",
+      "Reymond Hélène",
+      "Rossier Hélène"
     ],
-    "Machine à battre": [
-      "Commune"
+    "Meubles.": [
+      "Bertinotti Constant",
+      "Cristin Georges, fils (meubles antiq.)",
+      "Graber Robert",
+      "Noguet Louis",
+      "Muller Ed.",
+      "Roux frères",
+      "Völter Willy"
     ],
-    "Maréchal": [
-      "Ballif Louis"
+    "Modistes.": [
+      "Chaillet, Mlle",
+      "Claudet L.",
+      "Crochat Julie",
+      "Gilliéron-Gonthier, dame",
+      "Kapp Blanche et Frieda",
+      "Press Lucie"
     ],
-    "Poste": [
-      "Fivat Maurice"
+    "Musée.": [
+      "Commission du Musée (Vacat)"
     ],
-    "Sociétés": [
-      "de fromagerie et laiterie. R.",
-      "Syndicat agricole. R.",
-      "Crédit mutuel de Sassel (Caisse Raiffeisen). R."
+    "Notaires.": [
+      "Bonzon Ernest",
+      "Burnier André",
+      "Dupraz Adolphe & Perrier Georges",
+      "Fillettaz Emile"
     ],
-    "Tailleuses": [
-      "Cosandey Mina",
-      "Dufey Marie"
+    "Œufs (comm. d').": [
+      "Lizon-au-Cire Albert",
+      "Schærer, Vve de Jacques & fille"
     ],
-    "Téléphone": [
-      "Pinte de l'Etoile"
-    ]
-  },
-  "SEDEILLES": {
-    "Autorités communales": [
-      "Goumaz Arthur",
-      "Bersier Jean"
+    "Officier d'état-civil.": [
+      "Thomas Jules"
     ],
-    "Syndic": [
-      "Goumaz Paul"
+    "Outils agricoles.": [
+      "Boldrini & Cie",
+      "Veuillet, Vve de François"
     ],
-    "Municipaux": [
-      "Morattel Ls",
-      "Goumaz E. R.",
-      "Miéville Alb.",
-      "Morattel Oscar",
-      "Cornut Alfred",
-      "Savary Ele."
+    "Outils d'horlogerie.": [
+      "Dumont P. fils & Cie"
     ],
-    "Agriculteurs": [
-      "Cachin Charles",
-      "Cornut Alfred",
-      "Curchod Henri",
-      "Dayras Alfred",
-      "Goumaz Adolphe",
-      "Goumaz Adr.",
-      "Goumaz Louis",
-      "Goumaz Ulysse",
-      "Morattel Louis",
-      "Morattel Marcel",
-      "Pages Ernest",
-      "Pages Gustave",
-      "Pages frères",
-      "Peytregnet Robert",
-      "Roux Oscar",
-      "Savary Henri"
+    "Papeteries.": [
+      "Aubert-Kallenberg Eugène",
+      "Aubert Suzanne, Mlle",
+      "Chapallaz Henri",
+      "Froidevaux Armand",
+      "Peter Charles"
     ],
-    "Mutualité scolaire de retraite": [
-      "Lagraz A."
+    "Papiers peints.": [
+      "Kæppeli Hermann",
+      "Peter Charles"
     ],
-    "Société mutualiste de retraite": [
-      "Rossier A."
+    "Parapluies.": [
+      "Arcioli-Besson Emma",
+      "Bardet, dame",
+      "Pinget François",
+      "Weill Jules"
     ],
-    "Aubergiste": [
-      "Mauroux Reym."
+    "Pasteurs.": [
+      "Montandon Albert",
+      "Rittmeyer Charles",
+      "Wyrsch Arnold"
     ],
-    "Bétail (march. de)": [
-      "Goumaz Adrien"
+    "Pâtisserie (Voir aussi Confiseurs).": [
+      "Genoux Robert",
+      "Jan Edmond",
+      "Jaquier Emile",
+      "Matthey-Planche Fritz",
+      "Moser Ernest",
+      "Wormser Henri"
     ],
-    "Charron": [
-      "Glannaz Alexandre"
+    "Péages fédéraux.": [
+      "Piguet Louis"
     ],
-    "Commission scolaire": [
-      "Goumaz Arthur",
-      "Cornut Alfred"
-    ],
-    "Entrepreneurs-maçons": [
-      "Magistrini André",
-      "Salomon Ernest"
-    ],
-    "Epicerie": [
-      "Juvet Juliette"
-    ],
-    "Fourches et rateaux (fabr. de)": [
-      "Cornut Alfred",
-      "Dayras Alf."
-    ],
-    "Inspecteur du bétail": [
-      "Goumaz Ar."
-    ],
-    "Instituteur": [
-      "Lagnaz Alfred"
-    ],
-    "Laitier": [
-      "Perrin Edouard"
-    ],
-    "Menuisier": [
-      "Goumaz Henri"
-    ],
-    "Poste": [
-      "Chassot Henri"
-    ],
-    "Rentiers": [
-      "Goumaz Ulysse",
-      "Morattel Oscar"
-    ],
-    "Sociétés": [
-      "de fromagerie. R.",
-      "du battoir à blé. R.",
-      "Syndicat agricole. R.",
-      "Caisse d'assurance du bétail bovin"
-    ],
-    "Tailleur": [
-      "Pages C."
-    ],
-    "Tailleuses": [
-      "Morattel Lucie"
-    ],
-    "Téléphone public": [
-      "Morattel Lucie"
-    ]
-  },
-  "SEIGNEUX": {
-    "Autorités communales": [
-      "Vauthey Hector",
-      "Déglon Aloïs"
-    ],
-    "Syndic": [
-      "Vauthey Adolphe"
-    ],
-    "Municipaux": [
-      "Wist Hri",
-      "Schwab Ernest",
-      "Vauthey Armand",
-      "Pittet Armand",
-      "Trolliet Emile",
-      "Pasche Robert"
-    ],
-    "Huissier et garde-police": [
-      "Vauthey Jules"
-    ],
-    "Agriculteurs": [
-      "Cachin Aloïs",
-      "Cachin Emile",
-      "Cachin Frédéric",
-      "Cachin Fritz",
-      "Cachin Arthur",
-      "Cachin Ulysse",
-      "Corthésy Octave",
-      "Cosandey Emile",
-      "Dovat William",
-      "Pasche Félix",
-      "Pittet Emile",
-      "Pittet Eugène",
-      "Pittet Louis",
-      "Pittet Jules",
-      "Schwab Ernest",
-      "Tenthorey Eugène",
-      "Trolliet Alfred",
-      "Trolliet Emile",
-      "Vauthey Alfred",
-      "Vauthey Jean",
-      "Vauthey Louis",
-      "Vauthey Ulysse",
-      "Wist Jules"
-    ],
-    "Apiculteurs": [
-      "Ballif Adrien",
-      "Bovey Oscar",
-      "Cachin Arthur",
-      "Dovat William",
-      "Jaquier Jules",
-      "Tenthorey Eug.",
-      "Trolliet Emile",
-      "Vauthey Adolphe",
-      "Wist Henri"
-    ],
-    "Associations mutualistes de retraite": [
-      "Ballif Ad."
-    ],
-    "Aubergiste": [
-      "Vauthey Alfred"
-    ],
-    "Commission scolaire": [
-      "Trolliet-Bovey",
-      "Pasche Robert",
-      "Vauthey Armand"
-    ],
-    "Couturière": [
-      "Cachin Rose"
-    ],
-    "Epiceries, merceries": [
-      "Bettex Rosa",
-      "Cachin Frédéric. R.",
-      "Tenthorey-Mermoud Marie. R."
-    ],
-    "Inspecteur du bétail": [
-      "Vauthey Ul."
-    ],
-    "Instituteurs": [
-      "Ballif Adrien",
-      "Rochat Hélène"
-    ],
-    "Maréchal": [
-      "Bovey Fernand"
-    ],
-    "Meunier": [
-      "Trolliet Henri"
-    ],
-    "Scieur": [
-      "Trolliet Henri"
-    ],
-    "Sellier": [
-      "Cachin Aimé"
-    ],
-    "Sociétés": [
-      "de fromagerie. R.",
-      "Crédit agricole. R.",
-      "Syndicat agricole. R.",
-      "Assurance du bétail"
-    ],
-    "Téléphoniste": [
-      "Vauthey Alfred"
+    "Pédicures.": [
+      "Dumont Paul",
+      "Reymond Const."
     ]
   }
 }

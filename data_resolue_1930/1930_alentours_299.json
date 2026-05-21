@@ -1,110 +1,155 @@
 {
-  "Montreux": {
-    "Fruits, primeurs, fleurs.": [
-      "Gonthier Emile",
-      "Grognuz Ed.",
-      "Guntlisberger Gottfried",
-      "Juillard-Humberset Mathilde",
-      "Jaccard Ch.",
-      "Levinsky Jakes",
-      "Luthy",
-      "Meier Paul",
-      "Mottier M.",
-      "Nançoz Albert",
-      "Noll-Mury",
-      "Palestra & Cie",
-      "Pasteur-Wicht",
-      "Pezzochio François",
-      "Peyrollaz Hri.",
-      "Pitteloud-Gabioud J.",
-      "Ponzini Angela",
-      "Prina S.",
-      "Purro Albine",
-      "Roulier S.",
-      "Schlageter Arnold",
-      "Stoppa",
-      "Steffen Berthe",
-      "Steffen Robert",
-      "Tettamanti Carlo",
-      "Trullas & Cie",
-      "Turin Henri",
-      "Wagnière François",
-      "Zanazzo-Balestra",
-      "Zuber Emile",
-      "Zurbrugg C."
+  "VILLE D'AIGLE": {
+    "Beurre et œufs.": [
+      "Ruegsegger F.",
+      "Schwager Aug.",
+      "Société de Laiterie d'Aigle"
     ],
-    "Gardes-malades": [
-      "Bureau de l'association",
-      "Bureau de garde-malades diplômées",
-      "Aubert Léa",
-      "Badan",
-      "Bellenot",
-      "Berdoz",
-      "Böttcher",
-      "David-Mayor",
-      "Dufour Andrée",
-      "Fonjallaz",
-      "Francey",
-      "Hausmann B.",
-      "Home catholique international et garde-malades",
-      "Légeret Marg.",
-      "Martin",
-      "Malherbe C.",
-      "Mallet",
-      "Messmer L.",
-      "Rau",
-      "Rochat",
-      "Rouge Adèle",
-      "Sieber-Francey"
+    "Bijoutiers.": [
+      "Golay Paul"
     ],
-    "Garde-meubles": [
-      "Allamand Jules",
-      "Millasson Chs"
+    "Bitter (fab. de).": [
+      "Leyvraz Henri"
     ],
-    "Gaz": [
-      "Société veveysanne du gaz Vevey-Montreux"
+    "Blanchisseuses.": [
+      "Borloz Louise",
+      "Bovet M.",
+      "Cornioley C., Vve",
+      "Dupertuis, Mlle",
+      "Schacher-Wandfluh Marcelle"
     ],
-    "Géomètres officiels": [
-      "Jaquet Edmond",
-      "Maron Robert",
-      "Thibaud Paul"
+    "Bois (march. de).": [
+      "Augsburger F.",
+      "Kaufmann Alexandre",
+      "Clavadetscher Jean",
+      "Parqueterie d'Aigle",
+      "Kernen Aloïs",
+      "Usine du Molage",
+      "Waridel E."
     ],
-    "Gérants": [
-      "Brémond (de)",
-      "Furer Pierre",
-      "Herminjard Ls",
-      "Légeret Ch.",
-      "Maron Em. et Robert",
-      "Morier O.",
-      "Mottier Js",
-      "Puenzieux Albert",
-      "Raccoursier Eugène",
-      "Veillard H."
+    "Bouchers.": [
+      "Calame J.",
+      "Crausaz Ad.",
+      "Favrod-Coune Ls",
+      "Dupertuis H.",
+      "Krümel Charles"
     ],
-    "Glace": [
-      "Fabrique de glace hygiénique"
+    "Boulangers.": [
+      "Béguelin Virgile",
+      "Hauswirth L.",
+      "Moser-Dumusc Jean",
+      "Péclard Ernest",
+      "Henry A.",
+      "Spahr Max",
+      "Wagner Emile"
     ],
-    "Grains et farines": [
-      "Budry Jean"
+    "Brasseur.": [
+      "Scheller Emile",
+      "brasseries réunies Orbe-Aigle"
     ],
-    "Graines (march. de)": [
-      "Dubois Charles-Eugène",
-      "Dubois-Fasnacht J.",
-      "Jeanrenaud Ed. & Cie",
-      "Junod J.-A."
+    "Brevets d'invention.": [
+      "Flesch L.",
+      "Pahud J.-D."
     ],
-    "Graveurs": [
-      "Brand H.",
-      "Harnisch B.",
-      "Lecoultre-Seitz J."
+    "Bureau de police.": [
+      "Maison de Ville",
+      "Martin Louis"
     ],
-    "Gymnastique médicale et suédoise": [
-      "Christin G.",
-      "Courant Charles",
-      "Funkquist G.-D.",
-      "Gmehlin H.",
-      "Rouilly Em.",
-      "Widell Vincent"
+    "Cafetiers.": [
+      "Anex Robert",
+      "Blum Ernest",
+      "Borloz Henri",
+      "Chiochetti Angel",
+      "Dubois Alexandre",
+      "Renaud Léon",
+      "Herren Franz",
+      "Jaggi, hoirie",
+      "Jouvenat Robert",
+      "Mercier Aimé",
+      "Monod Ami",
+      "Pernet J.",
+      "Périllat Eugène",
+      "Reymondin Charles",
+      "Schaer Fréd.",
+      "Schibler Max",
+      "Streib, Vve de Georges",
+      "Tauxe H.-Eug.",
+      "Vaudroz Robert",
+      "Voutaz, hoirie",
+      "Zimmermann Emma",
+      "Herzog"
+    ],
+    "Cafés-chocolat.": [
+      "Foyer pour tous",
+      "Vve Veillard Rosalie"
+    ],
+    "Canneur de chaises.": [
+      "Drapel Aug."
+    ],
+    "Cercle.": [
+      "Union"
+    ],
+    "Cercueils.": [
+      "Jordan-Rieben Victor",
+      "Schallenberger Th.",
+      "Seewer Emile"
+    ],
+    "Chapeliers.": [
+      "Lavanchy Henri",
+      "Soutter-Chausson Marguerite"
+    ],
+    "Charcutiers.": [
+      "Calame J.-R.",
+      "Crausaz Ad.",
+      "Dupertuis H.",
+      "Krümel Ch."
+    ],
+    "Charpentiers.": [
+      "Kaufmann Alexandre",
+      "Clavadetscher Jean",
+      "Richoz Célestin",
+      "Vernaud Charles"
+    ],
+    "Charrons.": [
+      "Burki Adrien",
+      "Winkler Ernest"
+    ],
+    "Chaussures (march. de).": [
+      "Chappuis Ulysse",
+      "Détraz frères",
+      "Guggenheim Gaston",
+      "Lob Paul",
+      "Byrde-Marchetti Rose",
+      "Spozzio A."
+    ],
+    "Chefs d'exploitation.": [
+      "R. Dubochet",
+      "Mce Cottier",
+      "Jules Petitmetmet"
+    ],
+    "Chefs de gare.": [
+      "Seilaz Fritz",
+      "Serex Ami"
+    ],
+    "Chef de section.": [
+      "Luginbühl Rob."
+    ],
+    "Chiffonniers.": [
+      "Bernard Henri",
+      "Burri Emmanuel",
+      "Stroubhart Henri"
+    ],
+    "Cigares et tabacs.": [
+      "Bettler et Scheuber",
+      "Fulghera, Mme",
+      "Gissler Emile",
+      "Jordan-Rieben V.",
+      "Merle Jeanne"
+    ],
+    "Cinémas.": [
+      "« L'Aiglon »",
+      "« Casino »",
+      "Dubois frères"
     ]
   }
 }

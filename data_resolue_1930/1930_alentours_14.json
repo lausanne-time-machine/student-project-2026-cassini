@@ -1,177 +1,233 @@
 {
-  "Bex": {
-    "Cordonnier": [
-      "Garin Jules"
-    ],
-    "Entrepreneurs": [
-      "Dolci Charles",
-      "Pessina Alexandre"
-    ],
-    "Epicerie": [
-      "Société de consommation"
-    ],
-    "Garde de triage": [
-      "Duvoisin Aug."
-    ],
-    "Inspecteur du bétail": [
-      "Ray Jules"
-    ],
-    "Inspecteur des montagnes": [
-      "Ray Jules"
-    ],
-    "Instituteurs": [
-      "Schenkel Lucien",
-      "Schenkel-Notz Marthe"
-    ],
-    "Laitier": [
-      "Rochat-Meylan Fçois."
-    ],
-    "Maréchal": [
-      "Brünimann Werner"
-    ],
-    "Pasteur": [
-      "Meyer Arnold"
-    ],
-    "Poste": [
-      "Duvoisin Justin"
-    ],
-    "Sel (débit de)": [
-      "Roulet Gilbert"
-    ],
-    "Sociétés": [
-      "de fromagerie",
-      "Coopérative de consommat.",
-      "de chant « l'Union du Jura »",
-      "du Cercle"
-    ],
-    "Tailleur de pierres": [
-      "Bordini Albert"
-    ],
-    "Téléphoniste": [
-      "Duvoisin Alf."
-    ]
-  },
-  "DISTRICT DE LAUSANNE": {
-    "Préfet": [
-      "Prod'hom Arthur"
-    ],
-    "Substitut": [
-      "Faillettaz Eugène"
-    ],
-    "Receveur": [
-      "Grec Benjamin"
-    ],
-    "Conservateur du registre foncier": [
-      "Gonvers Armand"
-    ],
-    "Voyer du Ier arrondissement": [
-      "Thierry Constant"
-    ],
-    "Tribunal de district (Chambre civile)": [
-      "Cérésole Arnold",
-      "Piguet Marius",
-      "Pavillard Jean",
-      "Gamboni Maurice",
-      "Poudret Eugène",
-      "Favez Jean"
-    ],
-    "Chambre pénale": [
-      "Fonjallaz Benjamin",
-      "Maget Adolphe",
-      "Milliquet Charles",
-      "Bussy Henri",
-      "Magnenat Jacques",
-      "Favez Jean"
-    ],
-    "Poursuites": [
-      "Rey Jules"
-    ],
-    "Faillites": [
-      "Cavin Eugène"
-    ]
-  },
-  "BELMONT-SUR-LAUSANNE": {
-    "Autorités communales": [
-      "Blanc Auguste",
-      "Henri Bron",
-      "Corbaz-Ruby Louis",
-      "Corbaz Paul",
-      "Martin Fréd.",
-      "Bugnon Georges",
-      "Dellsperger Ernest",
-      "Baatard Paul",
-      "Blanc Auguste"
-    ],
-    "Agriculteurs": [
-      "Abetel Clément",
-      "Blanc Auguste",
-      "Bugnon Georges",
-      "Corbaz Louis",
-      "Corbaz François",
-      "Diserens Albert",
-      "Liardet Elie",
-      "Martin Fréd.",
-      "Nicolas Hri."
-    ],
-    "Assesseur": [
-      "Bugnon Georges"
-    ],
-    "Blanchisseuses": [
-      "Corbaz Elise",
-      "Joly Suzanne"
-    ],
-    "Boulanger": [
-      "Forestier Alfred"
-    ],
-    "Cafés": [
-      "Mage Jean",
-      "Liardet Benjamin",
-      "Nicolini Oscar"
-    ],
-    "Crèmeries": [
-      "Forestier Alfred",
-      "Hänni Ad."
-    ],
-    "Cimenteur": [
-      "Abetel Emile"
+  "RIVAZ": {
+    "Société mutualiste de retraite « La Vigneronne ».": [
+      "Chalet Tour d'Aï",
+      "Chalet l'Oasis"
     ],
     "Commission scolaire": [
-      "Chapuis Paul",
-      "Bugnion Georges"
+      "Dubuis Alfred",
+      "Borloz-Tauxe Emile",
+      "Vaudroz Frédéric"
     ],
-    "Couturières": [
-      "Blanc Alice",
-      "Bron Isaline"
+    "Epicerie, tabacs": [
+      "Bertholet Félix",
+      "Borloz-Bonin J. T."
     ],
-    "Dépositaire postal": [
-      "Corbaz André"
-    ],
-    "Entrepreneur": [
-      "Passera Ernest"
-    ],
-    "Epiceries": [
-      "Forestier Alfred",
-      "Hänni Adolphe",
-      "Nicolini Oscar"
-    ],
-    "Gravière": [
-      "Nicolas Henri"
+    "Fruits et légumes": [
+      "Bonin Gustave"
     ],
     "Inspecteur du bétail": [
-      "Blanc Louis",
-      "Bugnion Georges"
+      "Borloz Jules",
+      "Bournoud Alexis"
     ],
     "Instituteurs": [
-      "Cordey Emile",
-      "Bérard Rose"
+      "Fontannaz Elie",
+      "Walter Marguerite"
     ],
-    "Maçons": [
-      "Abetel Emile",
-      "Bugnion Henri",
-      "Passera Ernest"
+    "Lingère": [
+      "Grosjean Fanny"
     ],
-    "Pasteur": [
-      "Chapuis Paul"
+    "Maçon": [
+      "Leyvraz Numa"
+    ],
+    "Menuisiers": [
+      "Zanetta Edouard",
+      "Warpelin Marc"
+    ],
+    "Pensions pour enfants": [
+      "Les Fougères",
+      "Les Pommettes"
+    ],
+    "Pensions d'étrangers": [
+      "Hôtel Bellevue",
+      "Pension Dubuis",
+      "Hôt.-Pens. Bellevue",
+      "Pension Dent du Midi",
+      "Pension Bois-Gentil",
+      "Pens. Mon Abri",
+      "Pens. Soldanelle",
+      "Pension Sauge-Tauxe",
+      "Hôtel Victoria"
+    ],
+    "Poste": [
+      "Leyvraz Augusta"
+    ],
+    "Renseignements": [
+      "Société de développement"
+    ],
+    "Scierie": [
+      "Commune"
+    ],
+    "Sociétés": [
+      "Laiterie de Corbeyrier",
+      "Société de développement",
+      "Société des francs-tireurs",
+      "Société des tireurs de Corbeyrier",
+      "Société des Sapeurs-pompiers",
+      "Chœur d'hommes",
+      "Jeunesse «Edelweiss»",
+      "Syndicat de Luan"
+    ],
+    "Tailleuse": [
+      "Leyvraz Madeleine"
+    ],
+    "Téléphone public": [
+      "Bureau des postes"
+    ],
+    "Voituriers": [
+      "Leyvraz Jules",
+      "Leyvraz Robert"
+    ]
+  },
+  "GRYON": {
+    "Autorités communales": [
+      "Chamorel Louis",
+      "Reuteler Henri",
+      "Saussaz Philippe",
+      "Ravy François",
+      "Amiguet Aug.",
+      "Moreillon Edouard",
+      "Aulet Louis",
+      "Amiguet J. fils",
+      "Aulet François",
+      "Moreillon François"
+    ],
+    "Commission scolaire": [
+      "Anex-Rey Philippe",
+      "Amiguet Jules"
+    ],
+    "Agriculteurs": [
+      "Amiguet Auguste",
+      "Amiguet Gabriel",
+      "Amiguet Jles",
+      "Anex Cés.",
+      "Anex Hri.",
+      "Aulet François",
+      "Aulet Louis",
+      "Besse Modeste",
+      "Bocherens Ls",
+      "Bocherens Phil.",
+      "Chamorei Ls",
+      "Cottier Phil.",
+      "Delacrétaz Albert",
+      "Delacrétaz Gustave",
+      "Finger Charles",
+      "Fumeaux Lucien",
+      "Jaquerod Vinc.",
+      "Moreillon-Delacrétaz Ph.",
+      "Moreillon-Gaud François",
+      "Moreillon Félix",
+      "Moreillon Jules",
+      "Mösching A.",
+      "Nicollerat Daniel",
+      "Normand Abram",
+      "Roussi Alfred",
+      "Ruchet Jules",
+      "Vurlod Charles"
+    ],
+    "Mutualité scolaire de retraite": [
+      "Rey Marcel"
+    ],
+    "Société mutualiste de retraite": [
+      "Jaquerod V."
+    ],
+    "Blanchisseuses": [
+      "Moreillon Elise",
+      "Moreillon Julie",
+      "Normand-Moreillon Olga",
+      "Pflug Marie"
+    ],
+    "Bois (march. de)": [
+      "Kohly Jean"
+    ],
+    "Boulangers": [
+      "Anex-Testaz",
+      "Meylan Louis"
+    ],
+    "Buraliste postal": [
+      "Henry Ernest"
+    ],
+    "Bureau des étrangers": [
+      "Amiguet Jules"
+    ],
+    "Cafés": [
+      "Delacrétaz Gust.",
+      "Refuge des Diablerets",
+      "Moreillon Paul",
+      "Buffet de la Gare",
+      "Richard-Vurlod",
+      "Tour d'Anzeindaz",
+      "Schopfer Alfred",
+      "Jaquerod Vincent",
+      "Moreillon-Delacrétaz Ph."
+    ],
+    "Charpentiers": [
+      "Jaggi Pierre",
+      "Kohly Jean"
+    ],
+    "Charretiers": [
+      "Bocherens Philippe",
+      "Kohly Albert",
+      "Testaz Henri"
+    ],
+    "Chef de section": [
+      "Amiguet Jules"
+    ],
+    "Chef de gare": [
+      "Bratschy Henri"
+    ],
+    "Confiseurs": [
+      "Anex Henri fils",
+      "Meylan Louis"
+    ],
+    "Cordonniers": [
+      "Broyon Ern.",
+      "Pfulg Albert"
+    ],
+    "Couturières": [
+      "Moreillon Elisa",
+      "Moreillon-Normand Mathilde",
+      "Ravy Marie"
+    ],
+    "Crémerie": [
+      "Saussaz Louise",
+      "Aux Pars"
+    ],
+    "Electriciens": [
+      "Saussaz Gustave"
+    ],
+    "Entrepreneur": [
+      "Marchionini Pierre"
+    ],
+    "Epicerie, mercerie, tabacs": [
+      "Amiguet J. fils",
+      "Coopérative de Consommation",
+      "Genet Robert",
+      "Thomas Pauline",
+      "Verboven Joseph"
+    ],
+    "Garde-chasse": [
+      "Herren"
+    ],
+    "Inspecteur du bétail": [
+      "Anex César"
+    ],
+    "Instituteur": [
+      "Rey Marcel"
+    ],
+    "Institutrices": [
+      "Laesser Susanne",
+      "Roch Aline",
+      "Anex Rosa"
+    ],
+    "Laitier": [
+      "Porchet Robert"
+    ],
+    "Location de chalets": [
+      "Bratschy Hri"
+    ],
+    "Maçon": [
+      "Sartoretti Pierre"
     ]
   }
 }
