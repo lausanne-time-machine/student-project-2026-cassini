@@ -389,7 +389,9 @@ display(Plot.plot({
     Plot.barX(topMetiers, {
       x: "total",
       y: "metier",
-      sort: { y: "x", reverse: true }
+        fill: "url(#bar-gradient)",
+
+        sort: { y: "x", reverse: true }
     }),
     Plot.text(topMetiers, {
       x: "total",
@@ -399,6 +401,21 @@ display(Plot.plot({
     })
   ]
 }))
+const svg = document.querySelector("#stats svg");
+
+if (svg && !svg.querySelector("#bar-gradient")) {
+    const defs = document.createElementNS("http://www.w3.org/2000/svg", "defs");
+
+    defs.innerHTML = `
+    <linearGradient id="bar-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a8a" />
+      <stop offset="50%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#00f6ff" />
+    </linearGradient>
+  `;
+
+    svg.prepend(defs);
+}
 ```
 
 ---
@@ -425,15 +442,36 @@ display(Plot.plot({
   marks: [
     Plot.line(evolutionMetier, {
       x: "annee",
-      y: "total"
+      y: "total",
+        stroke: "#00f6ff",
+        stroke: "url(#line-gradient)",
+        strokeWidth: 4,
+        strokeLinecap: "round",
+        strokeLinejoin: "round"
     }),
     Plot.dot(evolutionMetier, {
       x: "annee",
       y: "total",
-      tip: true
+      tip: true,
+        stroke: "#00f6ff",
     })
   ]
 }))
+const svgLine = document.querySelector("#stats svg");
+
+if (svgLine && !svgLine.querySelector("#line-gradient")) {
+    const defs = document.createElementNS("http://www.w3.org/2000/svg", "defs");
+
+    defs.innerHTML = `
+    <linearGradient id="line-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a8a" />
+      <stop offset="50%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#00f6ff" />
+    </linearGradient>
+  `;
+
+    svgLine.prepend(defs);
+}
 ```
 
 ---
@@ -457,14 +495,32 @@ display(Plot.plot({
   marks: [
     Plot.areaY(repartitionAnnuelle, {
       x: "annee",
-      y: "total"
+      y: "total",
+        fill: "url(#area-gradient)"
     }),
     Plot.line(repartitionAnnuelle, {
       x: "annee",
-      y: "total"
+      y: "total",
+        stroke: "#00f6ff",
+
     })
   ]
 }))
+const svgArea = document.querySelectorAll("#stats svg")[2];
+
+if (svgArea && !svgArea.querySelector("#area-gradient")) {
+    const defs = document.createElementNS("http://www.w3.org/2000/svg", "defs");
+
+    defs.innerHTML = `
+    <linearGradient id="area-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f6ff" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#3b82f6" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#1e3a8a" stop-opacity="0.05"/>
+    </linearGradient>
+  `;
+
+    svgArea.prepend(defs);
+}
 ```
 
 ---
@@ -495,7 +551,8 @@ display(Plot.plot({
     Plot.barX(topCommunes, {
       x: "total",
       y: "commune",
-      sort: { y: "x", reverse: true }
+        fill: "url(#bar-gradient)",
+        sort: { y: "x", reverse: true }
     }),
     Plot.text(topCommunes, {
       x: "total",
@@ -505,6 +562,21 @@ display(Plot.plot({
     })
   ]
 }))
+const svg = document.querySelector("#stats svg");
+
+if (svg && !svg.querySelector("#bar-gradient")) {
+    const defs = document.createElementNS("http://www.w3.org/2000/svg", "defs");
+
+    defs.innerHTML = `
+    <linearGradient id="bar-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a8a" />
+      <stop offset="50%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#00f6ff" />
+    </linearGradient>
+  `;
+
+    svg.prepend(defs);
+}
 ```
 
 ---
