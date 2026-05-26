@@ -166,7 +166,7 @@ Ce projet vise à explorer ces données entre 1901 et 1940 afin de mieux compren
 <p>
 Notre travail s’articule autour de la question suivante :
 
-Comment les métiers et leur répartition géographique évoluent-ils dans le canton de Vaud entre 1920 et 1940 ?
+Comment les métiers et leur répartition géographique évoluent-ils dans le canton de Vaud entre 1901 et 1940 ?
 </p>
 <h2>Méthodologie</h2>
 <p>
