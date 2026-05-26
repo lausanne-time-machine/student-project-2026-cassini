@@ -501,13 +501,13 @@ display(Plot.plot({
     Plot.line(repartitionAnnuelle, {
       x: "annee",
       y: "total",
-        stroke: "#00f6ff",
-
+      stroke: "#00f6ff"
     })
   ]
 }))
+setTimeout(() => {
+    
 const svgArea = document.querySelectorAll("#stats svg")[2];
-
 if (svgArea && !svgArea.querySelector("#area-gradient")) {
     const defs = document.createElementNS("http://www.w3.org/2000/svg", "defs");
 
@@ -521,6 +521,7 @@ if (svgArea && !svgArea.querySelector("#area-gradient")) {
 
     svgArea.prepend(defs);
 }
+})
 ```
 
 ---
