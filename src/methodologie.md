@@ -36,33 +36,15 @@ theme: dark
 </style>
 
 <div class="top-navbar">
-  <a href="/" class="active"><span>🔬</span> Méthodologie</a>
+  <a href="/"><span>ℹ️</span> Informations</a>
+  <a href="/methodologie" class="active"><span>🔬</span> Méthodologie</a>
   <a href="/heatmap"><span>🗺️</span> Heatmap</a>
   <a href="/statistiques"><span>📊</span> Statistiques</a>
 </div>
 
 <div class="content-spacer"></div>
 
-<h1 style="text-align: center; max-width: 100%">Lausanne Time Machine — Métiers</h1>
-<br>
-
-<h2>Notre projet</h2>
-<p>
-Les annuaires vaudois constituent une source historique riche permettant d'observer la société à travers les métiers exercés, les communes et l'évolution des activités professionnelles au fil du temps.
-</p>
-<p>
-Ce projet vise à explorer ces données entre 1901 et 1940 afin de mieux comprendre l'organisation socio-professionnelle du canton de Vaud, et plus particulièrement de la région lausannoise.
-</p>
-
-<h2>Question de recherche</h2>
-<p>
-Notre travail s'articule autour de la question suivante :
-</p>
-<blockquote>
-  <strong>Comment les métiers et leur répartition géographique évoluent-ils dans le canton de Vaud entre 1901 et 1940 ?</strong>
-</blockquote>
-
----
+<h1>🔬 Méthodologie</h1>
 
 <h2>Sources des données</h2>
 <p>
