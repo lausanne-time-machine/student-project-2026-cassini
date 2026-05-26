@@ -146,13 +146,99 @@ theme: dark
 </style>
 
 <div class="top-navbar">
-  <a href="#"><span>ℹ️</span> Informations</a>
-  <a href="#"><span>🗺️</span> Heatmap</a>
-  <a href="#"><span>📖</span> Encyclopédie</a>
-  <a href="#"><span>📊</span> Statistiques</a>
+  <a href="#infos"><span>ℹ️</span> Informations</a>
+  <a href="#heatmap"><span>🗺️</span> Heatmap</a>
+  <a href="#data"><span>📖</span> Données</a>
+  <a href="#stats"><span>📊</span> Statistiques</a>
 </div>
 
 <div class="content-spacer"></div>
+<h1 id="infos" style="text-align: center; max-width: 100%">Lausanne Time Machine - Métiers</h1>
+<br>
+<h2>Notre project</h2>
+<p>
+
+Les annuaires vaudois constituent une source historique riche permettant d’observer la société à travers les métiers exercés, les communes et l’évolution des activités professionnelles au fil du temps.
+
+Ce projet vise à explorer ces données entre 1901 et 1940 afin de mieux comprendre l’organisation socio-professionnelle du canton de Vaud, et plus particulièrement de la région lausannoise.
+</p>
+<h2>Question de recherche</h2>
+<p>
+Notre travail s’articule autour de la question suivante :
+
+Comment les métiers et leur répartition géographique évoluent-ils dans le canton de Vaud entre 1920 et 1940 ?
+</p>
+<h2>Méthodologie</h2>
+<p>
+
+Les données proviennent d’annuaires historiques numérisés contenant :
+</p>
+<ul>
+  <li>Noms</li>
+  <li>Prefession</li>
+  <li>Adresses et commune</li>
+</ul>
+<p>
+L’objectif était de transformer ces documents historiques en données exploitables.
+</p>
+<h2>OCR et reconnaissance du texte</h2>
+<p>
+Nous avons utilisé des outils d’OCR (reconnaissance optique de caractères) afin d’extraire le texte depuis les scans des annuaires.
+</p>
+
+<h3>Difficultés rencontrées</h3>
+<ul>
+<li>ponctuation instable</li>
+<li>qualité variable des scans</li>
+<li>mise en page complexe</li>
+<li>erreurs sur les caractères anciens</li>
+<li>détection difficile du gras et des colonnes</li>
+</ul>
+
+<h2>Utilisation des LLM</h2>
+Après l’OCR, nous avons utilisé des modèles de langage (LLM) pour :
+<ul>
+<li>structurer les données</li>
+<li>identifier les professions</li>
+<li>séparer les informations importantes</li>
+<li>convertir automatiquement les pages en format CSV</li>
+</ul>
+
+<h2>Exemple de structure extraite</h2>
+<table>
+<thead>
+<th>Nom</th>
+<th>Commune</th>
+<th>Profession</th>
+</thead>
+<tbody>
+<tr>
+<td>Perey Georges</td>
+<td>Vufflens-le-Chateau</td>
+<td>Syndic</td></tr>
+<tr>
+<td>Delapierre Robert</td>
+<td>Vufflens-le-Chateau</td>
+<td>Secrétaire</td></tr>
+<tr>
+<td>Duruz Ernest</td>
+<td>Vufflens-le-Chateau</td>
+<td>Municipaux</td></tr>
+<tr>
+<td>Lassueur Robert</td>
+<td>Vugelles-la-Mothe</td>
+<td>Syndic</td></tr>
+
+<tr>
+<td>Marchand Maurice</td>
+<td>Vugelles-la-Mothe</td>
+<td>Apiculteurs</td></tr>
+<tr>
+<td>Rubattel Lucien</td>
+<td>Vuibroye</td>
+<td>Syndic</td></tr>
+</tbody>
+</table>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
 
@@ -197,6 +283,7 @@ const selectedAnneeIndex = view(Inputs.range([0, anneesUniques.length - 1], {
 ```js
 // Cellule 1 : La carte fixe (SANS ZOOM POSSIBLE)
 const div = display(document.createElement("div"));
+div.id="heatmap";
 div.className = "full-width-map";
 // La carte prend 100% de la hauteur de l'écran moins la barre bleue (52px)
 div.style.height = "calc(100vh - 52px)";
@@ -251,7 +338,7 @@ invalidation.then(() => map.removeLayer(heatLayer));
 
 ---
 
-<div class="card">
+<div class="card" id="data">
   <h3>🔍 Données détaillées (Année ${selectedAnnee})</h3>
   <p><i>Ce tableau liste toutes les entrées correspondantes trouvées dans les archives pour le métier et l'année sélectionnés. Utilisez la colonne <b>fichier</b> pour retrouver la page d'origine de l'annuaire.</i></p>
 
@@ -263,5 +350,163 @@ display(Inputs.table(filteredData))
 const communesManquantesData = await FileAttachment("/data/no_coords_detector.json").json();
 display(Inputs.table(communesManquantesData));
 ```
+
+</div>
+
+<div id="stats">
+<h2>📊 Statistiques</h2>
+
+<p>
+Cette section présente différentes analyses réalisées à partir des données historiques extraites des annuaires vaudois.
+Les graphiques permettent d’observer l’évolution des métiers, leur importance relative ainsi que leur répartition dans le temps.
+</p>
+
+---
+
+## Top 10 des métiers les plus représentés
+
+```js
+const topMetiers = Object.entries(
+  data.reduce((acc, d) => {
+    acc[d.metier] = (acc[d.metier] || 0) + 1;
+    return acc;
+  }, {})
+)
+.sort((a, b) => b[1] - a[1])
+.slice(1, 11)
+.map(([metier, total]) => ({ metier, total }));
+
+display(Plot.plot({
+  height: 420,
+  marginLeft: 180,
+  x: {
+    label: "Nombre d'entrées"
+  },
+  y: {
+    label: null
+  },
+  marks: [
+    Plot.barX(topMetiers, {
+      x: "total",
+      y: "metier",
+      sort: { y: "x", reverse: true }
+    }),
+    Plot.text(topMetiers, {
+      x: "total",
+      y: "metier",
+      text: d => d.total,
+      dx: 15
+    })
+  ]
+}))
+```
+
+---
+
+## Évolution du métier sélectionné dans le temps
+---
+</p>Remonter <a href="#heatmap">ici</a> pour change de metier</p>
+---
+
+```js
+const evolutionMetier = anneesUniques.map(annee => ({
+  annee,
+  total: data.filter(d => d.metier === selectedMetier && d.annee === annee).length
+}));
+
+display(Plot.plot({
+  height: 400,
+  x: {
+    label: "Année"
+  },
+  y: {
+    label: "Nombre de personnes"
+  },
+  marks: [
+    Plot.line(evolutionMetier, {
+      x: "annee",
+      y: "total"
+    }),
+    Plot.dot(evolutionMetier, {
+      x: "annee",
+      y: "total",
+      tip: true
+    })
+  ]
+}))
+```
+
+---
+
+## Répartition des métiers par année
+
+```js
+const repartitionAnnuelle = anneesUniques.map(annee => ({
+  annee,
+  total: data.filter(d => d.annee === annee).length
+}));
+
+display(Plot.plot({
+  height: 400,
+  x: {
+    label: "Année"
+  },
+  y: {
+    label: "Nombre total d'entrées"
+  },
+  marks: [
+    Plot.areaY(repartitionAnnuelle, {
+      x: "annee",
+      y: "total"
+    }),
+    Plot.line(repartitionAnnuelle, {
+      x: "annee",
+      y: "total"
+    })
+  ]
+}))
+```
+
+---
+
+## Communes les plus représentées
+
+```js
+const topCommunes = Object.entries(
+  data.reduce((acc, d) => {
+    acc[d.commune] = (acc[d.commune] || 0) + 1;
+    return acc;
+  }, {})
+)
+.sort((a, b) => b[1] - a[1])
+.slice(0, 10)
+.map(([commune, total]) => ({ commune, total }));
+
+display(Plot.plot({
+  height: 420,
+  marginLeft: 160,
+  x: {
+    label: "Nombre d'entrées"
+  },
+  y: {
+    label: null
+  },
+  marks: [
+    Plot.barX(topCommunes, {
+      x: "total",
+      y: "commune",
+      sort: { y: "x", reverse: true }
+    }),
+    Plot.text(topCommunes, {
+      x: "total",
+      y: "commune",
+      text: d => d.total,
+      dx: 15
+    })
+  ]
+}))
+```
+
+---
 
 </div>
