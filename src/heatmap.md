@@ -145,9 +145,12 @@ theme: dark
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
 
 ```js
-import L from "npm:leaflet";
-if (L === undefined) console.error("L is undefined");
-import "./components/leaflet-heat.js";
+const L = await import("npm:leaflet").then(async (module) => {
+  const leaflet = module.default;
+  window.L = leaflet; // On rend Leaflet global pour que le plugin le trouve
+  await import("./components/leaflet-heat.js"); // On charge le plugin dynamiquement ensuite
+  return leaflet; // On libère L pour le reste de ta page
+});
 ```
 
 ```js
