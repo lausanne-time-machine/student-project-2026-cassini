@@ -185,7 +185,12 @@ setTimeout(() => {
 ```js
 const topCommunes = Object.entries(
   data.reduce((acc, d) => {
-    acc[d.commune] = (acc[d.commune] || 0) + 1;
+    // Normalisation : majuscules + suppression des préfixes
+    let communeNormalisee = d.commune.toUpperCase()
+      .replace(/^VILLE DE /, '')
+      .replace(/^VILLE D'/, '');
+      
+    acc[communeNormalisee] = (acc[communeNormalisee] || 0) + 1;
     return acc;
   }, {})
 )
