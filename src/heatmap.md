@@ -134,8 +134,8 @@ theme: dark
 </style>
 
 <div class="top-navbar">
-  <a href="/"><span>ℹ️</span> Informations</a>
-  <a href="/methodologie"><span>🔬</span> Méthodologie</a>
+  <!--a href="/"><span>ℹ️</span> Informations</a-->
+  <a href="/"><span>🔬</span> Méthodologie</a>
   <a href="/heatmap" class="active"><span>🗺️</span> Heatmap</a>
   <a href="/statistiques"><span>📊</span> Statistiques</a>
 </div>
