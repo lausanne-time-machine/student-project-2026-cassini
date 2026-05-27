@@ -59,95 +59,38 @@ Ce projet vise à explorer ces données entre 1901 et 1940 afin de mieux compren
 Notre travail s'articule autour de la question suivante :
 </p>
 <blockquote>
-  <strong>Comment les métiers et leur répartition géographique évoluent-ils dans le canton de Vaud entre 1901 et 1940 ?</strong>
+  <strong>« Comment les métiers et leur répartition géographique évoluent-ils dans le canton de Vaud entre 1901 et 1940 ? »</strong>
 </blockquote>
 
----
+<hr>
 
 <h2>Sources des données</h2>
 <p>
-Les données proviennent d'annuaires historiques numérisés contenant :
+Nos sources viennent exclusivement des Annuaires vaudois des années 1901, 1910, 1920, 1930 et 1940. L'objectif était de transformer ces documents historiques bruts en données exploitables.
+</p>
+
+<hr>
+
+<h2>De l'OCR classique à l'Analyse Sémantique</h2>
+<p>
+Initialement, l'extraction reposait sur une méthode OCR (Tesseract). Cette approche a été <strong>abandonnée</strong> face à plusieurs limites techniques :
 </p>
 <ul>
-  <li>Noms</li>
-  <li>Profession</li>
-  <li>Adresses et commune</li>
+  <li>Ponctuation instable et beaucoup d'erreurs.</li>
+  <li>Mise en page complexe où le gras est difficilement détectable.</li>
 </ul>
 <p>
-L'objectif était de transformer ces documents historiques en données exploitables.
+La solution finale s'appuie sur une analyse sémantique par LLM, permettant une conversion directe du format image (.jpg) au format structuré (.json) pour une exploitation immédiate.
 </p>
 
----
+<hr>
 
-<h2>OCR et reconnaissance du texte</h2>
+<h2>Data Pipeline et Traitement</h2>
 <p>
-Nous avons utilisé des outils d'OCR (reconnaissance optique de caractères) afin d'extraire le texte depuis les scans des annuaires.
+Notre chaîne de traitement s'articule en plusieurs étapes clés :
 </p>
-
-<h3>Difficultés rencontrées</h3>
-<ul>
-  <li>Ponctuation instable</li>
-  <li>Qualité variable des scans</li>
-  <li>Mise en page complexe</li>
-  <li>Erreurs sur les caractères anciens</li>
-  <li>Détection difficile du gras et des colonnes</li>
-</ul>
-
----
-
-<h2>Utilisation des LLM</h2>
-<p>
-Après l'OCR, nous avons utilisé des modèles de langage (LLM) pour :
-</p>
-<ul>
-  <li>Structurer les données</li>
-  <li>Identifier les professions</li>
-  <li>Séparer les informations importantes</li>
-  <li>Convertir automatiquement les pages en format CSV</li>
-</ul>
-
----
-
-<h2>Exemple de structure extraite</h2>
-
-<table>
-  <thead>
-    <tr>
-      <th>Nom</th>
-      <th>Commune</th>
-      <th>Profession</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Perey Georges</td>
-      <td>Vufflens-le-Château</td>
-      <td>Syndic</td>
-    </tr>
-    <tr>
-      <td>Delapierre Robert</td>
-      <td>Vufflens-le-Château</td>
-      <td>Secrétaire</td>
-    </tr>
-    <tr>
-      <td>Duruz Ernest</td>
-      <td>Vufflens-le-Château</td>
-      <td>Municipaux</td>
-    </tr>
-    <tr>
-      <td>Lassueur Robert</td>
-      <td>Vugelles-la-Mothe</td>
-      <td>Syndic</td>
-    </tr>
-    <tr>
-      <td>Marchand Maurice</td>
-      <td>Vugelles-la-Mothe</td>
-      <td>Apiculteurs</td>
-    </tr>
-    <tr>
-      <td>Rubattel Lucien</td>
-      <td>Vuibroye</td>
-      <td>Syndic</td>
-    </tr>
-  </tbody>
-</table>
+<ol>
+  <li><strong>Extraction (Gemini 3.5 Flash) :</strong> Conversion des pages JPG en structure hiérarchisée JSON.</li>
+  <li><strong>Gestion du Contexte :</strong> Un script Python gère les dépendances entre les pages. Quand le LLM détecte une information coupée, il ajoute le marqueur "CONTINUATION FROM PREVIOUS" et le script recolle les morceaux.</li>
+  <li><strong>Classification :</strong> Agglomération des métiers en catégories sémantiques cohérentes via des clusters LLM et des scripts par mots-clés.</li>
+  <li><strong>Géocodage :</strong> Résolution des coordonnées de manière automatisée avec Nominatim, couplée à un traitement manuel pour les communes non reconnues ou mal orthographiées

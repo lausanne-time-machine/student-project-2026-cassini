@@ -44,49 +44,69 @@ theme: dark
 
 <div class="content-spacer"></div>
 
-<h1>🔬 Méthodologie</h1>
+<<h1>🔬 Méthodologie</h1>
 
 <h2>Sources des données</h2>
 <p>
-Les données proviennent d'annuaires historiques numérisés contenant :
-</p>
-<ul>
-  <li>Noms</li>
-  <li>Profession</li>
-  <li>Adresses et commune</li>
-</ul>
-<p>
-L'objectif était de transformer ces documents historiques en données exploitables.
+Les données proviennent d'annuaires historiques vaudois numérisés (période 1901-1940) permettant d'observer l'organisation socio-professionnelle de l'époque. L'objectif était de transformer ces documents bruts en données structurées et exploitables.
 </p>
 
 ---
 
-<h2>OCR et reconnaissance du texte</h2>
+<h2>De l'OCR à l'Analyse Sémantique</h2>
 <p>
-Nous avons utilisé des outils d'OCR (reconnaissance optique de caractères) afin d'extraire le texte depuis les scans des annuaires.
+Initialement, l'extraction reposait sur une méthode OCR classique (Tesseract). Cette approche a été <strong>abandonnée</strong> face à plusieurs limites techniques :
 </p>
-
-<h3>Difficultés rencontrées</h3>
 <ul>
-  <li>Ponctuation instable</li>
-  <li>Qualité variable des scans</li>
-  <li>Mise en page complexe</li>
-  <li>Erreurs sur les caractères anciens</li>
-  <li>Détection difficile du gras et des colonnes</li>
+  <li>Ponctuation instable et beaucoup d'erreurs de lecture.</li>
+  <li>Mise en page complexe rendant la détection du texte en gras très difficile.</li>
 </ul>
+<p>
+La solution finale s'appuie sur une <strong>combinaison puissante entre reconnaissance visuelle et traitement intelligent</strong>. Le passage direct des images (JPG) en format structuré (JSON) est désormais assuré par un LLM (Gemini 3.5 Flash).
+</p>
 
 ---
 
-<h2>Utilisation des LLM</h2>
+<h2>Data Pipeline</h2>
+<ol>
+  <li><strong>Extraction (JPG ➔ JSON) :</strong> Utilisation de Gemini pour extraire et hiérarchiser directement les données par commune et profession.</li>
+  <li><strong>Gestion du contexte :</strong> Un script Python gère les coupures entre les pages grâce à un système de <em>flag</em> (le modèle indique <code>CONTINUATION FROM PREVIOUS</code> lorsqu'une information est incomplète).</li>
+  <li><strong>Classification :</strong> Agglomération des métiers en catégories sémantiques cohérentes à l'aide de clusters LLM et de scripts par mots-clés.</li>
+  <li><strong>Géocodage :</strong> Résolution automatisée des coordonnées via <em>Nominatim</em>, complétée par un traitement manuel pour les communes mal orthographiées ou non reconnues.</li>
+</ol>
+
+---
+
+<h2>Comparaison des performances LLM</h2>
+<p>Lors de nos tests sur les mêmes jeux de données, les modèles ont montré des résultats très différents :</p>
+<table>
+  <thead>
+    <tr>
+      <th>Modèle</th>
+      <th>Précision (Accuracy)</th>
+      <th>Extraction (Lignes CSV)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>GPT-4o</strong></td>
+      <td>26%</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td><strong>Gemini 3 Flash</strong></td>
+      <td><strong>100%</strong></td>
+      <td><strong>176</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<h2>Gestion de l'API et mise à l'échelle</h2>
 <p>
-Après l'OCR, nous avons utilisé des modèles de langage (LLM) pour :
+Pour traiter de grands volumes de données (plus de 2000 pages numérisées) tout en contournant les limites d'accès direct, l'utilisation de l'<strong>API Batch</strong> a été mise en place. Cette méthode implique des temps de réponse asynchrones plus lents, mais a permis de diviser les coûts par deux.
 </p>
-<ul>
-  <li>Structurer les données</li>
-  <li>Identifier les professions</li>
-  <li>Séparer les informations importantes</li>
-  <li>Convertir automatiquement les pages en format CSV</li>
-</ul>
 
 ---
 
